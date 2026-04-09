@@ -31,7 +31,7 @@ jobs:
           NEWSBOX_ARTICLE_LIMIT_PER_TAB: 8
           NEWSBOX_LOOKBACK_HOURS: 336
           NEWSBOX_REQUEST_DELAY_MS: 300
-          NEWSBOX_FEED_TIMEOUT_MS: 15000
+          NEWSBOX_FEED_TIMEOUT_MS: 25000
         run: node scripts/update-rss-news.mjs
 
       - name: Commit updated data

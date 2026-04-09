@@ -5,4 +5,4 @@
 현재 포함된 워크플로는 아래와 같다.
 
 - `deploy-pages.yml`: `main` 브랜치 변경 시 GitHub Pages를 배포한다.
-- `update-news.yml`: 3시간마다 공개 RSS/Atom 피드를 다시 읽어 뉴스 데이터를 갱신하고 변경 시 `main`에 커밋한다.
+- `update-news.yml`: 3시간마다 한국어 RSS 피드를 다시 읽어 뉴스 데이터를 갱신하고 변경 시 `main`에 커밋한다.

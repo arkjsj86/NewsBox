@@ -1,10 +1,11 @@
 {
-  "version": "0.3.0-live",
-  "sourceMode": "official-rss",
+  "version": "0.4.0-live",
+  "sourceMode": "korean-rss",
   "sourceProvider": "rss",
-  "lastUpdatedAt": "2026-04-09T07:14:53.674Z",
+  "contentLocale": "ko-KR",
+  "lastUpdatedAt": "2026-04-09T07:59:03.218Z",
   "tabCount": 5,
-  "totalArticleCount": 29,
+  "totalArticleCount": 25,
   "availableTabs": [
     "ai",
     "unity",
@@ -16,56 +17,36 @@
     "lookbackHours": 336,
     "maxItemsPerFeed": 18,
     "articleLimitPerTab": 8,
-    "feedTimeoutMs": 15000
+    "feedTimeoutMs": 25000
   },
-  "feedCount": 9,
-  "successfulFeedCount": 9,
+  "feedCount": 5,
+  "successfulFeedCount": 5,
   "failedFeedCount": 0,
   "successfulFeeds": [
     {
-      "key": "openai-news",
-      "source": "OpenAI News",
-      "itemCount": 10
+      "key": "itworld-kr",
+      "source": "ITWorld Korea",
+      "itemCount": 15
     },
     {
-      "key": "google-ai-blog",
-      "source": "Google AI Blog",
-      "itemCount": 9
-    },
-    {
-      "key": "techcrunch-ai",
-      "source": "TechCrunch AI",
+      "key": "etnews-games",
+      "source": "전자신문 게임",
       "itemCount": 18
     },
     {
-      "key": "unity-blog",
-      "source": "Unity Blog",
-      "itemCount": 1
-    },
-    {
-      "key": "game-developer",
-      "source": "Game Developer",
+      "key": "gameinsight-all",
+      "source": "게임인사이트",
       "itemCount": 18
     },
     {
-      "key": "techcrunch-gaming",
-      "source": "TechCrunch Gaming",
-      "itemCount": 3
+      "key": "gameinsight-ai-blockchain",
+      "source": "게임인사이트 AI/블록체인",
+      "itemCount": 0
     },
     {
-      "key": "polygon",
-      "source": "Polygon",
-      "itemCount": 10
-    },
-    {
-      "key": "playstation-blog",
-      "source": "PlayStation.Blog",
-      "itemCount": 10
-    },
-    {
-      "key": "xbox-wire",
-      "source": "Xbox Wire",
-      "itemCount": 10
+      "key": "khgames-all",
+      "source": "경향게임스",
+      "itemCount": 18
     }
   ],
   "failedFeeds": []
