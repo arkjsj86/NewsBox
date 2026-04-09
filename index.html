@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NewsBox</title>
+    <meta
+      name="description"
+      content="AI, Unity, 게임 산업, 게임 개발, 게임 일반 뉴스를 탭으로 정리해 보여주는 NewsBox 초기 골격"
+    />
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <div class="site-shell">
+      <header class="hero">
+        <div class="hero__copy">
+          <p class="hero__eyebrow">INITIAL SKELETON</p>
+          <h1 class="hero__title">NewsBox</h1>
+          <p class="hero__lead">
+            AI, Unity, 게임 산업, 게임 개발, 게임 일반 뉴스를 탭별로 정리해
+            보여주는 큐레이션 보드입니다.
+          </p>
+          <p class="hero__body">
+            지금 단계에서는 화면 구조, 탭 전환, 정적 데이터 연결 방식을 먼저
+            고정하고 이후에 수집기와 자동 갱신을 붙일 수 있도록 골격을
+            준비합니다.
+          </p>
+        </div>
+
+        <div class="hero__stats">
+          <article class="stat-card">
+            <span class="stat-card__label">고정 탭</span>
+            <strong class="stat-card__value">5개</strong>
+            <p class="stat-card__caption">주제별 큐레이션 시작점</p>
+          </article>
+          <article class="stat-card">
+            <span class="stat-card__label">전체 기사</span>
+            <strong class="stat-card__value" id="totalArticlesStat">-</strong>
+            <p class="stat-card__caption">현재 데이터 기준 합계</p>
+          </article>
+          <article class="stat-card">
+            <span class="stat-card__label">현재 탭 기사</span>
+            <strong class="stat-card__value" id="visibleArticlesStat">-</strong>
+            <p class="stat-card__caption">선택된 탭의 노출 개수</p>
+          </article>
+          <article class="stat-card stat-card--accent">
+            <span class="stat-card__label">데이터 상태</span>
+            <strong class="stat-card__value" id="dataModeStat">불러오는 중</strong>
+            <p class="stat-card__caption">정적 JSON 연결 준비</p>
+          </article>
+        </div>
+      </header>
+
+      <main class="board">
+        <section class="board__toolbar">
+          <div
+            class="tab-list"
+            id="tabList"
+            role="tablist"
+            aria-label="뉴스 주제 탭"
+          ></div>
+
+          <div class="toolbar-status">
+            <div class="toolbar-status__top">
+              <div>
+                <p class="toolbar-status__label">마지막 갱신</p>
+                <strong class="toolbar-status__value" id="lastUpdatedLabel"
+                  >불러오는 중</strong
+                >
+              </div>
+              <button class="refresh-button" id="refreshButton" type="button">
+                데이터 다시 읽기
+              </button>
+            </div>
+            <p class="toolbar-status__message" id="statusLabel">
+              데이터 파일을 준비하고 있습니다.
+            </p>
+            <p class="toolbar-status__meta" id="dataMetaLabel">
+              버전과 데이터 모드 정보를 불러오는 중입니다.
+            </p>
+          </div>
+        </section>
+
+        <section class="section-head">
+          <p class="section-head__kicker" id="sectionKicker">주제 선택</p>
+          <h2 class="section-head__title" id="sectionTitle">
+            뉴스 리스트를 불러오는 중입니다
+          </h2>
+          <p class="section-head__description" id="sectionDescription">
+            탭별 설명과 기사 목록이 여기에 표시됩니다.
+          </p>
+        </section>
+
+        <section
+          class="article-grid"
+          id="articleList"
+          aria-live="polite"
+        ></section>
+
+        <section class="empty-state" id="emptyState" hidden>
+          <p class="empty-state__eyebrow">EMPTY STATE</p>
+          <h3 class="empty-state__title">표시할 기사가 없습니다</h3>
+          <p class="empty-state__body">
+            현재 탭에 연결된 더미 데이터가 없거나, 이후 수집 규칙이 비어 있을 수
+            있습니다.
+          </p>
+        </section>
+      </main>
+
+      <section class="pipeline">
+        <article class="pipeline-card">
+          <span class="pipeline-card__step">01</span>
+          <h3 class="pipeline-card__title">Collect</h3>
+          <p class="pipeline-card__body">
+            탭별 규칙에 맞는 뉴스 데이터를 모으는 단계
+          </p>
+        </article>
+        <article class="pipeline-card">
+          <span class="pipeline-card__step">02</span>
+          <h3 class="pipeline-card__title">Classify &amp; Dedupe</h3>
+          <p class="pipeline-card__body">
+            중복을 줄이고 대표 탭 하나로 정리하는 단계
+          </p>
+        </article>
+        <article class="pipeline-card">
+          <span class="pipeline-card__step">03</span>
+          <h3 class="pipeline-card__title">Publish</h3>
+          <p class="pipeline-card__body">
+            정적 JSON을 갱신해 사이트가 바로 읽을 수 있게 만드는 단계
+          </p>
+        </article>
+      </section>
+    </div>
+
+    <noscript>
+      이 페이지는 탭 전환과 데이터 렌더링을 위해 JavaScript가 필요합니다.
+    </noscript>
+    <script type="module" src="./src/app.js"></script>
+  </body>
+</html>
