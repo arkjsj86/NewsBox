@@ -69,6 +69,7 @@ const GAME_CORE_TERMS = uniqueTerms(["게임", "게이밍", "게이머", "mmorpg
 const GAME_DEVELOPMENT_CORE_TERMS = uniqueTerms(["엔진", "파이프라인", "최적화", "그래픽", "셰이더", "shader", "렌더링", "rendering", "sdk", "미들웨어", "프로토타입", "워크플로", "workflow", "자동화", "에셋", "툴", "툴링", "프로그래밍", "코드", "유니티", "unity", "언리얼엔진", "언리얼", "netcode", "cinemachine", "urp", "hdrp"]);
 const GAME_INDUSTRY_CORE_TERMS = uniqueTerms(["실적", "매출", "영업이익", "투자", "인수", "합병", "상장", "규제", "퍼블리싱", "퍼블리셔", "지분", "서비스 종료", "layoff", "ceo", "다운로드", "흥행", "공모전", "점유율", "매각", "조직", "경영", "브리핑", ...GAME_COMPANY_SIGNAL_TERMS]);
 const ENTERTAINMENT_COMPANY_TERMS = uniqueTerms(["하이브", "sm", "sm엔터테인먼트", "jyp", "yg", "어도어", "빌리프랩", "스타쉽", "플레디스", "큐브", "rbw", "안테나", "판타지오", "울림", "미스틱스토리", "킹콩 by 스타쉽"]);
+const ENTERTAINMENT_COMPANY_SIGNAL_TERMS = uniqueTerms(ENTERTAINMENT_COMPANY_TERMS.filter((term) => !["sm", "yg", "jyp", "rbw"].includes(term)));
 const ENTERTAINMENT_SIGNAL_TERMS = uniqueTerms([
   "연예",
   "연예계",
@@ -112,7 +113,74 @@ const ENTERTAINMENT_SIGNAL_TERMS = uniqueTerms([
   "kbs",
   "ena",
   "채널a",
-  ...ENTERTAINMENT_COMPANY_TERMS,
+  ...ENTERTAINMENT_COMPANY_SIGNAL_TERMS,
+]);
+const ENTERTAINMENT_HARD_ANCHOR_TERMS = uniqueTerms([
+  "연예",
+  "예능",
+  "드라마",
+  "영화",
+  "배우",
+  "감독",
+  "가수",
+  "아이돌",
+  "컴백",
+  "데뷔",
+  "종영",
+  "방영",
+  "시청률",
+  "출연",
+  "주연",
+  "캐스팅",
+  "앨범",
+  "싱글",
+  "음원",
+  "ost",
+  "뮤직비디오",
+  "콘서트",
+  "팬미팅",
+  "공연",
+  "프로듀서",
+  "프로듀싱",
+  "예고편",
+  "티저",
+  "포스터",
+  "시리즈",
+  "칸",
+  "빌보드",
+  "넷플릭스",
+  "티빙",
+  "웨이브",
+  "디즈니+",
+  "쿠팡플레이",
+  "tvn",
+  "jtbc",
+  "mbc",
+  "sbs",
+  "kbs",
+  "ena",
+  "채널a",
+  ...ENTERTAINMENT_COMPANY_SIGNAL_TERMS,
+]);
+const ENTERTAINMENT_NOISE_TERMS = uniqueTerms([
+  "가상자산",
+  "가상화폐",
+  "암호화폐",
+  "비트코인",
+  "이더리움",
+  "토큰",
+  "업비트",
+  "빗썸",
+  "거래소",
+  "체결강도",
+  "주가",
+  "증시",
+  "코스피",
+  "코스닥",
+  "피싱",
+  "악성코드",
+  "인포스틸러",
+  "클릭픽스",
 ]);
 const CRYPTO_NOISE_TERMS = uniqueTerms(["가상자산", "가상화폐", "암호화폐", "비트코인", "이더리움", "코인", "알트코인", "업비트", "빗썸", "거래소", "체결강도", "토큰", "에어드랍"]);
 
@@ -338,10 +406,13 @@ function isRelevantArticle(article) {
   const text = buildContentText(article);
   const scope = analyzeScope(text, article);
   const fromAiFeed = getHintList(article).includes("ai");
+  const fromEntertainmentFeed = getHintList(article).includes("entertainment");
 
   if (!scope.hasAi && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment) return false;
   if (fromAiFeed && !scope.hasAi && !scope.hasUnity) return false;
+  if (fromEntertainmentFeed && scope.entertainmentHardAnchorCount === 0) return false;
   if (scope.hasAiNegation && scope.aiSignalCount === 1 && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment) return false;
+  if (scope.hasEntertainmentNoise && scope.entertainmentHardAnchorCount === 0) return false;
   if (scope.hasCryptoNoise && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment) return false;
   if (scope.hasCryptoNoise && !scope.hasUnity && scope.gameHardAnchorCount === 0 && scope.entertainmentSignalCount === 0) return false;
   if (scope.hasCryptoNoise && !scope.hasUnity && scope.gameCompanyCount === 0 && scope.gameDevelopmentCoreCount === 0 && scope.gameCoreCount < 2 && scope.entertainmentSignalCount === 0) return false;
@@ -359,6 +430,8 @@ function analyzeScope(text, article) {
   const gameDevelopmentCoreCount = countTerms(text, GAME_DEVELOPMENT_CORE_TERMS);
   const gameIndustryCoreCount = countTerms(text, GAME_INDUSTRY_CORE_TERMS);
   const entertainmentSignalCount = countTerms(text, ENTERTAINMENT_SIGNAL_TERMS);
+  const entertainmentHardAnchorCount = countTerms(text, ENTERTAINMENT_HARD_ANCHOR_TERMS);
+  const entertainmentNoiseCount = countTerms(text, ENTERTAINMENT_NOISE_TERMS);
   const cryptoNoiseCount = countTerms(text, CRYPTO_NOISE_TERMS);
   return {
     hasAi: aiSignalCount > 0,
@@ -366,6 +439,7 @@ function analyzeScope(text, article) {
     hasUnity: unitySignalCount > 0,
     hasGame: gameSignalCount > 0 || gameHardAnchorCount > 0 || gameCoreCount > 0 || gameCompanyCount > 0 || gameDevelopmentCoreCount > 0 || gameIndustryCoreCount > 0,
     hasEntertainment: entertainmentSignalCount > 0,
+    hasEntertainmentNoise: entertainmentNoiseCount > 0,
     hasCryptoNoise: cryptoNoiseCount > 0,
     aiSignalCount,
     unitySignalCount,
@@ -376,6 +450,8 @@ function analyzeScope(text, article) {
     gameDevelopmentCoreCount,
     gameIndustryCoreCount,
     entertainmentSignalCount,
+    entertainmentHardAnchorCount,
+    entertainmentNoiseCount,
     cryptoNoiseCount,
   };
 }

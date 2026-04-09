@@ -37,6 +37,14 @@ NewsBox는 `AI`, `Unity`, `게임`, `연예` 4개 탭을 중심으로 한국어 
 - GitHub Pages 배포
 - GitHub Actions 기반 주기 갱신
 
+## 현재 변경 상태
+
+- 탭 구조를 `AI / Unity / 게임 / 연예` 4개로 통일했다.
+- 예전에 분리되어 있던 `게임 산업 / 게임 개발 / 게임 일반` 생성 파일은 제거하고 `게임` 단일 탭으로 정리했다.
+- 연예 RSS 3종을 연결해 `연예` 탭을 실제 데이터로 채우도록 구성했다.
+- 연예 기사 분류는 `영화 / 드라마 / 배우 / 가수 / 예능 / OTT` 같은 핵심 신호를 우선 보고, 코인·증시·보안성 잡음 기사는 제외하도록 보강했다.
+- 메타데이터와 생성 JSON도 4탭 기준으로 다시 맞춰서 GitHub Pages에서 그대로 확인할 수 있는 상태로 정리했다.
+
 ## Tabs
 
 - `AI`: 생성형 AI, 모델, 인프라, 에이전트, 업계 흐름
@@ -90,6 +98,7 @@ NewsBox는 `AI`, `Unity`, `게임`, `연예` 4개 탭을 중심으로 한국어 
 
 - 탭 분류 기준: [docs/tab-classification.md](./docs/tab-classification.md)
 - 초기 구조 제안: [docs/initial-structure.md](./docs/initial-structure.md)
+- 연예 분류 점검 메모: [docs/entertainment-classification-audit.md](./docs/entertainment-classification-audit.md)
 
 ## One Line
 
