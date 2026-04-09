@@ -1,0 +1,63 @@
+name: Update News Data
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-data-update
+  cancel-in-progress: true
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Detect GNews API key
+        id: gnews-key
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: |
+          if [ -z "$GNEWS_API_KEY" ]; then
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+            echo "GNEWS_API_KEY is not configured. Skipping news refresh."
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Update news JSON
+        if: steps.gnews-key.outputs.configured == 'true'
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          NEWSBOX_GNEWS_LANG: en
+          NEWSBOX_GNEWS_MAX_PER_TAB: 10
+          NEWSBOX_ARTICLE_LIMIT_PER_TAB: 8
+          NEWSBOX_LOOKBACK_HOURS: 72
+          NEWSBOX_REQUEST_DELAY_MS: 1200
+        run: node scripts/update-news.mjs
+
+      - name: Commit updated data
+        if: steps.gnews-key.outputs.configured == 'true'
+        run: |
+          if git diff --quiet -- data; then
+            echo "No data changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          git commit -m "Update news data"
+          git push

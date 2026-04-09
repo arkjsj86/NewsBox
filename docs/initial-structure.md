@@ -35,6 +35,7 @@ NewsBox/
     workflows/
       README.md
       deploy-pages.yml
+      update-news.yml
   data/
     tabs/
       ai.json
@@ -50,6 +51,7 @@ NewsBox/
     README.md
     build-pages.mjs
     serve.mjs
+    update-news.mjs
   src/
     app.js
     styles.css
@@ -81,7 +83,7 @@ GitHub Pages에서 바로 진입할 수 있는 초기 진입 파일이다.
 
 정기 갱신 자동화를 담당한다.
 
-현재는 GitHub Pages 배포 워크플로를 포함하고, 이후 뉴스 갱신 워크플로를 추가한다.
+현재는 GitHub Pages 배포 워크플로와 1시간 단위 뉴스 갱신 워크플로를 포함한다.
 
 ### `data`
 
@@ -107,7 +109,7 @@ GitHub Pages에서 바로 진입할 수 있는 초기 진입 파일이다.
 
 데이터 수집과 가공 로직을 담는다.
 
-현재는 로컬 미리보기 서버와 Pages 빌드 스크립트를 포함하고, 이후 실제 수집 스크립트를 추가한다.
+현재는 로컬 미리보기 서버, Pages 빌드 스크립트, 실제 뉴스 수집 스크립트를 포함한다.
 
 ### `src`
 

@@ -1,10 +1,11 @@
-import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
+import { cpSync, existsSync, mkdirSync } from "node:fs";
 import { resolve } from "node:path";
 
 const rootDir = resolve(process.cwd());
-const distDir = resolve(rootDir, "dist");
+const outputDirName = process.env.NEWSBOX_BUILD_DIR?.trim() || "dist";
+const distDir = resolve(rootDir, outputDirName);
 
-recreateDirectory(distDir);
+ensureDirectory(distDir);
 
 copyIntoDist("index.html");
 copyIntoDist("src");
@@ -12,8 +13,7 @@ copyIntoDist("data");
 
 console.log("NewsBox Pages build complete:", distDir);
 
-function recreateDirectory(targetPath) {
-  rmSync(targetPath, { force: true, recursive: true });
+function ensureDirectory(targetPath) {
   mkdirSync(targetPath, { recursive: true });
 }
 
@@ -25,5 +25,5 @@ function copyIntoDist(relativePath) {
     throw new Error(`Missing required path for Pages build: ${relativePath}`);
   }
 
-  cpSync(sourcePath, destinationPath, { recursive: true });
+  cpSync(sourcePath, destinationPath, { force: true, recursive: true });
 }

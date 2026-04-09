@@ -8,3 +8,4 @@
 
 - `build-pages.mjs`: GitHub Pages 배포용 정적 산출물을 `dist` 폴더에 생성한다.
 - `serve.mjs`: 로컬에서 정적 미리보기 서버를 실행한다.
+- `update-news.mjs`: GNews API에서 뉴스를 수집하고 중복을 줄여 `data` 폴더 JSON을 갱신한다.

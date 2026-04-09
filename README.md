@@ -48,7 +48,8 @@ NewsBox는 `AI`, `Unity`, `게임 산업`, `게임 개발`, `게임 일반` 5개
 ## Project Notes
 
 - 현재 사이트는 샘플 JSON 데이터를 읽어 동작한다.
-- 실제 뉴스 수집 소스와 중복 제거 로직은 다음 단계에서 붙일 예정이다.
+- 실제 뉴스 수집은 `GNews API` 기반으로 구현되어 있다.
+- 탭별 검색 결과를 모은 뒤 전역 중복 제거와 대표 탭 재분류를 거쳐 `data` JSON을 갱신한다.
 - 외형은 추후 Google Stitch 같은 도구를 활용해 리디자인할 수 있도록 분리된 구조를 유지하고 있다.
 
 ## Run Locally
@@ -56,6 +57,19 @@ NewsBox는 `AI`, `Unity`, `게임 산업`, `게임 개발`, `게임 일반` 5개
 1. 프로젝트 루트에서 `node scripts/serve.mjs`
 2. 브라우저에서 `http://127.0.0.1:4173` 접속
 3. 탭 전환과 기사 카드 렌더링 확인
+
+실제 뉴스 데이터 갱신을 로컬에서 테스트하려면 `GNEWS_API_KEY` 환경 변수를 설정한 뒤 `node scripts/update-news.mjs`를 실행하면 된다.
+
+## News Automation
+
+- 스케줄 워크플로: [.github/workflows/update-news.yml](./.github/workflows/update-news.yml)
+- 수집 스크립트: [scripts/update-news.mjs](./scripts/update-news.mjs)
+- GitHub Actions 주기: 매시 `17분`
+- 필요한 시크릿: `GNEWS_API_KEY`
+
+워크플로는 1시간마다 뉴스를 수집하고 `data` 폴더가 바뀌면 `main`에 자동 커밋한다. 그 다음 Pages 배포 워크플로가 다시 실행되어 사이트가 갱신된다.
+
+참고로 현재 구현은 5개 탭을 시간당 각각 조회하는 구조라서, 실제 운영에서는 충분한 요청 한도와 실시간 데이터 접근이 가능한 GNews 요금제를 쓰는 편이 안전하다.
 
 ## Deployment
 
