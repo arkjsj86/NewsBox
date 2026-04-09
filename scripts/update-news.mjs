@@ -2,6 +2,10 @@ import { createHash } from "node:crypto";
 import { mkdirSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 
+// Legacy GNews prototype kept for reference only.
+// The current production pipeline uses scripts/update-rss-news.mjs with 4 tabs:
+// AI / Unity / 게임 / 연예.
+
 const ROOT_DIR = resolve(process.cwd());
 const DATA_DIR = resolve(ROOT_DIR, "data");
 const TABS_DIR = resolve(DATA_DIR, "tabs");

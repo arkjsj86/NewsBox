@@ -1,17 +1,16 @@
 {
-  "version": "0.4.0-live",
+  "version": "0.5.0-live",
   "sourceMode": "korean-rss",
   "sourceProvider": "rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-09T12:02:37.546Z",
-  "tabCount": 5,
+  "lastUpdatedAt": "2026-04-09T13:11:58.999Z",
+  "tabCount": 4,
   "totalArticleCount": 25,
   "availableTabs": [
     "ai",
     "unity",
-    "game-industry",
-    "game-development",
-    "game-general"
+    "game",
+    "entertainment"
   ],
   "requestConfig": {
     "lookbackHours": 336,
@@ -19,8 +18,8 @@
     "articleLimitPerTab": 8,
     "feedTimeoutMs": 25000
   },
-  "feedCount": 5,
-  "successfulFeedCount": 5,
+  "feedCount": 8,
+  "successfulFeedCount": 8,
   "failedFeedCount": 0,
   "successfulFeeds": [
     {
@@ -46,6 +45,21 @@
     {
       "key": "khgames-all",
       "source": "경향게임스",
+      "itemCount": 18
+    },
+    {
+      "key": "sportschosun-entertainment",
+      "source": "스포츠조선 연예",
+      "itemCount": 18
+    },
+    {
+      "key": "newsis-entertainment",
+      "source": "뉴시스 연예",
+      "itemCount": 18
+    },
+    {
+      "key": "sportsdonga-entertainment",
+      "source": "스포츠동아 엔터테인먼트",
       "itemCount": 18
     }
   ],
