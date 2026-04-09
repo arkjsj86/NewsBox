@@ -3,7 +3,7 @@ const TAB_CONFIG = [
     key: "ai",
     label: "AI",
     kicker: "Artificial Intelligence",
-    description: "생성형 AI, 인프라, 정책, 투자 흐름을 빠르게 확인하는 탭",
+    description: "생성형 AI, 모델, 인프라, 업계 흐름을 빠르게 확인하는 탭",
   },
   {
     key: "unity",
@@ -12,32 +12,26 @@ const TAB_CONFIG = [
     description: "Unity 엔진과 생태계 변화, 정책, 툴 업데이트를 모아보는 탭",
   },
   {
-    key: "game-industry",
-    label: "게임 산업",
-    kicker: "Business & Market",
-    description: "게임사 실적, 투자, 퍼블리싱, 규제 같은 산업 중심 뉴스를 다루는 탭",
+    key: "game",
+    label: "게임",
+    kicker: "Play, Build & Business",
+    description: "게임 출시, 업데이트, 개발, 산업 이슈를 한 번에 모아보는 탭",
   },
   {
-    key: "game-development",
-    label: "게임 개발",
-    kicker: "Craft & Workflow",
-    description: "게임 제작 기술, 파이프라인, 최적화, 툴링에 집중하는 탭",
-  },
-  {
-    key: "game-general",
-    label: "게임 일반",
-    kicker: "Player & Culture",
-    description: "신작, 업데이트, 이벤트, 대중적 화제를 확인하는 탭",
+    key: "entertainment",
+    label: "연예",
+    kicker: "Stars, Shows & OTT",
+    description: "배우, 아이돌, 드라마, 영화, 방송, OTT 화제를 모아보는 탭",
   },
 ];
 
 const FALLBACK_DATA = {
   metadata: {
-    version: "0.1.0-sample",
+    version: "0.5.0-sample",
     sourceMode: "fallback",
     lastUpdatedAt: "2026-04-09T05:00:00Z",
-    tabCount: 5,
-    totalArticleCount: 5,
+    tabCount: 4,
+    totalArticleCount: 4,
   },
   tabs: {
     ai: {
@@ -70,48 +64,33 @@ const FALLBACK_DATA = {
         },
       ],
     },
-    "game-industry": {
-      tab: "game-industry",
+    game: {
+      tab: "game",
       lastUpdatedAt: "2026-04-09T05:00:00Z",
       articles: [
         {
-          id: "industry-fallback-1",
-          title: "샘플: 게임 산업 탭의 비즈니스 뉴스 대체 카드",
-          url: "https://example.com/newsbox/game-industry-fallback-1",
-          source: "Sample Market Line",
+          id: "game-fallback-1",
+          title: "샘플: 게임 탭의 출시·개발·산업 이슈를 함께 보여주는 카드",
+          url: "https://example.com/newsbox/game-fallback-1",
+          source: "Sample Game Desk",
           publishedAt: "2026-04-09T03:40:00Z",
-          summary: "정적 파일 구조를 먼저 맞춰두기 위한 최소 샘플입니다.",
-          tab: "game-industry",
+          summary: "세 갈래로 나뉘어 있던 게임 기사를 하나의 탭에서 읽는 새 구조를 점검하기 위한 샘플입니다.",
+          tab: "game",
         },
       ],
     },
-    "game-development": {
-      tab: "game-development",
+    entertainment: {
+      tab: "entertainment",
       lastUpdatedAt: "2026-04-09T05:00:00Z",
       articles: [
         {
-          id: "dev-fallback-1",
-          title: "샘플: 게임 개발 탭에 연결되는 기술 기사 카드",
-          url: "https://example.com/newsbox/game-development-fallback-1",
-          source: "Sample Dev Brief",
-          publishedAt: "2026-04-09T03:10:00Z",
-          summary: "기술 기사 렌더링과 탭별 설명 영역을 점검하기 위한 데이터입니다.",
-          tab: "game-development",
-        },
-      ],
-    },
-    "game-general": {
-      tab: "game-general",
-      lastUpdatedAt: "2026-04-09T05:00:00Z",
-      articles: [
-        {
-          id: "general-fallback-1",
-          title: "샘플: 게임 일반 탭의 출시 소식 대체 기사",
-          url: "https://example.com/newsbox/game-general-fallback-1",
-          source: "Sample Player Feed",
+          id: "entertainment-fallback-1",
+          title: "샘플: 연예 탭의 방송·드라마·음악 소식 대체 기사",
+          url: "https://example.com/newsbox/entertainment-fallback-1",
+          source: "Sample Entertainment Wire",
           publishedAt: "2026-04-09T02:55:00Z",
-          summary: "파일 기반 데이터가 준비되지 않은 환경에서도 전체 구조를 확인할 수 있습니다.",
-          tab: "game-general",
+          summary: "연예 RSS 연결 전에도 네 번째 탭 레이아웃과 카드 스타일을 확인할 수 있게 두는 샘플입니다.",
+          tab: "entertainment",
         },
       ],
     },

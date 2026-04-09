@@ -1,5 +1,8 @@
 # NewsBox 초기 구조 제안
 
+> 이 문서는 프로젝트 초기에 정리한 5탭 구조 제안 기록이다.
+> 현재 운영 중인 실제 구조는 `AI / Unity / 게임 / 연예` 4개 탭이며, 최신 기준은 `README.md`와 `docs/tab-classification.md`를 따른다.
+
 ## 목표
 
 이 문서는 NewsBox를 GitHub 리포지토리 중심으로 운영하기 위한 초기 구조를 제안한다.

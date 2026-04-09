@@ -2,6 +2,9 @@
 
 이 폴더에는 뉴스 수집, 정규화, 중복 제거, 탭 분류, JSON 생성 스크립트가 들어 있다.
 
+> 현재 운영 기준 스크립트는 `update-rss-news.mjs`이며, 탭 구조는 `AI / Unity / 게임 / 연예` 4개다.
+> `update-news.mjs`는 이전 GNews 기반 프로토타입으로 참고용으로만 남겨둔 파일이다.
+
 ## 현재 포함된 스크립트
 
 - `build-pages.mjs`: GitHub Pages 배포용 정적 산출물을 `dist` 폴더에 생성한다.
