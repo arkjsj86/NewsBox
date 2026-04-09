@@ -1,32 +1,45 @@
 {
   "tab": "game-development",
-  "lastUpdatedAt": "2026-04-09T05:00:00Z",
+  "label": "게임 개발",
+  "description": "게임 제작 기술, 파이프라인, 최적화, 툴링에 집중하는 탭",
+  "sourceMode": "official-rss",
+  "lastUpdatedAt": "2026-04-09T07:14:53.674Z",
+  "articleCount": 4,
   "articles": [
     {
-      "id": "game-development-001",
-      "title": "게임 빌드 자동화 파이프라인이 QA 속도를 끌어올리는 방법",
-      "url": "https://example.com/newsbox/game-development-001",
-      "source": "Dev Workflow",
-      "publishedAt": "2026-04-09T04:25:00Z",
-      "summary": "빌드 자동화, 배포 확인, 테스트 반복 시간을 줄이는 흐름을 다루는 게임 개발 중심 샘플 기사입니다.",
+      "id": "801de498f109259b",
+      "title": "Finding inspiration and a bit of hope in CorgiSpace",
+      "url": "https://www.gamedeveloper.com/design/finding-inspiration-and-a-bit-of-hope-in-corgispace",
+      "source": "Game Developer",
+      "publishedAt": "2026-04-08T14:23:53.000Z",
+      "summary": "Making 'small games with short legs' is helping me feel alive again.",
       "tab": "game-development"
     },
     {
-      "id": "game-development-002",
-      "title": "렌더링 최적화와 메모리 관리가 멀티 플랫폼 출시에서 중요해지는 이유",
-      "url": "https://example.com/newsbox/game-development-002",
-      "source": "Graphics Note",
-      "publishedAt": "2026-04-09T02:20:00Z",
-      "summary": "그래픽스 품질과 성능 예산을 동시에 맞춰야 하는 개발 현실을 설명하는 예시 데이터입니다.",
+      "id": "51e254f596f75055",
+      "title": "People of Note's hook-y approach to designing a turn-based musical RPG",
+      "url": "https://www.gamedeveloper.com/design/behind-people-of-note-s-methods-for-luring-players-into-enjoying-a-musical",
+      "source": "Game Developer",
+      "publishedAt": "2026-04-06T16:33:07.000Z",
+      "summary": "'I think that people should be able to play how they want. That was a big focus in People of Note.'",
       "tab": "game-development"
     },
     {
-      "id": "game-development-003",
-      "title": "아트 파이프라인 협업 구조를 재정비하는 중형 개발팀의 실무 포인트",
-      "url": "https://example.com/newsbox/game-development-003",
-      "source": "Studio Craft",
-      "publishedAt": "2026-04-09T00:50:00Z",
-      "summary": "아트와 엔지니어링 팀 사이의 반복 비용을 줄이는 워크플로우 개선 주제를 담은 샘플 기사입니다.",
+      "id": "07f94c8dc49dd3e1",
+      "title": "How can your game win the 'attention war?' Turn to storytelling",
+      "url": "https://www.gamedeveloper.com/design/how-can-your-game-win-the-attention-war-focus-on-its-writing",
+      "source": "Game Developer",
+      "publishedAt": "2026-04-06T13:56:24.000Z",
+      "summary": "'Your audience is capable of nuance.'",
+      "tab": "game-development"
+    },
+    {
+      "id": "7f427e5d5753a170",
+      "title": "On the ground at GDC: how are devs responding to industry calamity?",
+      "url": "https://www.gamedeveloper.com/business/on-the-ground-at-gdc-how-are-devs-responding-to-industry-turmoil-",
+      "source": "Game Developer",
+      "publishedAt": "2026-04-02T13:59:34.000Z",
+      "summary": "Developers describe how they're handling hard times.",
       "tab": "game-development"
     }
   ]

@@ -1,32 +1,18 @@
 {
   "tab": "unity",
-  "lastUpdatedAt": "2026-04-09T05:00:00Z",
+  "label": "Unity",
+  "description": "Unity 엔진과 생태계 변화, 정책, 툴 업데이트를 모아보는 탭",
+  "sourceMode": "official-rss",
+  "lastUpdatedAt": "2026-04-09T07:14:53.674Z",
+  "articleCount": 1,
   "articles": [
     {
-      "id": "unity-001",
-      "title": "Unity 엔진 업데이트가 렌더링 파이프라인에 주는 변화 정리",
-      "url": "https://example.com/newsbox/unity-001",
-      "source": "Engine Scope",
-      "publishedAt": "2026-04-09T04:10:00Z",
-      "summary": "렌더링 관련 개선 사항이 개발팀의 제작 워크플로우에 어떤 식으로 연결되는지 살펴보는 샘플 기사입니다.",
-      "tab": "unity"
-    },
-    {
-      "id": "unity-002",
-      "title": "Unity 생태계 툴링 강화가 모바일 팀 생산성에 미치는 기대감",
-      "url": "https://example.com/newsbox/unity-002",
-      "source": "Creator Pipeline",
-      "publishedAt": "2026-04-09T02:50:00Z",
-      "summary": "Unity 중심 팀들이 툴체인 확장과 통합 기능을 어떤 관점에서 바라보는지 보여주는 예시입니다.",
-      "tab": "unity"
-    },
-    {
-      "id": "unity-003",
-      "title": "Asset Store와 패키지 전략이 Unity 프로젝트 초기 세팅을 바꾸는 흐름",
-      "url": "https://example.com/newsbox/unity-003",
-      "source": "Toolkit Watch",
-      "publishedAt": "2026-04-09T00:35:00Z",
-      "summary": "프로토타입과 상용 개발 사이에서 Unity 패키지 활용 방식이 어떻게 달라지는지 다루는 샘플 데이터입니다.",
+      "id": "46c4e9eb7390aa50",
+      "title": "Games made with Unity: March 2026 in review",
+      "url": "https://unity.com/blog/games-made-with-unity-march-2026-releases",
+      "source": "Unity Blog",
+      "publishedAt": "2026-04-01T00:00:00.000Z",
+      "summary": "March is always a busy month in games between the Game Developer’s Conference, the Steam Spring Sale, and Steam Next Fest. In addition to hundreds of incredible Next Fest demos, we also saw the launch of many top-tier...",
       "tab": "unity"
     }
   ]

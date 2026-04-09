@@ -5,9 +5,9 @@
   "type": "module",
   "scripts": {
     "build:pages": "node scripts/build-pages.mjs",
-    "update:news": "node scripts/update-news.mjs",
+    "update:news": "node scripts/update-rss-news.mjs",
     "preview": "node scripts/serve.mjs",
     "start": "node scripts/serve.mjs",
-    "check": "node --check src/app.js && node --check scripts/build-pages.mjs && node --check scripts/update-news.mjs"
+    "check": "node --check src/app.js && node --check scripts/build-pages.mjs && node --check scripts/update-rss-news.mjs"
   }
 }

@@ -1,14 +1,72 @@
 {
-  "version": "0.1.0-sample",
-  "sourceMode": "sample-json",
-  "lastUpdatedAt": "2026-04-09T05:00:00Z",
+  "version": "0.3.0-live",
+  "sourceMode": "official-rss",
+  "sourceProvider": "rss",
+  "lastUpdatedAt": "2026-04-09T07:14:53.674Z",
   "tabCount": 5,
-  "totalArticleCount": 15,
+  "totalArticleCount": 29,
   "availableTabs": [
     "ai",
     "unity",
     "game-industry",
     "game-development",
     "game-general"
-  ]
+  ],
+  "requestConfig": {
+    "lookbackHours": 336,
+    "maxItemsPerFeed": 18,
+    "articleLimitPerTab": 8,
+    "feedTimeoutMs": 15000
+  },
+  "feedCount": 9,
+  "successfulFeedCount": 9,
+  "failedFeedCount": 0,
+  "successfulFeeds": [
+    {
+      "key": "openai-news",
+      "source": "OpenAI News",
+      "itemCount": 10
+    },
+    {
+      "key": "google-ai-blog",
+      "source": "Google AI Blog",
+      "itemCount": 9
+    },
+    {
+      "key": "techcrunch-ai",
+      "source": "TechCrunch AI",
+      "itemCount": 18
+    },
+    {
+      "key": "unity-blog",
+      "source": "Unity Blog",
+      "itemCount": 1
+    },
+    {
+      "key": "game-developer",
+      "source": "Game Developer",
+      "itemCount": 18
+    },
+    {
+      "key": "techcrunch-gaming",
+      "source": "TechCrunch Gaming",
+      "itemCount": 3
+    },
+    {
+      "key": "polygon",
+      "source": "Polygon",
+      "itemCount": 10
+    },
+    {
+      "key": "playstation-blog",
+      "source": "PlayStation.Blog",
+      "itemCount": 10
+    },
+    {
+      "key": "xbox-wire",
+      "source": "Xbox Wire",
+      "itemCount": 10
+    }
+  ],
+  "failedFeeds": []
 }

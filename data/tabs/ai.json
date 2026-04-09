@@ -1,32 +1,81 @@
 {
   "tab": "ai",
-  "lastUpdatedAt": "2026-04-09T05:00:00Z",
+  "label": "AI",
+  "description": "생성형 AI, 인프라, 정책, 투자 흐름을 빠르게 확인하는 탭",
+  "sourceMode": "official-rss",
+  "lastUpdatedAt": "2026-04-09T07:14:53.674Z",
+  "articleCount": 8,
   "articles": [
     {
-      "id": "ai-001",
-      "title": "AI 반도체 투자 확대가 클라우드 전략 재편으로 이어지는 흐름",
-      "url": "https://example.com/newsbox/ai-001",
-      "source": "Future Compute",
-      "publishedAt": "2026-04-09T04:40:00Z",
-      "summary": "주요 기업들이 AI 인프라 경쟁을 강화하면서 반도체와 클라우드 투자 전략이 함께 움직이는 분위기를 보여주는 샘플 기사입니다.",
+      "id": "cd8f69ff489870ac",
+      "title": "Poke makes using AI agents as easy as sending a text",
+      "url": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-08T21:05:13.000Z",
+      "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
       "tab": "ai"
     },
     {
-      "id": "ai-002",
-      "title": "생성형 AI 규제 초안이 기업용 서비스 출시 속도에 미칠 영향",
-      "url": "https://example.com/newsbox/ai-002",
-      "source": "Policy Grid",
-      "publishedAt": "2026-04-09T03:25:00Z",
-      "summary": "AI 정책과 규제가 제품 출시 일정과 기업 의사결정에 어떤 압력을 주는지 정리하는 예시 데이터입니다.",
+      "id": "241a8f6de524fcae",
+      "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+      "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-08T20:09:14.000Z",
+      "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
       "tab": "ai"
     },
     {
-      "id": "ai-003",
-      "title": "멀티모달 AI 도구가 업무 자동화 시장에서 차별화 포인트를 찾는 방식",
-      "url": "https://example.com/newsbox/ai-003",
-      "source": "AI Briefing",
-      "publishedAt": "2026-04-09T01:55:00Z",
-      "summary": "텍스트를 넘어 이미지와 음성을 결합하는 AI 서비스들이 어떤 방식으로 경쟁력을 설명하는지 보여줍니다.",
+      "id": "cd83d9c69911b5b8",
+      "title": "Steven Soderbergh claims AI can build \"dream spaces\" for movies",
+      "url": "https://www.polygon.com/steven-soderbergh-ai-filmmaking-yoko-ono-john-lennon-movie/",
+      "source": "Polygon",
+      "publishedAt": "2026-04-08T19:13:11.000Z",
+      "summary": "Ocean's 11 director is a proponent of generative AI, and will use it to power a new John Lennon-Yoko Ono movie and future films.",
+      "tab": "ai"
+    },
+    {
+      "id": "711477931b312556",
+      "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+      "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-08T18:23:06.000Z",
+      "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+      "tab": "ai"
+    },
+    {
+      "id": "0516516141424969",
+      "title": "Astropad’s Workbench reimagines remote desktop for AI agents, not IT support",
+      "url": "https://techcrunch.com/2026/04/08/astropads-workbench-reimagines-remote-desktop-for-ai-agents-not-it-support/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-08T16:01:09.000Z",
+      "summary": "Astropad’s Workbench lets users remotely monitor and control AI agents on Mac Minis from iPhone or iPad, with low-latency streaming and mobile access.",
+      "tab": "ai"
+    },
+    {
+      "id": "68888d3ed659e45d",
+      "title": "OpenAI releases a new safety blueprint to address the rise in child sexual exploitation",
+      "url": "https://techcrunch.com/2026/04/08/openai-releases-a-new-safety-blueprint-to-address-the-rise-in-child-sexual-exploitation/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-08T15:23:44.000Z",
+      "summary": "OpenAI's new Child Safety Blueprint aims to tackle the alarming rise in child sexual exploitation linked to advancements in AI.",
+      "tab": "ai"
+    },
+    {
+      "id": "05c4901766225642",
+      "title": "Databricks co-founder wins prestigious ACM award, says ‘AGI is here already’",
+      "url": "https://techcrunch.com/2026/04/08/databricks-matei-zaharia-wins-acm-computing-prize-agi/",
+      "source": "TechCrunch AI",
+      "publishedAt": "2026-04-08T15:00:00.000Z",
+      "summary": "Matei Zaharia has won the top honor from the Association for Computing Machinery. Now he's working on AI for research and says AGI is simply misunderstood.",
+      "tab": "ai"
+    },
+    {
+      "id": "7bcd68b5d5cb7fb5",
+      "title": "The next phase of enterprise AI",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai",
+      "source": "OpenAI News",
+      "publishedAt": "2026-04-08T14:00:00.000Z",
+      "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
       "tab": "ai"
     }
   ]
