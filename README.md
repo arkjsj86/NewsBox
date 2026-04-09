@@ -35,7 +35,7 @@ NewsBox는 `AI`, `Unity`, `게임 산업`, `게임 개발`, `게임 일반` 5개
 - 탭별 뉴스 리스트 표시
 - 정적 JSON 기반 렌더링
 - GitHub Pages 배포
-- 추후 1시간 단위 자동 갱신 확장 준비
+- 3시간 단위 자동 갱신 운영
 
 ## Tabs
 
@@ -64,10 +64,10 @@ NewsBox는 `AI`, `Unity`, `게임 산업`, `게임 개발`, `게임 일반` 5개
 
 - 스케줄 워크플로: [.github/workflows/update-news.yml](./.github/workflows/update-news.yml)
 - 수집 스크립트: [scripts/update-news.mjs](./scripts/update-news.mjs)
-- GitHub Actions 주기: 매시 `17분`
+- GitHub Actions 주기: `3시간마다 17분`
 - 필요한 시크릿: `GNEWS_API_KEY`
 
-워크플로는 1시간마다 뉴스를 수집하고 `data` 폴더가 바뀌면 `main`에 자동 커밋한다. 그 다음 Pages 배포 워크플로가 다시 실행되어 사이트가 갱신된다.
+워크플로는 3시간마다 뉴스를 수집하고 `data` 폴더가 바뀌면 `main`에 자동 커밋한다. 그 다음 Pages 배포 워크플로가 다시 실행되어 사이트가 갱신된다.
 
 참고로 현재 구현은 5개 탭을 시간당 각각 조회하는 구조라서, 실제 운영에서는 충분한 요청 한도와 실시간 데이터 접근이 가능한 GNews 요금제를 쓰는 편이 안전하다.
 
