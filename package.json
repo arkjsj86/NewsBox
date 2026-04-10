@@ -6,9 +6,10 @@
   "scripts": {
     "build:pages": "node scripts/build-pages.mjs",
     "update:news": "node scripts/update-rss-news.mjs",
+    "update:standings": "node scripts/update-esports-standings.mjs",
     "preview": "node scripts/serve.mjs",
     "start": "node scripts/serve.mjs",
-    "check": "node --check src/app.js && node --check scripts/build-pages.mjs && node --check scripts/update-rss-news.mjs"
+    "check": "node --check src/app.js && node --check scripts/build-pages.mjs && node --check scripts/update-rss-news.mjs && node --check scripts/update-esports-standings.mjs && node --check scripts/lib/esports-standings.mjs"
   },
   "devDependencies": {
     "sharp": "^0.34.5"
