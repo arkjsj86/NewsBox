@@ -26,6 +26,13 @@ const TAB_CONFIG = [
     heroLead: "드라마, 영화, 음악, 방송 소식을 부드러운 에디토리얼 톤으로 정리합니다.",
   },
   {
+    key: "esports",
+    label: "e스포츠",
+    kicker: "Competitive Play & Schedule",
+    description: "LCK, MSI, Worlds 일정과 e스포츠 기사를 한 흐름으로 확인하는 탭",
+    heroLead: "LCK 일정이 우선 표시되고, 국제전 기간에는 MSI와 Worlds 스포트라이트로 자연스럽게 전환됩니다.",
+  },
+  {
     key: "unity",
     label: "Unity",
     kicker: "Engine & Ecosystem",
@@ -36,13 +43,13 @@ const TAB_CONFIG = [
 
 const FALLBACK_DATA = {
   metadata: {
-    version: "0.6.0-fallback",
+    version: "0.7.0-fallback",
     sourceMode: "fallback",
     sourceProvider: "sample",
     contentLocale: "ko-KR",
     lastUpdatedAt: "2026-04-09T15:00:00Z",
-    tabCount: 4,
-    totalArticleCount: 4,
+    tabCount: 5,
+    totalArticleCount: 5,
     requestConfig: {
       articleLimitPerTab: 30,
     },
@@ -118,12 +125,111 @@ const FALLBACK_DATA = {
         },
       ],
     },
+    esports: {
+      tab: "esports",
+      label: "e스포츠",
+      lastUpdatedAt: "2026-04-10T03:00:00Z",
+      articleCount: 1,
+      articles: [
+        {
+          id: "esports-fallback-1",
+          title: "샘플: e스포츠 탭은 경기 일정 스포트라이트와 기사 리스트를 함께 보여줍니다",
+          url: "https://example.com/newsbox/esports-fallback-1",
+          source: "Sample Esports Wire",
+          publishedAt: "2026-04-10T02:20:00Z",
+          summary: "일정 데이터와 기사 카드가 동시에 로딩되지 않더라도 e스포츠 탭 전용 레이아웃이 무너지지 않도록 준비한 예비 기사입니다.",
+          tab: "esports",
+        },
+      ],
+    },
+    },
+  spotlights: {
+    esports: {
+      tab: "esports",
+      type: "league-schedule",
+      source: "LoL Esports",
+      sourceMode: "fallback",
+      lastUpdatedAt: "2026-04-10T03:00:00Z",
+      activeLeagueKey: "lck",
+      activeLeagueLabel: "LCK",
+      title: "Upcoming Matches",
+      description:
+        "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.",
+      sourceUrl: "https://lolesports.com/en-US/leagues/lck",
+      selectionRule: "LCK 우선 · 국제전 자동 전환",
+      primaryTournamentName: "Split 2 2026",
+      primaryBlockName: "Week 2",
+      matchCount: 4,
+      matches: [
+        {
+          id: "esports-match-fallback-1",
+          leagueKey: "lck",
+          leagueLabel: "LCK",
+          tournamentName: "Split 2 2026",
+          blockName: "Week 2",
+          startTime: "2026-04-10T08:00:00Z",
+          state: "unstarted",
+          matchType: "Bo3",
+          teams: [
+            { name: "DN SOOPers", code: "DNS" },
+            { name: "T1", code: "T1" },
+          ],
+          sourceUrl: "https://lolesports.com/en-US/leagues/lck",
+        },
+        {
+          id: "esports-match-fallback-2",
+          leagueKey: "lck",
+          leagueLabel: "LCK",
+          tournamentName: "Split 2 2026",
+          blockName: "Week 2",
+          startTime: "2026-04-10T10:00:00Z",
+          state: "unstarted",
+          matchType: "Bo3",
+          teams: [
+            { name: "Hanwha Life Esports", code: "HLE" },
+            { name: "BNK FEARX", code: "BFX" },
+          ],
+          sourceUrl: "https://lolesports.com/en-US/leagues/lck",
+        },
+        {
+          id: "esports-match-fallback-3",
+          leagueKey: "lck",
+          leagueLabel: "LCK",
+          tournamentName: "Split 2 2026",
+          blockName: "Week 2",
+          startTime: "2026-04-11T08:00:00Z",
+          state: "unstarted",
+          matchType: "Bo3",
+          teams: [
+            { name: "NONGSHIM RED FORCE", code: "NS" },
+            { name: "KIWOOM DRX", code: "DRX" },
+          ],
+          sourceUrl: "https://lolesports.com/en-US/leagues/lck",
+        },
+        {
+          id: "esports-match-fallback-4",
+          leagueKey: "lck",
+          leagueLabel: "LCK",
+          tournamentName: "Split 2 2026",
+          blockName: "Week 2",
+          startTime: "2026-04-11T10:00:00Z",
+          state: "unstarted",
+          matchType: "Bo3",
+          teams: [
+            { name: "Dplus KIA", code: "DK" },
+            { name: "Gen.G Esports", code: "GEN" },
+          ],
+          sourceUrl: "https://lolesports.com/en-US/leagues/lck",
+        },
+      ],
+    },
   },
 };
 
 const state = {
   metadata: null,
   datasets: new Map(),
+  spotlights: new Map(),
   activeTab: getValidTabKey(window.location.hash.replace("#", "")) || "ai",
   isFallback: false,
   isLoading: false,
@@ -137,6 +243,8 @@ const elements = {
   sectionTitle: document.querySelector("#sectionTitle"),
   sectionDescription: document.querySelector("#sectionDescription"),
   heroSummary: document.querySelector("#heroSummary"),
+  heroSchedule: document.querySelector("#heroSchedule"),
+  heroScheduleList: document.querySelector("#heroScheduleList"),
   heroPanelHeadline: document.querySelector("#heroPanelHeadline"),
   heroPanelBody: document.querySelector("#heroPanelBody"),
   heroPanelSource: document.querySelector("#heroPanelSource"),
@@ -227,10 +335,16 @@ function render() {
     articles: [],
   };
   const articles = getSortedArticles(dataset.articles);
-  const spotlightArticle = articles[0] ?? null;
-  const feedArticles = spotlightArticle ? articles.slice(1) : articles;
+  const isEsportsTab = activeConfig.key === "esports";
+  const esportsSpotlight = isEsportsTab ? state.spotlights.get("esports") ?? null : null;
+  const spotlightArticle = isEsportsTab ? null : articles[0] ?? null;
+  const feedArticles = isEsportsTab ? articles : spotlightArticle ? articles.slice(1) : articles;
   const totalArticles = getTotalArticleCount();
-  const visibleArticles = spotlightArticle ? feedArticles.length + 1 : feedArticles.length;
+  const visibleArticles = isEsportsTab
+    ? feedArticles.length
+    : spotlightArticle
+      ? feedArticles.length + 1
+      : feedArticles.length;
   const lastUpdatedAt = dataset.lastUpdatedAt ?? state.metadata?.lastUpdatedAt;
   const nextUpdateAt = getNextScheduledUpdate(new Date());
 
@@ -248,13 +362,20 @@ function render() {
   elements.dataModeStat.textContent = getDataModeLabel();
   elements.dataMetaLabel.textContent = buildMetaLine();
 
-  applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt);
+  if (isEsportsTab) {
+    applyEsportsHeroContent(activeConfig, esportsSpotlight, feedArticles.length, lastUpdatedAt);
+  } else {
+    applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt);
+  }
   setStatus(getStatusMessage());
   renderTabs();
   renderArticles(feedArticles, activeConfig.label);
 }
 
 function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt) {
+  elements.heroSchedule.hidden = true;
+  elements.heroScheduleList.replaceChildren();
+
   if (!spotlightArticle) {
     elements.heroTitle.textContent = `${activeConfig.label} 탭을 준비하고 있습니다`;
     elements.heroSummary.textContent = activeConfig.heroLead;
@@ -293,6 +414,95 @@ function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpda
   elements.spotlightLink.textContent = "원문 보기";
 }
 
+function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpdatedAt) {
+  const matches = getSortedMatches(spotlight?.matches ?? []);
+
+  elements.heroSchedule.hidden = false;
+  renderHeroSchedule(matches);
+  elements.heroTitle.textContent = spotlight?.title || "Upcoming Matches";
+  elements.sectionDescription.textContent = spotlight?.description || activeConfig.description;
+  elements.heroSummary.textContent = buildEsportsHeroSummary(spotlight, articleCount);
+  elements.heroPanelHeadline.textContent = buildEsportsHeroPanelHeadline(spotlight);
+  elements.heroPanelBody.textContent = buildEsportsHeroPanelBody(spotlight, articleCount);
+  elements.heroPanelSource.textContent =
+    spotlight?.source && spotlight?.activeLeagueLabel
+      ? `${spotlight.source} · ${spotlight.activeLeagueLabel}`
+      : "LoL Esports";
+  elements.heroPanelTime.textContent = formatDateTime(spotlight?.lastUpdatedAt ?? lastUpdatedAt);
+  elements.spotlightLink.href = spotlight?.sourceUrl || "#articleFeed";
+  elements.spotlightLink.target = spotlight?.sourceUrl ? "_blank" : "_self";
+  if (spotlight?.sourceUrl) {
+    elements.spotlightLink.rel = "noreferrer";
+  } else {
+    elements.spotlightLink.removeAttribute("rel");
+  }
+  elements.spotlightLink.textContent = "공식 일정 보기";
+}
+
+function renderHeroSchedule(matches) {
+  elements.heroScheduleList.replaceChildren();
+
+  if (matches.length === 0) {
+    const emptyCard = document.createElement("article");
+    emptyCard.className = "hero-match hero-match--empty";
+    emptyCard.innerHTML = `
+      <h3 class="hero-match__title">일정 데이터를 준비하고 있습니다</h3>
+      <p class="hero-match__hint">
+        공식 LoL Esports 일정 데이터를 읽어오지 못해도 레이아웃은 유지됩니다.
+        다음 갱신 주기에서 다시 시도합니다.
+      </p>
+    `;
+    elements.heroScheduleList.append(emptyCard);
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+
+  matches.forEach((match) => {
+    const card = document.createElement("article");
+    card.className = `hero-match${isLiveMatch(match) ? " hero-match--live" : ""}`;
+
+    const codes = document.createElement("div");
+    codes.className = "hero-match__codes";
+    codes.append(
+      createTeamCodeBadge(match.teams?.[0]),
+      createTeamCodeBadge(match.teams?.[1]),
+    );
+
+    const content = document.createElement("div");
+    content.className = "hero-match__content";
+
+    const title = document.createElement("h3");
+    title.className = "hero-match__title";
+    title.textContent = buildMatchTitle(match);
+
+    const meta = document.createElement("p");
+    meta.className = "hero-match__meta";
+    meta.textContent = buildMatchMeta(match);
+
+    content.append(title, meta);
+
+    const timebox = document.createElement("div");
+    timebox.className = "hero-match__timebox";
+
+    const time = document.createElement("strong");
+    time.className = "hero-match__time";
+    time.textContent = isLiveMatch(match)
+      ? "LIVE"
+      : formatMatchTime(match.startTime);
+
+    const day = document.createElement("span");
+    day.className = "hero-match__day";
+    day.textContent = formatMatchDay(match.startTime);
+
+    timebox.append(time, day);
+    card.append(codes, content, timebox);
+    fragment.append(card);
+  });
+
+  elements.heroScheduleList.append(fragment);
+}
+
 function renderTabs() {
   elements.tabList.replaceChildren(
     ...TAB_CONFIG.map((tab) => {
@@ -312,10 +522,12 @@ function renderTabs() {
 
       button.addEventListener("click", () => {
         if (tab.key === state.activeTab) {
+          window.scrollTo({ top: 0, behavior: "smooth" });
           return;
         }
 
         window.location.hash = tab.key;
+        window.scrollTo({ top: 0, behavior: "smooth" });
       });
 
       return button;
@@ -392,6 +604,69 @@ function renderArticles(articles, currentLabel) {
   elements.articleList.append(fragment);
 }
 
+function createTeamCodeBadge(team) {
+  const badge = document.createElement("span");
+  badge.className = "hero-match__code";
+  badge.textContent = team?.code || "TBD";
+  badge.title = team?.name || "팀 정보 준비 중";
+  return badge;
+}
+
+function buildMatchTitle(match) {
+  const [leftTeam, rightTeam] = match.teams ?? [];
+  return `${leftTeam?.name ?? "TBD"} vs ${rightTeam?.name ?? "TBD"}`;
+}
+
+function buildMatchMeta(match) {
+  return [
+    match.leagueLabel,
+    match.blockName,
+    match.tournamentName,
+    match.matchType,
+  ]
+    .filter(Boolean)
+    .join(" · ");
+}
+
+function buildEsportsHeroSummary(spotlight, articleCount) {
+  const matchCount = spotlight?.matches?.length ?? 0;
+
+  if (matchCount === 0) {
+    return "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.";
+  }
+
+  const leagueLabel = spotlight?.activeLeagueLabel ?? "LoL Esports";
+  const tournamentName = spotlight?.primaryTournamentName ?? "Schedule";
+  const articleLine =
+    articleCount > 0
+      ? `아래에는 e스포츠 기사 ${articleCount}건이 이어집니다.`
+      : "기사 리스트는 다음 갱신 주기를 기다리고 있습니다.";
+
+  return `${leagueLabel} ${tournamentName} 기준으로 가까운 경기 ${matchCount}개를 모았습니다. 일정이 많으면 이 영역 안에서 스크롤됩니다. ${articleLine}`;
+}
+
+function buildEsportsHeroPanelHeadline(spotlight) {
+  if (!spotlight) {
+    return "e스포츠 일정 스포트라이트를 준비하고 있습니다";
+  }
+
+  return `${spotlight.activeLeagueLabel} 일정 스포트라이트`;
+}
+
+function buildEsportsHeroPanelBody(spotlight, articleCount) {
+  if (!spotlight || (spotlight.matches?.length ?? 0) === 0) {
+    return `${REFRESH_SCHEDULE_LABEL} 공식 LoL Esports 일정과 기사 데이터를 다시 확인해 이 영역을 채웁니다.`;
+  }
+
+  const selectionRule = spotlight.selectionRule || "LCK 우선 · 국제전 자동 전환";
+  const articleLine =
+    articleCount > 0
+      ? `현재 e스포츠 기사 ${articleCount}건을 함께 읽을 수 있습니다.`
+      : "기사 리스트는 다음 수집 주기에서 보강됩니다.";
+
+  return `${selectionRule} ${articleLine}`;
+}
+
 function getArticleVariant(index) {
   if (index === 0) {
     return "lead";
@@ -456,6 +731,14 @@ function buildHeroPanelBody(activeConfig, spotlightArticle, articleCount) {
 }
 
 function buildFeedDescription(activeConfig, articleCount) {
+  if (activeConfig.key === "esports") {
+    if (articleCount === 0) {
+      return `공식 LoL Esports 일정 스포트라이트는 유지되고 있으며, e스포츠 기사 수집은 다음 주기를 기다리는 중입니다.`;
+    }
+
+    return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 상단 일정 스포트라이트 아래에 기사 ${articleCount}건을 이어서 읽을 수 있습니다.`;
+  }
+
   if (articleCount === 0) {
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며 다음 주기에서 새 기사를 기다리는 중입니다.`;
   }
@@ -470,6 +753,10 @@ function getStatusMessage() {
 
   if (state.isFallback) {
     return `실제 JSON을 읽지 못해 내장 샘플 데이터로 화면을 유지하고 있습니다. 운영 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
+  }
+
+  if (state.activeTab === "esports") {
+    return `정적 JSON 기사와 공식 LoL Esports 일정 데이터를 함께 사용해 e스포츠 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
   }
 
   return `정적 JSON과 RSS 수집 결과를 바탕으로 탭별 기사를 새 레이아웃에 맞춰 렌더링했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
@@ -501,14 +788,23 @@ function buildMetaLine() {
     `버전 ${state.metadata?.version ?? "-"}`,
     `탭 ${state.metadata?.tabCount ?? TAB_CONFIG.length}개`,
     `피드 ${successfulFeedCount}/${feedCount} 성공`,
+    state.spotlights.has("esports") ? "e스포츠 일정 연동" : null,
     `탭당 최대 ${articleLimit}건`,
     `갱신 ${REFRESH_SCHEDULE_LABEL}`,
-  ].join(" · ");
+  ]
+    .filter(Boolean)
+    .join(" · ");
 }
 
 function getSortedArticles(articles = []) {
   return [...articles].sort(
     (left, right) => new Date(right.publishedAt) - new Date(left.publishedAt),
+  );
+}
+
+function getSortedMatches(matches = []) {
+  return [...matches].sort(
+    (left, right) => new Date(left.startTime) - new Date(right.startTime),
   );
 }
 
@@ -575,6 +871,69 @@ function formatClockTime(value) {
   }).format(new Date(value));
 }
 
+function formatMatchTime(value) {
+  return new Intl.DateTimeFormat("ko-KR", {
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+    timeZone: DISPLAY_TIMEZONE,
+  }).format(new Date(value));
+}
+
+function formatMatchDay(value) {
+  const target = new Date(value);
+  const targetParts = getTimeZoneDateParts(target);
+  const todayParts = getTimeZoneDateParts(new Date());
+  const targetDayStart = Date.UTC(
+    targetParts.year,
+    targetParts.month - 1,
+    targetParts.day,
+  );
+  const todayDayStart = Date.UTC(
+    todayParts.year,
+    todayParts.month - 1,
+    todayParts.day,
+  );
+  const diffDays = Math.round(
+    (targetDayStart - todayDayStart) / (24 * 60 * 60 * 1000),
+  );
+
+  if (diffDays === 0) {
+    return "오늘";
+  }
+
+  if (diffDays === 1) {
+    return "내일";
+  }
+
+  return new Intl.DateTimeFormat("ko-KR", {
+    month: "short",
+    day: "numeric",
+    timeZone: DISPLAY_TIMEZONE,
+  }).format(target);
+}
+
+function isLiveMatch(match) {
+  return ["inprogress", "started", "live"].includes(
+    String(match?.state || "").toLowerCase(),
+  );
+}
+
+function getTimeZoneDateParts(value) {
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    year: "numeric",
+    month: "numeric",
+    day: "numeric",
+    timeZone: DISPLAY_TIMEZONE,
+  }).formatToParts(value);
+
+  return {
+    year: Number(parts.find((part) => part.type === "year")?.value ?? 0),
+    month: Number(parts.find((part) => part.type === "month")?.value ?? 1),
+    day: Number(parts.find((part) => part.type === "day")?.value ?? 1),
+  };
+}
+
 function formatRelativeTime(value) {
   if (!value) {
     return "시간 정보 없음";
@@ -624,14 +983,16 @@ async function refreshData({ isInitialLoad = false } = {}) {
   );
 
   try {
-    const { metadata, datasets } = await loadJsonData(Date.now());
+    const { metadata, datasets, spotlights } = await loadJsonData(Date.now());
     state.metadata = metadata;
     state.datasets = datasets;
+    state.spotlights = spotlights;
     state.isFallback = false;
   } catch (error) {
     console.warn("NewsBox 데이터 파일을 읽지 못해 fallback 데이터를 사용합니다.", error);
     state.metadata = FALLBACK_DATA.metadata;
     state.datasets = new Map(Object.entries(FALLBACK_DATA.tabs));
+    state.spotlights = new Map(Object.entries(FALLBACK_DATA.spotlights ?? {}));
     state.isFallback = true;
   } finally {
     state.isLoading = false;
@@ -642,7 +1003,10 @@ async function refreshData({ isInitialLoad = false } = {}) {
 
 async function loadJsonData(cacheBust) {
   const metadataUrl = new URL("../data/metadata.json", import.meta.url);
-  const metadata = await fetchJson(metadataUrl, cacheBust);
+  const [metadata, spotlightPayload] = await Promise.all([
+    fetchJson(metadataUrl, cacheBust),
+    fetchOptionalJson(new URL("../data/spotlights/esports.json", import.meta.url), cacheBust),
+  ]);
   const datasets = await Promise.all(
     TAB_CONFIG.map(async (tab) => {
       const datasetUrl = new URL(`../data/tabs/${tab.key}.json`, import.meta.url);
@@ -651,5 +1015,18 @@ async function loadJsonData(cacheBust) {
     }),
   );
 
-  return { metadata, datasets: new Map(datasets) };
+  const spotlights = new Map();
+  if (spotlightPayload) {
+    spotlights.set("esports", spotlightPayload);
+  }
+
+  return { metadata, datasets: new Map(datasets), spotlights };
+}
+
+async function fetchOptionalJson(url, cacheBust) {
+  try {
+    return await fetchJson(url, cacheBust);
+  } catch {
+    return null;
+  }
 }

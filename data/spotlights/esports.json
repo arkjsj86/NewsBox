@@ -1,0 +1,290 @@
+{
+  "tab": "esports",
+  "type": "league-schedule",
+  "source": "LoL Esports",
+  "sourceMode": "official-schedule",
+  "lastUpdatedAt": "2026-04-10T01:52:58.898Z",
+  "activeLeagueKey": "lck",
+  "activeLeagueLabel": "LCK",
+  "title": "Upcoming Matches",
+  "description": "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.",
+  "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
+  "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
+  "primaryTournamentName": "Split 2 2026",
+  "primaryBlockName": "Week 2",
+  "matchCount": 12,
+  "matches": [
+    {
+      "id": "115548128962840635",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 2",
+      "startTime": "2026-04-10T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "DN SOOPers",
+          "code": "DNS"
+        },
+        {
+          "name": "T1",
+          "code": "T1"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962840599",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 2",
+      "startTime": "2026-04-10T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE"
+        },
+        {
+          "name": "BNK FEARX",
+          "code": "BFX"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962906307",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 2",
+      "startTime": "2026-04-11T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "NONGSHIM RED FORCE",
+          "code": "NS"
+        },
+        {
+          "name": "KIWOOM DRX",
+          "code": "DRX"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962906271",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 2",
+      "startTime": "2026-04-11T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "Dplus KIA",
+          "code": "DK"
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962840663",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 2",
+      "startTime": "2026-04-12T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "BNK FEARX",
+          "code": "BFX"
+        },
+        {
+          "name": "DN SOOPers",
+          "code": "DNS"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962906259",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 2",
+      "startTime": "2026-04-12T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "HANJIN BRION",
+          "code": "BRO"
+        },
+        {
+          "name": "kt Rolster",
+          "code": "KT"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962906219",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 3",
+      "startTime": "2026-04-15T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "NONGSHIM RED FORCE",
+          "code": "NS"
+        },
+        {
+          "name": "BNK FEARX",
+          "code": "BFX"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962906287",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 3",
+      "startTime": "2026-04-15T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "kt Rolster",
+          "code": "KT"
+        },
+        {
+          "name": "Dplus KIA",
+          "code": "DK"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962906251",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 3",
+      "startTime": "2026-04-16T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "HANJIN BRION",
+          "code": "BRO"
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962840603",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 3",
+      "startTime": "2026-04-16T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "DN SOOPers",
+          "code": "DNS"
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962906223",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 3",
+      "startTime": "2026-04-17T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "KIWOOM DRX",
+          "code": "DRX"
+        },
+        {
+          "name": "BNK FEARX",
+          "code": "BFX"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962840647",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 3",
+      "startTime": "2026-04-17T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "Dplus KIA",
+          "code": "DK"
+        },
+        {
+          "name": "T1",
+          "code": "T1"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    }
+  ],
+  "fetchedLeagues": [
+    {
+      "key": "lck",
+      "label": "LCK",
+      "ok": true,
+      "matchCount": 40
+    },
+    {
+      "key": "msi",
+      "label": "MSI",
+      "ok": true,
+      "matchCount": 0
+    },
+    {
+      "key": "worlds",
+      "label": "Worlds",
+      "ok": true,
+      "matchCount": 0
+    }
+  ]
+}

@@ -6,7 +6,7 @@
     <title>NewsBox</title>
     <meta
       name="description"
-      content="AI, Unity, 게임, 연예 뉴스를 차분한 에디토리얼 레이아웃으로 정리해 보여주는 NewsBox"
+      content="AI, 게임, 연예, e스포츠, Unity 뉴스를 차분한 에디토리얼 레이아웃으로 정리해 보여주는 NewsBox"
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -50,6 +50,14 @@
             <p class="hero__summary" id="heroSummary">
               잠시 후 최신 기사 하이라이트가 이 영역에 표시됩니다.
             </p>
+
+            <div class="hero-schedule" id="heroSchedule" hidden>
+              <div
+                class="hero-schedule__list"
+                id="heroScheduleList"
+                aria-live="polite"
+              ></div>
+            </div>
 
             <div class="hero__actions">
               <a
