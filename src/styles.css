@@ -240,11 +240,12 @@ a {
 .hero__title {
   margin-top: 18px;
   font-size: clamp(2.8rem, 6vw, 5rem);
-  line-height: 1.04;
+  line-height: 1.2;
   overflow: hidden;
   display: -webkit-box;
   -webkit-box-orient: vertical;
   -webkit-line-clamp: 3;
+  flex-shrink: 0;
 }
 
 .hero__lead {
@@ -275,7 +276,6 @@ a {
 }
 
 .hero-schedule:not([hidden]) {
-  margin-top: 10px;
   flex: 1 1 auto;
   min-height: 0;
   display: flex;
