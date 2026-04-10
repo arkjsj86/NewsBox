@@ -16,6 +16,23 @@ const DISPLAY_OFFSET_MS = 9 * 60 * 60 * 1000;
 const REFRESH_INTERVAL_MS = 3 * 60 * 60 * 1000;
 const REFRESH_SCHEDULE_LABEL = "3시간마다 정각";
 
+const LCK_STANDINGS_FALLBACK = {
+  leagueLabel: "LCK Split 2 2026",
+  updatedLabel: "Week 2 기준",
+  rows: [
+    { rank: 1, code: "GEN", name: "Gen.G",                wins: 6, losses: 0, points: 6 },
+    { rank: 2, code: "HLE", name: "Hanwha Life Esports",  wins: 5, losses: 1, points: 5 },
+    { rank: 3, code: "T1",  name: "T1",                   wins: 4, losses: 2, points: 4 },
+    { rank: 4, code: "DK",  name: "Dplus KIA",            wins: 4, losses: 2, points: 4 },
+    { rank: 5, code: "KT",  name: "KT Rolster",           wins: 3, losses: 3, points: 3 },
+    { rank: 6, code: "BFX", name: "BNK FEARX",            wins: 3, losses: 3, points: 3 },
+    { rank: 7, code: "DRX", name: "Kiwoom DRX",           wins: 2, losses: 4, points: 2 },
+    { rank: 8, code: "NS",  name: "Nongshim RedForce",    wins: 2, losses: 4, points: 2 },
+    { rank: 9, code: "BRO", name: "Hanjin BRION",         wins: 1, losses: 5, points: 1 },
+    { rank: 10,code: "DNS", name: "DN Soopers",           wins: 0, losses: 6, points: 0 },
+  ],
+};
+
 const TAB_CONFIG = [
   {
     key: "ai",
@@ -258,6 +275,9 @@ const elements = {
   heroSummary: document.querySelector("#heroSummary"),
   heroSchedule: document.querySelector("#heroSchedule"),
   heroScheduleList: document.querySelector("#heroScheduleList"),
+  heroPanelDefault: document.querySelector("#heroPanelDefault"),
+  heroPanelEsports: document.querySelector("#heroPanelEsports"),
+  esportsPanelView: document.querySelector("#esportsPanelView"),
   heroPanelHeadline: document.querySelector("#heroPanelHeadline"),
   heroPanelBody: document.querySelector("#heroPanelBody"),
   heroPanelSource: document.querySelector("#heroPanelSource"),
@@ -388,6 +408,8 @@ function render() {
 function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt) {
   elements.heroSchedule.hidden = true;
   elements.heroScheduleList.replaceChildren();
+  elements.heroPanelDefault.hidden = false;
+  elements.heroPanelEsports.hidden = true;
 
   if (!spotlightArticle) {
     elements.heroTitle.textContent = `${activeConfig.label} 탭을 준비하고 있습니다`;
@@ -407,7 +429,7 @@ function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpda
   elements.heroTitle.textContent = spotlightArticle.title;
   elements.heroSummary.textContent = truncateText(
     spotlightArticle.summary || activeConfig.heroLead,
-    220,
+    150,
   );
   elements.heroPanelHeadline.textContent = `${activeConfig.label} 탭에서 ${articleCount}건을 큐레이션했습니다`;
   elements.heroPanelBody.textContent = buildHeroPanelBody(
@@ -435,13 +457,11 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.heroTitle.textContent = spotlight?.title || "경기 일정";
   elements.sectionDescription.textContent = "";
   elements.heroSummary.textContent = "";
-  elements.heroPanelHeadline.textContent = buildEsportsHeroPanelHeadline(spotlight);
-  elements.heroPanelBody.textContent = buildEsportsHeroPanelBody(spotlight, articleCount);
-  elements.heroPanelSource.textContent =
-    spotlight?.source && spotlight?.activeLeagueLabel
-      ? `${spotlight.source} · ${spotlight.activeLeagueLabel}`
-      : "LoL Esports";
-  elements.heroPanelTime.textContent = formatDateTime(spotlight?.lastUpdatedAt ?? lastUpdatedAt);
+
+  elements.heroPanelDefault.hidden = true;
+  elements.heroPanelEsports.hidden = false;
+  renderLckStandings(LCK_STANDINGS_FALLBACK);
+
   elements.spotlightLink.href = spotlight?.sourceUrl || "#articleFeed";
   elements.spotlightLink.target = spotlight?.sourceUrl ? "_blank" : "_self";
   if (spotlight?.sourceUrl) {
@@ -450,6 +470,58 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
     elements.spotlightLink.removeAttribute("rel");
   }
   elements.spotlightLink.textContent = "공식 일정 보기";
+}
+
+function renderLckStandings(standings) {
+  const view = elements.esportsPanelView;
+  view.replaceChildren();
+
+  const header = document.createElement("header");
+  header.className = "lck-standings__header";
+  header.innerHTML = `
+    <p class="lck-standings__league">${standings.leagueLabel}</p>
+    <p class="lck-standings__updated">${standings.updatedLabel}</p>
+  `;
+
+  const table = document.createElement("div");
+  table.className = "lck-standings";
+  table.setAttribute("role", "table");
+  table.setAttribute("aria-label", `${standings.leagueLabel} 순위`);
+
+  const thead = document.createElement("div");
+  thead.className = "lck-standings__row lck-standings__row--head";
+  thead.setAttribute("role", "row");
+  thead.innerHTML = `
+    <span class="lck-standings__cell lck-standings__cell--rank" role="columnheader">#</span>
+    <span class="lck-standings__cell lck-standings__cell--team" role="columnheader">팀</span>
+    <span class="lck-standings__cell lck-standings__cell--record" role="columnheader">승-패</span>
+    <span class="lck-standings__cell lck-standings__cell--points" role="columnheader">승점</span>
+  `;
+  table.append(thead);
+
+  standings.rows.forEach((row) => {
+    const logo = TEAM_LOGO_MAP[row.code];
+
+    const line = document.createElement("div");
+    line.className = "lck-standings__row";
+    line.setAttribute("role", "row");
+    line.innerHTML = `
+      <span class="lck-standings__cell lck-standings__cell--rank" role="cell">${row.rank}</span>
+      <span class="lck-standings__cell lck-standings__cell--team" role="cell">
+        ${
+          logo
+            ? `<span class="lck-standings__logo"><img src="${logo}" alt="${row.code}" loading="lazy" /></span>`
+            : `<span class="lck-standings__logo lck-standings__logo--text">${row.code}</span>`
+        }
+        <span class="lck-standings__code">${row.code}</span>
+      </span>
+      <span class="lck-standings__cell lck-standings__cell--record" role="cell">${row.wins}-${row.losses}</span>
+      <span class="lck-standings__cell lck-standings__cell--points" role="cell">${row.points}</span>
+    `;
+    table.append(line);
+  });
+
+  view.append(header, table);
 }
 
 function renderHeroSchedule(matches) {
@@ -678,45 +750,6 @@ function buildMatchMeta(match) {
   ]
     .filter(Boolean)
     .join(" · ");
-}
-
-function buildEsportsHeroSummary(spotlight, articleCount) {
-  const matchCount = spotlight?.matches?.length ?? 0;
-
-  if (matchCount === 0) {
-    return "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.";
-  }
-
-  const leagueLabel = spotlight?.activeLeagueLabel ?? "LoL Esports";
-  const tournamentName = spotlight?.primaryTournamentName ?? "Schedule";
-  const articleLine =
-    articleCount > 0
-      ? `아래에는 e스포츠 기사 ${articleCount}건이 이어집니다.`
-      : "기사 리스트는 다음 갱신 주기를 기다리고 있습니다.";
-
-  return `${leagueLabel} ${tournamentName} 기준으로 가까운 경기 ${matchCount}개를 모았습니다. 일정이 많으면 이 영역 안에서 스크롤됩니다. ${articleLine}`;
-}
-
-function buildEsportsHeroPanelHeadline(spotlight) {
-  if (!spotlight) {
-    return "e스포츠 일정 스포트라이트를 준비하고 있습니다";
-  }
-
-  return `${spotlight.activeLeagueLabel} 일정 스포트라이트`;
-}
-
-function buildEsportsHeroPanelBody(spotlight, articleCount) {
-  if (!spotlight || (spotlight.matches?.length ?? 0) === 0) {
-    return `${REFRESH_SCHEDULE_LABEL} 공식 LoL Esports 일정과 기사 데이터를 다시 확인해 이 영역을 채웁니다.`;
-  }
-
-  const selectionRule = spotlight.selectionRule || "LCK 우선 · 국제전 자동 전환";
-  const articleLine =
-    articleCount > 0
-      ? `현재 e스포츠 기사 ${articleCount}건을 함께 읽을 수 있습니다.`
-      : "기사 리스트는 다음 수집 주기에서 보강됩니다.";
-
-  return `${selectionRule} ${articleLine}`;
 }
 
 function getArticleVariant(index) {
