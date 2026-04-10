@@ -54,6 +54,7 @@ const FEEDS = [
 
 const ESPORTS_SCHEDULE_LEAGUES = [
   ["lck", "LCK", "https://lolesports.com/en-US/leagues/lck", 0],
+  ["ewc", "EWC", "https://lolesports.com/en-US/leagues/ewc", 0.5],
   ["msi", "MSI", "https://lolesports.com/en-US/leagues/msi", 1],
   ["worlds", "Worlds", "https://lolesports.com/en-US/leagues/worlds", 2],
 ].map(([key, label, url, priority]) => ({ key, label, url, priority }));
@@ -719,7 +720,7 @@ function cleanupObsoleteTabFiles() {
 }
 
 function cleanupObsoleteSpotlightFiles() {
-  const activeFiles = new Set(["esports.json"]);
+  const activeFiles = new Set(["esports.json", "lck-standings.json"]);
   for (const entry of readdirSync(SPOTLIGHTS_DIR, { withFileTypes: true })) {
     if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
     if (!activeFiles.has(entry.name)) {

@@ -37,6 +37,11 @@ jobs:
           NEWSBOX_ESPORTS_LIVE_GRACE_HOURS: 6
         run: node scripts/update-rss-news.mjs
 
+      - name: Update LCK standings
+        env:
+          NEWSBOX_FEED_TIMEOUT_MS: 25000
+        run: node scripts/update-esports-standings.mjs
+
       - name: Commit updated data
         run: |
           if git diff --quiet -- data; then
