@@ -620,8 +620,8 @@ function buildMatchTitle(match) {
 function buildMatchMeta(match) {
   return [
     match.leagueLabel,
-    match.blockName,
     match.tournamentName,
+    match.blockName,
     match.matchType,
   ]
     .filter(Boolean)
