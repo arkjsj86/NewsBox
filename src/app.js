@@ -312,10 +312,12 @@ function renderTabs() {
 
       button.addEventListener("click", () => {
         if (tab.key === state.activeTab) {
+          document.querySelector("#articleFeed")?.scrollIntoView({ behavior: "smooth", block: "start" });
           return;
         }
 
         window.location.hash = tab.key;
+        document.querySelector("#articleFeed")?.scrollIntoView({ behavior: "smooth", block: "start" });
       });
 
       return button;

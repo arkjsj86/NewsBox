@@ -184,7 +184,8 @@ a {
   display: grid;
   grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
   gap: 24px;
-  align-items: center;
+  align-items: stretch;
+  min-height: 560px;
 }
 
 .hero__copy,
@@ -236,6 +237,10 @@ a {
   margin-top: 18px;
   font-size: clamp(2.8rem, 6vw, 5rem);
   line-height: 1.04;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
 }
 
 .hero__lead {
@@ -306,6 +311,7 @@ a {
   position: relative;
   overflow: hidden;
   min-height: 520px;
+  height: 100%;
   padding: 28px;
   background:
     linear-gradient(180deg, rgba(13, 18, 30, 0.98), rgba(22, 24, 36, 0.96)),
