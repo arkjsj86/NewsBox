@@ -1,22 +1,25 @@
 {
-  "version": "0.5.0-live",
+  "version": "0.7.0-live",
   "sourceMode": "korean-rss",
-  "sourceProvider": "rss",
+  "sourceProvider": "rss+lolesports",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-09T13:11:58.999Z",
-  "tabCount": 4,
-  "totalArticleCount": 25,
+  "lastUpdatedAt": "2026-04-10T06:19:37.656Z",
+  "tabCount": 5,
+  "totalArticleCount": 81,
   "availableTabs": [
     "ai",
-    "unity",
     "game",
-    "entertainment"
+    "entertainment",
+    "esports",
+    "unity"
   ],
   "requestConfig": {
     "lookbackHours": 336,
-    "maxItemsPerFeed": 18,
-    "articleLimitPerTab": 8,
-    "feedTimeoutMs": 25000
+    "maxItemsPerFeed": 30,
+    "articleLimitPerTab": 30,
+    "feedTimeoutMs": 25000,
+    "esportsMatchLimit": 12,
+    "esportsActiveWindowDays": 21
   },
   "feedCount": 8,
   "successfulFeedCount": 8,
@@ -25,17 +28,17 @@
     {
       "key": "itworld-kr",
       "source": "ITWorld Korea",
-      "itemCount": 15
+      "itemCount": 12
     },
     {
       "key": "etnews-games",
       "source": "전자신문 게임",
-      "itemCount": 18
+      "itemCount": 30
     },
     {
       "key": "gameinsight-all",
       "source": "게임인사이트",
-      "itemCount": 18
+      "itemCount": 30
     },
     {
       "key": "gameinsight-ai-blockchain",
@@ -45,23 +48,33 @@
     {
       "key": "khgames-all",
       "source": "경향게임스",
-      "itemCount": 18
+      "itemCount": 30
     },
     {
       "key": "sportschosun-entertainment",
       "source": "스포츠조선 연예",
-      "itemCount": 18
+      "itemCount": 20
     },
     {
       "key": "newsis-entertainment",
       "source": "뉴시스 연예",
-      "itemCount": 18
+      "itemCount": 30
     },
     {
       "key": "sportsdonga-entertainment",
       "source": "스포츠동아 엔터테인먼트",
-      "itemCount": 18
+      "itemCount": 30
     }
   ],
-  "failedFeeds": []
+  "failedFeeds": [],
+  "spotlightCount": 1,
+  "spotlights": [
+    {
+      "key": "esports",
+      "source": "LoL Esports",
+      "activeLeagueKey": "lck",
+      "activeLeagueLabel": "LCK",
+      "matchCount": 12
+    }
+  ]
 }

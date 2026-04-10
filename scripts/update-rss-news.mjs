@@ -1,25 +1,44 @@
 import { createHash } from "node:crypto";
 import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
+import {
+  LOL_ESPORTS_SOURCE,
+  buildEsportsSpotlight,
+} from "./lib/esports-schedule.mjs";
 
 const ROOT_DIR = resolve(process.cwd());
 const DATA_DIR = resolve(ROOT_DIR, "data");
 const TABS_DIR = resolve(DATA_DIR, "tabs");
+const SPOTLIGHTS_DIR = resolve(DATA_DIR, "spotlights");
 const GENERATED_AT = new Date().toISOString();
 const NOW_MS = Date.now();
 const LOOKBACK_HOURS = clampNumber(process.env.NEWSBOX_LOOKBACK_HOURS, 336, 24, 720);
 const LOOKBACK_MS = LOOKBACK_HOURS * 60 * 60 * 1000;
-const MAX_ITEMS_PER_FEED = clampNumber(process.env.NEWSBOX_MAX_ITEMS_PER_FEED, 18, 3, 40);
-const ARTICLE_LIMIT_PER_TAB = clampNumber(process.env.NEWSBOX_ARTICLE_LIMIT_PER_TAB, 8, 1, 20);
+const MAX_ITEMS_PER_FEED = clampNumber(process.env.NEWSBOX_MAX_ITEMS_PER_FEED, 30, 3, 40);
+const ARTICLE_LIMIT_PER_TAB = clampNumber(process.env.NEWSBOX_ARTICLE_LIMIT_PER_TAB, 30, 1, 30);
 const REQUEST_DELAY_MS = clampNumber(process.env.NEWSBOX_REQUEST_DELAY_MS, 300, 0, 5000);
 const FEED_TIMEOUT_MS = clampNumber(process.env.NEWSBOX_FEED_TIMEOUT_MS, 25000, 5000, 30000);
-const TAB_PRIORITY = ["unity", "game", "entertainment", "ai"];
+const ESPORTS_MATCH_LIMIT = clampNumber(process.env.NEWSBOX_ESPORTS_MATCH_LIMIT, 12, 3, 18);
+const ESPORTS_ACTIVE_WINDOW_DAYS = clampNumber(
+  process.env.NEWSBOX_ESPORTS_ACTIVE_WINDOW_DAYS,
+  21,
+  7,
+  45,
+);
+const ESPORTS_LIVE_GRACE_HOURS = clampNumber(
+  process.env.NEWSBOX_ESPORTS_LIVE_GRACE_HOURS,
+  6,
+  1,
+  12,
+);
+const TAB_PRIORITY = ["unity", "esports", "game", "entertainment", "ai"];
 
 const TABS = [
   ["ai", "AI", "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭", [["인공지능", 6], ["생성형", 5], [" ai ", 4], ["llm", 4], ["에이전트", 3], ["모델", 2], ["추론", 2], ["학습", 2], ["오픈ai", 4], ["openai", 4], ["클로드", 3], ["claude", 3], ["gemini", 3], ["딥러닝", 3], ["머신러닝", 3], ["멀티모달", 3], ["파운데이션 모델", 4], ["소버린 ai", 4], ["챗gpt", 4], ["gpt", 3]]],
-  ["unity", "Unity", "Unity 엔진과 생태계 변화, 정책, 툴 업데이트를 모아보는 탭", [["유니티", 8], ["unity", 8], ["unity 6", 6], ["에셋 스토어", 5], ["asset store", 5], ["패키지 매니저", 3], ["package manager", 3], ["netcode", 2], ["cinemachine", 2], ["urp", 2], ["hdrp", 2], ["렌더 파이프라인", 3], ["render pipeline", 3]]],
-  ["game", "게임", "게임 출시, 업데이트, 개발, 산업 이슈를 한 번에 모아보는 탭", [["게임", 6], ["게이밍", 4], ["게이머", 3], ["신작", 4], ["출시", 4], ["업데이트", 4], ["이벤트", 3], ["패치", 3], ["확장팩", 3], ["사전등록", 3], ["트레일러", 3], ["개발", 3], ["개발자", 3], ["개발사", 3], ["엔진", 4], ["파이프라인", 3], ["최적화", 3], ["렌더링", 3], ["그래픽", 3], ["셰이더", 3], ["sdk", 2], ["미들웨어", 2], ["프로토타입", 2], ["워크플로", 2], ["자동화", 2], ["퍼블리싱", 4], ["퍼블리셔", 4], ["실적", 3], ["매출", 3], ["영업이익", 3], ["투자", 3], ["인수", 4], ["합병", 4], ["규제", 4], ["서비스 종료", 4], ["mmorpg", 3], ["rpg", 3], ["fps", 3], ["tps", 2], ["e스포츠", 3], ["esports", 3], ["스팀", 2], ["steam", 2], ["콘솔", 2], ["모바일", 2], ["플레이스테이션", 2], ["엑스박스", 2], ["닌텐도", 2], ["ps5", 2], ["switch", 2]]],
+  ["game", "게임", "게임 출시, 업데이트, 개발, 산업 이슈를 한 번에 모아보는 탭", [["게임", 6], ["게이밍", 4], ["게이머", 3], ["신작", 4], ["출시", 4], ["업데이트", 4], ["이벤트", 3], ["패치", 3], ["확장팩", 3], ["사전등록", 3], ["트레일러", 3], ["개발", 3], ["개발자", 3], ["개발사", 3], ["엔진", 4], ["파이프라인", 3], ["최적화", 3], ["렌더링", 3], ["그래픽", 3], ["셰이더", 3], ["sdk", 2], ["미들웨어", 2], ["프로토타입", 2], ["워크플로", 2], ["자동화", 2], ["퍼블리싱", 4], ["퍼블리셔", 4], ["실적", 3], ["매출", 3], ["영업이익", 3], ["투자", 3], ["인수", 4], ["합병", 4], ["규제", 4], ["서비스 종료", 4], ["mmorpg", 3], ["rpg", 3], ["fps", 3], ["tps", 2], ["스팀", 2], ["steam", 2], ["콘솔", 2], ["모바일", 2], ["플레이스테이션", 2], ["엑스박스", 2], ["닌텐도", 2], ["ps5", 2], ["switch", 2]]],
   ["entertainment", "연예", "배우, 아이돌, 드라마, 영화, 방송, OTT 화제를 모아보는 탭", [["연예", 7], ["연예계", 6], ["방송", 4], ["예능", 4], ["드라마", 5], ["영화", 5], ["배우", 5], ["가수", 5], ["아이돌", 5], ["컴백", 4], ["데뷔", 4], ["종영", 3], ["방영", 3], ["시청률", 3], ["출연", 3], ["주연", 3], ["캐스팅", 4], ["소속사", 3], ["앨범", 4], ["싱글", 3], ["음원", 3], ["ost", 3], ["뮤직비디오", 4], ["콘서트", 4], ["팬미팅", 4], ["공연", 3], ["ott", 3], ["넷플릭스", 4], ["티빙", 3], ["웨이브", 3], ["디즈니+", 3], ["쿠팡플레이", 3], ["tvn", 3], ["jtbc", 3], ["mbc", 3], ["sbs", 3], ["kbs", 3], ["ena", 3], ["채널a", 3], ["하이브", 4], ["sm엔터테인먼트", 4], ["jyp", 4], ["yg", 4], ["어도어", 4], ["빌리프랩", 4], ["스타쉽", 4], ["플레디스", 4]]],
+  ["esports", "e스포츠", "LCK, MSI, Worlds 일정과 e스포츠 기사를 함께 확인하는 탭", [["e스포츠", 8], ["esports", 8], ["e-sports", 7], ["lck", 9], ["msi", 9], ["롤드컵", 9], ["월즈", 9], ["worlds", 8], ["world championship", 8], ["리그 오브 레전드 챔피언스 코리아", 8], ["퍼스트 스탠드", 7], ["first stand", 7], ["lpl", 6], ["lec", 6], ["lcs", 6], ["vct", 5], ["valorant champions", 5], ["티원", 4], ["t1", 4], ["젠지", 4], ["gen.g", 4], ["한화생명e스포츠", 4], ["hanwha life esports", 4], ["디플러스 기아", 4], ["dplus kia", 4], ["농심 redforce", 4], ["bnk fearx", 4], ["kt rolster", 4], ["drx", 3], ["브리온", 3]]],
+  ["unity", "Unity", "Unity 엔진과 생태계 변화, 정책, 툴 업데이트를 모아보는 탭", [["유니티", 8], ["unity", 8], ["unity 6", 6], ["에셋 스토어", 5], ["asset store", 5], ["패키지 매니저", 3], ["package manager", 3], ["netcode", 2], ["cinemachine", 2], ["urp", 2], ["hdrp", 2], ["렌더 파이프라인", 3], ["render pipeline", 3]]],
 ].map(([key, label, description, terms]) => ({ key, label, description, terms }));
 
 const FEEDS = [
@@ -32,6 +51,12 @@ const FEEDS = [
   ["newsis-entertainment", "뉴시스 연예", "https://www.newsis.com/RSS/entertain.xml", ["entertainment"]],
   ["sportsdonga-entertainment", "스포츠동아 엔터테인먼트", "https://rss.donga.com/sportsdonga/entertainment.xml", ["entertainment"]],
 ].map(([key, source, url, hints]) => ({ key, source, url, hints }));
+
+const ESPORTS_SCHEDULE_LEAGUES = [
+  ["lck", "LCK", "https://lolesports.com/en-US/leagues/lck", 0],
+  ["msi", "MSI", "https://lolesports.com/en-US/leagues/msi", 1],
+  ["worlds", "Worlds", "https://lolesports.com/en-US/leagues/worlds", 2],
+].map(([key, label, url, priority]) => ({ key, label, url, priority }));
 
 const GAME_COMPANY_TERMS = [
   "넥슨",
@@ -59,16 +84,37 @@ const GAME_COMPANY_TERMS = [
   "유비소프트",
 ];
 
+const ESPORTS_TEAM_TERMS = uniqueTerms([
+  "t1",
+  "티원",
+  "젠지",
+  "gen.g",
+  "한화생명e스포츠",
+  "hanwha life esports",
+  "디플러스 기아",
+  "dplus kia",
+  "bnk fearx",
+  "농심 redforce",
+  "kiwoom drx",
+  "drx",
+  "kt rolster",
+  "브리온",
+  "dn soopers",
+]);
+
 const AI_SIGNAL_TERMS = uniqueTerms(["인공지능", "생성형", " ai ", "llm", "에이전트", "오픈ai", "openai", "클로드", "claude", "gemini", "딥러닝", "머신러닝", "멀티모달", "파운데이션 모델", "소버린 ai", "챗gpt", "gpt"]);
 const AI_NEGATION_TERMS = uniqueTerms(["ai 없이", "ai 없는", "인공지능 없이", "인공지능 없는"]);
 const GAME_COMPANY_SIGNAL_TERMS = uniqueTerms(GAME_COMPANY_TERMS.filter((term) => !["세가"].includes(term)));
 const UNITY_SIGNAL_TERMS = uniqueTerms(["유니티", "unity", "unity 6", "에셋 스토어", "asset store", "패키지 매니저", "package manager", "netcode", "cinemachine", "urp", "hdrp", "렌더 파이프라인", "render pipeline"]);
-const GAME_SIGNAL_TERMS = uniqueTerms(["게임", "게이밍", "게이머", "mmorpg", "rpg", "fps", "tps", "어드벤처", "시뮬레이션", "스팀", "steam", "콘솔", "playstation", "플레이스테이션", "엑스박스", "xbox", "닌텐도", "switch", "ps5", "모바일", "pc", "e스포츠", "esports", "인디게임", "신작", "업데이트", "패치", "이벤트", "확장팩", "퍼블리싱", "퍼블리셔", "개발사", "출시", ...GAME_COMPANY_SIGNAL_TERMS]);
-const GAME_HARD_ANCHOR_TERMS = uniqueTerms(["게임", "게이밍", "mmorpg", "rpg", "fps", "tps", "어드벤처", "시뮬레이션", "스팀", "steam", "콘솔", "플레이스테이션", "엑스박스", "닌텐도", "switch", "ps5", "모바일", "e스포츠", "esports", "인디게임", "신작", "업데이트", "패치", "확장팩", "사전등록", "출시", "전투", "캐릭터", "퀘스트", "보스", "레이드", "스토어", ...GAME_COMPANY_SIGNAL_TERMS]);
-const GAME_CORE_TERMS = uniqueTerms(["게임", "게이밍", "게이머", "mmorpg", "rpg", "fps", "tps", "어드벤처", "시뮬레이션", "스팀", "steam", "콘솔", "playstation", "플레이스테이션", "엑스박스", "xbox", "닌텐도", "switch", "ps5", "모바일", "e스포츠", "esports", "인디게임", "신작", "업데이트", "패치", "이벤트", "확장팩", "사전등록", "출시", "서버", "대회", ...GAME_COMPANY_SIGNAL_TERMS]);
+const GAME_SIGNAL_TERMS = uniqueTerms(["게임", "게이밍", "게이머", "mmorpg", "rpg", "fps", "tps", "어드벤처", "시뮬레이션", "스팀", "steam", "콘솔", "playstation", "플레이스테이션", "엑스박스", "xbox", "닌텐도", "switch", "ps5", "모바일", "pc", "인디게임", "신작", "업데이트", "패치", "이벤트", "확장팩", "퍼블리싱", "퍼블리셔", "개발사", "출시", ...GAME_COMPANY_SIGNAL_TERMS]);
+const GAME_HARD_ANCHOR_TERMS = uniqueTerms(["게임", "게이밍", "mmorpg", "rpg", "fps", "tps", "어드벤처", "시뮬레이션", "스팀", "steam", "콘솔", "플레이스테이션", "엑스박스", "닌텐도", "switch", "ps5", "모바일", "인디게임", "신작", "업데이트", "패치", "확장팩", "사전등록", "출시", "전투", "캐릭터", "퀘스트", "보스", "레이드", "스토어", ...GAME_COMPANY_SIGNAL_TERMS]);
+const GAME_CORE_TERMS = uniqueTerms(["게임", "게이밍", "게이머", "mmorpg", "rpg", "fps", "tps", "어드벤처", "시뮬레이션", "스팀", "steam", "콘솔", "playstation", "플레이스테이션", "엑스박스", "xbox", "닌텐도", "switch", "ps5", "모바일", "인디게임", "신작", "업데이트", "패치", "이벤트", "확장팩", "사전등록", "출시", "서버", "대회", ...GAME_COMPANY_SIGNAL_TERMS]);
 const GAME_DEVELOPMENT_CORE_TERMS = uniqueTerms(["엔진", "파이프라인", "최적화", "그래픽", "셰이더", "shader", "렌더링", "rendering", "sdk", "미들웨어", "프로토타입", "워크플로", "workflow", "자동화", "에셋", "툴", "툴링", "프로그래밍", "코드", "유니티", "unity", "언리얼엔진", "언리얼", "netcode", "cinemachine", "urp", "hdrp"]);
 const GAME_INDUSTRY_CORE_TERMS = uniqueTerms(["실적", "매출", "영업이익", "투자", "인수", "합병", "상장", "규제", "퍼블리싱", "퍼블리셔", "지분", "서비스 종료", "layoff", "ceo", "다운로드", "흥행", "공모전", "점유율", "매각", "조직", "경영", "브리핑", ...GAME_COMPANY_SIGNAL_TERMS]);
+const ESPORTS_SIGNAL_TERMS = uniqueTerms(["e스포츠", "esports", "e-sports", "lck", "msi", "롤드컵", "월즈", "worlds", "world championship", "리그 오브 레전드 챔피언스 코리아", "퍼스트 스탠드", "first stand", "lpl", "lec", "lcs", "vct", "valorant champions", ...ESPORTS_TEAM_TERMS]);
+const ESPORTS_HARD_ANCHOR_TERMS = uniqueTerms(["e스포츠", "esports", "e-sports", "lck", "msi", "롤드컵", "월즈", "worlds", "world championship", "리그 오브 레전드 챔피언스 코리아", "퍼스트 스탠드", "first stand", "lpl", "lec", "lcs", "vct", "valorant champions"]);
 const ENTERTAINMENT_COMPANY_TERMS = uniqueTerms(["하이브", "sm", "sm엔터테인먼트", "jyp", "yg", "어도어", "빌리프랩", "스타쉽", "플레디스", "큐브", "rbw", "안테나", "판타지오", "울림", "미스틱스토리", "킹콩 by 스타쉽"]);
+const ENTERTAINMENT_COMPANY_SIGNAL_TERMS = uniqueTerms(ENTERTAINMENT_COMPANY_TERMS.filter((term) => !["sm", "yg", "jyp", "rbw"].includes(term)));
 const ENTERTAINMENT_SIGNAL_TERMS = uniqueTerms([
   "연예",
   "연예계",
@@ -112,7 +158,74 @@ const ENTERTAINMENT_SIGNAL_TERMS = uniqueTerms([
   "kbs",
   "ena",
   "채널a",
-  ...ENTERTAINMENT_COMPANY_TERMS,
+  ...ENTERTAINMENT_COMPANY_SIGNAL_TERMS,
+]);
+const ENTERTAINMENT_HARD_ANCHOR_TERMS = uniqueTerms([
+  "연예",
+  "예능",
+  "드라마",
+  "영화",
+  "배우",
+  "감독",
+  "가수",
+  "아이돌",
+  "컴백",
+  "데뷔",
+  "종영",
+  "방영",
+  "시청률",
+  "출연",
+  "주연",
+  "캐스팅",
+  "앨범",
+  "싱글",
+  "음원",
+  "ost",
+  "뮤직비디오",
+  "콘서트",
+  "팬미팅",
+  "공연",
+  "프로듀서",
+  "프로듀싱",
+  "예고편",
+  "티저",
+  "포스터",
+  "시리즈",
+  "칸",
+  "빌보드",
+  "넷플릭스",
+  "티빙",
+  "웨이브",
+  "디즈니+",
+  "쿠팡플레이",
+  "tvn",
+  "jtbc",
+  "mbc",
+  "sbs",
+  "kbs",
+  "ena",
+  "채널a",
+  ...ENTERTAINMENT_COMPANY_SIGNAL_TERMS,
+]);
+const ENTERTAINMENT_NOISE_TERMS = uniqueTerms([
+  "가상자산",
+  "가상화폐",
+  "암호화폐",
+  "비트코인",
+  "이더리움",
+  "토큰",
+  "업비트",
+  "빗썸",
+  "거래소",
+  "체결강도",
+  "주가",
+  "증시",
+  "코스피",
+  "코스닥",
+  "피싱",
+  "악성코드",
+  "인포스틸러",
+  "클릭픽스",
 ]);
 const CRYPTO_NOISE_TERMS = uniqueTerms(["가상자산", "가상화폐", "암호화폐", "비트코인", "이더리움", "코인", "알트코인", "업비트", "빗썸", "거래소", "체결강도", "토큰", "에어드랍"]);
 
@@ -152,7 +265,9 @@ async function main() {
   }
 
   mkdirSync(TABS_DIR, { recursive: true });
+  mkdirSync(SPOTLIGHTS_DIR, { recursive: true });
   cleanupObsoleteTabFiles();
+  cleanupObsoleteSpotlightFiles();
 
   let totalArticleCount = 0;
 
@@ -174,21 +289,52 @@ async function main() {
     });
   }
 
+  const esportsSpotlight = await buildEsportsSpotlight({
+    leagues: ESPORTS_SCHEDULE_LEAGUES,
+    generatedAt: GENERATED_AT,
+    nowMs: NOW_MS,
+    timeoutMs: FEED_TIMEOUT_MS,
+    requestDelayMs: REQUEST_DELAY_MS,
+    matchLimit: ESPORTS_MATCH_LIMIT,
+    activeWindowDays: ESPORTS_ACTIVE_WINDOW_DAYS,
+    liveGraceHours: ESPORTS_LIVE_GRACE_HOURS,
+    existingSpotlightPath: resolve(SPOTLIGHTS_DIR, "esports.json"),
+  });
+
+  writeJson(resolve(SPOTLIGHTS_DIR, "esports.json"), esportsSpotlight);
+
   writeJson(resolve(DATA_DIR, "metadata.json"), {
-    version: "0.5.0-live",
+    version: "0.7.0-live",
     sourceMode: "korean-rss",
-    sourceProvider: "rss",
+    sourceProvider: "rss+lolesports",
     contentLocale: "ko-KR",
     lastUpdatedAt: GENERATED_AT,
     tabCount: TABS.length,
     totalArticleCount,
     availableTabs: TABS.map((tab) => tab.key),
-    requestConfig: { lookbackHours: LOOKBACK_HOURS, maxItemsPerFeed: MAX_ITEMS_PER_FEED, articleLimitPerTab: ARTICLE_LIMIT_PER_TAB, feedTimeoutMs: FEED_TIMEOUT_MS },
+    requestConfig: {
+      lookbackHours: LOOKBACK_HOURS,
+      maxItemsPerFeed: MAX_ITEMS_PER_FEED,
+      articleLimitPerTab: ARTICLE_LIMIT_PER_TAB,
+      feedTimeoutMs: FEED_TIMEOUT_MS,
+      esportsMatchLimit: ESPORTS_MATCH_LIMIT,
+      esportsActiveWindowDays: ESPORTS_ACTIVE_WINDOW_DAYS,
+    },
     feedCount: FEEDS.length,
     successfulFeedCount: successfulFeeds.length,
     failedFeedCount: feedStatuses.length - successfulFeeds.length,
     successfulFeeds: successfulFeeds.map((feed) => ({ key: feed.key, source: feed.source, itemCount: feed.itemCount })),
     failedFeeds: feedStatuses.filter((feed) => !feed.ok).map((feed) => ({ key: feed.key, source: feed.source, error: feed.error })),
+    spotlightCount: 1,
+    spotlights: [
+      {
+        key: "esports",
+        source: LOL_ESPORTS_SOURCE,
+        activeLeagueKey: esportsSpotlight.activeLeagueKey,
+        activeLeagueLabel: esportsSpotlight.activeLeagueLabel,
+        matchCount: esportsSpotlight.matchCount,
+      },
+    ],
   });
 
   console.log(`NewsBox data updated successfully with ${totalArticleCount} Korean articles from ${successfulFeeds.length}/${FEEDS.length} feeds.`);
@@ -281,7 +427,7 @@ function dedupe(candidates) {
 
 function classifyArticle(article) {
   const text = buildSearchText(article);
-  const scope = analyzeScope(buildContentText(article), article);
+  const scope = analyzeScope(buildContentText(article));
   let bestTab = article.primaryHint || defaultTabForScope(scope);
   let bestScore = Number.NEGATIVE_INFINITY;
 
@@ -292,10 +438,14 @@ function classifyArticle(article) {
     if (scope.hasUnity && tab.key === "unity") score += 8;
     if (scope.hasGame && tab.key === "game") score += 6;
     if (scope.hasEntertainment && tab.key === "entertainment") score += 6;
+    if (scope.hasEsports && tab.key === "esports") score += 8;
+    if (scope.esportsHardAnchorCount > 0 && tab.key === "esports") score += 4;
+    if (scope.esportsTeamCount > 0 && tab.key === "esports") score += scope.esportsTeamCount * 2;
     if (!scope.hasAi && tab.key === "ai") score -= 1;
     if (!scope.hasUnity && tab.key === "unity") score -= 2;
     if (!scope.hasGame && tab.key === "game") score -= 2;
     if (!scope.hasEntertainment && tab.key === "entertainment") score -= 2;
+    if (!scope.hasEsports && tab.key === "esports") score -= 2;
     for (const [term, weight] of tab.terms) score += countTerm(text, term) * weight;
     if (score > bestScore || (score === bestScore && compareTabPriority(tab.key, bestTab) < 0)) {
       bestScore = score;
@@ -304,19 +454,27 @@ function classifyArticle(article) {
   }
 
   if (bestTab === "unity" && !scope.hasUnity) {
-    bestTab = scope.hasGame ? "game" : scope.hasEntertainment ? "entertainment" : "ai";
+    bestTab = scope.hasEsports ? "esports" : scope.hasGame ? "game" : scope.hasEntertainment ? "entertainment" : "ai";
   }
 
-  if (bestTab === "game" && !scope.hasGame) {
+  if (bestTab === "game" && scope.hasEsports && scope.esportsHardAnchorCount > 0) {
+    bestTab = "esports";
+  }
+
+  if (bestTab === "game" && !scope.hasGame && !scope.hasEsports) {
     bestTab = scope.hasUnity ? "unity" : scope.hasEntertainment ? "entertainment" : "ai";
   }
 
   if (bestTab === "entertainment" && !scope.hasEntertainment) {
-    bestTab = scope.hasGame ? "game" : scope.hasUnity ? "unity" : "ai";
+    bestTab = scope.hasEsports ? "esports" : scope.hasGame ? "game" : scope.hasUnity ? "unity" : "ai";
+  }
+
+  if (bestTab === "esports" && !scope.hasEsports) {
+    bestTab = scope.hasGame ? "game" : scope.hasUnity ? "unity" : scope.hasEntertainment ? "entertainment" : "ai";
   }
 
   if (bestTab === "ai" && !scope.hasAi) {
-    bestTab = scope.hasUnity ? "unity" : scope.hasGame ? "game" : "entertainment";
+    bestTab = scope.hasUnity ? "unity" : scope.hasEsports ? "esports" : scope.hasGame ? "game" : "entertainment";
   }
 
   return { id: article.id, title: article.title, url: article.url, source: article.source, publishedAt: article.publishedAt, summary: article.summary, tab: bestTab };
@@ -336,20 +494,23 @@ function isKoreanArticle(article) {
 
 function isRelevantArticle(article) {
   const text = buildContentText(article);
-  const scope = analyzeScope(text, article);
+  const scope = analyzeScope(text);
   const fromAiFeed = getHintList(article).includes("ai");
+  const fromEntertainmentFeed = getHintList(article).includes("entertainment");
 
-  if (!scope.hasAi && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment) return false;
+  if (!scope.hasAi && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment && !scope.hasEsports) return false;
   if (fromAiFeed && !scope.hasAi && !scope.hasUnity) return false;
-  if (scope.hasAiNegation && scope.aiSignalCount === 1 && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment) return false;
-  if (scope.hasCryptoNoise && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment) return false;
-  if (scope.hasCryptoNoise && !scope.hasUnity && scope.gameHardAnchorCount === 0 && scope.entertainmentSignalCount === 0) return false;
-  if (scope.hasCryptoNoise && !scope.hasUnity && scope.gameCompanyCount === 0 && scope.gameDevelopmentCoreCount === 0 && scope.gameCoreCount < 2 && scope.entertainmentSignalCount === 0) return false;
-  if (scope.hasCryptoNoise && scope.hasAi && !fromAiFeed && !scope.hasGame && !scope.hasEntertainment) return false;
+  if (fromEntertainmentFeed && scope.entertainmentHardAnchorCount === 0) return false;
+  if (scope.hasAiNegation && scope.aiSignalCount === 1 && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment && !scope.hasEsports) return false;
+  if (scope.hasEntertainmentNoise && scope.entertainmentHardAnchorCount === 0) return false;
+  if (scope.hasCryptoNoise && !scope.hasUnity && !scope.hasGame && !scope.hasEntertainment && !scope.hasEsports) return false;
+  if (scope.hasCryptoNoise && !scope.hasUnity && scope.gameHardAnchorCount === 0 && scope.entertainmentSignalCount === 0 && scope.esportsHardAnchorCount === 0) return false;
+  if (scope.hasCryptoNoise && !scope.hasUnity && scope.gameCompanyCount === 0 && scope.gameDevelopmentCoreCount === 0 && scope.gameCoreCount < 2 && scope.entertainmentSignalCount === 0 && scope.esportsSignalCount === 0) return false;
+  if (scope.hasCryptoNoise && scope.hasAi && !fromAiFeed && !scope.hasGame && !scope.hasEntertainment && !scope.hasEsports) return false;
   return true;
 }
 
-function analyzeScope(text, article) {
+function analyzeScope(text) {
   const aiSignalCount = countTerms(text, AI_SIGNAL_TERMS);
   const unitySignalCount = countTerms(text, UNITY_SIGNAL_TERMS);
   const gameSignalCount = countTerms(text, GAME_SIGNAL_TERMS);
@@ -358,14 +519,21 @@ function analyzeScope(text, article) {
   const gameCompanyCount = countTerms(text, GAME_COMPANY_SIGNAL_TERMS);
   const gameDevelopmentCoreCount = countTerms(text, GAME_DEVELOPMENT_CORE_TERMS);
   const gameIndustryCoreCount = countTerms(text, GAME_INDUSTRY_CORE_TERMS);
+  const esportsSignalCount = countTerms(text, ESPORTS_SIGNAL_TERMS);
+  const esportsHardAnchorCount = countTerms(text, ESPORTS_HARD_ANCHOR_TERMS);
+  const esportsTeamCount = countTerms(text, ESPORTS_TEAM_TERMS);
   const entertainmentSignalCount = countTerms(text, ENTERTAINMENT_SIGNAL_TERMS);
+  const entertainmentHardAnchorCount = countTerms(text, ENTERTAINMENT_HARD_ANCHOR_TERMS);
+  const entertainmentNoiseCount = countTerms(text, ENTERTAINMENT_NOISE_TERMS);
   const cryptoNoiseCount = countTerms(text, CRYPTO_NOISE_TERMS);
   return {
     hasAi: aiSignalCount > 0,
     hasAiNegation: hasAnyTerm(text, AI_NEGATION_TERMS),
     hasUnity: unitySignalCount > 0,
     hasGame: gameSignalCount > 0 || gameHardAnchorCount > 0 || gameCoreCount > 0 || gameCompanyCount > 0 || gameDevelopmentCoreCount > 0 || gameIndustryCoreCount > 0,
+    hasEsports: esportsSignalCount > 0 || esportsHardAnchorCount > 0 || (esportsTeamCount > 0 && (gameSignalCount > 0 || gameHardAnchorCount > 0)),
     hasEntertainment: entertainmentSignalCount > 0,
+    hasEntertainmentNoise: entertainmentNoiseCount > 0,
     hasCryptoNoise: cryptoNoiseCount > 0,
     aiSignalCount,
     unitySignalCount,
@@ -375,13 +543,19 @@ function analyzeScope(text, article) {
     gameCompanyCount,
     gameDevelopmentCoreCount,
     gameIndustryCoreCount,
+    esportsSignalCount,
+    esportsHardAnchorCount,
+    esportsTeamCount,
     entertainmentSignalCount,
+    entertainmentHardAnchorCount,
+    entertainmentNoiseCount,
     cryptoNoiseCount,
   };
 }
 
 function defaultTabForScope(scope) {
   if (scope.hasUnity) return "unity";
+  if (scope.hasEsports) return "esports";
   if (scope.hasGame) return "game";
   if (scope.hasEntertainment) return "entertainment";
   return "ai";
@@ -540,6 +714,16 @@ function cleanupObsoleteTabFiles() {
     if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
     if (!activeFiles.has(entry.name)) {
       rmSync(resolve(TABS_DIR, entry.name), { force: true });
+    }
+  }
+}
+
+function cleanupObsoleteSpotlightFiles() {
+  const activeFiles = new Set(["esports.json"]);
+  for (const entry of readdirSync(SPOTLIGHTS_DIR, { withFileTypes: true })) {
+    if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
+    if (!activeFiles.has(entry.name)) {
+      rmSync(resolve(SPOTLIGHTS_DIR, entry.name), { force: true });
     }
   }
 }
