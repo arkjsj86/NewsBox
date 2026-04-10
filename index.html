@@ -6,130 +6,166 @@
     <title>NewsBox</title>
     <meta
       name="description"
-      content="AI, Unity, 게임, 연예 뉴스를 탭으로 정리해 보여주는 NewsBox 초기 골격"
+      content="AI, Unity, 게임, 연예 뉴스를 차분한 에디토리얼 레이아웃으로 정리해 보여주는 NewsBox"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Work+Sans:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
     />
     <link rel="stylesheet" href="./src/styles.css" />
   </head>
   <body>
     <div class="site-shell">
-      <header class="hero">
-        <div class="hero__copy">
-          <p class="hero__eyebrow">INITIAL SKELETON</p>
-          <h1 class="hero__title">NewsBox</h1>
-          <p class="hero__lead">
-            AI, Unity, 게임, 연예 뉴스를 탭별로 정리해
-            보여주는 큐레이션 보드입니다.
-          </p>
-          <p class="hero__body">
-            지금 단계에서는 화면 구조, 탭 전환, 정적 데이터 연결 방식을 먼저
-            고정하고 이후에 수집기와 자동 갱신을 붙일 수 있도록 골격을
-            준비합니다.
-          </p>
-        </div>
+      <header class="topbar">
+        <a class="brand" href="#ai" aria-label="NewsBox 홈">
+          <span class="brand__wordmark">NewsBox</span>
+        </a>
 
-        <div class="hero__stats">
-          <article class="stat-card">
-            <span class="stat-card__label">고정 탭</span>
-            <strong class="stat-card__value">4개</strong>
-            <p class="stat-card__caption">주제별 큐레이션 시작점</p>
-          </article>
-          <article class="stat-card">
-            <span class="stat-card__label">전체 기사</span>
-            <strong class="stat-card__value" id="totalArticlesStat">-</strong>
-            <p class="stat-card__caption">현재 데이터 기준 합계</p>
-          </article>
-          <article class="stat-card">
-            <span class="stat-card__label">현재 탭 기사</span>
-            <strong class="stat-card__value" id="visibleArticlesStat">-</strong>
-            <p class="stat-card__caption">선택된 탭의 노출 개수</p>
-          </article>
-          <article class="stat-card stat-card--accent">
-            <span class="stat-card__label">데이터 상태</span>
-            <strong class="stat-card__value" id="dataModeStat">불러오는 중</strong>
-            <p class="stat-card__caption">정적 JSON 연결 준비</p>
-          </article>
-        </div>
-      </header>
-
-      <main class="board">
-        <section class="board__toolbar">
+        <nav class="topbar__tabs" aria-label="뉴스 주제 탭">
           <div
             class="tab-list"
             id="tabList"
             role="tablist"
             aria-label="뉴스 주제 탭"
           ></div>
+        </nav>
 
-          <div class="toolbar-status">
-            <div class="toolbar-status__top">
-              <div>
-                <p class="toolbar-status__label">마지막 갱신</p>
-                <strong class="toolbar-status__value" id="lastUpdatedLabel"
-                  >불러오는 중</strong
-                >
-              </div>
-              <button class="refresh-button" id="refreshButton" type="button">
-                데이터 다시 읽기
+        <div class="topbar__utility">
+          <span class="topbar__mode" id="dataModeStat">불러오는 중</span>
+        </div>
+      </header>
+
+      <main class="page">
+        <section class="hero" aria-labelledby="heroTitle">
+          <div class="hero__copy">
+            <p class="hero__eyebrow">TODAY'S SPOTLIGHT</p>
+            <h1 class="hero__title" id="heroTitle">
+              데이터를 불러오는 중입니다
+            </h1>
+            <p class="hero__lead" id="sectionDescription">
+              탭 설명을 준비하고 있습니다.
+            </p>
+            <p class="hero__summary" id="heroSummary">
+              잠시 후 최신 기사 하이라이트가 이 영역에 표시됩니다.
+            </p>
+
+            <div class="hero__actions">
+              <a
+                class="hero-button hero-button--primary"
+                id="spotlightLink"
+                href="#articleFeed"
+              >
+                원문 보기
+              </a>
+              <button
+                class="hero-button hero-button--secondary"
+                id="jumpToFeedButton"
+                type="button"
+              >
+                기사 리스트 보기
               </button>
             </div>
-            <p class="toolbar-status__message" id="statusLabel">
-              데이터 파일을 준비하고 있습니다.
-            </p>
-            <p class="toolbar-status__meta" id="dataMetaLabel">
-              버전과 데이터 모드 정보를 불러오는 중입니다.
-            </p>
+          </div>
+
+          <aside class="hero-panel" aria-label="큐레이션 패널">
+            <div class="hero-panel__art" aria-hidden="true">
+              <div class="hero-panel__orb"></div>
+              <div class="hero-panel__mesh"></div>
+              <div class="hero-panel__grain"></div>
+            </div>
+
+            <div class="hero-panel__content">
+              <p class="hero-panel__eyebrow" id="sectionKicker">Curated Feed</p>
+              <h2 class="hero-panel__headline" id="heroPanelHeadline">
+                탭 정보를 준비하고 있습니다
+              </h2>
+              <p class="hero-panel__body" id="heroPanelBody">
+                현재 선택한 탭의 기사 수와 소스 정보가 이곳에 표시됩니다.
+              </p>
+              <div class="hero-panel__meta">
+                <span id="heroPanelSource">소스 준비 중</span>
+                <span id="heroPanelTime">시간 준비 중</span>
+              </div>
+            </div>
+          </aside>
+        </section>
+
+        <section class="snapshot" aria-label="갱신 정보">
+          <div class="snapshot__metrics">
+            <article class="snapshot-card">
+              <p class="snapshot-card__label">Current Time</p>
+              <strong class="snapshot-card__value" id="currentTimeLabel">
+                --
+              </strong>
+            </article>
+
+            <article class="snapshot-card">
+              <p class="snapshot-card__label">Last Updated</p>
+              <strong class="snapshot-card__value" id="lastUpdatedLabel">
+                불러오는 중
+              </strong>
+            </article>
+
+            <article class="snapshot-card">
+              <p class="snapshot-card__label">Next Update</p>
+              <strong class="snapshot-card__value" id="nextUpdateLabel">
+                계산 중
+              </strong>
+            </article>
+          </div>
+
+          <button class="refresh-button" id="refreshButton" type="button">
+            수동 새로고침
+          </button>
+        </section>
+
+        <div class="snapshot__notes">
+          <p class="snapshot__status" id="statusLabel">
+            데이터 파일을 준비하고 있습니다.
+          </p>
+          <p class="snapshot__meta" id="dataMetaLabel">
+            버전과 데이터 모드 정보를 불러오는 중입니다.
+          </p>
+        </div>
+
+        <section class="feed-head" id="articleFeed">
+          <p class="feed-head__eyebrow" id="feedEyebrow">Curated Feed</p>
+          <div class="feed-head__row">
+            <div>
+              <h2 class="feed-head__title" id="sectionTitle">
+                기사 리스트를 불러오는 중입니다
+              </h2>
+              <p class="feed-head__description" id="feedDescription">
+                탭별 기사 목록을 차분한 카드 레이아웃으로 정리합니다.
+              </p>
+            </div>
+
+            <div class="feed-head__stats">
+              <article class="feed-stat">
+                <span class="feed-stat__label">전체 기사</span>
+                <strong class="feed-stat__value" id="totalArticlesStat">-</strong>
+              </article>
+              <article class="feed-stat">
+                <span class="feed-stat__label">현재 탭 기사</span>
+                <strong class="feed-stat__value" id="visibleArticlesStat">-</strong>
+              </article>
+            </div>
           </div>
         </section>
 
-        <section class="section-head">
-          <p class="section-head__kicker" id="sectionKicker">주제 선택</p>
-          <h2 class="section-head__title" id="sectionTitle">
-            뉴스 리스트를 불러오는 중입니다
-          </h2>
-          <p class="section-head__description" id="sectionDescription">
-            탭별 설명과 기사 목록이 여기에 표시됩니다.
-          </p>
-        </section>
-
-        <section
-          class="article-grid"
-          id="articleList"
-          aria-live="polite"
-        ></section>
+        <section class="article-grid" id="articleList" aria-live="polite"></section>
 
         <section class="empty-state" id="emptyState" hidden>
           <p class="empty-state__eyebrow">EMPTY STATE</p>
           <h3 class="empty-state__title">표시할 기사가 없습니다</h3>
           <p class="empty-state__body">
-            현재 탭에 연결된 더미 데이터가 없거나, 이후 수집 규칙이 비어 있을 수
-            있습니다.
+            현재 탭에 연결된 기사 데이터가 아직 없거나, 다음 갱신을 기다리는
+            상태일 수 있습니다.
           </p>
         </section>
       </main>
-
-      <section class="pipeline">
-        <article class="pipeline-card">
-          <span class="pipeline-card__step">01</span>
-          <h3 class="pipeline-card__title">Collect</h3>
-          <p class="pipeline-card__body">
-            탭별 규칙에 맞는 뉴스 데이터를 모으는 단계
-          </p>
-        </article>
-        <article class="pipeline-card">
-          <span class="pipeline-card__step">02</span>
-          <h3 class="pipeline-card__title">Classify &amp; Dedupe</h3>
-          <p class="pipeline-card__body">
-            중복을 줄이고 대표 탭 하나로 정리하는 단계
-          </p>
-        </article>
-        <article class="pipeline-card">
-          <span class="pipeline-card__step">03</span>
-          <h3 class="pipeline-card__title">Publish</h3>
-          <p class="pipeline-card__body">
-            정적 JSON을 갱신해 사이트가 바로 읽을 수 있게 만드는 단계
-          </p>
-        </article>
-      </section>
     </div>
 
     <noscript>
