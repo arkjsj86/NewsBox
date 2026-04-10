@@ -16,7 +16,7 @@ const GNEWS_LANG = process.env.NEWSBOX_GNEWS_LANG?.trim() || "en";
 const GNEWS_COUNTRY = process.env.NEWSBOX_GNEWS_COUNTRY?.trim() || "";
 const LOOKBACK_HOURS = clampNumber(process.env.NEWSBOX_LOOKBACK_HOURS, 72, 24, 168);
 const MAX_PER_TAB = clampNumber(process.env.NEWSBOX_GNEWS_MAX_PER_TAB, 10, 1, 25);
-const ARTICLE_LIMIT_PER_TAB = clampNumber(process.env.NEWSBOX_ARTICLE_LIMIT_PER_TAB, 20, 1, 20);
+const ARTICLE_LIMIT_PER_TAB = clampNumber(process.env.NEWSBOX_ARTICLE_LIMIT_PER_TAB, 30, 1, 30);
 const REQUEST_DELAY_MS = clampNumber(process.env.NEWSBOX_REQUEST_DELAY_MS, 1200, 0, 5000);
 
 const TAB_PRIORITY = [

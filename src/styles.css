@@ -235,7 +235,7 @@ a {
 .hero__title {
   margin-top: 18px;
   font-size: clamp(2.8rem, 6vw, 5rem);
-  line-height: 0.96;
+  line-height: 1.04;
 }
 
 .hero__lead {
@@ -415,18 +415,20 @@ a {
 }
 
 .snapshot {
-  display: flex;
-  gap: 18px;
-  align-items: end;
-  justify-content: space-between;
-  padding: 22px;
+  padding: 24px 28px;
   background: var(--surface-low);
 }
 
 .snapshot__metrics {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px;
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(20px, 4vw, 40px);
+  width: 100%;
+}
+
+.snapshot-card {
+  min-width: 0;
+  padding: 4px 0;
 }
 
 .snapshot-card__value {
@@ -715,8 +717,7 @@ a {
   }
 
   .snapshot {
-    flex-direction: column;
-    align-items: stretch;
+    padding: 22px;
   }
 
   .feed-head__row {
@@ -726,6 +727,11 @@ a {
   .snapshot__metrics,
   .feed-head__stats {
     width: 100%;
+  }
+
+  .snapshot__metrics {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 20px;
   }
 
   .article-grid {
@@ -767,6 +773,7 @@ a {
   }
 
   .snapshot__metrics {
+    grid-template-columns: 1fr;
     gap: 18px;
   }
 
@@ -775,8 +782,7 @@ a {
     flex-direction: column;
   }
 
-  .hero-button,
-  .refresh-button {
+  .hero-button {
     width: 100%;
   }
 

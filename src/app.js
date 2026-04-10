@@ -1,6 +1,7 @@
 const DISPLAY_TIMEZONE = "Asia/Seoul";
 const DISPLAY_OFFSET_MS = 9 * 60 * 60 * 1000;
 const REFRESH_INTERVAL_MS = 3 * 60 * 60 * 1000;
+const REFRESH_SCHEDULE_LABEL = "3시간마다 정각";
 
 const TAB_CONFIG = [
   {
@@ -9,13 +10,6 @@ const TAB_CONFIG = [
     kicker: "Artificial Intelligence",
     description: "생성형 AI, 모델, 인프라, 업계 흐름을 빠르게 확인하는 탭",
     heroLead: "한국어 AI 기사 흐름을 차분하게 읽을 수 있는 큐레이션 탭입니다.",
-  },
-  {
-    key: "unity",
-    label: "Unity",
-    kicker: "Engine & Ecosystem",
-    description: "Unity 엔진과 생태계 변화, 정책, 툴 업데이트를 모아보는 탭",
-    heroLead: "Unity 관련 공지, 생태계 변화, 개발 도구 흐름을 한 자리에서 확인합니다.",
   },
   {
     key: "game",
@@ -31,6 +25,13 @@ const TAB_CONFIG = [
     description: "배우, 아이돌, 드라마, 영화, 방송, OTT 화제를 모아보는 탭",
     heroLead: "드라마, 영화, 음악, 방송 소식을 부드러운 에디토리얼 톤으로 정리합니다.",
   },
+  {
+    key: "unity",
+    label: "Unity",
+    kicker: "Engine & Ecosystem",
+    description: "Unity 엔진과 생태계 변화, 정책, 툴 업데이트를 모아보는 탭",
+    heroLead: "Unity 관련 공지, 생태계 변화, 개발 도구 흐름을 한 자리에서 확인합니다.",
+  },
 ];
 
 const FALLBACK_DATA = {
@@ -43,7 +44,7 @@ const FALLBACK_DATA = {
     tabCount: 4,
     totalArticleCount: 4,
     requestConfig: {
-      articleLimitPerTab: 20,
+      articleLimitPerTab: 30,
     },
     feedCount: 0,
     successfulFeedCount: 0,
@@ -154,7 +155,6 @@ const elements = {
   dataModeStat: document.querySelector("#dataModeStat"),
   feedEyebrow: document.querySelector("#feedEyebrow"),
   feedDescription: document.querySelector("#feedDescription"),
-  refreshButton: document.querySelector("#refreshButton"),
 };
 
 initialize();
@@ -176,10 +176,6 @@ function bindEvents() {
     }
 
     render();
-  });
-
-  elements.refreshButton.addEventListener("click", async () => {
-    await refreshData({ manual: true });
   });
 
   elements.jumpToFeedButton.addEventListener("click", () => {
@@ -254,7 +250,6 @@ function render() {
 
   applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt);
   setStatus(getStatusMessage());
-  updateRefreshButton();
   renderTabs();
   renderArticles(feedArticles, activeConfig.label);
 }
@@ -265,7 +260,7 @@ function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpda
     elements.heroSummary.textContent = activeConfig.heroLead;
     elements.heroPanelHeadline.textContent = `${activeConfig.label} 기사 흐름을 기다리는 중입니다`;
     elements.heroPanelBody.textContent =
-      "다음 수집 주기에 새 기사가 들어오면 이 영역에 가장 중요한 하이라이트가 표시됩니다.";
+      `${REFRESH_SCHEDULE_LABEL} 갱신되며, 다음 수집 주기에 새 기사가 들어오면 이 영역에 가장 중요한 하이라이트가 표시됩니다.`;
     elements.heroPanelSource.textContent = "RSS 큐레이션";
     elements.heroPanelTime.textContent = formatDateTime(lastUpdatedAt);
     elements.spotlightLink.href = "#articleFeed";
@@ -457,27 +452,27 @@ function buildHeroPanelBody(activeConfig, spotlightArticle, articleCount) {
     128,
   );
 
-  return `${summary} 현재 ${activeConfig.label} 탭에는 ${articleCount}건이 연결돼 있습니다.`;
+  return `${summary} 현재 ${activeConfig.label} 탭에는 ${articleCount}건이 연결돼 있고 ${REFRESH_SCHEDULE_LABEL} 새 데이터로 갱신됩니다.`;
 }
 
 function buildFeedDescription(activeConfig, articleCount) {
   if (articleCount === 0) {
-    return `${activeConfig.description} 다음 갱신 주기에서 새 기사를 기다리는 중입니다.`;
+    return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며 다음 주기에서 새 기사를 기다리는 중입니다.`;
   }
 
-  return `${activeConfig.description} 상단 스포트라이트 1건과 이어지는 큐레이션 카드로 최근 흐름을 빠르게 훑어볼 수 있습니다.`;
+  return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 상단 스포트라이트 1건과 이어지는 큐레이션 카드로 최근 흐름을 빠르게 훑어볼 수 있습니다.`;
 }
 
 function getStatusMessage() {
   if (state.isLoading) {
-    return "데이터 파일을 다시 읽는 중입니다.";
+    return `${REFRESH_SCHEDULE_LABEL} 갱신되는 데이터 파일을 불러오는 중입니다.`;
   }
 
   if (state.isFallback) {
-    return "실제 JSON을 읽지 못해 내장 샘플 데이터로 화면을 유지하고 있습니다.";
+    return `실제 JSON을 읽지 못해 내장 샘플 데이터로 화면을 유지하고 있습니다. 운영 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
   }
 
-  return "정적 JSON과 RSS 수집 결과를 바탕으로 탭별 기사를 새 레이아웃에 맞춰 렌더링했습니다.";
+  return `정적 JSON과 RSS 수집 결과를 바탕으로 탭별 기사를 새 레이아웃에 맞춰 렌더링했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
 }
 
 function getDataModeLabel() {
@@ -507,6 +502,7 @@ function buildMetaLine() {
     `탭 ${state.metadata?.tabCount ?? TAB_CONFIG.length}개`,
     `피드 ${successfulFeedCount}/${feedCount} 성공`,
     `탭당 최대 ${articleLimit}건`,
+    `갱신 ${REFRESH_SCHEDULE_LABEL}`,
   ].join(" · ");
 }
 
@@ -619,15 +615,12 @@ function setStatus(message) {
   elements.statusLabel.textContent = message;
 }
 
-async function refreshData({ manual = false, isInitialLoad = false } = {}) {
+async function refreshData({ isInitialLoad = false } = {}) {
   state.isLoading = true;
-  updateRefreshButton();
   setStatus(
-    manual
-      ? "데이터 파일을 다시 읽는 중입니다."
-      : isInitialLoad
-        ? "초기 데이터를 불러오는 중입니다."
-        : "데이터 파일을 불러오는 중입니다.",
+    isInitialLoad
+      ? `${REFRESH_SCHEDULE_LABEL} 갱신되는 초기 데이터를 불러오는 중입니다.`
+      : `${REFRESH_SCHEDULE_LABEL} 갱신되는 데이터 파일을 불러오는 중입니다.`,
   );
 
   try {
@@ -659,11 +652,4 @@ async function loadJsonData(cacheBust) {
   );
 
   return { metadata, datasets: new Map(datasets) };
-}
-
-function updateRefreshButton() {
-  elements.refreshButton.disabled = state.isLoading;
-  elements.refreshButton.textContent = state.isLoading
-    ? "새로고침 중..."
-    : "수동 새로고침";
 }
