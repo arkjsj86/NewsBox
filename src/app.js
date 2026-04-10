@@ -260,10 +260,14 @@ const state = {
   metadata: null,
   datasets: new Map(),
   spotlights: new Map(),
+  standings: null,
   activeTab: getValidTabKey(window.location.hash.replace("#", "")) || "ai",
+  activeEsportsTab: "standings",
   isFallback: false,
   isLoading: false,
   clockTimer: null,
+  marqueeTimer: null,
+  marqueeIndex: 0,
 };
 
 const elements = {
@@ -324,6 +328,15 @@ function bindEvents() {
     document.querySelector("#articleFeed")?.scrollIntoView({
       behavior: "smooth",
       block: "start",
+    });
+  });
+
+  document.querySelectorAll('[data-esports-tab]').forEach((button) => {
+    button.addEventListener("click", () => {
+      const next = button.dataset.esportsTab;
+      if (!next || next === state.activeEsportsTab) return;
+      state.activeEsportsTab = next;
+      renderEsportsPanel();
     });
   });
 }
@@ -399,6 +412,7 @@ function render() {
   if (isEsportsTab) {
     applyEsportsHeroContent(activeConfig, esportsSpotlight, feedArticles.length, lastUpdatedAt);
   } else {
+    stopMarquee();
     applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt);
   }
   setStatus(getStatusMessage());
@@ -459,7 +473,7 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.heroSummary.textContent = "";
 
   elements.heroPanel.classList.add("is-esports");
-  renderLckStandings(LCK_STANDINGS_FALLBACK);
+  renderEsportsPanel();
 
   elements.spotlightLink.href = spotlight?.sourceUrl || "#articleFeed";
   elements.spotlightLink.target = spotlight?.sourceUrl ? "_blank" : "_self";
@@ -471,7 +485,33 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.spotlightLink.textContent = "공식 일정 보기";
 }
 
-function renderLckStandings(standings) {
+function renderEsportsPanel() {
+  stopMarquee();
+
+  const standings = state.standings ?? LCK_STANDINGS_FALLBACK;
+  const offSeason = Boolean(state.standings?.isOffSeason);
+  const hasRows = Array.isArray(standings.rows) && standings.rows.length > 0;
+  const forceMarquee = state.activeEsportsTab === "marquee";
+
+  if (forceMarquee || offSeason || !hasRows) {
+    renderLckMarquee(standings);
+  } else {
+    renderLckTable(standings);
+  }
+
+  syncEsportsTabButtons();
+}
+
+function syncEsportsTabButtons() {
+  const buttons = document.querySelectorAll('[data-esports-tab]');
+  buttons.forEach((button) => {
+    const isActive = button.dataset.esportsTab === state.activeEsportsTab;
+    button.classList.toggle("is-active", isActive);
+    button.setAttribute("aria-selected", String(isActive));
+  });
+}
+
+function renderLckTable(standings) {
   const view = elements.esportsPanelView;
   view.replaceChildren();
 
@@ -479,7 +519,7 @@ function renderLckStandings(standings) {
   header.className = "lck-standings__header";
   header.innerHTML = `
     <p class="lck-standings__league">${standings.leagueLabel}</p>
-    <p class="lck-standings__updated">${standings.updatedLabel}</p>
+    <p class="lck-standings__updated">${standings.updatedLabel ?? "공식 데이터 기준"}</p>
   `;
 
   const table = document.createElement("div");
@@ -499,7 +539,7 @@ function renderLckStandings(standings) {
   table.append(thead);
 
   standings.rows.forEach((row) => {
-    const logo = TEAM_LOGO_MAP[row.code];
+    const logo = TEAM_LOGO_MAP[row.code] ?? row.image ?? null;
 
     const line = document.createElement("div");
     line.className = "lck-standings__row";
@@ -521,6 +561,68 @@ function renderLckStandings(standings) {
   });
 
   view.append(header, table);
+}
+
+function renderLckMarquee(standings) {
+  const view = elements.esportsPanelView;
+  view.replaceChildren();
+
+  const header = document.createElement("header");
+  header.className = "lck-standings__header";
+  header.innerHTML = `
+    <p class="lck-standings__league">${standings.leagueLabel ?? "LCK"}</p>
+    <p class="lck-standings__updated">${standings.updatedLabel ?? "팀 라인업 미리보기"}</p>
+  `;
+
+  const marquee = document.createElement("div");
+  marquee.className = "lck-marquee";
+  marquee.setAttribute("aria-label", "LCK 팀 라인업");
+
+  const stage = document.createElement("div");
+  stage.className = "lck-marquee__stage";
+  marquee.append(stage);
+
+  const rows = Array.isArray(standings.rows) && standings.rows.length > 0
+    ? standings.rows
+    : LCK_STANDINGS_FALLBACK.rows;
+
+  if (rows.length === 0) {
+    view.append(header, marquee);
+    return;
+  }
+
+  state.marqueeIndex = 0;
+  view.append(header, marquee);
+  showMarqueeFrame(stage, rows, 0);
+
+  if (rows.length > 1) {
+    state.marqueeTimer = window.setInterval(() => {
+      state.marqueeIndex = (state.marqueeIndex + 1) % rows.length;
+      showMarqueeFrame(stage, rows, state.marqueeIndex);
+    }, 2400);
+  }
+}
+
+function showMarqueeFrame(stage, rows, index) {
+  const row = rows[index];
+  if (!row) return;
+  const logo = TEAM_LOGO_MAP[row.code] ?? row.image ?? null;
+
+  const frame = document.createElement("div");
+  frame.className = "lck-marquee__frame";
+  frame.innerHTML = logo
+    ? `<img class="lck-marquee__logo" src="${logo}" alt="${row.name ?? row.code}" loading="lazy" />`
+    : `<span class="lck-marquee__logo lck-marquee__logo--text">${row.code}</span>`;
+
+  stage.replaceChildren(frame);
+  requestAnimationFrame(() => frame.classList.add("is-shown"));
+}
+
+function stopMarquee() {
+  if (state.marqueeTimer) {
+    window.clearInterval(state.marqueeTimer);
+    state.marqueeTimer = null;
+  }
 }
 
 function renderHeroSchedule(matches) {
@@ -1067,16 +1169,18 @@ async function refreshData({ isInitialLoad = false } = {}) {
   );
 
   try {
-    const { metadata, datasets, spotlights } = await loadJsonData(Date.now());
+    const { metadata, datasets, spotlights, standings } = await loadJsonData(Date.now());
     state.metadata = metadata;
     state.datasets = datasets;
     state.spotlights = spotlights;
+    state.standings = standings;
     state.isFallback = false;
   } catch (error) {
     console.warn("NewsBox 데이터 파일을 읽지 못해 fallback 데이터를 사용합니다.", error);
     state.metadata = FALLBACK_DATA.metadata;
     state.datasets = new Map(Object.entries(FALLBACK_DATA.tabs));
     state.spotlights = new Map(Object.entries(FALLBACK_DATA.spotlights ?? {}));
+    state.standings = null;
     state.isFallback = true;
   } finally {
     state.isLoading = false;
@@ -1087,9 +1191,10 @@ async function refreshData({ isInitialLoad = false } = {}) {
 
 async function loadJsonData(cacheBust) {
   const metadataUrl = new URL("../data/metadata.json", import.meta.url);
-  const [metadata, spotlightPayload] = await Promise.all([
+  const [metadata, spotlightPayload, standingsPayload] = await Promise.all([
     fetchJson(metadataUrl, cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/esports.json", import.meta.url), cacheBust),
+    fetchOptionalJson(new URL("../data/spotlights/lck-standings.json", import.meta.url), cacheBust),
   ]);
   const datasets = await Promise.all(
     TAB_CONFIG.map(async (tab) => {
@@ -1104,7 +1209,7 @@ async function loadJsonData(cacheBust) {
     spotlights.set("esports", spotlightPayload);
   }
 
-  return { metadata, datasets: new Map(datasets), spotlights };
+  return { metadata, datasets: new Map(datasets), spotlights, standings: standingsPayload };
 }
 
 async function fetchOptionalJson(url, cacheBust) {
