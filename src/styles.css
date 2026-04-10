@@ -480,6 +480,15 @@ a {
   box-shadow: var(--shadow-float);
 }
 
+.hero-panel.is-esports {
+  display: flex;
+  flex-direction: column;
+}
+
+.hero-panel.is-esports .hero-panel__art {
+  display: none;
+}
+
 .hero-panel__art {
   position: absolute;
   inset: 0;
@@ -590,7 +599,8 @@ a {
   z-index: 1;
   display: flex;
   flex-direction: column;
-  height: 100%;
+  flex: 1;
+  min-height: 0;
   gap: 18px;
 }
 

@@ -275,6 +275,7 @@ const elements = {
   heroSummary: document.querySelector("#heroSummary"),
   heroSchedule: document.querySelector("#heroSchedule"),
   heroScheduleList: document.querySelector("#heroScheduleList"),
+  heroPanel: document.querySelector("#heroPanel"),
   heroPanelDefault: document.querySelector("#heroPanelDefault"),
   heroPanelEsports: document.querySelector("#heroPanelEsports"),
   esportsPanelView: document.querySelector("#esportsPanelView"),
@@ -408,6 +409,7 @@ function render() {
 function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt) {
   elements.heroSchedule.hidden = true;
   elements.heroScheduleList.replaceChildren();
+  elements.heroPanel.classList.remove("is-esports");
   elements.heroPanelDefault.hidden = false;
   elements.heroPanelEsports.hidden = true;
 
@@ -458,6 +460,7 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.sectionDescription.textContent = "";
   elements.heroSummary.textContent = "";
 
+  elements.heroPanel.classList.add("is-esports");
   elements.heroPanelDefault.hidden = true;
   elements.heroPanelEsports.hidden = false;
   renderLckStandings(LCK_STANDINGS_FALLBACK);
