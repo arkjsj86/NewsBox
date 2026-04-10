@@ -420,8 +420,8 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.heroSchedule.hidden = false;
   renderHeroSchedule(matches);
   elements.heroTitle.textContent = spotlight?.title || "Upcoming Matches";
-  elements.sectionDescription.textContent = spotlight?.description || activeConfig.description;
-  elements.heroSummary.textContent = buildEsportsHeroSummary(spotlight, articleCount);
+  elements.sectionDescription.textContent = "";
+  elements.heroSummary.textContent = "";
   elements.heroPanelHeadline.textContent = buildEsportsHeroPanelHeadline(spotlight);
   elements.heroPanelBody.textContent = buildEsportsHeroPanelBody(spotlight, articleCount);
   elements.heroPanelSource.textContent =
