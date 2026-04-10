@@ -485,7 +485,12 @@ a {
   flex-direction: column;
 }
 
-.hero-panel.is-esports .hero-panel__art {
+.hero-panel.is-esports .hero-panel__art,
+.hero-panel.is-esports .hero-panel__content {
+  display: none;
+}
+
+.hero-panel:not(.is-esports) .esports-panel {
   display: none;
 }
 

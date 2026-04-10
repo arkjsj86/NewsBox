@@ -410,8 +410,6 @@ function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpda
   elements.heroSchedule.hidden = true;
   elements.heroScheduleList.replaceChildren();
   elements.heroPanel.classList.remove("is-esports");
-  elements.heroPanelDefault.hidden = false;
-  elements.heroPanelEsports.hidden = true;
 
   if (!spotlightArticle) {
     elements.heroTitle.textContent = `${activeConfig.label} 탭을 준비하고 있습니다`;
@@ -461,8 +459,6 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.heroSummary.textContent = "";
 
   elements.heroPanel.classList.add("is-esports");
-  elements.heroPanelDefault.hidden = true;
-  elements.heroPanelEsports.hidden = false;
   renderLckStandings(LCK_STANDINGS_FALLBACK);
 
   elements.spotlightLink.href = spotlight?.sourceUrl || "#articleFeed";
