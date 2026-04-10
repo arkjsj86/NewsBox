@@ -152,7 +152,7 @@ const FALLBACK_DATA = {
       lastUpdatedAt: "2026-04-10T03:00:00Z",
       activeLeagueKey: "lck",
       activeLeagueLabel: "LCK",
-      title: "Upcoming Matches",
+      title: "경기 일정",
       description:
         "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.",
       sourceUrl: "https://lolesports.com/en-US/leagues/lck",
@@ -419,7 +419,7 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
 
   elements.heroSchedule.hidden = false;
   renderHeroSchedule(matches);
-  elements.heroTitle.textContent = spotlight?.title || "Upcoming Matches";
+  elements.heroTitle.textContent = spotlight?.title || "경기 일정";
   elements.sectionDescription.textContent = "";
   elements.heroSummary.textContent = "";
   elements.heroPanelHeadline.textContent = buildEsportsHeroPanelHeadline(spotlight);
@@ -617,21 +617,8 @@ function renderArticles(articles, currentLabel) {
 function createTeamCodeBadge(team) {
   const badge = document.createElement("span");
   badge.className = "hero-match__code";
+  badge.textContent = team?.code || "TBD";
   badge.title = team?.name || "팀 정보 준비 중";
-
-  if (team?.imageUrl) {
-    const img = document.createElement("img");
-    img.src = team.imageUrl;
-    img.alt = team.code || "TBD";
-    img.className = "hero-match__code-img";
-    img.addEventListener("error", () => {
-      img.replaceWith(document.createTextNode(team.code || "TBD"));
-    });
-    badge.append(img);
-  } else {
-    badge.textContent = team?.code || "TBD";
-  }
-
   return badge;
 }
 

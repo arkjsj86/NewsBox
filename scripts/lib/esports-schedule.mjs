@@ -83,7 +83,7 @@ export async function buildEsportsSpotlight({
     lastUpdatedAt: generatedAt,
     activeLeagueKey: selectedSchedule.league.key,
     activeLeagueLabel: selectedSchedule.league.label,
-    title: "Upcoming Matches",
+    title: "경기 일정",
     description: buildSpotlightDescription(selectedSchedule.league),
     sourceUrl: selectedSchedule.league.url,
     selectionRule: "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
@@ -211,7 +211,7 @@ function normalizeMatchTeam(team) {
     KNOWN_TEAM_CODES.get(name.toLowerCase()) ||
     normalizeText(team?.code) ||
     deriveTeamCode(name);
-  const imageUrl = normalizeText(team?.image) || null;
+  const imageUrl = normalizeText(team?.lightImage) || normalizeText(team?.image) || null;
   return { name, code: code.slice(0, 4).toUpperCase(), imageUrl };
 }
 
@@ -288,7 +288,7 @@ function buildFallbackEsportsSpotlight(generatedAt) {
     lastUpdatedAt: generatedAt,
     activeLeagueKey: "lck",
     activeLeagueLabel: "LCK",
-    title: "Upcoming Matches",
+    title: "경기 일정",
     description: "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.",
     sourceUrl: "https://lolesports.com/en-US/leagues/lck",
     selectionRule: "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
