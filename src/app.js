@@ -1,4 +1,17 @@
 const DISPLAY_TIMEZONE = "Asia/Seoul";
+
+const TEAM_LOGO_MAP = {
+  DNS: "./src/assets/teams/dns.png",
+  T1:  "./src/assets/teams/t1.png",
+  HLE: "./src/assets/teams/hle.png",
+  BFX: "./src/assets/teams/bfx.png",
+  NS:  "./src/assets/teams/ns.png",
+  DRX: "./src/assets/teams/drx.png",
+  DK:  "./src/assets/teams/dk.png",
+  GEN: "./src/assets/teams/gen.png",
+  BRO: "./src/assets/teams/bro.png",
+  KT:  "./src/assets/teams/kt.png",
+};
 const DISPLAY_OFFSET_MS = 9 * 60 * 60 * 1000;
 const REFRESH_INTERVAL_MS = 3 * 60 * 60 * 1000;
 const REFRESH_SCHEDULE_LABEL = "3시간마다 정각";
@@ -626,13 +639,15 @@ function createTeamTitleLogo(team) {
   const wrap = document.createElement("span");
   wrap.className = "hero-match__title-team";
 
-  if (team?.imageUrl) {
+  const src = TEAM_LOGO_MAP[team?.code] ?? team?.imageUrl ?? null;
+
+  if (src) {
     const img = document.createElement("img");
-    img.src = team.imageUrl;
-    img.alt = team.name || team.code || "TBD";
+    img.src = src;
+    img.alt = team?.name || team?.code || "TBD";
     img.className = "hero-match__title-img";
     img.addEventListener("error", () => {
-      img.replaceWith(document.createTextNode(team.code || "TBD"));
+      img.replaceWith(document.createTextNode(team?.code || "TBD"));
     });
     wrap.append(img);
   } else {

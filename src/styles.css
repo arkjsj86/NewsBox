@@ -354,14 +354,18 @@ a {
 .hero-match__title-team {
   display: inline-flex;
   align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 10px;
+  background: #1a1f2e;
+  flex-shrink: 0;
 }
 
 .hero-match__title-img {
-  height: 32px;
-  width: auto;
-  max-width: 80px;
+  width: 36px;
+  height: 36px;
   object-fit: contain;
-  object-position: left center;
 }
 
 .hero-match__vs {
@@ -955,8 +959,14 @@ a {
     flex-direction: row;
   }
 
+  .hero-match__title-team {
+    width: 44px;
+    height: 44px;
+  }
+
   .hero-match__title-img {
-    height: 26px;
+    width: 30px;
+    height: 30px;
   }
 
   .hero-match__timebox {

@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-04-10T04:47:34.484Z",
+  "lastUpdatedAt": "2026-04-10T05:54:10.645Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -32,7 +32,7 @@
         {
           "name": "T1",
           "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1592589079406_T1T1-02-SingleonDark.png"
+          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -50,7 +50,7 @@
         {
           "name": "Hanwha Life Esports",
           "code": "HLE",
-          "imageUrl": "http://static.lolesports.com/teams/hle-2021-white.png"
+          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
         },
         {
           "name": "BNK FEARX",
@@ -73,7 +73,7 @@
         {
           "name": "NONGSHIM RED FORCE",
           "code": "NS",
-          "imageUrl": "http://static.lolesports.com/teams/NSSingleonDark.png"
+          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
         },
         {
           "name": "KIWOOM DRX",
@@ -96,7 +96,7 @@
         {
           "name": "Dplus KIA",
           "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049704_DPlusKIALOGO11.png"
+          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
         },
         {
           "name": "Gen.G Esports",
@@ -147,7 +147,7 @@
         {
           "name": "kt Rolster",
           "code": "KT",
-          "imageUrl": "http://static.lolesports.com/teams/kt1_W.png"
+          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -165,7 +165,7 @@
         {
           "name": "NONGSHIM RED FORCE",
           "code": "NS",
-          "imageUrl": "http://static.lolesports.com/teams/NSSingleonDark.png"
+          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
         },
         {
           "name": "BNK FEARX",
@@ -188,12 +188,12 @@
         {
           "name": "kt Rolster",
           "code": "KT",
-          "imageUrl": "http://static.lolesports.com/teams/kt1_W.png"
+          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
         },
         {
           "name": "Dplus KIA",
           "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049704_DPlusKIALOGO11.png"
+          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -239,7 +239,7 @@
         {
           "name": "Hanwha Life Esports",
           "code": "HLE",
-          "imageUrl": "http://static.lolesports.com/teams/hle-2021-white.png"
+          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -280,12 +280,12 @@
         {
           "name": "Dplus KIA",
           "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049704_DPlusKIALOGO11.png"
+          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
         },
         {
           "name": "T1",
           "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1592589079406_T1T1-02-SingleonDark.png"
+          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -301,16 +301,14 @@
     {
       "key": "msi",
       "label": "MSI",
-      "ok": false,
-      "matchCount": 0,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "matchCount": 0
     },
     {
       "key": "worlds",
       "label": "Worlds",
-      "ok": false,
-      "matchCount": 0,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "matchCount": 0
     }
   ]
 }

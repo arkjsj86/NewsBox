@@ -211,7 +211,7 @@ function normalizeMatchTeam(team) {
     KNOWN_TEAM_CODES.get(name.toLowerCase()) ||
     normalizeText(team?.code) ||
     deriveTeamCode(name);
-  const imageUrl = normalizeText(team?.lightImage) || normalizeText(team?.image) || null;
+  const imageUrl = normalizeText(team?.image) || null;
   return { name, code: code.slice(0, 4).toUpperCase(), imageUrl };
 }
 
