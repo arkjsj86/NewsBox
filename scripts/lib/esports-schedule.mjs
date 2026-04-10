@@ -211,7 +211,8 @@ function normalizeMatchTeam(team) {
     KNOWN_TEAM_CODES.get(name.toLowerCase()) ||
     normalizeText(team?.code) ||
     deriveTeamCode(name);
-  return { name, code: code.slice(0, 4).toUpperCase() };
+  const imageUrl = normalizeText(team?.image) || null;
+  return { name, code: code.slice(0, 4).toUpperCase(), imageUrl };
 }
 
 function selectSpotlightSchedule({ schedules, nowMs, activeWindowMs, liveGraceMs }) {

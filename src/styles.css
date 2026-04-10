@@ -319,17 +319,23 @@ a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 42px;
+  width: 42px;
   height: 42px;
-  padding: 0 10px;
   border-radius: 999px;
-  background: rgba(85, 99, 75, 0.1);
+  background: rgba(85, 99, 75, 0.08);
   color: var(--primary);
   font-family: "Manrope", sans-serif;
   font-size: 0.76rem;
   font-weight: 800;
   letter-spacing: 0.08em;
   text-transform: uppercase;
+  overflow: hidden;
+}
+
+.hero-match__code-img {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
 }
 
 .hero-match__content {
@@ -343,6 +349,31 @@ a {
   font-weight: 800;
   letter-spacing: -0.03em;
   line-height: 1.18;
+}
+
+.hero-match__title--logos {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.hero-match__title-team {
+  display: inline-flex;
+  align-items: center;
+}
+
+.hero-match__title-img {
+  height: 32px;
+  width: auto;
+  object-fit: contain;
+}
+
+.hero-match__vs {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--text-muted);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 .hero-match__meta,
@@ -926,6 +957,10 @@ a {
 
   .hero-match__codes {
     flex-direction: row;
+  }
+
+  .hero-match__title-img {
+    height: 26px;
   }
 
   .hero-match__timebox {

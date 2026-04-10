@@ -474,7 +474,17 @@ function renderHeroSchedule(matches) {
 
     const title = document.createElement("h3");
     title.className = "hero-match__title";
-    title.textContent = buildMatchTitle(match);
+    const [leftTeam, rightTeam] = match.teams ?? [];
+    if (leftTeam?.imageUrl || rightTeam?.imageUrl) {
+      title.classList.add("hero-match__title--logos");
+      title.append(
+        createTeamTitleLogo(leftTeam),
+        createVsSeparator(),
+        createTeamTitleLogo(rightTeam),
+      );
+    } else {
+      title.textContent = buildMatchTitle(match);
+    }
 
     const meta = document.createElement("p");
     meta.className = "hero-match__meta";
@@ -607,9 +617,49 @@ function renderArticles(articles, currentLabel) {
 function createTeamCodeBadge(team) {
   const badge = document.createElement("span");
   badge.className = "hero-match__code";
-  badge.textContent = team?.code || "TBD";
   badge.title = team?.name || "팀 정보 준비 중";
+
+  if (team?.imageUrl) {
+    const img = document.createElement("img");
+    img.src = team.imageUrl;
+    img.alt = team.code || "TBD";
+    img.className = "hero-match__code-img";
+    img.addEventListener("error", () => {
+      img.replaceWith(document.createTextNode(team.code || "TBD"));
+    });
+    badge.append(img);
+  } else {
+    badge.textContent = team?.code || "TBD";
+  }
+
   return badge;
+}
+
+function createTeamTitleLogo(team) {
+  const wrap = document.createElement("span");
+  wrap.className = "hero-match__title-team";
+
+  if (team?.imageUrl) {
+    const img = document.createElement("img");
+    img.src = team.imageUrl;
+    img.alt = team.name || team.code || "TBD";
+    img.className = "hero-match__title-img";
+    img.addEventListener("error", () => {
+      img.replaceWith(document.createTextNode(team.code || "TBD"));
+    });
+    wrap.append(img);
+  } else {
+    wrap.textContent = team?.code || "TBD";
+  }
+
+  return wrap;
+}
+
+function createVsSeparator() {
+  const span = document.createElement("span");
+  span.className = "hero-match__vs";
+  span.textContent = "vs";
+  return span;
 }
 
 function buildMatchTitle(match) {
