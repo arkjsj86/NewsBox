@@ -185,7 +185,7 @@ a {
   grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
   gap: 24px;
   align-items: stretch;
-  min-height: 560px;
+  height: 560px;
 }
 
 .hero__copy,
@@ -198,7 +198,11 @@ a {
 }
 
 .hero__copy {
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
   padding: 18px 2px 0;
+  overflow: hidden;
 }
 
 .hero__eyebrow,
@@ -249,6 +253,10 @@ a {
   color: var(--text-soft);
   font-size: clamp(1rem, 1.5vw, 1.16rem);
   line-height: 1.72;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
 }
 
 .hero__summary {
@@ -256,6 +264,10 @@ a {
   margin: 14px 0 0;
   color: var(--text-muted);
   line-height: 1.72;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
 }
 
 .hero-schedule {
@@ -460,7 +472,6 @@ a {
 .hero-panel {
   position: relative;
   overflow: hidden;
-  min-height: 520px;
   height: 100%;
   padding: 28px;
   background:
@@ -546,6 +557,10 @@ a {
   margin: 16px 0 0;
   color: rgba(255, 248, 241, 0.7);
   line-height: 1.7;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
 }
 
 .hero-panel__meta {
@@ -568,6 +583,203 @@ a {
   border-radius: 999px;
   background: rgba(255, 248, 241, 0.08);
   backdrop-filter: blur(14px);
+}
+
+.esports-panel {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  gap: 18px;
+}
+
+.esports-panel__tabs {
+  display: flex;
+  gap: 6px;
+  padding: 4px;
+  border-radius: 999px;
+  background: rgba(255, 248, 241, 0.08);
+  backdrop-filter: blur(14px);
+}
+
+.esports-panel__tab {
+  flex: 1;
+  padding: 9px 14px;
+  border: 0;
+  border-radius: 999px;
+  background: transparent;
+  color: rgba(255, 248, 241, 0.62);
+  font-family: inherit;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  cursor: pointer;
+  transition:
+    background-color var(--transition),
+    color var(--transition);
+}
+
+.esports-panel__tab:hover:not(:disabled) {
+  color: rgba(255, 248, 241, 0.92);
+}
+
+.esports-panel__tab.is-active {
+  background: rgba(255, 248, 241, 0.96);
+  color: #1a1f2e;
+}
+
+.esports-panel__tab:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.esports-panel__view {
+  flex: 1;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.lck-standings__header {
+  margin-bottom: 12px;
+}
+
+.lck-standings__league {
+  margin: 0;
+  color: rgba(255, 248, 241, 0.96);
+  font-family: "Manrope", sans-serif;
+  font-size: 1.02rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+}
+
+.lck-standings__updated {
+  margin: 4px 0 0;
+  color: rgba(255, 248, 241, 0.5);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.lck-standings {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-height: 0;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+.lck-standings::-webkit-scrollbar {
+  width: 6px;
+}
+
+.lck-standings::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: rgba(255, 248, 241, 0.16);
+}
+
+.lck-standings::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.lck-standings__row {
+  display: grid;
+  grid-template-columns: 24px minmax(0, 1fr) 48px 44px;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 10px;
+  border-radius: 10px;
+  color: rgba(255, 248, 241, 0.92);
+  font-size: 0.84rem;
+  font-weight: 700;
+}
+
+.lck-standings__row:nth-child(even) {
+  background: rgba(255, 248, 241, 0.04);
+}
+
+.lck-standings__row--head {
+  padding: 6px 10px;
+  background: transparent !important;
+  color: rgba(255, 248, 241, 0.46);
+  font-size: 0.66rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.lck-standings__cell {
+  display: inline-flex;
+  align-items: center;
+}
+
+.lck-standings__cell--rank {
+  justify-content: center;
+  font-family: "Manrope", sans-serif;
+  font-weight: 800;
+  color: rgba(255, 248, 241, 0.78);
+}
+
+.lck-standings__row:not(.lck-standings__row--head) .lck-standings__cell--rank {
+  color: rgba(255, 248, 241, 0.6);
+}
+
+.lck-standings__row:nth-child(2) .lck-standings__cell--rank,
+.lck-standings__row:nth-child(3) .lck-standings__cell--rank,
+.lck-standings__row:nth-child(4) .lck-standings__cell--rank {
+  color: #ffd66e;
+}
+
+.lck-standings__cell--team {
+  gap: 8px;
+  min-width: 0;
+}
+
+.lck-standings__logo {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 6px;
+  background: rgba(255, 255, 255, 0.06);
+  flex-shrink: 0;
+}
+
+.lck-standings__logo img {
+  width: 18px;
+  height: 18px;
+  object-fit: contain;
+}
+
+.lck-standings__logo--text {
+  font-size: 0.6rem;
+  font-weight: 800;
+  color: rgba(255, 248, 241, 0.7);
+}
+
+.lck-standings__code {
+  font-family: "Manrope", sans-serif;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.lck-standings__cell--record {
+  justify-content: flex-end;
+  font-family: "Manrope", sans-serif;
+  font-variant-numeric: tabular-nums;
+}
+
+.lck-standings__cell--points {
+  justify-content: flex-end;
+  font-family: "Manrope", sans-serif;
+  font-variant-numeric: tabular-nums;
+  font-weight: 800;
+  color: rgba(255, 248, 241, 0.92);
 }
 
 .snapshot {
@@ -835,6 +1047,11 @@ a {
 @media (max-width: 1180px) {
   .hero {
     grid-template-columns: 1fr;
+    height: auto;
+  }
+
+  .hero__copy {
+    overflow: visible;
   }
 
   .hero-panel {
