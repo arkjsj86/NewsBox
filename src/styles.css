@@ -279,7 +279,8 @@ a {
 }
 
 .hero-schedule:not([hidden]) ~ .hero__actions {
-  margin-top: 14px;
+  margin-top: auto;
+  padding-top: 18px;
 }
 
 .hero-schedule__list {
@@ -289,10 +290,6 @@ a {
   max-height: 240px;
   overflow-y: auto;
   padding-right: 8px;
-}
-
-.hero-schedule:not([hidden]) .hero-schedule__list {
-  max-height: 188px;
 }
 
 .hero-schedule__list::-webkit-scrollbar {
