@@ -76,6 +76,31 @@ const AI_PANEL_GROUPS = [
   },
 ];
 
+const ENTERTAINMENT_TRENDS_FALLBACK = {
+  tab: "entertainment",
+  type: "trend-ranking",
+  source: "Google Trends",
+  sourceMode: "fallback",
+  sourceUrl: "https://trends.google.com/trending/rss?geo=KR",
+  title: "연예 화제 1~10위",
+  updatedLabel: "Google Trends 기준",
+  lastUpdatedAt: "2026-04-10T03:00:00Z",
+  rankingLimit: 10,
+  itemCount: 10,
+  items: [
+    { rank: 1, title: "옥주현 한남더힐 매입", source: "스포츠경향", approxTraffic: "1000+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 2, title: "변우석 광고 몸값 화제", source: "세계일보", approxTraffic: "1000+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 3, title: "첸백시 전속계약 해지 통보", source: "Daum", approxTraffic: "500+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 4, title: "백현 INB100 계약 이슈", source: "뉴시스", approxTraffic: "500+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 5, title: "연예계 부동산 매입 이슈", source: "조선일보", approxTraffic: "500+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 6, title: "아이돌 소속사 계약 흐름", source: "NewsBox Sample", approxTraffic: "300+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 7, title: "배우 화보·광고 화제성", source: "NewsBox Sample", approxTraffic: "300+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 8, title: "방송·드라마 키워드 집계", source: "NewsBox Sample", approxTraffic: "200+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 9, title: "음악·공연 뉴스 신호", source: "NewsBox Sample", approxTraffic: "200+", url: "https://trends.google.com/trending/rss?geo=KR" },
+    { rank: 10, title: "다음 연예 트렌드 수집 중", source: "Google Trends", approxTraffic: "-", url: "https://trends.google.com/trending/rss?geo=KR" },
+  ],
+};
+
 const TAB_CONFIG = [
   {
     key: "ai",
@@ -217,6 +242,7 @@ const FALLBACK_DATA = {
     },
     },
   spotlights: {
+    entertainment: ENTERTAINMENT_TRENDS_FALLBACK,
     esports: {
       tab: "esports",
       type: "league-schedule",
@@ -326,6 +352,8 @@ const elements = {
   heroPanelDefault: document.querySelector("#heroPanelDefault"),
   heroPanelAi: document.querySelector("#heroPanelAi"),
   aiPanelView: document.querySelector("#aiPanelView"),
+  heroPanelEntertainment: document.querySelector("#heroPanelEntertainment"),
+  entertainmentPanelView: document.querySelector("#entertainmentPanelView"),
   heroPanelEsports: document.querySelector("#heroPanelEsports"),
   esportsPanelView: document.querySelector("#esportsPanelView"),
   heroPanelHeadline: document.querySelector("#heroPanelHeadline"),
@@ -428,7 +456,11 @@ function render() {
   };
   const articles = getSortedArticles(dataset.articles);
   const isEsportsTab = activeConfig.key === "esports";
+  const isEntertainmentTab = activeConfig.key === "entertainment";
   const esportsSpotlight = isEsportsTab ? state.spotlights.get("esports") ?? null : null;
+  const entertainmentSpotlight = isEntertainmentTab
+    ? state.spotlights.get("entertainment") ?? ENTERTAINMENT_TRENDS_FALLBACK
+    : null;
   const spotlightArticle = isEsportsTab ? null : articles[0] ?? null;
   const feedArticles = isEsportsTab ? articles : spotlightArticle ? articles.slice(1) : articles;
   const totalArticles = getTotalArticleCount();
@@ -458,21 +490,26 @@ function render() {
     applyEsportsHeroContent(activeConfig, esportsSpotlight, feedArticles.length, lastUpdatedAt);
   } else {
     stopMarquee();
-    applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt);
+    applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt, entertainmentSpotlight);
   }
   setStatus(getStatusMessage());
   renderTabs();
   renderArticles(feedArticles, activeConfig.label);
 }
 
-function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt) {
+function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt, panelSpotlight = null) {
   elements.heroSchedule.hidden = true;
   elements.heroScheduleList.replaceChildren();
   elements.heroPanel.classList.remove("is-esports");
   elements.heroPanel.classList.toggle("is-ai", activeConfig.key === "ai");
+  elements.heroPanel.classList.toggle("is-entertainment", activeConfig.key === "entertainment");
 
   if (activeConfig.key === "ai") {
     renderAiPanel();
+  }
+
+  if (activeConfig.key === "entertainment") {
+    renderEntertainmentPanel(panelSpotlight);
   }
 
   if (!spotlightArticle) {
@@ -523,6 +560,7 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.heroSummary.textContent = "";
 
   elements.heroPanel.classList.remove("is-ai");
+  elements.heroPanel.classList.remove("is-entertainment");
   elements.heroPanel.classList.add("is-esports");
   renderEsportsPanel();
 
@@ -589,6 +627,66 @@ function renderAiPanel() {
   footer.textContent = "대표 서비스 기준 · 실시간 인기 순위는 아닙니다.";
 
   view.append(header, groups, footer);
+}
+
+function renderEntertainmentPanel(spotlight) {
+  const view = elements.entertainmentPanelView;
+  if (!view) return;
+
+  view.replaceChildren();
+
+  const rankingLimit = spotlight?.rankingLimit ?? 10;
+  const liveItems = Array.isArray(spotlight?.items) ? spotlight.items : [];
+  const fallbackItems = state.isFallback ? ENTERTAINMENT_TRENDS_FALLBACK.items : [];
+  const items = liveItems.length > 0 ? liveItems : fallbackItems;
+
+  const header = document.createElement("header");
+  header.className = "entertainment-panel__header";
+  header.innerHTML = `
+    <p class="entertainment-panel__eyebrow">Google Trends</p>
+    <div class="entertainment-panel__title-row">
+      <h2 class="entertainment-panel__title">${spotlight?.title ?? "연예 화제 1~10위"}</h2>
+      <p class="entertainment-panel__updated-time">${getSpotlightUpdatedAtText(spotlight)}</p>
+    </div>
+    <p class="entertainment-panel__body">
+      한국 인기 검색어와 연예 기사 신호를 묶어 ${REFRESH_SCHEDULE_LABEL} 다시 계산한 랭킹입니다.
+    </p>
+  `;
+
+  const list = document.createElement("div");
+  list.className = "entertainment-panel__list";
+
+  for (let index = 0; index < rankingLimit; index += 1) {
+    const item = items[index] ?? null;
+    const row = document.createElement(item?.url ? "a" : "div");
+    row.className = `entertainment-panel__row${item ? "" : " entertainment-panel__row--empty"}`;
+    row.setAttribute("role", "listitem");
+
+    if (item?.url) {
+      row.href = item.url;
+      row.target = "_blank";
+      row.rel = "noreferrer";
+    }
+
+    const displayRank = item?.rank ?? index + 1;
+    const trafficLabel = item?.approxTraffic || "-";
+    const metaLabel = item
+      ? [item.source || "Google Trends", trafficLabel].filter(Boolean).join(" · ")
+      : "다음 연예 트렌드 수집 중";
+
+    row.innerHTML = `
+      <span class="entertainment-panel__rank">${displayRank}</span>
+      <span class="entertainment-panel__copy">
+        <strong class="entertainment-panel__item-title">${item?.title ?? "수집 중"}</strong>
+        <span class="entertainment-panel__item-meta">${metaLabel}</span>
+      </span>
+      <span class="entertainment-panel__traffic">${trafficLabel}</span>
+    `;
+
+    list.append(row);
+  }
+
+  view.append(header, list);
 }
 
 function renderEsportsPanel() {
@@ -1037,6 +1135,11 @@ function buildFeedDescription(activeConfig, articleCount) {
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 상단 일정 스포트라이트 아래에 기사 ${articleCount}건을 이어서 읽을 수 있습니다.`;
   }
 
+  if (activeConfig.key === "entertainment") {
+    const trendCount = state.spotlights.get("entertainment")?.itemCount ?? 0;
+    return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 Google Trends 연예 이슈 Top ${Math.max(10, trendCount || 10)}을 함께 볼 수 있습니다.`;
+  }
+
   if (articleCount === 0) {
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며 다음 주기에서 새 기사를 기다리는 중입니다.`;
   }
@@ -1055,6 +1158,10 @@ function getStatusMessage() {
 
   if (state.activeTab === "esports") {
     return `정적 JSON 기사와 공식 LoL Esports 일정 데이터를 함께 사용해 e스포츠 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
+  }
+
+  if (state.activeTab === "entertainment") {
+    return `정적 JSON 기사와 Google Trends 연예 랭킹을 함께 사용해 연예 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
   }
 
   return `정적 JSON과 RSS 수집 결과를 바탕으로 탭별 기사를 새 레이아웃에 맞춰 렌더링했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
@@ -1086,6 +1193,7 @@ function buildMetaLine() {
     `버전 ${state.metadata?.version ?? "-"}`,
     `탭 ${state.metadata?.tabCount ?? TAB_CONFIG.length}개`,
     `피드 ${successfulFeedCount}/${feedCount} 성공`,
+    state.spotlights.has("entertainment") ? "연예 트렌드 연동" : null,
     state.spotlights.has("esports") ? "e스포츠 일정 연동" : null,
     `탭당 최대 ${articleLimit}건`,
     `갱신 ${REFRESH_SCHEDULE_LABEL}`,
@@ -1163,6 +1271,11 @@ function formatDateTime(value) {
 
 function getStandingsUpdatedAtText(standings) {
   const updatedAt = standings?.lastUpdatedAt ?? standings?.fetchedAt ?? null;
+  return updatedAt ? `최종 갱신 ${formatDateTime(updatedAt)}` : "최종 갱신 없음";
+}
+
+function getSpotlightUpdatedAtText(spotlight) {
+  const updatedAt = spotlight?.lastUpdatedAt ?? spotlight?.fetchedAt ?? null;
   return updatedAt ? `최종 갱신 ${formatDateTime(updatedAt)}` : "최종 갱신 없음";
 }
 
@@ -1308,8 +1421,9 @@ async function refreshData({ isInitialLoad = false } = {}) {
 
 async function loadJsonData(cacheBust) {
   const metadataUrl = new URL("../data/metadata.json", import.meta.url);
-  const [metadata, spotlightPayload, standingsPayload] = await Promise.all([
+  const [metadata, entertainmentSpotlightPayload, esportsSpotlightPayload, standingsPayload] = await Promise.all([
     fetchJson(metadataUrl, cacheBust),
+    fetchOptionalJson(new URL("../data/spotlights/entertainment.json", import.meta.url), cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/esports.json", import.meta.url), cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/lck-standings.json", import.meta.url), cacheBust),
   ]);
@@ -1322,8 +1436,11 @@ async function loadJsonData(cacheBust) {
   );
 
   const spotlights = new Map();
-  if (spotlightPayload) {
-    spotlights.set("esports", spotlightPayload);
+  if (entertainmentSpotlightPayload) {
+    spotlights.set("entertainment", entertainmentSpotlightPayload);
+  }
+  if (esportsSpotlightPayload) {
+    spotlights.set("esports", esportsSpotlightPayload);
   }
 
   return { metadata, datasets: new Map(datasets), spotlights, standings: standingsPayload };
