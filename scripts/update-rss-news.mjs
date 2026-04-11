@@ -2,6 +2,10 @@ import { createHash } from "node:crypto";
 import { mkdirSync, readdirSync, rmSync, writeFileSync } from "node:fs";
 import { resolve } from "node:path";
 import {
+  GOOGLE_TRENDS_SOURCE,
+  buildEntertainmentSpotlight,
+} from "./lib/entertainment-trends.mjs";
+import {
   LOL_ESPORTS_SOURCE,
   buildEsportsSpotlight,
 } from "./lib/esports-schedule.mjs";
@@ -19,6 +23,13 @@ const ARTICLE_LIMIT_PER_TAB = clampNumber(process.env.NEWSBOX_ARTICLE_LIMIT_PER_
 const REQUEST_DELAY_MS = clampNumber(process.env.NEWSBOX_REQUEST_DELAY_MS, 300, 0, 5000);
 const FEED_TIMEOUT_MS = clampNumber(process.env.NEWSBOX_FEED_TIMEOUT_MS, 25000, 5000, 30000);
 const ESPORTS_MATCH_LIMIT = clampNumber(process.env.NEWSBOX_ESPORTS_MATCH_LIMIT, 12, 3, 18);
+const ENTERTAINMENT_TREND_LIMIT = clampNumber(process.env.NEWSBOX_ENTERTAINMENT_TREND_LIMIT, 10, 3, 10);
+const ENTERTAINMENT_TREND_WINDOW_HOURS = clampNumber(
+  process.env.NEWSBOX_ENTERTAINMENT_TREND_WINDOW_HOURS,
+  48,
+  12,
+  96,
+);
 const ESPORTS_ACTIVE_WINDOW_DAYS = clampNumber(
   process.env.NEWSBOX_ESPORTS_ACTIVE_WINDOW_DAYS,
   21,
@@ -302,12 +313,23 @@ async function main() {
     existingSpotlightPath: resolve(SPOTLIGHTS_DIR, "esports.json"),
   });
 
+  const entertainmentSpotlight = await buildEntertainmentSpotlight({
+    generatedAt: GENERATED_AT,
+    nowMs: NOW_MS,
+    timeoutMs: FEED_TIMEOUT_MS,
+    existingSpotlightPath: resolve(SPOTLIGHTS_DIR, "entertainment.json"),
+    referenceArticles: perTab.get("entertainment") ?? [],
+    rankingLimit: ENTERTAINMENT_TREND_LIMIT,
+    historyRetentionHours: ENTERTAINMENT_TREND_WINDOW_HOURS,
+  });
+
   writeJson(resolve(SPOTLIGHTS_DIR, "esports.json"), esportsSpotlight);
+  writeJson(resolve(SPOTLIGHTS_DIR, "entertainment.json"), entertainmentSpotlight);
 
   writeJson(resolve(DATA_DIR, "metadata.json"), {
     version: "0.7.0-live",
     sourceMode: "korean-rss",
-    sourceProvider: "rss+lolesports",
+    sourceProvider: "rss+lolesports+googletrends",
     contentLocale: "ko-KR",
     lastUpdatedAt: GENERATED_AT,
     tabCount: TABS.length,
@@ -318,6 +340,8 @@ async function main() {
       maxItemsPerFeed: MAX_ITEMS_PER_FEED,
       articleLimitPerTab: ARTICLE_LIMIT_PER_TAB,
       feedTimeoutMs: FEED_TIMEOUT_MS,
+      entertainmentTrendLimit: ENTERTAINMENT_TREND_LIMIT,
+      entertainmentTrendWindowHours: ENTERTAINMENT_TREND_WINDOW_HOURS,
       esportsMatchLimit: ESPORTS_MATCH_LIMIT,
       esportsActiveWindowDays: ESPORTS_ACTIVE_WINDOW_DAYS,
     },
@@ -326,8 +350,13 @@ async function main() {
     failedFeedCount: feedStatuses.length - successfulFeeds.length,
     successfulFeeds: successfulFeeds.map((feed) => ({ key: feed.key, source: feed.source, itemCount: feed.itemCount })),
     failedFeeds: feedStatuses.filter((feed) => !feed.ok).map((feed) => ({ key: feed.key, source: feed.source, error: feed.error })),
-    spotlightCount: 1,
+    spotlightCount: 2,
     spotlights: [
+      {
+        key: "entertainment",
+        source: GOOGLE_TRENDS_SOURCE,
+        itemCount: entertainmentSpotlight.itemCount,
+      },
       {
         key: "esports",
         source: LOL_ESPORTS_SOURCE,
@@ -720,7 +749,7 @@ function cleanupObsoleteTabFiles() {
 }
 
 function cleanupObsoleteSpotlightFiles() {
-  const activeFiles = new Set(["esports.json", "lck-standings.json"]);
+  const activeFiles = new Set(["entertainment.json", "esports.json", "lck-standings.json"]);
   for (const entry of readdirSync(SPOTLIGHTS_DIR, { withFileTypes: true })) {
     if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
     if (!activeFiles.has(entry.name)) {
