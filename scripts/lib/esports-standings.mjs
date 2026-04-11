@@ -3,6 +3,18 @@ import { existsSync, readFileSync } from "node:fs";
 export const LCK_STANDINGS_SOURCE = "LoL Esports";
 export const LCK_STANDINGS_URL = "https://lolesports.com/en-US/leagues/lck";
 
+const LOL_ESPORTS_API_BASE = "https://esports-api.lolesports.com/persisted/gw";
+const LOL_ESPORTS_API_HL = "en-US";
+const LOL_ESPORTS_API_KEY =
+  process.env.NEWSBOX_LOL_ESPORTS_API_KEY?.trim() ||
+  "0TvQnueqKa5mxJntVWt0w4LpLfEkrV1Ta8rQBb9Z";
+const LCK_LEAGUE_ID = "98767991310872058";
+
+const TEAM_CODE_ALIASES = new Map([
+  ["kiwoom drx", "DRX"],
+  ["krx", "DRX"],
+]);
+
 export async function buildLckStandings({
   url = LCK_STANDINGS_URL,
   timeoutMs = 25000,
@@ -11,198 +23,245 @@ export async function buildLckStandings({
   scheduleSpotlightPath,
 }) {
   const isOffSeason = detectOffSeason(scheduleSpotlightPath);
+  const referenceMs = Number.isFinite(Date.parse(generatedAt))
+    ? Date.parse(generatedAt)
+    : Date.now();
 
-  let html;
+  let selected;
   try {
-    html = await fetchLckLeaguePage(url, timeoutMs);
+    selected = await fetchCurrentLckStandings({ timeoutMs, referenceMs });
   } catch (error) {
-    console.warn(`[newsbox] Failed to fetch LCK standings page: ${error.message}`);
+    console.warn(`[newsbox] Failed to fetch structured LCK standings: ${error.message}`);
     return readExistingStandings(existingPath) ?? buildFallbackStandings(generatedAt, isOffSeason);
   }
 
-  const tournament = selectActiveLckTournament(html);
-
-  if (!tournament) {
-    console.warn("[newsbox] No LCK tournament found in standings page.");
+  if (!selected || selected.rows.length === 0) {
+    console.warn("[newsbox] Structured LCK standings response did not include ranking rows.");
     return readExistingStandings(existingPath) ?? buildFallbackStandings(generatedAt, isOffSeason);
   }
-
-  const records = extractTournamentRecords(html, tournament.slug);
-
-  if (records.length === 0) {
-    console.warn(`[newsbox] No team records found for ${tournament.slug}.`);
-    return readExistingStandings(existingPath) ?? buildFallbackStandings(generatedAt, isOffSeason);
-  }
-
-  const teamMeta = extractTeamMetadata(html);
-  const rows = buildStandingRows(records, teamMeta);
 
   return {
     tab: "esports",
     type: "lck-standings",
     league: "lck",
-    leagueLabel: buildLeagueLabel(tournament),
-    tournamentSlug: tournament.slug,
-    tournamentName: tournament.name,
-    tournamentState: tournament.state,
+    leagueLabel: buildLeagueLabel(selected.standings),
+    tournamentSlug: selected.tournament.slug,
+    tournamentName: selected.standings.name || selected.tournament.slug,
+    tournamentState: buildTournamentState(selected.tournament, referenceMs),
     isOffSeason,
     fetchedAt: generatedAt,
     lastUpdatedAt: generatedAt,
-    updatedLabel: buildUpdatedLabel(rows),
+    updatedLabel: buildUpdatedLabel(selected.rows),
     source: LCK_STANDINGS_SOURCE,
     sourceUrl: url,
-    rowCount: rows.length,
-    rows,
+    rowCount: selected.rows.length,
+    rows: selected.rows,
   };
 }
 
-async function fetchLckLeaguePage(url, timeoutMs) {
-  const response = await fetch(url, {
+async function fetchCurrentLckStandings({ timeoutMs, referenceMs }) {
+  const tournaments = await fetchLckTournaments(timeoutMs);
+  const candidates = rankTournamentCandidates(tournaments, referenceMs);
+  let lastError = null;
+
+  for (const tournament of candidates) {
+    try {
+      const standings = await fetchTournamentStandings(tournament.id, timeoutMs);
+      const rows = extractStandingRows(standings);
+      if (rows.length === 0) {
+        lastError = new Error(`No ranking rows found for ${tournament.slug}.`);
+        continue;
+      }
+
+      return { tournament, standings, rows };
+    } catch (error) {
+      lastError = error;
+    }
+  }
+
+  throw lastError ?? new Error("No LCK standings data could be resolved.");
+}
+
+async function fetchLckTournaments(timeoutMs) {
+  const payload = await fetchApiJson("getTournamentsForLeague", { leagueId: LCK_LEAGUE_ID }, timeoutMs);
+  const leagues = Array.isArray(payload?.data?.leagues) ? payload.data.leagues : [];
+  const league =
+    leagues.find((entry) => String(entry?.id) === LCK_LEAGUE_ID) ||
+    leagues.find((entry) => normalizeText(entry?.slug).toLowerCase() === "lck") ||
+    leagues[0] ||
+    null;
+  const tournaments = Array.isArray(league?.tournaments) ? league.tournaments : [];
+
+  return tournaments
+    .map((tournament) => normalizeTournament(tournament))
+    .filter((tournament) => tournament && tournament.id);
+}
+
+function normalizeTournament(tournament) {
+  if (!tournament?.id) return null;
+  const startMs = parseDateOnly(tournament.startDate, false);
+  const endMs = parseDateOnly(tournament.endDate, true);
+  return {
+    id: String(tournament.id),
+    slug: normalizeText(tournament.slug),
+    startDate: normalizeText(tournament.startDate),
+    endDate: normalizeText(tournament.endDate),
+    startMs,
+    endMs,
+  };
+}
+
+function parseDateOnly(value, isEndOfDay) {
+  const normalized = normalizeText(value);
+  if (!normalized) return Number.NaN;
+  const suffix = isEndOfDay ? "T23:59:59.999Z" : "T00:00:00.000Z";
+  return Date.parse(`${normalized}${suffix}`);
+}
+
+function rankTournamentCandidates(tournaments, referenceMs) {
+  const active = tournaments
+    .filter((tournament) => Number.isFinite(tournament.startMs) && Number.isFinite(tournament.endMs))
+    .filter((tournament) => tournament.startMs <= referenceMs && referenceMs <= tournament.endMs)
+    .sort((left, right) => right.startMs - left.startMs);
+
+  const previous = tournaments
+    .filter((tournament) => Number.isFinite(tournament.startMs) && tournament.startMs <= referenceMs)
+    .sort((left, right) => right.startMs - left.startMs);
+
+  const upcoming = tournaments
+    .filter((tournament) => Number.isFinite(tournament.startMs) && tournament.startMs > referenceMs)
+    .sort((left, right) => left.startMs - right.startMs);
+
+  const ordered = [];
+  const seen = new Set();
+
+  for (const tournament of [...active, ...previous, ...upcoming]) {
+    if (!tournament?.id || seen.has(tournament.id)) continue;
+    seen.add(tournament.id);
+    ordered.push(tournament);
+  }
+
+  return ordered;
+}
+
+async function fetchTournamentStandings(tournamentId, timeoutMs) {
+  const payload = await fetchApiJson("getStandingsV3", { tournamentId }, timeoutMs);
+  const standingsList = Array.isArray(payload?.data?.standings) ? payload.data.standings : [];
+  const standings =
+    standingsList.find((entry) => String(entry?.id) === String(tournamentId)) ||
+    standingsList[0] ||
+    null;
+
+  if (!standings) {
+    throw new Error(`Standings payload was empty for tournament ${tournamentId}.`);
+  }
+
+  return standings;
+}
+
+async function fetchApiJson(endpoint, params, timeoutMs) {
+  const requestUrl = new URL(`${LOL_ESPORTS_API_BASE}/${endpoint}`);
+  requestUrl.searchParams.set("hl", LOL_ESPORTS_API_HL);
+
+  for (const [key, value] of Object.entries(params || {})) {
+    if (Array.isArray(value)) {
+      value.forEach((item) => requestUrl.searchParams.append(key, String(item)));
+      continue;
+    }
+    requestUrl.searchParams.set(key, String(value));
+  }
+
+  const response = await fetch(requestUrl, {
     headers: {
-      Accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      Accept: "application/json",
       "Accept-Language": "en-US,en;q=0.9,ko;q=0.6",
       "User-Agent": "NewsBoxBot/0.7 (+https://arkjsj86.github.io/NewsBox/)",
+      "x-api-key": LOL_ESPORTS_API_KEY,
     },
     signal: AbortSignal.timeout(timeoutMs),
   });
 
   if (!response.ok) {
-    throw new Error(`HTTP ${response.status}`);
+    const message = await response.text().catch(() => "");
+    throw new Error(`HTTP ${response.status}${message ? ` ${normalizeText(message)}` : ""}`);
   }
 
-  return response.text();
+  return response.json();
 }
 
-function selectActiveLckTournament(html) {
-  const tournRe = /\{"__typename":"Tournament","id":"(\d+)","name":"([^"]+)","slug":"([^"]+)","startTime":"([^"]+)","endTime":"([^"]+)","state":"(\w+)","league":\{"__typename":"League","id":"\d+","name":"([^"]+)"/g;
-  const tournaments = [];
-  const seen = new Set();
-  let match;
+function extractStandingRows(standings) {
+  const sections = Array.isArray(standings?.stages)
+    ? standings.stages.flatMap((stage) => (Array.isArray(stage?.sections) ? stage.sections : []))
+    : [];
+  const section = sections.find((entry) => Array.isArray(entry?.rankings) && entry.rankings.length > 0);
+  const rankings = Array.isArray(section?.rankings) ? section.rankings : [];
+  const rows = [];
 
-  while ((match = tournRe.exec(html)) !== null) {
-    if (match[7] !== "LCK") continue;
-    if (seen.has(match[3])) continue;
-    seen.add(match[3]);
-    tournaments.push({
-      id: match[1],
-      name: match[2],
-      slug: match[3],
-      startTime: match[4],
-      endTime: match[5],
-      state: match[6],
-      startMs: Date.parse(match[4]),
-      endMs: Date.parse(match[5]),
-    });
-  }
+  for (const ranking of rankings) {
+    const rank = Number(ranking?.ordinal);
+    const teams = Array.isArray(ranking?.teams) ? ranking.teams : [];
 
-  if (tournaments.length === 0) return null;
+    for (const team of teams) {
+      const wins = Number(team?.record?.wins ?? 0);
+      const losses = Number(team?.record?.losses ?? 0);
+      const name = normalizeText(team?.name) || "TBD";
+      const code = normalizeTeamCode(team?.code, name);
 
-  const inProgress = tournaments
-    .filter((t) => t.state === "inProgress")
-    .sort((a, b) => b.startMs - a.startMs);
-  if (inProgress.length > 0) return inProgress[0];
-
-  const completed = tournaments
-    .filter((t) => t.state === "completed")
-    .sort((a, b) => b.endMs - a.endMs);
-  if (completed.length > 0) return completed[0];
-
-  return tournaments.sort((a, b) => b.startMs - a.startMs)[0];
-}
-
-function extractTournamentRecords(html, tournamentSlug) {
-  const teamGprRe = /"__typename":"TeamGPR","id":"(\d+):[^"]+"/g;
-  const positions = [];
-  let m;
-  while ((m = teamGprRe.exec(html)) !== null) {
-    positions.push({ teamId: m[1], pos: m.index });
-  }
-
-  if (positions.length === 0) return [];
-
-  const recordRe = new RegExp(
-    `"__typename":"TeamTournamentRecord"[^}]*?"tournamentRecord":\\{"__typename":"WinLoss",(?:"wins":(\\d+),"losses":(\\d+)|"losses":(\\d+),"wins":(\\d+))\\},"tournament":\\{"__typename":"Tournament","id":"\\d+","name":"[^"]*","slug":"${tournamentSlug}"`,
-  );
-
-  const records = [];
-  const seenTeams = new Set();
-
-  for (let i = 0; i < positions.length; i += 1) {
-    const start = positions[i].pos;
-    const end = i + 1 < positions.length ? positions[i + 1].pos : start + 60000;
-    const block = html.slice(start, end);
-    const rm = block.match(recordRe);
-    if (!rm) continue;
-    const teamId = positions[i].teamId;
-    if (seenTeams.has(teamId)) continue;
-    seenTeams.add(teamId);
-    const wins = Number(rm[1] ?? rm[4]);
-    const losses = Number(rm[2] ?? rm[3]);
-    if (!Number.isFinite(wins) || !Number.isFinite(losses)) continue;
-    records.push({ teamId, wins, losses });
-  }
-
-  return records;
-}
-
-function extractTeamMetadata(html) {
-  const teamRe = /"__typename":"Team","id":"(\d+)","code":"([^"]*)","image":"([^"]*)","slug":"([^"]*)","name":"([^"]*)"/g;
-  const map = new Map();
-  let m;
-  while ((m = teamRe.exec(html)) !== null) {
-    if (map.has(m[1])) continue;
-    map.set(m[1], {
-      id: m[1],
-      code: m[2],
-      image: m[3],
-      slug: m[4],
-      name: m[5],
-    });
-  }
-  return map;
-}
-
-function buildStandingRows(records, teamMeta) {
-  const enriched = records
-    .map((rec) => {
-      const meta = teamMeta.get(rec.teamId) ?? {};
-      const code = (meta.code || "").toUpperCase().slice(0, 4) || "TBD";
-      return {
-        teamId: rec.teamId,
+      rows.push({
+        rank: Number.isFinite(rank) ? rank : rows.length + 1,
         code,
-        name: meta.name || code,
-        image: meta.image || "",
-        wins: rec.wins,
-        losses: rec.losses,
-        played: rec.wins + rec.losses,
-      };
-    })
-    .sort((a, b) => {
-      if (b.wins !== a.wins) return b.wins - a.wins;
-      if (a.losses !== b.losses) return a.losses - b.losses;
-      return a.name.localeCompare(b.name);
-    });
+        name,
+        image: normalizeText(team?.image),
+        wins: Number.isFinite(wins) ? wins : 0,
+        losses: Number.isFinite(losses) ? losses : 0,
+        points: Number.isFinite(wins) ? wins : 0,
+      });
+    }
+  }
 
-  return enriched.map((row, index) => ({
-    rank: index + 1,
-    code: row.code,
-    name: row.name,
-    image: row.image,
-    wins: row.wins,
-    losses: row.losses,
-    points: row.wins,
-  }));
+  return rows;
 }
 
-function buildLeagueLabel(tournament) {
-  if (tournament.name && tournament.name.toLowerCase().includes("lck")) {
-    return tournament.name;
+function normalizeTeamCode(code, name) {
+  const normalizedName = normalizeText(name).toLowerCase();
+  if (TEAM_CODE_ALIASES.has(normalizedName)) {
+    return TEAM_CODE_ALIASES.get(normalizedName);
   }
-  return `LCK ${tournament.name}`.trim();
+
+  const normalizedCode = normalizeText(code).toUpperCase();
+  if (TEAM_CODE_ALIASES.has(normalizedCode.toLowerCase())) {
+    return TEAM_CODE_ALIASES.get(normalizedCode.toLowerCase());
+  }
+
+  return normalizedCode.slice(0, 4) || "TBD";
+}
+
+function buildTournamentState(tournament, referenceMs) {
+  if (Number.isFinite(tournament?.startMs) && referenceMs < tournament.startMs) {
+    return "upcoming";
+  }
+
+  if (
+    Number.isFinite(tournament?.startMs) &&
+    Number.isFinite(tournament?.endMs) &&
+    tournament.startMs <= referenceMs &&
+    referenceMs <= tournament.endMs
+  ) {
+    return "inProgress";
+  }
+
+  return "completed";
+}
+
+function buildLeagueLabel(standings) {
+  const label = normalizeText(standings?.name);
+  if (!label) return "LCK";
+  if (label.toLowerCase().includes("lck")) return label;
+  return `LCK ${label}`.trim();
 }
 
 function buildUpdatedLabel(rows) {
-  const totalPlayed = rows.reduce((sum, r) => sum + r.wins + r.losses, 0);
+  const totalPlayed = rows.reduce((sum, row) => sum + row.wins + row.losses, 0);
   if (totalPlayed === 0) return "시즌 시작 전";
   return "공식 데이터 기준";
 }
@@ -226,6 +285,10 @@ function readExistingStandings(filePath) {
   } catch {
     return null;
   }
+}
+
+function normalizeText(value) {
+  return String(value || "").replace(/\s+/g, " ").trim();
 }
 
 function buildFallbackStandings(generatedAt, isOffSeason) {
