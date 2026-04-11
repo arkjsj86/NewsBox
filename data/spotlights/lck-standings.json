@@ -7,8 +7,8 @@
   "tournamentName": "Split 2 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-04-11T10:59:28.246Z",
-  "lastUpdatedAt": "2026-04-11T10:59:28.246Z",
+  "fetchedAt": "2026-04-11T14:07:09.666Z",
+  "lastUpdatedAt": "2026-04-11T14:07:09.666Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
@@ -38,11 +38,20 @@
       "name": "Gen.G Esports",
       "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
       "wins": 2,
-      "losses": 1,
+      "losses": 2,
       "points": 2
     },
     {
-      "rank": 4,
+      "rank": 3,
+      "code": "DK",
+      "name": "Dplus KIA",
+      "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+      "wins": 2,
+      "losses": 2,
+      "points": 2
+    },
+    {
+      "rank": 3,
       "code": "NS",
       "name": "NONGSHIM RED FORCE",
       "image": "http://static.lolesports.com/teams/NSFullonDark.png",
@@ -51,7 +60,7 @@
       "points": 2
     },
     {
-      "rank": 4,
+      "rank": 3,
       "code": "T1",
       "name": "T1",
       "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
@@ -60,7 +69,7 @@
       "points": 2
     },
     {
-      "rank": 4,
+      "rank": 3,
       "code": "DRX",
       "name": "KIWOOM DRX",
       "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
@@ -69,16 +78,7 @@
       "points": 2
     },
     {
-      "rank": 7,
-      "code": "DK",
-      "name": "Dplus KIA",
-      "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-      "wins": 1,
-      "losses": 2,
-      "points": 1
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "code": "BRO",
       "name": "HANJIN BRION",
       "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
@@ -87,7 +87,7 @@
       "points": 1
     },
     {
-      "rank": 7,
+      "rank": 8,
       "code": "DNS",
       "name": "DN SOOPers",
       "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
