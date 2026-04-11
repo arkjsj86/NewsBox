@@ -519,7 +519,10 @@ function renderLckTable(standings) {
   header.className = "lck-standings__header";
   header.innerHTML = `
     <p class="lck-standings__league">${standings.leagueLabel}</p>
-    <p class="lck-standings__updated">${standings.updatedLabel ?? "공식 데이터 기준"}</p>
+    <div class="lck-standings__meta">
+      <p class="lck-standings__updated">${standings.updatedLabel ?? "공식 데이터 기준"}</p>
+      <p class="lck-standings__updated-time">${getStandingsUpdatedAtText(standings)}</p>
+    </div>
   `;
 
   const table = document.createElement("div");
@@ -571,7 +574,10 @@ function renderLckMarquee(standings) {
   header.className = "lck-standings__header";
   header.innerHTML = `
     <p class="lck-standings__league">${standings.leagueLabel ?? "LCK"}</p>
-    <p class="lck-standings__updated">${standings.updatedLabel ?? "팀 라인업 미리보기"}</p>
+    <div class="lck-standings__meta">
+      <p class="lck-standings__updated">${standings.updatedLabel ?? "팀 라인업 미리보기"}</p>
+      <p class="lck-standings__updated-time">${getStandingsUpdatedAtText(standings)}</p>
+    </div>
   `;
 
   const marquee = document.createElement("div");
@@ -1047,6 +1053,11 @@ function formatDateTime(value) {
     timeStyle: "short",
     timeZone: DISPLAY_TIMEZONE,
   }).format(new Date(value));
+}
+
+function getStandingsUpdatedAtText(standings) {
+  const updatedAt = standings?.lastUpdatedAt ?? standings?.fetchedAt ?? null;
+  return updatedAt ? `최종 갱신 ${formatDateTime(updatedAt)}` : "최종 갱신 없음";
 }
 
 function formatClockTime(value) {
