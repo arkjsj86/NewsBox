@@ -33,6 +33,49 @@ const LCK_STANDINGS_FALLBACK = {
   ],
 };
 
+const AI_PANEL_GROUPS = [
+  {
+    label: "대화형",
+    items: [
+      { name: "ChatGPT", badge: "CG", accent: "#3dd6a3" },
+      { name: "Claude", badge: "CL", accent: "#f2a25c" },
+      { name: "Gemini", badge: "GM", accent: "#6aa6ff" },
+    ],
+  },
+  {
+    label: "코딩",
+    items: [
+      { name: "GitHub Copilot", badge: "GC", accent: "#8ea0ff" },
+      { name: "Cursor", badge: "CU", accent: "#94a3b8" },
+      { name: "Codex", badge: "CX", accent: "#4fd1c5" },
+    ],
+  },
+  {
+    label: "이미지",
+    items: [
+      { name: "Midjourney", badge: "MJ", accent: "#e7a56f" },
+      { name: "DALL-E", badge: "DE", accent: "#ffd166" },
+      { name: "Stable Diffusion", badge: "SD", accent: "#b39bff" },
+    ],
+  },
+  {
+    label: "영상",
+    items: [
+      { name: "Sora", badge: "SO", accent: "#ff8a80" },
+      { name: "Runway", badge: "RW", accent: "#7cc8ff" },
+      { name: "Pika", badge: "PK", accent: "#b4f06f" },
+    ],
+  },
+  {
+    label: "오디오",
+    items: [
+      { name: "ElevenLabs", badge: "EL", accent: "#cbd5e1" },
+      { name: "Whisper", badge: "WH", accent: "#8ec5ff" },
+      { name: "Suno", badge: "SN", accent: "#ff9dbb" },
+    ],
+  },
+];
+
 const TAB_CONFIG = [
   {
     key: "ai",
@@ -281,6 +324,8 @@ const elements = {
   heroScheduleList: document.querySelector("#heroScheduleList"),
   heroPanel: document.querySelector("#heroPanel"),
   heroPanelDefault: document.querySelector("#heroPanelDefault"),
+  heroPanelAi: document.querySelector("#heroPanelAi"),
+  aiPanelView: document.querySelector("#aiPanelView"),
   heroPanelEsports: document.querySelector("#heroPanelEsports"),
   esportsPanelView: document.querySelector("#esportsPanelView"),
   heroPanelHeadline: document.querySelector("#heroPanelHeadline"),
@@ -424,6 +469,11 @@ function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpda
   elements.heroSchedule.hidden = true;
   elements.heroScheduleList.replaceChildren();
   elements.heroPanel.classList.remove("is-esports");
+  elements.heroPanel.classList.toggle("is-ai", activeConfig.key === "ai");
+
+  if (activeConfig.key === "ai") {
+    renderAiPanel();
+  }
 
   if (!spotlightArticle) {
     elements.heroTitle.textContent = `${activeConfig.label} 탭을 준비하고 있습니다`;
@@ -472,6 +522,7 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.sectionDescription.textContent = "";
   elements.heroSummary.textContent = "";
 
+  elements.heroPanel.classList.remove("is-ai");
   elements.heroPanel.classList.add("is-esports");
   renderEsportsPanel();
 
@@ -483,6 +534,61 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
     elements.spotlightLink.removeAttribute("rel");
   }
   elements.spotlightLink.textContent = "공식 일정 보기";
+}
+
+function renderAiPanel() {
+  const view = elements.aiPanelView;
+  if (!view) return;
+
+  view.replaceChildren();
+
+  const header = document.createElement("header");
+  header.className = "ai-panel__header";
+  header.innerHTML = `
+    <p class="ai-panel__eyebrow">AI landscape</p>
+    <h2 class="ai-panel__title">분야별 대표 AI</h2>
+    <p class="ai-panel__body">
+      AI 기사와 함께 자주 거론되는 대표 서비스를 종류별로 가볍게 묶었습니다.
+    </p>
+  `;
+
+  const groups = document.createElement("div");
+  groups.className = "ai-panel__groups";
+
+  AI_PANEL_GROUPS.forEach((group) => {
+    const section = document.createElement("section");
+    section.className = "ai-panel__group";
+
+    const heading = document.createElement("div");
+    heading.className = "ai-panel__group-head";
+    heading.innerHTML = `
+      <p class="ai-panel__group-label">${group.label}</p>
+      <span class="ai-panel__group-count">${group.items.length}</span>
+    `;
+
+    const list = document.createElement("div");
+    list.className = "ai-panel__tool-list";
+
+    group.items.forEach((item) => {
+      const card = document.createElement("article");
+      card.className = "ai-panel__tool";
+      card.style.setProperty("--ai-tool-accent", item.accent);
+      card.innerHTML = `
+        <span class="ai-panel__tool-icon" aria-hidden="true">${item.badge}</span>
+        <span class="ai-panel__tool-name">${item.name}</span>
+      `;
+      list.append(card);
+    });
+
+    section.append(heading, list);
+    groups.append(section);
+  });
+
+  const footer = document.createElement("p");
+  footer.className = "ai-panel__footer";
+  footer.textContent = "대표 서비스 기준 · 실시간 인기 순위는 아닙니다.";
+
+  view.append(header, groups, footer);
 }
 
 function renderEsportsPanel() {
