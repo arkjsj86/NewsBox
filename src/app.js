@@ -16,6 +16,263 @@ const DISPLAY_OFFSET_MS = 9 * 60 * 60 * 1000;
 const REFRESH_INTERVAL_MS = 3 * 60 * 60 * 1000;
 const REFRESH_SCHEDULE_LABEL = "3시간마다 정각";
 
+const LCK_STANDINGS_FALLBACK = {
+  leagueLabel: "LCK Split 2 2026",
+  updatedLabel: "Week 2 기준",
+  rows: [
+    { rank: 1, code: "GEN", name: "Gen.G",                wins: 6, losses: 0, points: 6 },
+    { rank: 2, code: "HLE", name: "Hanwha Life Esports",  wins: 5, losses: 1, points: 5 },
+    { rank: 3, code: "T1",  name: "T1",                   wins: 4, losses: 2, points: 4 },
+    { rank: 4, code: "DK",  name: "Dplus KIA",            wins: 4, losses: 2, points: 4 },
+    { rank: 5, code: "KT",  name: "KT Rolster",           wins: 3, losses: 3, points: 3 },
+    { rank: 6, code: "BFX", name: "BNK FEARX",            wins: 3, losses: 3, points: 3 },
+    { rank: 7, code: "DRX", name: "Kiwoom DRX",           wins: 2, losses: 4, points: 2 },
+    { rank: 8, code: "NS",  name: "Nongshim RedForce",    wins: 2, losses: 4, points: 2 },
+    { rank: 9, code: "BRO", name: "Hanjin BRION",         wins: 1, losses: 5, points: 1 },
+    { rank: 10,code: "DNS", name: "DN Soopers",           wins: 0, losses: 6, points: 0 },
+  ],
+};
+
+const AI_PANEL_GROUPS = [
+  {
+    label: "대화형",
+    items: [
+      { name: "ChatGPT", badge: "CG", accent: "#3dd6a3" },
+      { name: "Claude", badge: "CL", accent: "#f2a25c" },
+      { name: "Gemini", badge: "GM", accent: "#6aa6ff" },
+    ],
+  },
+  {
+    label: "코딩",
+    items: [
+      { name: "GitHub Copilot", badge: "GC", accent: "#8ea0ff" },
+      { name: "Cursor", badge: "CU", accent: "#94a3b8" },
+      { name: "Codex", badge: "CX", accent: "#4fd1c5" },
+    ],
+  },
+  {
+    label: "이미지",
+    items: [
+      { name: "Midjourney", badge: "MJ", accent: "#e7a56f" },
+      { name: "DALL-E", badge: "DE", accent: "#ffd166" },
+      { name: "Stable Diffusion", badge: "SD", accent: "#b39bff" },
+    ],
+  },
+  {
+    label: "영상",
+    items: [
+      { name: "Sora", badge: "SO", accent: "#ff8a80" },
+      { name: "Runway", badge: "RW", accent: "#7cc8ff" },
+      { name: "Pika", badge: "PK", accent: "#b4f06f" },
+    ],
+  },
+  {
+    label: "오디오",
+    items: [
+      { name: "ElevenLabs", badge: "EL", accent: "#cbd5e1" },
+      { name: "Whisper", badge: "WH", accent: "#8ec5ff" },
+      { name: "Suno", badge: "SN", accent: "#ff9dbb" },
+    ],
+  },
+];
+
+const ENTERTAINMENT_TRENDS_FALLBACK = {
+  tab: "entertainment",
+  type: "trend-ranking",
+  source: "Google Trends KR",
+  sourceMode: "fallback",
+  sourceUrl: "https://trends.google.com/trending/rss?geo=KR",
+  title: "연예 화제 1~10위",
+  updatedLabel: "Google Trends 기준",
+  title: "Hot Issue",
+  updatedLabel: "Google Trends KR",
+  lastUpdatedAt: "2026-04-10T03:00:00Z",
+  rankingLimit: 10,
+  itemCount: 10,
+  items: [
+    {
+      rank: 1,
+      issueKey: "옥주현-한남더힐-매입",
+      issueTitle: "옥주현 한남더힐 매입",
+      articleCount: 4,
+      relatedArticles: [
+        { title: "옥주현 한남더힐 매입", source: "스포츠경향", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "옥주현 한남더힐 매입",
+        source: "스포츠경향",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T02:40:00Z",
+      },
+      title: "옥주현 한남더힐 매입",
+      source: "스포츠경향",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 2,
+      issueKey: "변우석-광고-몸값",
+      issueTitle: "변우석 광고 몸값 화제",
+      articleCount: 3,
+      relatedArticles: [
+        { title: "변우석 광고 몸값 화제", source: "세계일보", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "변우석 광고 몸값 화제",
+        source: "세계일보",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T02:10:00Z",
+      },
+      title: "변우석 광고 몸값 화제",
+      source: "세계일보",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 3,
+      issueKey: "첸백시-전속계약",
+      issueTitle: "첸백시 전속계약 해지 통보",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "첸백시 전속계약 해지 통보", source: "Daum", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "첸백시 전속계약 해지 통보",
+        source: "Daum",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T01:40:00Z",
+      },
+      title: "첸백시 전속계약 해지 통보",
+      source: "Daum",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 4,
+      issueKey: "백현-inb100-계약",
+      issueTitle: "백현 INB100 계약 이슈",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "백현 INB100 계약 이슈", source: "뉴시스", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "백현 INB100 계약 이슈",
+        source: "뉴시스",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T01:15:00Z",
+      },
+      title: "백현 INB100 계약 이슈",
+      source: "뉴시스",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 5,
+      issueKey: "연예계-부동산-매입",
+      issueTitle: "연예계 부동산 매입 이슈",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "연예계 부동산 매입 이슈", source: "조선일보", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "연예계 부동산 매입 이슈",
+        source: "조선일보",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T00:50:00Z",
+      },
+      title: "연예계 부동산 매입 이슈",
+      source: "조선일보",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 6,
+      issueKey: "아이돌-소속사-계약",
+      issueTitle: "아이돌 소속사 계약 흐름",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "아이돌 소속사 계약 흐름", source: "NewsBox Sample", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "아이돌 소속사 계약 흐름",
+        source: "NewsBox Sample",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T00:20:00Z",
+      },
+      title: "아이돌 소속사 계약 흐름",
+      source: "NewsBox Sample",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 7,
+      issueKey: "배우-화보-광고",
+      issueTitle: "배우 화보·광고 화제성",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "배우 화보·광고 화제성", source: "NewsBox Sample", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "배우 화보·광고 화제성",
+        source: "NewsBox Sample",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-09T23:50:00Z",
+      },
+      title: "배우 화보·광고 화제성",
+      source: "NewsBox Sample",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 8,
+      issueKey: "방송-드라마-키워드",
+      issueTitle: "방송·드라마 키워드 집계",
+      articleCount: 1,
+      relatedArticles: [
+        { title: "방송·드라마 키워드 집계", source: "NewsBox Sample", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "방송·드라마 키워드 집계",
+        source: "NewsBox Sample",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-09T23:20:00Z",
+      },
+      title: "방송·드라마 키워드 집계",
+      source: "NewsBox Sample",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 9,
+      issueKey: "음악-공연-뉴스",
+      issueTitle: "음악·공연 뉴스 신호",
+      articleCount: 1,
+      relatedArticles: [
+        { title: "음악·공연 뉴스 신호", source: "NewsBox Sample", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "음악·공연 뉴스 신호",
+        source: "NewsBox Sample",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-09T22:55:00Z",
+      },
+      title: "음악·공연 뉴스 신호",
+      source: "NewsBox Sample",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 10,
+      issueKey: "다음-연예-트렌드",
+      issueTitle: "다음 연예 트렌드 수집 중",
+      articleCount: 1,
+      relatedArticles: [
+        { title: "다음 연예 트렌드 수집 중", source: "Google Trends", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "다음 연예 트렌드 수집 중",
+        source: "Google Trends",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-09T22:20:00Z",
+      },
+      title: "다음 연예 트렌드 수집 중",
+      source: "Google Trends",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+  ],
+};
+
 const TAB_CONFIG = [
   {
     key: "ai",
@@ -157,6 +414,7 @@ const FALLBACK_DATA = {
     },
     },
   spotlights: {
+    entertainment: ENTERTAINMENT_TRENDS_FALLBACK,
     esports: {
       tab: "esports",
       type: "league-schedule",
@@ -243,10 +501,14 @@ const state = {
   metadata: null,
   datasets: new Map(),
   spotlights: new Map(),
+  standings: null,
   activeTab: getValidTabKey(window.location.hash.replace("#", "")) || "ai",
+  activeEsportsTab: "standings",
   isFallback: false,
   isLoading: false,
   clockTimer: null,
+  marqueeTimer: null,
+  marqueeIndex: 0,
 };
 
 const elements = {
@@ -258,6 +520,14 @@ const elements = {
   heroSummary: document.querySelector("#heroSummary"),
   heroSchedule: document.querySelector("#heroSchedule"),
   heroScheduleList: document.querySelector("#heroScheduleList"),
+  heroPanel: document.querySelector("#heroPanel"),
+  heroPanelDefault: document.querySelector("#heroPanelDefault"),
+  heroPanelAi: document.querySelector("#heroPanelAi"),
+  aiPanelView: document.querySelector("#aiPanelView"),
+  heroPanelEntertainment: document.querySelector("#heroPanelEntertainment"),
+  entertainmentPanelView: document.querySelector("#entertainmentPanelView"),
+  heroPanelEsports: document.querySelector("#heroPanelEsports"),
+  esportsPanelView: document.querySelector("#esportsPanelView"),
   heroPanelHeadline: document.querySelector("#heroPanelHeadline"),
   heroPanelBody: document.querySelector("#heroPanelBody"),
   heroPanelSource: document.querySelector("#heroPanelSource"),
@@ -305,6 +575,15 @@ function bindEvents() {
       block: "start",
     });
   });
+
+  document.querySelectorAll('[data-esports-tab]').forEach((button) => {
+    button.addEventListener("click", () => {
+      const next = button.dataset.esportsTab;
+      if (!next || next === state.activeEsportsTab) return;
+      state.activeEsportsTab = next;
+      renderEsportsPanel();
+    });
+  });
 }
 
 function startClock() {
@@ -349,7 +628,11 @@ function render() {
   };
   const articles = getSortedArticles(dataset.articles);
   const isEsportsTab = activeConfig.key === "esports";
+  const isEntertainmentTab = activeConfig.key === "entertainment";
   const esportsSpotlight = isEsportsTab ? state.spotlights.get("esports") ?? null : null;
+  const entertainmentSpotlight = isEntertainmentTab
+    ? state.spotlights.get("entertainment") ?? ENTERTAINMENT_TRENDS_FALLBACK
+    : null;
   const spotlightArticle = isEsportsTab ? null : articles[0] ?? null;
   const feedArticles = isEsportsTab ? articles : spotlightArticle ? articles.slice(1) : articles;
   const totalArticles = getTotalArticleCount();
@@ -378,16 +661,28 @@ function render() {
   if (isEsportsTab) {
     applyEsportsHeroContent(activeConfig, esportsSpotlight, feedArticles.length, lastUpdatedAt);
   } else {
-    applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt);
+    stopMarquee();
+    applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt, entertainmentSpotlight);
   }
   setStatus(getStatusMessage());
   renderTabs();
   renderArticles(feedArticles, activeConfig.label);
 }
 
-function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt) {
+function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt, panelSpotlight = null) {
   elements.heroSchedule.hidden = true;
   elements.heroScheduleList.replaceChildren();
+  elements.heroPanel.classList.remove("is-esports");
+  elements.heroPanel.classList.toggle("is-ai", activeConfig.key === "ai");
+  elements.heroPanel.classList.toggle("is-entertainment", activeConfig.key === "entertainment");
+
+  if (activeConfig.key === "ai") {
+    renderAiPanel();
+  }
+
+  if (activeConfig.key === "entertainment") {
+    renderEntertainmentPanel(panelSpotlight);
+  }
 
   if (!spotlightArticle) {
     elements.heroTitle.textContent = `${activeConfig.label} 탭을 준비하고 있습니다`;
@@ -407,7 +702,7 @@ function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpda
   elements.heroTitle.textContent = spotlightArticle.title;
   elements.heroSummary.textContent = truncateText(
     spotlightArticle.summary || activeConfig.heroLead,
-    220,
+    150,
   );
   elements.heroPanelHeadline.textContent = `${activeConfig.label} 탭에서 ${articleCount}건을 큐레이션했습니다`;
   elements.heroPanelBody.textContent = buildHeroPanelBody(
@@ -435,13 +730,12 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.heroTitle.textContent = spotlight?.title || "경기 일정";
   elements.sectionDescription.textContent = "";
   elements.heroSummary.textContent = "";
-  elements.heroPanelHeadline.textContent = buildEsportsHeroPanelHeadline(spotlight);
-  elements.heroPanelBody.textContent = buildEsportsHeroPanelBody(spotlight, articleCount);
-  elements.heroPanelSource.textContent =
-    spotlight?.source && spotlight?.activeLeagueLabel
-      ? `${spotlight.source} · ${spotlight.activeLeagueLabel}`
-      : "LoL Esports";
-  elements.heroPanelTime.textContent = formatDateTime(spotlight?.lastUpdatedAt ?? lastUpdatedAt);
+
+  elements.heroPanel.classList.remove("is-ai");
+  elements.heroPanel.classList.remove("is-entertainment");
+  elements.heroPanel.classList.add("is-esports");
+  renderEsportsPanel();
+
   elements.spotlightLink.href = spotlight?.sourceUrl || "#articleFeed";
   elements.spotlightLink.target = spotlight?.sourceUrl ? "_blank" : "_self";
   if (spotlight?.sourceUrl) {
@@ -450,6 +744,293 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
     elements.spotlightLink.removeAttribute("rel");
   }
   elements.spotlightLink.textContent = "공식 일정 보기";
+}
+
+function renderAiPanel() {
+  const view = elements.aiPanelView;
+  if (!view) return;
+
+  view.replaceChildren();
+
+  const header = document.createElement("header");
+  header.className = "ai-panel__header";
+  header.innerHTML = `
+    <p class="ai-panel__eyebrow">AI landscape</p>
+    <h2 class="ai-panel__title">분야별 대표 AI</h2>
+    <p class="ai-panel__body">
+      AI 기사와 함께 자주 거론되는 대표 서비스를 종류별로 가볍게 묶었습니다.
+    </p>
+  `;
+
+  const groups = document.createElement("div");
+  groups.className = "ai-panel__groups";
+
+  AI_PANEL_GROUPS.forEach((group) => {
+    const section = document.createElement("section");
+    section.className = "ai-panel__group";
+
+    const heading = document.createElement("div");
+    heading.className = "ai-panel__group-head";
+    heading.innerHTML = `
+      <p class="ai-panel__group-label">${group.label}</p>
+      <span class="ai-panel__group-count">${group.items.length}</span>
+    `;
+
+    const list = document.createElement("div");
+    list.className = "ai-panel__tool-list";
+
+    group.items.forEach((item) => {
+      const card = document.createElement("article");
+      card.className = "ai-panel__tool";
+      card.style.setProperty("--ai-tool-accent", item.accent);
+      card.innerHTML = `
+        <span class="ai-panel__tool-icon" aria-hidden="true">${item.badge}</span>
+        <span class="ai-panel__tool-name">${item.name}</span>
+      `;
+      list.append(card);
+    });
+
+    section.append(heading, list);
+    groups.append(section);
+  });
+
+  const footer = document.createElement("p");
+  footer.className = "ai-panel__footer";
+  footer.textContent = "대표 서비스 기준 · 실시간 인기 순위는 아닙니다.";
+
+  view.append(header, groups, footer);
+}
+
+function renderEntertainmentPanel(spotlight) {
+  const view = elements.entertainmentPanelView;
+  if (!view) return;
+
+  view.replaceChildren();
+
+  const rankingLimit = spotlight?.rankingLimit ?? 10;
+  const liveItems = Array.isArray(spotlight?.items) ? spotlight.items : [];
+  const fallbackItems = state.isFallback ? ENTERTAINMENT_TRENDS_FALLBACK.items : [];
+  const items = liveItems.length > 0 ? liveItems : fallbackItems;
+  const sourceLabel = getEntertainmentSourceLabel(spotlight);
+
+  const header = document.createElement("header");
+  header.className = "entertainment-panel__header";
+  header.innerHTML = `
+    <div class="entertainment-panel__title-row">
+      <h2 class="entertainment-panel__title">${spotlight?.title ?? "연예 화제 1~10위"}</h2>
+      <p class="entertainment-panel__updated-time">${getSpotlightUpdatedAtText(spotlight)}</p>
+    </div>
+  `;
+
+  const titleElement = header.querySelector(".entertainment-panel__title");
+  if (titleElement) {
+    titleElement.textContent = spotlight?.title ?? "Hot Issue";
+  }
+
+  const titleRow = header.querySelector(".entertainment-panel__title-row");
+  const updatedTimeElement = header.querySelector(".entertainment-panel__updated-time");
+  if (titleRow && updatedTimeElement) {
+    const meta = document.createElement("div");
+    meta.className = "entertainment-panel__meta";
+
+    const source = document.createElement("p");
+    source.className = "entertainment-panel__source";
+    source.textContent = sourceLabel;
+
+    meta.append(source, updatedTimeElement);
+    titleRow.append(meta);
+  }
+
+  const list = document.createElement("div");
+  list.className = "entertainment-panel__list";
+
+  for (let index = 0; index < rankingLimit; index += 1) {
+    const item = items[index] ?? null;
+    const representativeArticle = getEntertainmentRepresentativeArticle(item);
+    const issueUrl = representativeArticle?.url || item?.url || null;
+    const issueCount = getEntertainmentIssueCount(item);
+    const row = document.createElement(issueUrl ? "a" : "div");
+    row.className = `entertainment-panel__row${item ? "" : " entertainment-panel__row--empty"}`;
+    row.setAttribute("role", "listitem");
+
+    if (issueUrl) {
+      row.href = issueUrl;
+      row.target = "_blank";
+      row.rel = "noreferrer";
+    }
+
+    const displayRank = item?.rank ?? index + 1;
+    const countLabel = issueCount ? `${issueCount}건` : "-";
+    const metaLabel = item
+      ? [
+          representativeArticle?.source || item.source || "Google Trends",
+          representativeArticle?.publishedAt
+            ? formatRelativeTime(representativeArticle.publishedAt)
+            : null,
+        ]
+          .filter(Boolean)
+          .join(" · ")
+      : "다음 연예 이슈 수집 중";
+
+    row.innerHTML = `
+      <span class="entertainment-panel__rank">${displayRank}</span>
+      <span class="entertainment-panel__copy">
+        <strong class="entertainment-panel__item-title">${getEntertainmentIssueTitle(item) || "수집 중"}</strong>
+        <span class="entertainment-panel__item-meta">${metaLabel}</span>
+      </span>
+      <span class="entertainment-panel__traffic">${countLabel}</span>
+    `;
+
+    list.append(row);
+  }
+
+  view.append(header, list);
+}
+
+function renderEsportsPanel() {
+  stopMarquee();
+
+  const standings = state.standings ?? LCK_STANDINGS_FALLBACK;
+  const offSeason = Boolean(state.standings?.isOffSeason);
+  const hasRows = Array.isArray(standings.rows) && standings.rows.length > 0;
+  const forceMarquee = state.activeEsportsTab === "marquee";
+
+  if (forceMarquee || offSeason || !hasRows) {
+    renderLckMarquee(standings);
+  } else {
+    renderLckTable(standings);
+  }
+
+  syncEsportsTabButtons();
+}
+
+function syncEsportsTabButtons() {
+  const buttons = document.querySelectorAll('[data-esports-tab]');
+  buttons.forEach((button) => {
+    const isActive = button.dataset.esportsTab === state.activeEsportsTab;
+    button.classList.toggle("is-active", isActive);
+    button.setAttribute("aria-selected", String(isActive));
+  });
+}
+
+function renderLckTable(standings) {
+  const view = elements.esportsPanelView;
+  view.replaceChildren();
+
+  const header = document.createElement("header");
+  header.className = "lck-standings__header";
+  header.innerHTML = `
+    <p class="lck-standings__league">${standings.leagueLabel}</p>
+    <div class="lck-standings__meta">
+      <p class="lck-standings__updated">${standings.updatedLabel ?? "공식 데이터 기준"}</p>
+      <p class="lck-standings__updated-time">${getStandingsUpdatedAtText(standings)}</p>
+    </div>
+  `;
+
+  const table = document.createElement("div");
+  table.className = "lck-standings";
+  table.setAttribute("role", "table");
+  table.setAttribute("aria-label", `${standings.leagueLabel} 순위`);
+
+  const thead = document.createElement("div");
+  thead.className = "lck-standings__row lck-standings__row--head";
+  thead.setAttribute("role", "row");
+  thead.innerHTML = `
+    <span class="lck-standings__cell lck-standings__cell--rank" role="columnheader">#</span>
+    <span class="lck-standings__cell lck-standings__cell--team" role="columnheader">팀</span>
+    <span class="lck-standings__cell lck-standings__cell--record" role="columnheader">승-패</span>
+    <span class="lck-standings__cell lck-standings__cell--points" role="columnheader">승점</span>
+  `;
+  table.append(thead);
+
+  standings.rows.forEach((row) => {
+    const logo = TEAM_LOGO_MAP[row.code] ?? row.image ?? null;
+
+    const line = document.createElement("div");
+    line.className = "lck-standings__row";
+    line.setAttribute("role", "row");
+    line.innerHTML = `
+      <span class="lck-standings__cell lck-standings__cell--rank" role="cell">${row.rank}</span>
+      <span class="lck-standings__cell lck-standings__cell--team" role="cell">
+        ${
+          logo
+            ? `<span class="lck-standings__logo"><img src="${logo}" alt="${row.code}" loading="lazy" /></span>`
+            : `<span class="lck-standings__logo lck-standings__logo--text">${row.code}</span>`
+        }
+        <span class="lck-standings__code">${row.code}</span>
+      </span>
+      <span class="lck-standings__cell lck-standings__cell--record" role="cell">${row.wins}-${row.losses}</span>
+      <span class="lck-standings__cell lck-standings__cell--points" role="cell">${row.points}</span>
+    `;
+    table.append(line);
+  });
+
+  view.append(header, table);
+}
+
+function renderLckMarquee(standings) {
+  const view = elements.esportsPanelView;
+  view.replaceChildren();
+
+  const header = document.createElement("header");
+  header.className = "lck-standings__header";
+  header.innerHTML = `
+    <p class="lck-standings__league">${standings.leagueLabel ?? "LCK"}</p>
+    <div class="lck-standings__meta">
+      <p class="lck-standings__updated">${standings.updatedLabel ?? "팀 라인업 미리보기"}</p>
+      <p class="lck-standings__updated-time">${getStandingsUpdatedAtText(standings)}</p>
+    </div>
+  `;
+
+  const marquee = document.createElement("div");
+  marquee.className = "lck-marquee";
+  marquee.setAttribute("aria-label", "LCK 팀 라인업");
+
+  const stage = document.createElement("div");
+  stage.className = "lck-marquee__stage";
+  marquee.append(stage);
+
+  const rows = Array.isArray(standings.rows) && standings.rows.length > 0
+    ? standings.rows
+    : LCK_STANDINGS_FALLBACK.rows;
+
+  if (rows.length === 0) {
+    view.append(header, marquee);
+    return;
+  }
+
+  state.marqueeIndex = 0;
+  view.append(header, marquee);
+  showMarqueeFrame(stage, rows, 0);
+
+  if (rows.length > 1) {
+    state.marqueeTimer = window.setInterval(() => {
+      state.marqueeIndex = (state.marqueeIndex + 1) % rows.length;
+      showMarqueeFrame(stage, rows, state.marqueeIndex);
+    }, 2400);
+  }
+}
+
+function showMarqueeFrame(stage, rows, index) {
+  const row = rows[index];
+  if (!row) return;
+  const logo = TEAM_LOGO_MAP[row.code] ?? row.image ?? null;
+
+  const frame = document.createElement("div");
+  frame.className = "lck-marquee__frame";
+  frame.innerHTML = logo
+    ? `<img class="lck-marquee__logo" src="${logo}" alt="${row.name ?? row.code}" loading="lazy" />`
+    : `<span class="lck-marquee__logo lck-marquee__logo--text">${row.code}</span>`;
+
+  stage.replaceChildren(frame);
+  requestAnimationFrame(() => frame.classList.add("is-shown"));
+}
+
+function stopMarquee() {
+  if (state.marqueeTimer) {
+    window.clearInterval(state.marqueeTimer);
+    state.marqueeTimer = null;
+  }
 }
 
 function renderHeroSchedule(matches) {
@@ -680,45 +1261,6 @@ function buildMatchMeta(match) {
     .join(" · ");
 }
 
-function buildEsportsHeroSummary(spotlight, articleCount) {
-  const matchCount = spotlight?.matches?.length ?? 0;
-
-  if (matchCount === 0) {
-    return "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.";
-  }
-
-  const leagueLabel = spotlight?.activeLeagueLabel ?? "LoL Esports";
-  const tournamentName = spotlight?.primaryTournamentName ?? "Schedule";
-  const articleLine =
-    articleCount > 0
-      ? `아래에는 e스포츠 기사 ${articleCount}건이 이어집니다.`
-      : "기사 리스트는 다음 갱신 주기를 기다리고 있습니다.";
-
-  return `${leagueLabel} ${tournamentName} 기준으로 가까운 경기 ${matchCount}개를 모았습니다. 일정이 많으면 이 영역 안에서 스크롤됩니다. ${articleLine}`;
-}
-
-function buildEsportsHeroPanelHeadline(spotlight) {
-  if (!spotlight) {
-    return "e스포츠 일정 스포트라이트를 준비하고 있습니다";
-  }
-
-  return `${spotlight.activeLeagueLabel} 일정 스포트라이트`;
-}
-
-function buildEsportsHeroPanelBody(spotlight, articleCount) {
-  if (!spotlight || (spotlight.matches?.length ?? 0) === 0) {
-    return `${REFRESH_SCHEDULE_LABEL} 공식 LoL Esports 일정과 기사 데이터를 다시 확인해 이 영역을 채웁니다.`;
-  }
-
-  const selectionRule = spotlight.selectionRule || "LCK 우선 · 국제전 자동 전환";
-  const articleLine =
-    articleCount > 0
-      ? `현재 e스포츠 기사 ${articleCount}건을 함께 읽을 수 있습니다.`
-      : "기사 리스트는 다음 수집 주기에서 보강됩니다.";
-
-  return `${selectionRule} ${articleLine}`;
-}
-
 function getArticleVariant(index) {
   if (index === 0) {
     return "lead";
@@ -733,6 +1275,46 @@ function getArticleVariant(index) {
   }
 
   return "compact";
+}
+
+function getEntertainmentIssueTitle(item) {
+  return item?.issueTitle || item?.title || item?.trendTitle || "";
+}
+
+function getEntertainmentRepresentativeArticle(item) {
+  if (item?.representativeArticle) {
+    return item.representativeArticle;
+  }
+
+  if (!item) {
+    return null;
+  }
+
+  return {
+    title: item.title || item.issueTitle || item.trendTitle || "",
+    source: item.source || null,
+    url: item.url || null,
+    publishedAt: item.publishedAt || null,
+  };
+}
+
+function getEntertainmentSourceLabel(spotlight) {
+  const source = spotlight?.source || ENTERTAINMENT_TRENDS_FALLBACK.source;
+  return `출처: ${source || "Google Trends KR"}`;
+}
+
+function getEntertainmentIssueCount(item) {
+  const articleCount = Number(item?.articleCount);
+
+  if (Number.isFinite(articleCount) && articleCount > 0) {
+    return articleCount;
+  }
+
+  if (Array.isArray(item?.relatedArticles) && item.relatedArticles.length > 0) {
+    return item.relatedArticles.length;
+  }
+
+  return null;
 }
 
 function getCardPillLabel(index) {
@@ -791,6 +1373,11 @@ function buildFeedDescription(activeConfig, articleCount) {
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 상단 일정 스포트라이트 아래에 기사 ${articleCount}건을 이어서 읽을 수 있습니다.`;
   }
 
+  if (activeConfig.key === "entertainment") {
+    const trendCount = state.spotlights.get("entertainment")?.itemCount ?? 0;
+    return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 Google Trends 연예 이슈 Top ${Math.max(10, trendCount || 10)}을 함께 볼 수 있습니다.`;
+  }
+
   if (articleCount === 0) {
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며 다음 주기에서 새 기사를 기다리는 중입니다.`;
   }
@@ -809,6 +1396,10 @@ function getStatusMessage() {
 
   if (state.activeTab === "esports") {
     return `정적 JSON 기사와 공식 LoL Esports 일정 데이터를 함께 사용해 e스포츠 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
+  }
+
+  if (state.activeTab === "entertainment") {
+    return `정적 JSON 기사와 Google Trends 연예 이슈 랭킹을 함께 사용해 연예 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
   }
 
   return `정적 JSON과 RSS 수집 결과를 바탕으로 탭별 기사를 새 레이아웃에 맞춰 렌더링했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
@@ -840,6 +1431,7 @@ function buildMetaLine() {
     `버전 ${state.metadata?.version ?? "-"}`,
     `탭 ${state.metadata?.tabCount ?? TAB_CONFIG.length}개`,
     `피드 ${successfulFeedCount}/${feedCount} 성공`,
+    state.spotlights.has("entertainment") ? "연예 트렌드 연동" : null,
     state.spotlights.has("esports") ? "e스포츠 일정 연동" : null,
     `탭당 최대 ${articleLimit}건`,
     `갱신 ${REFRESH_SCHEDULE_LABEL}`,
@@ -913,6 +1505,16 @@ function formatDateTime(value) {
     timeStyle: "short",
     timeZone: DISPLAY_TIMEZONE,
   }).format(new Date(value));
+}
+
+function getStandingsUpdatedAtText(standings) {
+  const updatedAt = standings?.lastUpdatedAt ?? standings?.fetchedAt ?? null;
+  return updatedAt ? `최종 갱신 ${formatDateTime(updatedAt)}` : "최종 갱신 없음";
+}
+
+function getSpotlightUpdatedAtText(spotlight) {
+  const updatedAt = spotlight?.lastUpdatedAt ?? spotlight?.fetchedAt ?? null;
+  return updatedAt ? `최종 갱신 ${formatDateTime(updatedAt)}` : "최종 갱신 없음";
 }
 
 function formatClockTime(value) {
@@ -1035,16 +1637,18 @@ async function refreshData({ isInitialLoad = false } = {}) {
   );
 
   try {
-    const { metadata, datasets, spotlights } = await loadJsonData(Date.now());
+    const { metadata, datasets, spotlights, standings } = await loadJsonData(Date.now());
     state.metadata = metadata;
     state.datasets = datasets;
     state.spotlights = spotlights;
+    state.standings = standings;
     state.isFallback = false;
   } catch (error) {
     console.warn("NewsBox 데이터 파일을 읽지 못해 fallback 데이터를 사용합니다.", error);
     state.metadata = FALLBACK_DATA.metadata;
     state.datasets = new Map(Object.entries(FALLBACK_DATA.tabs));
     state.spotlights = new Map(Object.entries(FALLBACK_DATA.spotlights ?? {}));
+    state.standings = null;
     state.isFallback = true;
   } finally {
     state.isLoading = false;
@@ -1055,9 +1659,11 @@ async function refreshData({ isInitialLoad = false } = {}) {
 
 async function loadJsonData(cacheBust) {
   const metadataUrl = new URL("../data/metadata.json", import.meta.url);
-  const [metadata, spotlightPayload] = await Promise.all([
+  const [metadata, entertainmentSpotlightPayload, esportsSpotlightPayload, standingsPayload] = await Promise.all([
     fetchJson(metadataUrl, cacheBust),
+    fetchOptionalJson(new URL("../data/spotlights/entertainment.json", import.meta.url), cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/esports.json", import.meta.url), cacheBust),
+    fetchOptionalJson(new URL("../data/spotlights/lck-standings.json", import.meta.url), cacheBust),
   ]);
   const datasets = await Promise.all(
     TAB_CONFIG.map(async (tab) => {
@@ -1068,11 +1674,14 @@ async function loadJsonData(cacheBust) {
   );
 
   const spotlights = new Map();
-  if (spotlightPayload) {
-    spotlights.set("esports", spotlightPayload);
+  if (entertainmentSpotlightPayload) {
+    spotlights.set("entertainment", entertainmentSpotlightPayload);
+  }
+  if (esportsSpotlightPayload) {
+    spotlights.set("esports", esportsSpotlightPayload);
   }
 
-  return { metadata, datasets: new Map(datasets), spotlights };
+  return { metadata, datasets: new Map(datasets), spotlights, standings: standingsPayload };
 }
 
 async function fetchOptionalJson(url, cacheBust) {

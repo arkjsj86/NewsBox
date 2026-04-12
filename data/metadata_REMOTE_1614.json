@@ -1,11 +1,11 @@
 {
   "version": "0.7.0-live",
   "sourceMode": "korean-rss",
-  "sourceProvider": "rss+lolesports+googletrends",
+  "sourceProvider": "rss+lolesports",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-12T22:03:16.585Z",
+  "lastUpdatedAt": "2026-04-11T08:02:26.875Z",
   "tabCount": 5,
-  "totalArticleCount": 79,
+  "totalArticleCount": 80,
   "availableTabs": [
     "ai",
     "game",
@@ -18,8 +18,6 @@
     "maxItemsPerFeed": 30,
     "articleLimitPerTab": 30,
     "feedTimeoutMs": 25000,
-    "entertainmentTrendLimit": 10,
-    "entertainmentTrendWindowHours": 48,
     "esportsMatchLimit": 12,
     "esportsActiveWindowDays": 21
   },
@@ -55,7 +53,7 @@
     {
       "key": "sportschosun-entertainment",
       "source": "스포츠조선 연예",
-      "itemCount": 17
+      "itemCount": 15
     },
     {
       "key": "newsis-entertainment",
@@ -69,13 +67,8 @@
     }
   ],
   "failedFeeds": [],
-  "spotlightCount": 2,
+  "spotlightCount": 1,
   "spotlights": [
-    {
-      "key": "entertainment",
-      "source": "Google Trends",
-      "itemCount": 10
-    },
     {
       "key": "esports",
       "source": "LoL Esports",

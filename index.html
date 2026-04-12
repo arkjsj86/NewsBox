@@ -77,14 +77,14 @@
             </div>
           </div>
 
-          <aside class="hero-panel" aria-label="큐레이션 패널">
+          <aside class="hero-panel" id="heroPanel" aria-label="큐레이션 패널">
             <div class="hero-panel__art" aria-hidden="true">
               <div class="hero-panel__orb"></div>
               <div class="hero-panel__mesh"></div>
               <div class="hero-panel__grain"></div>
             </div>
 
-            <div class="hero-panel__content">
+            <div class="hero-panel__content" id="heroPanelDefault">
               <p class="hero-panel__eyebrow" id="sectionKicker">Curated Feed</p>
               <h2 class="hero-panel__headline" id="heroPanelHeadline">
                 탭 정보를 준비하고 있습니다
@@ -96,6 +96,38 @@
                 <span id="heroPanelSource">소스 준비 중</span>
                 <span id="heroPanelTime">시간 준비 중</span>
               </div>
+            </div>
+
+            <div class="ai-panel" id="heroPanelAi">
+              <div class="ai-panel__view" id="aiPanelView"></div>
+            </div>
+
+            <div class="entertainment-panel" id="heroPanelEntertainment">
+              <div class="entertainment-panel__view" id="entertainmentPanelView"></div>
+            </div>
+
+            <div class="esports-panel" id="heroPanelEsports">
+              <nav class="esports-panel__tabs" role="tablist" aria-label="e스포츠 정보">
+                <button
+                  type="button"
+                  class="esports-panel__tab is-active"
+                  data-esports-tab="standings"
+                  role="tab"
+                  aria-selected="true"
+                >
+                  LCK 순위
+                </button>
+                <button
+                  type="button"
+                  class="esports-panel__tab"
+                  data-esports-tab="marquee"
+                  role="tab"
+                  aria-selected="false"
+                >
+                  팀 라인업
+                </button>
+              </nav>
+              <div class="esports-panel__view" id="esportsPanelView" role="tabpanel"></div>
             </div>
           </aside>
         </section>
