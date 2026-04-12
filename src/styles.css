@@ -824,21 +824,12 @@ a {
   margin-bottom: 8px;
 }
 
-.entertainment-panel__eyebrow {
-  margin: 0;
-  color: rgba(255, 248, 241, 0.56);
-  font-size: 0.68rem;
-  font-weight: 800;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-}
-
 .entertainment-panel__title-row {
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
   gap: 12px;
-  margin-top: 10px;
+  margin-top: 0;
 }
 
 .entertainment-panel__title {
