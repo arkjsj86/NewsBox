@@ -816,7 +816,6 @@ function renderEntertainmentPanel(spotlight) {
   const header = document.createElement("header");
   header.className = "entertainment-panel__header";
   header.innerHTML = `
-    <p class="entertainment-panel__eyebrow">Google Trends</p>
     <div class="entertainment-panel__title-row">
       <h2 class="entertainment-panel__title">${spotlight?.title ?? "연예 화제 1~10위"}</h2>
       <p class="entertainment-panel__updated-time">${getSpotlightUpdatedAtText(spotlight)}</p>
