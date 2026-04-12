@@ -1,678 +1,1320 @@
 {
   "tab": "entertainment",
   "type": "trend-ranking",
-  "source": "Google Trends",
+  "source": "Google Trends KR",
   "sourceMode": "trending-rss",
   "sourceUrl": "https://trends.google.com/trending/rss?geo=KR",
-  "title": "연예 화제 1~10위",
-  "updatedLabel": "Google Trends 기준",
-  "description": "Google Trends 한국 인기 검색어와 연예 기사 신호를 합쳐 3시간마다 다시 계산합니다.",
-  "lastUpdatedAt": "2026-04-12T06:11:44.191Z",
+  "title": "Hot Issue",
+  "updatedLabel": "Google Trends KR",
+  "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
+  "lastUpdatedAt": "2026-04-12T09:58:53.659Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "d33d047a92d3c44f",
-      "title": "장항준, 또 사고쳤다! 포상휴가 공약에 \"정상적 상태 아니었어\" ('비보티비')",
+      "id": "638dd1e2000c22c9",
+      "issueKey": "런닝맨",
+      "issueTitle": "런닝맨",
+      "trendTitle": "런닝맨",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'런닝맨' 공식 커플 탄생 임박…'8살 차이' 양세찬♥지예은 핑크빛 기류",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "하하·지예은, 막장 폭로전 터졌다 \"연예계가 들썩일 수준\"(런닝맨)",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=809706",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "양세찬♥지예은, 공식 커플 탄생 임박?…“다가갈게” (런닝맨)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260412/133720280/1",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'런닝맨' 공식 커플 탄생 임박…'8살 차이' 양세찬♥지예은 핑크빛 기류",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/",
+        "publishedAt": "2026-04-12T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:50:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "런닝맨",
       "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/10/GM4TCMJXGEYGEZTEGY2TCM3EME/",
-      "trendTitle": "장항준",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 12,
-      "publishedAt": "2026-04-11T20:10:00.000Z",
-      "firstSeenAt": "2026-04-11T22:00:24.293Z",
-      "lastSeenAt": "2026-04-11T22:00:24.293Z",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/",
       "rank": 1
     },
     {
-      "id": "69ffb9013f3ebbcd",
-      "title": "‘45세’ 미코 출신 김민경 임신 소식… “이 나이에 임밍아웃”",
+      "id": "eede6173b7972c35",
+      "issueKey": "황동하",
+      "issueTitle": "황동하",
+      "trendTitle": "황동하",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[사진]조상우와 승리 기쁨 나누는 KIA 이범호 감독",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]KIA, '한화 상대로 3연전 싹쓸이하며 4연승 질주'",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112780411",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'8회 5점' KIA, 뒷심 발휘해 대역전극 '3연승 질주'…한화 2연패",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260411_0003587259",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "황동하",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/",
+        "publishedAt": "2026-04-12T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:50:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "황동하",
       "source": "조선일보",
-      "url": "https://www.chosun.com/culture-life/k-culture/2026/04/09/2CAEFAET3JEEPKWBY6CSAYXYPU/",
-      "trendTitle": "김민경",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 12,
-      "publishedAt": "2026-04-11T09:00:00.000Z",
-      "firstSeenAt": "2026-04-11T10:06:16.071Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/",
       "rank": 2
     },
     {
-      "id": "3f2d631f2c8ed170",
-      "title": "'46세' 김민경, 임신에 감격…\"이 나이에 임밍아웃 할 줄이야\"",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/entertain/celebrity-topic/6130747",
-      "trendTitle": "김민경",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 7,
-      "publishedAt": "2026-04-11T09:00:00.000Z",
-      "firstSeenAt": "2026-04-11T10:59:09.487Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z",
+      "id": "c858bda7e65d6f4f",
+      "issueKey": "트로트 가수",
+      "issueTitle": "트로트 가수",
+      "trendTitle": "트로트 가수",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"트로트 가수가 길몽? 악수한 꿈 꾸고 복권 1등 당첨…아직 아내도 모른다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412100524626",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"뱀에 물린 꿈 꾸고 흉몽이라 여겼는데…복권 1등 당첨됐다\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260411n07475",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“매일 밤 꿈에서 트로트 가수와 악수하더니”…퇴근길 산 복권 5억 대박",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10715098",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"트로트 가수가 길몽? 악수한 꿈 꾸고 복권 1등 당첨…아직 아내도 모른다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412100524626",
+        "publishedAt": "2026-04-12T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:50:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "트로트 가수",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260412100524626",
       "rank": 3
     },
     {
-      "id": "70368ceeebebfdf0",
-      "title": "'충격적이다' 아스널의 결단, 성골 유스 듀오 전격 매각…英 BBC까지 등장했다! '2000억' 미친 이적료 책정 \"기꺼이 제안 듣는다\"",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260411n07542",
-      "trendTitle": "아스날",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T11:50:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T14:06:55.702Z",
+      "id": "e16d4743e03e607d",
+      "issueKey": "아이폰",
+      "issueTitle": "아이폰",
+      "trendTitle": "아이폰",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "폴더블 아이폰 영상 등장…진짜일까",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260410075034",
+          "publishedAt": "2026-04-12T08:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼성D, 애플과 3년간 폴더블 OLED 단독 공급 계약",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=54776",
+          "publishedAt": "2026-04-12T08:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "`아이폰 폴드` 아닌 `울트라` 9월 출시 가속… 최고가 400만원 육박",
+          "source": "디지털데일리",
+          "url": "https://m.ddaily.co.kr/page/view/2026040909224058213",
+          "publishedAt": "2026-04-12T08:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "폴더블 아이폰 영상 등장…진짜일까",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260410075034",
+        "publishedAt": "2026-04-12T08:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:20:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "아이폰",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260410075034",
       "rank": 4
     },
     {
-      "id": "8a1013771a807348",
-      "title": "김민경, 임신 성공…\"소중한 아이가 찾아왔습니다\"",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260409_0003584473",
-      "trendTitle": "김민경",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "7ae38e37df621f15",
+      "issueKey": "홍건희",
+      "issueTitle": "홍건희",
+      "trendTitle": "홍건희",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
-      "publishedAt": "2026-04-11T09:00:00.000Z",
-      "firstSeenAt": "2026-04-11T10:06:16.071Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[사진]포효하는 KIA 선발 올러, '2사 만루 위기 삼진으로'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/",
+          "publishedAt": "2026-04-12T08:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]역투 펼치는 한화 강건우",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/MFTDKMJWGZSTCZLCGMYTCNTEMQ/",
+          "publishedAt": "2026-04-12T08:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "시청률 1,2위팀 한화 4표 VS KIA 2표! 한화 우세",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8532097",
+          "publishedAt": "2026-04-12T08:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "홍건희",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/",
+        "publishedAt": "2026-04-12T08:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:00:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "홍건희",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/",
       "rank": 5
     },
     {
-      "id": "9b7c7fee0732ce87",
-      "title": "옥주현, 한남더힐 100평집 190억원에 매입 “생애 첫 내집”",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/celebrity/2026/04/11/LEX7YJXCI5F35GPJV6E7JUZIYA/",
-      "trendTitle": "한남더힐아파트",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 18,
-      "publishedAt": "2026-04-11T08:10:00.000Z",
-      "firstSeenAt": "2026-04-11T09:59:03.844Z",
-      "lastSeenAt": "2026-04-11T10:06:16.071Z",
+      "id": "3de1d66a5d473f30",
+      "issueKey": "마이클 올리세",
+      "issueTitle": "마이클 올리세",
+      "trendTitle": "마이클 올리세",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘제라드도 찬사’ 뮌헨 신흥 에이스 노리는 레알…“벨링엄 이적료 넘을 거”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260411120226075",
+          "publishedAt": "2026-04-12T07:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "41경기 29도움, '역대 1위' 메시 기록 도전...김민재 동료는 숨은 발롱도르 후보. 외질-KDB도 넘어서",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=684021",
+          "publishedAt": "2026-04-12T07:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"올리세는 힘들겠지? 디아스 다시 보고 싶다\" 리버풀 전설, '짭짤한 수익 남긴' 콜롬비아 윙어 재영입 촉구",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260408n31228?mid=s22&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-04-12T07:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "마이클 올리세",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260411120226075",
+        "publishedAt": "2026-04-12T07:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T07:50:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "마이클 올리세",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260411120226075",
       "rank": 6
     },
     {
-      "id": "27237838af7cfc5f",
-      "title": "키움 안우진, '1이닝 무실점' 위력적인 복귀전…직구 최고 구속 160㎞",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260412_0003587638",
-      "trendTitle": "안우진",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-12T04:50:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z",
+      "id": "9d7410dc24f0d098",
+      "issueKey": "임광현",
+      "issueTitle": "임광현",
+      "trendTitle": "임광현",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“법인 명의 고가주택 2630채 전수 조사”…국세청, 사주 일가 탈세 정조준",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604121449001",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "국세청장 \"법인 고가주택 2,630개 점검\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412181926843",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "100억 넘는 사택, 누가 살아?…법인 소유 9억 초과 주택 조사",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1253780.html",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임광현",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202604121449001",
+        "publishedAt": "2026-04-12T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T07:40:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "임광현",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202604121449001",
       "rank": 7
     },
     {
-      "id": "64486b7ace2c2685",
-      "title": "'3회까지 노히트' 두산 곽빈, 부활 예고하는 호투…KT전 6이닝 9K 무실점",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260410_0003586926",
-      "trendTitle": "두산 베어스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T20:30:00.000Z",
-      "firstSeenAt": "2026-04-11T22:00:24.293Z",
-      "lastSeenAt": "2026-04-11T22:00:24.293Z",
+      "id": "477d7ff10a948a49",
+      "issueKey": "굶었을 텐데",
+      "issueTitle": "굶었을 텐데",
+      "trendTitle": "굶었을 텐데",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한국늑대 종복원 16년 노력의 결실 '늑구'… 토종의 명맥 잇기도 '위태'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412174450234",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "5일째 굶었을 텐데···‘사라진 늑구’ 행방 묘연, 수색 장기화 가능성",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604121056001",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "늑구는 어디에…닷새째 못찾고 가짜 사진만 돌아다녀",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/chungcheong/1253814.html",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "5일째 굶었을 텐데···‘사라진 늑구’ 행방 묘연, 수색 장기화 가능성",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202604121056001",
+        "publishedAt": "2026-04-12T07:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-12T07:40:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "굶었을 텐데",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202604121056001",
       "rank": 8
     },
     {
-      "id": "99b8af9bc6653839",
-      "title": "'연극영화과 출신' 설민석 \"다시 돌아가도 해당 과 선택\"",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/entertain/broadcast-tv/6133291",
-      "trendTitle": "아는 형님",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T18:30:00.000Z",
-      "firstSeenAt": "2026-04-11T19:51:32.872Z",
-      "lastSeenAt": "2026-04-11T19:51:32.872Z",
+      "id": "42df7f59bac4279e",
+      "issueKey": "충남아산",
+      "issueTitle": "충남아산",
+      "trendTitle": "충남아산",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[GOAL 현장] '은고이 선제골' 충남아산, '이승재 동점골' 김해와 1-1 무승부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412182525946",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "12경기 연속 득점, 살아난 공격력…충남아산, '5전 전패' 김해 잡고 3연승 도전",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260411n11506",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[GOAL 아산] 물고 물리는 K리그2 판도에 혀 내두른 충남아산 임관식 감독 \"생각할 거리 늘어나\"",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/goal-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB-%E1%84%86%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9-%E1%84%86%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB-k%E1%84%85%E1%85%B5%E1%84%80%E1%85%B32-%E1%84%91%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A9%E1%84%8B%E1%85%A6-%E1%84%92%E1%85%A7-%E1%84%82%E1%85%A2%E1%84%83%E1%85%AE%E1%84%85%E1%85%B3%E1%86%AB-%E1%84%8E%E1%85%AE%E1%86%BC%E1%84%82%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AF-%E1%84%80%E1%85%A5%E1%84%85%E1%85%B5-%E1%84%82%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%A5%E1%84%82%E1%85%A1/blt275786a0cc0a5f95",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[GOAL 현장] '은고이 선제골' 충남아산, '이승재 동점골' 김해와 1-1 무승부",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412182525946",
+        "publishedAt": "2026-04-12T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T07:30:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "충남아산",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260412182525946",
       "rank": 9
     },
     {
-      "id": "9429260e1c3a6896",
-      "title": "옥주현, 190억에 한남더힐 매입…BTS 진 넘은 ‘역대 최고가’",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260411105701197",
-      "trendTitle": "한남더힐아파트",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T08:10:00.000Z",
-      "firstSeenAt": "2026-04-11T10:06:16.071Z",
-      "lastSeenAt": "2026-04-11T10:06:16.071Z",
+      "id": "68a737977e6e4654",
+      "issueKey": "후반 체력",
+      "issueTitle": "후반 체력",
+      "trendTitle": "후반 체력",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "안산그리너스FC, 성남FC 상대로 1-0 승리",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260412n14584",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "안산그리너스FC, 성남 원정 승리 기대…수비와 후반 체력이 관건",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1632233/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4FC-%EC%84%B1%EB%82%A8-%EC%9B%90%EC%A0%95-%EC%8A%B9%EB%A6%AC-%EA%B8%B0%EB%8C%80-2026",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "성남FC, 12일 안산전 'NH농협은행 브랜드 데이' 개최... '농심천심' 쌀 500포대 쏜다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260409172324720?t=m&amp;x_mn=69d769770880550839a1179b",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "안산그리너스FC, 성남 원정 승리 기대…수비와 후반 체력이 관건",
+        "source": "데일리안",
+        "url": "https://www.dailian.co.kr/news/view/1632233/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4FC-%EC%84%B1%EB%82%A8-%EC%9B%90%EC%A0%95-%EC%8A%B9%EB%A6%AC-%EA%B8%B0%EB%8C%80-2026",
+        "publishedAt": "2026-04-12T07:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-12T07:30:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "후반 체력",
+      "source": "데일리안",
+      "url": "https://www.dailian.co.kr/news/view/1632233/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4FC-%EC%84%B1%EB%82%A8-%EC%9B%90%EC%A0%95-%EC%8A%B9%EB%A6%AC-%EA%B8%B0%EB%8C%80-2026",
       "rank": 10
     }
   ],
   "history": [
     {
-      "id": "d33d047a92d3c44f",
-      "title": "장항준, 또 사고쳤다! 포상휴가 공약에 \"정상적 상태 아니었어\" ('비보티비')",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/10/GM4TCMJXGEYGEZTEGY2TCM3EME/",
-      "trendTitle": "장항준",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 12,
-      "publishedAt": "2026-04-11T20:10:00.000Z",
-      "firstSeenAt": "2026-04-11T22:00:24.293Z",
-      "lastSeenAt": "2026-04-11T22:00:24.293Z"
-    },
-    {
-      "id": "69ffb9013f3ebbcd",
-      "title": "‘45세’ 미코 출신 김민경 임신 소식… “이 나이에 임밍아웃”",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/culture-life/k-culture/2026/04/09/2CAEFAET3JEEPKWBY6CSAYXYPU/",
-      "trendTitle": "김민경",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 12,
-      "publishedAt": "2026-04-11T09:00:00.000Z",
-      "firstSeenAt": "2026-04-11T10:06:16.071Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z"
-    },
-    {
-      "id": "3f2d631f2c8ed170",
-      "title": "'46세' 김민경, 임신에 감격…\"이 나이에 임밍아웃 할 줄이야\"",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/entertain/celebrity-topic/6130747",
-      "trendTitle": "김민경",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 7,
-      "publishedAt": "2026-04-11T09:00:00.000Z",
-      "firstSeenAt": "2026-04-11T10:59:09.487Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z"
-    },
-    {
-      "id": "70368ceeebebfdf0",
-      "title": "'충격적이다' 아스널의 결단, 성골 유스 듀오 전격 매각…英 BBC까지 등장했다! '2000억' 미친 이적료 책정 \"기꺼이 제안 듣는다\"",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260411n07542",
-      "trendTitle": "아스날",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T11:50:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T14:06:55.702Z"
-    },
-    {
-      "id": "8a1013771a807348",
-      "title": "김민경, 임신 성공…\"소중한 아이가 찾아왔습니다\"",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260409_0003584473",
-      "trendTitle": "김민경",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "638dd1e2000c22c9",
+      "issueKey": "런닝맨",
+      "issueTitle": "런닝맨",
+      "trendTitle": "런닝맨",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
-      "publishedAt": "2026-04-11T09:00:00.000Z",
-      "firstSeenAt": "2026-04-11T10:06:16.071Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z"
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'런닝맨' 공식 커플 탄생 임박…'8살 차이' 양세찬♥지예은 핑크빛 기류",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "하하·지예은, 막장 폭로전 터졌다 \"연예계가 들썩일 수준\"(런닝맨)",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=809706",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "양세찬♥지예은, 공식 커플 탄생 임박?…“다가갈게” (런닝맨)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260412/133720280/1",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'런닝맨' 공식 커플 탄생 임박…'8살 차이' 양세찬♥지예은 핑크빛 기류",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/",
+        "publishedAt": "2026-04-12T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:50:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "런닝맨",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/"
     },
     {
       "id": "9b7c7fee0732ce87",
-      "title": "옥주현, 한남더힐 100평집 190억원에 매입 “생애 첫 내집”",
+      "title": "옥주현",
       "source": "조선일보",
       "url": "https://www.chosun.com/entertainments/celebrity/2026/04/11/LEX7YJXCI5F35GPJV6E7JUZIYA/",
       "trendTitle": "한남더힐아파트",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
-      "relevanceScore": 18,
+      "relevanceScore": 20,
       "publishedAt": "2026-04-11T08:10:00.000Z",
       "firstSeenAt": "2026-04-11T09:59:03.844Z",
-      "lastSeenAt": "2026-04-11T10:06:16.071Z"
+      "lastSeenAt": "2026-04-11T10:20:55.798Z",
+      "issueKey": "옥주현",
+      "issueTitle": "옥주현",
+      "articleCount": 5,
+      "relatedArticles": [
+        {
+          "title": "옥주현, 한남더힐 100평집 190억원에 매입 “생애 첫 내집”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/04/11/LEX7YJXCI5F35GPJV6E7JUZIYA/",
+          "publishedAt": "2026-04-11T08:10:00.000Z",
+          "relevanceScore": 18
+        },
+        {
+          "title": "옥주현, 190억에 한남더힐 매입…BTS 진 넘은 ‘역대 최고가’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260411105701197",
+          "publishedAt": "2026-04-11T08:10:00.000Z",
+          "relevanceScore": 6
+        },
+        {
+          "title": "옥주현, 생애 첫 집으로 한남더힐…190억 역대 최고가",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026041114450610829",
+          "publishedAt": "2026-04-11T08:10:00.000Z",
+          "relevanceScore": 6
+        },
+        {
+          "title": "옥주현, 한남더힐 190억 매입…BTS 진 제치고 역대 최고가",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/realestate/general/6133056",
+          "publishedAt": "2026-04-11T08:10:00.000Z",
+          "relevanceScore": 6
+        },
+        {
+          "title": "[단독] 옥주현, 190억에 한남더힐 샀다···‘생애 첫 내집’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202604110959003",
+          "publishedAt": "2026-04-11T08:10:00.000Z",
+          "relevanceScore": 4
+        }
+      ],
+      "representativeArticle": {
+        "title": "옥주현, 한남더힐 100평집 190억원에 매입 “생애 첫 내집”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/celebrity/2026/04/11/LEX7YJXCI5F35GPJV6E7JUZIYA/",
+        "publishedAt": "2026-04-11T08:10:00.000Z",
+        "relevanceScore": 18
+      }
     },
     {
-      "id": "27237838af7cfc5f",
-      "title": "키움 안우진, '1이닝 무실점' 위력적인 복귀전…직구 최고 구속 160㎞",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260412_0003587638",
-      "trendTitle": "안우진",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-12T04:50:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
-    },
-    {
-      "id": "64486b7ace2c2685",
-      "title": "'3회까지 노히트' 두산 곽빈, 부활 예고하는 호투…KT전 6이닝 9K 무실점",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260410_0003586926",
-      "trendTitle": "두산 베어스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T20:30:00.000Z",
-      "firstSeenAt": "2026-04-11T22:00:24.293Z",
-      "lastSeenAt": "2026-04-11T22:00:24.293Z"
-    },
-    {
-      "id": "99b8af9bc6653839",
-      "title": "'연극영화과 출신' 설민석 \"다시 돌아가도 해당 과 선택\"",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/entertain/broadcast-tv/6133291",
-      "trendTitle": "아는 형님",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T18:30:00.000Z",
-      "firstSeenAt": "2026-04-11T19:51:32.872Z",
-      "lastSeenAt": "2026-04-11T19:51:32.872Z"
-    },
-    {
-      "id": "9429260e1c3a6896",
-      "title": "옥주현, 190억에 한남더힐 매입…BTS 진 넘은 ‘역대 최고가’",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260411105701197",
-      "trendTitle": "한남더힐아파트",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T08:10:00.000Z",
-      "firstSeenAt": "2026-04-11T10:06:16.071Z",
-      "lastSeenAt": "2026-04-11T10:06:16.071Z"
-    },
-    {
-      "id": "f57878c9d1fe497f",
-      "title": "옥주현, 생애 첫 집으로 한남더힐…190억 역대 최고가",
-      "source": "아시아경제",
-      "url": "https://www.asiae.co.kr/article/2026041114450610829",
-      "trendTitle": "한남더힐아파트",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T08:10:00.000Z",
-      "firstSeenAt": "2026-04-11T10:06:16.071Z",
-      "lastSeenAt": "2026-04-11T10:06:16.071Z"
-    },
-    {
-      "id": "6649744b410b51cb",
-      "title": "옥주현, 한남더힐 190억 매입…BTS 진 제치고 역대 최고가",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/realestate/general/6133056",
-      "trendTitle": "한남더힐아파트",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-11T08:10:00.000Z",
-      "firstSeenAt": "2026-04-11T09:59:03.844Z",
-      "lastSeenAt": "2026-04-11T09:59:03.844Z"
-    },
-    {
-      "id": "9b3c34513d1d289e",
-      "title": "“이 나이에 임밍아웃” 김민경 ‘45세 임신’ 태명 돌고래에 숨겨진 의미",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260409105603705",
+      "id": "69ffb9013f3ebbcd",
+      "title": "김민경",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/culture-life/k-culture/2026/04/09/2CAEFAET3JEEPKWBY6CSAYXYPU/",
       "trendTitle": "김민경",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
-      "relevanceScore": 4,
+      "relevanceScore": 14,
       "publishedAt": "2026-04-11T09:00:00.000Z",
       "firstSeenAt": "2026-04-11T10:06:16.071Z",
-      "lastSeenAt": "2026-04-11T10:06:16.071Z"
+      "lastSeenAt": "2026-04-11T10:20:55.798Z",
+      "issueKey": "김민경",
+      "issueTitle": "김민경",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘45세’ 미코 출신 김민경 임신 소식… “이 나이에 임밍아웃”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/k-culture/2026/04/09/2CAEFAET3JEEPKWBY6CSAYXYPU/",
+          "publishedAt": "2026-04-11T09:00:00.000Z",
+          "relevanceScore": 12
+        },
+        {
+          "title": "“이 나이에 임밍아웃” 김민경 ‘45세 임신’ 태명 돌고래에 숨겨진 의미",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260409105603705",
+          "publishedAt": "2026-04-11T09:00:00.000Z",
+          "relevanceScore": 4
+        },
+        {
+          "title": "김민경, 임신 성공…\"소중한 아이가 찾아왔습니다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260409_0003584473",
+          "publishedAt": "2026-04-11T09:00:00.000Z",
+          "relevanceScore": 3
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘45세’ 미코 출신 김민경 임신 소식… “이 나이에 임밍아웃”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/k-culture/2026/04/09/2CAEFAET3JEEPKWBY6CSAYXYPU/",
+        "publishedAt": "2026-04-11T09:00:00.000Z",
+        "relevanceScore": 12
+      }
     },
     {
-      "id": "aa5a777153631b80",
-      "title": "[단독] 옥주현, 190억에 한남더힐 샀다···‘생애 첫 내집’",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202604110959003",
-      "trendTitle": "한남더힐아파트",
+      "id": "2ec5f43408d90211",
+      "issueKey": "피아노맨",
+      "issueTitle": "피아노맨",
+      "trendTitle": "신부",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
+      "relevanceScore": 12,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "피아노맨, 오늘 '2년 교제' 비연예인과 결혼",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260412_0003587423",
+          "publishedAt": "2026-04-12T03:00:00.000Z",
+          "relevanceScore": 11
+        },
+        {
+          "title": "김세정, 오늘(12일) 2년 열애 끝 결혼..'사랑꾼' 피아노맨 \"축복 바란다\"[스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412060202562",
+          "publishedAt": "2026-04-12T03:00:00.000Z",
+          "relevanceScore": 10
+        }
+      ],
+      "representativeArticle": {
+        "title": "피아노맨, 오늘 '2년 교제' 비연예인과 결혼",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260412_0003587423",
+        "publishedAt": "2026-04-12T03:00:00.000Z",
+        "relevanceScore": 11
+      },
+      "publishedAt": "2026-04-12T03:00:00.000Z",
+      "firstSeenAt": "2026-04-12T04:56:36.046Z",
+      "lastSeenAt": "2026-04-12T05:02:18.157Z",
+      "title": "피아노맨",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260412_0003587423"
+    },
+    {
+      "id": "eede6173b7972c35",
+      "issueKey": "황동하",
+      "issueTitle": "황동하",
+      "trendTitle": "황동하",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[사진]조상우와 승리 기쁨 나누는 KIA 이범호 감독",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]KIA, '한화 상대로 3연전 싹쓸이하며 4연승 질주'",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112780411",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'8회 5점' KIA, 뒷심 발휘해 대역전극 '3연승 질주'…한화 2연패",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260411_0003587259",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "황동하",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/",
+        "publishedAt": "2026-04-12T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:50:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "황동하",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/"
+    },
+    {
+      "id": "e16d4743e03e607d",
+      "issueKey": "아이폰",
+      "issueTitle": "아이폰",
+      "trendTitle": "아이폰",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "폴더블 아이폰 영상 등장…진짜일까",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260410075034",
+          "publishedAt": "2026-04-12T08:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼성D, 애플과 3년간 폴더블 OLED 단독 공급 계약",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=54776",
+          "publishedAt": "2026-04-12T08:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "`아이폰 폴드` 아닌 `울트라` 9월 출시 가속… 최고가 400만원 육박",
+          "source": "디지털데일리",
+          "url": "https://m.ddaily.co.kr/page/view/2026040909224058213",
+          "publishedAt": "2026-04-12T08:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "폴더블 아이폰 영상 등장…진짜일까",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260410075034",
+        "publishedAt": "2026-04-12T08:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:20:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "아이폰",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260410075034"
+    },
+    {
+      "id": "42df7f59bac4279e",
+      "issueKey": "충남아산",
+      "issueTitle": "충남아산",
+      "trendTitle": "충남아산",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[GOAL 현장] '은고이 선제골' 충남아산, '이승재 동점골' 김해와 1-1 무승부",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412182525946",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "12경기 연속 득점, 살아난 공격력…충남아산, '5전 전패' 김해 잡고 3연승 도전",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260411n11506",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[GOAL 아산] 물고 물리는 K리그2 판도에 혀 내두른 충남아산 임관식 감독 \"생각할 거리 늘어나\"",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/goal-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB-%E1%84%86%E1%85%AE%E1%86%AF%E1%84%80%E1%85%A9-%E1%84%86%E1%85%AE%E1%86%AF%E1%84%85%E1%85%B5%E1%84%82%E1%85%B3%E1%86%AB-k%E1%84%85%E1%85%B5%E1%84%80%E1%85%B32-%E1%84%91%E1%85%A1%E1%86%AB%E1%84%83%E1%85%A9%E1%84%8B%E1%85%A6-%E1%84%92%E1%85%A7-%E1%84%82%E1%85%A2%E1%84%83%E1%85%AE%E1%84%85%E1%85%B3%E1%86%AB-%E1%84%8E%E1%85%AE%E1%86%BC%E1%84%82%E1%85%A1%E1%86%B7%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A1%E1%86%AB-%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%80%E1%85%AA%E1%86%AB%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%80%E1%85%A1%E1%86%B7%E1%84%83%E1%85%A9%E1%86%A8-%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%86%AF-%E1%84%80%E1%85%A5%E1%84%85%E1%85%B5-%E1%84%82%E1%85%B3%E1%86%AF%E1%84%8B%E1%85%A5%E1%84%82%E1%85%A1/blt275786a0cc0a5f95",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[GOAL 현장] '은고이 선제골' 충남아산, '이승재 동점골' 김해와 1-1 무승부",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412182525946",
+        "publishedAt": "2026-04-12T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T07:30:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "충남아산",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260412182525946"
+    },
+    {
+      "id": "68a737977e6e4654",
+      "issueKey": "후반 체력",
+      "issueTitle": "후반 체력",
+      "trendTitle": "후반 체력",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "안산그리너스FC, 성남FC 상대로 1-0 승리",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260412n14584",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "안산그리너스FC, 성남 원정 승리 기대…수비와 후반 체력이 관건",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1632233/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4FC-%EC%84%B1%EB%82%A8-%EC%9B%90%EC%A0%95-%EC%8A%B9%EB%A6%AC-%EA%B8%B0%EB%8C%80-2026",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "성남FC, 12일 안산전 'NH농협은행 브랜드 데이' 개최... '농심천심' 쌀 500포대 쏜다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260409172324720?t=m&amp;x_mn=69d769770880550839a1179b",
+          "publishedAt": "2026-04-12T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "안산그리너스FC, 성남 원정 승리 기대…수비와 후반 체력이 관건",
+        "source": "데일리안",
+        "url": "https://www.dailian.co.kr/news/view/1632233/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4FC-%EC%84%B1%EB%82%A8-%EC%9B%90%EC%A0%95-%EC%8A%B9%EB%A6%AC-%EA%B8%B0%EB%8C%80-2026",
+        "publishedAt": "2026-04-12T07:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-12T07:30:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "후반 체력",
+      "source": "데일리안",
+      "url": "https://www.dailian.co.kr/news/view/1632233/%EC%95%88%EC%82%B0%EA%B7%B8%EB%A6%AC%EB%84%88%EC%8A%A4FC-%EC%84%B1%EB%82%A8-%EC%9B%90%EC%A0%95-%EC%8A%B9%EB%A6%AC-%EA%B8%B0%EB%8C%80-2026"
+    },
+    {
+      "id": "f0ec68f9527b9673",
+      "issueKey": "조명우",
+      "issueTitle": "조명우",
+      "trendTitle": "조명우",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 4,
-      "publishedAt": "2026-04-11T08:10:00.000Z",
-      "firstSeenAt": "2026-04-11T09:59:03.844Z",
-      "lastSeenAt": "2026-04-11T09:59:03.844Z"
-    },
-    {
-      "id": "a45ab6d1e876c67a",
-      "title": "[사진]안우진, 공언대로 복귀 초구는 직구지!",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GUYGIMBSMI3TEYTEG5SDSYJWG4/",
-      "trendTitle": "안우진",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-12T04:50:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
-    },
-    {
-      "id": "f269343ec8e7fa78",
-      "title": "롯데 이어 우리카드 정보유출 제재도 본격화…카드업권 긴장",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260411050200002",
-      "trendTitle": "롯데카드",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-12T04:30:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
-    },
-    {
-      "id": "0d5f11341454b79a",
-      "title": "롯데카드 이어 우리카드 유출 제재도 속도…카드업권 긴장",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260412094553HNc",
-      "trendTitle": "롯데카드",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-12T04:30:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
-    },
-    {
-      "id": "7ce331604d2a370c",
-      "title": "[사진]박지훈 '위험천만 헤드퍼스트슬라이딩'",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260411n10671",
-      "trendTitle": "두산 베어스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-11T20:30:00.000Z",
-      "firstSeenAt": "2026-04-11T22:00:24.293Z",
-      "lastSeenAt": "2026-04-11T22:00:24.293Z"
-    },
-    {
-      "id": "19fe3dd97e2791e8",
-      "title": "설민석 \"'왕사남' 흥행에 세조 하늘서 참담할 듯…업보로 두 아들 절명\"(아형)",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260411n12146",
-      "trendTitle": "아는 형님",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-11T18:30:00.000Z",
-      "firstSeenAt": "2026-04-11T19:51:32.872Z",
-      "lastSeenAt": "2026-04-11T19:51:32.872Z"
-    },
-    {
-      "id": "138a5a8af36c195f",
-      "title": "'그것이알고싶다' 시흥 아파트 투신 사건(그알)",
-      "source": "BNT뉴스",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202604100194",
-      "trendTitle": "다바크",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-11T14:30:00.000Z",
-      "firstSeenAt": "2026-04-11T16:02:03.446Z",
-      "lastSeenAt": "2026-04-11T16:02:03.446Z"
-    },
-    {
-      "id": "cdbd9d7a96d4e731",
-      "title": "'원조 단종' 정태우·이민우, '왕사남' 박지훈 극찬..\"15kg 감량 유지 대단해\"[아는형님][별별TV]",
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "‘세계1위’ 조명우 보고타3쿠션월드컵 악연 끊었다…타이홍치엠 꺾고 4강 진출, 타스데미르와 결승行 다퉈",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412093900180",
+          "publishedAt": "2026-04-12T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "세계랭킹 1위 조명우, 2026 보고타 세계3쿠션 당구월드컵 정상 향한 경쟁 돌입",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/newsView.php?id=20260409500181",
+          "publishedAt": "2026-04-12T03:30:00.000Z",
+          "relevanceScore": 3
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘세계1위’ 조명우 보고타3쿠션월드컵 악연 끊었다…타이홍치엠 꺾고 4강 진출, 타스데미르와 결승行 다퉈",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412093900180",
+        "publishedAt": "2026-04-12T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T03:30:00.000Z",
+      "firstSeenAt": "2026-04-12T04:56:36.046Z",
+      "lastSeenAt": "2026-04-12T05:18:14.468Z",
+      "title": "조명우",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260411220901379",
-      "trendTitle": "설민석",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "url": "https://v.daum.net/v/20260412093900180"
+    },
+    {
+      "id": "7ae38e37df621f15",
+      "issueKey": "홍건희",
+      "issueTitle": "홍건희",
+      "trendTitle": "홍건희",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
-      "publishedAt": "2026-04-11T12:40:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T14:06:55.702Z"
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[사진]포효하는 KIA 선발 올러, '2사 만루 위기 삼진으로'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/",
+          "publishedAt": "2026-04-12T08:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]역투 펼치는 한화 강건우",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/MFTDKMJWGZSTCZLCGMYTCNTEMQ/",
+          "publishedAt": "2026-04-12T08:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "시청률 1,2위팀 한화 4표 VS KIA 2표! 한화 우세",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8532097",
+          "publishedAt": "2026-04-12T08:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "홍건희",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/",
+        "publishedAt": "2026-04-12T08:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:00:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "홍건희",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/"
     },
     {
-      "id": "f162ac9d906cbf81",
-      "title": "이민우, 강호동 피해자였다 \"말 느리다고 혼내더니 6시간 말 안 시켜\"(아형)",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260411n12027",
-      "trendTitle": "설민석",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "9d7410dc24f0d098",
+      "issueKey": "임광현",
+      "issueTitle": "임광현",
+      "trendTitle": "임광현",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
-      "publishedAt": "2026-04-11T12:40:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T14:06:55.702Z"
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“법인 명의 고가주택 2630채 전수 조사”…국세청, 사주 일가 탈세 정조준",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604121449001",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "국세청장 \"법인 고가주택 2,630개 점검\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412181926843",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "100억 넘는 사택, 누가 살아?…법인 소유 9억 초과 주택 조사",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/economy_general/1253780.html",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임광현",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202604121449001",
+        "publishedAt": "2026-04-12T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T07:40:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "임광현",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202604121449001"
     },
     {
-      "id": "099adf3114bb229d",
-      "title": "'원조 단종오빠' 이민우·정태우가 분석한 박지훈 연기력",
-      "source": "국제뉴스",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3554726",
-      "trendTitle": "설민석",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "477d7ff10a948a49",
+      "issueKey": "굶었을 텐데",
+      "issueTitle": "굶었을 텐데",
+      "trendTitle": "굶었을 텐데",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
-      "publishedAt": "2026-04-11T12:40:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T14:06:55.702Z"
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한국늑대 종복원 16년 노력의 결실 '늑구'… 토종의 명맥 잇기도 '위태'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412174450234",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "5일째 굶었을 텐데···‘사라진 늑구’ 행방 묘연, 수색 장기화 가능성",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604121056001",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "늑구는 어디에…닷새째 못찾고 가짜 사진만 돌아다녀",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/chungcheong/1253814.html",
+          "publishedAt": "2026-04-12T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "5일째 굶었을 텐데···‘사라진 늑구’ 행방 묘연, 수색 장기화 가능성",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202604121056001",
+        "publishedAt": "2026-04-12T07:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-12T07:40:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "굶었을 텐데",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202604121056001"
     },
     {
-      "id": "62b5de7777d8b314",
-      "title": "암행순찰차 타보니… 버스전용차로 위반 2시간 만에 ‘119건’",
+      "id": "e9591129b5d75e90",
+      "issueKey": "신동엽",
+      "issueTitle": "신동엽",
+      "trendTitle": "신동엽",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 12,
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "신동엽, 이경실·조혜련에 고급 도시락 플렉스 “옛날에 밥 많이 얻어먹어”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/GVTDSMZXMQ2WIZJWGA2TONJQGI/",
+          "publishedAt": "2026-04-12T04:10:00.000Z",
+          "relevanceScore": 12
+        }
+      ],
+      "representativeArticle": {
+        "title": "신동엽, 이경실·조혜련에 고급 도시락 플렉스 “옛날에 밥 많이 얻어먹어”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/GVTDSMZXMQ2WIZJWGA2TONJQGI/",
+        "publishedAt": "2026-04-12T04:10:00.000Z",
+        "relevanceScore": 12
+      },
+      "publishedAt": "2026-04-12T04:10:00.000Z",
+      "firstSeenAt": "2026-04-12T05:14:46.195Z",
+      "lastSeenAt": "2026-04-12T05:18:14.468Z",
+      "title": "신동엽",
       "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/04/11/CDP745IKEJFLREC3LJFAOEFGLE/",
-      "trendTitle": "버스전용차로",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-11T09:30:00.000Z",
-      "firstSeenAt": "2026-04-11T10:59:09.487Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z"
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/GVTDSMZXMQ2WIZJWGA2TONJQGI/"
     },
     {
-      "id": "f477340020466ecf",
-      "title": "아이유, 미모까지 어필했는데..변우석 청혼 거절 \"그보다 중요한 게 있어\"(대군부인)[순간포착]",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/GAYGMNRTGFSTSNDFMQ4DOM3GMI/",
-      "trendTitle": "21세기 대군부인 출연진",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 28,
-      "publishedAt": "2026-04-11T12:20:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T14:06:55.702Z"
-    },
-    {
-      "id": "31d29d4f78e3cc17",
-      "title": "“저희를 믿고, 변화를 지켜봐 주세요” 방탄소년단의 새 시대",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/culture-life/k-culture/2026/04/11/3CL6TDJ5KNB73O4AIQ4EIXYFVA/",
-      "trendTitle": "방시혁",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 14,
-      "publishedAt": "2026-04-12T04:40:00.000Z",
-      "firstSeenAt": "2026-04-11T16:02:03.446Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
-    },
-    {
-      "id": "ebe1c2042cb143e0",
-      "title": "아이유, 주체적이네…'21세기 대군분인' 첫방 시청률부터 고공행진 '7.8%'",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260411_0003587069",
-      "trendTitle": "21세기 대군부인 출연진",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 11,
-      "publishedAt": "2026-04-11T12:20:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T14:06:55.702Z"
-    },
-    {
-      "id": "9fac5d5a3256313d",
-      "title": "아이유, 여전히 교복도 찰떡…독보적 동안 비주얼 [N샷]",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260411205638574",
-      "trendTitle": "21세기 대군부인 출연진",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 10,
-      "publishedAt": "2026-04-11T12:20:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T14:06:55.702Z"
-    },
-    {
-      "id": "5eff3c3a8b1069a8",
-      "title": "오늘부터 '봄 농구' 시작…KBL 챔피언에 등극할 주인공은?",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/2026/04/12/OFGII5E75VBE5NEZL4PNLEMHOY/",
-      "trendTitle": "서울 sk 대 고양 소노",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 8,
-      "publishedAt": "2026-04-12T04:50:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
-    },
-    {
-      "id": "5e0a4ebfed12b739",
-      "title": "英 BBC, 내가 망할 것 같아? ‘패패패+승률 46%’ 리버풀 감독 자신감 “나는 팬들의 전폭적인 지지를 받고...",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202604102043003",
-      "trendTitle": "리버풀",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "1c7c79f1a9ed030d",
+      "issueKey": "전유진",
+      "issueTitle": "전유진",
+      "trendTitle": "전유진",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 7,
-      "publishedAt": "2026-04-11T16:40:00.000Z",
-      "firstSeenAt": "2026-04-11T19:51:32.872Z",
-      "lastSeenAt": "2026-04-11T19:51:32.872Z"
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "가수 박서진, ‘KBS 전국노래자랑’ 인연으로 기부",
+          "source": "뉴스경남",
+          "url": "https://www.newsgn.com/news/articleView.html?idxno=545386",
+          "publishedAt": "2026-04-12T03:50:00.000Z",
+          "relevanceScore": 5
+        },
+        {
+          "title": "'트롯퀸' 전유진, '전국노래자랑' 경북 의성군 편 축하공연",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260410081805607?f=p",
+          "publishedAt": "2026-04-12T03:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'전국노래자랑' 의성군 편, 전유진·진성·김용임 뜬다",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3555011",
+          "publishedAt": "2026-04-12T03:50:00.000Z",
+          "relevanceScore": 3
+        }
+      ],
+      "representativeArticle": {
+        "title": "'트롯퀸' 전유진, '전국노래자랑' 경북 의성군 편 축하공연",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260410081805607?f=p",
+        "publishedAt": "2026-04-12T03:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T03:50:00.000Z",
+      "firstSeenAt": "2026-04-12T04:56:36.046Z",
+      "lastSeenAt": "2026-04-12T05:18:14.468Z",
+      "title": "전유진",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260410081805607?f=p"
     },
     {
-      "id": "5e155c4ed188452b",
-      "title": "고양시 BTS ‘아리랑’ 공연에 12만 명 운집…관광객 184% 폭증",
-      "source": "인천일보",
-      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1320666",
-      "trendTitle": "방시혁",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 6,
-      "publishedAt": "2026-04-12T04:40:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
+      "id": "413d4040bb637ca4",
+      "issueKey": "박성한",
+      "issueTitle": "박성한",
+      "trendTitle": "박성한",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 7,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "'1선발까지 무너졌다' 위기의 SSG, '공동 1위'인데 '선발은 최하위'라니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260411073254655",
+          "publishedAt": "2026-04-11T09:10:00.000Z",
+          "relevanceScore": 6
+        },
+        {
+          "title": "[포토] 3타수 3안타 박성한, 뜨겁다 뜨거워",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-04-11/202604110100076250004945",
+          "publishedAt": "2026-04-11T09:10:00.000Z",
+          "relevanceScore": 4
+        }
+      ],
+      "representativeArticle": {
+        "title": "[포토] 3타수 3안타 박성한, 뜨겁다 뜨거워",
+        "source": "스포츠조선",
+        "url": "https://www.sportschosun.com/baseball/2026-04-11/202604110100076250004945",
+        "publishedAt": "2026-04-11T09:10:00.000Z",
+        "relevanceScore": 4
+      },
+      "publishedAt": "2026-04-11T09:10:00.000Z",
+      "firstSeenAt": "2026-04-11T10:20:55.798Z",
+      "lastSeenAt": "2026-04-11T10:20:55.798Z",
+      "title": "박성한",
+      "source": "스포츠조선",
+      "url": "https://www.sportschosun.com/baseball/2026-04-11/202604110100076250004945"
     },
     {
-      "id": "f186ebe2a33525d5",
-      "title": "“경질 없다! 다음 시즌까지 간다”…'대위기' 리버풀, 슬롯 체제 유지 결정→PSG 탈락 위기 속 신뢰 유지",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/04/11/MMZWKMBUMFRGCYZWGY2TGZBUHA/",
-      "trendTitle": "리버풀",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-11T16:40:00.000Z",
-      "firstSeenAt": "2026-04-11T19:51:32.872Z",
-      "lastSeenAt": "2026-04-11T19:51:32.872Z"
+      "id": "813737ea9110cfe9",
+      "title": "변우석",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20260407516074",
+      "trendTitle": "세계일보",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 5,
+      "publishedAt": "2026-04-11T07:40:00.000Z",
+      "firstSeenAt": "2026-04-11T10:06:16.071Z",
+      "lastSeenAt": "2026-04-11T10:06:16.071Z",
+      "issueKey": "변우석",
+      "issueTitle": "변우석",
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "모델료 20만원서 수십억 몸값으로…변우석이 증명한 ‘가장 비싼 영수증’",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260407516074",
+          "publishedAt": "2026-04-11T07:40:00.000Z",
+          "relevanceScore": 5
+        }
+      ],
+      "representativeArticle": {
+        "title": "모델료 20만원서 수십억 몸값으로…변우석이 증명한 ‘가장 비싼 영수증’",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260407516074",
+        "publishedAt": "2026-04-11T07:40:00.000Z",
+        "relevanceScore": 5
+      }
     },
     {
-      "id": "2ba6da796bae1029",
-      "title": "'세계 1위 다툼' 알카라스·신네르, 나란히 몬테카를로 마스터스 4강행",
+      "id": "170a2c9bbe9863dc",
+      "issueKey": "모든 선박",
+      "issueTitle": "모든 선박",
+      "trendTitle": "모든 선박",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 4,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "[속보] 카타르 , 12일 부터 모든 선박의 완전한 항해 재개 선언… 종류 불문",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260412_0003587392",
+          "publishedAt": "2026-04-12T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "카타르 \"12일부터 영해 내 해상 운항 전면 재개\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/middleeast-africa/6133446",
+          "publishedAt": "2026-04-12T03:30:00.000Z",
+          "relevanceScore": 3
+        }
+      ],
+      "representativeArticle": {
+        "title": "[속보] 카타르 , 12일 부터 모든 선박의 완전한 항해 재개 선언… 종류 불문",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260412_0003587392",
+        "publishedAt": "2026-04-12T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T03:30:00.000Z",
+      "firstSeenAt": "2026-04-12T04:56:36.046Z",
+      "lastSeenAt": "2026-04-12T05:18:14.468Z",
+      "title": "모든 선박",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260411_0003587111",
-      "trendTitle": "카를로스 알카라스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "url": "https://www.newsis.com/view/NISX20260412_0003587392"
+    },
+    {
+      "id": "c858bda7e65d6f4f",
+      "issueKey": "트로트 가수",
+      "issueTitle": "트로트 가수",
+      "trendTitle": "트로트 가수",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
-      "publishedAt": "2026-04-11T14:20:00.000Z",
-      "firstSeenAt": "2026-04-11T14:06:55.702Z",
-      "lastSeenAt": "2026-04-11T16:02:03.446Z"
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"트로트 가수가 길몽? 악수한 꿈 꾸고 복권 1등 당첨…아직 아내도 모른다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412100524626",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"뱀에 물린 꿈 꾸고 흉몽이라 여겼는데…복권 1등 당첨됐다\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260411n07475",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“매일 밤 꿈에서 트로트 가수와 악수하더니”…퇴근길 산 복권 5억 대박",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10715098",
+          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"트로트 가수가 길몽? 악수한 꿈 꾸고 복권 1등 당첨…아직 아내도 모른다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412100524626",
+        "publishedAt": "2026-04-12T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T08:50:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "트로트 가수",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260412100524626"
     },
     {
-      "id": "62f6b2c471d756f0",
-      "title": "일본 10명 속 단 한 명… 최가온, 300점 1위 90.25 금메달로 시즌을 끝냈다",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/KZ3rKKOcJU",
-      "trendTitle": "최가온",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "3de1d66a5d473f30",
+      "issueKey": "마이클 올리세",
+      "issueTitle": "마이클 올리세",
+      "trendTitle": "마이클 올리세",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
-      "publishedAt": "2026-04-11T13:40:00.000Z",
-      "firstSeenAt": "2026-04-11T16:02:03.446Z",
-      "lastSeenAt": "2026-04-11T16:02:03.446Z"
-    },
-    {
-      "id": "69d44b9d1da6f20b",
-      "title": "‘말컹 추가시간 극장골 작렬’ 울산, 인천에 2-1 역전승…리그 2위 도약했다",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/football/2026/04/11/HE3GIODGMMYWKZDFGQ3TEYRXGM/",
-      "trendTitle": "말컹",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "publishedAt": "2026-04-11T09:30:00.000Z",
-      "firstSeenAt": "2026-04-11T10:59:09.487Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z"
-    },
-    {
-      "id": "fbbacc4e78aeecb6",
-      "title": "아이유·변우석, 시청률 9.5% 활짝 웃었다…기쁨의 한강 데이트 [Oh!쎈 이슈]",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GRSTQOJYGAYDKODFMUYDSNDDGA/",
-      "trendTitle": "아이유 이종석",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 22,
-      "publishedAt": "2026-04-12T04:50:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
-    },
-    {
-      "id": "a686f8cebb3fe2cd",
-      "title": "송지효, '런닝맨' 병풍 논란으로 욕먹는데..'SNL'서 만회할까? \"독기 품었다\"",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/MYYDKNRUMM2WCOLFGQ3TKNJTMU/",
-      "trendTitle": "송지효",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 18,
-      "publishedAt": "2026-04-11T15:00:00.000Z",
-      "firstSeenAt": "2026-04-11T16:02:03.446Z",
-      "lastSeenAt": "2026-04-11T16:02:03.446Z"
-    },
-    {
-      "id": "5eea14acd0453b21",
-      "title": "레드벨벳 조이, 갈비뼈가 보일 정도…뼈말라 몸매 된 근황[핫피플]",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/MQZDOYRYGE2TOZBTMMYTQNZQMQ/",
-      "trendTitle": "최이준",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 18,
-      "publishedAt": "2026-04-11T09:50:00.000Z",
-      "firstSeenAt": "2026-04-11T10:59:09.487Z",
-      "lastSeenAt": "2026-04-11T10:59:09.487Z"
-    },
-    {
-      "id": "abfa90b86d740086",
-      "title": "아이유·변우석 '21세기 대군부인' 순항…2회 만에 두 자릿수 시청률",
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘제라드도 찬사’ 뮌헨 신흥 에이스 노리는 레알…“벨링엄 이적료 넘을 거”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260411120226075",
+          "publishedAt": "2026-04-12T07:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "41경기 29도움, '역대 1위' 메시 기록 도전...김민재 동료는 숨은 발롱도르 후보. 외질-KDB도 넘어서",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=684021",
+          "publishedAt": "2026-04-12T07:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"올리세는 힘들겠지? 디아스 다시 보고 싶다\" 리버풀 전설, '짭짤한 수익 남긴' 콜롬비아 윙어 재영입 촉구",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260408n31228?mid=s22&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-04-12T07:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "마이클 올리세",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260411120226075",
+        "publishedAt": "2026-04-12T07:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T07:50:00.000Z",
+      "firstSeenAt": "2026-04-12T09:58:53.659Z",
+      "lastSeenAt": "2026-04-12T09:58:53.659Z",
+      "title": "마이클 올리세",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260412142400221",
-      "trendTitle": "아이유 이종석",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 16,
-      "publishedAt": "2026-04-12T04:50:00.000Z",
-      "firstSeenAt": "2026-04-12T06:11:44.191Z",
-      "lastSeenAt": "2026-04-12T06:11:44.191Z"
-    },
-    {
-      "id": "e978027f87d23aab",
-      "title": "송지효, 이렇게까지 망가진다고?…'SNL 코리아'서 역대급 파격 변신",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260411181327625",
-      "trendTitle": "송지효",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 9,
-      "publishedAt": "2026-04-11T15:00:00.000Z",
-      "firstSeenAt": "2026-04-11T16:02:03.446Z",
-      "lastSeenAt": "2026-04-11T16:02:03.446Z"
+      "url": "https://v.daum.net/v/20260411120226075"
     }
   ]
 }

@@ -79,25 +79,197 @@ const AI_PANEL_GROUPS = [
 const ENTERTAINMENT_TRENDS_FALLBACK = {
   tab: "entertainment",
   type: "trend-ranking",
-  source: "Google Trends",
+  source: "Google Trends KR",
   sourceMode: "fallback",
   sourceUrl: "https://trends.google.com/trending/rss?geo=KR",
   title: "연예 화제 1~10위",
   updatedLabel: "Google Trends 기준",
+  title: "Hot Issue",
+  updatedLabel: "Google Trends KR",
   lastUpdatedAt: "2026-04-10T03:00:00Z",
   rankingLimit: 10,
   itemCount: 10,
   items: [
-    { rank: 1, title: "옥주현 한남더힐 매입", source: "스포츠경향", approxTraffic: "1000+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 2, title: "변우석 광고 몸값 화제", source: "세계일보", approxTraffic: "1000+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 3, title: "첸백시 전속계약 해지 통보", source: "Daum", approxTraffic: "500+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 4, title: "백현 INB100 계약 이슈", source: "뉴시스", approxTraffic: "500+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 5, title: "연예계 부동산 매입 이슈", source: "조선일보", approxTraffic: "500+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 6, title: "아이돌 소속사 계약 흐름", source: "NewsBox Sample", approxTraffic: "300+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 7, title: "배우 화보·광고 화제성", source: "NewsBox Sample", approxTraffic: "300+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 8, title: "방송·드라마 키워드 집계", source: "NewsBox Sample", approxTraffic: "200+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 9, title: "음악·공연 뉴스 신호", source: "NewsBox Sample", approxTraffic: "200+", url: "https://trends.google.com/trending/rss?geo=KR" },
-    { rank: 10, title: "다음 연예 트렌드 수집 중", source: "Google Trends", approxTraffic: "-", url: "https://trends.google.com/trending/rss?geo=KR" },
+    {
+      rank: 1,
+      issueKey: "옥주현-한남더힐-매입",
+      issueTitle: "옥주현 한남더힐 매입",
+      articleCount: 4,
+      relatedArticles: [
+        { title: "옥주현 한남더힐 매입", source: "스포츠경향", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "옥주현 한남더힐 매입",
+        source: "스포츠경향",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T02:40:00Z",
+      },
+      title: "옥주현 한남더힐 매입",
+      source: "스포츠경향",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 2,
+      issueKey: "변우석-광고-몸값",
+      issueTitle: "변우석 광고 몸값 화제",
+      articleCount: 3,
+      relatedArticles: [
+        { title: "변우석 광고 몸값 화제", source: "세계일보", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "변우석 광고 몸값 화제",
+        source: "세계일보",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T02:10:00Z",
+      },
+      title: "변우석 광고 몸값 화제",
+      source: "세계일보",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 3,
+      issueKey: "첸백시-전속계약",
+      issueTitle: "첸백시 전속계약 해지 통보",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "첸백시 전속계약 해지 통보", source: "Daum", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "첸백시 전속계약 해지 통보",
+        source: "Daum",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T01:40:00Z",
+      },
+      title: "첸백시 전속계약 해지 통보",
+      source: "Daum",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 4,
+      issueKey: "백현-inb100-계약",
+      issueTitle: "백현 INB100 계약 이슈",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "백현 INB100 계약 이슈", source: "뉴시스", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "백현 INB100 계약 이슈",
+        source: "뉴시스",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T01:15:00Z",
+      },
+      title: "백현 INB100 계약 이슈",
+      source: "뉴시스",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 5,
+      issueKey: "연예계-부동산-매입",
+      issueTitle: "연예계 부동산 매입 이슈",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "연예계 부동산 매입 이슈", source: "조선일보", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "연예계 부동산 매입 이슈",
+        source: "조선일보",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T00:50:00Z",
+      },
+      title: "연예계 부동산 매입 이슈",
+      source: "조선일보",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 6,
+      issueKey: "아이돌-소속사-계약",
+      issueTitle: "아이돌 소속사 계약 흐름",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "아이돌 소속사 계약 흐름", source: "NewsBox Sample", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "아이돌 소속사 계약 흐름",
+        source: "NewsBox Sample",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-10T00:20:00Z",
+      },
+      title: "아이돌 소속사 계약 흐름",
+      source: "NewsBox Sample",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 7,
+      issueKey: "배우-화보-광고",
+      issueTitle: "배우 화보·광고 화제성",
+      articleCount: 2,
+      relatedArticles: [
+        { title: "배우 화보·광고 화제성", source: "NewsBox Sample", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "배우 화보·광고 화제성",
+        source: "NewsBox Sample",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-09T23:50:00Z",
+      },
+      title: "배우 화보·광고 화제성",
+      source: "NewsBox Sample",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 8,
+      issueKey: "방송-드라마-키워드",
+      issueTitle: "방송·드라마 키워드 집계",
+      articleCount: 1,
+      relatedArticles: [
+        { title: "방송·드라마 키워드 집계", source: "NewsBox Sample", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "방송·드라마 키워드 집계",
+        source: "NewsBox Sample",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-09T23:20:00Z",
+      },
+      title: "방송·드라마 키워드 집계",
+      source: "NewsBox Sample",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 9,
+      issueKey: "음악-공연-뉴스",
+      issueTitle: "음악·공연 뉴스 신호",
+      articleCount: 1,
+      relatedArticles: [
+        { title: "음악·공연 뉴스 신호", source: "NewsBox Sample", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "음악·공연 뉴스 신호",
+        source: "NewsBox Sample",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-09T22:55:00Z",
+      },
+      title: "음악·공연 뉴스 신호",
+      source: "NewsBox Sample",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
+    {
+      rank: 10,
+      issueKey: "다음-연예-트렌드",
+      issueTitle: "다음 연예 트렌드 수집 중",
+      articleCount: 1,
+      relatedArticles: [
+        { title: "다음 연예 트렌드 수집 중", source: "Google Trends", url: "https://trends.google.com/trending/rss?geo=KR" },
+      ],
+      representativeArticle: {
+        title: "다음 연예 트렌드 수집 중",
+        source: "Google Trends",
+        url: "https://trends.google.com/trending/rss?geo=KR",
+        publishedAt: "2026-04-09T22:20:00Z",
+      },
+      title: "다음 연예 트렌드 수집 중",
+      source: "Google Trends",
+      url: "https://trends.google.com/trending/rss?geo=KR",
+    },
   ],
 };
 
@@ -639,6 +811,7 @@ function renderEntertainmentPanel(spotlight) {
   const liveItems = Array.isArray(spotlight?.items) ? spotlight.items : [];
   const fallbackItems = state.isFallback ? ENTERTAINMENT_TRENDS_FALLBACK.items : [];
   const items = liveItems.length > 0 ? liveItems : fallbackItems;
+  const sourceLabel = getEntertainmentSourceLabel(spotlight);
 
   const header = document.createElement("header");
   header.className = "entertainment-panel__header";
@@ -648,39 +821,65 @@ function renderEntertainmentPanel(spotlight) {
       <h2 class="entertainment-panel__title">${spotlight?.title ?? "연예 화제 1~10위"}</h2>
       <p class="entertainment-panel__updated-time">${getSpotlightUpdatedAtText(spotlight)}</p>
     </div>
-    <p class="entertainment-panel__body">
-      한국 인기 검색어와 연예 기사 신호를 묶어 ${REFRESH_SCHEDULE_LABEL} 다시 계산한 랭킹입니다.
-    </p>
   `;
+
+  const titleElement = header.querySelector(".entertainment-panel__title");
+  if (titleElement) {
+    titleElement.textContent = spotlight?.title ?? "Hot Issue";
+  }
+
+  const titleRow = header.querySelector(".entertainment-panel__title-row");
+  const updatedTimeElement = header.querySelector(".entertainment-panel__updated-time");
+  if (titleRow && updatedTimeElement) {
+    const meta = document.createElement("div");
+    meta.className = "entertainment-panel__meta";
+
+    const source = document.createElement("p");
+    source.className = "entertainment-panel__source";
+    source.textContent = sourceLabel;
+
+    meta.append(source, updatedTimeElement);
+    titleRow.append(meta);
+  }
 
   const list = document.createElement("div");
   list.className = "entertainment-panel__list";
 
   for (let index = 0; index < rankingLimit; index += 1) {
     const item = items[index] ?? null;
-    const row = document.createElement(item?.url ? "a" : "div");
+    const representativeArticle = getEntertainmentRepresentativeArticle(item);
+    const issueUrl = representativeArticle?.url || item?.url || null;
+    const issueCount = getEntertainmentIssueCount(item);
+    const row = document.createElement(issueUrl ? "a" : "div");
     row.className = `entertainment-panel__row${item ? "" : " entertainment-panel__row--empty"}`;
     row.setAttribute("role", "listitem");
 
-    if (item?.url) {
-      row.href = item.url;
+    if (issueUrl) {
+      row.href = issueUrl;
       row.target = "_blank";
       row.rel = "noreferrer";
     }
 
     const displayRank = item?.rank ?? index + 1;
-    const trafficLabel = item?.approxTraffic || "-";
+    const countLabel = issueCount ? `${issueCount}건` : "-";
     const metaLabel = item
-      ? [item.source || "Google Trends", trafficLabel].filter(Boolean).join(" · ")
-      : "다음 연예 트렌드 수집 중";
+      ? [
+          representativeArticle?.source || item.source || "Google Trends",
+          representativeArticle?.publishedAt
+            ? formatRelativeTime(representativeArticle.publishedAt)
+            : null,
+        ]
+          .filter(Boolean)
+          .join(" · ")
+      : "다음 연예 이슈 수집 중";
 
     row.innerHTML = `
       <span class="entertainment-panel__rank">${displayRank}</span>
       <span class="entertainment-panel__copy">
-        <strong class="entertainment-panel__item-title">${item?.title ?? "수집 중"}</strong>
+        <strong class="entertainment-panel__item-title">${getEntertainmentIssueTitle(item) || "수집 중"}</strong>
         <span class="entertainment-panel__item-meta">${metaLabel}</span>
       </span>
-      <span class="entertainment-panel__traffic">${trafficLabel}</span>
+      <span class="entertainment-panel__traffic">${countLabel}</span>
     `;
 
     list.append(row);
@@ -1079,6 +1278,46 @@ function getArticleVariant(index) {
   return "compact";
 }
 
+function getEntertainmentIssueTitle(item) {
+  return item?.issueTitle || item?.title || item?.trendTitle || "";
+}
+
+function getEntertainmentRepresentativeArticle(item) {
+  if (item?.representativeArticle) {
+    return item.representativeArticle;
+  }
+
+  if (!item) {
+    return null;
+  }
+
+  return {
+    title: item.title || item.issueTitle || item.trendTitle || "",
+    source: item.source || null,
+    url: item.url || null,
+    publishedAt: item.publishedAt || null,
+  };
+}
+
+function getEntertainmentSourceLabel(spotlight) {
+  const source = spotlight?.source || ENTERTAINMENT_TRENDS_FALLBACK.source;
+  return `출처: ${source || "Google Trends KR"}`;
+}
+
+function getEntertainmentIssueCount(item) {
+  const articleCount = Number(item?.articleCount);
+
+  if (Number.isFinite(articleCount) && articleCount > 0) {
+    return articleCount;
+  }
+
+  if (Array.isArray(item?.relatedArticles) && item.relatedArticles.length > 0) {
+    return item.relatedArticles.length;
+  }
+
+  return null;
+}
+
 function getCardPillLabel(index) {
   if (index === 0) {
     return "Top Story";
@@ -1161,7 +1400,7 @@ function getStatusMessage() {
   }
 
   if (state.activeTab === "entertainment") {
-    return `정적 JSON 기사와 Google Trends 연예 랭킹을 함께 사용해 연예 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
+    return `정적 JSON 기사와 Google Trends 연예 이슈 랭킹을 함께 사용해 연예 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
   }
 
   return `정적 JSON과 RSS 수집 결과를 바탕으로 탭별 기사를 새 레이아웃에 맞춰 렌더링했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
