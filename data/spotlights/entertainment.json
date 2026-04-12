@@ -7,72 +7,347 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-04-12T17:04:11.878Z",
+  "lastUpdatedAt": "2026-04-12T19:55:04.555Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "4fd55119ffaeb0cf",
-      "issueKey": "맨시티",
-      "issueTitle": "맨시티",
-      "trendTitle": "맨시티",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "첼시 0-1 맨시티(후반전) : 홀란드가 절호의 기회를 놓쳤다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chelsea-0-1-man-city-hiep-2-haalland-bo-lo-thoi-co-vang",
-          "publishedAt": "2026-04-12T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "첼시 전력 분석: 일요일 프리미어리그 맞대결 미리보기",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/chelsea-away-premier-league-opta-analysis-63911328",
-          "publishedAt": "2026-04-12T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "BRITAIN SOCCER",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260413n00605",
-          "publishedAt": "2026-04-12T15:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "첼시 0-1 맨시티(후반전) : 홀란드가 절호의 기회를 놓쳤다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/chelsea-0-1-man-city-hiep-2-haalland-bo-lo-thoi-co-vang",
-        "publishedAt": "2026-04-12T15:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T15:30:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "맨시티",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/chelsea-0-1-man-city-hiep-2-haalland-bo-lo-thoi-co-vang",
-      "rank": 1
-    },
-    {
-      "id": "d0b33099b563ede5",
-      "issueKey": "chelsea đấu với man city",
-      "issueTitle": "chelsea đấu với man city",
-      "trendTitle": "chelsea đấu với man city",
+      "id": "b50d9734bb8528e8",
+      "issueKey": "전광훈",
+      "issueTitle": "전광훈",
+      "trendTitle": "전광훈",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Chelsea 0-0 Man City: Home team's celebration was short-lived.",
+          "title": "전광훈, 석방 후 첫 집회 \"감방 너무 감사…4억 넘게 받아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412174500238",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "보석 후 첫 집회 나선 전광훈 “우리가 이겼다”···지지자들 “무죄” 주장",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604121556001",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'보석 후 첫 광화문예배' 전광훈, 영상 설교서 \"우리가 이겼다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260412_0003587804",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "전광훈, 석방 후 첫 집회 \"감방 너무 감사…4억 넘게 받아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412174500238",
+        "publishedAt": "2026-04-12T18:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T18:00:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "전광훈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260412174500238",
+      "rank": 1
+    },
+    {
+      "id": "252ac990d27ebe08",
+      "issueKey": "게임",
+      "issueTitle": "게임",
+      "trendTitle": "게임",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"게임 콘텐츠 한 페이지에 모았다\" 네이버 게임판, '피드형'으로 개편",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/04/12/2026041014431728018",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "네이버, ‘게임판’ 피드형으로 전면 개편…맞춤형 콘텐츠·AI 요약 도입",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20260412500119",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "돈 스타브·템템 등, 인기 인디게임 후속작 대거 공개",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1773908",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"게임 콘텐츠 한 페이지에 모았다\" 네이버 게임판, '피드형'으로 개편",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/tech/2026/04/12/2026041014431728018",
+        "publishedAt": "2026-04-12T18:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T18:00:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "게임",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/tech/2026/04/12/2026041014431728018",
+      "rank": 2
+    },
+    {
+      "id": "b181fd19696cf7b3",
+      "issueKey": "이영자",
+      "issueTitle": "이영자",
+      "trendTitle": "이영자",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 2,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "'시청률 60%' 이영자, 지방흡입 논란→법원 行…\"담당 검사가 팬이라며 친절\" ('남겨서 뭐하게')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/184YdXnQFy",
+          "publishedAt": "2026-04-12T17:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘시청률 60% 신화’…이영자 “지방흡입 논란 후 검사가 팬이라며 친절” 고백",
+          "source": "EPN엔피나우",
+          "url": "https://www.enpnow.com/news/articleView.html?idxno=105882",
+          "publishedAt": "2026-04-12T17:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'시청률 60%' 이영자, 지방흡입 논란→법원 行…\"담당 검사가 팬이라며 친절\" ('남겨서 뭐하게')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/184YdXnQFy",
+        "publishedAt": "2026-04-12T17:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-12T17:50:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "이영자",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/184YdXnQFy",
+      "rank": 3
+    },
+    {
+      "id": "bb02a95810ef3357",
+      "issueKey": "배현진",
+      "issueTitle": "배현진",
+      "trendTitle": "배현진",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "출국 후 미국행 알린 張 대표 [횡설수설/윤완준]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260412/133724055/2",
+          "publishedAt": "2026-04-12T17:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "장동혁 5박7일 방미… 당내 “선거 포기했나”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260413043315928",
+          "publishedAt": "2026-04-12T17:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "배현진 “장동혁 미국 왜 갔나…애먼 데서 후보들 발목 잡아”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html",
+          "publishedAt": "2026-04-12T17:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "배현진 “장동혁 미국 왜 갔나…애먼 데서 후보들 발목 잡아”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html",
+        "publishedAt": "2026-04-12T17:40:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-12T17:40:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "배현진",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html",
+      "rank": 4
+    },
+    {
+      "id": "8623adc2f2ecdf2a",
+      "issueKey": "손담비",
+      "issueTitle": "손담비",
+      "trendTitle": "손담비",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"시험관 출산 귀한 딸\" 손담비, 5성급 호텔서 성대한 돌잔치… \"마이크 잡았어요\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412200326207",
+          "publishedAt": "2026-04-12T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "손담비, 행복한 결혼 생활…딸 해이양 돌잔치 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260411_0003587350",
+          "publishedAt": "2026-04-12T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "손담비♥이규혁, 딸 첫돌 맞아 가족사진 공개 \"모든 순간이 기적\" [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6133606",
+          "publishedAt": "2026-04-12T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"시험관 출산 귀한 딸\" 손담비, 5성급 호텔서 성대한 돌잔치… \"마이크 잡았어요\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412200326207",
+        "publishedAt": "2026-04-12T17:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T17:20:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "손담비",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260412200326207",
+      "rank": 5
+    },
+    {
+      "id": "322a98cd742c68e5",
+      "issueKey": "justin bieber",
+      "issueTitle": "justin bieber",
+      "trendTitle": "justin bieber",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c75kx5dw395o",
+          "publishedAt": "2026-04-12T16:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Justin Bieber Makes Controversial Coachella Debut",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/04/12/GCPSUX63MVFBTNCFOV5I7UQUVY/",
+          "publishedAt": "2026-04-12T16:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Justin Bieber to Headline Coachella 2026 in Career-Spanning Performance",
+          "source": "National Today",
+          "url": "https://nationaltoday.com/us/ca/coachella/news/2026/04/12/justin-bieber-to-headline-coachella-2026-in-career-spanning-performance-1/",
+          "publishedAt": "2026-04-12T16:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Justin Bieber headlines Coachella with nostalgia-fuelled set",
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/c75kx5dw395o",
+        "publishedAt": "2026-04-12T16:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T16:20:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "justin bieber",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c75kx5dw395o",
+      "rank": 6
+    },
+    {
+      "id": "d484e7a044eddd75",
+      "issueKey": "เชลซ พบ แมนซ ต",
+      "issueTitle": "เชลซี พบ แมนซิตี",
+      "trendTitle": "เชลซี พบ แมนซิตี",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "เชลซี พบ แมนฯ ซิตี้ (22:30 น. วันนี้) ฮาแลนด์ พบ เปโดร",
           "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut",
+          "url": "https://www.vietnam.vn/th/chelsea-man-city-22h30-hom-nay-haaland-doi-dau-voi-pedro",
+          "publishedAt": "2026-04-12T16:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "แมนฯ ซิตี้บุกถล่มเชลซี ลดช่องห่างจากจ่าฝูง พรีเมียร์ลีก เหลือเพียง 6 แต้ม",
+          "source": "ข่าวสด",
+          "url": "https://www.khaosod.co.th/sports/news_10208064",
+          "publishedAt": "2026-04-12T16:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "ดูบอลสด ถ่ายทอดสด เชลซี พบ แมนซิตี้ พรีเมียร์ลีก วันนี้ 12 เม.ย.69",
+          "source": "posttoday",
+          "url": "https://www.posttoday.com/lifestyle/740863",
+          "publishedAt": "2026-04-12T16:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "ดูบอลสด ถ่ายทอดสด เชลซี พบ แมนซิตี้ พรีเมียร์ลีก วันนี้ 12 เม.ย.69",
+        "source": "posttoday",
+        "url": "https://www.posttoday.com/lifestyle/740863",
+        "publishedAt": "2026-04-12T16:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-12T16:10:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "เชลซี พบ แมนซิตี",
+      "source": "posttoday",
+      "url": "https://www.posttoday.com/lifestyle/740863",
+      "rank": 7
+    },
+    {
+      "id": "d0b33099b563ede5",
+      "issueKey": "chelsea đấu với man city",
+      "issueTitle": "chelsea đấu với man city",
+      "trendTitle": "chelsea đấu với man city",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kết quả bóng đá Chelsea - Man City: Hiệp 2 kinh hoàng, đe dọa \"Pháo thủ\" (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-chelsea-man-city-tan-cong-ruc-lua-tiec-nuoi-ban-thang-hut-ngoai-hang-anh-c48a1752861.html",
           "publishedAt": "2026-04-12T15:30:00.000Z",
           "relevanceScore": 3
         },
@@ -84,33 +359,33 @@
           "relevanceScore": 2
         },
         {
-          "title": "Man City đua vô địch Ngoại hạng Anh: Thử thách 8 trận thắng để lật đổ Arsenal",
-          "source": "Báo Hà Tĩnh",
-          "url": "https://baohatinh.vn/tv/man-city-dua-vo-dich-ngoai-hang-anh-thu-thach-8-tran-thang-de-lat-do-arsenal-37194.html",
+          "title": "Man City nhận đòn giáng mạnh trước đại chiến Arsenal",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/175391-man-city-nhan-don-giang-manh-truoc-dai-chien-arsenal-d416684.html",
           "publishedAt": "2026-04-12T15:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "chelsea đấu với man city",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-chelsea-man-city-tan-cong-ruc-lua-tiec-nuoi-ban-thang-hut-ngoai-hang-anh-c48a1752861.html",
         "publishedAt": "2026-04-12T15:30:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-04-12T15:30:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
       "title": "chelsea đấu với man city",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut",
-      "rank": 2
+      "source": "Tin tức 24h",
+      "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-chelsea-man-city-tan-cong-ruc-lua-tiec-nuoi-ban-thang-hut-ngoai-hang-anh-c48a1752861.html",
+      "rank": 8
     },
     {
-      "id": "cff01191a4d3f9cb",
-      "issueKey": "낙관",
-      "issueTitle": "낙관",
-      "trendTitle": "낙관",
+      "id": "960a8af1f24d66e7",
+      "issueKey": "이해충돌",
+      "issueTitle": "이해충돌",
+      "trendTitle": "이해충돌",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
@@ -124,355 +399,80 @@
           "relevanceScore": 3
         },
         {
-          "title": "낙관·비관·관망 의견 팽팽! 방향성 잃고 혼돈에 빠진 비트코인 투자자들!",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/230264",
-          "publishedAt": "2026-04-12T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
           "title": "트럼프 토큰,dent의 암호화폐 사업에 대한 비판 여론 속에 90% 폭락",
           "source": "Cryptopolitan",
           "url": "https://www.cryptopolitan.com/ko/trump-token-plunges-90/",
           "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"트럼프 임기 동안 암호화폐 투자 말아야…이해충돌·조작위험\"",
+          "source": "KB Think",
+          "url": "https://kbthink.com/news-list/view.html?newsId=20260406113133864",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "낙관·비관·관망 의견 팽팽! 방향성 잃고 혼돈에 빠진 비트코인 투자자들!",
-        "source": "코인리더스",
-        "url": "https://www.coinreaders.com/230264",
+        "title": "\"트럼프 임기 동안 암호화폐 투자 말아야…이해충돌·조작위험\"",
+        "source": "KB Think",
+        "url": "https://kbthink.com/news-list/view.html?newsId=20260406113133864",
         "publishedAt": "2026-04-12T15:30:00.000Z",
-        "relevanceScore": 2
+        "relevanceScore": 1
       },
       "publishedAt": "2026-04-12T15:30:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "낙관",
-      "source": "코인리더스",
-      "url": "https://www.coinreaders.com/230264",
-      "rank": 3
-    },
-    {
-      "id": "cabc040b189e0a7d",
-      "issueKey": "주휴수당",
-      "issueTitle": "주휴수당",
-      "trendTitle": "주휴수당",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "73년 전 도입된 주휴수당…현실에선 '쪼개기 고용' 낳는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412181502780",
-          "publishedAt": "2026-04-12T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "주휴수당 주는 선진국 드물어…원조격인 日도 36년 전 폐지",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026041252241",
-          "publishedAt": "2026-04-12T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "73년 전 도입된 주휴수당…현실에선 '쪼개기 고용' 낳는다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260412181502780",
-        "publishedAt": "2026-04-12T15:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-12T15:00:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "주휴수당",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260412181502780",
-      "rank": 4
-    },
-    {
-      "id": "4a679ddfd442900e",
-      "issueKey": "chelsea vs man city",
-      "issueTitle": "chelsea vs man city",
-      "trendTitle": "chelsea vs man city",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Chelsea vs Manchester City: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cwyxndndp4pt",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Chelsea v Manchester City: Premier League – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/apr/12/chelsea-v-manchester-city-premier-league-live",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Pep gives update on Dias, Stones and Gvardiol",
-          "source": "Manchester City FC",
-          "url": "https://www.mancity.com/news/mens/pep-guardiola-chelsea-away-injury-update-63911416",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "chelsea vs man city",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cwyxndndp4pt",
-        "publishedAt": "2026-04-12T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T14:40:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "chelsea vs man city",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cwyxndndp4pt",
-      "rank": 5
-    },
-    {
-      "id": "4bda21d34afe6076",
-      "issueKey": "공습",
-      "issueTitle": "공습",
-      "trendTitle": "공습",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "유럽 주요국 이어 일본도 이스라엘의 레바논 공격 비판 “레바논 주권 존중돼야”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412155301553",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "주미 이스라엘 대사 \"이란-대리 세력 단절 전까지 전쟁 안 끝나\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260413_0003587889",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이스라엘-헤즈볼라 격렬한 지상전…트럼프 만류도 소용없어",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8533558",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "공습",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260412155301553",
-        "publishedAt": "2026-04-12T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T14:40:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "공습",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260412155301553",
-      "rank": 6
-    },
-    {
-      "id": "f00fe6c0a51c38dd",
-      "issueKey": "허지웅",
-      "issueTitle": "허지웅",
-      "trendTitle": "허지웅",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"故김창민 감독 사망' 주범, '사커킥 가해' 정황 뒤늦게 확인\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260412_0003587398",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"아빠 왜 안 와?\" 발달장애 아들의 눈물… CCTV엔 사커킥 10대, 5명 살리고 떠난 천사 감독의 비극",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412210844869",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "부실한 초동수사 '김 감독 비극' 키웠다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260412n17261",
-          "publishedAt": "2026-04-12T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "허지웅",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260412_0003587398",
-        "publishedAt": "2026-04-12T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T14:40:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "허지웅",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260412_0003587398",
-      "rank": 7
-    },
-    {
-      "id": "5ceb4f7a6db26fc7",
-      "issueKey": "김기태",
-      "issueTitle": "김기태",
-      "trendTitle": "김기태",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김기태, 안성훈 꺾고 재역전 1위!..백지영 \"탁성 고난 이겨내길\" 응원 [1등들][별별TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412232802063",
-          "publishedAt": "2026-04-12T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "MBC, '1등들' 방송시간 변경…끝장전 진출 걸린 마지막 대결",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260412n16230",
-          "publishedAt": "2026-04-12T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘1등들’ 김기태 오열, 무슨 일?",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202604121930003",
-          "publishedAt": "2026-04-12T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김기태, 안성훈 꺾고 재역전 1위!..백지영 \"탁성 고난 이겨내길\" 응원 [1등들][별별TV]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260412232802063",
-        "publishedAt": "2026-04-12T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T14:30:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "김기태",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260412232802063",
-      "rank": 8
-    },
-    {
-      "id": "dd873bf94d1936ee",
-      "issueKey": "뉴캐슬",
-      "issueTitle": "뉴캐슬",
-      "trendTitle": "뉴캐슬",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "경기 프리뷰: 크리스탈 팰리스 vs 뉴캐슬, 4월 12일 오후 8시: 양 팀 모두 승점 1점씩 획득.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-newcastle-20h00-ngay-12-4-moi-doi-1-diem",
-          "publishedAt": "2026-04-12T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "맨체스터 유나이티드 드디어 '중대 결단' 내렸다! \"토날리·워튼, 영입 리스트서 제외\"…'카세미루 대체자' 여전히 미궁 속",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5Dn5x6TsFW",
-          "publishedAt": "2026-04-12T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"2026 내내 지켜봐\" 초대박! 중원 보강 절실, 맨유 '제 2의 토니 크로스' 영입 나선다 \"유력 선택지 부상\"",
-          "source": "Your Field",
-          "url": "https://yourfield.nexon.com/today/view/2025052909553125937?type=popular",
-          "publishedAt": "2026-04-12T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "경기 프리뷰: 크리스탈 팰리스 vs 뉴캐슬, 4월 12일 오후 8시: 양 팀 모두 승점 1점씩 획득.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-newcastle-20h00-ngay-12-4-moi-doi-1-diem",
-        "publishedAt": "2026-04-12T14:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T14:20:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "뉴캐슬",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-crystal-palace-vs-newcastle-20h00-ngay-12-4-moi-doi-1-diem",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "이해충돌",
+      "source": "KB Think",
+      "url": "https://kbthink.com/news-list/view.html?newsId=20260406113133864",
       "rank": 9
     },
     {
-      "id": "c1192f040a567ebe",
-      "issueKey": "에이핑크",
-      "issueTitle": "에이핑크",
-      "trendTitle": "윤보미",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "94b794ec199f56b6",
+      "issueKey": "맨유",
+      "issueTitle": "맨유",
+      "trendTitle": "맨유",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "에이핑크, 아름다운 출국길 미모 [O! STAR 숏폼]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/10/HE2TSMJZG44DENJXMJQTQNRRMQ/",
-          "publishedAt": "2026-04-12T14:10:00.000Z",
+          "title": "\"맨유가 매각해야 할 자원\" 레전드 혹평에 뿔났다…\"내가 있어야 할 곳\" 메시지로 응수",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260412n08001",
+          "publishedAt": "2026-04-12T15:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[TD영상] 에이핑크, '바라만 봐도 행복해~' 팬들과 함께라 미소가 떠나지 않는 출국길",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260410n12880?mid=e0600",
-          "publishedAt": "2026-04-12T14:10:00.000Z",
+          "title": "무려 ‘31살 차이’ 맨유 선배 비판에 정면 반박했다…”매각해야 한다” 주장에 “이곳에 내가 있어야 할 곳”",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=90427",
+          "publishedAt": "2026-04-12T15:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "오하영 “가오슝으로 가요”…에이핑크 콘서트 예고 근황",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16032552",
-          "publishedAt": "2026-04-12T14:10:00.000Z",
+          "title": "거침없는 '독설가' 스콜스가 찍은 맨유 여름시장 '살생부' 9인..이들이 떠나야 우승한다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/08/GU2TQNLFMM3WEM3BMUYDCMZSMQ/",
+          "publishedAt": "2026-04-12T15:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "에이핑크, 아름다운 출국길 미모 [O! STAR 숏폼]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/04/10/HE2TSMJZG44DENJXMJQTQNRRMQ/",
-        "publishedAt": "2026-04-12T14:10:00.000Z",
+        "title": "\"맨유가 매각해야 할 자원\" 레전드 혹평에 뿔났다…\"내가 있어야 할 곳\" 메시지로 응수",
+        "source": "네이트 스포츠",
+        "url": "https://sports.news.nate.com/view/20260412n08001",
+        "publishedAt": "2026-04-12T15:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-12T14:10:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "에이핑크",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/10/HE2TSMJZG44DENJXMJQTQNRRMQ/",
+      "publishedAt": "2026-04-12T15:20:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "맨유",
+      "source": "네이트 스포츠",
+      "url": "https://sports.news.nate.com/view/20260412n08001",
       "rank": 10
     }
   ],
@@ -1076,6 +1076,204 @@
       "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/"
     },
     {
+      "id": "d0b33099b563ede5",
+      "issueKey": "chelsea đấu với man city",
+      "issueTitle": "chelsea đấu với man city",
+      "trendTitle": "chelsea đấu với man city",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 5,
+      "relatedArticles": [
+        {
+          "title": "Chelsea 0-0 Man City: Home team's celebration was short-lived.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Kết quả bóng đá Chelsea - Man City: Hiệp 2 kinh hoàng, đe dọa \"Pháo thủ\" (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-chelsea-man-city-tan-cong-ruc-lua-tiec-nuoi-ban-thang-hut-ngoai-hang-anh-c48a1752861.html",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Neville kinh ngạc trước tầm ảnh hưởng của Nico O'Reilly",
+          "source": "bongda.com.vn",
+          "url": "https://bongda.com.vn/neville-kinh-ngac-truoc-tam-anh-huong-cua-nico-oreilly-d827345.html",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Man City đua vô địch Ngoại hạng Anh: Thử thách 8 trận thắng để lật đổ Arsenal",
+          "source": "Báo Hà Tĩnh",
+          "url": "https://baohatinh.vn/tv/man-city-dua-vo-dich-ngoai-hang-anh-thu-thach-8-tran-thang-de-lat-do-arsenal-37194.html",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "Man City nhận đòn giáng mạnh trước đại chiến Arsenal",
+          "source": "Thể Thao 247",
+          "url": "https://thethao247.vn/175391-man-city-nhan-don-giang-manh-truoc-dai-chien-arsenal-d416684.html",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "chelsea đấu với man city",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut",
+        "publishedAt": "2026-04-12T15:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T15:30:00.000Z",
+      "firstSeenAt": "2026-04-12T17:04:11.878Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "chelsea đấu với man city",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut"
+    },
+    {
+      "id": "bb02a95810ef3357",
+      "issueKey": "배현진",
+      "issueTitle": "배현진",
+      "trendTitle": "배현진",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "출국 후 미국행 알린 張 대표 [횡설수설/윤완준]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260412/133724055/2",
+          "publishedAt": "2026-04-12T17:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "장동혁 5박7일 방미… 당내 “선거 포기했나”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260413043315928",
+          "publishedAt": "2026-04-12T17:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "배현진 “장동혁 미국 왜 갔나…애먼 데서 후보들 발목 잡아”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html",
+          "publishedAt": "2026-04-12T17:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "배현진 “장동혁 미국 왜 갔나…애먼 데서 후보들 발목 잡아”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html",
+        "publishedAt": "2026-04-12T17:40:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-12T17:40:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "배현진",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html"
+    },
+    {
+      "id": "8623adc2f2ecdf2a",
+      "issueKey": "손담비",
+      "issueTitle": "손담비",
+      "trendTitle": "손담비",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"시험관 출산 귀한 딸\" 손담비, 5성급 호텔서 성대한 돌잔치… \"마이크 잡았어요\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412200326207",
+          "publishedAt": "2026-04-12T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "손담비, 행복한 결혼 생활…딸 해이양 돌잔치 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260411_0003587350",
+          "publishedAt": "2026-04-12T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "손담비♥이규혁, 딸 첫돌 맞아 가족사진 공개 \"모든 순간이 기적\" [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6133606",
+          "publishedAt": "2026-04-12T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"시험관 출산 귀한 딸\" 손담비, 5성급 호텔서 성대한 돌잔치… \"마이크 잡았어요\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412200326207",
+        "publishedAt": "2026-04-12T17:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T17:20:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "손담비",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260412200326207"
+    },
+    {
+      "id": "960a8af1f24d66e7",
+      "issueKey": "이해충돌",
+      "issueTitle": "이해충돌",
+      "trendTitle": "이해충돌",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "알트 급등락 원인 ‘MM 영향’ 1위… 내부자 개입 의심도 2위",
+          "source": "코인니스",
+          "url": "https://coinness.com/news/1154284",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "트럼프 토큰,dent의 암호화폐 사업에 대한 비판 여론 속에 90% 폭락",
+          "source": "Cryptopolitan",
+          "url": "https://www.cryptopolitan.com/ko/trump-token-plunges-90/",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"트럼프 임기 동안 암호화폐 투자 말아야…이해충돌·조작위험\"",
+          "source": "KB Think",
+          "url": "https://kbthink.com/news-list/view.html?newsId=20260406113133864",
+          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"트럼프 임기 동안 암호화폐 투자 말아야…이해충돌·조작위험\"",
+        "source": "KB Think",
+        "url": "https://kbthink.com/news-list/view.html?newsId=20260406113133864",
+        "publishedAt": "2026-04-12T15:30:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-12T15:30:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "이해충돌",
+      "source": "KB Think",
+      "url": "https://kbthink.com/news-list/view.html?newsId=20260406113133864"
+    },
+    {
       "id": "cff01191a4d3f9cb",
       "issueKey": "낙관",
       "issueTitle": "낙관",
@@ -1667,50 +1865,188 @@
       "url": "https://v.daum.net/v/20260412093900180"
     },
     {
-      "id": "d0b33099b563ede5",
-      "issueKey": "chelsea đấu với man city",
-      "issueTitle": "chelsea đấu với man city",
-      "trendTitle": "chelsea đấu với man city",
+      "id": "b50d9734bb8528e8",
+      "issueKey": "전광훈",
+      "issueTitle": "전광훈",
+      "trendTitle": "전광훈",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Chelsea 0-0 Man City: Home team's celebration was short-lived.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut",
-          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "title": "전광훈, 석방 후 첫 집회 \"감방 너무 감사…4억 넘게 받아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260412174500238",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Neville kinh ngạc trước tầm ảnh hưởng của Nico O'Reilly",
-          "source": "bongda.com.vn",
-          "url": "https://bongda.com.vn/neville-kinh-ngac-truoc-tam-anh-huong-cua-nico-oreilly-d827345.html",
-          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "title": "보석 후 첫 집회 나선 전광훈 “우리가 이겼다”···지지자들 “무죄” 주장",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202604121556001",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Man City đua vô địch Ngoại hạng Anh: Thử thách 8 trận thắng để lật đổ Arsenal",
-          "source": "Báo Hà Tĩnh",
-          "url": "https://baohatinh.vn/tv/man-city-dua-vo-dich-ngoai-hang-anh-thu-thach-8-tran-thang-de-lat-do-arsenal-37194.html",
-          "publishedAt": "2026-04-12T15:30:00.000Z",
+          "title": "'보석 후 첫 광화문예배' 전광훈, 영상 설교서 \"우리가 이겼다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260412_0003587804",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "chelsea đấu với man city",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut",
-        "publishedAt": "2026-04-12T15:30:00.000Z",
+        "title": "전광훈, 석방 후 첫 집회 \"감방 너무 감사…4억 넘게 받아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260412174500238",
+        "publishedAt": "2026-04-12T18:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-12T15:30:00.000Z",
-      "firstSeenAt": "2026-04-12T17:04:11.878Z",
-      "lastSeenAt": "2026-04-12T17:04:11.878Z",
-      "title": "chelsea đấu với man city",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut"
+      "publishedAt": "2026-04-12T18:00:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "전광훈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260412174500238"
+    },
+    {
+      "id": "252ac990d27ebe08",
+      "issueKey": "게임",
+      "issueTitle": "게임",
+      "trendTitle": "게임",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"게임 콘텐츠 한 페이지에 모았다\" 네이버 게임판, '피드형'으로 개편",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/04/12/2026041014431728018",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "네이버, ‘게임판’ 피드형으로 전면 개편…맞춤형 콘텐츠·AI 요약 도입",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20260412500119",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "돈 스타브·템템 등, 인기 인디게임 후속작 대거 공개",
+          "source": "게임메카",
+          "url": "https://www.gamemeca.com/view.php?gid=1773908",
+          "publishedAt": "2026-04-12T18:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"게임 콘텐츠 한 페이지에 모았다\" 네이버 게임판, '피드형'으로 개편",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/tech/2026/04/12/2026041014431728018",
+        "publishedAt": "2026-04-12T18:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T18:00:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "게임",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/tech/2026/04/12/2026041014431728018"
+    },
+    {
+      "id": "d484e7a044eddd75",
+      "issueKey": "เชลซ พบ แมนซ ต",
+      "issueTitle": "เชลซี พบ แมนซิตี",
+      "trendTitle": "เชลซี พบ แมนซิตี",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "เชลซี พบ แมนฯ ซิตี้ (22:30 น. วันนี้) ฮาแลนด์ พบ เปโดร",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/chelsea-man-city-22h30-hom-nay-haaland-doi-dau-voi-pedro",
+          "publishedAt": "2026-04-12T16:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "แมนฯ ซิตี้บุกถล่มเชลซี ลดช่องห่างจากจ่าฝูง พรีเมียร์ลีก เหลือเพียง 6 แต้ม",
+          "source": "ข่าวสด",
+          "url": "https://www.khaosod.co.th/sports/news_10208064",
+          "publishedAt": "2026-04-12T16:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "ดูบอลสด ถ่ายทอดสด เชลซี พบ แมนซิตี้ พรีเมียร์ลีก วันนี้ 12 เม.ย.69",
+          "source": "posttoday",
+          "url": "https://www.posttoday.com/lifestyle/740863",
+          "publishedAt": "2026-04-12T16:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "ดูบอลสด ถ่ายทอดสด เชลซี พบ แมนซิตี้ พรีเมียร์ลีก วันนี้ 12 เม.ย.69",
+        "source": "posttoday",
+        "url": "https://www.posttoday.com/lifestyle/740863",
+        "publishedAt": "2026-04-12T16:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-12T16:10:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "เชลซี พบ แมนซิตี",
+      "source": "posttoday",
+      "url": "https://www.posttoday.com/lifestyle/740863"
+    },
+    {
+      "id": "94b794ec199f56b6",
+      "issueKey": "맨유",
+      "issueTitle": "맨유",
+      "trendTitle": "맨유",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"맨유가 매각해야 할 자원\" 레전드 혹평에 뿔났다…\"내가 있어야 할 곳\" 메시지로 응수",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260412n08001",
+          "publishedAt": "2026-04-12T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "무려 ‘31살 차이’ 맨유 선배 비판에 정면 반박했다…”매각해야 한다” 주장에 “이곳에 내가 있어야 할 곳”",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=90427",
+          "publishedAt": "2026-04-12T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "거침없는 '독설가' 스콜스가 찍은 맨유 여름시장 '살생부' 9인..이들이 떠나야 우승한다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/08/GU2TQNLFMM3WEM3BMUYDCMZSMQ/",
+          "publishedAt": "2026-04-12T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"맨유가 매각해야 할 자원\" 레전드 혹평에 뿔났다…\"내가 있어야 할 곳\" 메시지로 응수",
+        "source": "네이트 스포츠",
+        "url": "https://sports.news.nate.com/view/20260412n08001",
+        "publishedAt": "2026-04-12T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-12T15:20:00.000Z",
+      "firstSeenAt": "2026-04-12T19:55:04.555Z",
+      "lastSeenAt": "2026-04-12T19:55:04.555Z",
+      "title": "맨유",
+      "source": "네이트 스포츠",
+      "url": "https://sports.news.nate.com/view/20260412n08001"
     },
     {
       "id": "4bda21d34afe6076",
@@ -1987,314 +2323,6 @@
       "title": "lsg vs gt",
       "source": "Yahoo Sports",
       "url": "https://sports.yahoo.com/articles/ipl-match-today-lsg-vs-085200843.html"
-    },
-    {
-      "id": "d406f8a9387db7d0",
-      "issueKey": "당국",
-      "issueTitle": "당국",
-      "trendTitle": "당국",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "돈 받고 종목 추천한 유튜버들…당국, 5개 채널 불법 적발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260412005900002",
-          "publishedAt": "2026-04-12T10:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "돈 받고 종목 추천한 유튜버들⋯불법 채널 5곳 적발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412193004801",
-          "publishedAt": "2026-04-12T10:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘핀플루언서 추천 종목?’···금감원, 월 60만원에 종목 추천한 미신고 유튜버 적발",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202604121458001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
-          "publishedAt": "2026-04-12T10:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "돈 받고 종목 추천한 유튜버들…당국, 5개 채널 불법 적발",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260412005900002",
-        "publishedAt": "2026-04-12T10:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T10:00:00.000Z",
-      "firstSeenAt": "2026-04-12T11:07:12.930Z",
-      "lastSeenAt": "2026-04-12T11:07:12.930Z",
-      "title": "당국",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260412005900002"
-    },
-    {
-      "id": "7828e86d4b195798",
-      "issueKey": "베트남",
-      "issueTitle": "베트남",
-      "trendTitle": "베트남",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "베트남 최고의 '숨겨진 보석'은 무엇이 특별할까요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/co-gi-o-vien-ngoc-an-so-1-the-gioi-tai-viet-nam",
-          "publishedAt": "2026-04-12T10:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "세계에서 가장 매혹적인 \"숨겨진 보석\", 호이안을 발견해보세요.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/kham-pha-hoi-an-vien-ngoc-an-hap-dan-nhat-the-gioi",
-          "publishedAt": "2026-04-12T10:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "호이안 고대 도시는 세계에서 가장 아름다운 \"숨겨진 보석\" 목록에서 1위를 차지합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/pho-co-hoi-an-dung-dau-danh-sach-binh-chon-nhung-vien-ngoc-an-dep-nhat-the-gioi",
-          "publishedAt": "2026-04-12T10:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "베트남 최고의 '숨겨진 보석'은 무엇이 특별할까요?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/co-gi-o-vien-ngoc-an-so-1-the-gioi-tai-viet-nam",
-        "publishedAt": "2026-04-12T10:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T10:00:00.000Z",
-      "firstSeenAt": "2026-04-12T11:07:12.930Z",
-      "lastSeenAt": "2026-04-12T11:07:12.930Z",
-      "title": "베트남",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/co-gi-o-vien-ngoc-an-so-1-the-gioi-tai-viet-nam"
-    },
-    {
-      "id": "2a90910cdeb05684",
-      "issueKey": "축구 감독",
-      "issueTitle": "축구 감독",
-      "trendTitle": "축구 감독",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "세계에서 가장 부유한 축구 감독들의 정체가 공개되었습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/danh-tinh-dan-hlv-giau-nhat-the-gioi",
-          "publishedAt": "2026-04-12T09:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'韓 재계약 거절→UAE 실패' 벤투 감독, 가나 감독 도전 실패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412112900492",
-          "publishedAt": "2026-04-12T09:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'벤버지' 벤투, 가나 대표팀 감독으로 월드컵 복귀 노린다",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1151952",
-          "publishedAt": "2026-04-12T09:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "세계에서 가장 부유한 축구 감독들의 정체가 공개되었습니다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/danh-tinh-dan-hlv-giau-nhat-the-gioi",
-        "publishedAt": "2026-04-12T09:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T09:50:00.000Z",
-      "firstSeenAt": "2026-04-12T11:07:12.930Z",
-      "lastSeenAt": "2026-04-12T11:07:12.930Z",
-      "title": "축구 감독",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/danh-tinh-dan-hlv-giau-nhat-the-gioi"
-    },
-    {
-      "id": "7ae38e37df621f15",
-      "issueKey": "홍건희",
-      "issueTitle": "홍건희",
-      "trendTitle": "홍건희",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[사진]포효하는 KIA 선발 올러, '2사 만루 위기 삼진으로'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/",
-          "publishedAt": "2026-04-12T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]역투 펼치는 한화 강건우",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/MFTDKMJWGZSTCZLCGMYTCNTEMQ/",
-          "publishedAt": "2026-04-12T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "시청률 1,2위팀 한화 4표 VS KIA 2표! 한화 우세",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8532097",
-          "publishedAt": "2026-04-12T08:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "홍건희",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/",
-        "publishedAt": "2026-04-12T08:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T08:00:00.000Z",
-      "firstSeenAt": "2026-04-12T09:58:53.659Z",
-      "lastSeenAt": "2026-04-12T09:58:53.659Z",
-      "title": "홍건희",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GBQTONZSGMYTGY3BMVRGCOBTGM/"
-    },
-    {
-      "id": "9d7410dc24f0d098",
-      "issueKey": "임광현",
-      "issueTitle": "임광현",
-      "trendTitle": "임광현",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“법인 명의 고가주택 2630채 전수 조사”…국세청, 사주 일가 탈세 정조준",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202604121449001",
-          "publishedAt": "2026-04-12T07:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "국세청장 \"법인 고가주택 2,630개 점검\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412181926843",
-          "publishedAt": "2026-04-12T07:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "100억 넘는 사택, 누가 살아?…법인 소유 9억 초과 주택 조사",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1253780.html",
-          "publishedAt": "2026-04-12T07:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "임광현",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202604121449001",
-        "publishedAt": "2026-04-12T07:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T07:40:00.000Z",
-      "firstSeenAt": "2026-04-12T09:58:53.659Z",
-      "lastSeenAt": "2026-04-12T09:58:53.659Z",
-      "title": "임광현",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202604121449001"
-    },
-    {
-      "id": "477d7ff10a948a49",
-      "issueKey": "굶었을 텐데",
-      "issueTitle": "굶었을 텐데",
-      "trendTitle": "굶었을 텐데",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한국늑대 종복원 16년 노력의 결실 '늑구'… 토종의 명맥 잇기도 '위태'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412174450234",
-          "publishedAt": "2026-04-12T07:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "5일째 굶었을 텐데···‘사라진 늑구’ 행방 묘연, 수색 장기화 가능성",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202604121056001",
-          "publishedAt": "2026-04-12T07:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "늑구는 어디에…닷새째 못찾고 가짜 사진만 돌아다녀",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/chungcheong/1253814.html",
-          "publishedAt": "2026-04-12T07:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "5일째 굶었을 텐데···‘사라진 늑구’ 행방 묘연, 수색 장기화 가능성",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202604121056001",
-        "publishedAt": "2026-04-12T07:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-12T07:40:00.000Z",
-      "firstSeenAt": "2026-04-12T09:58:53.659Z",
-      "lastSeenAt": "2026-04-12T09:58:53.659Z",
-      "title": "굶었을 텐데",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202604121056001"
-    },
-    {
-      "id": "e9591129b5d75e90",
-      "issueKey": "신동엽",
-      "issueTitle": "신동엽",
-      "trendTitle": "신동엽",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 12,
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "title": "신동엽, 이경실·조혜련에 고급 도시락 플렉스 “옛날에 밥 많이 얻어먹어”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/GVTDSMZXMQ2WIZJWGA2TONJQGI/",
-          "publishedAt": "2026-04-12T04:10:00.000Z",
-          "relevanceScore": 12
-        }
-      ],
-      "representativeArticle": {
-        "title": "신동엽, 이경실·조혜련에 고급 도시락 플렉스 “옛날에 밥 많이 얻어먹어”",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/GVTDSMZXMQ2WIZJWGA2TONJQGI/",
-        "publishedAt": "2026-04-12T04:10:00.000Z",
-        "relevanceScore": 12
-      },
-      "publishedAt": "2026-04-12T04:10:00.000Z",
-      "firstSeenAt": "2026-04-12T05:14:46.195Z",
-      "lastSeenAt": "2026-04-12T05:18:14.468Z",
-      "title": "신동엽",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/11/GVTDSMZXMQ2WIZJWGA2TONJQGI/"
     }
   ]
 }
