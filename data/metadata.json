@@ -1,11 +1,11 @@
 {
   "version": "0.7.0-live",
   "sourceMode": "korean-rss",
-  "sourceProvider": "rss+lolesports+googletrends",
+  "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-12T22:03:16.585Z",
+  "lastUpdatedAt": "2026-04-13T07:27:29.428Z",
   "tabCount": 5,
-  "totalArticleCount": 79,
+  "totalArticleCount": 81,
   "availableTabs": [
     "ai",
     "game",
@@ -21,7 +21,8 @@
     "entertainmentTrendLimit": 10,
     "entertainmentTrendWindowHours": 48,
     "esportsMatchLimit": 12,
-    "esportsActiveWindowDays": 21
+    "esportsActiveWindowDays": 21,
+    "unityVideoLimit": 2
   },
   "feedCount": 8,
   "successfulFeedCount": 8,
@@ -40,7 +41,7 @@
     {
       "key": "gameinsight-all",
       "source": "게임인사이트",
-      "itemCount": 30
+      "itemCount": 29
     },
     {
       "key": "gameinsight-ai-blockchain",
@@ -55,7 +56,7 @@
     {
       "key": "sportschosun-entertainment",
       "source": "스포츠조선 연예",
-      "itemCount": 17
+      "itemCount": 16
     },
     {
       "key": "newsis-entertainment",
@@ -69,7 +70,7 @@
     }
   ],
   "failedFeeds": [],
-  "spotlightCount": 2,
+  "spotlightCount": 4,
   "spotlights": [
     {
       "key": "entertainment",
@@ -82,6 +83,18 @@
       "activeLeagueKey": "lck",
       "activeLeagueLabel": "LCK",
       "matchCount": 12
+    },
+    {
+      "key": "game",
+      "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
+      "itemCount": 2,
+      "issueCount": 10
+    },
+    {
+      "key": "unity",
+      "source": "Unity Releases + Unity Korea YouTube",
+      "version": "6000.3.13f1",
+      "videoCount": 2
     }
   ]
 }
