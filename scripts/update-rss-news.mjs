@@ -10,6 +10,12 @@ import {
   buildEsportsSpotlight,
 } from "./lib/esports-schedule.mjs";
 import {
+  EPIC_FREE_GAMES_SOURCE,
+  INVEN_ISSUES_SOURCE,
+  RULIWEB_ISSUES_SOURCE,
+  buildGameSpotlight,
+} from "./lib/game-spotlight.mjs";
+import {
   UNITY_RELEASE_SOURCE,
   UNITY_YOUTUBE_SOURCE,
   buildUnitySpotlight,
@@ -329,6 +335,12 @@ async function main() {
     historyRetentionHours: ENTERTAINMENT_TREND_WINDOW_HOURS,
   });
 
+  const gameSpotlight = await buildGameSpotlight({
+    generatedAt: GENERATED_AT,
+    timeoutMs: FEED_TIMEOUT_MS,
+    existingSpotlightPath: resolve(SPOTLIGHTS_DIR, "game.json"),
+  });
+
   const unitySpotlight = await buildUnitySpotlight({
     generatedAt: GENERATED_AT,
     timeoutMs: FEED_TIMEOUT_MS,
@@ -338,12 +350,13 @@ async function main() {
 
   writeJson(resolve(SPOTLIGHTS_DIR, "esports.json"), esportsSpotlight);
   writeJson(resolve(SPOTLIGHTS_DIR, "entertainment.json"), entertainmentSpotlight);
+  writeJson(resolve(SPOTLIGHTS_DIR, "game.json"), gameSpotlight);
   writeJson(resolve(SPOTLIGHTS_DIR, "unity.json"), unitySpotlight);
 
   writeJson(resolve(DATA_DIR, "metadata.json"), {
     version: "0.7.0-live",
     sourceMode: "korean-rss",
-    sourceProvider: "rss+lolesports+googletrends+unity+youtube",
+    sourceProvider: "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
     contentLocale: "ko-KR",
     lastUpdatedAt: GENERATED_AT,
     tabCount: TABS.length,
@@ -365,7 +378,7 @@ async function main() {
     failedFeedCount: feedStatuses.length - successfulFeeds.length,
     successfulFeeds: successfulFeeds.map((feed) => ({ key: feed.key, source: feed.source, itemCount: feed.itemCount })),
     failedFeeds: feedStatuses.filter((feed) => !feed.ok).map((feed) => ({ key: feed.key, source: feed.source, error: feed.error })),
-    spotlightCount: 3,
+    spotlightCount: 4,
     spotlights: [
       {
         key: "entertainment",
@@ -378,6 +391,14 @@ async function main() {
         activeLeagueKey: esportsSpotlight.activeLeagueKey,
         activeLeagueLabel: esportsSpotlight.activeLeagueLabel,
         matchCount: esportsSpotlight.matchCount,
+      },
+      {
+        key: "game",
+        source: `${EPIC_FREE_GAMES_SOURCE} + ${RULIWEB_ISSUES_SOURCE} + ${INVEN_ISSUES_SOURCE}`,
+        itemCount: gameSpotlight.itemCount ?? 0,
+        issueCount:
+          (gameSpotlight.issues?.ruliweb?.items?.length ?? 0) +
+          (gameSpotlight.issues?.inven?.items?.length ?? 0),
       },
       {
         key: "unity",
@@ -770,7 +791,7 @@ function cleanupObsoleteTabFiles() {
 }
 
 function cleanupObsoleteSpotlightFiles() {
-  const activeFiles = new Set(["entertainment.json", "esports.json", "lck-standings.json", "unity.json"]);
+  const activeFiles = new Set(["entertainment.json", "esports.json", "game.json", "lck-standings.json", "unity.json"]);
   for (const entry of readdirSync(SPOTLIGHTS_DIR, { withFileTypes: true })) {
     if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
     if (!activeFiles.has(entry.name)) {
