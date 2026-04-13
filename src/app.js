@@ -312,6 +312,106 @@ const UNITY_SPOTLIGHT_FALLBACK = {
   channelName: "Unity Korea",
 };
 
+const GAME_SPOTLIGHT_FALLBACK = {
+  tab: "game",
+  type: "free-games-and-issues",
+  source: "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
+  sourceMode: "fallback",
+  lastUpdatedAt: "2026-04-13T00:00:00.000Z",
+  title: "에픽게임즈 이주의 무료게임",
+  description: "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
+  sourceUrl: "https://store.epicgames.com/ko/free-games",
+  itemCount: 2,
+  offers: [
+    {
+      id: "9f67865fcf0749a58f4d35827473266f",
+      title: "토막: 지구를 지켜라 리제네레이션",
+      seller: "NETMARBLE MONSTER",
+      url: "https://store.epicgames.com/ko/p/tomak-save-the-earth-regeneration-c1207c",
+      imageUrl:
+        "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-l1n5k.png",
+      originalPriceLabel: "₩9,200",
+      freeUntil: "2026-04-16T15:00:00.000Z",
+    },
+    {
+      id: "bc9b3091841840ad974ff525873d48c1",
+      title: "Prop Sumo",
+      seller: "Barrel Roll Games GmbH & Co. KG",
+      url: "https://store.epicgames.com/ko/p/propsumo-ca8bd7",
+      imageUrl:
+        "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-jc5go.png",
+      originalPriceLabel: "₩10,200",
+      freeUntil: "2026-04-16T15:00:00.000Z",
+    },
+  ],
+  issues: {
+    ruliweb: {
+      label: "루리웹 BEST 뉴스",
+      source: "Ruliweb BEST 뉴스",
+      sourceUrl: "https://bbs.ruliweb.com/best",
+      items: [
+        {
+          title: "하운드13, '드래곤소드 : 어웨이크닝' 스팀 페이지 및 7월 발매 공개",
+          url: "https://bbs.ruliweb.com/news/read/223350",
+          meta: "댓글 51",
+        },
+        {
+          title: "익숙함을 깨는 힘, ‘니케’가 여전히 기대되는 이유 — 정재성·주종현 디렉터 인터뷰",
+          url: "https://bbs.ruliweb.com/news/read/223198",
+          meta: "댓글 37",
+        },
+        {
+          title: "㈜엔씨, 유튜브 채널 '영래기' 운영자에 대한 법적 대응 진행",
+          url: "https://bbs.ruliweb.com/news/read/223178",
+          meta: "댓글 46",
+        },
+        {
+          title: "몬스터와 함께 DIVE, '몬길 : 스타 다이브' 첫 번째 쇼케이스",
+          url: "https://bbs.ruliweb.com/news/read/223241",
+          meta: "댓글 23",
+        },
+        {
+          title: "넷마블, 계열사 ‘코웨이’ 주식 1,500억원 규모 장내 매수 추진",
+          url: "https://bbs.ruliweb.com/news/read/223160",
+          meta: "댓글 4",
+        },
+      ],
+    },
+    inven: {
+      label: "인벤 주요뉴스",
+      source: "Inven 주요뉴스",
+      sourceUrl: "https://www.inven.co.kr/webzine/news/?hotnews=1",
+      items: [
+        {
+          title: "‘명일방주: 엔드필드’ 대규모 업데이트, ‘봄날의 새벽’ 공개",
+          url: "https://www.inven.co.kr/webzine/news/?news=315363",
+          meta: "명일방주: 엔드필드 · 2시간 전",
+        },
+        {
+          title: "카오스 제로 나이트메어, 18일 반주년 쇼케이스 영상 공개",
+          url: "https://www.inven.co.kr/webzine/news/?news=315361",
+          meta: "카오스 제로 나이트메어 · 2시간 전",
+        },
+        {
+          title: "로지텍, 공식 앰배서더 '로지텍 G 히어로즈' 1기 모집",
+          url: "https://www.inven.co.kr/webzine/news/?news=315360",
+          meta: "2시간 전",
+        },
+        {
+          title: "스틸시리즈, 에어록스 3 Gen 2 런칭 기념 매달 '에임 마스터 대회' 개최",
+          url: "https://www.inven.co.kr/webzine/news/?news=315359",
+          meta: "2시간 전",
+        },
+        {
+          title: "토치라이트: 인피니트, SS12 루나리아 프리뷰 공개",
+          url: "https://www.inven.co.kr/webzine/news/?news=315356",
+          meta: "토치라이트 인피니트 · 3시간 전",
+        },
+      ],
+    },
+  },
+};
+
 const TAB_CONFIG = [
   {
     key: "ai",
@@ -453,6 +553,7 @@ const FALLBACK_DATA = {
     },
     },
   spotlights: {
+    game: GAME_SPOTLIGHT_FALLBACK,
     entertainment: ENTERTAINMENT_TRENDS_FALLBACK,
     unity: UNITY_SPOTLIGHT_FALLBACK,
     esports: {
@@ -543,6 +644,7 @@ const state = {
   spotlights: new Map(),
   standings: null,
   activeTab: getValidTabKey(window.location.hash.replace("#", "")) || "ai",
+  activeGameTab: "epic",
   activeEsportsTab: "standings",
   activeUnityTab: "release",
   isFallback: false,
@@ -567,6 +669,8 @@ const elements = {
   aiPanelView: document.querySelector("#aiPanelView"),
   heroPanelEntertainment: document.querySelector("#heroPanelEntertainment"),
   entertainmentPanelView: document.querySelector("#entertainmentPanelView"),
+  heroPanelGame: document.querySelector("#heroPanelGame"),
+  gamePanelView: document.querySelector("#gamePanelView"),
   heroPanelEsports: document.querySelector("#heroPanelEsports"),
   esportsPanelView: document.querySelector("#esportsPanelView"),
   heroPanelUnity: document.querySelector("#heroPanelUnity"),
@@ -636,6 +740,19 @@ function bindEvents() {
       renderUnityPanel(state.spotlights.get("unity") ?? UNITY_SPOTLIGHT_FALLBACK);
     });
   });
+
+  document.querySelectorAll('[data-game-tab]').forEach((button) => {
+    button.addEventListener("click", () => {
+      const next = button.dataset.gameTab;
+      if (!next || next === state.activeGameTab) return;
+      state.activeGameTab = next;
+      renderGamePanel(
+        state.spotlights.get("game") ?? GAME_SPOTLIGHT_FALLBACK,
+        getSortedArticles((state.datasets.get("game") ?? {}).articles ?? [])[0] ?? null,
+        (state.datasets.get("game") ?? {}).articleCount ?? (state.datasets.get("game")?.articles?.length ?? 0),
+      );
+    });
+  });
 }
 
 function startClock() {
@@ -680,9 +797,13 @@ function render() {
   };
   const articles = getSortedArticles(dataset.articles);
   const isEsportsTab = activeConfig.key === "esports";
+  const isGameTab = activeConfig.key === "game";
   const isEntertainmentTab = activeConfig.key === "entertainment";
   const isUnityTab = activeConfig.key === "unity";
   const esportsSpotlight = isEsportsTab ? state.spotlights.get("esports") ?? null : null;
+  const gameSpotlight = isGameTab
+    ? state.spotlights.get("game") ?? GAME_SPOTLIGHT_FALLBACK
+    : null;
   const entertainmentSpotlight = isEntertainmentTab
     ? state.spotlights.get("entertainment") ?? ENTERTAINMENT_TRENDS_FALLBACK
     : null;
@@ -719,6 +840,7 @@ function render() {
   } else {
     stopMarquee();
     applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt, {
+      gameSpotlight,
       entertainmentSpotlight,
       unitySpotlight,
     });
@@ -729,6 +851,7 @@ function render() {
 }
 
 function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt, panelSpotlights = {}) {
+  const gameSpotlight = panelSpotlights.gameSpotlight ?? null;
   const entertainmentSpotlight = panelSpotlights.entertainmentSpotlight ?? null;
   const unitySpotlight = panelSpotlights.unitySpotlight ?? null;
 
@@ -736,6 +859,7 @@ function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpda
   elements.heroScheduleList.replaceChildren();
   elements.heroPanel.classList.remove("is-esports");
   elements.heroPanel.classList.toggle("is-ai", activeConfig.key === "ai");
+  elements.heroPanel.classList.toggle("is-game", activeConfig.key === "game");
   elements.heroPanel.classList.toggle("is-entertainment", activeConfig.key === "entertainment");
   elements.heroPanel.classList.toggle("is-unity", activeConfig.key === "unity");
 
@@ -745,6 +869,10 @@ function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpda
 
   if (activeConfig.key === "entertainment") {
     renderEntertainmentPanel(entertainmentSpotlight);
+  }
+
+  if (activeConfig.key === "game") {
+    renderGamePanel(gameSpotlight, spotlightArticle, articleCount);
   }
 
   if (activeConfig.key === "unity") {
@@ -799,6 +927,7 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
   elements.heroSummary.textContent = "";
 
   elements.heroPanel.classList.remove("is-ai");
+  elements.heroPanel.classList.remove("is-game");
   elements.heroPanel.classList.remove("is-entertainment");
   elements.heroPanel.classList.remove("is-unity");
   elements.heroPanel.classList.add("is-esports");
@@ -867,6 +996,177 @@ function renderAiPanel() {
   footer.textContent = "대표 서비스 기준 · 실시간 인기 순위는 아닙니다.";
 
   view.append(header, groups, footer);
+}
+
+function renderGamePanel(spotlight, spotlightArticle, articleCount) {
+  const view = elements.gamePanelView;
+  if (!view) return;
+
+  view.replaceChildren();
+
+  if (state.activeGameTab === "issue") {
+    renderGameIssuePanel(view, spotlight);
+  } else {
+    renderEpicFreeGamesPanel(view, spotlight);
+  }
+
+  syncGameTabButtons();
+}
+
+function syncGameTabButtons() {
+  const buttons = document.querySelectorAll("[data-game-tab]");
+  buttons.forEach((button) => {
+    const isActive = button.dataset.gameTab === state.activeGameTab;
+    button.classList.toggle("is-active", isActive);
+    button.setAttribute("aria-selected", String(isActive));
+  });
+}
+
+function renderEpicFreeGamesPanel(view, spotlight) {
+  const offers = getGameOffers(spotlight);
+  const shell = document.createElement("section");
+  shell.className = "game-freebies";
+
+  const header = document.createElement("header");
+  header.className = "game-freebies__header";
+
+  const heading = document.createElement("div");
+  heading.className = "game-freebies__heading";
+
+  const eyebrow = document.createElement("p");
+  eyebrow.className = "game-freebies__eyebrow";
+  eyebrow.textContent = "Epic Games Store KR";
+
+  const meta = document.createElement("p");
+  meta.className = "game-freebies__meta";
+  meta.textContent = getSpotlightUpdatedAtText(spotlight);
+
+  heading.append(eyebrow, meta);
+
+  const sourceLink = document.createElement("a");
+  sourceLink.className = "game-freebies__link";
+  sourceLink.href = spotlight?.sourceUrl || GAME_SPOTLIGHT_FALLBACK.sourceUrl;
+  sourceLink.target = "_blank";
+  sourceLink.rel = "noreferrer";
+  sourceLink.textContent = "공식 페이지";
+
+  header.append(heading, sourceLink);
+
+  const grid = document.createElement("div");
+  grid.className = "game-freebies__grid";
+
+  offers.forEach((offer) => {
+    const card = document.createElement("a");
+    card.className = "game-freebies__card";
+    card.href = offer.url;
+    card.target = "_blank";
+    card.rel = "noreferrer";
+
+    const thumb = document.createElement("span");
+    thumb.className = "game-freebies__thumb";
+
+    const image = document.createElement("img");
+    image.src = offer.imageUrl;
+    image.alt = offer.title;
+    image.loading = "lazy";
+    thumb.append(image);
+
+    const copy = document.createElement("span");
+    copy.className = "game-freebies__copy";
+
+    const seller = document.createElement("span");
+    seller.className = "game-freebies__seller";
+    seller.textContent = offer.seller || "Epic Games Store";
+
+    const offerTitle = document.createElement("strong");
+    offerTitle.className = "game-freebies__card-title";
+    offerTitle.textContent = offer.title;
+
+    const price = document.createElement("span");
+    price.className = "game-freebies__price";
+    price.textContent = `정가 ${offer.originalPriceLabel || "확인 중"}`;
+
+    const deadline = document.createElement("span");
+    deadline.className = "game-freebies__deadline";
+    deadline.textContent = formatGameFreeUntil(offer.freeUntil);
+
+    copy.append(seller, offerTitle, price, deadline);
+    card.append(thumb, copy);
+    grid.append(card);
+  });
+
+  shell.append(header, grid);
+  view.append(shell);
+}
+
+function renderGameIssuePanel(view, spotlight) {
+  const sources = getGameIssueSources(spotlight);
+  const shell = document.createElement("section");
+  shell.className = "game-issue";
+
+  const sourceGrid = document.createElement("div");
+  sourceGrid.className = "game-issue__sources";
+
+  sources.forEach((source) => {
+    const section = document.createElement("section");
+    section.className = "game-issue__source";
+
+    const head = document.createElement("div");
+    head.className = "game-issue__source-head";
+
+    const title = document.createElement("h3");
+    title.className = "game-issue__source-title";
+    title.textContent = source.label;
+
+    const link = document.createElement("a");
+    link.className = "game-issue__source-link";
+    link.href = source.sourceUrl;
+    link.target = "_blank";
+    link.rel = "noreferrer";
+    link.textContent = "바로가기";
+
+    head.append(title, link);
+
+    const list = document.createElement("ol");
+    list.className = "game-issue__list";
+
+    source.items.forEach((item, index) => {
+      const listItem = document.createElement("li");
+      listItem.className = "game-issue__item";
+
+      const itemLink = document.createElement("a");
+      itemLink.className = "game-issue__item-link";
+      itemLink.href = item.url || source.sourceUrl;
+      itemLink.target = "_blank";
+      itemLink.rel = "noreferrer";
+
+      const rank = document.createElement("span");
+      rank.className = "game-issue__rank";
+      rank.textContent = String(index + 1);
+
+      const copy = document.createElement("span");
+      copy.className = "game-issue__copy";
+
+      const itemTitle = document.createElement("span");
+      itemTitle.className = "game-issue__item-title";
+      itemTitle.textContent = item.title;
+
+      const meta = document.createElement("span");
+      meta.className = "game-issue__item-meta";
+      meta.textContent = item.meta || source.source;
+
+      copy.append(itemTitle, meta);
+      itemLink.append(rank, copy);
+      listItem.append(itemLink);
+      list.append(listItem);
+    });
+
+    section.append(head, list);
+    sourceGrid.append(section);
+  });
+
+  shell.append(sourceGrid);
+  view.append(shell);
 }
 
 function renderEntertainmentPanel(spotlight) {
@@ -1125,6 +1425,34 @@ function getUnityRelease(spotlight) {
     ...UNITY_SPOTLIGHT_FALLBACK.release,
     ...(spotlight?.release ?? {}),
   };
+}
+
+function getGameOffers(spotlight) {
+  const liveOffers = Array.isArray(spotlight?.offers) ? spotlight.offers : [];
+  const fallbackOffers = GAME_SPOTLIGHT_FALLBACK.offers;
+  const items = liveOffers.length > 0 ? liveOffers : fallbackOffers;
+  return items.slice(0, 4);
+}
+
+function getGameIssueSources(spotlight) {
+  const fallback = GAME_SPOTLIGHT_FALLBACK.issues;
+  const liveIssues = spotlight?.issues ?? {};
+  const sourceOrder = ["ruliweb", "inven"];
+
+  return sourceOrder.map((key) => {
+    const liveSource = liveIssues?.[key] ?? {};
+    const fallbackSource = fallback[key];
+    const items = Array.isArray(liveSource?.items) && liveSource.items.length > 0
+      ? liveSource.items
+      : fallbackSource.items;
+
+    return {
+      label: liveSource?.label || fallbackSource.label,
+      source: liveSource?.source || fallbackSource.source,
+      sourceUrl: liveSource?.sourceUrl || fallbackSource.sourceUrl,
+      items: items.slice(0, 5),
+    };
+  });
 }
 
 function getUnityVideos(spotlight) {
@@ -1625,6 +1953,11 @@ function buildFeedDescription(activeConfig, articleCount) {
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 Google Trends 연예 이슈 Top ${Math.max(10, trendCount || 10)}을 함께 볼 수 있습니다.`;
   }
 
+  if (activeConfig.key === "game") {
+    const freeGameCount = state.spotlights.get("game")?.itemCount ?? GAME_SPOTLIGHT_FALLBACK.itemCount;
+    return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 에픽 무료게임 ${Math.max(2, freeGameCount || 2)}개와 루리웹·인벤 게임 이슈를 함께 볼 수 있습니다.`;
+  }
+
   if (activeConfig.key === "unity") {
     const videoCount = state.spotlights.get("unity")?.videoCount ?? UNITY_SPOTLIGHT_FALLBACK.videoCount;
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 최신 릴리스와 Unity Korea 영상 ${Math.max(2, videoCount || 2)}개를 함께 볼 수 있습니다.`;
@@ -1652,6 +1985,10 @@ function getStatusMessage() {
 
   if (state.activeTab === "entertainment") {
     return `정적 JSON 기사와 Google Trends 연예 이슈 랭킹을 함께 사용해 연예 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
+  }
+
+  if (state.activeTab === "game") {
+    return `정적 JSON 기사와 Epic Games Store 무료게임, 루리웹·인벤 게임 이슈 데이터를 함께 사용해 게임 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
   }
 
   if (state.activeTab === "unity") {
@@ -1688,6 +2025,7 @@ function buildMetaLine() {
     `탭 ${state.metadata?.tabCount ?? TAB_CONFIG.length}개`,
     `피드 ${successfulFeedCount}/${feedCount} 성공`,
     state.spotlights.has("entertainment") ? "연예 트렌드 연동" : null,
+    state.spotlights.has("game") ? "에픽 무료게임·게임 이슈 연동" : null,
     state.spotlights.has("esports") ? "e스포츠 일정 연동" : null,
     state.spotlights.has("unity") ? "Unity 릴리스·Unity Korea 영상 연동" : null,
     `탭당 최대 ${articleLimit}건`,
@@ -1786,6 +2124,14 @@ function formatDateOnly(value) {
     month: "numeric",
     day: "numeric",
   }).format(date);
+}
+
+function formatGameFreeUntil(value) {
+  if (!value) {
+    return "무료 종료 시각 확인 중";
+  }
+
+  return `무료 종료 ${formatDateTime(value)}`;
 }
 
 function formatClockTime(value) {
@@ -1933,12 +2279,14 @@ async function loadJsonData(cacheBust) {
   const [
     metadata,
     entertainmentSpotlightPayload,
+    gameSpotlightPayload,
     esportsSpotlightPayload,
     unitySpotlightPayload,
     standingsPayload,
   ] = await Promise.all([
     fetchJson(metadataUrl, cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/entertainment.json", import.meta.url), cacheBust),
+    fetchOptionalJson(new URL("../data/spotlights/game.json", import.meta.url), cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/esports.json", import.meta.url), cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/unity.json", import.meta.url), cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/lck-standings.json", import.meta.url), cacheBust),
@@ -1954,6 +2302,9 @@ async function loadJsonData(cacheBust) {
   const spotlights = new Map();
   if (entertainmentSpotlightPayload) {
     spotlights.set("entertainment", entertainmentSpotlightPayload);
+  }
+  if (gameSpotlightPayload) {
+    spotlights.set("game", gameSpotlightPayload);
   }
   if (esportsSpotlightPayload) {
     spotlights.set("esports", esportsSpotlightPayload);
