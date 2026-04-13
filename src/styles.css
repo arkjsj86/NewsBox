@@ -1034,7 +1034,7 @@ a {
   flex-direction: column;
   flex: 1;
   min-height: 0;
-  gap: 14px;
+  gap: 10px;
 }
 
 .unity-release__hero {
@@ -1133,12 +1133,23 @@ a {
   transform: translateY(-1px);
 }
 
+.unity-release__divider {
+  height: 1px;
+  background: rgba(255, 248, 241, 0.12);
+}
+
 .unity-release__videos {
   display: flex;
   flex-direction: column;
   flex: 1;
   min-height: 0;
   gap: 12px;
+}
+
+.unity-release__videos-heading {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
 }
 
 .unity-release__videos-head {
@@ -1148,17 +1159,23 @@ a {
   gap: 12px;
 }
 
+.unity-release__videos-title-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
 .unity-release__videos-kicker {
   margin: 0;
-  color: rgba(255, 248, 241, 0.48);
-  font-size: 0.65rem;
+  color: rgba(255, 248, 241, 0.72);
+  font-size: 0.7rem;
   font-weight: 800;
   letter-spacing: 0.14em;
   text-transform: uppercase;
 }
 
-.unity-release__videos-title {
-  margin: 6px 0 0;
+.unity-release__videos-count {
   color: rgba(255, 248, 241, 0.96);
   font-family: "Manrope", sans-serif;
   font-size: 1rem;

@@ -276,11 +276,11 @@ const ENTERTAINMENT_TRENDS_FALLBACK = {
 const UNITY_SPOTLIGHT_FALLBACK = {
   tab: "unity",
   type: "release-and-videos",
-  source: "Unity Releases + Unity YouTube",
+  source: "Unity Releases + Unity Korea YouTube",
   sourceMode: "fallback",
   lastUpdatedAt: "2026-04-13T00:00:00.000Z",
   title: "Unity Latest Release",
-  description: "최신 Unity 릴리스와 Unity 공식 유튜브 영상을 함께 보여줍니다.",
+  description: "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   release: {
     title: "Unity Latest Release",
     familyLabel: "Unity 6.3",
@@ -289,40 +289,27 @@ const UNITY_SPOTLIGHT_FALLBACK = {
     releaseNotesUrl: "https://unity.com/releases/editor/whats-new/6000.3.13f1",
     linkLabel: "릴리스 노트",
   },
-  videoCount: 4,
+  videoCount: 2,
   videos: [
     {
-      id: "gR4At6mDAAM",
-      title: "Lighting In Unity in 10 Minutes/1 Hour/1 Day | Clocked",
-      url: "https://www.youtube.com/watch?v=gR4At6mDAAM",
-      publishedAt: "2026-04-09T17:36:19.000Z",
-      thumbnailUrl: "https://i4.ytimg.com/vi/gR4At6mDAAM/hqdefault.jpg",
+      id: "aDQcdeps73c",
+      title: "조용하지만 강력한 유니티 6.4 업데이트",
+      url: "https://www.youtube.com/watch?v=aDQcdeps73c",
+      publishedAt: "2026-04-08T03:02:47.000Z",
+      thumbnailUrl: "https://i2.ytimg.com/vi/aDQcdeps73c/hqdefault.jpg",
     },
     {
-      id: "2qJGlu4Thlw",
-      title: "Migrating to Render Graph: the Render Graph viewer",
-      url: "https://www.youtube.com/watch?v=2qJGlu4Thlw",
-      publishedAt: "2026-04-09T16:49:48.000Z",
-      thumbnailUrl: "https://i3.ytimg.com/vi/2qJGlu4Thlw/hqdefault.jpg",
-    },
-    {
-      id: "85u_eV-qfX8",
-      title: "Learn Showcase: Get Started with Shader Graph",
-      url: "https://www.youtube.com/watch?v=85u_eV-qfX8",
-      publishedAt: "2026-04-09T01:41:06.000Z",
-      thumbnailUrl: "https://i1.ytimg.com/vi/85u_eV-qfX8/hqdefault.jpg",
-    },
-    {
-      id: "dv-fv_M4rew",
-      title: "Unity Studio - Importing Assets",
-      url: "https://www.youtube.com/watch?v=dv-fv_M4rew",
-      publishedAt: "2026-04-08T16:25:19.000Z",
-      thumbnailUrl: "https://i1.ytimg.com/vi/dv-fv_M4rew/hqdefault.jpg",
+      id: "H7aVy48mAVU",
+      title: "Unity Roadshow 2026 – 세션 3. 유니티 메모리와 가비지 컬렉터 딥다이브",
+      url: "https://www.youtube.com/watch?v=H7aVy48mAVU",
+      publishedAt: "2026-04-07T02:03:25.000Z",
+      thumbnailUrl: "https://i1.ytimg.com/vi/H7aVy48mAVU/hqdefault.jpg",
     },
   ],
   releaseSourceUrl: "https://unity.com/releases/editor/latest",
-  videosSourceUrl: "https://www.youtube.com/feeds/videos.xml?user=Unity3D",
-  channelUrl: "https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+  videosSourceUrl: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQArZVLg7Omzg4cBReJTS3w",
+  channelUrl: "https://www.youtube.com/channel/UCQArZVLg7Omzg4cBReJTS3w",
+  channelName: "Unity Korea",
 };
 
 const TAB_CONFIG = [
@@ -995,6 +982,7 @@ function syncUnityTabButtons() {
 function renderUnityReleasePanel(view, spotlight) {
   const release = getUnityRelease(spotlight);
   const videos = getUnityVideos(spotlight);
+  const channelName = spotlight?.channelName ?? UNITY_SPOTLIGHT_FALLBACK.channelName ?? "Unity Korea";
   const releaseDateLabel = release.releasedAt
     ? `발표일 ${formatDateOnly(release.releasedAt)}`
     : "발표일 확인 중";
@@ -1038,22 +1026,31 @@ function renderUnityReleasePanel(view, spotlight) {
   meta.append(date, notesLink);
   hero.append(eyebrow, titleRow, meta);
 
+  const divider = document.createElement("div");
+  divider.className = "unity-release__divider";
+  divider.setAttribute("aria-hidden", "true");
+
   const videoSection = document.createElement("section");
   videoSection.className = "unity-release__videos";
 
   const videoHeader = document.createElement("header");
   videoHeader.className = "unity-release__videos-head";
   const videoHeadingGroup = document.createElement("div");
+  videoHeadingGroup.className = "unity-release__videos-heading";
+
+  const videoTitleRow = document.createElement("div");
+  videoTitleRow.className = "unity-release__videos-title-row";
 
   const videoKicker = document.createElement("p");
   videoKicker.className = "unity-release__videos-kicker";
-  videoKicker.textContent = "Unity YouTube";
+  videoKicker.textContent = `${channelName} YouTube`;
 
-  const videoTitle = document.createElement("h3");
-  videoTitle.className = "unity-release__videos-title";
-  videoTitle.textContent = "최신 영상 4개";
+  const videoCount = document.createElement("span");
+  videoCount.className = "unity-release__videos-count";
+  videoCount.textContent = `최신영상 ${videos.length}개`;
 
-  videoHeadingGroup.append(videoKicker, videoTitle);
+  videoTitleRow.append(videoKicker, videoCount);
+  videoHeadingGroup.append(videoTitleRow);
 
   const channelLink = document.createElement("a");
   channelLink.className = "unity-release__videos-link";
@@ -1100,7 +1097,7 @@ function renderUnityReleasePanel(view, spotlight) {
   });
 
   videoSection.append(videoHeader, grid);
-  shell.append(hero, videoSection);
+  shell.append(hero, divider, videoSection);
   view.append(shell);
 }
 
@@ -1134,7 +1131,7 @@ function getUnityVideos(spotlight) {
   const liveVideos = Array.isArray(spotlight?.videos) ? spotlight.videos : [];
   const fallbackVideos = UNITY_SPOTLIGHT_FALLBACK.videos;
   const items = liveVideos.length > 0 ? liveVideos : fallbackVideos;
-  return items.slice(0, 4);
+  return items.slice(0, 2);
 }
 
 function renderEsportsPanel() {
@@ -1630,7 +1627,7 @@ function buildFeedDescription(activeConfig, articleCount) {
 
   if (activeConfig.key === "unity") {
     const videoCount = state.spotlights.get("unity")?.videoCount ?? UNITY_SPOTLIGHT_FALLBACK.videoCount;
-    return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 최신 릴리스와 Unity 공식 영상 ${Math.max(4, videoCount || 4)}개를 함께 볼 수 있습니다.`;
+    return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 최신 릴리스와 Unity Korea 영상 ${Math.max(2, videoCount || 2)}개를 함께 볼 수 있습니다.`;
   }
 
   if (articleCount === 0) {
@@ -1658,7 +1655,7 @@ function getStatusMessage() {
   }
 
   if (state.activeTab === "unity") {
-    return `정적 JSON 기사와 Unity 공식 릴리스·YouTube 데이터를 함께 사용해 Unity 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
+    return `정적 JSON 기사와 Unity 공식 릴리스·Unity Korea YouTube 데이터를 함께 사용해 Unity 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
   }
 
   return `정적 JSON과 RSS 수집 결과를 바탕으로 탭별 기사를 새 레이아웃에 맞춰 렌더링했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
@@ -1692,7 +1689,7 @@ function buildMetaLine() {
     `피드 ${successfulFeedCount}/${feedCount} 성공`,
     state.spotlights.has("entertainment") ? "연예 트렌드 연동" : null,
     state.spotlights.has("esports") ? "e스포츠 일정 연동" : null,
-    state.spotlights.has("unity") ? "Unity 릴리스·영상 연동" : null,
+    state.spotlights.has("unity") ? "Unity 릴리스·Unity Korea 영상 연동" : null,
     `탭당 최대 ${articleLimit}건`,
     `갱신 ${REFRESH_SCHEDULE_LABEL}`,
   ]
