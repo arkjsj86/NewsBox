@@ -1,16 +1,16 @@
 const DISPLAY_TIMEZONE = "Asia/Seoul";
 
 const TEAM_LOGO_MAP = {
-  DNS: "./src/assets/teams/dns.png",
-  T1:  "./src/assets/teams/t1.png",
-  HLE: "./src/assets/teams/hle.png",
-  BFX: "./src/assets/teams/bfx.png",
-  NS:  "./src/assets/teams/ns.png",
-  DRX: "./src/assets/teams/drx.png",
-  DK:  "./src/assets/teams/dk.png",
-  GEN: "./src/assets/teams/gen.png",
-  BRO: "./src/assets/teams/bro.png",
-  KT:  "./src/assets/teams/kt.png",
+  DNS: "./src/assets/teams/dns.svg",
+  T1:  "./src/assets/teams/t1.svg",
+  HLE: "./src/assets/teams/hle.svg",
+  BFX: "./src/assets/teams/bfx.svg",
+  NS:  "./src/assets/teams/ns.svg",
+  DRX: "./src/assets/teams/drx.svg",
+  DK:  "./src/assets/teams/dk.svg",
+  GEN: "./src/assets/teams/gen.svg",
+  BRO: "./src/assets/teams/bro.svg",
+  KT:  "./src/assets/teams/kt.svg",
 };
 const DISPLAY_OFFSET_MS = 9 * 60 * 60 * 1000;
 const REFRESH_INTERVAL_MS = 3 * 60 * 60 * 1000;
