@@ -1,0 +1,65 @@
+{
+  "tab": "unity",
+  "type": "release-and-videos",
+  "source": "Unity Releases + Unity YouTube",
+  "sourceMode": "official-release+youtube-rss",
+  "lastUpdatedAt": "2026-04-13T00:00:00.000Z",
+  "title": "Unity Latest Release",
+  "description": "최신 Unity 릴리스와 Unity 공식 유튜브 영상을 함께 보여줍니다.",
+  "release": {
+    "title": "Unity Latest Release",
+    "familyLabel": "Unity 6.3",
+    "version": "6000.3.13f1",
+    "releasedAt": "2026-04-08T00:00:00.000Z",
+    "releaseNotesUrl": "https://unity.com/releases/editor/whats-new/6000.3.13f1",
+    "linkLabel": "릴리스 노트"
+  },
+  "videoCount": 4,
+  "videos": [
+    {
+      "id": "gR4At6mDAAM",
+      "title": "Lighting In Unity in 10 Minutes/1 Hour/1 Day | Clocked",
+      "url": "https://www.youtube.com/watch?v=gR4At6mDAAM",
+      "publishedAt": "2026-04-09T17:36:19.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/gR4At6mDAAM/hqdefault.jpg"
+    },
+    {
+      "id": "2qJGlu4Thlw",
+      "title": "Migrating to Render Graph: the Render Graph viewer",
+      "url": "https://www.youtube.com/watch?v=2qJGlu4Thlw",
+      "publishedAt": "2026-04-09T16:49:48.000Z",
+      "thumbnailUrl": "https://i3.ytimg.com/vi/2qJGlu4Thlw/hqdefault.jpg"
+    },
+    {
+      "id": "85u_eV-qfX8",
+      "title": "Learn Showcase: Get Started with Shader Graph",
+      "url": "https://www.youtube.com/watch?v=85u_eV-qfX8",
+      "publishedAt": "2026-04-09T01:41:06.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/85u_eV-qfX8/hqdefault.jpg"
+    },
+    {
+      "id": "dv-fv_M4rew",
+      "title": "Unity Studio - Importing Assets",
+      "url": "https://www.youtube.com/watch?v=dv-fv_M4rew",
+      "publishedAt": "2026-04-08T16:25:19.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/dv-fv_M4rew/hqdefault.jpg"
+    }
+  ],
+  "releaseSourceUrl": "https://unity.com/releases/editor/latest",
+  "videosSourceUrl": "https://www.youtube.com/feeds/videos.xml?user=Unity3D",
+  "channelUrl": "https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+  "fetchedSources": [
+    {
+      "key": "release",
+      "source": "Unity Releases",
+      "ok": true,
+      "version": "6000.3.13f1"
+    },
+    {
+      "key": "youtube",
+      "source": "Unity YouTube",
+      "ok": true,
+      "itemCount": 4
+    }
+  ]
+}

@@ -273,6 +273,58 @@ const ENTERTAINMENT_TRENDS_FALLBACK = {
   ],
 };
 
+const UNITY_SPOTLIGHT_FALLBACK = {
+  tab: "unity",
+  type: "release-and-videos",
+  source: "Unity Releases + Unity YouTube",
+  sourceMode: "fallback",
+  lastUpdatedAt: "2026-04-13T00:00:00.000Z",
+  title: "Unity Latest Release",
+  description: "최신 Unity 릴리스와 Unity 공식 유튜브 영상을 함께 보여줍니다.",
+  release: {
+    title: "Unity Latest Release",
+    familyLabel: "Unity 6.3",
+    version: "6000.3.13f1",
+    releasedAt: "2026-04-08T00:00:00.000Z",
+    releaseNotesUrl: "https://unity.com/releases/editor/whats-new/6000.3.13f1",
+    linkLabel: "릴리스 노트",
+  },
+  videoCount: 4,
+  videos: [
+    {
+      id: "gR4At6mDAAM",
+      title: "Lighting In Unity in 10 Minutes/1 Hour/1 Day | Clocked",
+      url: "https://www.youtube.com/watch?v=gR4At6mDAAM",
+      publishedAt: "2026-04-09T17:36:19.000Z",
+      thumbnailUrl: "https://i4.ytimg.com/vi/gR4At6mDAAM/hqdefault.jpg",
+    },
+    {
+      id: "2qJGlu4Thlw",
+      title: "Migrating to Render Graph: the Render Graph viewer",
+      url: "https://www.youtube.com/watch?v=2qJGlu4Thlw",
+      publishedAt: "2026-04-09T16:49:48.000Z",
+      thumbnailUrl: "https://i3.ytimg.com/vi/2qJGlu4Thlw/hqdefault.jpg",
+    },
+    {
+      id: "85u_eV-qfX8",
+      title: "Learn Showcase: Get Started with Shader Graph",
+      url: "https://www.youtube.com/watch?v=85u_eV-qfX8",
+      publishedAt: "2026-04-09T01:41:06.000Z",
+      thumbnailUrl: "https://i1.ytimg.com/vi/85u_eV-qfX8/hqdefault.jpg",
+    },
+    {
+      id: "dv-fv_M4rew",
+      title: "Unity Studio - Importing Assets",
+      url: "https://www.youtube.com/watch?v=dv-fv_M4rew",
+      publishedAt: "2026-04-08T16:25:19.000Z",
+      thumbnailUrl: "https://i1.ytimg.com/vi/dv-fv_M4rew/hqdefault.jpg",
+    },
+  ],
+  releaseSourceUrl: "https://unity.com/releases/editor/latest",
+  videosSourceUrl: "https://www.youtube.com/feeds/videos.xml?user=Unity3D",
+  channelUrl: "https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg",
+};
+
 const TAB_CONFIG = [
   {
     key: "ai",
@@ -415,6 +467,7 @@ const FALLBACK_DATA = {
     },
   spotlights: {
     entertainment: ENTERTAINMENT_TRENDS_FALLBACK,
+    unity: UNITY_SPOTLIGHT_FALLBACK,
     esports: {
       tab: "esports",
       type: "league-schedule",
@@ -504,6 +557,7 @@ const state = {
   standings: null,
   activeTab: getValidTabKey(window.location.hash.replace("#", "")) || "ai",
   activeEsportsTab: "standings",
+  activeUnityTab: "release",
   isFallback: false,
   isLoading: false,
   clockTimer: null,
@@ -528,6 +582,8 @@ const elements = {
   entertainmentPanelView: document.querySelector("#entertainmentPanelView"),
   heroPanelEsports: document.querySelector("#heroPanelEsports"),
   esportsPanelView: document.querySelector("#esportsPanelView"),
+  heroPanelUnity: document.querySelector("#heroPanelUnity"),
+  unityPanelView: document.querySelector("#unityPanelView"),
   heroPanelHeadline: document.querySelector("#heroPanelHeadline"),
   heroPanelBody: document.querySelector("#heroPanelBody"),
   heroPanelSource: document.querySelector("#heroPanelSource"),
@@ -584,6 +640,15 @@ function bindEvents() {
       renderEsportsPanel();
     });
   });
+
+  document.querySelectorAll('[data-unity-tab]').forEach((button) => {
+    button.addEventListener("click", () => {
+      const next = button.dataset.unityTab;
+      if (!next || next === state.activeUnityTab) return;
+      state.activeUnityTab = next;
+      renderUnityPanel(state.spotlights.get("unity") ?? UNITY_SPOTLIGHT_FALLBACK);
+    });
+  });
 }
 
 function startClock() {
@@ -629,9 +694,13 @@ function render() {
   const articles = getSortedArticles(dataset.articles);
   const isEsportsTab = activeConfig.key === "esports";
   const isEntertainmentTab = activeConfig.key === "entertainment";
+  const isUnityTab = activeConfig.key === "unity";
   const esportsSpotlight = isEsportsTab ? state.spotlights.get("esports") ?? null : null;
   const entertainmentSpotlight = isEntertainmentTab
     ? state.spotlights.get("entertainment") ?? ENTERTAINMENT_TRENDS_FALLBACK
+    : null;
+  const unitySpotlight = isUnityTab
+    ? state.spotlights.get("unity") ?? UNITY_SPOTLIGHT_FALLBACK
     : null;
   const spotlightArticle = isEsportsTab ? null : articles[0] ?? null;
   const feedArticles = isEsportsTab ? articles : spotlightArticle ? articles.slice(1) : articles;
@@ -662,26 +731,37 @@ function render() {
     applyEsportsHeroContent(activeConfig, esportsSpotlight, feedArticles.length, lastUpdatedAt);
   } else {
     stopMarquee();
-    applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt, entertainmentSpotlight);
+    applyHeroContent(activeConfig, spotlightArticle, articles.length, lastUpdatedAt, {
+      entertainmentSpotlight,
+      unitySpotlight,
+    });
   }
   setStatus(getStatusMessage());
   renderTabs();
   renderArticles(feedArticles, activeConfig.label);
 }
 
-function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt, panelSpotlight = null) {
+function applyHeroContent(activeConfig, spotlightArticle, articleCount, lastUpdatedAt, panelSpotlights = {}) {
+  const entertainmentSpotlight = panelSpotlights.entertainmentSpotlight ?? null;
+  const unitySpotlight = panelSpotlights.unitySpotlight ?? null;
+
   elements.heroSchedule.hidden = true;
   elements.heroScheduleList.replaceChildren();
   elements.heroPanel.classList.remove("is-esports");
   elements.heroPanel.classList.toggle("is-ai", activeConfig.key === "ai");
   elements.heroPanel.classList.toggle("is-entertainment", activeConfig.key === "entertainment");
+  elements.heroPanel.classList.toggle("is-unity", activeConfig.key === "unity");
 
   if (activeConfig.key === "ai") {
     renderAiPanel();
   }
 
   if (activeConfig.key === "entertainment") {
-    renderEntertainmentPanel(panelSpotlight);
+    renderEntertainmentPanel(entertainmentSpotlight);
+  }
+
+  if (activeConfig.key === "unity") {
+    renderUnityPanel(unitySpotlight);
   }
 
   if (!spotlightArticle) {
@@ -733,6 +813,7 @@ function applyEsportsHeroContent(activeConfig, spotlight, articleCount, lastUpda
 
   elements.heroPanel.classList.remove("is-ai");
   elements.heroPanel.classList.remove("is-entertainment");
+  elements.heroPanel.classList.remove("is-unity");
   elements.heroPanel.classList.add("is-esports");
   renderEsportsPanel();
 
@@ -885,6 +966,175 @@ function renderEntertainmentPanel(spotlight) {
   }
 
   view.append(header, list);
+}
+
+function renderUnityPanel(spotlight) {
+  const view = elements.unityPanelView;
+  if (!view) return;
+
+  view.replaceChildren();
+
+  if (state.activeUnityTab === "hidden") {
+    renderUnityHiddenPanel(view);
+  } else {
+    renderUnityReleasePanel(view, spotlight);
+  }
+
+  syncUnityTabButtons();
+}
+
+function syncUnityTabButtons() {
+  const buttons = document.querySelectorAll("[data-unity-tab]");
+  buttons.forEach((button) => {
+    const isActive = button.dataset.unityTab === state.activeUnityTab;
+    button.classList.toggle("is-active", isActive);
+    button.setAttribute("aria-selected", String(isActive));
+  });
+}
+
+function renderUnityReleasePanel(view, spotlight) {
+  const release = getUnityRelease(spotlight);
+  const videos = getUnityVideos(spotlight);
+  const releaseDateLabel = release.releasedAt
+    ? `발표일 ${formatDateOnly(release.releasedAt)}`
+    : "발표일 확인 중";
+
+  const shell = document.createElement("section");
+  shell.className = "unity-release";
+
+  const hero = document.createElement("header");
+  hero.className = "unity-release__hero";
+  const eyebrow = document.createElement("p");
+  eyebrow.className = "unity-release__eyebrow";
+  eyebrow.textContent = release.title ?? "Unity Latest Release";
+
+  const titleRow = document.createElement("div");
+  titleRow.className = "unity-release__title-row";
+
+  const version = document.createElement("h2");
+  version.className = "unity-release__version";
+  version.textContent = release.version ?? "업데이트 확인 중";
+
+  const family = document.createElement("span");
+  family.className = "unity-release__family";
+  family.textContent = release.familyLabel ?? "Unity Editor";
+
+  titleRow.append(version, family);
+
+  const meta = document.createElement("div");
+  meta.className = "unity-release__meta";
+
+  const date = document.createElement("span");
+  date.className = "unity-release__date";
+  date.textContent = releaseDateLabel;
+
+  const notesLink = document.createElement("a");
+  notesLink.className = "unity-release__link";
+  notesLink.href = release.releaseNotesUrl || "https://unity.com/releases/editor/latest";
+  notesLink.target = "_blank";
+  notesLink.rel = "noreferrer";
+  notesLink.textContent = release.linkLabel ?? "릴리스 노트";
+
+  meta.append(date, notesLink);
+  hero.append(eyebrow, titleRow, meta);
+
+  const videoSection = document.createElement("section");
+  videoSection.className = "unity-release__videos";
+
+  const videoHeader = document.createElement("header");
+  videoHeader.className = "unity-release__videos-head";
+  const videoHeadingGroup = document.createElement("div");
+
+  const videoKicker = document.createElement("p");
+  videoKicker.className = "unity-release__videos-kicker";
+  videoKicker.textContent = "Unity YouTube";
+
+  const videoTitle = document.createElement("h3");
+  videoTitle.className = "unity-release__videos-title";
+  videoTitle.textContent = "최신 영상 4개";
+
+  videoHeadingGroup.append(videoKicker, videoTitle);
+
+  const channelLink = document.createElement("a");
+  channelLink.className = "unity-release__videos-link";
+  channelLink.href = spotlight?.channelUrl || UNITY_SPOTLIGHT_FALLBACK.channelUrl;
+  channelLink.target = "_blank";
+  channelLink.rel = "noreferrer";
+  channelLink.textContent = "공식 채널";
+
+  videoHeader.append(videoHeadingGroup, channelLink);
+
+  const grid = document.createElement("div");
+  grid.className = "unity-video-grid";
+
+  videos.forEach((video) => {
+    const card = document.createElement("a");
+    card.className = "unity-video-card";
+    card.href = video.url;
+    card.target = "_blank";
+    card.rel = "noreferrer";
+
+    const thumb = document.createElement("span");
+    thumb.className = "unity-video-card__thumb";
+
+    const image = document.createElement("img");
+    image.src = video.thumbnailUrl;
+    image.alt = video.title;
+    image.loading = "lazy";
+    thumb.append(image);
+
+    const copy = document.createElement("span");
+    copy.className = "unity-video-card__copy";
+
+    const title = document.createElement("strong");
+    title.className = "unity-video-card__title";
+    title.textContent = video.title;
+
+    const metaLabel = document.createElement("span");
+    metaLabel.className = "unity-video-card__meta";
+    metaLabel.textContent = formatRelativeTime(video.publishedAt);
+
+    copy.append(title, metaLabel);
+    card.append(thumb, copy);
+    grid.append(card);
+  });
+
+  videoSection.append(videoHeader, grid);
+  shell.append(hero, videoSection);
+  view.append(shell);
+}
+
+function renderUnityHiddenPanel(view) {
+  const card = document.createElement("a");
+  card.className = "unity-hidden";
+  card.href = "https://www.unrealengine.com/";
+  card.target = "_blank";
+  card.rel = "noreferrer";
+  card.setAttribute("aria-label", "Unreal Engine 공식 사이트 열기");
+  card.innerHTML = `
+    <span class="unity-hidden__eyebrow">Hidden</span>
+    <span class="unity-hidden__mark" aria-hidden="true">
+      <span class="unity-hidden__mark-letter">U</span>
+    </span>
+    <strong class="unity-hidden__title">Unreal Engine</strong>
+    <span class="unity-hidden__body">클릭하면 공식 사이트로 이동합니다</span>
+  `;
+
+  view.append(card);
+}
+
+function getUnityRelease(spotlight) {
+  return {
+    ...UNITY_SPOTLIGHT_FALLBACK.release,
+    ...(spotlight?.release ?? {}),
+  };
+}
+
+function getUnityVideos(spotlight) {
+  const liveVideos = Array.isArray(spotlight?.videos) ? spotlight.videos : [];
+  const fallbackVideos = UNITY_SPOTLIGHT_FALLBACK.videos;
+  const items = liveVideos.length > 0 ? liveVideos : fallbackVideos;
+  return items.slice(0, 4);
 }
 
 function renderEsportsPanel() {
@@ -1378,6 +1628,11 @@ function buildFeedDescription(activeConfig, articleCount) {
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 Google Trends 연예 이슈 Top ${Math.max(10, trendCount || 10)}을 함께 볼 수 있습니다.`;
   }
 
+  if (activeConfig.key === "unity") {
+    const videoCount = state.spotlights.get("unity")?.videoCount ?? UNITY_SPOTLIGHT_FALLBACK.videoCount;
+    return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며, 우측 패널에서 최신 릴리스와 Unity 공식 영상 ${Math.max(4, videoCount || 4)}개를 함께 볼 수 있습니다.`;
+  }
+
   if (articleCount === 0) {
     return `${activeConfig.description} ${REFRESH_SCHEDULE_LABEL} 갱신되며 다음 주기에서 새 기사를 기다리는 중입니다.`;
   }
@@ -1400,6 +1655,10 @@ function getStatusMessage() {
 
   if (state.activeTab === "entertainment") {
     return `정적 JSON 기사와 Google Trends 연예 이슈 랭킹을 함께 사용해 연예 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
+  }
+
+  if (state.activeTab === "unity") {
+    return `정적 JSON 기사와 Unity 공식 릴리스·YouTube 데이터를 함께 사용해 Unity 탭을 구성했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
   }
 
   return `정적 JSON과 RSS 수집 결과를 바탕으로 탭별 기사를 새 레이아웃에 맞춰 렌더링했습니다. 데이터는 ${REFRESH_SCHEDULE_LABEL} 갱신됩니다.`;
@@ -1433,6 +1692,7 @@ function buildMetaLine() {
     `피드 ${successfulFeedCount}/${feedCount} 성공`,
     state.spotlights.has("entertainment") ? "연예 트렌드 연동" : null,
     state.spotlights.has("esports") ? "e스포츠 일정 연동" : null,
+    state.spotlights.has("unity") ? "Unity 릴리스·영상 연동" : null,
     `탭당 최대 ${articleLimit}건`,
     `갱신 ${REFRESH_SCHEDULE_LABEL}`,
   ]
@@ -1515,6 +1775,20 @@ function getStandingsUpdatedAtText(standings) {
 function getSpotlightUpdatedAtText(spotlight) {
   const updatedAt = spotlight?.lastUpdatedAt ?? spotlight?.fetchedAt ?? null;
   return updatedAt ? `최종 갱신 ${formatDateTime(updatedAt)}` : "최종 갱신 없음";
+}
+
+function formatDateOnly(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return "날짜 확인 중";
+  }
+
+  return new Intl.DateTimeFormat("ko-KR", {
+    timeZone: DISPLAY_TIMEZONE,
+    year: "numeric",
+    month: "numeric",
+    day: "numeric",
+  }).format(date);
 }
 
 function formatClockTime(value) {
@@ -1659,10 +1933,17 @@ async function refreshData({ isInitialLoad = false } = {}) {
 
 async function loadJsonData(cacheBust) {
   const metadataUrl = new URL("../data/metadata.json", import.meta.url);
-  const [metadata, entertainmentSpotlightPayload, esportsSpotlightPayload, standingsPayload] = await Promise.all([
+  const [
+    metadata,
+    entertainmentSpotlightPayload,
+    esportsSpotlightPayload,
+    unitySpotlightPayload,
+    standingsPayload,
+  ] = await Promise.all([
     fetchJson(metadataUrl, cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/entertainment.json", import.meta.url), cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/esports.json", import.meta.url), cacheBust),
+    fetchOptionalJson(new URL("../data/spotlights/unity.json", import.meta.url), cacheBust),
     fetchOptionalJson(new URL("../data/spotlights/lck-standings.json", import.meta.url), cacheBust),
   ]);
   const datasets = await Promise.all(
@@ -1679,6 +1960,9 @@ async function loadJsonData(cacheBust) {
   }
   if (esportsSpotlightPayload) {
     spotlights.set("esports", esportsSpotlightPayload);
+  }
+  if (unitySpotlightPayload) {
+    spotlights.set("unity", unitySpotlightPayload);
   }
 
   return { metadata, datasets: new Map(datasets), spotlights, standings: standingsPayload };

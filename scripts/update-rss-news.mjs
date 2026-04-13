@@ -9,6 +9,11 @@ import {
   LOL_ESPORTS_SOURCE,
   buildEsportsSpotlight,
 } from "./lib/esports-schedule.mjs";
+import {
+  UNITY_RELEASE_SOURCE,
+  UNITY_YOUTUBE_SOURCE,
+  buildUnitySpotlight,
+} from "./lib/unity-spotlight.mjs";
 
 const ROOT_DIR = resolve(process.cwd());
 const DATA_DIR = resolve(ROOT_DIR, "data");
@@ -24,6 +29,7 @@ const REQUEST_DELAY_MS = clampNumber(process.env.NEWSBOX_REQUEST_DELAY_MS, 300, 
 const FEED_TIMEOUT_MS = clampNumber(process.env.NEWSBOX_FEED_TIMEOUT_MS, 25000, 5000, 30000);
 const ESPORTS_MATCH_LIMIT = clampNumber(process.env.NEWSBOX_ESPORTS_MATCH_LIMIT, 12, 3, 18);
 const ENTERTAINMENT_TREND_LIMIT = clampNumber(process.env.NEWSBOX_ENTERTAINMENT_TREND_LIMIT, 10, 3, 10);
+const UNITY_VIDEO_LIMIT = clampNumber(process.env.NEWSBOX_UNITY_VIDEO_LIMIT, 4, 2, 6);
 const ENTERTAINMENT_TREND_WINDOW_HOURS = clampNumber(
   process.env.NEWSBOX_ENTERTAINMENT_TREND_WINDOW_HOURS,
   48,
@@ -323,13 +329,21 @@ async function main() {
     historyRetentionHours: ENTERTAINMENT_TREND_WINDOW_HOURS,
   });
 
+  const unitySpotlight = await buildUnitySpotlight({
+    generatedAt: GENERATED_AT,
+    timeoutMs: FEED_TIMEOUT_MS,
+    existingSpotlightPath: resolve(SPOTLIGHTS_DIR, "unity.json"),
+    videoLimit: UNITY_VIDEO_LIMIT,
+  });
+
   writeJson(resolve(SPOTLIGHTS_DIR, "esports.json"), esportsSpotlight);
   writeJson(resolve(SPOTLIGHTS_DIR, "entertainment.json"), entertainmentSpotlight);
+  writeJson(resolve(SPOTLIGHTS_DIR, "unity.json"), unitySpotlight);
 
   writeJson(resolve(DATA_DIR, "metadata.json"), {
     version: "0.7.0-live",
     sourceMode: "korean-rss",
-    sourceProvider: "rss+lolesports+googletrends",
+    sourceProvider: "rss+lolesports+googletrends+unity+youtube",
     contentLocale: "ko-KR",
     lastUpdatedAt: GENERATED_AT,
     tabCount: TABS.length,
@@ -344,13 +358,14 @@ async function main() {
       entertainmentTrendWindowHours: ENTERTAINMENT_TREND_WINDOW_HOURS,
       esportsMatchLimit: ESPORTS_MATCH_LIMIT,
       esportsActiveWindowDays: ESPORTS_ACTIVE_WINDOW_DAYS,
+      unityVideoLimit: UNITY_VIDEO_LIMIT,
     },
     feedCount: FEEDS.length,
     successfulFeedCount: successfulFeeds.length,
     failedFeedCount: feedStatuses.length - successfulFeeds.length,
     successfulFeeds: successfulFeeds.map((feed) => ({ key: feed.key, source: feed.source, itemCount: feed.itemCount })),
     failedFeeds: feedStatuses.filter((feed) => !feed.ok).map((feed) => ({ key: feed.key, source: feed.source, error: feed.error })),
-    spotlightCount: 2,
+    spotlightCount: 3,
     spotlights: [
       {
         key: "entertainment",
@@ -363,6 +378,12 @@ async function main() {
         activeLeagueKey: esportsSpotlight.activeLeagueKey,
         activeLeagueLabel: esportsSpotlight.activeLeagueLabel,
         matchCount: esportsSpotlight.matchCount,
+      },
+      {
+        key: "unity",
+        source: `${UNITY_RELEASE_SOURCE} + ${UNITY_YOUTUBE_SOURCE}`,
+        version: unitySpotlight.release?.version ?? null,
+        videoCount: unitySpotlight.videoCount ?? 0,
       },
     ],
   });
@@ -749,7 +770,7 @@ function cleanupObsoleteTabFiles() {
 }
 
 function cleanupObsoleteSpotlightFiles() {
-  const activeFiles = new Set(["entertainment.json", "esports.json", "lck-standings.json"]);
+  const activeFiles = new Set(["entertainment.json", "esports.json", "lck-standings.json", "unity.json"]);
   for (const entry of readdirSync(SPOTLIGHTS_DIR, { withFileTypes: true })) {
     if (!entry.isFile() || !entry.name.endsWith(".json")) continue;
     if (!activeFiles.has(entry.name)) {
