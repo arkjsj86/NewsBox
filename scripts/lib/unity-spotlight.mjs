@@ -1,12 +1,13 @@
 import { existsSync, readFileSync } from "node:fs";
 
 export const UNITY_RELEASE_SOURCE = "Unity Releases";
-export const UNITY_YOUTUBE_SOURCE = "Unity YouTube";
+export const UNITY_YOUTUBE_SOURCE = "Unity Korea YouTube";
 export const UNITY_EDITOR_LATEST_URL = "https://unity.com/releases/editor/latest";
-export const UNITY_YOUTUBE_RSS_URL = "https://www.youtube.com/feeds/videos.xml?user=Unity3D";
+export const UNITY_YOUTUBE_RSS_URL = "https://www.youtube.com/feeds/videos.xml?channel_id=UCQArZVLg7Omzg4cBReJTS3w";
 
-const DEFAULT_VIDEO_LIMIT = 4;
-const DEFAULT_CHANNEL_URL = "https://www.youtube.com/channel/UCG08EqOAXJk_YXPDsAvReSg";
+const DEFAULT_VIDEO_LIMIT = 2;
+const DEFAULT_CHANNEL_URL = "https://www.youtube.com/channel/UCQArZVLg7Omzg4cBReJTS3w";
+const DEFAULT_CHANNEL_NAME = "Unity Korea";
 
 const FALLBACK_RELEASE = {
   title: "Unity Latest Release",
@@ -19,32 +20,18 @@ const FALLBACK_RELEASE = {
 
 const FALLBACK_VIDEOS = [
   {
-    id: "gR4At6mDAAM",
-    title: "Lighting In Unity in 10 Minutes/1 Hour/1 Day | Clocked",
-    url: "https://www.youtube.com/watch?v=gR4At6mDAAM",
-    publishedAt: "2026-04-09T17:36:19.000Z",
-    thumbnailUrl: "https://i4.ytimg.com/vi/gR4At6mDAAM/hqdefault.jpg",
+    id: "aDQcdeps73c",
+    title: "조용하지만 강력한 유니티 6.4 업데이트",
+    url: "https://www.youtube.com/watch?v=aDQcdeps73c",
+    publishedAt: "2026-04-08T03:02:47.000Z",
+    thumbnailUrl: "https://i2.ytimg.com/vi/aDQcdeps73c/hqdefault.jpg",
   },
   {
-    id: "2qJGlu4Thlw",
-    title: "Migrating to Render Graph: the Render Graph viewer",
-    url: "https://www.youtube.com/watch?v=2qJGlu4Thlw",
-    publishedAt: "2026-04-09T16:49:48.000Z",
-    thumbnailUrl: "https://i3.ytimg.com/vi/2qJGlu4Thlw/hqdefault.jpg",
-  },
-  {
-    id: "85u_eV-qfX8",
-    title: "Learn Showcase: Get Started with Shader Graph",
-    url: "https://www.youtube.com/watch?v=85u_eV-qfX8",
-    publishedAt: "2026-04-09T01:41:06.000Z",
-    thumbnailUrl: "https://i1.ytimg.com/vi/85u_eV-qfX8/hqdefault.jpg",
-  },
-  {
-    id: "dv-fv_M4rew",
-    title: "Unity Studio - Importing Assets",
-    url: "https://www.youtube.com/watch?v=dv-fv_M4rew",
-    publishedAt: "2026-04-08T16:25:19.000Z",
-    thumbnailUrl: "https://i1.ytimg.com/vi/dv-fv_M4rew/hqdefault.jpg",
+    id: "H7aVy48mAVU",
+    title: "Unity Roadshow 2026 – 세션 3. 유니티 메모리와 가비지 컬렉터 딥다이브",
+    url: "https://www.youtube.com/watch?v=H7aVy48mAVU",
+    publishedAt: "2026-04-07T02:03:25.000Z",
+    thumbnailUrl: "https://i1.ytimg.com/vi/H7aVy48mAVU/hqdefault.jpg",
   },
 ];
 
@@ -95,7 +82,7 @@ export async function buildUnitySpotlight({
       ok: false,
       error: normalizeText(error.message),
     });
-    console.warn(`[newsbox] Failed to fetch Unity YouTube RSS: ${error.message}`);
+    console.warn(`[newsbox] Failed to fetch Unity Korea YouTube RSS: ${error.message}`);
   }
 
   return {
@@ -105,13 +92,14 @@ export async function buildUnitySpotlight({
     sourceMode: "official-release+youtube-rss",
     lastUpdatedAt: generatedAt,
     title: "Unity Latest Release",
-    description: "최신 Unity 릴리스와 Unity 공식 유튜브 영상을 함께 보여줍니다.",
+    description: "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
     release,
     videoCount: videos.length,
     videos,
     releaseSourceUrl: UNITY_EDITOR_LATEST_URL,
     videosSourceUrl: UNITY_YOUTUBE_RSS_URL,
     channelUrl: DEFAULT_CHANNEL_URL,
+    channelName: DEFAULT_CHANNEL_NAME,
     fetchedSources,
   };
 }
@@ -178,7 +166,7 @@ async function fetchLatestVideos(timeoutMs, videoLimit) {
     .slice(0, videoLimit);
 
   if (entries.length === 0) {
-    throw new Error("Unity YouTube RSS did not return any usable videos.");
+    throw new Error("Unity Korea YouTube RSS did not return any usable videos.");
   }
 
   return entries;
@@ -212,13 +200,14 @@ function buildFallbackUnitySpotlight(generatedAt) {
     sourceMode: "fallback",
     lastUpdatedAt: generatedAt,
     title: "Unity Latest Release",
-    description: "최신 Unity 릴리스와 Unity 공식 유튜브 영상을 함께 보여줍니다.",
+    description: "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
     release: { ...FALLBACK_RELEASE },
     videoCount: FALLBACK_VIDEOS.length,
     videos: FALLBACK_VIDEOS.map((video) => ({ ...video })),
     releaseSourceUrl: UNITY_EDITOR_LATEST_URL,
     videosSourceUrl: UNITY_YOUTUBE_RSS_URL,
     channelUrl: DEFAULT_CHANNEL_URL,
+    channelName: DEFAULT_CHANNEL_NAME,
     fetchedSources: [],
   };
 }
