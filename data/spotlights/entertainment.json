@@ -7,386 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-04-14T06:19:38.717Z",
+  "lastUpdatedAt": "2026-04-14T12:08:52.978Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 8,
+  "itemCount": 10,
   "items": [
     {
-      "id": "498859aa52d0eb34",
-      "issueKey": "학과",
-      "issueTitle": "학과",
-      "trendTitle": "학과",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"평균 연봉이 10억\"…SK하이닉스가 만들어낸 한국의 新소득계층",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/04/13/2026041380123.html",
-          "publishedAt": "2026-04-14T05:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[이슈클립] \"성과급 13억 받는다고?\"…SK하이닉스 직원들이 '축하' 대신 '정색'하는 까닭",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260414132524539",
-          "publishedAt": "2026-04-14T05:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'성과급 13억' 잭팟 터져도…\"서울 아파트 한 채도 못 사요\" [돈앤톡]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026041373896",
-          "publishedAt": "2026-04-14T05:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "학과",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/04/13/2026041380123.html",
-        "publishedAt": "2026-04-14T05:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-14T05:00:00.000Z",
-      "firstSeenAt": "2026-04-14T06:19:38.717Z",
-      "lastSeenAt": "2026-04-14T06:19:38.717Z",
-      "title": "학과",
-      "source": "인베스트조선",
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/04/13/2026041380123.html",
-      "rank": 1
-    },
-    {
-      "id": "a088ec9c747fb05f",
-      "issueKey": "무릎",
-      "issueTitle": "무릎",
-      "trendTitle": "무릎",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“무릎 아픈데 운동 해? 말아?” 정형외과 교수 답변은",
-          "source": "헬스조선",
-          "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026041303619",
-          "publishedAt": "2026-04-14T05:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "봄철 야외활동 늘자 무릎 관절염 환자 주의보",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260413140239402",
-          "publishedAt": "2026-04-14T05:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[건강한 삶] 스포츠 손상, 방치하면 만성 질환으로 이어질 수 있어",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1320787",
-          "publishedAt": "2026-04-14T05:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“무릎 아픈데 운동 해? 말아?” 정형외과 교수 답변은",
-        "source": "헬스조선",
-        "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026041303619",
-        "publishedAt": "2026-04-14T05:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-14T05:00:00.000Z",
-      "firstSeenAt": "2026-04-14T06:19:38.717Z",
-      "lastSeenAt": "2026-04-14T06:19:38.717Z",
-      "title": "무릎",
-      "source": "헬스조선",
-      "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026041303619",
-      "rank": 2
-    },
-    {
-      "id": "ca099103135f29c5",
-      "issueKey": "말소",
-      "issueTitle": "말소",
-      "trendTitle": "말소",
+      "id": "5496a40a1ea88466",
+      "issueKey": "고준희",
+      "issueTitle": "고준희",
+      "trendTitle": "고준희",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "국대급 '멘도사라인', 잔인한 4월의 충격 부진, 타격왕 후보들이 왜 여기서 나와?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/04/14/GQ3WMMJZHAYTENRSGFRDAMRQGI/",
-          "publishedAt": "2026-04-14T04:50:00.000Z",
+          "title": "고준희 \"결혼보다 아이 먼저…우리나라 더 깨어 있어야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260414_0003589830",
+          "publishedAt": "2026-04-14T10:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이재현, 타율 1할인데도 1군 말소·면담 없다…박진만 감독, \"분명히 올라온다\"",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260414n11302",
-          "publishedAt": "2026-04-14T04:50:00.000Z",
+          "title": "'40세' 고준희, 미혼모 임신 뜻 밝혔다…\"결혼보다 아이 먼저\" ('고준희 GO')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414111931919",
+          "publishedAt": "2026-04-14T10:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "베테랑 희비, 박건우 최정 '맑음' 양의지 김재환 '흐림' [프로야구]",
-          "source": "스포츠Q",
-          "url": "https://www.sportsq.co.kr/news/articleView.html?idxno=493192",
-          "publishedAt": "2026-04-14T04:50:00.000Z",
+          "title": "사유리 이어 고준희까지…'비혼 출산' 선택인가 논쟁인가, 변화하는 가족의 형태",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260414n20322",
+          "publishedAt": "2026-04-14T10:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "이재현, 타율 1할인데도 1군 말소·면담 없다…박진만 감독, \"분명히 올라온다\"",
-        "source": "네이트 스포츠",
-        "url": "https://sports.news.nate.com/view/20260414n11302",
-        "publishedAt": "2026-04-14T04:50:00.000Z",
+        "title": "고준희 \"결혼보다 아이 먼저…우리나라 더 깨어 있어야\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260414_0003589830",
+        "publishedAt": "2026-04-14T10:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-14T10:40:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "고준희",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260414_0003589830",
+      "rank": 1
+    },
+    {
+      "id": "c4430b5507fa37b6",
+      "issueKey": "연프",
+      "issueTitle": "연프",
+      "trendTitle": "연프",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "매운맛으로 돌아온 '하트시그널5'…''왕사남' 흥행 이어받을 것\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260414_0003590329",
+          "publishedAt": "2026-04-14T10:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "감성 '하트시그널5' vs'매운맛 '돌싱N모솔'…'극과극' 연프, 한날한시 맞대결[초점S]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414185641847",
+          "publishedAt": "2026-04-14T10:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "츠키 '인형미모'",
+          "source": "www.mt.co.kr",
+          "url": "https://www.mt.co.kr/photo/202604141210496858",
+          "publishedAt": "2026-04-14T10:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "감성 '하트시그널5' vs'매운맛 '돌싱N모솔'…'극과극' 연프, 한날한시 맞대결[초점S]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260414185641847",
+        "publishedAt": "2026-04-14T10:30:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-04-14T04:50:00.000Z",
-      "firstSeenAt": "2026-04-14T06:19:38.717Z",
-      "lastSeenAt": "2026-04-14T06:19:38.717Z",
-      "title": "말소",
-      "source": "네이트 스포츠",
-      "url": "https://sports.news.nate.com/view/20260414n11302",
+      "publishedAt": "2026-04-14T10:30:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "연프",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260414185641847",
+      "rank": 2
+    },
+    {
+      "id": "2bbc308e5ba3e74a",
+      "issueKey": "하마",
+      "issueTitle": "하마",
+      "trendTitle": "하마",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "남미 마약왕이 남긴 하마 80마리 사살한다 \"개체수 통제 불가능\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414111744777",
+          "publishedAt": "2026-04-14T10:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "마약왕이 남긴 ‘코카인 하마’ 안락사 승인…“인간 무책임 탓”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1254159.html",
+          "publishedAt": "2026-04-14T10:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "콜롬비아 정부, 마약왕이 들여온 하마 떼 수십수 도태 결정",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260414_0003589661",
+          "publishedAt": "2026-04-14T10:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "남미 마약왕이 남긴 하마 80마리 사살한다 \"개체수 통제 불가능\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260414111744777",
+        "publishedAt": "2026-04-14T10:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-14T10:20:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "하마",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260414111744777",
       "rank": 3
     },
     {
-      "id": "e6667ca01e931156",
-      "issueKey": "하나은행",
-      "issueTitle": "하나은행",
-      "trendTitle": "하나은행",
+      "id": "b86135be4c7917ae",
+      "issueKey": "윤석열",
+      "issueTitle": "윤석열",
+      "trendTitle": "윤석열",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "민주노총 임금체불 현실화 “4월 임금 절반만”",
-          "source": "매일노동뉴스",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=233770",
-          "publishedAt": "2026-04-14T04:40:00.000Z",
+          "title": "尹 부부 9개월 만에 법정 대면...윤석열, 김건희 향해 미소",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/04/14/44BRNCJIZVHPZCRMOD6ZBTGRSM/",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "국민·하나은행·KB카드 콜센터 노조 ‘사용자성’ 인정에 금융권 셈법 복잡",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04296806645415792",
-          "publishedAt": "2026-04-14T04:40:00.000Z",
+          "title": "법정서 재회한 尹부부…남편은 옅은 미소, 아내는 정면 응시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414210005391",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "콜센터 노동자들, 원청 10곳에 교섭 요구…\"7월 총파업 참여\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/incident-accident/6134813",
-          "publishedAt": "2026-04-14T04:40:00.000Z",
+          "title": "尹 눈인사에 시선 피한 김건희…첫 법정 대면",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260414201625CaD",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "국민·하나은행·KB카드 콜센터 노조 ‘사용자성’ 인정에 금융권 셈법 복잡",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04296806645415792",
-        "publishedAt": "2026-04-14T04:40:00.000Z",
-        "relevanceScore": 2
+        "title": "尹 부부 9개월 만에 법정 대면...윤석열, 김건희 향해 미소",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/court_law/2026/04/14/44BRNCJIZVHPZCRMOD6ZBTGRSM/",
+        "publishedAt": "2026-04-14T10:10:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-04-14T04:40:00.000Z",
-      "firstSeenAt": "2026-04-14T06:19:38.717Z",
-      "lastSeenAt": "2026-04-14T06:19:38.717Z",
-      "title": "하나은행",
-      "source": "마켓인",
-      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04296806645415792",
+      "publishedAt": "2026-04-14T10:10:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "윤석열",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/national/court_law/2026/04/14/44BRNCJIZVHPZCRMOD6ZBTGRSM/",
       "rank": 4
     },
     {
-      "id": "c54485060dd5f72a",
-      "issueKey": "박명수",
-      "issueTitle": "박명수",
-      "trendTitle": "박명수",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "박명수, 씨피엔터와 계약…신동엽·이수지·지예은과 한솥밥",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260414_0003589738",
-          "publishedAt": "2026-04-14T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[공식] '한수민♥' 박명수, 결혼 18년만 새 식구 생겨…\"인생 3막\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260414n04122",
-          "publishedAt": "2026-04-14T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "박명수, 신동엽·이수지·지예은·김규원·강남과 '예능 드림팀' 완성",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3556353",
-          "publishedAt": "2026-04-14T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "박명수, 씨피엔터와 계약…신동엽·이수지·지예은과 한솥밥",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260414_0003589738",
-        "publishedAt": "2026-04-14T04:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-14T04:20:00.000Z",
-      "firstSeenAt": "2026-04-14T06:19:38.717Z",
-      "lastSeenAt": "2026-04-14T06:19:38.717Z",
-      "title": "박명수",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260414_0003589738",
-      "rank": 5
-    },
-    {
-      "id": "813ff50bc6fd107f",
-      "issueKey": "순금",
-      "issueTitle": "순금",
-      "trendTitle": "순금",
+      "id": "f76770c827ea902d",
+      "issueKey": "이시영",
+      "issueTitle": "이시영",
+      "trendTitle": "이시영",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[오늘의 금값시세] 4월 14일 금시세(순금·24k) 소폭 오름세",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1152548",
-          "publishedAt": "2026-04-14T04:20:00.000Z",
+          "title": "'파경 후 둘째' 이시영, 깜짝 공개했다…또렷한 이목구비 '눈길' [MD★스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0owOgcztE7",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[뉴욕 금가격] 美·이란 '노딜'에 하락",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4409315",
-          "publishedAt": "2026-04-14T04:20:00.000Z",
+          "title": "'파경 후 출산' 이시영, 열애에 공개 응원 나섰다..\"예쁜 사랑 하세요\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/13/GRRTGOJZME3TAZJSMQZTSNBRGM/",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'안전자산' 금의 배신?…\"오히려 지금이 기회일 수도\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026041251651",
-          "publishedAt": "2026-04-14T04:20:00.000Z",
+          "title": "'애둘맘' 이시영, 첫째 子 열애 응원…\"예쁜 사랑 하세요\" [RE:스타]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260414n03867",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[오늘의 금값시세] 4월 14일 금시세(순금·24k) 소폭 오름세",
-        "source": "금강일보",
-        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1152548",
-        "publishedAt": "2026-04-14T04:20:00.000Z",
+        "title": "'파경 후 둘째' 이시영, 깜짝 공개했다…또렷한 이목구비 '눈길' [MD★스타]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/0owOgcztE7",
+        "publishedAt": "2026-04-14T10:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-14T04:20:00.000Z",
-      "firstSeenAt": "2026-04-14T06:19:38.717Z",
-      "lastSeenAt": "2026-04-14T06:19:38.717Z",
-      "title": "순금",
-      "source": "금강일보",
-      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1152548",
-      "rank": 6
+      "publishedAt": "2026-04-14T10:10:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "이시영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/0owOgcztE7",
+      "rank": 5
     },
     {
-      "id": "d2a4e45a469d190f",
-      "issueKey": "엔비디아",
-      "issueTitle": "엔비디아",
-      "trendTitle": "엔비디아",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "a6df1dd153796f24",
+      "issueKey": "희비교차",
+      "issueTitle": "희비교차",
+      "trendTitle": "희비교차",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "동학개미로 돌아오면 세제 혜택이 따라온다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/reporterView.do?newsId=148962130",
-          "publishedAt": "2026-04-14T04:10:00.000Z",
+          "title": "희비교차",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260414_0021246517",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“서학개미 돌아오면 양도세 면제”…‘환율안정 3법’ 국무회의 문턱 넘어",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12016386",
-          "publishedAt": "2026-04-14T04:10:00.000Z",
+          "title": "\"안영준, PO 3차전까지 출전 어렵다\" 전희철 감독 고백... 위기의 SK '파격 변화' 예고 [잠실 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414190744225",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'해외주식 자금 국내 복귀' 세제 지원 확대…조세특례제한법 국무회의 의결",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260414_0003590542",
-          "publishedAt": "2026-04-14T04:10:00.000Z",
+          "title": "프로농구 6강 PO, 소노 응원이 압도적인 이유?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8534178",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "엔비디아",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/reporterView.do?newsId=148962130",
-        "publishedAt": "2026-04-14T04:10:00.000Z",
+        "title": "희비교차",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260414_0021246517",
+        "publishedAt": "2026-04-14T10:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-14T04:10:00.000Z",
-      "firstSeenAt": "2026-04-14T06:19:38.717Z",
-      "lastSeenAt": "2026-04-14T06:19:38.717Z",
-      "title": "엔비디아",
-      "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/news/reporterView.do?newsId=148962130",
-      "rank": 7
+      "publishedAt": "2026-04-14T10:00:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "희비교차",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260414_0021246517",
+      "rank": 6
     },
     {
-      "id": "48ce8f16b2e0c3cf",
-      "issueKey": "사모펀드",
-      "issueTitle": "사모펀드",
-      "trendTitle": "사모펀드",
+      "id": "4cf5d63fe43676c0",
+      "issueKey": "문동주",
+      "issueTitle": "문동주",
+      "trendTitle": "문동주",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "사모펀드(PEF) '대표' 혹은 '창업자' 연봉이 공개되면 무슨 일이 생길까?",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/04/13/2026041380156.html",
-          "publishedAt": "2026-04-14T04:10:00.000Z",
+          "title": "한화 문동주, 102구 던져 5이닝 무실점…직구 최고 시속 157㎞ '쾅'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260414_0003591207",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "사모펀드 손자회사 된 전자신문... \"단기수익 중심 노골화 우려\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260414091944973",
-          "publishedAt": "2026-04-14T04:10:00.000Z",
+          "title": "[사진]이도윤, 심우준 스퀴즈에 홈인",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/14/MYYDQZTCGQZDCYZVME4DKMBWMU/",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "아주IB투자, +3.41% 상승폭 확대 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/c-biz_bot/2026/04/13/G5SDIMRUGBTDMOJXHAYDMZJYG4/",
-          "publishedAt": "2026-04-14T04:10:00.000Z",
+          "title": "[포토] '찬스는 한번쯤 꼭 온다!' 박진만 감독",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/04/14/2026041420303341901",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "사모펀드(PEF) '대표' 혹은 '창업자' 연봉이 공개되면 무슨 일이 생길까?",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/04/13/2026041380156.html",
-        "publishedAt": "2026-04-14T04:10:00.000Z",
+        "title": "한화 문동주, 102구 던져 5이닝 무실점…직구 최고 시속 157㎞ '쾅'",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260414_0003591207",
+        "publishedAt": "2026-04-14T10:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-14T04:10:00.000Z",
-      "firstSeenAt": "2026-04-14T06:19:38.717Z",
-      "lastSeenAt": "2026-04-14T06:19:38.717Z",
-      "title": "사모펀드",
-      "source": "인베스트조선",
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/04/13/2026041380156.html",
+      "publishedAt": "2026-04-14T10:00:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "문동주",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260414_0003591207",
+      "rank": 7
+    },
+    {
+      "id": "6b511430c7460fbe",
+      "issueKey": "초과 근무",
+      "issueTitle": "초과 근무",
+      "trendTitle": "초과 근무",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"공무원 초과수당, 시간 채우기 아냐\"…대통령 발언에 반발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202604149360i",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "공무원 공짜노동, 초과근무 정당한 보상체계로 전면 개편하라…시군구연맹 성명",
+          "source": "퍼블릭타임스",
+          "url": "https://www.public25.com/news/articleView.html?idxno=44089",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이재명 향한 공무원들의 불만, 여론이 심상찮다 [출연: 박민영 ,주성은┃MZ레지스탕스]",
+          "source": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=118549",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "초과 근무",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202604149360i",
+        "publishedAt": "2026-04-14T09:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-14T09:50:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "초과 근무",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202604149360i",
       "rank": 8
+    },
+    {
+      "id": "ac0084159216197d",
+      "issueKey": "가나",
+      "issueTitle": "가나",
+      "trendTitle": "가나",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "가나, 월드컵 지휘할 새 사령탑에 벤투 아닌 케이로스 감독 선임",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260414_0003589691",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "월드컵 두 달 남기고 감독 경질→케이로스 긴급 투입…붕괴 직전 가나, 초강수 승부수 던졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bPOuIBmjJF",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "가나축구협회, 월드컵 지휘할 새 사령탑에 케이로스 감독 선임",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260414014300007",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "가나, 월드컵 지휘할 새 사령탑에 벤투 아닌 케이로스 감독 선임",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260414_0003589691",
+        "publishedAt": "2026-04-14T09:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-14T09:50:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "가나",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260414_0003589691",
+      "rank": 9
+    },
+    {
+      "id": "e86946df1aed0f8f",
+      "issueKey": "현대",
+      "issueTitle": "현대",
+      "trendTitle": "현대",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "중동전쟁 와중에 삼성E&A·현대·GS·대우건설, 쿠웨이트 LNG 프로젝트 입찰 저울질",
+          "source": "더구루",
+          "url": "https://www.theguru.co.kr/news/article.html?no=100512",
+          "publishedAt": "2026-04-14T09:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“중국을 전쟁으로 끌어들일지도” 트럼프 봉쇄 파장은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414161904601",
+          "publishedAt": "2026-04-14T09:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "헬륨·나프타 이어 황산까지…반도체 원료 수급 '빨간불'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260414_0003590099",
+          "publishedAt": "2026-04-14T09:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "중동전쟁 와중에 삼성E&A·현대·GS·대우건설, 쿠웨이트 LNG 프로젝트 입찰 저울질",
+        "source": "더구루",
+        "url": "https://www.theguru.co.kr/news/article.html?no=100512",
+        "publishedAt": "2026-04-14T09:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-14T09:40:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "현대",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=100512",
+      "rank": 10
     }
   ],
   "history": [
@@ -483,50 +577,50 @@
       "url": "https://www.chosun.com/national/national_general/2026/04/13/MBMLWJZ5Z5GMDMUXTNN46WWM4Y/"
     },
     {
-      "id": "638dd1e2000c22c9",
-      "issueKey": "런닝맨",
-      "issueTitle": "런닝맨",
-      "trendTitle": "런닝맨",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "6b511430c7460fbe",
+      "issueKey": "초과 근무",
+      "issueTitle": "초과 근무",
+      "trendTitle": "초과 근무",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'런닝맨' 공식 커플 탄생 임박…'8살 차이' 양세찬♥지예은 핑크빛 기류",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/",
-          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "title": "\"공무원 초과수당, 시간 채우기 아냐\"…대통령 발언에 반발",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202604149360i",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "하하·지예은, 막장 폭로전 터졌다 \"연예계가 들썩일 수준\"(런닝맨)",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=809706",
-          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "title": "공무원 공짜노동, 초과근무 정당한 보상체계로 전면 개편하라…시군구연맹 성명",
+          "source": "퍼블릭타임스",
+          "url": "https://www.public25.com/news/articleView.html?idxno=44089",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "양세찬♥지예은, 공식 커플 탄생 임박?…“다가갈게” (런닝맨)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260412/133720280/1",
-          "publishedAt": "2026-04-12T08:50:00.000Z",
+          "title": "이재명 향한 공무원들의 불만, 여론이 심상찮다 [출연: 박민영 ,주성은┃MZ레지스탕스]",
+          "source": "펜앤마이크",
+          "url": "https://www.pennmike.com/news/articleView.html?idxno=118549",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'런닝맨' 공식 커플 탄생 임박…'8살 차이' 양세찬♥지예은 핑크빛 기류",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/",
-        "publishedAt": "2026-04-12T08:50:00.000Z",
+        "title": "초과 근무",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202604149360i",
+        "publishedAt": "2026-04-14T09:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-12T08:50:00.000Z",
-      "firstSeenAt": "2026-04-12T09:58:53.659Z",
-      "lastSeenAt": "2026-04-12T09:58:53.659Z",
-      "title": "런닝맨",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/12/GQZTMZJQGI2DEYRUME2WMOJVGE/"
+      "publishedAt": "2026-04-14T09:50:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "초과 근무",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202604149360i"
     },
     {
       "id": "498859aa52d0eb34",
@@ -612,6 +706,52 @@
       "title": "경기 예측",
       "source": "Vietnam.vn",
       "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-aston-villa-20h00-ngay-12-4-cang-nhu-day-dan"
+    },
+    {
+      "id": "f76770c827ea902d",
+      "issueKey": "이시영",
+      "issueTitle": "이시영",
+      "trendTitle": "이시영",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'파경 후 둘째' 이시영, 깜짝 공개했다…또렷한 이목구비 '눈길' [MD★스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0owOgcztE7",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'파경 후 출산' 이시영, 열애에 공개 응원 나섰다..\"예쁜 사랑 하세요\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/13/GRRTGOJZME3TAZJSMQZTSNBRGM/",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'애둘맘' 이시영, 첫째 子 열애 응원…\"예쁜 사랑 하세요\" [RE:스타]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260414n03867",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'파경 후 둘째' 이시영, 깜짝 공개했다…또렷한 이목구비 '눈길' [MD★스타]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/0owOgcztE7",
+        "publishedAt": "2026-04-14T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-14T10:10:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "이시영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/0owOgcztE7"
     },
     {
       "id": "813ff50bc6fd107f",
@@ -1028,96 +1168,142 @@
       "url": "https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_PS-2026025342-01-000_20260412_TECH007&amp;program_code=T2026-0051&amp;program_id=PS-2026025342-01-000&amp;section_code=04&amp;broadcast_complete_yn=N&amp;section_id=27242"
     },
     {
-      "id": "288e149f85da6fc1",
-      "issueKey": "법인카드 쐈다",
-      "issueTitle": "법인카드 쐈다",
-      "trendTitle": "법인카드 쐈다",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "a6df1dd153796f24",
+      "issueKey": "희비교차",
+      "issueTitle": "희비교차",
+      "trendTitle": "희비교차",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "심재학 단장 법인카드 쐈다! 황당 교통사고→요추 골절 재활→377일 만에 승리…\"영탁아 고생 많았고 고마워\" [대전 인터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412053144249",
-          "publishedAt": "2026-04-12T09:30:00.000Z",
+          "title": "희비교차",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260414_0021246517",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "법인 카드는 단장이 줬는데, 왜 황동하 저녁밥 계산은 이범호 감독이 했을까 [대전 현장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/04/12/GQYDQMJVHEYWIYTEMY3WEMDDHA/",
-          "publishedAt": "2026-04-12T09:30:00.000Z",
+          "title": "\"안영준, PO 3차전까지 출전 어렵다\" 전희철 감독 고백... 위기의 SK '파격 변화' 예고 [잠실 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414190744225",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"야구 할 수 있을까\" 교통사고 트라우마 딛고 377일 만의 감격 승리…23세 황동하의 야구 시계가 다시 움직이기 시작했다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260411n09858",
-          "publishedAt": "2026-04-12T09:30:00.000Z",
+          "title": "프로농구 6강 PO, 소노 응원이 압도적인 이유?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8534178",
+          "publishedAt": "2026-04-14T10:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "심재학 단장 법인카드 쐈다! 황당 교통사고→요추 골절 재활→377일 만에 승리…\"영탁아 고생 많았고 고마워\" [대전 인터뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260412053144249",
-        "publishedAt": "2026-04-12T09:30:00.000Z",
+        "title": "희비교차",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260414_0021246517",
+        "publishedAt": "2026-04-14T10:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-12T09:30:00.000Z",
-      "firstSeenAt": "2026-04-12T11:07:12.930Z",
-      "lastSeenAt": "2026-04-12T11:07:12.930Z",
-      "title": "법인카드 쐈다",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260412053144249"
+      "publishedAt": "2026-04-14T10:00:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "희비교차",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260414_0021246517"
     },
     {
-      "id": "9e820c811125bbbe",
-      "issueKey": "투자",
-      "issueTitle": "투자",
-      "trendTitle": "투자",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "ac0084159216197d",
+      "issueKey": "가나",
+      "issueTitle": "가나",
+      "trendTitle": "가나",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "삼성전자·SK하이닉스 질주 언제까지?...반도체 전망 보니 '이럴 수가'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412142344217",
-          "publishedAt": "2026-04-12T09:30:00.000Z",
+          "title": "가나, 월드컵 지휘할 새 사령탑에 벤투 아닌 케이로스 감독 선임",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260414_0003589691",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "AI 투자가 이끈 반도체 경기…한은 \"내년 상반기까지 확장\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260410_0003586814",
-          "publishedAt": "2026-04-12T09:30:00.000Z",
+          "title": "월드컵 두 달 남기고 감독 경질→케이로스 긴급 투입…붕괴 직전 가나, 초강수 승부수 던졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bPOuIBmjJF",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“메모리 호황 최소 내년 상반기까지”⋯ 이후 AI 성과에 달렸다",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260412500475",
-          "publishedAt": "2026-04-12T09:30:00.000Z",
+          "title": "가나축구협회, 월드컵 지휘할 새 사령탑에 케이로스 감독 선임",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260414014300007",
+          "publishedAt": "2026-04-14T09:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "AI 투자가 이끈 반도체 경기…한은 \"내년 상반기까지 확장\"",
+        "title": "가나, 월드컵 지휘할 새 사령탑에 벤투 아닌 케이로스 감독 선임",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260410_0003586814",
-        "publishedAt": "2026-04-12T09:30:00.000Z",
-        "relevanceScore": 2
+        "url": "https://www.newsis.com/view/NISX20260414_0003589691",
+        "publishedAt": "2026-04-14T09:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-04-12T09:30:00.000Z",
-      "firstSeenAt": "2026-04-12T11:07:12.930Z",
-      "lastSeenAt": "2026-04-12T11:07:12.930Z",
-      "title": "투자",
+      "publishedAt": "2026-04-14T09:50:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "가나",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260410_0003586814"
+      "url": "https://www.newsis.com/view/NISX20260414_0003589691"
+    },
+    {
+      "id": "e86946df1aed0f8f",
+      "issueKey": "현대",
+      "issueTitle": "현대",
+      "trendTitle": "현대",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "중동전쟁 와중에 삼성E&A·현대·GS·대우건설, 쿠웨이트 LNG 프로젝트 입찰 저울질",
+          "source": "더구루",
+          "url": "https://www.theguru.co.kr/news/article.html?no=100512",
+          "publishedAt": "2026-04-14T09:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“중국을 전쟁으로 끌어들일지도” 트럼프 봉쇄 파장은",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414161904601",
+          "publishedAt": "2026-04-14T09:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "헬륨·나프타 이어 황산까지…반도체 원료 수급 '빨간불'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260414_0003590099",
+          "publishedAt": "2026-04-14T09:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "중동전쟁 와중에 삼성E&A·현대·GS·대우건설, 쿠웨이트 LNG 프로젝트 입찰 저울질",
+        "source": "더구루",
+        "url": "https://www.theguru.co.kr/news/article.html?no=100512",
+        "publishedAt": "2026-04-14T09:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-14T09:40:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "현대",
+      "source": "더구루",
+      "url": "https://www.theguru.co.kr/news/article.html?no=100512"
     },
     {
       "id": "a088ec9c747fb05f",
@@ -1534,52 +1720,6 @@
       "url": "https://www.newstong.co.kr/view3.aspx?seq=14342510&amp;allSeq=1&amp;txtSearch=&amp;cate=0&amp;cnt=-5&amp;subCate=2&amp;order=default&amp;newsNo=2"
     },
     {
-      "id": "eede6173b7972c35",
-      "issueKey": "황동하",
-      "issueTitle": "황동하",
-      "trendTitle": "황동하",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[사진]조상우와 승리 기쁨 나누는 KIA 이범호 감독",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/",
-          "publishedAt": "2026-04-12T08:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]KIA, '한화 상대로 3연전 싹쓸이하며 4연승 질주'",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112780411",
-          "publishedAt": "2026-04-12T08:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'8회 5점' KIA, 뒷심 발휘해 대역전극 '3연승 질주'…한화 2연패",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260411_0003587259",
-          "publishedAt": "2026-04-12T08:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "황동하",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/",
-        "publishedAt": "2026-04-12T08:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T08:50:00.000Z",
-      "firstSeenAt": "2026-04-12T09:58:53.659Z",
-      "lastSeenAt": "2026-04-12T09:58:53.659Z",
-      "title": "황동하",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/04/12/GZSGCZRWHE3TAOJYGM4GKYLBMI/"
-    },
-    {
       "id": "d0b33099b563ede5",
       "issueKey": "chelsea đấu với man city",
       "issueTitle": "chelsea đấu với man city",
@@ -1638,6 +1778,52 @@
       "title": "chelsea đấu với man city",
       "source": "Vietnam.vn",
       "url": "https://www.vietnam.vn/en/chelsea-0-0-man-city-chu-nha-an-mung-hut"
+    },
+    {
+      "id": "b86135be4c7917ae",
+      "issueKey": "윤석열",
+      "issueTitle": "윤석열",
+      "trendTitle": "윤석열",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "尹 부부 9개월 만에 법정 대면...윤석열, 김건희 향해 미소",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/04/14/44BRNCJIZVHPZCRMOD6ZBTGRSM/",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "법정서 재회한 尹부부…남편은 옅은 미소, 아내는 정면 응시",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260414210005391",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "尹 눈인사에 시선 피한 김건희…첫 법정 대면",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260414201625CaD",
+          "publishedAt": "2026-04-14T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "尹 부부 9개월 만에 법정 대면...윤석열, 김건희 향해 미소",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/court_law/2026/04/14/44BRNCJIZVHPZCRMOD6ZBTGRSM/",
+        "publishedAt": "2026-04-14T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-14T10:10:00.000Z",
+      "firstSeenAt": "2026-04-14T12:08:52.978Z",
+      "lastSeenAt": "2026-04-14T12:08:52.978Z",
+      "title": "윤석열",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/national/court_law/2026/04/14/44BRNCJIZVHPZCRMOD6ZBTGRSM/"
     },
     {
       "id": "e6667ca01e931156",
@@ -2144,98 +2330,6 @@
       "title": "선거",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260412_0003587717"
-    },
-    {
-      "id": "bb02a95810ef3357",
-      "issueKey": "배현진",
-      "issueTitle": "배현진",
-      "trendTitle": "배현진",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "출국 후 미국행 알린 張 대표 [횡설수설/윤완준]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260412/133724055/2",
-          "publishedAt": "2026-04-12T17:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "장동혁 5박7일 방미… 당내 “선거 포기했나”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260413043315928",
-          "publishedAt": "2026-04-12T17:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "배현진 “장동혁 미국 왜 갔나…애먼 데서 후보들 발목 잡아”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html",
-          "publishedAt": "2026-04-12T17:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "배현진 “장동혁 미국 왜 갔나…애먼 데서 후보들 발목 잡아”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html",
-        "publishedAt": "2026-04-12T17:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-04-12T17:40:00.000Z",
-      "firstSeenAt": "2026-04-12T19:55:04.555Z",
-      "lastSeenAt": "2026-04-12T19:55:04.555Z",
-      "title": "배현진",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1253818.html"
-    },
-    {
-      "id": "8623adc2f2ecdf2a",
-      "issueKey": "손담비",
-      "issueTitle": "손담비",
-      "trendTitle": "손담비",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"시험관 출산 귀한 딸\" 손담비, 5성급 호텔서 성대한 돌잔치… \"마이크 잡았어요\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260412200326207",
-          "publishedAt": "2026-04-12T17:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "손담비, 행복한 결혼 생활…딸 해이양 돌잔치 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260411_0003587350",
-          "publishedAt": "2026-04-12T17:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "손담비♥이규혁, 딸 첫돌 맞아 가족사진 공개 \"모든 순간이 기적\" [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6133606",
-          "publishedAt": "2026-04-12T17:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"시험관 출산 귀한 딸\" 손담비, 5성급 호텔서 성대한 돌잔치… \"마이크 잡았어요\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260412200326207",
-        "publishedAt": "2026-04-12T17:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-12T17:20:00.000Z",
-      "firstSeenAt": "2026-04-12T19:55:04.555Z",
-      "lastSeenAt": "2026-04-12T19:55:04.555Z",
-      "title": "손담비",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260412200326207"
     }
   ]
 }
