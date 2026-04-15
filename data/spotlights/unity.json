@@ -1,0 +1,52 @@
+{
+  "tab": "unity",
+  "type": "release-and-videos",
+  "source": "Unity Releases + Unity Korea YouTube",
+  "sourceMode": "official-release+youtube-rss",
+  "lastUpdatedAt": "2026-04-15T06:21:25.771Z",
+  "title": "Unity Latest Release",
+  "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
+  "release": {
+    "title": "Unity Latest Release",
+    "familyLabel": "Unity 6.3",
+    "version": "6000.3.13f1",
+    "releasedAt": "2026-04-08T00:00:00.000Z",
+    "releaseNotesUrl": "https://unity.com/releases/editor/whats-new/6000.3.13f1",
+    "linkLabel": "릴리스 노트"
+  },
+  "videoCount": 2,
+  "videos": [
+    {
+      "id": "aDQcdeps73c",
+      "title": "조용하지만 강력한 유니티 6.4 업데이트",
+      "url": "https://www.youtube.com/watch?v=aDQcdeps73c",
+      "publishedAt": "2026-04-08T03:02:47.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/aDQcdeps73c/hqdefault.jpg"
+    },
+    {
+      "id": "H7aVy48mAVU",
+      "title": "Unity Roadshow 2026 – 세션 3. 유니티 메모리와 가비지 컬렉터 딥다이브",
+      "url": "https://www.youtube.com/watch?v=H7aVy48mAVU",
+      "publishedAt": "2026-04-07T02:03:25.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/H7aVy48mAVU/hqdefault.jpg"
+    }
+  ],
+  "releaseSourceUrl": "https://unity.com/releases/editor/latest",
+  "videosSourceUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQArZVLg7Omzg4cBReJTS3w",
+  "channelUrl": "https://www.youtube.com/channel/UCQArZVLg7Omzg4cBReJTS3w",
+  "channelName": "Unity Korea",
+  "fetchedSources": [
+    {
+      "key": "release",
+      "source": "Unity Releases",
+      "ok": true,
+      "version": "6000.3.13f1"
+    },
+    {
+      "key": "youtube",
+      "source": "Unity Korea YouTube",
+      "ok": false,
+      "error": "HTTP 404"
+    }
+  ]
+}

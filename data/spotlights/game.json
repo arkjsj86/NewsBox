@@ -1,0 +1,117 @@
+{
+  "tab": "game",
+  "type": "free-games-and-issues",
+  "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
+  "sourceMode": "official-store-api+html",
+  "lastUpdatedAt": "2026-04-15T06:21:25.771Z",
+  "title": "에픽게임즈 이주의 무료게임",
+  "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
+  "sourceUrl": "https://store.epicgames.com/ko/free-games",
+  "itemCount": 2,
+  "offers": [
+    {
+      "id": "9f67865fcf0749a58f4d35827473266f",
+      "title": "토막: 지구를 지켜라 리제네레이션",
+      "seller": "NETMARBLE MONSTER",
+      "url": "https://store.epicgames.com/ko/p/tomak-save-the-earth-regeneration-c1207c",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/603c0097f96047c38bc199331b5cf95b/tomak--save-the-earth-regeneration-l1n5k.png",
+      "originalPriceLabel": "₩9,200",
+      "freeUntil": "2026-04-16T15:00:00.000Z"
+    },
+    {
+      "id": "bc9b3091841840ad974ff525873d48c1",
+      "title": "Prop Sumo",
+      "seller": "Barrel Roll Games GmbH & Co. KG",
+      "url": "https://store.epicgames.com/ko/p/propsumo-ca8bd7",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a965174568cb492ca3ebbe7a95886261/propsumo-jc5go.png",
+      "originalPriceLabel": "₩10,200",
+      "freeUntil": "2026-04-16T15:00:00.000Z"
+    }
+  ],
+  "issues": {
+    "ruliweb": {
+      "label": "루리웹 BEST 뉴스",
+      "source": "Ruliweb BEST 뉴스",
+      "sourceUrl": "https://bbs.ruliweb.com/best",
+      "items": [
+        {
+          "title": "하운드13, '드래곤소드 : 어웨이크닝' 스팀 페이지 및 7월 발매 공개",
+          "url": "https://bbs.ruliweb.com/news/read/223350",
+          "meta": "댓글 61"
+        },
+        {
+          "title": "몬스터와 함께 DIVE, '몬길 : 스타 다이브' 첫 번째 쇼케이스",
+          "url": "https://bbs.ruliweb.com/news/read/223241",
+          "meta": "댓글 27"
+        },
+        {
+          "title": "이제 타지에서도 굶지마! - '돈 스타브 엘스웨어' 공개",
+          "url": "https://bbs.ruliweb.com/news/read/223307",
+          "meta": "댓글 0"
+        },
+        {
+          "title": "엑스엘게임즈, ‘더 큐브, 세이브 어스’ 서비스 종료",
+          "url": "https://bbs.ruliweb.com/news/read/223243",
+          "meta": "댓글 21"
+        },
+        {
+          "title": "케이브, 스팀으로 ‘신약 도돈파치 대부활’ 발표",
+          "url": "https://bbs.ruliweb.com/news/read/223242",
+          "meta": "댓글 15"
+        }
+      ]
+    },
+    "inven": {
+      "label": "인벤 주요뉴스",
+      "source": "Inven 주요뉴스",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
+      "items": [
+        {
+          "title": "스토커2: 초르노빌의 심장부, 무료 콘텐츠 '봉인된 진실' 배포 시작",
+          "url": "https://www.inven.co.kr/webzine/news/?news=315446",
+          "meta": "스토커2: 초르노빌의 심장부 · 방금전"
+        },
+        {
+          "title": "MSI, 전자랜드 PC 마스터즈 추첨전 행사.. RTX 5090 할인 판매 진행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=315444",
+          "meta": "20분 전"
+        },
+        {
+          "title": "하스스톤, 전장 시즌13 '대격변의 부름' 15일 시작",
+          "url": "https://www.inven.co.kr/webzine/news/?news=315442",
+          "meta": "하스스톤: 워크래프트의 영웅들 · 45분 전"
+        },
+        {
+          "title": "스톤에이지 키우기, 서버전 '거점 쟁탈전' 오픈",
+          "url": "https://www.inven.co.kr/webzine/news/?news=315441",
+          "meta": "스톤에이지 키우기 · 50분 전"
+        },
+        {
+          "title": "소니코리아, 오픈형 게이밍 헤드셋 INZONE 'H6 Air' 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=315438",
+          "meta": "3시간 전"
+        }
+      ]
+    }
+  },
+  "fetchedSources": [
+    {
+      "key": "epic-free-games",
+      "source": "Epic Games Store",
+      "ok": true,
+      "itemCount": 2
+    },
+    {
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
+    }
+  ]
+}
