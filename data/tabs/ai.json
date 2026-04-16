@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-15T23:28:57.116Z",
+  "lastUpdatedAt": "2026-04-16T06:23:15.392Z",
   "articleCount": 11,
   "articles": [
+    {
+      "id": "3a1dbf8206531028",
+      "title": "카탈라이즈, 웹3 인프라·인공지능 중심 ‘AI/InfraCon’ 성료",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303460",
+      "source": "경향게임스",
+      "publishedAt": "2026-04-16T02:00:18.000Z",
+      "summary": "글로벌 웹3 전문 컨설팅 기업 카탈라이즈가 지난 15일 ‘AI/InfraCon’을 성황리에 개최했다. AI/InfraCon은 AI와 웹3 인프라의 실제 적용 사례와 산업 간 융합 가능성을 다루는 컨퍼런스로, 이번 행사에는 약 300명이 참석해 AI 기술과 웹3 인프라의 결합을 통한 실제 활용 사례와 향후 발전 방향에 대해 논의했다. 카탈라이즈와 레드스톤, 스퀴드가 공동 주최한 이번 행사...",
+      "tab": "ai"
+    },
+    {
+      "id": "06452d9e344465a4",
+      "title": "CUDA 20년, AI 혁명을 설계한 엔비디아의 숨은 엔진",
+      "url": "https://www.itworld.co.kr/article/4159358/cuda-20%eb%85%84-ai-%ed%98%81%eb%aa%85%ec%9d%84-%ec%84%a4%ea%b3%84%ed%95%9c-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ec%88%a8%ec%9d%80-%ec%97%94%ec%a7%84.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-04-16T00:25:23.000Z",
+      "summary": "엔비디아 CEO 젠슨 황은 2016년 오픈AI에 AI 슈퍼컴퓨터를 직접 배달했던 일화를 자주 꺼낸다. 당시 오픈AI는 지금처럼 주목받는 기업이 아니었다. 그 슈퍼컴퓨터 안에는 엔비디아의 CUDA 툴킷이 핵심 구성요소로 탑재돼 있었다. CUDA 툴킷은 오픈AI의 초기 실험을 현대 AI 애플리케이션의 토대로 전환하는 데 결정적 역할을 했다. 황은 CUDA를 엔비디아가 AI 및 고성능 컴퓨팅...",
+      "tab": "ai"
+    },
     {
       "id": "1347deb1dc250d73",
       "title": "오픈텍스트, 기업 ‘AI 스프롤’ 확산 경고…“통제 가능한 거버넌스가 경쟁력 좌우”",
@@ -86,24 +104,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-04-09T06:21:52.000Z",
       "summary": "AI 에이전트 플랫폼 업체 원더풀이 한국 시장에 진출하며 아시아·태평양(APAC) 확장 전략에 속도를 낸다. 글로벌 엔터프라이즈 AI 에이전트 플랫폼 기업 원더풀은 한국 지사를 공식 설립하고, 초대 지사장으로 정응섭 전 워크데이코리아 지사장을 선임했다고 9일 밝혔다. 정 지사장은 삼성물산을 시작으로 i2 테크놀로지(현 블루욘더), SAP, 슬랙, 워크데이 등 주요 글로벌 엔터프라이즈 소...",
-      "tab": "ai"
-    },
-    {
-      "id": "5304b8bcd6fdc2bb",
-      "title": "AI 없이도 이렇게 강력하다…비발디 브라우저의 진짜 실력",
-      "url": "https://www.itworld.co.kr/article/4156115/ai-%ec%97%86%ec%9d%b4%eb%8f%84-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ea%b0%95%eb%a0%a5%ed%95%98%eb%8b%a4%eb%b9%84%eb%b0%9c%eb%94%94-%eb%b8%8c%eb%9d%bc%ec%9a%b0%ec%a0%80%ec%9d%98-%ec%a7%84%ec%a7%9c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-09T01:37:35.000Z",
-      "summary": "브라우저를 바꾸는 일은 운영체제를 교체하는 것과 비슷하다. 좀 더 현실적인 비유를 들자면, 모든 것이 낯선 새 사무실로 이사하는 것과 같다. 우리는 브라우저 안에서 엄청난 시간을 보내고 수많은 업무를 처리한다. 어떤 의미에서 브라우저는 그 자체로 데스크톱이나 다름없다. 하루의 업무가 브라우저를 중심으로 돌아가는 만큼, 그 아래 깔린 운영체제보다 더 중요하다고 볼 수도 있다. 따라서 대다...",
-      "tab": "ai"
-    },
-    {
-      "id": "7610f103f52ad83b",
-      "title": "AI가 만든 비밀번호, 의외로 뚫기 쉽다",
-      "url": "https://www.itworld.co.kr/article/4156101/ai%ea%b0%80-%eb%a7%8c%eb%93%a0-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%9d%98%ec%99%b8%eb%a1%9c-%eb%9a%ab%ea%b8%b0-%ec%89%bd%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-09T01:00:29.000Z",
-      "summary": "AI 보안 기업 이레귤러(Irregular)와 카스퍼스키(Kaspersky)의 독립적인 두 연구가 같은 결론에 도달했다. 모든 최전선 대규모 언어 모델은 구조적으로 예측 가능한 비밀번호를 생성하며, 표준 엔트로피 측정 도구는 이를 심각하게 과대평가한다. AI 코딩 에이전트는 이미 해당 자격증명을 프로덕션 인프라에 자율적으로 심어놓고 있으며, 기존 비밀 정보 스캐너는 이를 탐지할 방법이...",
       "tab": "ai"
     }
   ]
