@@ -3,9 +3,9 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-17T17:37:03.711Z",
+  "lastUpdatedAt": "2026-04-17T20:09:26.087Z",
   "tabCount": 5,
-  "totalArticleCount": 77,
+  "totalArticleCount": 79,
   "availableTabs": [
     "ai",
     "game",
@@ -25,8 +25,8 @@
     "unityVideoLimit": 2
   },
   "feedCount": 8,
-  "successfulFeedCount": 7,
-  "failedFeedCount": 1,
+  "successfulFeedCount": 8,
+  "failedFeedCount": 0,
   "successfulFeeds": [
     {
       "key": "itworld-kr",
@@ -49,6 +49,11 @@
       "itemCount": 0
     },
     {
+      "key": "khgames-all",
+      "source": "경향게임스",
+      "itemCount": 30
+    },
+    {
       "key": "sportschosun-entertainment",
       "source": "스포츠조선 연예",
       "itemCount": 17
@@ -64,13 +69,7 @@
       "itemCount": 30
     }
   ],
-  "failedFeeds": [
-    {
-      "key": "khgames-all",
-      "source": "경향게임스",
-      "error": "fetch failed"
-    }
-  ],
+  "failedFeeds": [],
   "spotlightCount": 4,
   "spotlights": [
     {
