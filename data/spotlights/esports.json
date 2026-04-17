@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-04-17T06:24:14.533Z",
+  "lastUpdatedAt": "2026-04-17T12:02:16.837Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -14,52 +14,6 @@
   "primaryBlockName": "Week 3",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115548128962906223",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 3",
-      "startTime": "2026-04-17T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "KIWOOM DRX",
-          "code": "DRX",
-          "imageUrl": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-        },
-        {
-          "name": "BNK FEARX",
-          "code": "BFX",
-          "imageUrl": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
-    {
-      "id": "115548128962840647",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 3",
-      "startTime": "2026-04-17T10:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "Dplus KIA",
-          "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-        },
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128962840611",
       "leagueKey": "lck",
@@ -286,6 +240,52 @@
           "name": "KIWOOM DRX",
           "code": "DRX",
           "imageUrl": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962840639",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 4",
+      "startTime": "2026-04-25T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "T1",
+          "code": "T1",
+          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+        },
+        {
+          "name": "HANJIN BRION",
+          "code": "BRO",
+          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962906235",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 4",
+      "startTime": "2026-04-25T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+        },
+        {
+          "name": "DN SOOPers",
+          "code": "DNS",
+          "imageUrl": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
