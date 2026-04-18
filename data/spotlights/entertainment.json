@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-04-18T17:04:26.623Z",
+  "lastUpdatedAt": "2026-04-18T19:55:33.776Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "483b66ad0cc4f7d5",
-      "issueKey": "보험",
-      "issueTitle": "보험",
-      "trendTitle": "보험",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“두쫀쿠 만들러 갔다가 보험 가입?”…무료행사 교묘한 보험 영업",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/article/all/20260416/133754926/2?gid=133760028&amp;srev=2&amp;regdate=20260417",
-          "publishedAt": "2026-04-18T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "나랏돈 노리며 불완전판매 행태도…금감원 실태 조사 나선다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8538406",
-          "publishedAt": "2026-04-18T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "요양시설 운영비 ‘종신보험 편취’ 의혹…정부, 전수조사 착수",
-          "source": "이투데이",
-          "url": "https://bravo.etoday.co.kr/view/atc_view/19065",
-          "publishedAt": "2026-04-18T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“두쫀쿠 만들러 갔다가 보험 가입?”…무료행사 교묘한 보험 영업",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/article/all/20260416/133754926/2?gid=133760028&amp;srev=2&amp;regdate=20260417",
-        "publishedAt": "2026-04-18T15:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-18T15:40:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "보험",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/article/all/20260416/133754926/2?gid=133760028&amp;srev=2&amp;regdate=20260417",
-      "rank": 1
-    },
-    {
-      "id": "03c1eb542ece3e01",
-      "issueKey": "최악",
-      "issueTitle": "최악",
-      "trendTitle": "최악",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“남은 시즌 더는 못 뜁니다” 데 제르비 감독 ‘오피셜’ 공식발표…허벅지 부상으로 전열 이탈했던 ‘가나 특급’ 끝내 복귀 무산",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/97RQXye4Lu",
-          "publishedAt": "2026-04-18T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "토트넘 대통곡! 최악의 먹튀 사태 터진다→'포스트 손흥민' 첼시·맨유가 강탈 임박…어이없는 매각 판단 결과물",
-          "source": "MSN",
-          "url": "https://www.msn.com/ko-kr/news/other/%ED%86%A0%ED%8A%B8%EB%84%98-%EB%8C%80%ED%86%B5%EA%B3%A1-%EC%B5%9C%EC%95%85%EC%9D%98-%EB%A8%B9%ED%8A%80-%EC%82%AC%ED%83%9C-%ED%84%B0%EC%A7%84%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%86%90%ED%9D%A5%EB%AF%BC-%EC%B2%BC%EC%8B%9C-%EB%A7%A8%EC%9C%A0%EA%B0%80-%EA%B0%95%ED%83%88-%EC%9E%84%EB%B0%95-%EC%96%B4%EC%9D%B4%EC%97%86%EB%8A%94-%EB%A7%A4%EA%B0%81-%ED%8C%90%EB%8B%A8-%EA%B2%B0%EA%B3%BC%EB%AC%BC/ar-AA20ZVwE",
-          "publishedAt": "2026-04-18T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"최악의 경우 수술까지\" 1090억 원 신입생 윙어, 이대로 시즌 마무리? \"월드컵도 위험해\"",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260409234448861",
-          "publishedAt": "2026-04-18T15:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "토트넘 대통곡! 최악의 먹튀 사태 터진다→'포스트 손흥민' 첼시·맨유가 강탈 임박…어이없는 매각 판단 결과물",
-        "source": "MSN",
-        "url": "https://www.msn.com/ko-kr/news/other/%ED%86%A0%ED%8A%B8%EB%84%98-%EB%8C%80%ED%86%B5%EA%B3%A1-%EC%B5%9C%EC%95%85%EC%9D%98-%EB%A8%B9%ED%8A%80-%EC%82%AC%ED%83%9C-%ED%84%B0%EC%A7%84%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%86%90%ED%9D%A5%EB%AF%BC-%EC%B2%BC%EC%8B%9C-%EB%A7%A8%EC%9C%A0%EA%B0%80-%EA%B0%95%ED%83%88-%EC%9E%84%EB%B0%95-%EC%96%B4%EC%9D%B4%EC%97%86%EB%8A%94-%EB%A7%A4%EA%B0%81-%ED%8C%90%EB%8B%A8-%EA%B2%B0%EA%B3%BC%EB%AC%BC/ar-AA20ZVwE",
-        "publishedAt": "2026-04-18T15:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-18T15:30:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "최악",
-      "source": "MSN",
-      "url": "https://www.msn.com/ko-kr/news/other/%ED%86%A0%ED%8A%B8%EB%84%98-%EB%8C%80%ED%86%B5%EA%B3%A1-%EC%B5%9C%EC%95%85%EC%9D%98-%EB%A8%B9%ED%8A%80-%EC%82%AC%ED%83%9C-%ED%84%B0%EC%A7%84%EB%8B%A4-%ED%8F%AC%EC%8A%A4%ED%8A%B8-%EC%86%90%ED%9D%A5%EB%AF%BC-%EC%B2%BC%EC%8B%9C-%EB%A7%A8%EC%9C%A0%EA%B0%80-%EA%B0%95%ED%83%88-%EC%9E%84%EB%B0%95-%EC%96%B4%EC%9D%B4%EC%97%86%EB%8A%94-%EB%A7%A4%EA%B0%81-%ED%8C%90%EB%8B%A8-%EA%B2%B0%EA%B3%BC%EB%AC%BC/ar-AA20ZVwE",
-      "rank": 2
-    },
-    {
-      "id": "950498c5c4582e66",
-      "issueKey": "이지혜",
-      "issueTitle": "이지혜",
-      "trendTitle": "이지혜",
+      "id": "648ccb2c67f5c25e",
+      "issueKey": "정은원",
+      "issueTitle": "정은원",
+      "trendTitle": "정은원",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘세무사♥’ 이지혜, 명문고 다닌 반전 과거 “사춘기 세게 와 자퇴”(워킹맘이현이)",
+          "title": "'또 홈런에 무너졌다' 한화 2군, 이틀 연속 패배→2위로 추락하다…전의산, 투런-스리런 5타점 '대폭발'",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/18/MM2DQNRWHFRTAMBUMJRTONBQMQ/",
-          "publishedAt": "2026-04-18T15:10:00.000Z",
+          "url": "https://www.chosun.com/sports/baseball/2026/04/17/HAZTMNRXGBTDEY3GMJQWMZBRMM/",
+          "publishedAt": "2026-04-18T18:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이지혜, '반전' 유년 시절…\"명문 국악고 적성 안 맞아 자퇴\" (워킹맘이현이)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260418n11818",
-          "publishedAt": "2026-04-18T15:10:00.000Z",
+          "title": "한화 패패패패패에 우울한 팬들 주목하세요…2루수 GG 출신 정은원의 2홈런-7타점 맹폭, 6월에 돌아옵니다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/K9wrOxYCwY?f=p",
+          "publishedAt": "2026-04-18T18:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이지혜 \"국립국악고 자퇴 후 호주 유학 결심\" 과감한 선택의 이유는?",
-          "source": "스페셜타임스",
-          "url": "https://www.specialtimes.co.kr/news/articleView.html?idxno=441611",
-          "publishedAt": "2026-04-18T15:10:00.000Z",
+          "title": "‘개막시리즈 깜짝 스타→3경기 10실점→2군행’ 육성선수 출신 한화 투수, 퓨처스 첫 등판, 무실점 호투하다",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/04/16/202604151912772120O",
+          "publishedAt": "2026-04-18T18:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘세무사♥’ 이지혜, 명문고 다닌 반전 과거 “사춘기 세게 와 자퇴”(워킹맘이현이)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/04/18/MM2DQNRWHFRTAMBUMJRTONBQMQ/",
-        "publishedAt": "2026-04-18T15:10:00.000Z",
-        "relevanceScore": 3
+        "title": "한화 패패패패패에 우울한 팬들 주목하세요…2루수 GG 출신 정은원의 2홈런-7타점 맹폭, 6월에 돌아옵니다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/K9wrOxYCwY?f=p",
+        "publishedAt": "2026-04-18T18:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-04-18T15:10:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "이지혜",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/18/MM2DQNRWHFRTAMBUMJRTONBQMQ/",
-      "rank": 3
+      "publishedAt": "2026-04-18T18:50:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "정은원",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/K9wrOxYCwY?f=p",
+      "rank": 1
     },
     {
-      "id": "dd873bf94d1936ee",
-      "issueKey": "뉴캐슬",
-      "issueTitle": "뉴캐슬",
-      "trendTitle": "뉴캐슬",
+      "id": "df49e7f99f643776",
+      "issueKey": "첼시",
+      "issueTitle": "첼시",
+      "trendTitle": "첼시",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"내가 맨유를 간다고? 말 같지도 않은 소리\"...'첼시 에이스' 파머, 이적설 웃으며 반박→\"떠날 생각 없다\" 잔류 의지 강조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260419000133186",
+          "publishedAt": "2026-04-18T18:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"맨체스터는 내 고향이지만 가도 딱히 할 게 없어\" 첼시 에이스, 맨유 향수병+이적설 논란 '싹둑'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/18/ME2WKNLBMZTGKYLBMYZTOYTDMM/",
+          "publishedAt": "2026-04-18T18:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"맨유 이적설? 그냥 웃어요\" 팔머 본인 등판→이적설 완벽 차단…\"첼시 떠날 계획 없어\"",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260419n00414",
+          "publishedAt": "2026-04-18T18:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"내가 맨유를 간다고? 말 같지도 않은 소리\"...'첼시 에이스' 파머, 이적설 웃으며 반박→\"떠날 생각 없다\" 잔류 의지 강조",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260419000133186",
+        "publishedAt": "2026-04-18T18:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-18T18:50:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "첼시",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260419000133186",
+      "rank": 2
+    },
+    {
+      "id": "f89da4b7fa1067f4",
+      "issueKey": "노팅엄",
+      "issueTitle": "노팅엄",
+      "trendTitle": "노팅엄",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "무너진 기강 바로 세우러 재등판…무리뉴, 레알 마드리드 2기 의지 드러냈다 \"구단과 유대감 여전\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260418n02829?mid=n1007",
-          "publishedAt": "2026-04-18T15:10:00.000Z",
+          "title": "'손흥민도 이렇게 우승했어!' PL 16위 노팅엄, 유로파는 4강 진출...'기적 우승'까지 두 걸음→제2의 토트넘 될까",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/17/HEZTQZBXGZTGGNLEMJRTGZRXME/",
+          "publishedAt": "2026-04-18T18:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'컴백, 스페셜 원' 무리뉴, 여름에 포르투갈→EPL로 깜짝 복귀..뉴캐슬 영입 리스트에 올랐다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/04/16/MQYWCMZTGNQWEYRSHE2GGY3EG4/",
-          "publishedAt": "2026-04-18T15:10:00.000Z",
+          "title": "\"강등 조건 두루 갖춘' 토트넘, 유일한 잔류 희망은 '부상 악재+결정력 난조' 노팅엄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xLnkduDgWY",
+          "publishedAt": "2026-04-18T18:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "뉴캐슬은 대규모 인구 유출의 물결에 직면해 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/newcastle-doi-mat-lan-song-thao-chay",
-          "publishedAt": "2026-04-18T15:10:00.000Z",
+          "title": "기념촬영하는 FC 포르투 선수들",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3560161",
+          "publishedAt": "2026-04-18T18:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'컴백, 스페셜 원' 무리뉴, 여름에 포르투갈→EPL로 깜짝 복귀..뉴캐슬 영입 리스트에 올랐다",
+        "title": "'손흥민도 이렇게 우승했어!' PL 16위 노팅엄, 유로파는 4강 진출...'기적 우승'까지 두 걸음→제2의 토트넘 될까",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/04/16/MQYWCMZTGNQWEYRSHE2GGY3EG4/",
-        "publishedAt": "2026-04-18T15:10:00.000Z",
-        "relevanceScore": 2
+        "url": "https://www.chosun.com/sports/world-football/2026/04/17/HEZTQZBXGZTGGNLEMJRTGZRXME/",
+        "publishedAt": "2026-04-18T18:30:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-04-18T15:10:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "뉴캐슬",
+      "publishedAt": "2026-04-18T18:30:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "노팅엄",
       "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/04/16/MQYWCMZTGNQWEYRSHE2GGY3EG4/",
+      "url": "https://www.chosun.com/sports/world-football/2026/04/17/HEZTQZBXGZTGGNLEMJRTGZRXME/",
+      "rank": 3
+    },
+    {
+      "id": "a0bb2284d5ba896d",
+      "issueKey": "fotmob",
+      "issueTitle": "fotmob",
+      "trendTitle": "fotmob",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Liam Rosenior explains Joao Pedro absence against Man United | News | Official Site",
+          "source": "Chelsea official site",
+          "url": "https://www.chelseafc.com/en/news/article/liam-rosenior-explains-joao-pedro-absence-against-man-united",
+          "publishedAt": "2026-04-18T18:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Why Joao Pedro Isn’t Playing for Chelsea vs. Man Utd",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/why-joao-pedro-isnt-playing-chelsea-vs-man-utd-4-18-26",
+          "publishedAt": "2026-04-18T18:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Chelsea v Man Utd team news: Enzo starts + why Pedro is out",
+          "source": "Fantasy Football Scout",
+          "url": "https://www.fantasyfootballscout.co.uk/2026/04/18/chelsea-v-man-utd-team-news-enzo-starts-why-pedro-is-out/",
+          "publishedAt": "2026-04-18T18:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "fotmob",
+        "source": "Chelsea official site",
+        "url": "https://www.chelseafc.com/en/news/article/liam-rosenior-explains-joao-pedro-absence-against-man-united",
+        "publishedAt": "2026-04-18T18:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-18T18:20:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "fotmob",
+      "source": "Chelsea official site",
+      "url": "https://www.chelseafc.com/en/news/article/liam-rosenior-explains-joao-pedro-absence-against-man-united",
       "rank": 4
     },
     {
-      "id": "37b677bc07f603e7",
-      "issueKey": "미미 로즈",
-      "issueTitle": "미미 로즈",
-      "trendTitle": "미미 로즈",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "791f30a6a6497635",
+      "issueKey": "센터백 초비상",
+      "issueTitle": "센터백 초비상",
+      "trendTitle": "센터백 초비상",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘임창정이 만든 걸그룹’ 미미로즈, 4년만에 해체…“미안하고 고맙다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260417110147668?f=p",
-          "publishedAt": "2026-04-18T14:50:00.000Z",
+          "title": "캐릭의 맨유 센터백 초비상! 매과이어-리산드로 징계 결장+요로 부상 추가 이탈..첼시 원정 남은 건 19세 헤븐 달랑 1명",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/18/GE3GINRTMYZDSZLDG4ZTENJTGA/",
+          "publishedAt": "2026-04-18T18:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“임창정이 200억 투자해 만들었는데”…걸그룹 미미로즈 끝내 해체",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10719178",
-          "publishedAt": "2026-04-18T14:50:00.000Z",
+          "title": "'절망적이다' 맨체스터 유나이티드 '오열'...'1200억’ 2005년생 유리몸 전락했다, 시즌 아웃 유력! '당장 팔아' 매각 주장까지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1HLzM7wamI",
+          "publishedAt": "2026-04-18T18:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'임창정 걸그룹'의 결말…미미로즈, 방치 끝 해체 [이슈&톡]",
+          "title": "'수비 와르르' 맨유 대위기! '매과이어+리산드로 결장'인데 20세 DF마저 이탈…\"매우 실험적인 수비 나올 듯\"",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260418n04493",
-          "publishedAt": "2026-04-18T14:50:00.000Z",
+          "url": "https://news.nate.com/view/20260418n11597?mid=n1101",
+          "publishedAt": "2026-04-18T18:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "미미 로즈",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260417110147668?f=p",
-        "publishedAt": "2026-04-18T14:50:00.000Z",
+        "title": "캐릭의 맨유 센터백 초비상! 매과이어-리산드로 징계 결장+요로 부상 추가 이탈..첼시 원정 남은 건 19세 헤븐 달랑 1명",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/04/18/GE3GINRTMYZDSZLDG4ZTENJTGA/",
+        "publishedAt": "2026-04-18T18:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-18T14:50:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "미미 로즈",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260417110147668?f=p",
+      "publishedAt": "2026-04-18T18:10:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "센터백 초비상",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/04/18/GE3GINRTMYZDSZLDG4ZTENJTGA/",
       "rank": 5
     },
     {
-      "id": "576766c803edf11d",
-      "issueKey": "leeds vs wolves",
-      "issueTitle": "leeds vs wolves",
-      "trendTitle": "leeds vs wolves",
+      "id": "c0f99d7b441ca59d",
+      "issueKey": "웨스트햄",
+      "issueTitle": "웨스트햄",
+      "trendTitle": "웨스트햄",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Leeds 3-0 Wolves: Visitors on brink of relegation as Daniel Fark's side boost survival hopes",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cdrm2rl1md3t",
-          "publishedAt": "2026-04-18T14:40:00.000Z",
+          "title": "13위 크리스털 팰리스 '광란의 파티'…강등권 토트넘, 눈물 쏟는다→\"17위 웨스트햄과 맞대결 앞두고 밤새 놀다니\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260418002634423",
+          "publishedAt": "2026-04-18T17:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Daniel Farke provides fitness update ahead of Wolves clash",
-          "source": "Leeds United",
-          "url": "https://www.leedsunited.com/en/news/daniel-farke-provides-fitness-update-ahead-of-wolves-clash",
-          "publishedAt": "2026-04-18T14:40:00.000Z",
+          "title": "맨체스터 유나이티드 카세미루 후계자 찾았다! 현 주장, 전 주장 모두 반했다…\"1000억이면 영입할 수 있어, 맨유에 적합\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5TyRBvMVwM",
+          "publishedAt": "2026-04-18T17:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Leeds United's final 5 Premier League fixtures vs West Ham, Tottenham & other relegation rivals after Wolves win",
-          "source": "Yorkshire Evening Post",
-          "url": "https://www.yorkshireeveningpost.co.uk/sport/football/leeds-united/leeds-united-premier-league-fixtures-west-ham-tottenham-wolves-6702112",
-          "publishedAt": "2026-04-18T14:40:00.000Z",
+          "title": "맨체스터 유나이티드, 04년생 '英 국대 MF' 영입 손 떼나…\"마이누와 유사해 공존 어려울 것\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260418n09332?mid=n0100",
+          "publishedAt": "2026-04-18T17:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "leeds vs wolves",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cdrm2rl1md3t",
-        "publishedAt": "2026-04-18T14:40:00.000Z",
+        "title": "13위 크리스털 팰리스 '광란의 파티'…강등권 토트넘, 눈물 쏟는다→\"17위 웨스트햄과 맞대결 앞두고 밤새 놀다니\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260418002634423",
+        "publishedAt": "2026-04-18T17:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-18T14:40:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "leeds vs wolves",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cdrm2rl1md3t",
+      "publishedAt": "2026-04-18T17:10:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "웨스트햄",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260418002634423",
       "rank": 6
     },
     {
-      "id": "5b5bac02ea9641cc",
-      "issueKey": "함소원",
-      "issueTitle": "함소원",
-      "trendTitle": "함소원",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "f2270dfd679fd626",
+      "issueKey": "epl",
+      "issueTitle": "epl",
+      "trendTitle": "epl",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "함소원, 딸 '비만 판정' 공개했다가..\"엄마 자격 없어\" 비난 속출 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260418202437307",
-          "publishedAt": "2026-04-18T14:30:00.000Z",
+          "title": "Premier League LIVE: Tottenham vs Brighton",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cz7gz3xqy38t",
+          "publishedAt": "2026-04-18T17:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "함소원, 딸 비만 판정에 전남편 진화 원망…\"뭘 먹이는지\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260418_0003596715",
-          "publishedAt": "2026-04-18T14:30:00.000Z",
+          "title": "LIVE: Chelsea vs Manchester United – Premier League",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/4/18/live-chelsea-vs-manchester-united-english-premier-league",
+          "publishedAt": "2026-04-18T17:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "함소원, 이혼 후에도 전남편 진화 탓 \"딸 비만 판정..주말에 뭘 먹이는지\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811339",
-          "publishedAt": "2026-04-18T14:30:00.000Z",
+          "title": "Argentine duel in the Premier: Enzo and Garnacho v Licha Martínez",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/de/news/argentine-duel-in-the-premier-enzo-and-garnacho-v-licha-martinez-42730826",
+          "publishedAt": "2026-04-18T17:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "함소원, 딸 '비만 판정' 공개했다가..\"엄마 자격 없어\" 비난 속출 [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260418202437307",
-        "publishedAt": "2026-04-18T14:30:00.000Z",
+        "title": "epl",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cz7gz3xqy38t",
+        "publishedAt": "2026-04-18T17:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-18T14:30:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "함소원",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260418202437307",
+      "publishedAt": "2026-04-18T17:00:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "epl",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/cz7gz3xqy38t",
       "rank": 7
     },
     {
-      "id": "217893b9dfb96a51",
-      "issueKey": "이주연",
-      "issueTitle": "이주연",
-      "trendTitle": "이주연",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "61dabee2bdb3ba2e",
+      "issueKey": "회계",
+      "issueTitle": "회계",
+      "trendTitle": "회계",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "지드래곤과 열애설 이주연 \"남자 아이돌 그룹서 1명씩은 내게 대시\"(전참시)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260418n12262",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
+          "title": "[OTT산업 톺아보기] ④ 쿠팡플레이, '회계·과세' 논란...지속 가능성 시험대",
+          "source": "한스경제",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833838",
+          "publishedAt": "2026-04-18T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이주연 \"모든 남자 그룹서 대시 받아\" 폭탄 고백…양상국 '역대급 헛구역질 양치'에 이영자 비명('전참시')",
+          "title": "이미숙, 이수지와 매력 경쟁? 우아함 벗고 제대로 망가졌다 \"신기한 경험\" ('SNL')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260419001008319?f=m",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
+          "url": "https://v.daum.net/v/0sg8IL3GGE",
+          "publishedAt": "2026-04-18T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이주연 \"애프터스쿨 시절, 남자 아이돌 그룹마다 대시\"(전참시)[순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/18/MUYGEMRUGZRDQYRVGU4DCYJWHE/",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
+          "title": "한가인 \"원 없이 망가지고파\"…'SNL 코리아8' 출연",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260417_0003596157",
+          "publishedAt": "2026-04-18T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "지드래곤과 열애설 이주연 \"남자 아이돌 그룹서 1명씩은 내게 대시\"(전참시)",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260418n12262",
-        "publishedAt": "2026-04-18T14:20:00.000Z",
+        "title": "[OTT산업 톺아보기] ④ 쿠팡플레이, '회계·과세' 논란...지속 가능성 시험대",
+        "source": "한스경제",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833838",
+        "publishedAt": "2026-04-18T16:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-18T14:20:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "이주연",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260418n12262",
+      "publishedAt": "2026-04-18T16:30:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "회계",
+      "source": "한스경제",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833838",
       "rank": 8
     },
     {
-      "id": "4d1a21b4440ff3e3",
-      "issueKey": "유지태",
-      "issueTitle": "유지태",
-      "trendTitle": "유지태",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "5a79b2ae07ef8b95",
+      "issueKey": "막긴 부족했다",
+      "issueTitle": "막긴 부족했다",
+      "trendTitle": "막긴 부족했다",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'1600만 의리남' 유지태, '왕사남' 정진운 전시회 참석...보기 좋은 선후배 투샷",
+          "title": "황희찬 사실상 끝났다, 소속팀 울버햄튼과 함께 2부 리그 추락 임박...'한국인 프리미어리거' 전멸 위기",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260417114059408",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
+          "url": "https://v.daum.net/v/9sjop4vml2",
+          "publishedAt": "2026-04-18T16:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'왕사남'으로 맺은 인연…정진운, 유지태 방문에 \"큰 동기부여 됐다\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260417n31352?mid=e1100",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
+          "title": "'평균 6.16점' 황희찬, 꼴찌 팀에서도 꼴찌라니...'강등 100%' 속 불명예 \"울버햄튼 자체가 시즌 내내 최악\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/18/GNRGKNZSMRRWCMTBMVRDEZBQGI/",
+          "publishedAt": "2026-04-18T16:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "정진운 전시에 유지태 등장…\"이 조합 감당 가능하시겠습니까\" [MD★스타]",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026041807243093220",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
+          "title": "[PL·리뷰] 황희찬 좌절 ‘교체+15분 활약’ 팀 패배 막긴 부족했다···울버햄튼, 리즈에 0-3 패 ‘2부 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202604190124003",
+          "publishedAt": "2026-04-18T16:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'1600만 의리남' 유지태, '왕사남' 정진운 전시회 참석...보기 좋은 선후배 투샷",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260417114059408",
-        "publishedAt": "2026-04-18T14:20:00.000Z",
-        "relevanceScore": 3
+        "title": "[PL·리뷰] 황희찬 좌절 ‘교체+15분 활약’ 팀 패배 막긴 부족했다···울버햄튼, 리즈에 0-3 패 ‘2부 ...",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202604190124003",
+        "publishedAt": "2026-04-18T16:20:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-04-18T14:20:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "유지태",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260417114059408",
+      "publishedAt": "2026-04-18T16:20:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "막긴 부족했다",
+      "source": "스포츠경향",
+      "url": "https://sports.khan.co.kr/article/202604190124003",
       "rank": 9
-    },
-    {
-      "id": "fd8132c77250bb9a",
-      "issueKey": "전지현",
-      "issueTitle": "전지현",
-      "trendTitle": "전지현",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "전지현, '뼈말라' 경종 울린 근육질 여신 미모...명품 앰배서더 압도적 자태",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ZnRJBGiPhk",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전지현, '뼈말라'와 대비되는 근육질 어깨에 반전 볼륨...스위스에서 '자연미인의 위엄' 드러내",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811291",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "전지현 '안팎이 너무 달라, 블랙 재킷 안 과감한 민소매 패션' [틀린그림찾기]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260418n01879",
-          "publishedAt": "2026-04-18T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전지현, '뼈말라' 경종 울린 근육질 여신 미모...명품 앰배서더 압도적 자태",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ZnRJBGiPhk",
-        "publishedAt": "2026-04-18T14:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-18T14:20:00.000Z",
-      "firstSeenAt": "2026-04-18T17:04:26.623Z",
-      "lastSeenAt": "2026-04-18T17:04:26.623Z",
-      "title": "전지현",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/ZnRJBGiPhk",
-      "rank": 10
     }
   ],
   "history": [
@@ -575,6 +528,52 @@
       "title": "박나래",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260418135809497"
+    },
+    {
+      "id": "791f30a6a6497635",
+      "issueKey": "센터백 초비상",
+      "issueTitle": "센터백 초비상",
+      "trendTitle": "센터백 초비상",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "캐릭의 맨유 센터백 초비상! 매과이어-리산드로 징계 결장+요로 부상 추가 이탈..첼시 원정 남은 건 19세 헤븐 달랑 1명",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/18/GE3GINRTMYZDSZLDG4ZTENJTGA/",
+          "publishedAt": "2026-04-18T18:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'절망적이다' 맨체스터 유나이티드 '오열'...'1200억’ 2005년생 유리몸 전락했다, 시즌 아웃 유력! '당장 팔아' 매각 주장까지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1HLzM7wamI",
+          "publishedAt": "2026-04-18T18:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'수비 와르르' 맨유 대위기! '매과이어+리산드로 결장'인데 20세 DF마저 이탈…\"매우 실험적인 수비 나올 듯\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260418n11597?mid=n1101",
+          "publishedAt": "2026-04-18T18:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "캐릭의 맨유 센터백 초비상! 매과이어-리산드로 징계 결장+요로 부상 추가 이탈..첼시 원정 남은 건 19세 헤븐 달랑 1명",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/04/18/GE3GINRTMYZDSZLDG4ZTENJTGA/",
+        "publishedAt": "2026-04-18T18:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-18T18:10:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "센터백 초비상",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/04/18/GE3GINRTMYZDSZLDG4ZTENJTGA/"
     },
     {
       "id": "da6b9174cdf15e47",
@@ -759,6 +758,144 @@
       "title": "공포 영화",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026041788017"
+    },
+    {
+      "id": "f2270dfd679fd626",
+      "issueKey": "epl",
+      "issueTitle": "epl",
+      "trendTitle": "epl",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Premier League LIVE: Tottenham vs Brighton",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cz7gz3xqy38t",
+          "publishedAt": "2026-04-18T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "LIVE: Chelsea vs Manchester United – Premier League",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/liveblog/2026/4/18/live-chelsea-vs-manchester-united-english-premier-league",
+          "publishedAt": "2026-04-18T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Argentine duel in the Premier: Enzo and Garnacho v Licha Martínez",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/de/news/argentine-duel-in-the-premier-enzo-and-garnacho-v-licha-martinez-42730826",
+          "publishedAt": "2026-04-18T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "epl",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cz7gz3xqy38t",
+        "publishedAt": "2026-04-18T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-18T17:00:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "epl",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/cz7gz3xqy38t"
+    },
+    {
+      "id": "61dabee2bdb3ba2e",
+      "issueKey": "회계",
+      "issueTitle": "회계",
+      "trendTitle": "회계",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[OTT산업 톺아보기] ④ 쿠팡플레이, '회계·과세' 논란...지속 가능성 시험대",
+          "source": "한스경제",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833838",
+          "publishedAt": "2026-04-18T16:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이미숙, 이수지와 매력 경쟁? 우아함 벗고 제대로 망가졌다 \"신기한 경험\" ('SNL')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0sg8IL3GGE",
+          "publishedAt": "2026-04-18T16:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한가인 \"원 없이 망가지고파\"…'SNL 코리아8' 출연",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260417_0003596157",
+          "publishedAt": "2026-04-18T16:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[OTT산업 톺아보기] ④ 쿠팡플레이, '회계·과세' 논란...지속 가능성 시험대",
+        "source": "한스경제",
+        "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833838",
+        "publishedAt": "2026-04-18T16:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-18T16:30:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "회계",
+      "source": "한스경제",
+      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833838"
+    },
+    {
+      "id": "5a79b2ae07ef8b95",
+      "issueKey": "막긴 부족했다",
+      "issueTitle": "막긴 부족했다",
+      "trendTitle": "막긴 부족했다",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "황희찬 사실상 끝났다, 소속팀 울버햄튼과 함께 2부 리그 추락 임박...'한국인 프리미어리거' 전멸 위기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9sjop4vml2",
+          "publishedAt": "2026-04-18T16:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'평균 6.16점' 황희찬, 꼴찌 팀에서도 꼴찌라니...'강등 100%' 속 불명예 \"울버햄튼 자체가 시즌 내내 최악\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/18/GNRGKNZSMRRWCMTBMVRDEZBQGI/",
+          "publishedAt": "2026-04-18T16:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[PL·리뷰] 황희찬 좌절 ‘교체+15분 활약’ 팀 패배 막긴 부족했다···울버햄튼, 리즈에 0-3 패 ‘2부 ...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202604190124003",
+          "publishedAt": "2026-04-18T16:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[PL·리뷰] 황희찬 좌절 ‘교체+15분 활약’ 팀 패배 막긴 부족했다···울버햄튼, 리즈에 0-3 패 ‘2부 ...",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202604190124003",
+        "publishedAt": "2026-04-18T16:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-18T16:20:00.000Z",
+      "firstSeenAt": "2026-04-18T19:55:33.776Z",
+      "lastSeenAt": "2026-04-18T19:55:33.776Z",
+      "title": "막긴 부족했다",
+      "source": "스포츠경향",
+      "url": "https://sports.khan.co.kr/article/202604190124003"
     },
     {
       "id": "10fc3c7de9f36c6d",
@@ -1265,98 +1402,6 @@
       "title": "สภาพอากาศ",
       "source": "ข่าวสด",
       "url": "https://www.khaosod.co.th/breaking-news/news_10211588"
-    },
-    {
-      "id": "5a8e2a1c6bbc9809",
-      "issueKey": "늑구",
-      "issueTitle": "늑구",
-      "trendTitle": "늑구",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보] 오월드 탈출 늑대 '늑구' 추정 뿌리공원 인근서 목격 신고",
-          "source": "티제이비",
-          "url": "https://www.tjb.co.kr/news05/bodo/view/id/97219/version/1",
-          "publishedAt": "2026-04-16T16:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[속보]늑구 열흘만 포획 성공…“오월드로 옮겨, 건강 이상 없어”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11582904",
-          "publishedAt": "2026-04-16T16:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "단잠 자던 늑구, 드론 소리에 화들짝… 대체 어디 있니",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/04/16/BA4IO2LSXBGXBHL5VESS6I6BCU/",
-          "publishedAt": "2026-04-16T16:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보] 오월드 탈출 늑대 '늑구' 추정 뿌리공원 인근서 목격 신고",
-        "source": "티제이비",
-        "url": "https://www.tjb.co.kr/news05/bodo/view/id/97219/version/1",
-        "publishedAt": "2026-04-16T16:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-16T16:50:00.000Z",
-      "firstSeenAt": "2026-04-16T18:49:23.809Z",
-      "lastSeenAt": "2026-04-16T18:49:23.809Z",
-      "title": "늑구",
-      "source": "티제이비",
-      "url": "https://www.tjb.co.kr/news05/bodo/view/id/97219/version/1"
-    },
-    {
-      "id": "7aec1b1fd3c2612d",
-      "issueKey": "공매도",
-      "issueTitle": "공매도",
-      "trendTitle": "공매도",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"고점 곧 온다\"…'공매도 실탄' 160조 육박 사상 최고치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260416181301830",
-          "publishedAt": "2026-04-16T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "외국인 ‘사자’ vs 공매도 ‘역대 최대’…엇갈린 신호에 코스피 ‘긴장’ - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/04/15/GQZUFVQJVVALBKI2SD77D22DUY/",
-          "publishedAt": "2026-04-16T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "공매도 잔고 또 최고치 경신…한미반도체·현대차 등 많아",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260414182716LeJ",
-          "publishedAt": "2026-04-16T14:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"고점 곧 온다\"…'공매도 실탄' 160조 육박 사상 최고치",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260416181301830",
-        "publishedAt": "2026-04-16T14:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-16T14:50:00.000Z",
-      "firstSeenAt": "2026-04-16T18:49:23.809Z",
-      "lastSeenAt": "2026-04-16T18:49:23.809Z",
-      "title": "공매도",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260416181301830"
     },
     {
       "id": "5b5bac02ea9641cc",
@@ -2252,98 +2297,6 @@
       "title": "임찬규",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260418150835291"
-    },
-    {
-      "id": "07c5310f258decb2",
-      "issueKey": "박진만",
-      "issueTitle": "박진만",
-      "trendTitle": "박진만",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "하늘이 도왔다! 박승규마저 빠진 삼성, 우천 취소로 한숨 돌렸다 [오!쎈 대구]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/04/17/GBRDENZWMI3DMNRRMIZGGZLGGY/",
-          "publishedAt": "2026-04-17T21:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "승리의 하이파이브 박진만 감독, 6연승 가자!",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260416n35265",
-          "publishedAt": "2026-04-17T21:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이럴수가! 박승규, 왼쪽 허벅지 통증 선발 제외...\"대타는 가능\" [오!쎈 대구]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/04/17/202604171619778243O",
-          "publishedAt": "2026-04-17T21:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "승리의 하이파이브 박진만 감독, 6연승 가자!",
-        "source": "네이트",
-        "url": "https://m.news.nate.com/view/20260416n35265",
-        "publishedAt": "2026-04-17T21:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-17T21:30:00.000Z",
-      "firstSeenAt": "2026-04-17T23:10:11.097Z",
-      "lastSeenAt": "2026-04-17T23:10:11.097Z",
-      "title": "박진만",
-      "source": "네이트",
-      "url": "https://m.news.nate.com/view/20260416n35265"
-    },
-    {
-      "id": "bc3dc4adc338cad5",
-      "issueKey": "재테크",
-      "issueTitle": "재테크",
-      "trendTitle": "재테크",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'국민 재테크' ETF 순자산 400조원 돌파",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260417002300038",
-          "publishedAt": "2026-04-17T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“반도체 테마 이어 로봇·우주·방산…연금 머니무브 타고 연내 500조”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20032989",
-          "publishedAt": "2026-04-17T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "ETF 400조 시대… ‘액티브 ETF’도 100조 돌파",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/04/17/6NAYIJNKCVE27DT64VVEQC3R4Q/",
-          "publishedAt": "2026-04-17T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'국민 재테크' ETF 순자산 400조원 돌파",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260417002300038",
-        "publishedAt": "2026-04-17T21:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-17T21:20:00.000Z",
-      "firstSeenAt": "2026-04-17T23:10:11.097Z",
-      "lastSeenAt": "2026-04-17T23:10:11.097Z",
-      "title": "재테크",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/MYH20260417002300038"
     }
   ]
 }
