@@ -7,433 +7,466 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-04-19T22:04:56.385Z",
+  "lastUpdatedAt": "2026-04-20T07:28:39.983Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "d2a4e45a469d190f",
-      "issueKey": "엔비디아",
-      "issueTitle": "엔비디아",
-      "trendTitle": "엔비디아",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "테라텍-엣지에이아이, 국산 NPU 기반 AI 인프라 생태계 확장에 '맞손'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260417000118",
-          "publishedAt": "2026-04-19T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "리벨리온, 차세대NPU '리벨100'공개…\"엔비디아 최고제품과 경쟁\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/future/2026/04/19/2026041910592868835",
-          "publishedAt": "2026-04-19T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "IT서비스업계, 국산 NPU 실증 잇달아 나서…“GPU 의존 낮춘다”",
-          "source": "디지털데일리",
-          "url": "https://www.ddaily.co.kr/page/view/2026041715345585466",
-          "publishedAt": "2026-04-19T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "리벨리온, 차세대NPU '리벨100'공개…\"엔비디아 최고제품과 경쟁\"",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/future/2026/04/19/2026041910592868835",
-        "publishedAt": "2026-04-19T21:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-19T21:00:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "엔비디아",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/future/2026/04/19/2026041910592868835",
-      "rank": 1
-    },
-    {
-      "id": "e8b58f67541b18bd",
-      "issueKey": "천안시",
-      "issueTitle": "천안시",
-      "trendTitle": "천안시",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"최대 5개 구매 가능\" 종량제 봉투 대란 한달째 지속",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260419191035345",
-          "publishedAt": "2026-04-19T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "천안시, 중동발 수급 불안에 '종량제 봉투 판매소 안내 표준안' 배포",
-          "source": "중도일보",
-          "url": "https://m.joongdo.co.kr/view.php?key=20260419010005420",
-          "publishedAt": "2026-04-19T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "가평군, 종량제봉투 95만장 추가 제작…재고 보충",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260417_0003595762",
-          "publishedAt": "2026-04-19T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "천안시, 중동발 수급 불안에 '종량제 봉투 판매소 안내 표준안' 배포",
-        "source": "중도일보",
-        "url": "https://m.joongdo.co.kr/view.php?key=20260419010005420",
-        "publishedAt": "2026-04-19T20:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-19T20:50:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "천안시",
-      "source": "중도일보",
-      "url": "https://m.joongdo.co.kr/view.php?key=20260419010005420",
-      "rank": 2
-    },
-    {
-      "id": "68e69c7b9c4cbd3e",
-      "issueKey": "퇴장",
-      "issueTitle": "퇴장",
-      "trendTitle": "퇴장",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'연체료 40弗'로 세운 넷플 제국…헤이스팅스 '30년 혁신 여정' 마침표[CEO 스토리]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260417_0003596186",
-          "publishedAt": "2026-04-19T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "역대급 성장에도 주가 '와르르'…넷플릭스, 10% 급락 '충격'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260420062303657",
-          "publishedAt": "2026-04-19T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "넷플릭스, ‘새 시대’ 진입…헤이스팅스 퇴장·광고 확대",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/04/2026041917420744379a1f309431_1",
-          "publishedAt": "2026-04-19T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "넷플릭스, ‘새 시대’ 진입…헤이스팅스 퇴장·광고 확대",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/04/2026041917420744379a1f309431_1",
-        "publishedAt": "2026-04-19T20:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-04-19T20:50:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "퇴장",
-      "source": "글로벌이코노믹",
-      "url": "https://www.g-enews.com/article/Global-Biz/2026/04/2026041917420744379a1f309431_1",
-      "rank": 3
-    },
-    {
-      "id": "1fac0650eb6a6c39",
-      "issueKey": "복권",
-      "issueTitle": "복권",
-      "trendTitle": "복권",
+      "id": "f06849327b813f95",
+      "issueKey": "최불암",
+      "issueTitle": "최불암",
+      "trendTitle": "최불암",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘유재석 꿈’ 또 1등 복권 됐다…5억 당첨자 무슨 꿈 꿨나보니",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260418185325949",
-          "publishedAt": "2026-04-19T20:40:00.000Z",
+          "title": "‘건강이상설’ 최불암, 5월 다큐로 근황 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/k-culture/2026/04/20/KYFJKQYZWZF77H42U3MWLF5XRA/",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "유재석 꿈꾼 후 '복권 1등 당첨' 사연 화제",
+          "title": "최불암, 건강이상설 딛고 복귀…MBC 특집 다큐로 근황 공개",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260419_0003596860",
-          "publishedAt": "2026-04-19T20:40:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260420_0003598077",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "대박! 유재석 꿈…또! 복권 1등 나왔다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202604191517003",
-          "publishedAt": "2026-04-19T20:40:00.000Z",
+          "title": "'건강이상설' 최불암, 다큐로 컴백 \"감사 전하고픈 광대의 마음\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026042026357",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘유재석 꿈’ 또 1등 복권 됐다…5억 당첨자 무슨 꿈 꿨나보니",
-        "source": "미주중앙일보",
-        "url": "https://www.koreadaily.com/article/20260418185325949",
-        "publishedAt": "2026-04-19T20:40:00.000Z",
+        "title": "‘건강이상설’ 최불암, 5월 다큐로 근황 공개",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/k-culture/2026/04/20/KYFJKQYZWZF77H42U3MWLF5XRA/",
+        "publishedAt": "2026-04-20T06:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-19T20:40:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "복권",
-      "source": "미주중앙일보",
-      "url": "https://www.koreadaily.com/article/20260418185325949",
-      "rank": 4
+      "publishedAt": "2026-04-20T06:10:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "최불암",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/culture-life/k-culture/2026/04/20/KYFJKQYZWZF77H42U3MWLF5XRA/",
+      "rank": 1
     },
     {
-      "id": "fc49cdc7241034f9",
-      "issueKey": "뉴욕 메츠",
-      "issueTitle": "뉴욕 메츠",
-      "trendTitle": "뉴욕 메츠",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'다저스보다 돈 더 썼는데' 이러다 탱킹할라…'ML 연봉 1위' 9연패, 꼴찌 추락 대굴욕",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FhMO9ZoMlN",
-          "publishedAt": "2026-04-19T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "선수 몸값으로 쓴 돈만 5170억, 이 돈 쓰고 지기도 어렵겠다...메츠 충격 10연패, 현실 맞나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/04/19/G5SGEYTDGI3TMMZUGEYDMYLCGM/",
-          "publishedAt": "2026-04-19T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'우승 후보의 철저한 몰락' 뉴욕 메츠, 최악의 11연패→ML 전체 꼴찌",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260420n02760",
-          "publishedAt": "2026-04-19T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'우승 후보의 철저한 몰락' 뉴욕 메츠, 최악의 11연패→ML 전체 꼴찌",
-        "source": "네이트 스포츠",
-        "url": "https://sports.news.nate.com/view/20260420n02760",
-        "publishedAt": "2026-04-19T20:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-04-19T20:40:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "뉴욕 메츠",
-      "source": "네이트 스포츠",
-      "url": "https://sports.news.nate.com/view/20260420n02760",
-      "rank": 5
-    },
-    {
-      "id": "a253356ef7e370e8",
-      "issueKey": "오클라호마시티 대 피닉스",
-      "issueTitle": "오클라호마시티 대 피닉스",
-      "trendTitle": "오클라호마시티 대 피닉스",
+      "id": "6380357056a37d92",
+      "issueKey": "김혜성",
+      "issueTitle": "김혜성",
+      "trendTitle": "김혜성",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Where to watch Phoenix Suns vs Oklahoma City Thunder Playoffs: TV channel, start time, streaming for April 19",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/sports/nba/2026/04/19/phoenix-suns-oklahoma-city-thunder-playoffs-channel-stream-time-nba/89687894007/",
-          "publishedAt": "2026-04-19T20:30:00.000Z",
+          "title": "김혜성, 2루타 포함 멀티히트…시즌 타율 3할대 진입",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/04/20/PNXB4D3F6FAKZLE5SFQUVNCMVI/",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Chet Holmgren beats the buzzer with an OKC trey",
-          "source": "ESPN",
-          "url": "https://www.espn.com/video/clip/_/id/48534183",
-          "publishedAt": "2026-04-19T20:30:00.000Z",
+          "title": "김혜성 잡아보려 2구 연속 ABS 챌린지→다음 공에 바로 2루타…견제 뚫고 멀티히트 맹타, 이대로면 ML 남을 수밖에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260420101435469",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Thunder vs. Suns odds, prediction, time: 2026 NBA playoff picks, April 19 best bets by proven model",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nba/news/thunder-suns-odds-line-spread-prediction-start-time-2026-nba-playoff-picks-april-19-best-bets/",
-          "publishedAt": "2026-04-19T20:30:00.000Z",
+          "title": "LA 다저스 김혜성, 2루타 포함 멀티히트‥팀은 시즌 첫 연패",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6816497_36946.html",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "오클라호마시티 대 피닉스",
-        "source": "USA Today",
-        "url": "https://www.usatoday.com/story/sports/nba/2026/04/19/phoenix-suns-oklahoma-city-thunder-playoffs-channel-stream-time-nba/89687894007/",
-        "publishedAt": "2026-04-19T20:30:00.000Z",
+        "title": "김혜성, 2루타 포함 멀티히트…시즌 타율 3할대 진입",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-baseball/2026/04/20/PNXB4D3F6FAKZLE5SFQUVNCMVI/",
+        "publishedAt": "2026-04-20T06:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-19T20:30:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "오클라호마시티 대 피닉스",
-      "source": "USA Today",
-      "url": "https://www.usatoday.com/story/sports/nba/2026/04/19/phoenix-suns-oklahoma-city-thunder-playoffs-channel-stream-time-nba/89687894007/",
+      "publishedAt": "2026-04-20T06:10:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "김혜성",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-baseball/2026/04/20/PNXB4D3F6FAKZLE5SFQUVNCMVI/",
+      "rank": 2
+    },
+    {
+      "id": "7ba7d1ed8b918e46",
+      "issueKey": "박준형",
+      "issueTitle": "박준형",
+      "trendTitle": "박준형",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "낼모래 60세 박준형 \"3시간 노래·춤 가능, god 100회 공연 덕분\"(침착맨)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260420n23300",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'와썹맨' 박준형이 돌아왔다…레전드 웹 예능의 귀환",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260418094001898",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'와썹맨' 박준형, 4년 만에 복귀…젠지 겨냥한 업그레이드 연출",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6140862",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "낼모래 60세 박준형 \"3시간 노래·춤 가능, god 100회 공연 덕분\"(침착맨)",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260420n23300",
+        "publishedAt": "2026-04-20T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T06:10:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "박준형",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260420n23300",
+      "rank": 3
+    },
+    {
+      "id": "96fc1cb747171df2",
+      "issueKey": "new zealand vs bangladesh",
+      "issueTitle": "new zealand vs bangladesh",
+      "trendTitle": "new zealand vs bangladesh",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Batting a worry for Bangladesh as clinical New Zealand look to sew up series",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/new-zealand-in-bangladesh-2026-1528267/bangladesh-vs-new-zealand-2nd-odi-1528273/match-preview",
+          "publishedAt": "2026-04-20T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Tom Latham wins toss and New Zealand bats first against Bangladesh in second ODI",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/sports/2026/04/20/cricket-bangaldesh-new-zealand-odi/ba09a68e-3c78-11f1-bb46-ed564688d953_story.html",
+          "publishedAt": "2026-04-20T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Unchanged New Zealand bat first; Soumya Sarkar replaces Afif Hossain for Bangladesh",
+          "source": "ESPN Singapore",
+          "url": "https://www.espn.com.sg/cricket/story/_/id/48537913/ban-vs-nz-2nd-odi-unchanged-new-zealand-bat-first-soumya-sarkar-replaces-afif-hossain-bangladesh",
+          "publishedAt": "2026-04-20T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "new zealand vs bangladesh",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/new-zealand-in-bangladesh-2026-1528267/bangladesh-vs-new-zealand-2nd-odi-1528273/match-preview",
+        "publishedAt": "2026-04-20T06:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T06:00:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "new zealand vs bangladesh",
+      "source": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/series/new-zealand-in-bangladesh-2026-1528267/bangladesh-vs-new-zealand-2nd-odi-1528273/match-preview",
+      "rank": 4
+    },
+    {
+      "id": "53669a83669f0b4f",
+      "issueKey": "kbl",
+      "issueTitle": "kbl",
+      "trendTitle": "kbl",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 1,
+      "articleCount": 1,
+      "relatedArticles": [
+        {
+          "title": "'Home Team' SK Alleged Intentional Loss: Choi Jun-yong Responds Directly, \"Even If I Were Coach, I'd Want to Avoid KCC\" [Busan On-Site]",
+          "source": "www.starnewskorea.com",
+          "url": "https://www.starnewskorea.com/en/sports/2026/04/18/2026041722113982955",
+          "publishedAt": "2026-04-20T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "kbl",
+        "source": "www.starnewskorea.com",
+        "url": "https://www.starnewskorea.com/en/sports/2026/04/18/2026041722113982955",
+        "publishedAt": "2026-04-20T05:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-20T05:50:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "kbl",
+      "source": "www.starnewskorea.com",
+      "url": "https://www.starnewskorea.com/en/sports/2026/04/18/2026041722113982955",
+      "rank": 5
+    },
+    {
+      "id": "ff99fc88f9b15cb4",
+      "issueKey": "화물 연대",
+      "issueTitle": "화물 연대",
+      "trendTitle": "화물 연대",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "CU 진주물류센터에서 집회 도중 화물연대 조합원 1명 사망, 2명 부상",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/yeongnam/1255005.html",
+          "publishedAt": "2026-04-20T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "진주서 시위하던 화물연대 조합원 화물차와 충돌...1명 심정지·2명 부상",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/04/20/YTUMK344FFB6LGHPXPUSZ3H6VU/",
+          "publishedAt": "2026-04-20T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "화물연대, 진주서 탑차 이동 막아서다 사고…1명 사망",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
+          "publishedAt": "2026-04-20T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "화물 연대",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/area/yeongnam/1255005.html",
+        "publishedAt": "2026-04-20T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T05:50:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "화물 연대",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/area/yeongnam/1255005.html",
       "rank": 6
     },
     {
-      "id": "9e686d54653521df",
-      "issueKey": "화물선에 발포",
-      "issueTitle": "화물선에 발포",
-      "trendTitle": "유조선",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "7358c9000fd00cd9",
+      "issueKey": "박철우",
+      "issueTitle": "박철우",
+      "trendTitle": "박철우",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "미군, 이란 화물선에 발포·나포한듯…트럼프 \"기관실 구멍냈다\"(종합)",
+          "title": "'선수 출신' 아내가 본 '지도자' 박철우 \"남편은 천재형 아닌 노력형... 항상 메모하던 모습 떠올라\" [인터뷰]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260420053619676",
-          "publishedAt": "2026-04-19T20:30:00.000Z",
+          "url": "https://v.daum.net/v/20260420104932315",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "몇주면 휘발유값 내린다던 美에너지장관 \"내년에야 가능\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01754806645418088",
-          "publishedAt": "2026-04-19T20:30:00.000Z",
+          "title": "'와 이런 구단이 있나' 우리카드 왜 파격 전략 택했나…언제나 '장충이'들 생각뿐, 신임 감독 박철우도 감격 \"감동이었다\"",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260420n17707",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "트럼프, 백악관 상황실 회의 소집···이란 선박 나포 ‘작전 확대’ 준비도",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202604191613001",
-          "publishedAt": "2026-04-19T20:30:00.000Z",
+          "title": "왕조 건설! 첫삽 뜬다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202604170452006",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "미군, 이란 화물선에 발포·나포한듯…트럼프 \"기관실 구멍냈다\"(종합)",
+        "title": "'선수 출신' 아내가 본 '지도자' 박철우 \"남편은 천재형 아닌 노력형... 항상 메모하던 모습 떠올라\" [인터뷰]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260420053619676",
-        "publishedAt": "2026-04-19T20:30:00.000Z",
+        "url": "https://v.daum.net/v/20260420104932315",
+        "publishedAt": "2026-04-20T05:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-19T20:30:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "화물선에 발포",
+      "publishedAt": "2026-04-20T05:40:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "박철우",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260420053619676",
+      "url": "https://v.daum.net/v/20260420104932315",
       "rank": 7
     },
     {
-      "id": "b46fa208d9de21d2",
-      "issueKey": "시장",
-      "issueTitle": "시장",
-      "trendTitle": "시장",
+      "id": "a4790497e8dbe3ff",
+      "issueKey": "공정위",
+      "issueTitle": "공정위",
+      "trendTitle": "김범석",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "전재수 무혐의 뒤… 일부 조사서 박형준과 격차 되레 한자릿수로",
+          "title": "‘쿠팡 총수 김범석’ 되나... 공정위, 다음주 쿠팡 동일인 지정 결론 예정",
           "source": "조선일보",
-          "url": "https://www.chosun.com/politics/election2026/2026/04/20/CGOFQDVRQFHARK3QYSTFSFIZ7Y/",
-          "publishedAt": "2026-04-19T20:20:00.000Z",
+          "url": "https://www.chosun.com/economy/economy_general/2026/04/20/RT7ZKGVZQREXBCQMOR6V55QQKE/",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "전직 해수부 장관 vs 현직 부산시장…부산 민심은?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260420065406063",
-          "publishedAt": "2026-04-19T20:20:00.000Z",
+          "title": "김범석 의장, 쿠팡 ‘총수’ 되나…공정위, 내주쯤 결론",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260420/133771909/1",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[르포]\"부산 떠나는 이유요? 일자리죠\"…시장 선거 앞둔 민심의 한목소리",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6504657",
-          "publishedAt": "2026-04-19T20:20:00.000Z",
+          "title": "쿠팡 동일인 ‘법인→김범석’ 변경 기로…내주 결론 낸다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10720746",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "전직 해수부 장관 vs 현직 부산시장…부산 민심은?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260420065406063",
-        "publishedAt": "2026-04-19T20:20:00.000Z",
-        "relevanceScore": 2
+        "title": "‘쿠팡 총수 김범석’ 되나... 공정위, 다음주 쿠팡 동일인 지정 결론 예정",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/04/20/RT7ZKGVZQREXBCQMOR6V55QQKE/",
+        "publishedAt": "2026-04-20T05:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-04-19T20:20:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "시장",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260420065406063",
+      "publishedAt": "2026-04-20T05:40:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "공정위",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/economy_general/2026/04/20/RT7ZKGVZQREXBCQMOR6V55QQKE/",
       "rank": 8
     },
     {
-      "id": "b9991b4330fe3b33",
-      "issueKey": "psg vs lyon",
-      "issueTitle": "psg vs lyon",
-      "trendTitle": "psg vs lyon",
+      "id": "f3078cfd858d42fe",
+      "issueKey": "이수지",
+      "issueTitle": "이수지",
+      "trendTitle": "이수지",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“진짜 빌런은 원장”…이수지 ‘유치원 패러디’에 교사들 뜻밖 폭로",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25421510",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "유치원 교사에 갑질, 명품과 사교육엔 환장… 배꼽 잡다 \"혹시 내 얘긴가?\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/weekend/2026/04/18/AMJK3WJNTJDPBJGGCZHF3RWKNY/",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"가장 큰 피해는 아이들\" 김동완, 이수지 유치원 교사 영상에 공감",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260418130605038",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“진짜 빌런은 원장”…이수지 ‘유치원 패러디’에 교사들 뜻밖 폭로",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25421510",
+        "publishedAt": "2026-04-20T05:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T05:20:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "이수지",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25421510",
+      "rank": 9
+    },
+    {
+      "id": "4b5cc49465155fe8",
+      "issueKey": "비슬산",
+      "issueTitle": "비슬산",
+      "trendTitle": "비슬산",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "PSG 1-2 Lyon (Apr 19, 2026) Game Analysis",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/report/_/gameId/746680",
-          "publishedAt": "2026-04-19T20:10:00.000Z",
+          "title": "비슬산, 홍빛 참꽃에 물들다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260419_0021251161",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "France League One Soccer",
-          "source": "WV News",
-          "url": "https://www.wvnews.com/sports/pro/france-league-one-soccer/image_42807cbc-7e2a-5ae7-b082-7688502988de.html",
-          "publishedAt": "2026-04-19T20:10:00.000Z",
+          "title": "이곳은 말 그대로 '꽃대궐', 감탄이 절로 나옵니다",
+          "source": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225951",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "PSG 1-2 Lyon: PSG slump to 2-1 home defeat against Olympique Lyonnais",
-          "source": "PSG Post",
-          "url": "https://psgpost.com/psg-1-2-lyon-psg-slump-to-2-1-home-defeat-against-olympique-lyonnais-01kpkgatpwfm",
-          "publishedAt": "2026-04-19T20:10:00.000Z",
+          "title": "비슬산 참꽃문화제 10만 인파⋯분홍 물결 속 봄 절정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PjE3NuDgmH",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "psg vs lyon",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/report/_/gameId/746680",
-        "publishedAt": "2026-04-19T20:10:00.000Z",
+        "title": "비슬산, 홍빛 참꽃에 물들다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260419_0021251161",
+        "publishedAt": "2026-04-20T05:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-19T20:10:00.000Z",
-      "firstSeenAt": "2026-04-19T22:04:56.385Z",
-      "lastSeenAt": "2026-04-19T22:04:56.385Z",
-      "title": "psg vs lyon",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/report/_/gameId/746680",
-      "rank": 9
+      "publishedAt": "2026-04-20T05:20:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "비슬산",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260419_0021251161",
+      "rank": 10
     }
   ],
   "history": [
@@ -850,144 +883,6 @@
       "title": "일본",
       "source": "KBS 뉴스",
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8539492"
-    },
-    {
-      "id": "8b5e1aeab38af1e6",
-      "issueKey": "삼성 시구",
-      "issueTitle": "삼성 시구",
-      "trendTitle": "삼성 시구",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "강원FC, 내일 전북 상대 강릉 홈경기…3연승 도전",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8539174",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[도민시론┃체육] 강원FC, 지금 필요한 것은 도민의 응원이다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260417000901811",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "싸이커스, 야구·축구장 간다…삼성 시구·강원 시축 예고",
-          "source": "디스패치",
-          "url": "https://www.dispatch.co.kr/2341507",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "싸이커스, 야구·축구장 간다…삼성 시구·강원 시축 예고",
-        "source": "디스패치",
-        "url": "https://www.dispatch.co.kr/2341507",
-        "publishedAt": "2026-04-18T04:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-04-18T04:10:00.000Z",
-      "firstSeenAt": "2026-04-18T05:52:41.120Z",
-      "lastSeenAt": "2026-04-18T05:52:41.120Z",
-      "title": "삼성 시구",
-      "source": "디스패치",
-      "url": "https://www.dispatch.co.kr/2341507"
-    },
-    {
-      "id": "ca6c419327ce5a9d",
-      "issueKey": "서울",
-      "issueTitle": "서울",
-      "trendTitle": "서울",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘서울의 봄’ 김기동 감독이 홍명보 감독에게 추천한 선수는?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8539389",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'우승 후보 도장 깨기' 전북-울산 격파, 이제 대전만 남았다...김기동 감독 \"오늘만 넘기면 1로빈 잘 치를 수 있다\" [MD현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260418135946508",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "파죽지세 '기동매직' 서울, 개막 8경기 무패 도전[주목! 이종목]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260416_0003594882",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘서울의 봄’ 김기동 감독이 홍명보 감독에게 추천한 선수는?",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8539389",
-        "publishedAt": "2026-04-18T04:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-18T04:10:00.000Z",
-      "firstSeenAt": "2026-04-18T05:52:41.120Z",
-      "lastSeenAt": "2026-04-18T05:52:41.120Z",
-      "title": "서울",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8539389"
-    },
-    {
-      "id": "ded60fb79736fc40",
-      "issueKey": "공포 영화",
-      "issueTitle": "공포 영화",
-      "trendTitle": "공포 영화",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'파묘'로 200억 벌었는데…'왕사남'·'살목지' 얼마나 벌까 [김소연의 엔터비즈]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026041788017",
-          "publishedAt": "2026-04-18T03:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "새벽 3시, 차량 183대 저수지로…‘살목지’ 공포체험 인기에 결국",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/area_general/1254755.html",
-          "publishedAt": "2026-04-18T03:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "제2의 '왕사남' 되나… 100만 돌파 '살목지' 신드롬 된 이유[스한:초점]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260418070221176",
-          "publishedAt": "2026-04-18T03:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "공포 영화",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026041788017",
-        "publishedAt": "2026-04-18T03:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-18T03:10:00.000Z",
-      "firstSeenAt": "2026-04-18T05:52:41.120Z",
-      "lastSeenAt": "2026-04-18T05:52:41.120Z",
-      "title": "공포 영화",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026041788017"
     },
     {
       "id": "99bcc6f2983f2e3f",
@@ -1450,234 +1345,50 @@
       "url": "https://www.chosun.com/international/2026/04/18/AY4TFYWDTRCCFIOP324ULYBVXQ/"
     },
     {
-      "id": "428f980192958924",
-      "issueKey": "경기 무득점",
-      "issueTitle": "경기 무득점",
-      "trendTitle": "경기 무득점",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "f06849327b813f95",
+      "issueKey": "최불암",
+      "issueTitle": "최불암",
+      "trendTitle": "최불암",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"막을 테면 막아봐라\" 이정효 감독 '선전포고'... 연속 무득점 부진 '정면 돌파' 각오 [창원 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260418135502453",
-          "publishedAt": "2026-04-18T04:40:00.000Z",
+          "title": "‘건강이상설’ 최불암, 5월 다큐로 근황 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/k-culture/2026/04/20/KYFJKQYZWZF77H42U3MWLF5XRA/",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'2경기 무득점·시즌 첫 패' 수원삼성…이정효, 묘수 찾았을까?",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/soccer/6140036",
-          "publishedAt": "2026-04-18T04:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김포, 화성 상대로 2연승 도전...성남-파주·안산-이랜드 맞대결",
-          "source": "중부일보",
-          "url": "http://www.joongboo.com/news/articleView.html?idxno=363723119",
-          "publishedAt": "2026-04-18T04:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'2경기 무득점·시즌 첫 패' 수원삼성…이정효, 묘수 찾았을까?",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/soccer/6140036",
-        "publishedAt": "2026-04-18T04:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-18T04:40:00.000Z",
-      "firstSeenAt": "2026-04-18T05:52:41.120Z",
-      "lastSeenAt": "2026-04-18T05:52:41.120Z",
-      "title": "경기 무득점",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/sports/soccer/6140036"
-    },
-    {
-      "id": "19c6530197f4305b",
-      "issueKey": "송은이",
-      "issueTitle": "송은이",
-      "trendTitle": "송은이",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김숙 제주 집, 또 공사 중단 위기 맞았다...마당서 유물 발견됐다 (예측불가)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260418044213584",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "송은이 얼굴 상처 “고소하겠다”…김숙 무릎꿇고 사죄 (예측불가)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260418/133764645/1",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘예측불가’ 김숙, 공사장 사진 대방출…피골 상접한 빽가 ‘시선강탈’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202604181106003",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "송은이 얼굴 상처 “고소하겠다”…김숙 무릎꿇고 사죄 (예측불가)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260418/133764645/1",
-        "publishedAt": "2026-04-18T04:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-18T04:10:00.000Z",
-      "firstSeenAt": "2026-04-18T05:52:41.120Z",
-      "lastSeenAt": "2026-04-18T05:52:41.120Z",
-      "title": "송은이",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260418/133764645/1"
-    },
-    {
-      "id": "828d5bb1b3e8dfb9",
-      "issueKey": "김세영",
-      "issueTitle": "김세영",
-      "trendTitle": "김세영",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김세영, LPGA 투어 LA챔피언십 2R 단독 선두…윤이나, 두 타 차 3위",
+          "title": "최불암, 건강이상설 딛고 복귀…MBC 특집 다큐로 근황 공개",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260418_0003596567",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘버디 8개 폭발’ 윤이나 ‘같은 대회, 같은 장소’서 개인 최저 64타…아쉬운 건 ‘전반 7언더, 후반 1언더’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20034075",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260420_0003598077",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'엄마 골퍼'로 돌아온 최운정 \"동반자 앨리슨 리와 하루종일 아이 얘기만\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260417n24326?mid=n1101",
-          "publishedAt": "2026-04-18T04:10:00.000Z",
+          "title": "'건강이상설' 최불암, 다큐로 컴백 \"감사 전하고픈 광대의 마음\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026042026357",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김세영, LPGA 투어 LA챔피언십 2R 단독 선두…윤이나, 두 타 차 3위",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260418_0003596567",
-        "publishedAt": "2026-04-18T04:10:00.000Z",
+        "title": "‘건강이상설’ 최불암, 5월 다큐로 근황 공개",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/k-culture/2026/04/20/KYFJKQYZWZF77H42U3MWLF5XRA/",
+        "publishedAt": "2026-04-20T06:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-18T04:10:00.000Z",
-      "firstSeenAt": "2026-04-18T05:52:41.120Z",
-      "lastSeenAt": "2026-04-18T05:52:41.120Z",
-      "title": "김세영",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260418_0003596567"
-    },
-    {
-      "id": "cf57fb29da311818",
-      "issueKey": "검사",
-      "issueTitle": "검사",
-      "trendTitle": "검사",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보]‘대장동 검사 극단시도’에 검찰총장 “공정한 국조 간곡 부탁”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11583151",
-          "publishedAt": "2026-04-17T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘증인 채택’ 압박에 검사 극단 선택… 與 “유감, 그러나 책임자 소환은 불가피”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260418060135582",
-          "publishedAt": "2026-04-17T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "청문회 출석한 남욱-강백신",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260416_0021248534",
-          "publishedAt": "2026-04-17T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보]‘대장동 검사 극단시도’에 검찰총장 “공정한 국조 간곡 부탁”",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11583151",
-        "publishedAt": "2026-04-17T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-17T22:00:00.000Z",
-      "firstSeenAt": "2026-04-17T23:10:11.097Z",
-      "lastSeenAt": "2026-04-17T23:10:11.097Z",
-      "title": "검사",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11583151"
-    },
-    {
-      "id": "5dd8429824119cb9",
-      "issueKey": "허훈",
-      "issueTitle": "허훈",
-      "trendTitle": "허훈",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'슈퍼팀' KCC, 6강 PO 3연승 질주…DB 꺾고 4강 PO 진출 '정관장 나와!'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260417_0003596376",
-          "publishedAt": "2026-04-17T21:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“KCC가 정말 강하니 다들 피하고 싶을 것”…‘슈퍼팀 에이스’ 최준용의 자신감 [SD 사직 인터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BEh8VTRfpy",
-          "publishedAt": "2026-04-17T21:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'6강 탈락' DB 김주성 \"지금의 전투력이라면 다음엔 더 잘할 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260417159900007",
-          "publishedAt": "2026-04-17T21:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "허훈",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260417_0003596376",
-        "publishedAt": "2026-04-17T21:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-17T21:30:00.000Z",
-      "firstSeenAt": "2026-04-17T23:10:11.097Z",
-      "lastSeenAt": "2026-04-17T23:10:11.097Z",
-      "title": "허훈",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260417_0003596376"
+      "publishedAt": "2026-04-20T06:10:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "최불암",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/culture-life/k-culture/2026/04/20/KYFJKQYZWZF77H42U3MWLF5XRA/"
     },
     {
       "id": "1fac0650eb6a6c39",
@@ -2276,6 +1987,328 @@
       "title": "lck",
       "source": "Inven Global",
       "url": "https://www.invenglobal.com/articles/21022/acting-head-coach-lim-jae-hyeon-we-will-work-on-improving-team-communication"
+    },
+    {
+      "id": "6380357056a37d92",
+      "issueKey": "김혜성",
+      "issueTitle": "김혜성",
+      "trendTitle": "김혜성",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김혜성, 2루타 포함 멀티히트…시즌 타율 3할대 진입",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/04/20/PNXB4D3F6FAKZLE5SFQUVNCMVI/",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김혜성 잡아보려 2구 연속 ABS 챌린지→다음 공에 바로 2루타…견제 뚫고 멀티히트 맹타, 이대로면 ML 남을 수밖에",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260420101435469",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "LA 다저스 김혜성, 2루타 포함 멀티히트‥팀은 시즌 첫 연패",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6816497_36946.html",
+          "publishedAt": "2026-04-20T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김혜성, 2루타 포함 멀티히트…시즌 타율 3할대 진입",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-baseball/2026/04/20/PNXB4D3F6FAKZLE5SFQUVNCMVI/",
+        "publishedAt": "2026-04-20T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T06:10:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "김혜성",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-baseball/2026/04/20/PNXB4D3F6FAKZLE5SFQUVNCMVI/"
+    },
+    {
+      "id": "7358c9000fd00cd9",
+      "issueKey": "박철우",
+      "issueTitle": "박철우",
+      "trendTitle": "박철우",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'선수 출신' 아내가 본 '지도자' 박철우 \"남편은 천재형 아닌 노력형... 항상 메모하던 모습 떠올라\" [인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260420104932315",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'와 이런 구단이 있나' 우리카드 왜 파격 전략 택했나…언제나 '장충이'들 생각뿐, 신임 감독 박철우도 감격 \"감동이었다\"",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260420n17707",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "왕조 건설! 첫삽 뜬다",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202604170452006",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'선수 출신' 아내가 본 '지도자' 박철우 \"남편은 천재형 아닌 노력형... 항상 메모하던 모습 떠올라\" [인터뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260420104932315",
+        "publishedAt": "2026-04-20T05:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T05:40:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "박철우",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260420104932315"
+    },
+    {
+      "id": "f3078cfd858d42fe",
+      "issueKey": "이수지",
+      "issueTitle": "이수지",
+      "trendTitle": "이수지",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“진짜 빌런은 원장”…이수지 ‘유치원 패러디’에 교사들 뜻밖 폭로",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25421510",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "유치원 교사에 갑질, 명품과 사교육엔 환장… 배꼽 잡다 \"혹시 내 얘긴가?\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/weekend/2026/04/18/AMJK3WJNTJDPBJGGCZHF3RWKNY/",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"가장 큰 피해는 아이들\" 김동완, 이수지 유치원 교사 영상에 공감",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260418130605038",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“진짜 빌런은 원장”…이수지 ‘유치원 패러디’에 교사들 뜻밖 폭로",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25421510",
+        "publishedAt": "2026-04-20T05:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T05:20:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "이수지",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25421510"
+    },
+    {
+      "id": "96fc1cb747171df2",
+      "issueKey": "new zealand vs bangladesh",
+      "issueTitle": "new zealand vs bangladesh",
+      "trendTitle": "new zealand vs bangladesh",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Batting a worry for Bangladesh as clinical New Zealand look to sew up series",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/new-zealand-in-bangladesh-2026-1528267/bangladesh-vs-new-zealand-2nd-odi-1528273/match-preview",
+          "publishedAt": "2026-04-20T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Tom Latham wins toss and New Zealand bats first against Bangladesh in second ODI",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/sports/2026/04/20/cricket-bangaldesh-new-zealand-odi/ba09a68e-3c78-11f1-bb46-ed564688d953_story.html",
+          "publishedAt": "2026-04-20T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Unchanged New Zealand bat first; Soumya Sarkar replaces Afif Hossain for Bangladesh",
+          "source": "ESPN Singapore",
+          "url": "https://www.espn.com.sg/cricket/story/_/id/48537913/ban-vs-nz-2nd-odi-unchanged-new-zealand-bat-first-soumya-sarkar-replaces-afif-hossain-bangladesh",
+          "publishedAt": "2026-04-20T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "new zealand vs bangladesh",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/new-zealand-in-bangladesh-2026-1528267/bangladesh-vs-new-zealand-2nd-odi-1528273/match-preview",
+        "publishedAt": "2026-04-20T06:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T06:00:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "new zealand vs bangladesh",
+      "source": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/series/new-zealand-in-bangladesh-2026-1528267/bangladesh-vs-new-zealand-2nd-odi-1528273/match-preview"
+    },
+    {
+      "id": "ff99fc88f9b15cb4",
+      "issueKey": "화물 연대",
+      "issueTitle": "화물 연대",
+      "trendTitle": "화물 연대",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "CU 진주물류센터에서 집회 도중 화물연대 조합원 1명 사망, 2명 부상",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/yeongnam/1255005.html",
+          "publishedAt": "2026-04-20T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "진주서 시위하던 화물연대 조합원 화물차와 충돌...1명 심정지·2명 부상",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/04/20/YTUMK344FFB6LGHPXPUSZ3H6VU/",
+          "publishedAt": "2026-04-20T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "화물연대, 진주서 탑차 이동 막아서다 사고…1명 사망",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
+          "publishedAt": "2026-04-20T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "화물 연대",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/area/yeongnam/1255005.html",
+        "publishedAt": "2026-04-20T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T05:50:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "화물 연대",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/area/yeongnam/1255005.html"
+    },
+    {
+      "id": "a4790497e8dbe3ff",
+      "issueKey": "공정위",
+      "issueTitle": "공정위",
+      "trendTitle": "김범석",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘쿠팡 총수 김범석’ 되나... 공정위, 다음주 쿠팡 동일인 지정 결론 예정",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/04/20/RT7ZKGVZQREXBCQMOR6V55QQKE/",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김범석 의장, 쿠팡 ‘총수’ 되나…공정위, 내주쯤 결론",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260420/133771909/1",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "쿠팡 동일인 ‘법인→김범석’ 변경 기로…내주 결론 낸다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10720746",
+          "publishedAt": "2026-04-20T05:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘쿠팡 총수 김범석’ 되나... 공정위, 다음주 쿠팡 동일인 지정 결론 예정",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/04/20/RT7ZKGVZQREXBCQMOR6V55QQKE/",
+        "publishedAt": "2026-04-20T05:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T05:40:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "공정위",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/economy_general/2026/04/20/RT7ZKGVZQREXBCQMOR6V55QQKE/"
+    },
+    {
+      "id": "4b5cc49465155fe8",
+      "issueKey": "비슬산",
+      "issueTitle": "비슬산",
+      "trendTitle": "비슬산",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "비슬산, 홍빛 참꽃에 물들다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260419_0021251161",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이곳은 말 그대로 '꽃대궐', 감탄이 절로 나옵니다",
+          "source": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225951",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "비슬산 참꽃문화제 10만 인파⋯분홍 물결 속 봄 절정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PjE3NuDgmH",
+          "publishedAt": "2026-04-20T05:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "비슬산, 홍빛 참꽃에 물들다",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260419_0021251161",
+        "publishedAt": "2026-04-20T05:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-20T05:20:00.000Z",
+      "firstSeenAt": "2026-04-20T07:28:39.983Z",
+      "lastSeenAt": "2026-04-20T07:28:39.983Z",
+      "title": "비슬산",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260419_0021251161"
     }
   ]
 }
