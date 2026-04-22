@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-21T23:09:09.625Z",
-  "articleCount": 11,
+  "lastUpdatedAt": "2026-04-22T06:23:55.205Z",
+  "articleCount": 10,
   "articles": [
+    {
+      "id": "6e28d3646b95268a",
+      "title": "“AI 요약에 지쳤다면” 더 ‘사람 같은’ 검색은 구글보다 빙",
+      "url": "https://www.itworld.co.kr/article/4161679/ai-%ec%9a%94%ec%95%bd%ec%97%90-%ec%a7%80%ec%b3%a4%eb%8b%a4%eb%a9%b4-%eb%8d%94-%ec%82%ac%eb%9e%8c-%ea%b0%99%ec%9d%80-%ea%b2%80%ec%83%89%ec%9d%80-%ea%b5%ac%ea%b8%80%eb%b3%b4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-04-22T00:47:23.000Z",
+      "summary": "많은 사용자가 AI를 싫어한다고 하지만, 검색 엔진이 검색의 첫 관문에 AI를 배치한 후 기술 매체의 트래픽은 급감했다. 많은 사람이 질문에 대한 답을 얻기 위해 챗GPT나 클로드를 찾고, 이런 검색 방식으로 시간을 더 효율적으로 쓸 수 있다고 주장한다. 그러나 사실은 아니다. 잘못된 정보 때문에 여기 저기 헤매게 될 뿐이다. 많은 이가 AI가 타인의 리뷰와 의견을 요약한 내용을 스크롤...",
+      "tab": "ai"
+    },
     {
       "id": "49394b4dce3ffa12",
       "title": "“프롬프트 교육만으론 안 돼” 기업과 직원의 ‘AI 레디’ 변화",
@@ -77,24 +86,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-04-16T00:25:23.000Z",
       "summary": "엔비디아 CEO 젠슨 황은 2016년 오픈AI에 AI 슈퍼컴퓨터를 직접 배달했던 일화를 자주 꺼낸다. 당시 오픈AI는 지금처럼 주목받는 기업이 아니었다. 그 슈퍼컴퓨터 안에는 엔비디아의 CUDA 툴킷이 핵심 구성요소로 탑재돼 있었다. CUDA 툴킷은 오픈AI의 초기 실험을 현대 AI 애플리케이션의 토대로 전환하는 데 결정적 역할을 했다. 황은 CUDA를 엔비디아가 AI 및 고성능 컴퓨팅...",
-      "tab": "ai"
-    },
-    {
-      "id": "1347deb1dc250d73",
-      "title": "오픈텍스트, 기업 ‘AI 스프롤’ 확산 경고…“통제 가능한 거버넌스가 경쟁력 좌우”",
-      "url": "https://www.itworld.co.kr/article/4157618/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%b0%ec%97%85-ai-%ec%8a%a4%ed%94%84%eb%a1%a4-%ed%99%95%ec%82%b0-%ea%b2%bd%ea%b3%a0%ed%86%b5%ec%a0%9c-%ea%b0%80.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-14T01:01:00.000Z",
-      "summary": "생성형 AI 도입이 빠르게 확산되면서 보안, 중복 투자, 섀도우 AI 등 새로운 리스크 관리가 기업 과제로 떠오르고 있다. 오픈텍스트는 최근 국내 기업에서 부서·사용자 단위로 AI 도구가 무분별하게 증가하는 ‘AI 스프롤(AI 확산 난립)’ 현상이 새로운 경영 리스크로 부상하고 있다고 밝혔다. 금융, 제조, 공공 등 주요 산업에서 AI 활용이 본격화되며 생산성 혁신 기대는 커지고 있다....",
-      "tab": "ai"
-    },
-    {
-      "id": "a923230b14daac23",
-      "title": "‘애플다운 안경’ 만들기, 디자인에서 답 찾는다",
-      "url": "https://www.itworld.co.kr/article/4158152/%ec%95%a0%ed%94%8c%eb%8b%a4%ec%9a%b4-%ec%95%88%ea%b2%bd-%eb%a7%8c%eb%93%a4%ea%b8%b0-%eb%94%94%ec%9e%90%ec%9d%b8%ec%97%90%ec%84%9c-%eb%8b%b5-%ec%b0%be%eb%8a%94%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-14T01:01:00.000Z",
-      "summary": "애플이 외부 업체에 의존하지 않고 스마트 글래스의 프레임을 자체 개발하며 제품 차별화에 나선 것으로 보인다. 블룸버그의 마크 거먼은 최신 보고서를 통해 애플의 스마트 글래스에 대한 추가 정보를 공개했다. 마크 거먼은 올해 초 스마트글래스가 메타의 AI 안경과 유사 기기와 경쟁을 목표로 설계되고 있다고 전한 바 있다. 보고서에 따르면 애플은 현재 4가지 프레임 디자인을 테스트 중이며, 일...",
       "tab": "ai"
     },
     {
