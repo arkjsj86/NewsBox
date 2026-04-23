@@ -7,528 +7,502 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-04-22T23:34:37.402Z",
+  "lastUpdatedAt": "2026-04-23T06:28:23.614Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "b8952a4afb68e696",
-      "issueKey": "토트넘",
-      "issueTitle": "토트넘",
-      "trendTitle": "토트넘",
+      "id": "7e065e5612ce7cb9",
+      "issueKey": "김원중",
+      "issueTitle": "김원중",
+      "trendTitle": "김원중",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "9회 아닌 8회에도 치명적 실점, 다시 평범해진 구위...롯데 김원중 어찌할꼬 [부산 현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/04/22/GA2DQZJUGI2WENRYGMZGKN3EGM/",
+          "publishedAt": "2026-04-23T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'구속 회복' 김원중…단호한 김태형 감독 \"구속이 중요한 게 아냐 \", 핵심은 '좋을 때 감' [SS시선집중]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260421n25498",
+          "publishedAt": "2026-04-23T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "149km 스피드 업...\"원중이 형 걱정은 하는 게 아닙니다\", 그러나 감독은 왜 \"아직 아니다\" 했을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260417032636935",
+          "publishedAt": "2026-04-23T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "9회 아닌 8회에도 치명적 실점, 다시 평범해진 구위...롯데 김원중 어찌할꼬 [부산 현장]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/04/22/GA2DQZJUGI2WENRYGMZGKN3EGM/",
+        "publishedAt": "2026-04-23T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-23T05:10:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "김원중",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/baseball/2026/04/22/GA2DQZJUGI2WENRYGMZGKN3EGM/",
+      "rank": 1
+    },
+    {
+      "id": "d28d3c7b8b8b10d4",
+      "issueKey": "조선소",
+      "issueTitle": "조선소",
+      "trendTitle": "조선소",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "트럼프 덕분에 뜻밖의 돈벼락…'한국 제쳤다' 中 환호",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260423142534699",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이란 전쟁에 中조선업계 수혜…유조선 수주 증가",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260422_0003602416",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'중동전쟁' 中 반사이익 '톡톡'…美군사전략도 학습",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/MYH20260423143809b5A",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "조선소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260423142534699",
+        "publishedAt": "2026-04-23T05:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-23T05:00:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "조선소",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260423142534699",
+      "rank": 2
+    },
+    {
+      "id": "1dad7d7ea99b6da4",
+      "issueKey": "이명세",
+      "issueTitle": "이명세",
+      "trendTitle": "이명세",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘란 12.3’ 기세 무섭다…개봉 동시에 2위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260423094736008",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'영화보다 더 영화같은 그날 밤'‥다큐 '란 12.3'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6817080_37012.html",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[기획] 어느 시민 혁명에 관한 시네마틱 마니페스토 – 장병원 평론가의 다큐멘터리로서의",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=109828",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이명세",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260423094736008",
+        "publishedAt": "2026-04-23T05:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-23T05:00:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "이명세",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260423094736008",
+      "rank": 3
+    },
+    {
+      "id": "b7341a19be4d4689",
+      "issueKey": "해군장관",
+      "issueTitle": "해군장관",
+      "trendTitle": "해군장관",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“강등 가능성 0.2%→유력 후보”…토트넘, 프리미어리그 최대 추락 위기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260423072132790",
-          "publishedAt": "2026-04-22T22:20:00.000Z",
+          "title": "'육·해군' 손발 다 잘랐다‥전쟁 중 연쇄경질 '파문'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6817420_36925.html",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "오버헤드킥 시도하는 카스테야노스",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260421_0002116175",
-          "publishedAt": "2026-04-22T22:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘웨스트햄 승점 추가’ 토트넘 ‘찐 강등 위기’→‘25일 운명의 한판’",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260421/133778497/1",
-          "publishedAt": "2026-04-22T22:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“강등 가능성 0.2%→유력 후보”…토트넘, 프리미어리그 최대 추락 위기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260423072132790",
-        "publishedAt": "2026-04-22T22:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-22T22:20:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "토트넘",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260423072132790",
-      "rank": 1
-    },
-    {
-      "id": "c1e7e7504075209d",
-      "issueKey": "오늘",
-      "issueTitle": "오늘",
-      "trendTitle": "운세",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[오늘의 운세] 4월 23일 목요일 (음력 3월 7일 丁卯)",
+          "title": "이란과 전쟁 중인데... 美 해군장관도 사임",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/04/22/AVU7FKUPOFD2XFZGAGIF3RFVCM/",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[오늘의 운세] 2026년 4월 23일 오늘의 띠별 운세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260423060234314",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "url": "https://www.chosun.com/international/international_general/2026/04/23/5LQ74XY5IZFFNOB7WT7DIV7STY/",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[녹유 오늘의 운세] 75년생 돌려받지 못하는 거래는 사절",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260421_0003600776",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "미 해군장관, 전쟁중 사임…국방부 ″즉시 효력 발생″",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260423065710wvw",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[오늘의 운세] 4월 23일 목요일 (음력 3월 7일 丁卯)",
+        "title": "이란과 전쟁 중인데... 美 해군장관도 사임",
         "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/04/22/AVU7FKUPOFD2XFZGAGIF3RFVCM/",
-        "publishedAt": "2026-04-22T22:00:00.000Z",
-        "relevanceScore": 3
+        "url": "https://www.chosun.com/international/international_general/2026/04/23/5LQ74XY5IZFFNOB7WT7DIV7STY/",
+        "publishedAt": "2026-04-23T04:30:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-04-22T22:00:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "오늘",
+      "publishedAt": "2026-04-23T04:30:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "해군장관",
       "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/04/22/AVU7FKUPOFD2XFZGAGIF3RFVCM/",
-      "rank": 2
-    },
-    {
-      "id": "05e3cf4a063de9b8",
-      "issueKey": "청바지",
-      "issueTitle": "청바지",
-      "trendTitle": "청바지",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "요즘 청바지 이해도 높은 사람들이 입는 방식",
-          "source": "ELLE",
-          "url": "https://www.elle.co.kr/article/1901188",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "다들 ‘보헤미안 시크’로 법석일 때, 마고 로비는 헐렁한 청바지를 입습니다",
-          "source": "보그 코리아 (Vogue Korea)",
-          "url": "https://www.vogue.co.kr/2026/04/20/%EB%8B%A4%EB%93%A4-%EB%B3%B4%ED%97%A4%EB%AF%B8%EC%95%88-%EC%8B%9C%ED%81%AC%EB%A1%9C-%EB%B2%95%EC%84%9D%EC%9D%BC-%EB%95%8C-%EB%A7%88%EA%B3%A0-%EB%A1%9C%EB%B9%84%EB%8A%94-%ED%97%90%EB%A0%81/",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[인터뷰] “청바지 넘어 풀착장 책임질 것”…플랙, 토탈 패션으로 새 판 짠다",
-          "source": "서울경제",
-          "url": "https://m.sedaily.com/amparticle/20035774",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "요즘 청바지 이해도 높은 사람들이 입는 방식",
-        "source": "ELLE",
-        "url": "https://www.elle.co.kr/article/1901188",
-        "publishedAt": "2026-04-22T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-22T22:00:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "청바지",
-      "source": "ELLE",
-      "url": "https://www.elle.co.kr/article/1901188",
-      "rank": 3
-    },
-    {
-      "id": "0de55473dc2bab7b",
-      "issueKey": "일등석",
-      "issueTitle": "일등석",
-      "trendTitle": "일등석",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "개그맨 출신 치과의사 \"일등석이 이리 좁아?\"…국내 항공사 공개 저격",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6145575",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"대한항공 1등석 좁아터졌다\"…김영삼 불만, 사실일까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260422110028072",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김영삼, 퍼스트클래스 좌석 공개 저격 \"수백만 원 냈는데 독서실보다 좁아\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/04/22/GA4DEYRVMU3TGMLDHE3WKNRUGY/",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "개그맨 출신 치과의사 \"일등석이 이리 좁아?\"…국내 항공사 공개 저격",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/celebrity-topic/6145575",
-        "publishedAt": "2026-04-22T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-22T22:00:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "일등석",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/entertain/celebrity-topic/6145575",
+      "url": "https://www.chosun.com/international/international_general/2026/04/23/5LQ74XY5IZFFNOB7WT7DIV7STY/",
       "rank": 4
     },
     {
-      "id": "347548b3d140c26c",
-      "issueKey": "있는 식물은",
-      "issueTitle": "있는 식물은",
-      "trendTitle": "있는 식물은",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "85d5f2049ed1eff3",
+      "issueKey": "정현",
+      "issueTitle": "정현",
+      "trendTitle": "권순우",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "국립세종수목원, 교육프로그램 '왕과 사는 식물' 운영",
+          "title": "정현·권순우, 남자테니스 챌린저 광주오픈 16강 진출",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260422_0003601835",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260421_0003600698",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'왕과 사는 식물'…조선 왕실과 인연 있는 식물은?",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6506232",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "정현, 1년 만에 국제대회 8강.. 작년에 이어 광주챌린저 2년 연속 8강행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260423141811319",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "국립세종수목원 ‘왕과 사는 식물’ 정원 콘텐츠 운영",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10723069",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "정현, ATP 투어 광주 오픈 제이슨 정 꺾고 2회전 진출",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363723516",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'왕과 사는 식물'…조선 왕실과 인연 있는 식물은?",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6506232",
-        "publishedAt": "2026-04-22T22:00:00.000Z",
-        "relevanceScore": 2
+        "title": "정현·권순우, 남자테니스 챌린저 광주오픈 16강 진출",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260421_0003600698",
+        "publishedAt": "2026-04-23T04:30:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-04-22T22:00:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "있는 식물은",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6506232",
+      "publishedAt": "2026-04-23T04:30:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "정현",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260421_0003600698",
       "rank": 5
     },
     {
-      "id": "481dfa4cd47f4807",
-      "issueKey": "하이닉스 실적",
-      "issueTitle": "하이닉스 실적",
-      "trendTitle": "하이닉스 실적",
+      "id": "b0ab1536ebd1fef4",
+      "issueKey": "서울 중구청장",
+      "issueTitle": "서울 중구청장",
+      "trendTitle": "서울 중구청장",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[속보] SK하이닉스, 1분기 영업이익 1년 전의 405.5%인 37조6100억원 기록",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/04/23/FV37RESJXRBIPEFXCKP4DFEQ5I/",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "국힘 지도부, 서울시당이 추천한 중구청장 후보 ‘반려’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260423102907432",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[속보] SK하이닉스 1분기 매출 사상 최초 52조, 영업이익 37조 달성",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6817363_36932.html",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "[단독] 국힘 공관위, ‘배현진표’ 서울 중구청장 공천 \"재검토\" 결론…오늘 최고위 보고",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12295437",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "SK하이닉스, 1Q 영업익 사상 최대…예상치 소폭 하회(상보)",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411102",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "국민의힘 지도부, ‘김길성 중구청장 공천안’ 의결 거부…서울시당 “잘못된 사실”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8543838",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "하이닉스 실적",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/tech_it/2026/04/23/FV37RESJXRBIPEFXCKP4DFEQ5I/",
-        "publishedAt": "2026-04-22T22:00:00.000Z",
-        "relevanceScore": 3
+        "title": "[단독] 국힘 공관위, ‘배현진표’ 서울 중구청장 공천 \"재검토\" 결론…오늘 최고위 보고",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12295437",
+        "publishedAt": "2026-04-23T04:30:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-04-22T22:00:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "하이닉스 실적",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/tech_it/2026/04/23/FV37RESJXRBIPEFXCKP4DFEQ5I/",
+      "publishedAt": "2026-04-23T04:30:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "서울 중구청장",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12295437",
       "rank": 6
     },
     {
-      "id": "81fec7a23723576c",
-      "issueKey": "노조",
-      "issueTitle": "노조",
-      "trendTitle": "노조",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "19f80c411a30c716",
+      "issueKey": "두산에너 빌리티",
+      "issueTitle": "두산에너 빌리티",
+      "trendTitle": "두산에너 빌리티",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "삼성바이오, 1분기 실적 발표날…노조, 파업 결의대회",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260422_0003602322",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "10만원 넘더니 신고가 터졌다…외국인들 삼전 던지고 '올인' [종목 집중탐구]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202604216992i",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "삼성바이오로직스, CDMO 글로벌 경쟁력 공고해질 것…'매수'-iM",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02755206645419072",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "본업 '훈풍'에 흑자전환 시동…두산에너빌, 1Q 영업익 30%↑ 전망",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411150",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "삼바, 1분기 영업익 5808억… 전년比 35% 성장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260423003254401",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
+          "title": "두산에너빌리티, 원전 등 발전 관련 수주잔고 23조…2030년 수익 본격화 기대",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=300820",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "삼성바이오, 1분기 실적 발표날…노조, 파업 결의대회",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260422_0003602322",
-        "publishedAt": "2026-04-22T22:00:00.000Z",
+        "title": "두산에너 빌리티",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202604216992i",
+        "publishedAt": "2026-04-23T04:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-22T22:00:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "노조",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260422_0003602322",
+      "publishedAt": "2026-04-23T04:20:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "두산에너 빌리티",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202604216992i",
       "rank": 7
     },
     {
-      "id": "4c4e691df9eb4537",
-      "issueKey": "барселона сельта",
-      "issueTitle": "барселона – сельта",
-      "trendTitle": "барселона – сельта",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "«Барселона» — «Сельта»: где смотреть прямую трансляцию матча 33‑го тура Ла Лиги 22 апреля",
-          "source": "Матч ТВ",
-          "url": "https://matchtv.ru/football/matchtvnews_NI2318014_Barselona__Selta_gde_smotret_pramuju_translaciju_matcha_33go_tura_La_Ligi_22_aprela",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "«Барселона» победила «Сельту» в матче чемпионата Испании, Ямаль получил травму",
-          "source": "Sportbox",
-          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/Evropejskie_chempionaty/Ispaniya/spbnews_NI2318359_Barselona_pobedila_Seltu_v_matche_chempionata_Ispanii_Jamal_poluchil_travmu",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Из-за кого «Барселона» так плохо смотрелась против «Сельты»: четыре худших игрока матча",
-          "source": "Евро-Футбол",
-          "url": "https://www.euro-football.ru/article/35/1006181726_iz-za_kogo_barselona_tak_ploho_smotrelas_protiv_seltyi_chetyire_hudshih_igroka_matcha",
-          "publishedAt": "2026-04-22T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "барселона – сельта",
-        "source": "Матч ТВ",
-        "url": "https://matchtv.ru/football/matchtvnews_NI2318014_Barselona__Selta_gde_smotret_pramuju_translaciju_matcha_33go_tura_La_Ligi_22_aprela",
-        "publishedAt": "2026-04-22T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-22T22:00:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "барселона – сельта",
-      "source": "Матч ТВ",
-      "url": "https://matchtv.ru/football/matchtvnews_NI2318014_Barselona__Selta_gde_smotret_pramuju_translaciju_matcha_33go_tura_La_Ligi_22_aprela",
-      "rank": 8
-    },
-    {
-      "id": "8b6a3c376feb0924",
-      "issueKey": "평택시",
-      "issueTitle": "평택시",
-      "trendTitle": "평택시",
+      "id": "e74f61f5f46b1ef5",
+      "issueKey": "길려원",
+      "issueTitle": "길려원",
+      "trendTitle": "길려원",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "평택시, 시민 정원사 앞세워 ‘참여형 정원 문화’ 확산 잰 걸음",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260422580567",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
+          "title": "길려원, 무려 세 남자가…‘역대급 인기녀’ 등극 (우리 듀엣할까요?)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GM5Pa7waUV",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "평택 꽃나들이서 유기견 15마리 입양…현장 캠페인 성과",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260420501151",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
+          "title": "",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/entertain/2316361.htm",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "",
-          "source": "더코리아",
-          "url": "http://www.thekorea.kr/bbs/board.php?bo_table=news&amp;wr_id=489308",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
+          "title": "길려원, 트롯남 3인 몰표…홍성윤은 삼각관계 직면 (우리 듀엣할까요?) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/04/23/MMZDANDBGEZDINZVGY2TOODEGI/",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "평택시, 시민 정원사 앞세워 ‘참여형 정원 문화’ 확산 잰 걸음",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260422580567",
-        "publishedAt": "2026-04-22T21:50:00.000Z",
+        "title": "길려원, 무려 세 남자가…‘역대급 인기녀’ 등극 (우리 듀엣할까요?)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/GM5Pa7waUV",
+        "publishedAt": "2026-04-23T04:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-22T21:50:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "평택시",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260422580567",
-      "rank": 9
+      "publishedAt": "2026-04-23T04:20:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "길려원",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/GM5Pa7waUV",
+      "rank": 8
     },
     {
-      "id": "615906f0f71ecd05",
-      "issueKey": "코파 이탈리아",
-      "issueTitle": "코파 이탈리아",
-      "trendTitle": "코파 이탈리아",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "efe48c6953cca808",
+      "issueKey": "대통령 지지율",
+      "issueTitle": "대통령 지지율",
+      "trendTitle": "대통령 지지율",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "수치치 결승 골, 환호하는 키부 감독",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260422_0002117278",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
+          "title": "국힘 지지율 15%... 창당 이래 최저치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/04/23/5FLXGBL5XNAQLCNZ6QUKS4TFXI/",
+          "publishedAt": "2026-04-23T04:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "수치치, 극장 골…인테르 밀란 결승 진출",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260422n10130",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
+          "title": "[뉴스 다이브] 국힘 지지율 15%…역대 최저",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1255540.html",
+          "publishedAt": "2026-04-23T04:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "인테르 밀란, 코모 꺾고 코파 이탈리아 결승행",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260422_0002117280",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
+          "title": "이 대통령 지지율, 69%로 3회 연속 최고치‥국민의힘 15%로 역대 최저 [NBS]",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6817446_36911.html",
+          "publishedAt": "2026-04-23T04:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "인테르 밀란, 코모 꺾고 코파 이탈리아 결승행",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260422_0002117280",
-        "publishedAt": "2026-04-22T21:50:00.000Z",
+        "title": "이 대통령 지지율, 69%로 3회 연속 최고치‥국민의힘 15%로 역대 최저 [NBS]",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6817446_36911.html",
+        "publishedAt": "2026-04-23T04:00:00.000Z",
         "relevanceScore": 1
       },
-      "publishedAt": "2026-04-22T21:50:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "코파 이탈리아",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISI20260422_0002117280",
-      "rank": 10
+      "publishedAt": "2026-04-23T04:00:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "대통령 지지율",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6817446_36911.html",
+      "rank": 9
     }
   ],
   "history": [
     {
-      "id": "2e3c17fb21091c36",
-      "issueKey": "초엔 닷새",
-      "issueTitle": "초엔 닷새",
-      "trendTitle": "초엔 닷새",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
+      "id": "19f80c411a30c716",
+      "issueKey": "두산에너 빌리티",
+      "issueTitle": "두산에너 빌리티",
+      "trendTitle": "두산에너 빌리티",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 6,
       "relatedArticles": [
         {
-          "title": "[속보] 노동절은 `대체휴일` 적용 불가…일하면 임금 최대 2.5배",
-          "source": "부산일보",
-          "url": "https://mobile.busan.com/view/busan/view.php?code=2026041608020280567",
-          "publishedAt": "2026-04-21T05:00:00.000Z",
+          "title": "10만원 넘더니 신고가 터졌다…외국인들 삼전 던지고 '올인' [종목 집중탐구]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202604216992i",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "토요일은 사실 평일…‘빨간날’도 계급이 있다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8539354",
-          "publishedAt": "2026-04-21T05:00:00.000Z",
+          "title": "[오늘 이 종목] \"두산에너빌리티 SMR 수혜와 삼화전기 AI 인프라 모멘텀 주목… 와이투솔루션· SK하이닉스 등 핵심주 담아라\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260421115800042",
+          "publishedAt": "2026-04-21T05:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "본업 '훈풍'에 흑자전환 시동…두산에너빌, 1Q 영업익 30%↑ 전망",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411150",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "5월 쉬는 날 모아보니…초엔 닷새, 말엔 사흘 쉰다",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260420110629514",
-          "publishedAt": "2026-04-21T05:00:00.000Z",
+          "title": "호르무즈 리스크에 AIDC 전력 수요까지…두산에너빌리티 ‘전원믹스 수혜주’ 질주",
+          "source": "기후에너지데이터뱅크",
+          "url": "https://edata.ekn.kr/article/view/ekn202604210003",
+          "publishedAt": "2026-04-21T05:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "두산에너빌리티, 원전 등 발전 관련 수주잔고 23조…2030년 수익 본격화 기대",
+          "source": "스트레이트뉴스",
+          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=300820",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "[장중수급포착] 두산에너빌리티, 외국인/기관 동시 순매수… 주가 +2.34%",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260421000552",
+          "publishedAt": "2026-04-21T05:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "5월 쉬는 날 모아보니…초엔 닷새, 말엔 사흘 쉰다",
-        "source": "아주경제",
-        "url": "https://www.ajunews.com/view/20260420110629514",
-        "publishedAt": "2026-04-21T05:00:00.000Z",
-        "relevanceScore": 1
+        "title": "두산에너 빌리티",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202604216992i",
+        "publishedAt": "2026-04-23T04:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-04-21T05:00:00.000Z",
+      "publishedAt": "2026-04-23T04:20:00.000Z",
       "firstSeenAt": "2026-04-21T06:24:07.996Z",
-      "lastSeenAt": "2026-04-21T06:24:07.996Z",
-      "title": "초엔 닷새",
-      "source": "아주경제",
-      "url": "https://www.ajunews.com/view/20260420110629514"
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "두산에너 빌리티",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202604216992i"
     },
     {
       "id": "175e1768c1840619",
@@ -575,6 +549,52 @@
       "title": "낭트전",
       "source": "조선일보",
       "url": "https://www.chosun.com/sports/world-football/2026/04/22/HAZDSY3CHBRWEZBSGVRWCZTGHA/"
+    },
+    {
+      "id": "efe48c6953cca808",
+      "issueKey": "대통령 지지율",
+      "issueTitle": "대통령 지지율",
+      "trendTitle": "대통령 지지율",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "국힘 지지율 15%... 창당 이래 최저치",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/04/23/5FLXGBL5XNAQLCNZ6QUKS4TFXI/",
+          "publishedAt": "2026-04-23T04:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[뉴스 다이브] 국힘 지지율 15%…역대 최저",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1255540.html",
+          "publishedAt": "2026-04-23T04:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이 대통령 지지율, 69%로 3회 연속 최고치‥국민의힘 15%로 역대 최저 [NBS]",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6817446_36911.html",
+          "publishedAt": "2026-04-23T04:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이 대통령 지지율, 69%로 3회 연속 최고치‥국민의힘 15%로 역대 최저 [NBS]",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6817446_36911.html",
+        "publishedAt": "2026-04-23T04:00:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-23T04:00:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "대통령 지지율",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6817446_36911.html"
     },
     {
       "id": "4a681ec9eb5ed764",
@@ -1083,52 +1103,6 @@
       "url": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553156457"
     },
     {
-      "id": "c2049f699d9c6eaf",
-      "issueKey": "래미안",
-      "issueTitle": "래미안",
-      "trendTitle": "래미안",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "25대 1 뚫고 청약당첨됐는데 포기…예비 160번까지 돌아갔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260421093934478",
-          "publishedAt": "2026-04-21T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"국평 18억 분양가 부담\"…강서구 '래미안 엘라비네', 20% 미계약",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260421_0003599909",
-          "publishedAt": "2026-04-21T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“당첨돼도 수십억 감당 못해”… 서울 청약 ‘현금부자들만의 리그’로",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11583731",
-          "publishedAt": "2026-04-21T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"국평 18억 분양가 부담\"…강서구 '래미안 엘라비네', 20% 미계약",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260421_0003599909",
-        "publishedAt": "2026-04-21T04:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-21T04:20:00.000Z",
-      "firstSeenAt": "2026-04-21T06:24:07.996Z",
-      "lastSeenAt": "2026-04-21T06:24:07.996Z",
-      "title": "래미안",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260421_0003599909"
-    },
-    {
       "id": "b8952a4afb68e696",
       "issueKey": "토트넘",
       "issueTitle": "토트넘",
@@ -1261,6 +1235,98 @@
       "title": "샌디스크",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260422183746105"
+    },
+    {
+      "id": "b7341a19be4d4689",
+      "issueKey": "해군장관",
+      "issueTitle": "해군장관",
+      "trendTitle": "해군장관",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'육·해군' 손발 다 잘랐다‥전쟁 중 연쇄경질 '파문'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6817420_36925.html",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이란과 전쟁 중인데... 美 해군장관도 사임",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/04/23/5LQ74XY5IZFFNOB7WT7DIV7STY/",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "미 해군장관, 전쟁중 사임…국방부 ″즉시 효력 발생″",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260423065710wvw",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이란과 전쟁 중인데... 美 해군장관도 사임",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/04/23/5LQ74XY5IZFFNOB7WT7DIV7STY/",
+        "publishedAt": "2026-04-23T04:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-23T04:30:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "해군장관",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/international/international_general/2026/04/23/5LQ74XY5IZFFNOB7WT7DIV7STY/"
+    },
+    {
+      "id": "85d5f2049ed1eff3",
+      "issueKey": "정현",
+      "issueTitle": "정현",
+      "trendTitle": "권순우",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "정현·권순우, 남자테니스 챌린저 광주오픈 16강 진출",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260421_0003600698",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "정현, 1년 만에 국제대회 8강.. 작년에 이어 광주챌린저 2년 연속 8강행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260423141811319",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "정현, ATP 투어 광주 오픈 제이슨 정 꺾고 2회전 진출",
+          "source": "중부일보",
+          "url": "https://www.joongboo.com/news/articleView.html?idxno=363723516",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "정현·권순우, 남자테니스 챌린저 광주오픈 16강 진출",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260421_0003600698",
+        "publishedAt": "2026-04-23T04:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-23T04:30:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "정현",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260421_0003600698"
     },
     {
       "id": "51f9e3f0d6b52950",
@@ -1447,50 +1513,188 @@
       "url": "https://v.daum.net/v/20260421103702572"
     },
     {
-      "id": "19f80c411a30c716",
-      "issueKey": "두산에너 빌리티",
-      "issueTitle": "두산에너 빌리티",
-      "trendTitle": "두산에너 빌리티",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "7e065e5612ce7cb9",
+      "issueKey": "김원중",
+      "issueTitle": "김원중",
+      "trendTitle": "김원중",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[오늘 이 종목] \"두산에너빌리티 SMR 수혜와 삼화전기 AI 인프라 모멘텀 주목… 와이투솔루션· SK하이닉스 등 핵심주 담아라\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260421115800042",
-          "publishedAt": "2026-04-21T05:20:00.000Z",
+          "title": "9회 아닌 8회에도 치명적 실점, 다시 평범해진 구위...롯데 김원중 어찌할꼬 [부산 현장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/04/22/GA2DQZJUGI2WENRYGMZGKN3EGM/",
+          "publishedAt": "2026-04-23T05:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "호르무즈 리스크에 AIDC 전력 수요까지…두산에너빌리티 ‘전원믹스 수혜주’ 질주",
-          "source": "기후에너지데이터뱅크",
-          "url": "https://edata.ekn.kr/article/view/ekn202604210003",
-          "publishedAt": "2026-04-21T05:20:00.000Z",
+          "title": "'구속 회복' 김원중…단호한 김태형 감독 \"구속이 중요한 게 아냐 \", 핵심은 '좋을 때 감' [SS시선집중]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260421n25498",
+          "publishedAt": "2026-04-23T05:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[장중수급포착] 두산에너빌리티, 외국인/기관 동시 순매수… 주가 +2.34%",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260421000552",
-          "publishedAt": "2026-04-21T05:20:00.000Z",
+          "title": "149km 스피드 업...\"원중이 형 걱정은 하는 게 아닙니다\", 그러나 감독은 왜 \"아직 아니다\" 했을까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260417032636935",
+          "publishedAt": "2026-04-23T05:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "두산에너 빌리티",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260421115800042",
-        "publishedAt": "2026-04-21T05:20:00.000Z",
+        "title": "9회 아닌 8회에도 치명적 실점, 다시 평범해진 구위...롯데 김원중 어찌할꼬 [부산 현장]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/04/22/GA2DQZJUGI2WENRYGMZGKN3EGM/",
+        "publishedAt": "2026-04-23T05:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-21T05:20:00.000Z",
-      "firstSeenAt": "2026-04-21T06:24:07.996Z",
-      "lastSeenAt": "2026-04-21T06:24:07.996Z",
-      "title": "두산에너 빌리티",
+      "publishedAt": "2026-04-23T05:10:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "김원중",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/baseball/2026/04/22/GA2DQZJUGI2WENRYGMZGKN3EGM/"
+    },
+    {
+      "id": "d28d3c7b8b8b10d4",
+      "issueKey": "조선소",
+      "issueTitle": "조선소",
+      "trendTitle": "조선소",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "트럼프 덕분에 뜻밖의 돈벼락…'한국 제쳤다' 中 환호",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260423142534699",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이란 전쟁에 中조선업계 수혜…유조선 수주 증가",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260422_0003602416",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'중동전쟁' 中 반사이익 '톡톡'…美군사전략도 학습",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/MYH20260423143809b5A",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "조선소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260423142534699",
+        "publishedAt": "2026-04-23T05:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-23T05:00:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "조선소",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260421115800042"
+      "url": "https://v.daum.net/v/20260423142534699"
+    },
+    {
+      "id": "1dad7d7ea99b6da4",
+      "issueKey": "이명세",
+      "issueTitle": "이명세",
+      "trendTitle": "이명세",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘란 12.3’ 기세 무섭다…개봉 동시에 2위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260423094736008",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'영화보다 더 영화같은 그날 밤'‥다큐 '란 12.3'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6817080_37012.html",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[기획] 어느 시민 혁명에 관한 시네마틱 마니페스토 – 장병원 평론가의 다큐멘터리로서의",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=109828",
+          "publishedAt": "2026-04-23T05:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이명세",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260423094736008",
+        "publishedAt": "2026-04-23T05:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-23T05:00:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "이명세",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260423094736008"
+    },
+    {
+      "id": "b0ab1536ebd1fef4",
+      "issueKey": "서울 중구청장",
+      "issueTitle": "서울 중구청장",
+      "trendTitle": "서울 중구청장",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "국힘 지도부, 서울시당이 추천한 중구청장 후보 ‘반려’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260423102907432",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[단독] 국힘 공관위, ‘배현진표’ 서울 중구청장 공천 \"재검토\" 결론…오늘 최고위 보고",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12295437",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "국민의힘 지도부, ‘김길성 중구청장 공천안’ 의결 거부…서울시당 “잘못된 사실”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8543838",
+          "publishedAt": "2026-04-23T04:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독] 국힘 공관위, ‘배현진표’ 서울 중구청장 공천 \"재검토\" 결론…오늘 최고위 보고",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12295437",
+        "publishedAt": "2026-04-23T04:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-23T04:30:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "서울 중구청장",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12295437"
     },
     {
       "id": "0de55473dc2bab7b",
@@ -2045,50 +2249,50 @@
       "url": "https://www.newsis.com/view/NISX20260421_0003599897"
     },
     {
-      "id": "f751a9783620a980",
-      "issueKey": "편리해진 크롬",
-      "issueTitle": "편리해진 크롬",
-      "trendTitle": "편리해진 크롬",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "e74f61f5f46b1ef5",
+      "issueKey": "길려원",
+      "issueTitle": "길려원",
+      "trendTitle": "길려원",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "AI로 더욱 스마트하고 편리해진 크롬이 한국에 출시됩니다",
-          "source": "blog.google",
-          "url": "https://blog.google/intl/ko-kr/products/android-play-hardware/gemini-in-chrome-launch-korea/",
-          "publishedAt": "2026-04-21T04:10:00.000Z",
+          "title": "길려원, 무려 세 남자가…‘역대급 인기녀’ 등극 (우리 듀엣할까요?)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GM5Pa7waUV",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"다른 창으로 이동할 필요가 없다\"...제미나이 탑재된 구글 브라우저 크롬 써보니",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/04/21/RTODZNNAVZANDE4BGHWCPJJLM4/",
-          "publishedAt": "2026-04-21T04:10:00.000Z",
+          "title": "",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/entertain/2316361.htm",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘제미나이’ 탑재 크롬, 한국 출시…현재 탭서 웹 페이지 요약 ‘휙~’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/it/1255145.html",
-          "publishedAt": "2026-04-21T04:10:00.000Z",
+          "title": "길려원, 트롯남 3인 몰표…홍성윤은 삼각관계 직면 (우리 듀엣할까요?) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/04/23/MMZDANDBGEZDINZVGY2TOODEGI/",
+          "publishedAt": "2026-04-23T04:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "AI로 더욱 스마트하고 편리해진 크롬이 한국에 출시됩니다",
-        "source": "blog.google",
-        "url": "https://blog.google/intl/ko-kr/products/android-play-hardware/gemini-in-chrome-launch-korea/",
-        "publishedAt": "2026-04-21T04:10:00.000Z",
+        "title": "길려원, 무려 세 남자가…‘역대급 인기녀’ 등극 (우리 듀엣할까요?)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/GM5Pa7waUV",
+        "publishedAt": "2026-04-23T04:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-21T04:10:00.000Z",
-      "firstSeenAt": "2026-04-21T06:24:07.996Z",
-      "lastSeenAt": "2026-04-21T06:24:07.996Z",
-      "title": "편리해진 크롬",
-      "source": "blog.google",
-      "url": "https://blog.google/intl/ko-kr/products/android-play-hardware/gemini-in-chrome-launch-korea/"
+      "publishedAt": "2026-04-23T04:20:00.000Z",
+      "firstSeenAt": "2026-04-23T06:28:23.614Z",
+      "lastSeenAt": "2026-04-23T06:28:23.614Z",
+      "title": "길려원",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/GM5Pa7waUV"
     },
     {
       "id": "81fec7a23723576c",
@@ -2135,236 +2339,6 @@
       "title": "노조",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260422_0003602322"
-    },
-    {
-      "id": "8b6a3c376feb0924",
-      "issueKey": "평택시",
-      "issueTitle": "평택시",
-      "trendTitle": "평택시",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "평택시, 시민 정원사 앞세워 ‘참여형 정원 문화’ 확산 잰 걸음",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260422580567",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "평택 꽃나들이서 유기견 15마리 입양…현장 캠페인 성과",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260420501151",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "",
-          "source": "더코리아",
-          "url": "http://www.thekorea.kr/bbs/board.php?bo_table=news&amp;wr_id=489308",
-          "publishedAt": "2026-04-22T21:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "평택시, 시민 정원사 앞세워 ‘참여형 정원 문화’ 확산 잰 걸음",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260422580567",
-        "publishedAt": "2026-04-22T21:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-22T21:50:00.000Z",
-      "firstSeenAt": "2026-04-22T23:34:37.402Z",
-      "lastSeenAt": "2026-04-22T23:34:37.402Z",
-      "title": "평택시",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260422580567"
-    },
-    {
-      "id": "22261f070b957550",
-      "issueKey": "9950x3d2",
-      "issueTitle": "9950x3d2",
-      "trendTitle": "9950x3d2",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "The Reviews Are In: AMD's Ryzen 9950X3D2 Is the Fastest for Gaming, But Not by Much",
-          "source": "ExtremeTech",
-          "url": "https://www.extremetech.com/computing/the-reviews-are-in-amds-ryzen-9950x3d2-is-the-fastest-for-gaming-but-not",
-          "publishedAt": "2026-04-22T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "AMD Ryzen 9 9950X3D2 Dual Edition review: Tons of cache for tons of dollars",
-          "source": "Ars Technica",
-          "url": "https://arstechnica.com/gadgets/2026/04/amd-ryzen-9-9950x3d2-dual-edition-review-tons-of-cache-for-tons-of-dollars/",
-          "publishedAt": "2026-04-22T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Alienware Area-51 gaming desktop now available with AMD’s flagship Ryzen 9 9950X3D2 Dual Edition — top CPU config starts at $4,449.99 with RTX 5070 and 32GB DDR5",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/desktops/gaming-pcs/alienware-area-51-gaming-desktop-now-available-with-amds-flagship-ryzen-9-9950x3d2-dual-edition-base-config-starts-at-usd4-299-99-with-rtx-5070-and-32gb-ddr5",
-          "publishedAt": "2026-04-22T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "The Reviews Are In: AMD's Ryzen 9950X3D2 Is the Fastest for Gaming, But Not by Much",
-        "source": "ExtremeTech",
-        "url": "https://www.extremetech.com/computing/the-reviews-are-in-amds-ryzen-9950x3d2-is-the-fastest-for-gaming-but-not",
-        "publishedAt": "2026-04-22T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-22T14:40:00.000Z",
-      "firstSeenAt": "2026-04-22T18:16:16.145Z",
-      "lastSeenAt": "2026-04-22T18:16:16.145Z",
-      "title": "9950x3d2",
-      "source": "ExtremeTech",
-      "url": "https://www.extremetech.com/computing/the-reviews-are-in-amds-ryzen-9950x3d2-is-the-fastest-for-gaming-but-not"
-    },
-    {
-      "id": "eae5f643d323fb58",
-      "issueKey": "보그",
-      "issueTitle": "보그",
-      "trendTitle": "보그",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "촌스럽다고? 요즘 20대가 1970년대 ‘반짝이 백’에 열광하는 이유",
-          "source": "보그 코리아 (Vogue Korea)",
-          "url": "https://www.vogue.co.kr/2026/04/22/%EC%B4%8C%EC%8A%A4%EB%9F%BD%EB%8B%A4%EA%B3%A0-%EC%9A%94%EC%A6%98-20%EB%8C%80%EA%B0%80-1970%EB%85%84%EB%8C%80-%EB%B0%98%EC%A7%9D%EC%9D%B4-%EB%B0%B1%EC%97%90-%EC%97%B4%EA%B4%91%ED%95%98%EB%8A%94/",
-          "publishedAt": "2026-04-22T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "NCT 태용, 햇살 머금은 향기 [화보]",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1154293",
-          "publishedAt": "2026-04-22T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "2026 멧 갈라 실시간 시청 방법!",
-          "source": "보그 코리아 (Vogue Korea)",
-          "url": "https://www.vogue.co.kr/2026/04/22/2026-%EB%A9%A7-%EA%B0%88%EB%9D%BC-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8B%9C%EC%B2%AD-%EB%B0%A9%EB%B2%95/",
-          "publishedAt": "2026-04-22T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "보그",
-        "source": "보그 코리아 (Vogue Korea)",
-        "url": "https://www.vogue.co.kr/2026/04/22/%EC%B4%8C%EC%8A%A4%EB%9F%BD%EB%8B%A4%EA%B3%A0-%EC%9A%94%EC%A6%98-20%EB%8C%80%EA%B0%80-1970%EB%85%84%EB%8C%80-%EB%B0%98%EC%A7%9D%EC%9D%B4-%EB%B0%B1%EC%97%90-%EC%97%B4%EA%B4%91%ED%95%98%EB%8A%94/",
-        "publishedAt": "2026-04-22T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-22T13:40:00.000Z",
-      "firstSeenAt": "2026-04-22T18:16:16.145Z",
-      "lastSeenAt": "2026-04-22T18:16:16.145Z",
-      "title": "보그",
-      "source": "보그 코리아 (Vogue Korea)",
-      "url": "https://www.vogue.co.kr/2026/04/22/%EC%B4%8C%EC%8A%A4%EB%9F%BD%EB%8B%A4%EA%B3%A0-%EC%9A%94%EC%A6%98-20%EB%8C%80%EA%B0%80-1970%EB%85%84%EB%8C%80-%EB%B0%98%EC%A7%9D%EC%9D%B4-%EB%B0%B1%EC%97%90-%EC%97%B4%EA%B4%91%ED%95%98%EB%8A%94/"
-    },
-    {
-      "id": "d68bc362da80fede",
-      "issueKey": "프로축구 서울",
-      "issueTitle": "프로축구 서울",
-      "trendTitle": "프로축구 서울",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"내 실수로 경기 망쳤다\"…한글로 적은 일본 선수의 진심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260422100748212",
-          "publishedAt": "2026-04-22T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "프로축구 서울, 부천에 3-0 완승…K리그1 선두 굳혀",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260421_0003600770",
-          "publishedAt": "2026-04-22T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"내 실수로 경기 망쳤다\"…부천FC 일본인 MF 카즈, 공개 사과",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260422104300007",
-          "publishedAt": "2026-04-22T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "프로축구 서울, 부천에 3-0 완승…K리그1 선두 굳혀",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260421_0003600770",
-        "publishedAt": "2026-04-22T10:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-22T10:50:00.000Z",
-      "firstSeenAt": "2026-04-22T12:10:13.666Z",
-      "lastSeenAt": "2026-04-22T12:10:13.666Z",
-      "title": "프로축구 서울",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260421_0003600770"
-    },
-    {
-      "id": "7a6ba7629f1b7498",
-      "issueKey": "웰스",
-      "issueTitle": "웰스",
-      "trendTitle": "웰스",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "아시아쿼터, 日 출신이라 뽑았더니 다들 영…논란속에 선발한 키움만 웃었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260422163333221",
-          "publishedAt": "2026-04-22T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'3억 한계인가' 벌써 교체설 도는 위기의 아시아쿼터, 韓 명장 냉정 진단 \"한국 선수와 별반 다를 게 없다\" [오!쎈 수원]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/04/21/GJQTONJZGY3WEYZXG4ZTMZRZMY/",
-          "publishedAt": "2026-04-22T10:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"1군 자원 아니다\" 피안타율 0.425, ERA 13.03…일본인 아시아쿼터 부진, 제도의 실효성 도마 위로 [IS 포커스]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260422n08314",
-          "publishedAt": "2026-04-22T10:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "웰스",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260422163333221",
-        "publishedAt": "2026-04-22T10:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-22T10:40:00.000Z",
-      "firstSeenAt": "2026-04-22T12:10:13.666Z",
-      "lastSeenAt": "2026-04-22T12:10:13.666Z",
-      "title": "웰스",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260422163333221"
     }
   ]
 }
