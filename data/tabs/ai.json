@@ -4,9 +4,45 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-23T23:31:58.133Z",
-  "articleCount": 13,
+  "lastUpdatedAt": "2026-04-24T06:29:54.938Z",
+  "articleCount": 14,
   "articles": [
+    {
+      "id": "81f4ebdae5b3bc50",
+      "title": "구글 에이전트 개발 키트 사용기",
+      "url": "https://www.itworld.co.kr/article/4161784/%ea%b5%ac%ea%b8%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ed%82%a4%ed%8a%b8-%ec%82%ac%ec%9a%a9%ea%b8%b0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-04-24T04:05:24.000Z",
+      "summary": "구글 에이전트 개발 키트(ADK) 는 AI 에이전트를 개발하고 배포하기 위한 유연하고 모듈화된 오픈소스 프레임워크다. 제미나이와 구글 생태계에 맞춰 최적화됐지만 모델과 배포 환경 모두 무엇을 사용하든 가리지 않으며, 다른 프레임워크와의 호환성도 고려해 만들어졌다. ADK는 소프트웨어 개발과 비슷한 느낌으로 에이전트 개발을 할 수 있도록 설계됐다. 개발자가 에이전트 아키텍처를 좀더 쉽게...",
+      "tab": "ai"
+    },
+    {
+      "id": "f0efe2725beca756",
+      "title": "예측 불가능한 소비자 여정, AI가 돕는다…크리테오, 에이전틱 AI 활용 전략 제안",
+      "url": "https://www.itworld.co.kr/article/4162912/%ec%98%88%ec%b8%a1-%eb%b6%88%ea%b0%80%eb%8a%a5%ed%95%9c-%ec%86%8c%eb%b9%84%ec%9e%90-%ec%97%ac%ec%a0%95-ai%ea%b0%80-%eb%8f%95%eb%8a%94%eb%8b%a4%ed%81%ac%eb%a6%ac%ed%85%8c%ec%98%a4-%ec%97%90.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-04-24T02:20:00.000Z",
+      "summary": "글로벌 커머스 인텔리전스 플랫폼 크리테오가 서울 강남구 코엑스에서 열린 ‘크리테오 커머스 포럼 2026’에서 에이전틱 AI를 중심으로 한 AI 기반 커머스 전략을 공개했다. ‘The Next Chapter: Commerce Intelligence’를 주제로 열린 이번 행사에는 900여 명의 마케팅·커머스 관계자가 참석했으며, 파편화된 멀티채널 환경에서 커머스 데이터와 AI, 자동화를 활...",
+      "tab": "ai"
+    },
+    {
+      "id": "324d180b84cf69fa",
+      "title": "AI 확장의 숨은 걸림돌 ‘GPU 비용’ 해결책…데이터독 GPU 모니터링 출시",
+      "url": "https://www.itworld.co.kr/article/4162923/ai-%ed%99%95%ec%9e%a5%ec%9d%98-%ec%88%a8%ec%9d%80-%ea%b1%b8%eb%a6%bc%eb%8f%8c-gpu-%eb%b9%84%ec%9a%a9-%ed%95%b4%ea%b2%b0%ec%b1%85-%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%8f%85-gpu-%eb%aa%a8.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-04-24T02:06:25.000Z",
+      "summary": "AI 기반 옵저버빌리티와 보안 플랫폼 전문 업체 데이터독(Datadog, Inc.) 이 계속 증가하는 AI 비용을 확장 가능하고 효과적으로 관리하려는 기업의 핵심 과제를 해결할 방안으로 GPU 모니터링을 정식 출시 했다. 데이터독 CPO 얀빙 리는 전체 컴퓨팅 비용의 14%를 차지 하는 GPU 인스턴스 비용이 기업의 AI 퍼스트 기술 구축에 큰 걸림돌이 된다며, 비용 증가 추이 외에 사...",
+      "tab": "ai"
+    },
+    {
+      "id": "7c8ce875d302586b",
+      "title": "클로드 코드 제외되나…앤트로픽 테스트가 드러낸 개인용 AI 요금제의 한계",
+      "url": "https://www.itworld.co.kr/article/4162231/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%a0%9c%ec%99%b8%eb%90%98%eb%82%98-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%85%8c%ec%8a%a4%ed%8a%b8%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ea%b0%9c.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-04-23T23:40:16.000Z",
+      "summary": "정액형 AI 요금제가 한계에 다다랐다는 기사를 쓴 직후 클로드를 개발한 앤트로픽에서 직접 중요한 신호가 발신됐다. 일부 클로드 사용자가 앤트로픽이 개인용 클로드 프로와 맥스 요금제 가입 페이지 수정을 포착했다. 특히 클로드 프로가 제공하는 기능 목록에서 클로드 코드 항목이 사라진 것이 확인됐다. 이후 클로드 코드는 다시 클로드 프로 가입 페이지에 명시됐다. 앤트로픽 성장 총괄 아몰 아바...",
+      "tab": "ai"
+    },
     {
       "id": "1dded3311cded1b4",
       "title": "[WIS 2026] 주한 외교사절단 '최대 규모' 집결…韓 AI·ICT 현장서 협력 기회 모색",
@@ -80,15 +116,6 @@
       "tab": "ai"
     },
     {
-      "id": "8f3e6696d2c30b13",
-      "title": "스마게 오렌지플래닛, AI·로보틱스 등 18개팀 선발... “유니콘 도약 전폭 지원”",
-      "url": "https://www.etnews.com/20260420000150",
-      "source": "전자신문 게임",
-      "publishedAt": "2026-04-20T02:07:17.000Z",
-      "summary": "글로벌 창업 플랫폼 스마일게이트 오렌지플래닛 창업재단은 2026년 상반기 정기모집을 통해 글로벌 무대에서 활약할 유망 스타트업 18개 팀을 선발했다고 20일 밝혔다. 이번 정기모집에는 458개 팀이 지원해 25대 1의 경쟁률을 기록했다. 전 세계적 추세인 인공지능(AI",
-      "tab": "ai"
-    },
-    {
       "id": "608fa10050a3617d",
       "title": "챗GPT·클로드·제미나이와 나눈 대화, 법적 증거 될 수도",
       "url": "https://www.itworld.co.kr/article/4160590/%ec%b1%97gpt%c2%b7%ed%81%b4%eb%a1%9c%eb%93%9c%c2%b7%ec%a0%9c%eb%af%b8%eb%82%98%ec%9d%b4%ec%99%80-%eb%82%98%eb%88%88-%eb%8c%80%ed%99%94-%eb%b2%95%ec%a0%81-%ec%a6%9d%ea%b1%b0-%eb%90%a0-%ec%88%98.html",
@@ -104,24 +131,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-04-17T01:02:04.000Z",
       "summary": "보안팀이 사이버 위협을 탐지하고 추적하는 방식이 AI로 빠르게 재편되고 있다. AI는 방대한 양의 보안 데이터를 분석하고 포착하기 어려운 악의적 활동 징후를 찾으며, 전통적인 툴이나 인간 애널리스트보다 더 빠르게 잠재적 공격을 식별할 수 있기 때문이다. 가트너는 EDR, XDR, SIEM, SOAR와 같은 기술을 포함한 위협 탐지, 조사 및 대응(TDIR) 플랫폼의 에이전틱 AI 기능...",
-      "tab": "ai"
-    },
-    {
-      "id": "bba3166c4839f7ec",
-      "title": "멀티 에이전트 AI의 병목, “에이전트 아닌 조정 인프라”",
-      "url": "https://www.itworld.co.kr/article/4159938/%eb%a9%80%ed%8b%b0-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-ai%ec%9d%98-%eb%b3%91%eb%aa%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%95%84%eb%8b%8c-%ec%a1%b0%ec%a0%95-%ec%9d%b8%ed%94%84%eb%9d%bc.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-16T23:52:32.000Z",
-      "summary": "필자가 속한 팀에 개발한 멀티 에이전트 AI 시스템은 데모에서는 괜찮았다. 한 에이전트는 고객 문의를 처리하고 다른 에이전트는 일정을 관리하고 세 번째는 문서를 처리했다. 각 에이전트 개별적으로는 아주 잘 작동했다. 그러나 프로덕션에서는 불협화음을 내기 시작했다. 일정 관리 에이전트는 고객 문의 처리 에이전트가 아직 요구사항을 수집하는 중인데도 예약을 잡았고, 문서 에이전트는 이미 두...",
-      "tab": "ai"
-    },
-    {
-      "id": "acb8b3ae4ea61ddf",
-      "title": "AI 없이 보낸 일주일 “오히려 좋았던” 이유",
-      "url": "https://www.itworld.co.kr/article/4159930/ai-%ec%97%86%ec%9d%b4-%eb%b3%b4%eb%82%b8-%ec%9d%bc%ec%a3%bc%ec%9d%bc-%ec%98%a4%ed%9e%88%eb%a0%a4-%ec%a2%8b%ec%95%98%eb%8d%98-%ec%9d%b4%ec%9c%a0.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-16T23:31:24.000Z",
-      "summary": "새 거실에 서서 이삿짐 박스에 둘러싸인 채 고장 난 식기세척기 앞에 섰을 때, 필자에게 절실했던 것은 딱 세 가지였다. 가위, 짐을 풀 공간, 그리고 배관공. 챗GPT는 그 목록 근처에도 없었다. 가족과 함께 봄방학 대부분을 맨해튼의 새롭고 훨씬 작은 집으로 이사하며 보냈는데, 이 경험은 특정 현실적인 문제 앞에서 AI가 얼마나 무력한지를 뼈저리게 일깨워줬다. 물론 구매 계약서를 꼼꼼히...",
       "tab": "ai"
     }
   ]
