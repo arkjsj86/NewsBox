@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-04-25T07:18:31.022Z",
+  "lastUpdatedAt": "2026-04-25T09:53:51.646Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -14,29 +14,6 @@
   "primaryBlockName": "Week 4",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115548128962840639",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 4",
-      "startTime": "2026-04-25T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        },
-        {
-          "name": "HANJIN BRION",
-          "code": "BRO",
-          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128962906235",
       "leagueKey": "lck",
@@ -286,6 +263,29 @@
           "name": "NONGSHIM RED FORCE",
           "code": "NS",
           "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128963037511",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 5",
+      "startTime": "2026-05-03T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "kt Rolster",
+          "code": "KT",
+          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
+        },
+        {
+          "name": "HANJIN BRION",
+          "code": "BRO",
+          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
