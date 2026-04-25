@@ -7,8 +7,8 @@
   "tournamentName": "Split 2 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-04-25T09:54:38.648Z",
-  "lastUpdatedAt": "2026-04-25T09:54:38.648Z",
+  "fetchedAt": "2026-04-25T13:07:02.492Z",
+  "lastUpdatedAt": "2026-04-25T13:07:02.492Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
@@ -34,6 +34,15 @@
     },
     {
       "rank": 3,
+      "code": "DK",
+      "name": "Dplus KIA",
+      "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+      "wins": 5,
+      "losses": 3,
+      "points": 5
+    },
+    {
+      "rank": 4,
       "code": "GEN",
       "name": "Gen.G Esports",
       "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
@@ -42,16 +51,7 @@
       "points": 4
     },
     {
-      "rank": 3,
-      "code": "DK",
-      "name": "Dplus KIA",
-      "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-      "wins": 4,
-      "losses": 3,
-      "points": 4
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "code": "NS",
       "name": "NONGSHIM RED FORCE",
       "image": "http://static.lolesports.com/teams/NSFullonDark.png",
@@ -60,13 +60,13 @@
       "points": 4
     },
     {
-      "rank": 6,
+      "rank": 4,
       "code": "T1",
       "name": "T1",
       "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
-      "wins": 3,
+      "wins": 4,
       "losses": 3,
-      "points": 3
+      "points": 4
     },
     {
       "rank": 7,
@@ -92,7 +92,7 @@
       "name": "HANJIN BRION",
       "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "points": 1
     },
     {
@@ -101,7 +101,7 @@
       "name": "DN SOOPers",
       "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "points": 1
     }
   ]
