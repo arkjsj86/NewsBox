@@ -7,8 +7,8 @@
   "tournamentName": "Split 2 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-04-26T09:55:00.066Z",
-  "lastUpdatedAt": "2026-04-26T09:55:00.066Z",
+  "fetchedAt": "2026-04-26T13:09:35.934Z",
+  "lastUpdatedAt": "2026-04-26T13:09:35.934Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
@@ -34,6 +34,15 @@
     },
     {
       "rank": 3,
+      "code": "GEN",
+      "name": "Gen.G Esports",
+      "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+      "wins": 5,
+      "losses": 3,
+      "points": 5
+    },
+    {
+      "rank": 3,
       "code": "DK",
       "name": "Dplus KIA",
       "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
@@ -51,21 +60,12 @@
       "points": 5
     },
     {
-      "rank": 5,
-      "code": "GEN",
-      "name": "Gen.G Esports",
-      "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-      "wins": 4,
-      "losses": 3,
-      "points": 4
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "code": "NS",
       "name": "NONGSHIM RED FORCE",
       "image": "http://static.lolesports.com/teams/NSFullonDark.png",
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "points": 4
     },
     {
