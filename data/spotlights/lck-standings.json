@@ -7,8 +7,8 @@
   "tournamentName": "Split 2 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-04-26T07:42:17.764Z",
-  "lastUpdatedAt": "2026-04-26T07:42:17.764Z",
+  "fetchedAt": "2026-04-26T09:55:00.066Z",
+  "lastUpdatedAt": "2026-04-26T09:55:00.066Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
@@ -42,7 +42,16 @@
       "points": 5
     },
     {
-      "rank": 4,
+      "rank": 3,
+      "code": "T1",
+      "name": "T1",
+      "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+      "wins": 5,
+      "losses": 3,
+      "points": 5
+    },
+    {
+      "rank": 5,
       "code": "GEN",
       "name": "Gen.G Esports",
       "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
@@ -51,19 +60,10 @@
       "points": 4
     },
     {
-      "rank": 4,
+      "rank": 5,
       "code": "NS",
       "name": "NONGSHIM RED FORCE",
       "image": "http://static.lolesports.com/teams/NSFullonDark.png",
-      "wins": 4,
-      "losses": 3,
-      "points": 4
-    },
-    {
-      "rank": 4,
-      "code": "T1",
-      "name": "T1",
-      "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
       "wins": 4,
       "losses": 3,
       "points": 4
@@ -74,11 +74,11 @@
       "name": "BNK FEARX",
       "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
       "wins": 2,
-      "losses": 5,
+      "losses": 6,
       "points": 2
     },
     {
-      "rank": 8,
+      "rank": 7,
       "code": "DRX",
       "name": "KIWOOM DRX",
       "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
