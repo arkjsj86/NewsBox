@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-04-27T05:55:39.012Z",
+  "lastUpdatedAt": "2026-04-27T08:29:46.088Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "DxAcvmt2D90",
+      "title": "[유니티 꿀팁 시리즈] SOLID 원칙_DIP",
+      "url": "https://www.youtube.com/shorts/DxAcvmt2D90",
+      "publishedAt": "2026-04-27T05:59:19.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/DxAcvmt2D90/hqdefault.jpg"
+    },
+    {
       "id": "laeZtgxIzYI",
       "title": "[유니티 꿀팁 시리즈] SOLID 원칙_ISP",
       "url": "https://www.youtube.com/shorts/laeZtgxIzYI",
       "publishedAt": "2026-04-24T01:23:42.000Z",
       "thumbnailUrl": "https://i1.ytimg.com/vi/laeZtgxIzYI/hqdefault.jpg"
-    },
-    {
-      "id": "mHCnYmYehS8",
-      "title": "[유니티 꿀팁 시리즈] SOLID 원칙_LSP",
-      "url": "https://www.youtube.com/shorts/mHCnYmYehS8",
-      "publishedAt": "2026-04-23T01:04:28.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/mHCnYmYehS8/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
