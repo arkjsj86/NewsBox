@@ -7,157 +7,439 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-04-27T08:29:46.088Z",
+  "lastUpdatedAt": "2026-04-27T11:05:08.433Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "fa532bf58385370d",
-      "issueKey": "카드론",
-      "issueTitle": "카드론",
-      "trendTitle": "카드론",
+      "id": "a2424b0167b1f4f7",
+      "issueKey": "신민아",
+      "issueTitle": "신민아",
+      "trendTitle": "신민아",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'김우빈♥' 신민아, 출장 가는 길..청바지+흰티 '러블리 미소'[스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/04/27/2026042710184188347",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]신민아, '미모가 찰랑'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/04/27/GUYTAYZRHAZWEMDGMVSTIMLBGU/",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "신민아, '1억↑' 걸친 공항 룩…흰 티+청바지 패션 '상큼 발랄'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/04/27/2026042716224063991",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'김우빈♥' 신민아, 출장 가는 길..청바지+흰티 '러블리 미소'[스타이슈]",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/star/2026/04/27/2026042710184188347",
+        "publishedAt": "2026-04-27T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "신민아",
+      "source": "스타뉴스",
+      "url": "https://www.starnewskorea.com/star/2026/04/27/2026042710184188347",
+      "rank": 1
+    },
+    {
+      "id": "a29b1e674f6e9192",
+      "issueKey": "오늘",
+      "issueTitle": "오늘",
+      "trendTitle": "별자리",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[오늘의 운세] 4월 27일",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25423483",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[오늘의 운세] 2026년 04월 27일 별자리 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202604270000000002",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[오늘의 운세] 4월 27일 월요일 (음력 3월 11일 辛未)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/04/26/LMZPKRZIP5BALLBW2M6YM4BA7A/",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[오늘의 운세] 4월 27일",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25423483",
+        "publishedAt": "2026-04-27T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "오늘",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25423483",
+      "rank": 2
+    },
+    {
+      "id": "c78349b28ed5bfff",
+      "issueKey": "현대건설",
+      "issueTitle": "현대건설",
+      "trendTitle": "현대건설",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "현대건설, 트레이드로 배유나 영입…세터 이수연은 도로공사행",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8546733",
+          "publishedAt": "2026-04-27T09:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현대건설, 은퇴한 양효진 공백 메우기 위해 배유나 사인 앤 트레이드 영입…이수연은 한국도로공사행",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260427/133820477/1",
+          "publishedAt": "2026-04-27T09:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[배구] 현대건설, 배유나 영입… 세터 이수연은 도로공사로",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3396782",
+          "publishedAt": "2026-04-27T09:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "현대건설, 트레이드로 배유나 영입…세터 이수연은 도로공사행",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8546733",
+        "publishedAt": "2026-04-27T09:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T09:50:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "현대건설",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8546733",
+      "rank": 3
+    },
+    {
+      "id": "6ad45599a61294d9",
+      "issueKey": "손창환 감독",
+      "issueTitle": "손창환 감독",
+      "trendTitle": "손창환 감독",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘PO 2연패’ 창원 LG, 오늘 고양서 ‘벼랑 끝 3차전’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8546306",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]손창환 감독, 홈에서 끝내자",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/27/GFSGCMRVHBRTCY3CGA2TSN3DGQ/",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[웜업터뷰] '양준석 OUT' 조상현 감독의 바람…\"위기 속 기회, 다른 선수들이 잘해줬으면\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260427185546384",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[사진]손창환 감독, 홈에서 끝내자",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/04/27/GFSGCMRVHBRTCY3CGA2TSN3DGQ/",
+        "publishedAt": "2026-04-27T09:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-27T09:40:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "손창환 감독",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/04/27/GFSGCMRVHBRTCY3CGA2TSN3DGQ/",
+      "rank": 4
+    },
+    {
+      "id": "ff99fc88f9b15cb4",
+      "issueKey": "화물 연대",
+      "issueTitle": "화물 연대",
+      "trendTitle": "화물 연대",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"중신용자 부담 줄인다\"…중금리대출 활성화에 31.9조 공급",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6508694",
-          "publishedAt": "2026-04-27T07:10:00.000Z",
+          "title": "CU 점주 연합 \"파업 참여한 화물연대 기사 배송 거부\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/market_trend/2026/04/27/SSUBBJG4IJCOJBFFVMBIP62BT4/",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"중금리대출 금리 낮추면 인센티브\" 금융당국 유인책, 2금융권 '미지근'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/general-finance/6150230",
-          "publishedAt": "2026-04-27T07:10:00.000Z",
+          "title": "“화물연대 노동자 사망 책임져라”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0900&amp;key=20260428.22006007720",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "중금리대출 31.9조 공급…카드사도 사잇돌·생활자금 대출 신설",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260427067500002",
-          "publishedAt": "2026-04-27T07:10:00.000Z",
+          "title": "화물차 핸들, 노조법 울타리 안으로 들어올까…노동위 판단에 쏠린 눈",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260427102811",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "카드론",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6508694",
-        "publishedAt": "2026-04-27T07:10:00.000Z",
+        "title": "화물 연대",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/market_trend/2026/04/27/SSUBBJG4IJCOJBFFVMBIP62BT4/",
+        "publishedAt": "2026-04-27T09:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-27T07:10:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "카드론",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6508694",
-      "rank": 1
+      "publishedAt": "2026-04-27T09:40:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "화물 연대",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/market_trend/2026/04/27/SSUBBJG4IJCOJBFFVMBIP62BT4/",
+      "rank": 5
     },
     {
-      "id": "421e5e7f333be7e8",
-      "issueKey": "박수종",
-      "issueTitle": "박수종",
-      "trendTitle": "박수종",
+      "id": "d4e7e82fd9b0598b",
+      "issueKey": "화순군",
+      "issueTitle": "화순군",
+      "trendTitle": "화순군",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "화순군, 봄꽃축제 현장에 '세무상담실'…군민·관광객 불편 해소",
+          "source": "폴리뉴스 Polinews",
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=729650",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "화순군, ‘꽃강길 봄꽃 축제장 세무상담실’ 운영",
+          "source": "메트로신문",
+          "url": "http://www.metroseoul.co.kr/article/20260427500390",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "화순 공정식 전국 가요제, 뜨거운 열기 속 성료",
+          "source": "한국시사경제",
+          "url": "https://www.hksisaeconomy.com/news/article.html?no=1118389",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "화순군, 봄꽃축제 현장에 '세무상담실'…군민·관광객 불편 해소",
+        "source": "폴리뉴스 Polinews",
+        "url": "https://www.polinews.co.kr/news/articleView.html?idxno=729650",
+        "publishedAt": "2026-04-27T09:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T09:20:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "화순군",
+      "source": "폴리뉴스 Polinews",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=729650",
+      "rank": 6
+    },
+    {
+      "id": "cf1438ba5303968d",
+      "issueKey": "누나",
+      "issueTitle": "누나",
+      "trendTitle": "박보영",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"누나, 누나, 누나\", \"살면서 누나를…\" 김성철·박보영 '골드랜드' 호흡[영상]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260427185701401",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'뽀블리'서 '욕망캐' 된 박보영 \"감량하고 민낯 촬영했죠\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260427_0003607773",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "눈앞에 놓인 1500억원어치의 금괴…당신의 선택은?",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10726386",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"누나, 누나, 누나\", \"살면서 누나를…\" 김성철·박보영 '골드랜드' 호흡[영상]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260427185701401",
+        "publishedAt": "2026-04-27T09:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T09:20:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "누나",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260427185701401",
+      "rank": 7
+    },
+    {
+      "id": "f4a1f9b401716f1e",
+      "issueKey": "놀이기구",
+      "issueTitle": "놀이기구",
+      "trendTitle": "놀이기구",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "시속 160㎞까지 날다가 공중서 ‘뚝’… 스페인 놀이기구 추락 사고",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/topic/2026/04/27/PLDX2M74KFCMHJHLIUVZV4X3Q4/",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "미군 폭격기 출격하는 英 공군기지서 화재…인명피해 없어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260427191009667",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[영상] 이게 끊어질 줄이야…90m 상공서 놀이기구 케이블 '뚝'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260427117700704",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "시속 160㎞까지 날다가 공중서 ‘뚝’… 스페인 놀이기구 추락 사고",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/topic/2026/04/27/PLDX2M74KFCMHJHLIUVZV4X3Q4/",
+        "publishedAt": "2026-04-27T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T09:10:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "놀이기구",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/international/topic/2026/04/27/PLDX2M74KFCMHJHLIUVZV4X3Q4/",
+      "rank": 8
+    },
+    {
+      "id": "5a7132c8557301d4",
+      "issueKey": "강릉시",
+      "issueTitle": "강릉시",
+      "trendTitle": "강릉시",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "삼성 미야지 공에 맞은 키움 박수종, 고막 천공 진단…회복까지 3주",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260427_0003607693",
-          "publishedAt": "2026-04-27T07:10:00.000Z",
+          "title": "대규모 국내외 행사 발굴로 글로벌 관광도시 강릉 도약 기반 마련",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260427133323133",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "미야지 공에 머리 맞고 쓰러졌다, 헤드샷 퇴장은 아니다?…박수종 사구→투수 교체, 어떻게 된 걸까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260426192707377",
-          "publishedAt": "2026-04-27T07:10:00.000Z",
+          "title": "강릉시, 대규모 국내·외 행사 발굴 나서…28건 유치 논의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260427072200062",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "148km 직구에 머리 맞은 박수종, 고막 천공 부상…회복에 3주 소요 \"훈련·경기 지장 없어\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/04/27/MEYDSNZVHE2GEOLFMVRTSNBYMM/",
-          "publishedAt": "2026-04-27T07:10:00.000Z",
+          "title": "강릉시, 대규모 국·내외 행사 발굴…글로벌 관광·MICE 도시 '도약'",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6508512",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "삼성 미야지 공에 맞은 키움 박수종, 고막 천공 진단…회복까지 3주",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260427_0003607693",
-        "publishedAt": "2026-04-27T07:10:00.000Z",
-        "relevanceScore": 3
+        "title": "강릉시, 대규모 국내·외 행사 발굴 나서…28건 유치 논의",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260427072200062",
+        "publishedAt": "2026-04-27T09:10:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-04-27T07:10:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "박수종",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260427_0003607693",
-      "rank": 2
+      "publishedAt": "2026-04-27T09:10:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "강릉시",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260427072200062",
+      "rank": 9
     },
     {
-      "id": "45b126491f19f33f",
-      "issueKey": "권나라",
-      "issueTitle": "권나라",
-      "trendTitle": "권나라",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"벗지 않아도 아찔\"… 권나라, 다낭 홀린 역대급 '리조트룩'의 유혹",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260427052907098",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘비율이 다 했다’…권나라, 청량 티셔츠 하나로 완성한 ‘휴양지룩’",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1605677",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "권나라, 이국적 풍경 속 독보적 분위기…다낭 시선 싹쓸이한 미모[스타화보]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260427n10482",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"벗지 않아도 아찔\"… 권나라, 다낭 홀린 역대급 '리조트룩'의 유혹",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260427052907098",
-        "publishedAt": "2026-04-27T07:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-27T07:00:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "권나라",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260427052907098",
-      "rank": 3
-    },
-    {
-      "id": "5e3d3b2fd51a1f97",
-      "issueKey": "특징주",
-      "issueTitle": "특징주",
-      "trendTitle": "특징주",
+      "id": "fee820f56f9bcb2f",
+      "issueKey": "대한 광통신",
+      "issueTitle": "대한 광통신",
+      "trendTitle": "대한 광통신",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
@@ -167,312 +449,37 @@
           "title": "\"광속 상승→광속 추락\"…광통신주 위험한 질주[춤추는 테마주①]",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260424_0003605610",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "특징주, 대한광통신-광통신(광케이블/광섬유 등) 테마 상승세에 17.44% ↑",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1072156",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
+          "title": "대한광통신 주가, 급등세... 외인 320만 주 '폭풍 매수'",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1155087",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[속보] 대한광통신, 장 초반 정적 VI 발동…10%대 급등 구간 진입",
-          "source": "CBC뉴스",
-          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=570368",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
+          "title": "특징주, 한국첨단소재-광통신(광케이블/광섬유 등) 테마 상승세에 5.04% ↑",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12027926",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "특징주, 대한광통신-광통신(광케이블/광섬유 등) 테마 상승세에 17.44% ↑",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1072156",
-        "publishedAt": "2026-04-27T07:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-27T07:00:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "특징주",
-      "source": "매일경제 마켓",
-      "url": "https://stock.mk.co.kr/news/view/1072156",
-      "rank": 4
-    },
-    {
-      "id": "ad085f3e1b20a735",
-      "issueKey": "서울시",
-      "issueTitle": "서울시",
-      "trendTitle": "서울시",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "서울시, '보증금 지원형 장기안심주택' 6000호 모집",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260426_0003606579",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "SH, ‘메이플자이’ 등 1154가구 장기전세주택 모집",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04273846645420384",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서울시, 전월세 보증금 최대 7000만원 무이자 지원",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202604278773i",
-          "publishedAt": "2026-04-27T07:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서울시, '보증금 지원형 장기안심주택' 6000호 모집",
+        "title": "대한 광통신",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260426_0003606579",
-        "publishedAt": "2026-04-27T07:00:00.000Z",
+        "url": "https://www.newsis.com/view/NISX20260424_0003605610",
+        "publishedAt": "2026-04-27T09:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-27T07:00:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "서울시",
+      "publishedAt": "2026-04-27T09:10:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "대한 광통신",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260426_0003606579",
-      "rank": 5
-    },
-    {
-      "id": "f25bbea0b95de916",
-      "issueKey": "byd",
-      "issueTitle": "byd",
-      "trendTitle": "byd",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "BYD Korea Opens Pohang Service Center, Strengthening Accessibility in the East Coast Region",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/automobile/2026042711512776884",
-          "publishedAt": "2026-04-27T06:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "BYD Dealer J&V Mobility Opens Integrated Hub-Type AS Center in Pohang",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/en/business-life/2026/04/27/2026042713224777124",
-          "publishedAt": "2026-04-27T06:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "BYD Korea Opens Pohang Service Center, Strengthening Accessibility in the East Coast Region",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/en/article/automobile/2026042711512776884",
-        "publishedAt": "2026-04-27T06:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-27T06:50:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "byd",
-      "source": "아시아경제",
-      "url": "https://www.asiae.co.kr/en/article/automobile/2026042711512776884",
-      "rank": 6
-    },
-    {
-      "id": "8c0800915e182387",
-      "issueKey": "윤이나",
-      "issueTitle": "윤이나",
-      "trendTitle": "윤이나",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘완벽한 부활’ 넬리 코르다, 메이저 셰브론 챔피언십 제패…세계 1위도 탈환",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/04/27/B67AUTOPHZDBBGHBFDER5JAFYI/",
-          "publishedAt": "2026-04-27T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "LPGA 메이저 최고 성적 4위 윤이나 \"나 스스로 자랑스럽다\"(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260427_0003607623",
-          "publishedAt": "2026-04-27T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "넬리 코르다, 2년 만에 되찾은 ‘호수의 여왕’…세계 1위 탈환",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1nF0agpXFz",
-          "publishedAt": "2026-04-27T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "LPGA 메이저 최고 성적 4위 윤이나 \"나 스스로 자랑스럽다\"(종합)",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260427_0003607623",
-        "publishedAt": "2026-04-27T06:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-27T06:30:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "윤이나",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260427_0003607623",
-      "rank": 7
-    },
-    {
-      "id": "6f0b4aae8d11709f",
-      "issueKey": "펄어비스",
-      "issueTitle": "펄어비스",
-      "trendTitle": "펄어비스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김민석 국무총리 \"펄어비스 붉은사막 500만장 판매 축하\"...K게임 지원 약속",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260425071704",
-          "publishedAt": "2026-04-27T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "넥슨·크래프톤 '매출 1조 클럽' 전망…펄어비스도 실적 '파란불'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260427063153019",
-          "publishedAt": "2026-04-27T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"기존작이 살렸다\"…게임사 1Q '어닝 서프라이즈' 예고",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260427n11728",
-          "publishedAt": "2026-04-27T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김민석 국무총리 \"펄어비스 붉은사막 500만장 판매 축하\"...K게임 지원 약속",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260425071704",
-        "publishedAt": "2026-04-27T06:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-27T06:30:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "펄어비스",
-      "source": "지디넷코리아",
-      "url": "https://zdnet.co.kr/view/?no=20260425071704",
-      "rank": 8
-    },
-    {
-      "id": "f107813e8b7ad5cf",
-      "issueKey": "구광모",
-      "issueTitle": "구광모",
-      "trendTitle": "구광모",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "외교부에 '한국-인도 실질협력팀' 설치…정상회담 후속조치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260427165012614",
-          "publishedAt": "2026-04-27T06:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "외교부, 한-인도 실질협력팀(TF) 설치",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=423270",
-          "publishedAt": "2026-04-27T06:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"모디 총리와\" 이재용 삼성전자 회장 '셀카 외교'로 인도서 신뢰 재확인 [14억 인구대국 잡아라①]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260421_0003600122",
-          "publishedAt": "2026-04-27T06:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "구광모",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260427165012614",
-        "publishedAt": "2026-04-27T06:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-27T06:10:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "구광모",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260427165012614",
-      "rank": 9
-    },
-    {
-      "id": "f386c9a9402b1adc",
-      "issueKey": "비트코인",
-      "issueTitle": "비트코인",
-      "trendTitle": "비트코인",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "종전 기대감, 기관 매집세에 반등하는 비트코인...이번주 美FOMC 금리 메시지가 ‘분수령’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/04/27/SARSRE2S3BA3VO2DWGB6ONH5GM/",
-          "publishedAt": "2026-04-27T06:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "미 현물 ETF, 7거래일 연속 순유입…비트코인, 7.8만달러 사수[코인브리핑]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qEObscqF5V",
-          "publishedAt": "2026-04-27T06:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "비트코인 옵션시장 판도 변화…블랙록 IBIT, 데리빗 규모 넘어섰다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260427n07676",
-          "publishedAt": "2026-04-27T06:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "종전 기대감, 기관 매집세에 반등하는 비트코인...이번주 美FOMC 금리 메시지가 ‘분수령’",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/money/2026/04/27/SARSRE2S3BA3VO2DWGB6ONH5GM/",
-        "publishedAt": "2026-04-27T06:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-27T06:00:00.000Z",
-      "firstSeenAt": "2026-04-27T08:29:46.088Z",
-      "lastSeenAt": "2026-04-27T08:29:46.088Z",
-      "title": "비트코인",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/money/2026/04/27/SARSRE2S3BA3VO2DWGB6ONH5GM/",
+      "url": "https://www.newsis.com/view/NISX20260424_0003605610",
       "rank": 10
     }
   ],
@@ -775,73 +782,6 @@
       "url": "https://v.daum.net/v/20260426082939762"
     },
     {
-      "id": "30761d641dc58b4c",
-      "issueKey": "변호사 시험",
-      "issueTitle": "변호사 시험",
-      "trendTitle": "변호사 시험",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 6,
-      "relatedArticles": [
-        {
-          "title": "스타벅스로 출근하는 '사물함 변호사' 아시나요",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026042453731",
-          "publishedAt": "2026-04-25T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "거리로 나온 변호사들...정부 발표 직전까지 \"합격자 수 줄여야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260423145834620",
-          "publishedAt": "2026-04-23T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "변협, 제15회 변호사시험 합격자 1714명에 \"깊은 유감\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260424_0003605802",
-          "publishedAt": "2026-04-25T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "15회 변시 합격자 1714명…올해 졸업응시자 합격률 70%",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260423_0003604267",
-          "publishedAt": "2026-04-23T10:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "역대 세 번째 낮은 변시 합격률···변호사 수 증감 논쟁은 ‘현재진행형’[어떻게 생각하십니까]",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202604241620001",
-          "publishedAt": "2026-04-25T08:00:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "변협 \"변호사 4만 시대인데 사건은 30% 줄어...합격자 수 줄여야\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/04/23/RELX2WJSFNEKPLDPBSL5JCHSDQ/",
-          "publishedAt": "2026-04-23T10:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "변호사 시험",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026042453731",
-        "publishedAt": "2026-04-25T08:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-25T08:00:00.000Z",
-      "firstSeenAt": "2026-04-23T12:09:30.481Z",
-      "lastSeenAt": "2026-04-25T09:53:51.646Z",
-      "title": "변호사 시험",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026042453731"
-    },
-    {
       "id": "8c0800915e182387",
       "issueKey": "윤이나",
       "issueTitle": "윤이나",
@@ -1072,52 +1012,6 @@
       "url": "https://www.chosun.com/sports/world-football/2026/04/25/G4YTAZJQMJSDSZRVGIYWGZJTGU/"
     },
     {
-      "id": "9733a30153c337a8",
-      "issueKey": "아버지 최원영",
-      "issueTitle": "아버지 최원영",
-      "trendTitle": "아버지 최원영",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "다 아는 아들 유연석vs기억삭제 아버지 최원영, 父子 대면 결말은?(신이랑)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/25/MYYWCNBQGJQTEMDDMNQTGZRSHA/",
-          "publishedAt": "2026-04-25T07:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[다시보기] 신이랑 법률사무소 13회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/withgod/vod/88543/22000629255",
-          "publishedAt": "2026-04-25T07:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "경찰이세요? 전석호, 경찰보다 더 경찰 같은 수사력(신이랑 법률사무소)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260425n06805",
-          "publishedAt": "2026-04-25T07:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "다 아는 아들 유연석vs기억삭제 아버지 최원영, 父子 대면 결말은?(신이랑)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/04/25/MYYWCNBQGJQTEMDDMNQTGZRSHA/",
-        "publishedAt": "2026-04-25T07:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-25T07:40:00.000Z",
-      "firstSeenAt": "2026-04-25T09:53:51.646Z",
-      "lastSeenAt": "2026-04-25T09:53:51.646Z",
-      "title": "아버지 최원영",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/04/25/MYYWCNBQGJQTEMDDMNQTGZRSHA/"
-    },
-    {
       "id": "df49e7f99f643776",
       "issueKey": "첼시",
       "issueTitle": "첼시",
@@ -1183,6 +1077,52 @@
       "title": "첼시",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260425212016585"
+    },
+    {
+      "id": "fee820f56f9bcb2f",
+      "issueKey": "대한 광통신",
+      "issueTitle": "대한 광통신",
+      "trendTitle": "대한 광통신",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"광속 상승→광속 추락\"…광통신주 위험한 질주[춤추는 테마주①]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260424_0003605610",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "대한광통신 주가, 급등세... 외인 320만 주 '폭풍 매수'",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1155087",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "특징주, 한국첨단소재-광통신(광케이블/광섬유 등) 테마 상승세에 5.04% ↑",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12027926",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "대한 광통신",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260424_0003605610",
+        "publishedAt": "2026-04-27T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T09:10:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "대한 광통신",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260424_0003605610"
     },
     {
       "id": "45b126491f19f33f",
@@ -1783,144 +1723,6 @@
       "url": "https://www.chosun.com/national/national_general/2026/04/25/OSRU5EU64RFGRCCEEZQJCZCBXY/"
     },
     {
-      "id": "6504c4e0dfbf5051",
-      "issueKey": "코끼리",
-      "issueTitle": "코끼리",
-      "trendTitle": "코끼리",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "사냥 즐기던 미국 백만장자, 아프리카서 코끼리에 깔려 사망",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/04/25/VNNJBCJLEFDPHGQPYJ4Y7OIJMA/",
-          "publishedAt": "2026-04-25T08:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대전시 '오월드' 특정 감사...동물원 재개장 불투명",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&amp;key=202604241608373792",
-          "publishedAt": "2026-04-25T08:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "늑구 탈출 2주 만에 동화책으로…“얄팍한 상술”비난도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260425164933682",
-          "publishedAt": "2026-04-25T08:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "사냥 즐기던 미국 백만장자, 아프리카서 코끼리에 깔려 사망",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/04/25/VNNJBCJLEFDPHGQPYJ4Y7OIJMA/",
-        "publishedAt": "2026-04-25T08:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-25T08:30:00.000Z",
-      "firstSeenAt": "2026-04-25T09:53:51.646Z",
-      "lastSeenAt": "2026-04-25T09:53:51.646Z",
-      "title": "코끼리",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/international/international_general/2026/04/25/VNNJBCJLEFDPHGQPYJ4Y7OIJMA/"
-    },
-    {
-      "id": "00c92ae5033268ce",
-      "issueKey": "양현종",
-      "issueTitle": "양현종",
-      "trendTitle": "양현종",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "KIA '대투수' 양현종, 개인 통산 2200탈삼진 금자탑…KBO 역대 최초",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260425_0003606235",
-          "publishedAt": "2026-04-25T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "양현종, KBO 새 역사 '최초 2200K 돌파' [KBO 오늘의 컷]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260425n09179?mid=n0100",
-          "publishedAt": "2026-04-25T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'1회 K·K·K' KIA 양현종, KBO리그 최초 2천200탈삼진 돌파",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260425040700007",
-          "publishedAt": "2026-04-25T08:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "KIA '대투수' 양현종, 개인 통산 2200탈삼진 금자탑…KBO 역대 최초",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260425_0003606235",
-        "publishedAt": "2026-04-25T08:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-25T08:00:00.000Z",
-      "firstSeenAt": "2026-04-25T09:53:51.646Z",
-      "lastSeenAt": "2026-04-25T09:53:51.646Z",
-      "title": "양현종",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260425_0003606235"
-    },
-    {
-      "id": "5d5e95e7938798b0",
-      "issueKey": "인니",
-      "issueTitle": "인니",
-      "trendTitle": "인니",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "하필 이 시국에…\"이란처럼 해협 통행료 줘\" 논란 커지자 결국",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260425154349934",
-          "publishedAt": "2026-04-25T07:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "인니, '말라카 해협 통행세' 논란 진화…\"진지한 논의 아녔다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260425_0003606138",
-          "publishedAt": "2026-04-25T07:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“믈라카 해협도 통행료” 인도네시아 장관 발언 철회",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8545708",
-          "publishedAt": "2026-04-25T07:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "인니, '말라카 해협 통행세' 논란 진화…\"진지한 논의 아녔다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260425_0003606138",
-        "publishedAt": "2026-04-25T07:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-25T07:40:00.000Z",
-      "firstSeenAt": "2026-04-25T09:53:51.646Z",
-      "lastSeenAt": "2026-04-25T09:53:51.646Z",
-      "title": "인니",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260425_0003606138"
-    },
-    {
       "id": "544fc81f66caaa5f",
       "issueKey": "야닉 시너",
       "issueTitle": "야닉 시너",
@@ -2053,6 +1855,282 @@
       "title": "sxmb",
       "source": "Laodong.vn",
       "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-nam-dinh-hom-nay-254-1691711.ldo"
+    },
+    {
+      "id": "a2424b0167b1f4f7",
+      "issueKey": "신민아",
+      "issueTitle": "신민아",
+      "trendTitle": "신민아",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'김우빈♥' 신민아, 출장 가는 길..청바지+흰티 '러블리 미소'[스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/04/27/2026042710184188347",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]신민아, '미모가 찰랑'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/04/27/GUYTAYZRHAZWEMDGMVSTIMLBGU/",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "신민아, '1억↑' 걸친 공항 룩…흰 티+청바지 패션 '상큼 발랄'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/04/27/2026042716224063991",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'김우빈♥' 신민아, 출장 가는 길..청바지+흰티 '러블리 미소'[스타이슈]",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/star/2026/04/27/2026042710184188347",
+        "publishedAt": "2026-04-27T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "신민아",
+      "source": "스타뉴스",
+      "url": "https://www.starnewskorea.com/star/2026/04/27/2026042710184188347"
+    },
+    {
+      "id": "a29b1e674f6e9192",
+      "issueKey": "오늘",
+      "issueTitle": "오늘",
+      "trendTitle": "별자리",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[오늘의 운세] 4월 27일",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25423483",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[오늘의 운세] 2026년 04월 27일 별자리 운세",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0121_202604270000000002",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[오늘의 운세] 4월 27일 월요일 (음력 3월 11일 辛未)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/04/26/LMZPKRZIP5BALLBW2M6YM4BA7A/",
+          "publishedAt": "2026-04-27T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[오늘의 운세] 4월 27일",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25423483",
+        "publishedAt": "2026-04-27T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T10:00:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "오늘",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25423483"
+    },
+    {
+      "id": "c78349b28ed5bfff",
+      "issueKey": "현대건설",
+      "issueTitle": "현대건설",
+      "trendTitle": "현대건설",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "현대건설, 트레이드로 배유나 영입…세터 이수연은 도로공사행",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8546733",
+          "publishedAt": "2026-04-27T09:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현대건설, 은퇴한 양효진 공백 메우기 위해 배유나 사인 앤 트레이드 영입…이수연은 한국도로공사행",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260427/133820477/1",
+          "publishedAt": "2026-04-27T09:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[배구] 현대건설, 배유나 영입… 세터 이수연은 도로공사로",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3396782",
+          "publishedAt": "2026-04-27T09:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "현대건설, 트레이드로 배유나 영입…세터 이수연은 도로공사행",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8546733",
+        "publishedAt": "2026-04-27T09:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T09:50:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "현대건설",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8546733"
+    },
+    {
+      "id": "6ad45599a61294d9",
+      "issueKey": "손창환 감독",
+      "issueTitle": "손창환 감독",
+      "trendTitle": "손창환 감독",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘PO 2연패’ 창원 LG, 오늘 고양서 ‘벼랑 끝 3차전’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8546306",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]손창환 감독, 홈에서 끝내자",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/04/27/GFSGCMRVHBRTCY3CGA2TSN3DGQ/",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[웜업터뷰] '양준석 OUT' 조상현 감독의 바람…\"위기 속 기회, 다른 선수들이 잘해줬으면\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260427185546384",
+          "publishedAt": "2026-04-27T09:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[사진]손창환 감독, 홈에서 끝내자",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/04/27/GFSGCMRVHBRTCY3CGA2TSN3DGQ/",
+        "publishedAt": "2026-04-27T09:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-27T09:40:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "손창환 감독",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/04/27/GFSGCMRVHBRTCY3CGA2TSN3DGQ/"
+    },
+    {
+      "id": "d4e7e82fd9b0598b",
+      "issueKey": "화순군",
+      "issueTitle": "화순군",
+      "trendTitle": "화순군",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "화순군, 봄꽃축제 현장에 '세무상담실'…군민·관광객 불편 해소",
+          "source": "폴리뉴스 Polinews",
+          "url": "https://www.polinews.co.kr/news/articleView.html?idxno=729650",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "화순군, ‘꽃강길 봄꽃 축제장 세무상담실’ 운영",
+          "source": "메트로신문",
+          "url": "http://www.metroseoul.co.kr/article/20260427500390",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "화순 공정식 전국 가요제, 뜨거운 열기 속 성료",
+          "source": "한국시사경제",
+          "url": "https://www.hksisaeconomy.com/news/article.html?no=1118389",
+          "publishedAt": "2026-04-27T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "화순군, 봄꽃축제 현장에 '세무상담실'…군민·관광객 불편 해소",
+        "source": "폴리뉴스 Polinews",
+        "url": "https://www.polinews.co.kr/news/articleView.html?idxno=729650",
+        "publishedAt": "2026-04-27T09:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T09:20:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "화순군",
+      "source": "폴리뉴스 Polinews",
+      "url": "https://www.polinews.co.kr/news/articleView.html?idxno=729650"
+    },
+    {
+      "id": "f4a1f9b401716f1e",
+      "issueKey": "놀이기구",
+      "issueTitle": "놀이기구",
+      "trendTitle": "놀이기구",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "시속 160㎞까지 날다가 공중서 ‘뚝’… 스페인 놀이기구 추락 사고",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/topic/2026/04/27/PLDX2M74KFCMHJHLIUVZV4X3Q4/",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "미군 폭격기 출격하는 英 공군기지서 화재…인명피해 없어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260427191009667",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[영상] 이게 끊어질 줄이야…90m 상공서 놀이기구 케이블 '뚝'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260427117700704",
+          "publishedAt": "2026-04-27T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "시속 160㎞까지 날다가 공중서 ‘뚝’… 스페인 놀이기구 추락 사고",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/topic/2026/04/27/PLDX2M74KFCMHJHLIUVZV4X3Q4/",
+        "publishedAt": "2026-04-27T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-27T09:10:00.000Z",
+      "firstSeenAt": "2026-04-27T11:05:08.433Z",
+      "lastSeenAt": "2026-04-27T11:05:08.433Z",
+      "title": "놀이기구",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/international/topic/2026/04/27/PLDX2M74KFCMHJHLIUVZV4X3Q4/"
     },
     {
       "id": "ad085f3e1b20a735",
@@ -2329,98 +2407,6 @@
       "title": "차두리",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260426170332680"
-    },
-    {
-      "id": "d7afc29514584887",
-      "issueKey": "정성호",
-      "issueTitle": "정성호",
-      "trendTitle": "정성호",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "정성호 \"檢, 윤석열 정적제거 부역 비판…국민 분노 공감해야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260426233300733",
-          "publishedAt": "2026-04-26T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "정성호 \"檢, 尹집권 내내 정적 제거에 적극 부역…잘못 바로잡아야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260426_0003606675",
-          "publishedAt": "2026-04-26T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정성호 장관 “검찰, 尹 정적 제거 부역 비판 직면”…송경호 전 고검장 “대장동 항소포기가 잘못”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8545996",
-          "publishedAt": "2026-04-26T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "정성호 \"檢, 윤석열 정적제거 부역 비판…국민 분노 공감해야\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260426233300733",
-        "publishedAt": "2026-04-26T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-26T14:30:00.000Z",
-      "firstSeenAt": "2026-04-26T18:56:21.877Z",
-      "lastSeenAt": "2026-04-26T18:56:21.877Z",
-      "title": "정성호",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260426233300733"
-    },
-    {
-      "id": "0a06a1ba1c53a4b4",
-      "issueKey": "두산",
-      "issueTitle": "두산",
-      "trendTitle": "두산",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "마무리 김택연 부상 공백 걱정마라...52억 FA가 몸값 해낸다, 3이닝 무실점→3연패 탈출 \"다 쏟아붓자\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/04/26/MI2TSODCGAZDQMZSMJQTSYJYGI/",
-          "publishedAt": "2026-04-26T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'10회' 두산의 새 역사 창조! 끝내기 주인공 탄생했다, 사령탑 \"아주 큰 역할을 했다\" 극찬한 또 다른 1인은? [잠실 현장리뷰]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/04/26/2026042609131159627",
-          "publishedAt": "2026-04-26T10:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "벤자민 QS+→이영하 3이닝 40구 역투→박준순 끝내기 안타... 두산 3연패 탈출, LG 스윕승 저지 [MD잠실]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260426170500726",
-          "publishedAt": "2026-04-26T10:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'10회' 두산의 새 역사 창조! 끝내기 주인공 탄생했다, 사령탑 \"아주 큰 역할을 했다\" 극찬한 또 다른 1인은? [잠실 현장리뷰]",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/04/26/2026042609131159627",
-        "publishedAt": "2026-04-26T10:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-26T10:40:00.000Z",
-      "firstSeenAt": "2026-04-26T13:08:43.136Z",
-      "lastSeenAt": "2026-04-26T13:08:43.136Z",
-      "title": "두산",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/sports/2026/04/26/2026042609131159627"
     }
   ]
 }
