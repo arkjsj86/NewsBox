@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-04-28T19:42:31.734Z",
+  "lastUpdatedAt": "2026-04-28T21:58:59.490Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "991b08408c2e4625",
-      "issueKey": "psg",
-      "issueTitle": "psg",
-      "trendTitle": "psg",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Vincent Kompany avant PSG-Bayern : « Il y a une espèce d'orage qui se présente »",
-          "source": "L'Équipe",
-          "url": "https://www.lequipe.fr/Football/Actualites/Vincent-kompany-avant-psg-bayern-il-y-a-une-espece-d-orage-qui-se-presente/1671500",
-          "publishedAt": "2026-04-28T18:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Ligue des champions : Marseillaise, tableaux de «conquête» napoléonienne... Le Parc des Princes lance le choc PSG-Bayern",
-          "source": "Le Figaro",
-          "url": "https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-marseillaise-tableaux-de-conquete-napoleonienne-le-parc-des-princes-lance-le-choc-psg-bayern-20260428",
-          "publishedAt": "2026-04-28T18:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Match : PSG/Bayern (1-1), le but de Kvaratskhelia en video",
-          "source": "CulturePSG",
-          "url": "https://www.culturepsg.com/news/match/psg-bayern-1-1-le-but-de-kvaratskhelia-en-video/59400",
-          "publishedAt": "2026-04-28T18:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Vincent Kompany avant PSG-Bayern : « Il y a une espèce d'orage qui se présente »",
-        "source": "L'Équipe",
-        "url": "https://www.lequipe.fr/Football/Actualites/Vincent-kompany-avant-psg-bayern-il-y-a-une-espece-d-orage-qui-se-presente/1671500",
-        "publishedAt": "2026-04-28T18:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T18:30:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "psg",
-      "source": "L'Équipe",
-      "url": "https://www.lequipe.fr/Football/Actualites/Vincent-kompany-avant-psg-bayern-il-y-a-une-espece-d-orage-qui-se-presente/1671500",
-      "rank": 1
-    },
-    {
-      "id": "c857d09db23e6822",
-      "issueKey": "claude",
-      "issueTitle": "claude",
-      "trendTitle": "claude",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
-          "source": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
-          "publishedAt": "2026-04-28T18:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "This Claude-powered AI agent deleted a company's whole database — and then gloated about it",
-          "source": "Yahoo Tech",
-          "url": "https://tech.yahoo.com/ai/article/this-claude-powered-ai-agent-deleted-a-companys-whole-database--and-then-gloated-about-it-165838948.html",
-          "publishedAt": "2026-04-28T18:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Cursor-Opus agent snuffs out startup’s production database",
-          "source": "The Register",
-          "url": "https://www.theregister.com/2026/04/27/cursoropus_agent_snuffs_out_pocketos/",
-          "publishedAt": "2026-04-28T18:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Claude-powered AI coding agent deletes entire company database in 9 seconds — backups zapped, after Cursor tool powered by Anthropic's Claude goes rogue",
-        "source": "Tom's Hardware",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
-        "publishedAt": "2026-04-28T18:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T18:30:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "claude",
-      "source": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/claude-powered-ai-coding-agent-deletes-entire-company-database-in-9-seconds-backups-zapped-after-cursor-tool-powered-by-anthropics-claude-goes-rogue",
-      "rank": 2
-    },
-    {
-      "id": "37c6ee43ac13a6b9",
-      "issueKey": "빨래 바구니",
-      "issueTitle": "빨래 바구니",
-      "trendTitle": "빨래 바구니",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이강인의 PSG vs 김민재의 뮌헨 격돌…UCL 코리안더비 성사될까",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260427_0003608423",
-          "publishedAt": "2026-04-28T18:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"무리뉴처럼 빨래 바구니? 난 190cm라 못 들어가\"... 콤파니, 징계 결장 앞두고 농담 섞인 자신감",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260428184904909",
-          "publishedAt": "2026-04-28T18:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "챔스에서 초대형 변수 터졌다! 바이에른 뮌헨, 콤파니 감독 징계로 벤치에도 못 앉는다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/04/29/GVRTINZYGUZWKNTGMYZWCMRRMU/",
-          "publishedAt": "2026-04-28T18:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"무리뉴처럼 빨래 바구니? 난 190cm라 못 들어가\"... 콤파니, 징계 결장 앞두고 농담 섞인 자신감",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260428184904909",
-        "publishedAt": "2026-04-28T18:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-04-28T18:10:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "빨래 바구니",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260428184904909",
-      "rank": 3
-    },
-    {
-      "id": "8b4af74dbc96d5c7",
-      "issueKey": "범죄",
-      "issueTitle": "범죄",
-      "trendTitle": "범죄",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "충남경찰, 500억 편취한 캄보디아 범죄조직원 57명 구속 송치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260428171702552",
-          "publishedAt": "2026-04-28T17:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“15년 숨으면 끝인 줄 알았지?”…동남아 도피사범 73명 국내 송환",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20037773",
-          "publishedAt": "2026-04-28T17:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "캄보디아 보이스피싱 조직원 11명 전원 징역형…최장 10년",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260428131200063",
-          "publishedAt": "2026-04-28T17:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "충남경찰, 500억 편취한 캄보디아 범죄조직원 57명 구속 송치",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260428171702552",
-        "publishedAt": "2026-04-28T17:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T17:40:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "범죄",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260428171702552",
-      "rank": 4
-    },
-    {
-      "id": "13ed070478ef62c3",
-      "issueKey": "netflix",
-      "issueTitle": "netflix",
-      "trendTitle": "netflix",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Court Cancels 68.7 Billion Won in Netflix Korea Taxes",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/national-en/2026/04/28/26SWM7CYZVFIDMLZUPOIRY4LAM/",
-          "publishedAt": "2026-04-28T17:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Court Orders Cancellation of 68.7 Billion Won Tax Imposed on Netflix Korea",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026042811591572667",
-          "publishedAt": "2026-04-28T17:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Seoul court cancels W68.7b tax bill for Netflix Korea",
-          "source": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10727354",
-          "publishedAt": "2026-04-28T17:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Court Cancels 68.7 Billion Won in Netflix Korea Taxes",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/national-en/2026/04/28/26SWM7CYZVFIDMLZUPOIRY4LAM/",
-        "publishedAt": "2026-04-28T17:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T17:20:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "netflix",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/english/national-en/2026/04/28/26SWM7CYZVFIDMLZUPOIRY4LAM/",
-      "rank": 5
-    },
-    {
-      "id": "603c8c0ecac91ce5",
-      "issueKey": "테슬라",
-      "issueTitle": "테슬라",
-      "trendTitle": "테슬라",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "테슬라 '수입차 1위' 굳히기…\"모델Y, 보조금 대신 내준다\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026042833281",
-          "publishedAt": "2026-04-28T17:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[기자의 눈] 소비자 신뢰 갉아먹는 테슬라의 ‘가격 상술’",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260427023299860",
-          "publishedAt": "2026-04-28T17:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "테슬라·독일차에 쏠린 수입차 시장…중저가 브랜드 설 자리 좁아져",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/04/27/2026042713422618806",
-          "publishedAt": "2026-04-28T17:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "테슬라 '수입차 1위' 굳히기…\"모델Y, 보조금 대신 내준다\"",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026042833281",
-        "publishedAt": "2026-04-28T17:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T17:10:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "테슬라",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026042833281",
-      "rank": 6
-    },
-    {
-      "id": "dc76f888ddfaef28",
-      "issueKey": "아주",
-      "issueTitle": "아주",
-      "trendTitle": "아주",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "㈜아주, 아주IB투자 보유지분 7% 매각 예정…\"성장동력 확보\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260428163600003",
-          "publishedAt": "2026-04-28T17:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[시간외Y] 아주IB투자, 주성엔지니어링 '하한가'",
-          "source": "프라임경제",
-          "url": "https://m.newsprime.co.kr/section_view.html?no=731848",
-          "publishedAt": "2026-04-28T17:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "윤창수 본부장, 아주IB투자 주식 3075주 매도",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=661059",
-          "publishedAt": "2026-04-28T17:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "㈜아주, 아주IB투자 보유지분 7% 매각 예정…\"성장동력 확보\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260428163600003",
-        "publishedAt": "2026-04-28T17:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T17:10:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "아주",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260428163600003",
-      "rank": 7
-    },
-    {
-      "id": "6c9b8a3822bc0846",
-      "issueKey": "호종컵",
-      "issueTitle": "호종컵",
-      "trendTitle": "호종컵",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "치치직 '롤'대회 '호종컵' 1일차 성료 … 치즈공장 결승전 선착",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303808",
-          "publishedAt": "2026-04-28T16:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "호종컵 “화요일 밤 빛내준 5꽉 꿀잼 결승전”",
-          "source": "게임톡",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=108130",
-          "publishedAt": "2026-04-28T16:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "치지직 '롤'대회 호종컵 팀원 선정 완료 … 27일·28일 양일간 정면 승부",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303690",
-          "publishedAt": "2026-04-28T16:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "치치직 '롤'대회 '호종컵' 1일차 성료 … 치즈공장 결승전 선착",
-        "source": "경향게임스",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303808",
-        "publishedAt": "2026-04-28T16:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T16:40:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "호종컵",
-      "source": "경향게임스",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303808",
-      "rank": 8
-    },
-    {
-      "id": "bdfdc854f1d99ddf",
-      "issueKey": "김혜수",
-      "issueTitle": "김혜수",
-      "trendTitle": "김혜수",
+      "id": "c8631f3ea09c33f0",
+      "issueKey": "카리나",
+      "issueTitle": "카리나",
+      "trendTitle": "카리나",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'시청률 15%' 대어인데…10년 만 귀환→시작 전부터 잡음 빚은 韓 드라마 ('시그널2')",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260423n06548",
-          "publishedAt": "2026-04-28T16:30:00.000Z",
+          "title": "사람이야 마네킹이야…카리나, 초밀착 의상에 비현실 라인 ‘시선 강탈’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zDrP8KjJXd",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'시그널2' 좌초 위기 속 김혜수, 이제훈과 굳건한 관계 드러냈다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260426221859287",
-          "publishedAt": "2026-04-28T16:30:00.000Z",
+          "title": "카리나 마네킹인 줄…파격 의상에 비현실적 미모",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260428_0003609819",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘시그널2’ 편성 보류 속..김혜수, 이제훈 커피차 선물에 “고마워” 훈훈 우정",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260426045204256",
-          "publishedAt": "2026-04-28T16:30:00.000Z",
+          "title": "카리나만?..윈터도 초밀착 의상 입고 '마네킹 몸매+복근' 뽐냈다[핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/04/28/GVSGEMTDMZRWGNZWGNRDIOBZHA/",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'시그널2' 좌초 위기 속 김혜수, 이제훈과 굳건한 관계 드러냈다",
+        "title": "사람이야 마네킹이야…카리나, 초밀착 의상에 비현실 라인 ‘시선 강탈’",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260426221859287",
-        "publishedAt": "2026-04-28T16:30:00.000Z",
-        "relevanceScore": 2
+        "url": "https://v.daum.net/v/zDrP8KjJXd",
+        "publishedAt": "2026-04-28T20:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-04-28T16:30:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "김혜수",
+      "publishedAt": "2026-04-28T20:50:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "카리나",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260426221859287",
-      "rank": 9
+      "url": "https://v.daum.net/v/zDrP8KjJXd",
+      "rank": 1
     },
     {
-      "id": "79525178decfaa31",
-      "issueKey": "현대차",
-      "issueTitle": "현대차",
-      "trendTitle": "현대차",
+      "id": "6eb706dc1a85c0da",
+      "issueKey": "해리 케인",
+      "issueTitle": "해리 케인",
+      "trendTitle": "해리 케인",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "현대차그룹, 배터리 구독 실증 나선다…\"전기차 운행 비용 절감 효과 검증\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260428_0003609169",
-          "publishedAt": "2026-04-28T16:30:00.000Z",
+          "title": "강등 위기도 서러운데, 토트넘 팬 기대 ‘와르르’…뮌헨, 케인과 재계약 협상 “목표는 계약 연장, 확실하게 말할 수 있다” 전 CEO 확신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260428183611575",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "전기차 살때 배터리는 '구독' … 현대차, 가격 인하 드라이브",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/04/29/2026042820113140405",
-          "publishedAt": "2026-04-28T16:30:00.000Z",
+          "title": "\"뮌헨 미래는 케인 중심\" 재계약 추진 배경, \"바이아웃 있는데도 안 떠난다\"-재계약 유력",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/04/28/G43WKNJXMNRWEMZQGUZDKZBZMM/",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "아이오닉5가 ‘2천만원’…현대차, 배터리 구독 실증사업 시작",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/car/1256308.html",
-          "publishedAt": "2026-04-28T16:30:00.000Z",
+          "title": "무서운 골 폭풍 ‘허리케인’… ‘트레블·득점왕 3관왕’ 조준",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11584745",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "현대차그룹, 배터리 구독 실증 나선다…\"전기차 운행 비용 절감 효과 검증\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260428_0003609169",
-        "publishedAt": "2026-04-28T16:30:00.000Z",
+        "title": "해리 케인",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260428183611575",
+        "publishedAt": "2026-04-28T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-28T16:30:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "현대차",
+      "publishedAt": "2026-04-28T20:50:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "해리 케인",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260428183611575",
+      "rank": 2
+    },
+    {
+      "id": "1670881cf0997717",
+      "issueKey": "장우진",
+      "issueTitle": "장우진",
+      "trendTitle": "장우진",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "탁구 대표팀, 세계선수권 위해 런던 출국…남녀 단체전 메달 도전",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260428_0003609799",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"K-핑퐁★ 신유빈이 톱10에 복귀했다!\" WTT도 주목한 폭풍성장...'최고의 폼'으로 런던세계탁구선수권 출국",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/04/28/HAYTANZVMQ4GEYTBMJSTKOBRGM/",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "속초 출신 장우진 앞세운 한국 탁구, 런던서 세계 정상 도전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260428220133383",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "속초 출신 장우진 앞세운 한국 탁구, 런던서 세계 정상 도전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260428220133383",
+        "publishedAt": "2026-04-28T20:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-04-28T20:50:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "장우진",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260428220133383",
+      "rank": 3
+    },
+    {
+      "id": "400c846f77088a7d",
+      "issueKey": "псж бавария",
+      "issueTitle": "псж – бавария",
+      "trendTitle": "псж – бавария",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "«Я научил сына считать»: Фанаты в эйфории после 9 голов в игре «ПСЖ» и «Баварии»",
+          "source": "Евро-Футбол",
+          "url": "https://www.euro-football.ru/article/45/1006185313_blagodarya_etomu_matchu_ya_nauchil_syina_schitat_fanat_v_eyforii_postle_9_golov_v_igre-PSG-Bavaria",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Дембеле – о победе «ПСЖ» над «Баварией»: В конце мы немного перестали играть",
+          "source": "LiveResult",
+          "url": "https://www.liveresult.ru/news/Futbol/325596-Dembele-o-pobede-PSG-nad-Bavariey-V-kontse-my-nemnogo-perestali-igrat",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Сафонов получил оценку 6,1 от WhoScored за матч с «Баварией», у Нойера — 4,8",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6449282-safonov-poluchil-ocenku-6-1-ot-whoscored-za-match-s-bavariej-u-nojera-4-8.html",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "псж – бавария",
+        "source": "Евро-Футбол",
+        "url": "https://www.euro-football.ru/article/45/1006185313_blagodarya_etomu_matchu_ya_nauchil_syina_schitat_fanat_v_eyforii_postle_9_golov_v_igre-PSG-Bavaria",
+        "publishedAt": "2026-04-28T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-28T20:50:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "псж – бавария",
+      "source": "Евро-Футбол",
+      "url": "https://www.euro-football.ru/article/45/1006185313_blagodarya_etomu_matchu_ya_nauchil_syina_schitat_fanat_v_eyforii_postle_9_golov_v_igre-PSG-Bavaria",
+      "rank": 4
+    },
+    {
+      "id": "983e75e78d153051",
+      "issueKey": "김성수",
+      "issueTitle": "김성수",
+      "trendTitle": "김성수",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김성수, 아버지 향한 그리움…3년 간 벚꽃 구경 안 해",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260428_0003609109",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'부동산 재력가' 김성수, 부친상 아픔 고백…\"차 안에서 마지막으로 봐\" ('신랑수업2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260428151814824",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"지드래곤이야?\" 김성수 화려한 옷에 ♥박소윤 외면 \"같이 못 다녀\"(신랑수업2)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260423n41183",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김성수, 아버지 향한 그리움…3년 간 벚꽃 구경 안 해",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260428_0003609109",
+        "publishedAt": "2026-04-28T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-28T20:40:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "김성수",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260428_0003609169",
-      "rank": 10
+      "url": "https://www.newsis.com/view/NISX20260428_0003609109",
+      "rank": 5
+    },
+    {
+      "id": "e4207b6ba532aed4",
+      "issueKey": "서정희",
+      "issueTitle": "서정희",
+      "trendTitle": "서정희",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'가정폭력→암 투병' 女배우, 모친까지 투병…\"오래 사랑하고 싶다\" 가슴 먹먹 [RE:스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260428182902373",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'암 극복' 서정희 '건강 악화' 母 향한 애정…\"내 눈엔 충분히 빛나\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260428n22212",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "극복스토리 - 드디어 만난 인생의 동반자와의 러브 스토리는?",
+          "source": "MBN",
+          "url": "https://www.mbn.co.kr/vod/programContents/previewlist/1024/6604/1153258",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'암 극복' 서정희 '건강 악화' 母 향한 애정…\"내 눈엔 충분히 빛나\"",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260428n22212",
+        "publishedAt": "2026-04-28T20:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-28T20:40:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "서정희",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260428n22212",
+      "rank": 6
+    },
+    {
+      "id": "c95315bede35bf86",
+      "issueKey": "간호사",
+      "issueTitle": "간호사",
+      "trendTitle": "간호사",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "병실 가습기에 락스 넣은 간호사…병원 \"우리 문제 아니야\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12296055",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "병원 \"간호사 실수일 뿐\"…환자는 폐렴 진단, 대체 무슨 일",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260428092910395",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "병원 가습기에 락스 투입...환자 폐렴 진단에도 병원은 \"실수\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202604280920083943",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "병실 가습기에 락스 넣은 간호사…병원 \"우리 문제 아니야\"",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12296055",
+        "publishedAt": "2026-04-28T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-28T20:40:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "간호사",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12296055",
+      "rank": 7
+    },
+    {
+      "id": "e7dc93a717f869e6",
+      "issueKey": "샌디스크 주가",
+      "issueTitle": "샌디스크 주가",
+      "trendTitle": "샌디스크 주가",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "마이크론, AI 붐에 메모리 수요 증가…주가 두 배 상승 가능-DA데이비슨",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06701046645420712",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "반도체 약세에도 샌디스크는 8% 폭등, 1000달러 돌파",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6150660",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "샌디스크, 멜리우스리서치 호평 속 8%대 강세 [오늘의 뉴욕증시 무버]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2579700",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "샌디스크 주가",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06701046645420712",
+        "publishedAt": "2026-04-28T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-28T20:40:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "샌디스크 주가",
+      "source": "마켓인",
+      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06701046645420712",
+      "rank": 8
+    },
+    {
+      "id": "de9bb00b52a11872",
+      "issueKey": "퇴직",
+      "issueTitle": "퇴직",
+      "trendTitle": "퇴직",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "퇴직연금 500조 시대 … 안전자산 30% 규제에 '혼합형 ETF' 급부상",
+          "source": "뉴데일리 경제",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/04/28/2026042800120.html",
+          "publishedAt": "2026-04-28T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"AI·전담조직…고객맞춤 투자로 판 키울 것\"",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01190646645420384",
+          "publishedAt": "2026-04-28T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "212兆 규모 '은행 퇴직연금' 쟁탈전… 수익률 선두는 농협",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202604281818364958",
+          "publishedAt": "2026-04-28T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "퇴직연금 500조 시대 … 안전자산 30% 규제에 '혼합형 ETF' 급부상",
+        "source": "뉴데일리 경제",
+        "url": "https://biz.newdaily.co.kr/site/data/html/2026/04/28/2026042800120.html",
+        "publishedAt": "2026-04-28T20:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-28T20:30:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "퇴직",
+      "source": "뉴데일리 경제",
+      "url": "https://biz.newdaily.co.kr/site/data/html/2026/04/28/2026042800120.html",
+      "rank": 9
     }
   ],
   "history": [
@@ -715,52 +668,6 @@
       "url": "https://v.daum.net/v/20260428184904909"
     },
     {
-      "id": "e350d304a5d4457a",
-      "issueKey": "연금",
-      "issueTitle": "연금",
-      "trendTitle": "연금",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[연금개혁의시간]⑩ 다가올 노인 40% 시대, 노인빈곤 막아야 경제가 산다",
-          "source": "NewsTapa",
-          "url": "http://newstapa.org/article/8lQ09",
-          "publishedAt": "2026-04-26T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "IMF “한국 연금지출 증가 속도, G20중 가장 빨라”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260427043216305",
-          "publishedAt": "2026-04-26T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"기초연금, 노인연령 올리면 최대 600조 절감\"",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/MYH20260426130410IWu",
-          "publishedAt": "2026-04-26T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[연금개혁의시간]⑩ 다가올 노인 40% 시대, 노인빈곤 막아야 경제가 산다",
-        "source": "NewsTapa",
-        "url": "http://newstapa.org/article/8lQ09",
-        "publishedAt": "2026-04-26T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-26T20:20:00.000Z",
-      "firstSeenAt": "2026-04-26T21:38:43.975Z",
-      "lastSeenAt": "2026-04-26T21:38:43.975Z",
-      "title": "연금",
-      "source": "NewsTapa",
-      "url": "http://newstapa.org/article/8lQ09"
-    },
-    {
       "id": "603c8c0ecac91ce5",
       "issueKey": "테슬라",
       "issueTitle": "테슬라",
@@ -939,6 +846,52 @@
       "title": "삼전",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260427170208162"
+    },
+    {
+      "id": "983e75e78d153051",
+      "issueKey": "김성수",
+      "issueTitle": "김성수",
+      "trendTitle": "김성수",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김성수, 아버지 향한 그리움…3년 간 벚꽃 구경 안 해",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260428_0003609109",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'부동산 재력가' 김성수, 부친상 아픔 고백…\"차 안에서 마지막으로 봐\" ('신랑수업2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260428151814824",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"지드래곤이야?\" 김성수 화려한 옷에 ♥박소윤 외면 \"같이 못 다녀\"(신랑수업2)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260423n41183",
+          "publishedAt": "2026-04-28T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김성수, 아버지 향한 그리움…3년 간 벚꽃 구경 안 해",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260428_0003609109",
+        "publishedAt": "2026-04-28T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-28T20:40:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "김성수",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260428_0003609109"
     },
     {
       "id": "871d207609515b86",
@@ -1533,6 +1486,52 @@
       "title": "dc vs rcb",
       "source": "ESPNcricinfo",
       "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/delhi-capitals-vs-royal-challengers-bengaluru-39th-match-1529282/ball-by-ball-commentary"
+    },
+    {
+      "id": "c8631f3ea09c33f0",
+      "issueKey": "카리나",
+      "issueTitle": "카리나",
+      "trendTitle": "카리나",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "사람이야 마네킹이야…카리나, 초밀착 의상에 비현실 라인 ‘시선 강탈’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zDrP8KjJXd",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "카리나 마네킹인 줄…파격 의상에 비현실적 미모",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260428_0003609819",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "카리나만?..윈터도 초밀착 의상 입고 '마네킹 몸매+복근' 뽐냈다[핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/04/28/GVSGEMTDMZRWGNZWGNRDIOBZHA/",
+          "publishedAt": "2026-04-28T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "사람이야 마네킹이야…카리나, 초밀착 의상에 비현실 라인 ‘시선 강탈’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/zDrP8KjJXd",
+        "publishedAt": "2026-04-28T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-28T20:50:00.000Z",
+      "firstSeenAt": "2026-04-28T21:58:59.490Z",
+      "lastSeenAt": "2026-04-28T21:58:59.490Z",
+      "title": "카리나",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/zDrP8KjJXd"
     },
     {
       "id": "bdfdc854f1d99ddf",
@@ -2361,52 +2360,6 @@
       "title": "놀이기구",
       "source": "조선일보",
       "url": "https://www.chosun.com/international/topic/2026/04/27/PLDX2M74KFCMHJHLIUVZV4X3Q4/"
-    },
-    {
-      "id": "6c9b8a3822bc0846",
-      "issueKey": "호종컵",
-      "issueTitle": "호종컵",
-      "trendTitle": "호종컵",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "치치직 '롤'대회 '호종컵' 1일차 성료 … 치즈공장 결승전 선착",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303808",
-          "publishedAt": "2026-04-28T16:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "호종컵 “화요일 밤 빛내준 5꽉 꿀잼 결승전”",
-          "source": "게임톡",
-          "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=108130",
-          "publishedAt": "2026-04-28T16:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "치지직 '롤'대회 호종컵 팀원 선정 완료 … 27일·28일 양일간 정면 승부",
-          "source": "경향게임스",
-          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303690",
-          "publishedAt": "2026-04-28T16:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "치치직 '롤'대회 '호종컵' 1일차 성료 … 치즈공장 결승전 선착",
-        "source": "경향게임스",
-        "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303808",
-        "publishedAt": "2026-04-28T16:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T16:40:00.000Z",
-      "firstSeenAt": "2026-04-28T19:42:31.734Z",
-      "lastSeenAt": "2026-04-28T19:42:31.734Z",
-      "title": "호종컵",
-      "source": "경향게임스",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=303808"
     }
   ]
 }
