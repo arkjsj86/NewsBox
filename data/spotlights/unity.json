@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-04-29T05:57:06.222Z",
+  "lastUpdatedAt": "2026-04-29T08:27:05.404Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -24,11 +24,11 @@
       "thumbnailUrl": "https://i1.ytimg.com/vi/DxAcvmt2D90/hqdefault.jpg"
     },
     {
-      "id": "laeZtgxIzYI",
-      "title": "[유니티 꿀팁 시리즈] SOLID 원칙_ISP",
-      "url": "https://www.youtube.com/shorts/laeZtgxIzYI",
-      "publishedAt": "2026-04-24T01:23:42.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/laeZtgxIzYI/hqdefault.jpg"
+      "id": "qZXZVhXB8PI",
+      "title": "드디어 나타난 Unity AI 2.0을 소개합니다 - 유니티 라이브 특집",
+      "url": "https://www.youtube.com/watch?v=qZXZVhXB8PI",
+      "publishedAt": "2026-04-24T03:30:01.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/qZXZVhXB8PI/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
