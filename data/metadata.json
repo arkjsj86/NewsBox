@@ -3,9 +3,9 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-28T21:58:59.490Z",
+  "lastUpdatedAt": "2026-04-29T02:56:06.107Z",
   "tabCount": 5,
-  "totalArticleCount": 78,
+  "totalArticleCount": 80,
   "availableTabs": [
     "ai",
     "game",
@@ -25,18 +25,23 @@
     "unityVideoLimit": 2
   },
   "feedCount": 8,
-  "successfulFeedCount": 7,
-  "failedFeedCount": 1,
+  "successfulFeedCount": 8,
+  "failedFeedCount": 0,
   "successfulFeeds": [
     {
       "key": "itworld-kr",
       "source": "ITWorld Korea",
-      "itemCount": 10
+      "itemCount": 12
     },
     {
       "key": "etnews-games",
       "source": "전자신문 게임",
       "itemCount": 30
+    },
+    {
+      "key": "gameinsight-all",
+      "source": "게임인사이트",
+      "itemCount": 27
     },
     {
       "key": "gameinsight-ai-blockchain",
@@ -64,13 +69,7 @@
       "itemCount": 30
     }
   ],
-  "failedFeeds": [
-    {
-      "key": "gameinsight-all",
-      "source": "게임인사이트",
-      "error": "fetch failed"
-    }
-  ],
+  "failedFeeds": [],
   "spotlightCount": 4,
   "spotlights": [
     {
