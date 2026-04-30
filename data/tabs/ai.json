@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-04-29T21:59:11.910Z",
+  "lastUpdatedAt": "2026-04-30T02:57:14.758Z",
   "articleCount": 13,
   "articles": [
+    {
+      "id": "d5155dfda1b5f0bf",
+      "title": "더하기보다 빼기가 어려운 AI 시대의 제품 관리",
+      "url": "https://www.itworld.co.kr/article/4165212/%eb%8d%94%ed%95%98%ea%b8%b0%eb%b3%b4%eb%8b%a4-%eb%b9%bc%ea%b8%b0%ea%b0%80-%ec%96%b4%eb%a0%a4%ec%9a%b4-ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%a0%9c%ed%92%88-%ea%b4%80%eb%a6%ac.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-04-30T01:05:23.000Z",
+      "summary": "한때 마이크로소프트 워드는 세계에서 가장 널리 사용되는 소프트웨어였다. .doc 파일은 컴퓨팅 세계의 공용어였고, “워드 파일로 보내주세요”라는 표현은 비즈니스 용어로 자리 잡았다. 워드와의 경쟁에 패배한 경쟁 프로그램 워드퍼펙트(WordPerfect)는 결국 윈도우 환경으로의 전환에 완전히 적응하지 못했다. 그러나 워드퍼펙트와의 경쟁은 일종의 ‘피로스의 승리’였을지도 모른다. 더 많은...",
+      "tab": "ai"
+    },
+    {
+      "id": "0d73912ab364a814",
+      "title": "AI도 ‘기분’이 있다? 사용자 태도가 만드는 차이",
+      "url": "https://www.itworld.co.kr/article/4165199/ai%eb%8f%84-%ea%b8%b0%eb%b6%84%ec%9d%b4-%ec%9e%88%eb%8b%a4-%ec%82%ac%ec%9a%a9%ec%9e%90-%ed%83%9c%eb%8f%84%ea%b0%80-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%b0%a8%ec%9d%b4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-04-30T00:17:56.000Z",
+      "summary": "AI에게 “고맙다”고 말하는 게 이상할까? 그동안 오픈AI의 챗GPT, 앤트로픽의 클로드, 구글의 제미나이에게 “부탁해”나 “고마워”라고 말한다는 이유로 핀잔을 들은 적이 있다. AI가 인간처럼 감정을 갖고 있지 않다는 걸 알면서도 여전히 그렇게 한다. AI에게 예의를 지키는 일은 그저 자연스럽게 느껴진다. 그리고 AI 챗봇을 친절하게 대하느냐, 혹은 거칠게 대하느냐가 실제로 그 행동에...",
+      "tab": "ai"
+    },
     {
       "id": "23302b56e47cab4d",
       "title": "백악관, 앤트로픽 AI 재도입 추진…갈등 봉합 수순 밟나",
@@ -104,24 +122,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-04-24T02:06:25.000Z",
       "summary": "AI 기반 옵저버빌리티와 보안 플랫폼 전문 업체 데이터독(Datadog, Inc.) 이 계속 증가하는 AI 비용을 확장 가능하고 효과적으로 관리하려는 기업의 핵심 과제를 해결할 방안으로 GPU 모니터링을 정식 출시 했다. 데이터독 CPO 얀빙 리는 전체 컴퓨팅 비용의 14%를 차지 하는 GPU 인스턴스 비용이 기업의 AI 퍼스트 기술 구축에 큰 걸림돌이 된다며, 비용 증가 추이 외에 사...",
-      "tab": "ai"
-    },
-    {
-      "id": "7c8ce875d302586b",
-      "title": "클로드 코드 제외되나…앤트로픽 테스트가 드러낸 개인용 AI 요금제의 한계",
-      "url": "https://www.itworld.co.kr/article/4162231/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%bd%94%eb%93%9c-%ec%a0%9c%ec%99%b8%eb%90%98%eb%82%98-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%85%8c%ec%8a%a4%ed%8a%b8%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%ea%b0%9c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-23T23:40:16.000Z",
-      "summary": "정액형 AI 요금제가 한계에 다다랐다는 기사를 쓴 직후 클로드를 개발한 앤트로픽에서 직접 중요한 신호가 발신됐다. 일부 클로드 사용자가 앤트로픽이 개인용 클로드 프로와 맥스 요금제 가입 페이지 수정을 포착했다. 특히 클로드 프로가 제공하는 기능 목록에서 클로드 코드 항목이 사라진 것이 확인됐다. 이후 클로드 코드는 다시 클로드 프로 가입 페이지에 명시됐다. 앤트로픽 성장 총괄 아몰 아바...",
-      "tab": "ai"
-    },
-    {
-      "id": "d18b50cc7205ee79",
-      "title": "아마존의 50억 달러 앤트로픽 투자, 핵심은 ‘현금’이 아니라 ‘컴퓨트’",
-      "url": "https://www.itworld.co.kr/article/4161802/%ec%95%84%eb%a7%88%ec%a1%b4%ec%9d%98-50%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%88%ac%ec%9e%90-%ed%95%b5%ec%8b%ac%ec%9d%80-%ed%98%84%ea%b8%88%ec%9d%b4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-23T01:10:05.000Z",
-      "summary": "아마존이 월요일, 앤트로픽에 50억 달러를 추가 투자한다고 밝혔다. 여러 애널리스트는 이번 결정이 양사 간 전략적 파트너십 강화뿐 아니라, AI 신생업체가 직면한 인프라 병목을 완화하려는 목적도 크다고 보고 있다. 공동 발표에 따르면, 앤트로픽은 AWS의 트레이니움(Trainium) 칩 전반에 걸쳐 최대 5기가와트(GW)의 컴퓨트 용량을 장기 확보하게 된다. 여기에는 새롭게 공개된 트레...",
       "tab": "ai"
     }
   ]
