@@ -7,65 +7,347 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-04-30T16:19:40.885Z",
+  "lastUpdatedAt": "2026-04-30T19:23:13.536Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "274ecb82cbde2598",
-      "issueKey": "넥슨",
-      "issueTitle": "넥슨",
-      "trendTitle": "넥슨",
+      "id": "bbdefa2950f49882",
+      "issueKey": "google",
+      "issueTitle": "google",
+      "trendTitle": "google",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
+          "publishedAt": "2026-04-30T17:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Google Is Closing the Cloud Gap With Amazon, Microsoft — Heard on the Street",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-30-2026/card/google-is-closing-the-cloud-gap-with-amazon-microsoft-heard-on-the-street-k2teAEnfP7AVzWat1cUT",
+          "publishedAt": "2026-04-30T17:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Google Cloud revenue is now 18% of Alphabet's business. Is this the beginning of the end of Google's search identity?",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/04/29/google-earnings-cloud-ai/",
+          "publishedAt": "2026-04-30T17:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
+        "publishedAt": "2026-04-30T17:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-30T17:50:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "google",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
+      "rank": 1
+    },
+    {
+      "id": "d31579ff3b4d6a87",
+      "issueKey": "지젤",
+      "issueTitle": "지젤",
+      "trendTitle": "지젤",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "쇼타로·지젤, 열애 부인했는데···또 나란히 포착",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202604301359003",
+          "publishedAt": "2026-04-30T16:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "쇼타로 지젤, 열애 부인에도 포착, 위버스 해명 뒤 다시 나온 같은 자리 : 네이버 블로그",
+          "source": "Naver Blog",
+          "url": "https://blog.naver.com/PostView.naver?blogId=yooju0913&amp;logNo=224271100122&amp;redirect=Dlog",
+          "publishedAt": "2026-04-30T16:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "쇼타로·지젤, 열애 부인했는데···또 나란히 포착",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260430n20257",
+          "publishedAt": "2026-04-30T16:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "쇼타로·지젤, 열애 부인했는데···또 나란히 포착",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202604301359003",
+        "publishedAt": "2026-04-30T16:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-30T16:10:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "지젤",
+      "source": "스포츠경향",
+      "url": "https://sports.khan.co.kr/article/202604301359003",
+      "rank": 2
+    },
+    {
+      "id": "fdbcd5ef3f91c1d7",
+      "issueKey": "임세령",
+      "issueTitle": "임세령",
+      "trendTitle": "이정재",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'12년째 열애' 이정재♥임세령, 데이트 목격..정용진 회장 아내 연주회 동행 [Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/movie/2026/04/30/HAYTAZJZGBRWCMTFMQ4GCYZTGM/",
+          "publishedAt": "2026-04-30T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이정재♥임세령, 롯콘서 포착…여전한 애정 과시",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260430_0003613805",
+          "publishedAt": "2026-04-30T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘12년 열애’ 이정재♥임세령, 연주회 데이트 포착 “너무 멋진 커플”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202604301550003",
+          "publishedAt": "2026-04-30T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'12년째 열애' 이정재♥임세령, 데이트 목격..정용진 회장 아내 연주회 동행 [Oh!쎈 이슈]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/movie/2026/04/30/HAYTAZJZGBRWCMTFMQ4GCYZTGM/",
+        "publishedAt": "2026-04-30T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-30T16:00:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "임세령",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/movie/2026/04/30/HAYTAZJZGBRWCMTFMQ4GCYZTGM/",
+      "rank": 3
+    },
+    {
+      "id": "1ca26752b9c5f9a4",
+      "issueKey": "노동절",
+      "issueTitle": "노동절",
+      "trendTitle": "노동절",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "63년 만에 법정 공휴일 된 노동절, 올해부터 학교도 휴업해요",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568",
+          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "춘천, 내일부터 연휴 기간 민원 체계 강화",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8550428",
+          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[팩트체크] 왜 '근로' 아닌 '노동'일까…63년 만의 '노동절' 의미는",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260428162300518",
+          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "63년 만에 법정 공휴일 된 노동절, 올해부터 학교도 휴업해요",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568",
+        "publishedAt": "2026-04-30T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-30T15:50:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "노동절",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568",
+      "rank": 4
+    },
+    {
+      "id": "f72cc428d7fbf3bc",
+      "issueKey": "한지희",
+      "issueTitle": "한지희",
+      "trendTitle": "한지희",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "트럼프 장남, 정용진 회장 부인 공연에…친분 과시",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/MYH20260430111929Ns6",
+          "publishedAt": "2026-04-30T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "트럼프 주니어 ‘금돼지식당’서 포착…문짝 사인·인증샷도",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260430/133845462/1",
+          "publishedAt": "2026-04-30T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "콘서트홀 찾은 트럼프 주니어",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260429206000013",
+          "publishedAt": "2026-04-30T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "한지희",
+        "source": "연합뉴스TV",
+        "url": "https://m.yonhapnewstv.co.kr/news/MYH20260430111929Ns6",
+        "publishedAt": "2026-04-30T15:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-30T15:30:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "한지희",
+      "source": "연합뉴스TV",
+      "url": "https://m.yonhapnewstv.co.kr/news/MYH20260430111929Ns6",
+      "rank": 5
+    },
+    {
+      "id": "6527c9361a2f469c",
+      "issueKey": "ps",
+      "issueTitle": "ps",
+      "trendTitle": "ps",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "PlayStation Users Report New Online License Checks, But Sony Quells Concerns",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/articles/playstation-users-report-new-online-license-checks-for-digital-games/1100-6539651/",
+          "publishedAt": "2026-04-30T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Sony Clarifies PS5, PS4 License Changes, Introduces New One-Time Game Check",
+          "source": "PCMag",
+          "url": "https://www.pcmag.com/news/sony-clarifies-ps5-ps4-license-changes-introduces-new-one-time-game-check",
+          "publishedAt": "2026-04-30T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Freakout Over PlayStation DRM Was a Big Nothingburger",
+          "source": "Gizmodo",
+          "url": "https://gizmodo.com/freakout-over-playstation-drm-was-a-big-nothingburger-2000752635",
+          "publishedAt": "2026-04-30T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Sony Clarifies PS5, PS4 License Changes, Introduces New One-Time Game Check",
+        "source": "PCMag",
+        "url": "https://www.pcmag.com/news/sony-clarifies-ps5-ps4-license-changes-introduces-new-one-time-game-check",
+        "publishedAt": "2026-04-30T15:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-30T15:30:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "ps",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/sony-clarifies-ps5-ps4-license-changes-introduces-new-one-time-game-check",
+      "rank": 6
+    },
+    {
+      "id": "9b5e6ffdc1de5941",
+      "issueKey": "labour day",
+      "issueTitle": "labour day",
+      "trendTitle": "labour day",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "대법원, ‘다크앤다커’ 영업비밀 침해 최종 확정…넥슨 57억 배상 승소",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260430111739",
-          "publishedAt": "2026-04-30T15:00:00.000Z",
+          "title": "Why Democratic Socialists Are Taking to the Streets This May Day",
+          "source": "In These Times",
+          "url": "https://inthesetimes.com/article/democratic-socialists-of-america-may-day-workers-rights",
+          "publishedAt": "2026-04-30T15:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "4년 8개월 '다크앤다커' 분쟁이 남긴 것은...\"스핀오프 관행에 법적 기준 제시\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260430172733275",
-          "publishedAt": "2026-04-30T15:00:00.000Z",
+          "title": "International Labour Day 2026: Know Date, History And Significance",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/offbeat/international-labour-day-2026-know-date-history-and-significance-11432403",
+          "publishedAt": "2026-04-30T15:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'다크 앤 다커' 5년 전쟁 마침표…대법 \"아이언메이스, 넥슨에 57억 배상\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260430_0003612912",
-          "publishedAt": "2026-04-30T15:00:00.000Z",
+          "title": "Co-ops rally for workers this May Day",
+          "source": "Co-operative News",
+          "url": "https://www.thenews.coop/co-ops-rally-for-workers-this-may-day/",
+          "publishedAt": "2026-04-30T15:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "대법원, ‘다크앤다커’ 영업비밀 침해 최종 확정…넥슨 57억 배상 승소",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260430111739",
-        "publishedAt": "2026-04-30T15:00:00.000Z",
-        "relevanceScore": 3
+        "title": "International Labour Day 2026: Know Date, History And Significance",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/offbeat/international-labour-day-2026-know-date-history-and-significance-11432403",
+        "publishedAt": "2026-04-30T15:20:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-04-30T15:00:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
-      "title": "넥슨",
-      "source": "지디넷코리아",
-      "url": "https://zdnet.co.kr/view/?no=20260430111739",
-      "rank": 1
+      "publishedAt": "2026-04-30T15:20:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "labour day",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/offbeat/international-labour-day-2026-know-date-history-and-significance-11432403",
+      "rank": 7
     },
     {
       "id": "b8900f7cb538c8bf",
       "issueKey": "스텔스기",
       "issueTitle": "스텔스기",
       "trendTitle": "스텔스기",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -99,12 +381,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-04-30T14:50:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
       "title": "스텔스기",
       "source": "나우뉴스",
       "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260430601025",
-      "rank": 2
+      "rank": 8
     },
     {
       "id": "c6c3e753130f78dc",
@@ -131,9 +413,9 @@
           "relevanceScore": 2
         },
         {
-          "title": "성착취 '자경단' 총책 김녹완 2심도 무기징역…\"반인권적 범행\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260429094100004",
+          "title": "[포토]전은수, '현장과 국정, 예산과 민생, 오늘과 미래를 잇겠다'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260429n16172",
           "publishedAt": "2026-04-30T14:40:00.000Z",
           "relevanceScore": 1
         }
@@ -146,340 +428,58 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-04-30T14:40:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
       "title": "김녹완",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260429142407491",
-      "rank": 3
-    },
-    {
-      "id": "e5d401e6d3a302cf",
-      "issueKey": "유미",
-      "issueTitle": "유미",
-      "trendTitle": "유미",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "2회 남은 '유미의 세포들3', 김재원 드디어 각성…\"하트 피버 타임\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BWsnw6rNlv",
-          "publishedAt": "2026-04-30T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김재원, 입덕 부정기 끝에 결국 김고은에 돌직구 고백했다(‘유미의 세포들3’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/30/MJRWGOBSGVSWMOBXMI4DGMZXMY/",
-          "publishedAt": "2026-04-30T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유니콘 연하남의 재정의, 2026년식 ‘저중력 연하남’의 무해한 매력",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260429/133826110/1",
-          "publishedAt": "2026-04-30T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "2회 남은 '유미의 세포들3', 김재원 드디어 각성…\"하트 피버 타임\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BWsnw6rNlv",
-        "publishedAt": "2026-04-30T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T14:30:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
-      "title": "유미",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/BWsnw6rNlv",
-      "rank": 4
-    },
-    {
-      "id": "3fd92c538a57d955",
-      "issueKey": "라이엇",
-      "issueTitle": "라이엇",
-      "trendTitle": "라이엇",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "총 3000명 참가…라이엇, 전국 TFT 아마추어 토너먼트 결승전 예고",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260430n15009",
-          "publishedAt": "2026-04-30T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "총 상금 1,000만 원, TFT 아마추어 토너먼트 결승 2일 시작",
-          "source": "게임메카",
-          "url": "https://www.gamemeca.com/view.php?gid=1774685",
-          "publishedAt": "2026-04-30T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“3,000대 1의 경쟁률” TFT 아마추어 토너먼트 최종 우승자 가린다",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2143412",
-          "publishedAt": "2026-04-30T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "총 3000명 참가…라이엇, 전국 TFT 아마추어 토너먼트 결승전 예고",
-        "source": "네이트 스포츠",
-        "url": "https://sports.news.nate.com/view/20260430n15009",
-        "publishedAt": "2026-04-30T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T14:30:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
-      "title": "라이엇",
-      "source": "네이트 스포츠",
-      "url": "https://sports.news.nate.com/view/20260430n15009",
-      "rank": 5
-    },
-    {
-      "id": "f792c951d917eb15",
-      "issueKey": "현주엽",
-      "issueTitle": "현주엽",
-      "trendTitle": "현주엽",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“현주엽에게 학폭 당했다”…현주엽, 고소했지만 “명예훼손 아냐” 항소심도 ‘무죄’",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10729623",
-          "publishedAt": "2026-04-30T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "현주엽, 학폭 폭로자 '명예훼손' 고소했다가…또 패소",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026043082257",
-          "publishedAt": "2026-04-30T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“현주엽 학폭 폭로” 2심도 무죄…명예훼손 성립 못했다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12032418",
-          "publishedAt": "2026-04-30T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“현주엽에게 학폭 당했다”…현주엽, 고소했지만 “명예훼손 아냐” 항소심도 ‘무죄’",
-        "source": "헤럴드경제",
-        "url": "https://biz.heraldcorp.com/article/10729623",
-        "publishedAt": "2026-04-30T14:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T14:20:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
-      "title": "현주엽",
-      "source": "헤럴드경제",
-      "url": "https://biz.heraldcorp.com/article/10729623",
-      "rank": 6
-    },
-    {
-      "id": "0c30bb7c1f4dad09",
-      "issueKey": "서울숲",
-      "issueTitle": "서울숲",
-      "trendTitle": "서울숲",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "IPARK현산, 서울국제정원박람회서 기업동행 정원 선봬",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260430_0003613439",
-          "publishedAt": "2026-04-30T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "역대 최장 기간 180일 … 정원으로 물드는 서울",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/05/01/MG44LQSZQBBJRDLIMVOP64Y2Z4/",
-          "publishedAt": "2026-04-30T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "봄의 한가운데",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202604302117005",
-          "publishedAt": "2026-04-30T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서울숲",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260430_0003613439",
-        "publishedAt": "2026-04-30T14:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T14:20:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
-      "title": "서울숲",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260430_0003613439",
-      "rank": 7
-    },
-    {
-      "id": "754fc20265b92851",
-      "issueKey": "rcb vs gt",
-      "issueTitle": "rcb vs gt",
-      "trendTitle": "rcb vs gt",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Ball by Ball Commentary & Live Score - GT vs RCB, 42nd Match",
-          "source": "ESPNcricinfo",
-          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-royal-challengers-bengaluru-42nd-match-1529285/ball-by-ball-commentary",
-          "publishedAt": "2026-04-30T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Gujarat Titans and Royal Challengers Bengaluru clash in high-stakes bid for IPL supremacy",
-          "source": "Storyboard18",
-          "url": "https://www.storyboard18.com/media-and-entertainment/gujarat-titans-and-royal-challengers-bengaluru-clash-in-high-stakes-bid-for-ipl-supremacy-96866.htm",
-          "publishedAt": "2026-04-30T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Virat Kohli score in today's IPL 2026 match: How many runs did RCB star score against GT at Narendra Modi Stadium, Ahmedabad",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/virat-kohli-score-todays-ipl-122036032.html",
-          "publishedAt": "2026-04-30T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "rcb vs gt",
-        "source": "ESPNcricinfo",
-        "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-royal-challengers-bengaluru-42nd-match-1529285/ball-by-ball-commentary",
-        "publishedAt": "2026-04-30T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T14:10:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
-      "title": "rcb vs gt",
-      "source": "ESPNcricinfo",
-      "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-royal-challengers-bengaluru-42nd-match-1529285/ball-by-ball-commentary",
-      "rank": 8
-    },
-    {
-      "id": "3f524cdc07a11d7c",
-      "issueKey": "f1",
-      "issueTitle": "f1",
-      "trendTitle": "f1",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "How F1 drivers and strategists tackle the Miami Grand Prix",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-miami-international-autodrome.4pza6b10sTLqxfAfhcEO2H",
-          "publishedAt": "2026-04-30T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "",
-          "source": "Apple",
-          "url": "https://www.apple.com/newsroom/2026/04/formula-1-returns-to-the-us-this-weekend-streaming-live-on-apple-tv/",
-          "publishedAt": "2026-04-30T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Mercedes determined to keep foot on the gas going into Miami",
-          "source": "Motorsport Technology",
-          "url": "https://motorsport.tech/formula-1/mercedes-determined-to-keep-foot-on-the-gas-going-into-miami",
-          "publishedAt": "2026-04-30T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "How F1 drivers and strategists tackle the Miami Grand Prix",
-        "source": "Formula 1",
-        "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-miami-international-autodrome.4pza6b10sTLqxfAfhcEO2H",
-        "publishedAt": "2026-04-30T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T14:00:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
-      "title": "f1",
-      "source": "Formula 1",
-      "url": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-miami-international-autodrome.4pza6b10sTLqxfAfhcEO2H",
       "rank": 9
     },
     {
-      "id": "93eb045208a5c263",
-      "issueKey": "중대범죄 수사청",
-      "issueTitle": "중대범죄 수사청",
-      "trendTitle": "중대범죄 수사청",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "eecea062545a7dbb",
+      "issueKey": "개팀 선발하",
+      "issueTitle": "개팀 선발하",
+      "trendTitle": "개팀 선발하",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "중수청 개청준비단 출범",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260430_0021267566",
-          "publishedAt": "2026-04-30T13:40:00.000Z",
+          "title": "원주시 “최고 게임대회 ‘LCK MSI’ 성공 개최하겠다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260430155235988",
+          "publishedAt": "2026-04-30T14:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'중수청 개청준비단' 출범…10월 2일 개청 목표",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/MYH202604302258126Bd",
-          "publishedAt": "2026-04-30T13:40:00.000Z",
+          "title": "LCK, '2026 MSI' 대표 선발전 일정 공개",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260422170754",
+          "publishedAt": "2026-04-30T14:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "중대범죄수사청 준비단 30일 출범…10월 개청 준비 본격화",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20038589",
-          "publishedAt": "2026-04-30T13:40:00.000Z",
+          "title": "MSI에 나설 LCK 2개팀 선발하는 'MSI 대표 선발전', 6월 12~14일 강원도 원주에서 2개팀 가려져",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/04/22/MUYTQMBZGBTDKMZWGJSTSYZRGA/",
+          "publishedAt": "2026-04-30T14:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "중대범죄 수사청",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260430_0021267566",
-        "publishedAt": "2026-04-30T13:40:00.000Z",
-        "relevanceScore": 3
+        "title": "MSI에 나설 LCK 2개팀 선발하는 'MSI 대표 선발전', 6월 12~14일 강원도 원주에서 2개팀 가려져",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/04/22/MUYTQMBZGBTDKMZWGJSTSYZRGA/",
+        "publishedAt": "2026-04-30T14:30:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-04-30T13:40:00.000Z",
-      "firstSeenAt": "2026-04-30T16:19:40.885Z",
-      "lastSeenAt": "2026-04-30T16:19:40.885Z",
-      "title": "중대범죄 수사청",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISI20260430_0021267566",
+      "publishedAt": "2026-04-30T14:30:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "개팀 선발하",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_general/2026/04/22/MUYTQMBZGBTDKMZWGJSTSYZRGA/",
       "rank": 10
     }
   ],
@@ -529,6 +529,52 @@
       "title": "엘에",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260430105302849"
+    },
+    {
+      "id": "1ca26752b9c5f9a4",
+      "issueKey": "노동절",
+      "issueTitle": "노동절",
+      "trendTitle": "노동절",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "63년 만에 법정 공휴일 된 노동절, 올해부터 학교도 휴업해요",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568",
+          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "춘천, 내일부터 연휴 기간 민원 체계 강화",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8550428",
+          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[팩트체크] 왜 '근로' 아닌 '노동'일까…63년 만의 '노동절' 의미는",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260428162300518",
+          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "63년 만에 법정 공휴일 된 노동절, 올해부터 학교도 휴업해요",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568",
+        "publishedAt": "2026-04-30T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-04-30T15:50:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "노동절",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568"
     },
     {
       "id": "b4ade3ce29a1b3d7",
@@ -1309,52 +1355,6 @@
       "url": "https://www.newsis.com/view/NISX20260428_0003609109"
     },
     {
-      "id": "871d207609515b86",
-      "issueKey": "탈퇴",
-      "issueTitle": "탈퇴",
-      "trendTitle": "탈퇴",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "UAE, 내달 OPEC 탈퇴... 독자적 ‘석유 증산’ 나선다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/2026/04/28/KNW6VICF7RGJFJDOHDRHDLBDKM/",
-          "publishedAt": "2026-04-28T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"UAE의 OPEC 탈퇴 결정은 미국에 승리\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260429002200072",
-          "publishedAt": "2026-04-28T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "UAE, 다음달 1일 OPEC 탈퇴···“원유 비축량 고갈 심각한 수준”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20038308",
-          "publishedAt": "2026-04-28T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "UAE, 내달 OPEC 탈퇴... 독자적 ‘석유 증산’ 나선다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/2026/04/28/KNW6VICF7RGJFJDOHDRHDLBDKM/",
-        "publishedAt": "2026-04-28T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-28T14:40:00.000Z",
-      "firstSeenAt": "2026-04-28T16:52:07.996Z",
-      "lastSeenAt": "2026-04-28T16:52:07.996Z",
-      "title": "탈퇴",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/international/2026/04/28/KNW6VICF7RGJFJDOHDRHDLBDKM/"
-    },
-    {
       "id": "bdfdc854f1d99ddf",
       "issueKey": "김혜수",
       "issueTitle": "김혜수",
@@ -1487,6 +1487,52 @@
       "title": "야닉 시너",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260429072302269"
+    },
+    {
+      "id": "9b5e6ffdc1de5941",
+      "issueKey": "labour day",
+      "issueTitle": "labour day",
+      "trendTitle": "labour day",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Why Democratic Socialists Are Taking to the Streets This May Day",
+          "source": "In These Times",
+          "url": "https://inthesetimes.com/article/democratic-socialists-of-america-may-day-workers-rights",
+          "publishedAt": "2026-04-30T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "International Labour Day 2026: Know Date, History And Significance",
+          "source": "NDTV",
+          "url": "https://www.ndtv.com/offbeat/international-labour-day-2026-know-date-history-and-significance-11432403",
+          "publishedAt": "2026-04-30T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Co-ops rally for workers this May Day",
+          "source": "Co-operative News",
+          "url": "https://www.thenews.coop/co-ops-rally-for-workers-this-may-day/",
+          "publishedAt": "2026-04-30T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "International Labour Day 2026: Know Date, History And Significance",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/offbeat/international-labour-day-2026-know-date-history-and-significance-11432403",
+        "publishedAt": "2026-04-30T15:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-04-30T15:20:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "labour day",
+      "source": "NDTV",
+      "url": "https://www.ndtv.com/offbeat/international-labour-day-2026-know-date-history-and-significance-11432403"
     },
     {
       "id": "274ecb82cbde2598",
@@ -2317,96 +2363,50 @@
       "url": "https://v.daum.net/v/zDrP8KjJXd"
     },
     {
-      "id": "4062ec403262d9da",
-      "issueKey": "장윤정",
-      "issueTitle": "장윤정",
-      "trendTitle": "장윤정",
+      "id": "bbdefa2950f49882",
+      "issueKey": "google",
+      "issueTitle": "google",
+      "trendTitle": "google",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "장윤정 “이게 잡채야?”…야노시호 10분 요리에 ‘멘붕’ (편스토랑)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260430135507387",
-          "publishedAt": "2026-04-30T11:50:00.000Z",
+          "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
+          "publishedAt": "2026-04-30T17:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'추성훈♥' 야노시호, 일본 사람 맞아? 삼계탕·잡채까지 \"韓 모르는 레시피\"(편스토랑)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/04/30/GFQTKOJVGVRTSZBSHBQTIMBTMU/",
-          "publishedAt": "2026-04-30T11:50:00.000Z",
+          "title": "Google Is Closing the Cloud Gap With Amazon, Microsoft — Heard on the Street",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-04-30-2026/card/google-is-closing-the-cloud-gap-with-amazon-microsoft-heard-on-the-street-k2teAEnfP7AVzWat1cUT",
+          "publishedAt": "2026-04-30T17:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "야노시호 극강의 하이텐션…장윤정 동공 지진 (편스토랑)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260430/133844535/1",
-          "publishedAt": "2026-04-30T11:50:00.000Z",
+          "title": "Google Cloud revenue is now 18% of Alphabet's business. Is this the beginning of the end of Google's search identity?",
+          "source": "Fortune",
+          "url": "https://fortune.com/2026/04/29/google-earnings-cloud-ai/",
+          "publishedAt": "2026-04-30T17:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "장윤정 “이게 잡채야?”…야노시호 10분 요리에 ‘멘붕’ (편스토랑)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260430135507387",
-        "publishedAt": "2026-04-30T11:50:00.000Z",
+        "title": "Google cloud growth tops Microsoft and Amazon as all three beat estimates on AI demand",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html",
+        "publishedAt": "2026-04-30T17:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-30T11:50:00.000Z",
-      "firstSeenAt": "2026-04-30T13:57:41.418Z",
-      "lastSeenAt": "2026-04-30T13:57:41.418Z",
-      "title": "장윤정",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260430135507387"
-    },
-    {
-      "id": "5550b579f69a6fd4",
-      "issueKey": "임형주",
-      "issueTitle": "임형주",
-      "trendTitle": "임형주",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "임형주 '152억 건물' 진흙탕 싸움…\"3년째 8억 못 받아\" vs \"우린 원청업체 아냐\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/04/30/MRTGKMBVGM4TIN3FMEZDAYJSMY/",
-          "publishedAt": "2026-04-30T05:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“서울팝페라하우스 공사대금 3년 가까이 못 받았다” 하도급업체들 테너 임형주씨 압박…무슨 일?",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10729325",
-          "publishedAt": "2026-04-30T05:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "임형주, 공사대금 3년째 미지급 반박…하도급업체 \"거짓 주장\" 분개",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16048555",
-          "publishedAt": "2026-04-30T05:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "임형주 '152억 건물' 진흙탕 싸움…\"3년째 8억 못 받아\" vs \"우린 원청업체 아냐\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/enter_general/2026/04/30/MRTGKMBVGM4TIN3FMEZDAYJSMY/",
-        "publishedAt": "2026-04-30T05:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T05:00:00.000Z",
-      "firstSeenAt": "2026-04-30T06:09:14.151Z",
-      "lastSeenAt": "2026-04-30T06:09:14.151Z",
-      "title": "임형주",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/enter_general/2026/04/30/MRTGKMBVGM4TIN3FMEZDAYJSMY/"
+      "publishedAt": "2026-04-30T17:50:00.000Z",
+      "firstSeenAt": "2026-04-30T19:23:13.536Z",
+      "lastSeenAt": "2026-04-30T19:23:13.536Z",
+      "title": "google",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/30/google-microsoft-and-amazon-all-report-cloud-beats-in-earnings.html"
     }
   ]
 }
