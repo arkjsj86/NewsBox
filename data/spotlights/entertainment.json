@@ -7,479 +7,472 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-02T19:00:38.967Z",
+  "lastUpdatedAt": "2026-05-02T21:41:35.664Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "15c6d611193988e4",
-      "issueKey": "arsenal",
-      "issueTitle": "arsenal",
-      "trendTitle": "arsenal",
+      "id": "dcfe56389cd20635",
+      "issueKey": "안세영",
+      "issueTitle": "안세영",
+      "trendTitle": "안세영",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "안세영 앞세운 여자 배드민턴, 인도네시아 꺾고 세계단체선수권 결승행",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/",
+          "publishedAt": "2026-05-02T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "안세영, 40분 셧아웃…韓 여자 단체, 중국과 우버컵 결승 맞대결",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6511524",
+          "publishedAt": "2026-05-02T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'단식 퀸' 안세영 앞세운 배드민턴 여자 대표팀, 우버컵 결승행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260502048600007",
+          "publishedAt": "2026-05-02T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "안세영 앞세운 여자 배드민턴, 인도네시아 꺾고 세계단체선수권 결승행",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/",
+        "publishedAt": "2026-05-02T20:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-02T20:30:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "안세영",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/",
+      "rank": 1
+    },
+    {
+      "id": "c83945f695b2c566",
+      "issueKey": "신유빈",
+      "issueTitle": "신유빈",
+      "trendTitle": "신유빈",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'신유빈 출격' 여자 탁구, 세계선수권 첫 경기서 대만에 1-3 패배",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260502_0003615014",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"장우진X안재현X오준성\" 男탁구 '세계3위' 스웨덴에 0대3 완패[런던세계탁구 조별리그 1차전]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/05/03/MVSDONLFGE4TINDFMI2DMMBVMU/",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "여자탁구, 런던 세계선수권 단체전서 대만에 1-3 역전패",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7I1ywzoMZ1",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'신유빈 출격' 여자 탁구, 세계선수권 첫 경기서 대만에 1-3 패배",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260502_0003615014",
+        "publishedAt": "2026-05-02T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-02T20:20:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "신유빈",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260502_0003615014",
+      "rank": 2
+    },
+    {
+      "id": "1f28b0fd52db1902",
+      "issueKey": "네덜란드",
+      "issueTitle": "네덜란드",
+      "trendTitle": "네덜란드",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "네덜란드 암스테르담 '노동자의 날'",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3571960",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "인도네시아 택한 대가, 네덜란드 국적 상실…축구계 덮친 ‘국적 리스크’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260502185035790",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'무려 133경기 재경기?' 유럽축구 시즌 송두리째 뒤흔든다…부정 선수 출전→경기 결과 싹 다 무효 '초대형 변수 등장'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260501n11723",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "네덜란드 암스테르담 '노동자의 날'",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3571960",
+        "publishedAt": "2026-05-02T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-02T20:20:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "네덜란드",
+      "source": "국제뉴스",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3571960",
+      "rank": 3
+    },
+    {
+      "id": "c1d8da88be004cdf",
+      "issueKey": "경기 예측",
+      "issueTitle": "경기 예측",
+      "trendTitle": "경기 예측",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 2,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "오사수나 vs 바르셀로나 축구 경기 예측: 우승 세리머니를 기다리며",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-osasuna-vs-barca-cho-tiec-vo-dich",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[if.preview] '고공 행진' 바르셀로나, 오사수나 잡고 '리그 10연승+우승 확정' 가능할까",
+          "source": "포포투",
+          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=91384",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "오사수나 vs 바르셀로나 축구 경기 예측: 우승 세리머니를 기다리며",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-osasuna-vs-barca-cho-tiec-vo-dich",
+        "publishedAt": "2026-05-02T20:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-02T20:20:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "경기 예측",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-osasuna-vs-barca-cho-tiec-vo-dich",
+      "rank": 4
+    },
+    {
+      "id": "a78cee47656be418",
+      "issueKey": "기술",
+      "issueTitle": "기술",
+      "trendTitle": "기술",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“배 한 척 로열티만 3%”…‘조선 기술 완전 자립’ 도전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "수주는 독점인데 기술료는 해외로…'FLNG' 기술 자립 선언",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6507799",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "거제 '글로벌 조선해양플랜트 클러스터' 추진",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=585362",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“배 한 척 로열티만 3%”…‘조선 기술 완전 자립’ 도전",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327",
+        "publishedAt": "2026-05-02T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-02T20:20:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "기술",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327",
+      "rank": 5
+    },
+    {
+      "id": "b853c6c2fb57e413",
+      "issueKey": "커플",
+      "issueTitle": "커플",
+      "trendTitle": "커플",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Premier League LIVE: Reaction as Arsenal beat Fulham to move six points clear at top of table",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c20qq1vjgv0t",
-          "publishedAt": "2026-05-02T17:30:00.000Z",
+          "title": "29기 옥순♥영수 진짜 결별했나? 커플 사진 사라졌다[스타이슈]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/05/02/2026050216542090362",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Premier League predictions and best bets: Another 1-0 to the Arsenal?",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11661/13538615/premier-league-predictions-and-best-bets-another-1-0-to-the-arsenal",
-          "publishedAt": "2026-05-02T17:30:00.000Z",
+          "title": "29기 영수·옥순, 영자 말실수에 또 결별설 \"여친 생긴 거야?\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-05-02/202605020100007090000384",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Arsenal vs Fulham Prediction: Team News, Where To Watch, and 13/1 Bet Builder Tip",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/articles/XUxg1tZWcUyG_TsMb1DHHg/show/arsenal-vs-fulham-prediction-team-news-where-to-watch-and-131-bet-builder-tip",
-          "publishedAt": "2026-05-02T17:30:00.000Z",
+          "title": "'윤민수 子' 윤후·'최재원 딸' 최유빈, 현커 인증 \"진심 감사\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260501_0003614249",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Premier League LIVE: Reaction as Arsenal beat Fulham to move six points clear at top of table",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c20qq1vjgv0t",
-        "publishedAt": "2026-05-02T17:30:00.000Z",
+        "title": "29기 옥순♥영수 진짜 결별했나? 커플 사진 사라졌다[스타이슈]",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/star/2026/05/02/2026050216542090362",
+        "publishedAt": "2026-05-02T20:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-02T17:30:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "arsenal",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/c20qq1vjgv0t",
-      "rank": 1
-    },
-    {
-      "id": "c81d9ab768863b29",
-      "issueKey": "아스날",
-      "issueTitle": "아스날",
-      "trendTitle": "아스날",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“이게 축구야?” 이강인, 벤치에서 지켜본 ‘4실점’ 이어진 많은 비판, 엔리케 감독 반박 “대다수가 즐겼다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260502212434364",
-          "publishedAt": "2026-05-02T17:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"PSG-바이에른은 다른 세상 이야기\" 아스날 감독, '역대급 난타전'에 이유 있는 항변",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/02/MEYWMNJXHE3WCYTGMFTDONJXGE/",
-          "publishedAt": "2026-05-02T17:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"엔리케+콤파니 별로, 선수들도 형편없잖아\" UCL 4강 대신 '3부리그 직관' 택한 과르디올라의 농담…\"나 잉글랜드 축구 사랑해서\"",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260502n03937",
-          "publishedAt": "2026-05-02T17:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"PSG-바이에른은 다른 세상 이야기\" 아스날 감독, '역대급 난타전'에 이유 있는 항변",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/05/02/MEYWMNJXHE3WCYTGMFTDONJXGE/",
-        "publishedAt": "2026-05-02T17:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-02T17:10:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "아스날",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/05/02/MEYWMNJXHE3WCYTGMFTDONJXGE/",
-      "rank": 2
-    },
-    {
-      "id": "2ba114d1119037ab",
-      "issueKey": "아스널",
-      "issueTitle": "아스널",
-      "trendTitle": "아스널",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"아스널 '더블 실패', 토트넘은 결국 강등됩니다\" 맨유 레전드의 '매운맛' 충격적 예언",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/02/GE4TMNZZGY2TOMZQMQ2DMZRSGU/",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[PL REVIEW] 아직 우승 경쟁 안 끝났다…'요케레스 멀티골' 아스널, 풀럼 3-0 제압",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260503n00438?mid=n0100",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "아스널 수성이냐 맨시티 역전이냐…EPL 우승 향방 '안개 속'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260430151123829",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"아스널 '더블 실패', 토트넘은 결국 강등됩니다\" 맨유 레전드의 '매운맛' 충격적 예언",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/05/02/GE4TMNZZGY2TOMZQMQ2DMZRSGU/",
-        "publishedAt": "2026-05-02T16:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T16:30:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "아스널",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/05/02/GE4TMNZZGY2TOMZQMQ2DMZRSGU/",
-      "rank": 3
-    },
-    {
-      "id": "0bd7dc86e5bc8de4",
-      "issueKey": "데미스 하사비스",
-      "issueTitle": "데미스 하사비스",
-      "trendTitle": "데미스 하사비스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "데미스 하사비스 : 알파고 너머의 세상 : AI끼리 승리 보상 기반으로 수백만 건의 대국 거쳐 탄생한 ‘알파고’",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/culture/demishassabis/clip/89459/OC479331513",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'그것이알고싶다' 결방(그알)",
-          "source": "www.bntnews.co.kr",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202605010132",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2581163",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "데미스 하사비스 : 알파고 너머의 세상 : AI끼리 승리 보상 기반으로 수백만 건의 대국 거쳐 탄생한 ‘알파고’",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/culture/demishassabis/clip/89459/OC479331513",
-        "publishedAt": "2026-05-02T16:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T16:30:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "데미스 하사비스",
-      "source": "programs.sbs.co.kr",
-      "url": "https://programs.sbs.co.kr/culture/demishassabis/clip/89459/OC479331513",
-      "rank": 4
-    },
-    {
-      "id": "a49f60628de93e45",
-      "issueKey": "김민재",
-      "issueTitle": "김민재",
-      "trendTitle": "김민재",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'김민재도 사우디?' 김민재 거취 안갯속, 김민재 이적설 재점화…세리에a 복귀 조건은 ‘연봉’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/02/HBRGGZBUMNSDMYZZHAZGKMRVMU/",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'연봉 138억' 김민재, 3옵션 센터백 추락에도 뮌헨 생활 만족…\"2028년까지 계속 뛸 수도! 뮌헨에도 좋은 일\"",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260502n05064",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"김민재, 친정팀 가는 꼴 못 봐!\" 갈라타사라이, 가로채기 전격 참전... 수뇌부가 직접 '공식 협상' 돌입",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/05/02/2026050210573246111",
-          "publishedAt": "2026-05-02T16:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'김민재도 사우디?' 김민재 거취 안갯속, 김민재 이적설 재점화…세리에a 복귀 조건은 ‘연봉’",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/05/02/HBRGGZBUMNSDMYZZHAZGKMRVMU/",
-        "publishedAt": "2026-05-02T16:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T16:30:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "김민재",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/05/02/HBRGGZBUMNSDMYZZHAZGKMRVMU/",
-      "rank": 5
-    },
-    {
-      "id": "ccd7b7d60748e82b",
-      "issueKey": "bundesliga",
-      "issueTitle": "bundesliga",
-      "trendTitle": "bundesliga",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Gebrauchter Abend – klare Niederlage im Topspiel",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/gebrauchter-abend-klare-niederlage-im-topspiel-42802413",
-          "publishedAt": "2026-05-02T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Streame Leverkusen – Leipzig heute kostenlos live: Bundesliga 2025/26",
-          "source": "Cybernews",
-          "url": "https://cybernews.com/de/online-schauen/leverkusen-vs-leipzig-kostenlos-schauen-bundesliga-02-05-2026/",
-          "publishedAt": "2026-05-02T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Matchball vergeben: Ex-RB-Stürmer verhindert CL-Quali in Leverkusen",
-          "source": "RBLive",
-          "url": "https://rblive.de/news/matchball-vergeben-rb-verpasst-champions-league-quali-gegen-bayer-4243569",
-          "publishedAt": "2026-05-02T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Streame Leverkusen – Leipzig heute kostenlos live: Bundesliga 2025/26",
-        "source": "Cybernews",
-        "url": "https://cybernews.com/de/online-schauen/leverkusen-vs-leipzig-kostenlos-schauen-bundesliga-02-05-2026/",
-        "publishedAt": "2026-05-02T15:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-02T15:40:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "bundesliga",
-      "source": "Cybernews",
-      "url": "https://cybernews.com/de/online-schauen/leverkusen-vs-leipzig-kostenlos-schauen-bundesliga-02-05-2026/",
+      "publishedAt": "2026-05-02T20:20:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "커플",
+      "source": "스타뉴스",
+      "url": "https://www.starnewskorea.com/star/2026/05/02/2026050216542090362",
       "rank": 6
     },
     {
-      "id": "ad9879306982ea4f",
-      "issueKey": "김태흠",
-      "issueTitle": "김태흠",
-      "trendTitle": "김태흠",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "c21dee4a35ad739c",
+      "issueKey": "축구",
+      "issueTitle": "축구",
+      "trendTitle": "축구",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "국힘, 정진석 공천 배제하나…당내 반발 속 윤리위 돌연 취소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260502200619553",
-          "publishedAt": "2026-05-02T15:30:00.000Z",
+          "title": "월드컵 출전 담판 짓나 ... FIFA-이란 곧 공식 회담 연다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/05/02/6Y2MMOL27JDVRGUVBHCPVGINXA/",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "정진석 \"이재명 공소취소 특검법이 내란\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6819614_36911.html",
-          "publishedAt": "2026-05-02T15:30:00.000Z",
+          "title": "이란축구협회, FIFA와 조만간 회담…월드컵 참가 관련 논의",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/MYH20260502131643QvS",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김태흠 충남지사, 정진석 공천 땐 ‘탈당 불사’…“상식선에서 판단하라”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260502/133851115/1",
-          "publishedAt": "2026-05-02T15:30:00.000Z",
+          "title": "이란축구협회, FIFA와 조만간 회담…월드컵 참가 관련 논의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260502020800007",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김태흠 충남지사, 정진석 공천 땐 ‘탈당 불사’…“상식선에서 판단하라”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260502/133851115/1",
-        "publishedAt": "2026-05-02T15:30:00.000Z",
-        "relevanceScore": 1
+        "title": "이란축구협회, FIFA와 조만간 회담…월드컵 참가 관련 논의",
+        "source": "연합뉴스TV",
+        "url": "https://m.yonhapnewstv.co.kr/news/MYH20260502131643QvS",
+        "publishedAt": "2026-05-02T20:20:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-02T15:30:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "김태흠",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Politics/article/all/20260502/133851115/1",
+      "publishedAt": "2026-05-02T20:20:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "축구",
+      "source": "연합뉴스TV",
+      "url": "https://m.yonhapnewstv.co.kr/news/MYH20260502131643QvS",
       "rank": 7
     },
     {
-      "id": "6721b7c3e00490e8",
-      "issueKey": "psg vs lorient",
-      "issueTitle": "psg vs lorient",
-      "trendTitle": "psg vs lorient",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "c0eb66ae9cb5276b",
+      "issueKey": "제주시",
+      "issueTitle": "제주시",
+      "trendTitle": "제주시",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "European football: PSG and Bayern held at home before second-leg clash",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/2026/may/02/european-football-psg-drop-ligue-1-points-to-lorient-with-minds-on-bayern-tie",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "제주시, 1분기 지방재정 신속집행 우수부서 시상",
+          "source": "케이에스피뉴스",
+          "url": "https://www.kspnews.com/2645685",
+          "publishedAt": "2026-05-02T20:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Licensable picture: Ligue 1 - Paris St Germain v FC Lorient",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/ligue-1-paris-st-germain-v-fc-lorient/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNTIxOUtQTUQ",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "",
+          "source": "경찰연합신문",
+          "url": "https://www.koreapolicenews.com/2043154",
+          "publishedAt": "2026-05-02T20:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "🚨 PSG-Lorient XIs: Luis Enrique rotates the whole side!",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/psg-lorient-xis-luis-enrique-141300048.html",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "제주시, 1분기 지방재정 신속집행 우수부서 시상",
+          "source": "정필",
+          "url": "https://www.jeongpil.com/2516026",
+          "publishedAt": "2026-05-02T20:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "psg vs lorient",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/may/02/european-football-psg-drop-ligue-1-points-to-lorient-with-minds-on-bayern-tie",
-        "publishedAt": "2026-05-02T14:40:00.000Z",
+        "title": "제주시, 1분기 지방재정 신속집행 우수부서 시상",
+        "source": "케이에스피뉴스",
+        "url": "https://www.kspnews.com/2645685",
+        "publishedAt": "2026-05-02T20:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-02T14:40:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "psg vs lorient",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/football/2026/may/02/european-football-psg-drop-ligue-1-points-to-lorient-with-minds-on-bayern-tie",
+      "publishedAt": "2026-05-02T20:00:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "제주시",
+      "source": "케이에스피뉴스",
+      "url": "https://www.kspnews.com/2645685",
       "rank": 8
     },
     {
-      "id": "2437b7d4fea06486",
-      "issueKey": "brentford vs west ham",
-      "issueTitle": "brentford vs west ham",
-      "trendTitle": "brentford vs west ham",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "5911148c315b1673",
+      "issueKey": "유학생",
+      "issueTitle": "유학생",
+      "trendTitle": "유학생",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Brentford 3-0 West Ham: Defeat leaves Hammers two points above relegation zone",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cm2p3m2velxt",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "우크라이나 유학생이 ‘미스 춘향’ 됐다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/",
+          "publishedAt": "2026-05-02T19:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Brentford 3-0 West Ham, Newcastle 3-1 Brighton: Premier League and EFL – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/may/02/championship-finale-ipswich-millwall-and-middlesbrough-vie-for-automatic-promotion-live",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "'남원 춘향제', 요천 승월교 위 개막 축하 불꽃놀이",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260502_0002126179",
+          "publishedAt": "2026-05-02T19:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Arsenal opens up 6-point lead in Premier League title race to pile pressure on Man City",
-          "source": "AP News",
-          "url": "https://apnews.com/article/arsenal-fulham-premier-league-title-west-ham-ballard-514a8ca259c4c62fefe5f972321ee926",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "최고 전통미인 춘향 진에 김하연…\"춘향 홍보대사 되겠다\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260501037651055",
+          "publishedAt": "2026-05-02T19:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "brentford vs west ham",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cm2p3m2velxt",
-        "publishedAt": "2026-05-02T14:40:00.000Z",
+        "title": "우크라이나 유학생이 ‘미스 춘향’ 됐다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/",
+        "publishedAt": "2026-05-02T19:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-02T14:40:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "brentford vs west ham",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cm2p3m2velxt",
+      "publishedAt": "2026-05-02T19:50:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "유학생",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/",
       "rank": 9
     },
     {
-      "id": "81d6ad604d4e3027",
-      "issueKey": "newcastle vs brighton",
-      "issueTitle": "newcastle vs brighton",
-      "trendTitle": "newcastle vs brighton",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "2ea5b8922b13441d",
+      "issueKey": "고유",
+      "issueTitle": "고유",
+      "trendTitle": "고유",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Newcastle 3-1 Brighton: Hosts hand Eddie Howe timely boost as they return to winning ways",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cr4p0l4e6xnt",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "연 매출 관계없이 주유소에서도 고유가 피해지원금 사용 가능",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
+          "publishedAt": "2026-05-02T19:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Preview: Newcastle United vs Brighton & Hove Albion - prediction, team news, lineups",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/newcastle-united/top-four-race/preview/newcastle-vs-brighton-prediction-team-news-lineups_596648.html",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "“고유가 지원금인데 주유소에서 못 쓴다고?” 대통령 지시에 바뀌었다…연 매출 30억 넘는 주유소도 OK",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20039545",
+          "publishedAt": "2026-05-02T19:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘Keep dreaming’ - Bruno Guimaraes issues bold message to Newcastle United teammates",
-          "source": "NewcastleWorld",
-          "url": "https://www.newcastleworld.com/sport/football/newcastle-united/newcastle-united-news-bruno-guimaraes-8482062",
-          "publishedAt": "2026-05-02T14:40:00.000Z",
+          "title": "지원금 풀리자 ‘동네 프랜차이즈’ 먼저 움직였다…버거·치킨·편의점까지 총력전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260502073147461",
+          "publishedAt": "2026-05-02T19:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "newcastle vs brighton",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cr4p0l4e6xnt",
-        "publishedAt": "2026-05-02T14:40:00.000Z",
+        "title": "연 매출 관계없이 주유소에서도 고유가 피해지원금 사용 가능",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
+        "publishedAt": "2026-05-02T19:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-02T14:40:00.000Z",
-      "firstSeenAt": "2026-05-02T19:00:38.967Z",
-      "lastSeenAt": "2026-05-02T19:00:38.967Z",
-      "title": "newcastle vs brighton",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cr4p0l4e6xnt",
+      "publishedAt": "2026-05-02T19:20:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "고유",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
       "rank": 10
     }
   ],
@@ -531,50 +524,64 @@
       "url": "https://www.hani.co.kr/arti/society/society_general/1256892.html"
     },
     {
-      "id": "1ca26752b9c5f9a4",
-      "issueKey": "노동절",
-      "issueTitle": "노동절",
-      "trendTitle": "노동절",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
+      "id": "2ea5b8922b13441d",
+      "issueKey": "고유",
+      "issueTitle": "고유",
+      "trendTitle": "고유",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "relatedArticles": [
         {
-          "title": "63년 만에 법정 공휴일 된 노동절, 올해부터 학교도 휴업해요",
+          "title": "연 매출 관계없이 주유소에서도 고유가 피해지원금 사용 가능",
           "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568",
-          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
+          "publishedAt": "2026-05-02T19:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "춘천, 내일부터 연휴 기간 민원 체계 강화",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8550428",
-          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "title": "“고유가 지원금인데 주유소에서 못 쓴다고?” 대통령 지시에 바뀌었다…연 매출 30억 넘는 주유소도 OK",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20039545",
+          "publishedAt": "2026-05-02T19:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[팩트체크] 왜 '근로' 아닌 '노동'일까…63년 만의 '노동절' 의미는",
+          "title": "고유가 지원금, 오늘부터 요일제 해제…모든 주유소 사용",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260430_0003612674",
+          "publishedAt": "2026-04-30T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "지원금 풀리자 ‘동네 프랜차이즈’ 먼저 움직였다…버거·치킨·편의점까지 총력전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260502073147461",
+          "publishedAt": "2026-05-02T19:20:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260428162300518",
-          "publishedAt": "2026-04-30T15:50:00.000Z",
+          "url": "https://www.yna.co.kr/view/AKR20260430126000011",
+          "publishedAt": "2026-04-30T20:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "63년 만에 법정 공휴일 된 노동절, 올해부터 학교도 휴업해요",
+        "title": "연 매출 관계없이 주유소에서도 고유가 피해지원금 사용 가능",
         "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568",
-        "publishedAt": "2026-04-30T15:50:00.000Z",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
+        "publishedAt": "2026-05-02T19:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-04-30T15:50:00.000Z",
-      "firstSeenAt": "2026-04-30T19:23:13.536Z",
-      "lastSeenAt": "2026-04-30T19:23:13.536Z",
-      "title": "노동절",
+      "publishedAt": "2026-05-02T19:20:00.000Z",
+      "firstSeenAt": "2026-04-30T21:56:29.855Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "고유",
       "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/news/reporterView.do?newsId=148963568"
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762"
     },
     {
       "id": "779dce3462c34a6f",
@@ -621,6 +628,98 @@
       "title": "이정후",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260501102904577"
+    },
+    {
+      "id": "a78cee47656be418",
+      "issueKey": "기술",
+      "issueTitle": "기술",
+      "trendTitle": "기술",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“배 한 척 로열티만 3%”…‘조선 기술 완전 자립’ 도전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "수주는 독점인데 기술료는 해외로…'FLNG' 기술 자립 선언",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6507799",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "거제 '글로벌 조선해양플랜트 클러스터' 추진",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=585362",
+          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“배 한 척 로열티만 3%”…‘조선 기술 완전 자립’ 도전",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327",
+        "publishedAt": "2026-05-02T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-02T20:20:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "기술",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327"
+    },
+    {
+      "id": "5911148c315b1673",
+      "issueKey": "유학생",
+      "issueTitle": "유학생",
+      "trendTitle": "유학생",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "우크라이나 유학생이 ‘미스 춘향’ 됐다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/",
+          "publishedAt": "2026-05-02T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'남원 춘향제', 요천 승월교 위 개막 축하 불꽃놀이",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260502_0002126179",
+          "publishedAt": "2026-05-02T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "최고 전통미인 춘향 진에 김하연…\"춘향 홍보대사 되겠다\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260501037651055",
+          "publishedAt": "2026-05-02T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "우크라이나 유학생이 ‘미스 춘향’ 됐다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/",
+        "publishedAt": "2026-05-02T19:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-02T19:50:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "유학생",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/"
     },
     {
       "id": "b081ccaa85dcdb25",
@@ -1359,52 +1458,6 @@
       "url": "https://v.daum.net/v/950pRH8BLA"
     },
     {
-      "id": "2ea5b8922b13441d",
-      "issueKey": "고유",
-      "issueTitle": "고유",
-      "trendTitle": "고유",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "연 매출 관계없이 주유소에서도 고유가 피해지원금 사용 가능",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
-          "publishedAt": "2026-04-30T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고유가 지원금, 오늘부터 요일제 해제…모든 주유소 사용",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260430_0003612674",
-          "publishedAt": "2026-04-30T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260430126000011",
-          "publishedAt": "2026-04-30T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "연 매출 관계없이 주유소에서도 고유가 피해지원금 사용 가능",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
-        "publishedAt": "2026-04-30T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T20:20:00.000Z",
-      "firstSeenAt": "2026-04-30T21:56:29.855Z",
-      "lastSeenAt": "2026-04-30T21:56:29.855Z",
-      "title": "고유",
-      "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762"
-    },
-    {
       "id": "544fc81f66caaa5f",
       "issueKey": "야닉 시너",
       "issueTitle": "야닉 시너",
@@ -1470,6 +1523,52 @@
       "title": "야닉 시너",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260429072302269"
+    },
+    {
+      "id": "dcfe56389cd20635",
+      "issueKey": "안세영",
+      "issueTitle": "안세영",
+      "trendTitle": "안세영",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "안세영 앞세운 여자 배드민턴, 인도네시아 꺾고 세계단체선수권 결승행",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/",
+          "publishedAt": "2026-05-02T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "안세영, 40분 셧아웃…韓 여자 단체, 중국과 우버컵 결승 맞대결",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6511524",
+          "publishedAt": "2026-05-02T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'단식 퀸' 안세영 앞세운 배드민턴 여자 대표팀, 우버컵 결승행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260502048600007",
+          "publishedAt": "2026-05-02T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "안세영 앞세운 여자 배드민턴, 인도네시아 꺾고 세계단체선수권 결승행",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/",
+        "publishedAt": "2026-05-02T20:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-02T20:30:00.000Z",
+      "firstSeenAt": "2026-05-02T21:41:35.664Z",
+      "lastSeenAt": "2026-05-02T21:41:35.664Z",
+      "title": "안세영",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/"
     },
     {
       "id": "c81d9ab768863b29",
@@ -2252,98 +2351,6 @@
       "title": "퇴직금",
       "source": "대한민국 정책브리핑",
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963747&amp;call_from=rsslink"
-    },
-    {
-      "id": "e7298ca61af46b59",
-      "issueKey": "이언주",
-      "issueTitle": "이언주",
-      "trendTitle": "이언주",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한동훈 \"李, 하정우 출마 지시했다면 불법\"…판례 살펴보니",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6511219",
-          "publishedAt": "2026-05-01T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘부산 전입신고’ 하정우…이언주 “한동훈 살리기 보수결집, 자신하면 큰코”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1256829.html",
-          "publishedAt": "2026-05-01T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘3파전’ 부산 북갑 여론은?…충남·대전·세종은 민주당 우세 [여론조사]②",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8550591",
-          "publishedAt": "2026-05-01T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘부산 전입신고’ 하정우…이언주 “한동훈 살리기 보수결집, 자신하면 큰코”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1256829.html",
-        "publishedAt": "2026-05-01T06:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-01T06:30:00.000Z",
-      "firstSeenAt": "2026-05-01T08:12:08.127Z",
-      "lastSeenAt": "2026-05-01T08:12:08.127Z",
-      "title": "이언주",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1256829.html"
-    },
-    {
-      "id": "344954af9f1273bd",
-      "issueKey": "암표",
-      "issueTitle": "암표",
-      "trendTitle": "암표",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "봄과 함께 돌아온 야구 시즌…고척돔에서 본 '암표 문제'",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/reporterView.do?newsId=148962818&amp;call_from=rsslink",
-          "publishedAt": "2026-05-01T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "지드래곤→블랙핑크 암표 25배 폭리 조직 포착…71억 챙겼다(‘히든아이’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/01/HE3TCMBUHEZDEN3GMZTGEZJWMM/",
-          "publishedAt": "2026-05-01T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"20만원 티켓을 500만원에\"…71억 챙긴 K팝 암표거래 현장 찍혔다('히든아이')",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=814058",
-          "publishedAt": "2026-05-01T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "봄과 함께 돌아온 야구 시즌…고척돔에서 본 '암표 문제'",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/reporterView.do?newsId=148962818&amp;call_from=rsslink",
-        "publishedAt": "2026-05-01T06:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-01T06:30:00.000Z",
-      "firstSeenAt": "2026-05-01T08:12:08.127Z",
-      "lastSeenAt": "2026-05-01T08:12:08.127Z",
-      "title": "암표",
-      "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/news/reporterView.do?newsId=148962818&amp;call_from=rsslink"
     }
   ]
 }
