@@ -7,8 +7,8 @@
   "tournamentName": "Split 2 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-05-03T10:06:13.122Z",
-  "lastUpdatedAt": "2026-05-03T10:06:13.122Z",
+  "fetchedAt": "2026-05-03T13:13:09.678Z",
+  "lastUpdatedAt": "2026-05-03T13:13:09.678Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
@@ -70,6 +70,15 @@
     },
     {
       "rank": 7,
+      "code": "BFX",
+      "name": "BNK FEARX",
+      "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
+      "wins": 3,
+      "losses": 7,
+      "points": 3
+    },
+    {
+      "rank": 7,
       "code": "BRO",
       "name": "HANJIN BRION",
       "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
@@ -87,21 +96,12 @@
       "points": 3
     },
     {
-      "rank": 9,
-      "code": "BFX",
-      "name": "BNK FEARX",
-      "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-      "wins": 2,
-      "losses": 7,
-      "points": 2
-    },
-    {
       "rank": 10,
       "code": "DNS",
       "name": "DN SOOPers",
       "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
       "wins": 1,
-      "losses": 8,
+      "losses": 9,
       "points": 1
     }
   ]
