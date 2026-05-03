@@ -7,473 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-02T21:41:35.664Z",
+  "lastUpdatedAt": "2026-05-03T02:58:14.310Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "dcfe56389cd20635",
-      "issueKey": "안세영",
-      "issueTitle": "안세영",
-      "trendTitle": "안세영",
+      "id": "982583b21e751868",
+      "issueKey": "레이커스",
+      "issueTitle": "레이커스",
+      "trendTitle": "레이커스",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'르브론 28점 활약' NBA 레이커스, 휴스턴 누르고 PO 2R 진출",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260502_0003614844",
+          "publishedAt": "2026-05-03T01:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "유럽행 치료도 소용없었다! LA 레이커스 악재 \"돈치치 복귀 계획 여전히 없다\". LAL-OKC 서부 PO 4강 최대변수",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/05/03/G42TAM3GMI3TCMZUGRQWIYJQGI/",
+          "publishedAt": "2026-05-03T01:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "듀란트 논란 뒤 ‘선수단 긴급 회동’…휴스턴 탈락의 민낯, KD와 동행은 계속될 수 있을까?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503111307334",
+          "publishedAt": "2026-05-03T01:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'르브론 28점 활약' NBA 레이커스, 휴스턴 누르고 PO 2R 진출",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260502_0003614844",
+        "publishedAt": "2026-05-03T01:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-03T01:50:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "레이커스",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260502_0003614844",
+      "rank": 1
+    },
+    {
+      "id": "731bc9bb1e5c6d0c",
+      "issueKey": "던져",
+      "issueTitle": "던져",
+      "trendTitle": "던져",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "李 대통령까지 나섰지만…삼성전자 노조 '파업 마이웨이'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503071703908",
+          "publishedAt": "2026-05-03T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼성전자 노조 내부 ‘DS vs DX’ 균열⋯ 노노갈등 격화",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260503500167",
+          "publishedAt": "2026-05-03T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“우릴 먹이감으로 던져?” 삼전노조에 뿔난 유플노조",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11586430",
+          "publishedAt": "2026-05-03T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“우릴 먹이감으로 던져?” 삼전노조에 뿔난 유플노조",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11586430",
+        "publishedAt": "2026-05-03T01:40:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-03T01:40:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "던져",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11586430",
+      "rank": 2
+    },
+    {
+      "id": "f0445872cdcaf60e",
+      "issueKey": "손흥민",
+      "issueTitle": "손흥민",
+      "trendTitle": "손흥민",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "손흥민, 샌디에이고전 벤치서 시작…북중미컵 대비 컨디션 관리",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260503_0003615109",
+          "publishedAt": "2026-05-03T01:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[속보]'예고대로' 손흥민 벤치 스타트…'분노의 일정' LA FC, 샌디에이고 상대로 '로테이션' 가동",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/05/03/GMZTANJTGI2DSOBWMNQWMNLCHA/",
+          "publishedAt": "2026-05-03T01:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“지면 말도 안 한다”…美언론도 슈퍼스타 손흥민의 ‘극한 승부욕’에 주목했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260502220103717",
+          "publishedAt": "2026-05-03T01:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "손흥민, 샌디에이고전 벤치서 시작…북중미컵 대비 컨디션 관리",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260503_0003615109",
+        "publishedAt": "2026-05-03T01:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-03T01:30:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "손흥민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260503_0003615109",
+      "rank": 3
+    },
+    {
+      "id": "f45a261b73b86f0a",
+      "issueKey": "김가영",
+      "issueTitle": "김가영",
+      "trendTitle": "김가영",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'BTS 프로듀서' 피독·김가영, 공개 열애 2년 만에 결별",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/05/03/GM4DEMRUGQ3TSNTGGIYTKMRQGU/",
+          "publishedAt": "2026-05-03T01:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[단독]'방탄소년단 PD' 피독·기상캐스터 김가영, '결별'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503061608522",
+          "publishedAt": "2026-05-03T01:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'BTS PD' 피독·'전 MBC 기캐' 김가영, 결별",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260503_0003615127",
+          "publishedAt": "2026-05-03T01:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'BTS 프로듀서' 피독·김가영, 공개 열애 2년 만에 결별",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/music/2026/05/03/GM4DEMRUGQ3TSNTGGIYTKMRQGU/",
+        "publishedAt": "2026-05-03T01:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-03T01:20:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "김가영",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/music/2026/05/03/GM4DEMRUGQ3TSNTGGIYTKMRQGU/",
+      "rank": 4
+    },
+    {
+      "id": "64c39ce0d14fc299",
+      "issueKey": "황윤성",
+      "issueTitle": "황윤성",
+      "trendTitle": "황윤성",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'무명전설' 우승 후보 장한별, 반려견 가족 이야기 '뭉클'…\"끝까지 함께\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/4E8I9bNdi2?f=p",
+          "publishedAt": "2026-05-03T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "생존과 탈락의 경계에서 눈물 흘린 성리-하루·삼촌과 조카? 김태웅-이창민의 맞대결 - 뉴스파이터",
+          "source": "MBN",
+          "url": "https://www.mbn.co.kr/vod/programView/1417904",
+          "publishedAt": "2026-05-03T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'JYP 1호 트로트 연습생' 최종원, '무명전설' 마침표 \"값진 시간\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/music/6154631",
+          "publishedAt": "2026-05-03T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "황윤성",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/4E8I9bNdi2?f=p",
+        "publishedAt": "2026-05-03T01:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-03T01:10:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "황윤성",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/4E8I9bNdi2?f=p",
+      "rank": 5
+    },
+    {
+      "id": "60422de35871bf54",
+      "issueKey": "이상아",
+      "issueTitle": "이상아",
+      "trendTitle": "이상아",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "안세영 앞세운 여자 배드민턴, 인도네시아 꺾고 세계단체선수권 결승행",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/",
-          "publishedAt": "2026-05-02T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "안세영, 40분 셧아웃…韓 여자 단체, 중국과 우버컵 결승 맞대결",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6511524",
-          "publishedAt": "2026-05-02T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'단식 퀸' 안세영 앞세운 배드민턴 여자 대표팀, 우버컵 결승행",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260502048600007",
-          "publishedAt": "2026-05-02T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "안세영 앞세운 여자 배드민턴, 인도네시아 꺾고 세계단체선수권 결승행",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/",
-        "publishedAt": "2026-05-02T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T20:30:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "안세영",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/2026/05/02/EIXCK6SQXFCI3PO4ZN4JFUTNLI/",
-      "rank": 1
-    },
-    {
-      "id": "c83945f695b2c566",
-      "issueKey": "신유빈",
-      "issueTitle": "신유빈",
-      "trendTitle": "신유빈",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'신유빈 출격' 여자 탁구, 세계선수권 첫 경기서 대만에 1-3 패배",
+          "title": "이상아, 전 남편 출연 프로그램 섭외에 \"당황\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260502_0003615014",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260503_0003615047",
+          "publishedAt": "2026-05-03T01:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"장우진X안재현X오준성\" 男탁구 '세계3위' 스웨덴에 0대3 완패[런던세계탁구 조별리그 1차전]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/05/03/MVSDONLFGE4TINDFMI2DMMBVMU/",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "title": "'3번 이혼' 이상아, 전 남편 프로그램 섭외에 황당 \"전 남편은 아냐?\"('동치미')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503070932837",
+          "publishedAt": "2026-05-03T01:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "여자탁구, 런던 세계선수권 단체전서 대만에 1-3 역전패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7I1ywzoMZ1",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "title": "이상아 \"전 남편 프로그램 섭외→첫 출연료 母 강도 당해\"('동치미')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/03/GBTGEMZQGJQWEZDBMM3DMYJWMM/",
+          "publishedAt": "2026-05-03T01:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'신유빈 출격' 여자 탁구, 세계선수권 첫 경기서 대만에 1-3 패배",
+        "title": "이상아, 전 남편 출연 프로그램 섭외에 \"당황\"",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260502_0003615014",
-        "publishedAt": "2026-05-02T20:20:00.000Z",
+        "url": "https://www.newsis.com/view/NISX20260503_0003615047",
+        "publishedAt": "2026-05-03T01:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-02T20:20:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "신유빈",
+      "publishedAt": "2026-05-03T01:00:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "이상아",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260502_0003615014",
-      "rank": 2
-    },
-    {
-      "id": "1f28b0fd52db1902",
-      "issueKey": "네덜란드",
-      "issueTitle": "네덜란드",
-      "trendTitle": "네덜란드",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "네덜란드 암스테르담 '노동자의 날'",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3571960",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "인도네시아 택한 대가, 네덜란드 국적 상실…축구계 덮친 ‘국적 리스크’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260502185035790",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'무려 133경기 재경기?' 유럽축구 시즌 송두리째 뒤흔든다…부정 선수 출전→경기 결과 싹 다 무효 '초대형 변수 등장'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260501n11723",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "네덜란드 암스테르담 '노동자의 날'",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3571960",
-        "publishedAt": "2026-05-02T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T20:20:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "네덜란드",
-      "source": "국제뉴스",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3571960",
-      "rank": 3
-    },
-    {
-      "id": "c1d8da88be004cdf",
-      "issueKey": "경기 예측",
-      "issueTitle": "경기 예측",
-      "trendTitle": "경기 예측",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "오사수나 vs 바르셀로나 축구 경기 예측: 우승 세리머니를 기다리며",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-osasuna-vs-barca-cho-tiec-vo-dich",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[if.preview] '고공 행진' 바르셀로나, 오사수나 잡고 '리그 10연승+우승 확정' 가능할까",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=91384",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "오사수나 vs 바르셀로나 축구 경기 예측: 우승 세리머니를 기다리며",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-osasuna-vs-barca-cho-tiec-vo-dich",
-        "publishedAt": "2026-05-02T20:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-02T20:20:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "경기 예측",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-osasuna-vs-barca-cho-tiec-vo-dich",
-      "rank": 4
-    },
-    {
-      "id": "a78cee47656be418",
-      "issueKey": "기술",
-      "issueTitle": "기술",
-      "trendTitle": "기술",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“배 한 척 로열티만 3%”…‘조선 기술 완전 자립’ 도전",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "수주는 독점인데 기술료는 해외로…'FLNG' 기술 자립 선언",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6507799",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "거제 '글로벌 조선해양플랜트 클러스터' 추진",
-          "source": "경남매일",
-          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=585362",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“배 한 척 로열티만 3%”…‘조선 기술 완전 자립’ 도전",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327",
-        "publishedAt": "2026-05-02T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T20:20:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "기술",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8551327",
-      "rank": 5
-    },
-    {
-      "id": "b853c6c2fb57e413",
-      "issueKey": "커플",
-      "issueTitle": "커플",
-      "trendTitle": "커플",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "29기 옥순♥영수 진짜 결별했나? 커플 사진 사라졌다[스타이슈]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/star/2026/05/02/2026050216542090362",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "29기 영수·옥순, 영자 말실수에 또 결별설 \"여친 생긴 거야?\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-05-02/202605020100007090000384",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'윤민수 子' 윤후·'최재원 딸' 최유빈, 현커 인증 \"진심 감사\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260501_0003614249",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "29기 옥순♥영수 진짜 결별했나? 커플 사진 사라졌다[스타이슈]",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/star/2026/05/02/2026050216542090362",
-        "publishedAt": "2026-05-02T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T20:20:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "커플",
-      "source": "스타뉴스",
-      "url": "https://www.starnewskorea.com/star/2026/05/02/2026050216542090362",
+      "url": "https://www.newsis.com/view/NISX20260503_0003615047",
       "rank": 6
     },
     {
-      "id": "c21dee4a35ad739c",
-      "issueKey": "축구",
-      "issueTitle": "축구",
-      "trendTitle": "축구",
+      "id": "e794d7922ef9b1f3",
+      "issueKey": "두산의 금쪽이",
+      "issueTitle": "두산의 금쪽이",
+      "trendTitle": "두산의 금쪽이",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "월드컵 출전 담판 짓나 ... FIFA-이란 곧 공식 회담 연다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/05/02/6Y2MMOL27JDVRGUVBHCPVGINXA/",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "title": "'박병호와 설전+코치에 어깨빵' 두산의 금쪽이, 트리플A 2G 연속 호투…그런데 팀이 다저스, 빅리그 복귀 언감생심",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9u248fEohG",
+          "publishedAt": "2026-05-03T00:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이란축구협회, FIFA와 조만간 회담…월드컵 참가 관련 논의",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/MYH20260502131643QvS",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "title": "'한국 코치 어깨빵' 인성 논란 외인투수, 미국서도 안 풀린다…QS에도 패전 불운, 다저스행 잘못된 선택인가",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/04/27/MQ4TCNJSGAYTMYTCGI4TMY3GGY/",
+          "publishedAt": "2026-05-03T00:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이란축구협회, FIFA와 조만간 회담…월드컵 참가 관련 논의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260502020800007",
-          "publishedAt": "2026-05-02T20:20:00.000Z",
+          "title": "'박병호와 설전+코치에 어깨빵' 두산의 금쪽이, 트리플A 2G 연속 호투…그런데 팀이 다저스, 빅리그 복귀 언감생심",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260502n04272",
+          "publishedAt": "2026-05-03T00:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "이란축구협회, FIFA와 조만간 회담…월드컵 참가 관련 논의",
-        "source": "연합뉴스TV",
-        "url": "https://m.yonhapnewstv.co.kr/news/MYH20260502131643QvS",
-        "publishedAt": "2026-05-02T20:20:00.000Z",
-        "relevanceScore": 2
+        "title": "'박병호와 설전+코치에 어깨빵' 두산의 금쪽이, 트리플A 2G 연속 호투…그런데 팀이 다저스, 빅리그 복귀 언감생심",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9u248fEohG",
+        "publishedAt": "2026-05-03T00:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-02T20:20:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "축구",
-      "source": "연합뉴스TV",
-      "url": "https://m.yonhapnewstv.co.kr/news/MYH20260502131643QvS",
+      "publishedAt": "2026-05-03T00:50:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "두산의 금쪽이",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/9u248fEohG",
       "rank": 7
     },
     {
-      "id": "c0eb66ae9cb5276b",
-      "issueKey": "제주시",
-      "issueTitle": "제주시",
-      "trendTitle": "제주시",
+      "id": "f15a7d5e0266f6de",
+      "issueKey": "배나라",
+      "issueTitle": "배나라",
+      "trendTitle": "배나라",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박나래 없이도 승승장구…'나혼산' 박지현 \"조롱해준 것 같아 전현무와 가까워진 느낌\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503063220605",
+          "publishedAt": "2026-05-03T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"오르막은 사절\"…전현무, 설계한 '펀런' 원칙",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260501_0003614429",
+          "publishedAt": "2026-05-03T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "기안84, 전현무 라인(?) 탄 박지현X도운에 배신감 \"잘해줘봐야 아무 소용 없어\" ('나혼산')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/02/MNSGENTCGZTDOYJRGY4TQZBTGQ/",
+          "publishedAt": "2026-05-03T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "배나라",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260503063220605",
+        "publishedAt": "2026-05-03T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-03T00:50:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "배나라",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260503063220605",
+      "rank": 8
+    },
+    {
+      "id": "257aa0f415f42296",
+      "issueKey": "부산",
+      "issueTitle": "부산",
+      "trendTitle": "부산 날씨",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "제주시, 1분기 지방재정 신속집행 우수부서 시상",
-          "source": "케이에스피뉴스",
-          "url": "https://www.kspnews.com/2645685",
-          "publishedAt": "2026-05-02T20:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "",
-          "source": "경찰연합신문",
-          "url": "https://www.koreapolicenews.com/2043154",
-          "publishedAt": "2026-05-02T20:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "제주시, 1분기 지방재정 신속집행 우수부서 시상",
-          "source": "정필",
-          "url": "https://www.jeongpil.com/2516026",
-          "publishedAt": "2026-05-02T20:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "제주시, 1분기 지방재정 신속집행 우수부서 시상",
-        "source": "케이에스피뉴스",
-        "url": "https://www.kspnews.com/2645685",
-        "publishedAt": "2026-05-02T20:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T20:00:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "제주시",
-      "source": "케이에스피뉴스",
-      "url": "https://www.kspnews.com/2645685",
-      "rank": 8
-    },
-    {
-      "id": "5911148c315b1673",
-      "issueKey": "유학생",
-      "issueTitle": "유학생",
-      "trendTitle": "유학생",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "우크라이나 유학생이 ‘미스 춘향’ 됐다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/",
-          "publishedAt": "2026-05-02T19:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'남원 춘향제', 요천 승월교 위 개막 축하 불꽃놀이",
+          "title": "부산, 흐리고 비…예상 강수량 10~40㎜",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260502_0002126179",
-          "publishedAt": "2026-05-02T19:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "최고 전통미인 춘향 진에 김하연…\"춘향 홍보대사 되겠다\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260501037651055",
-          "publishedAt": "2026-05-02T19:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "우크라이나 유학생이 ‘미스 춘향’ 됐다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/",
-        "publishedAt": "2026-05-02T19:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T19:50:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "유학생",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/05/02/DVKKMQJ4DRFUPF7MHSSUE6ZSOU/",
-      "rank": 9
-    },
-    {
-      "id": "2ea5b8922b13441d",
-      "issueKey": "고유",
-      "issueTitle": "고유",
-      "trendTitle": "고유",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "연 매출 관계없이 주유소에서도 고유가 피해지원금 사용 가능",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
-          "publishedAt": "2026-05-02T19:20:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260503_0003615045",
+          "publishedAt": "2026-05-03T00:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“고유가 지원금인데 주유소에서 못 쓴다고?” 대통령 지시에 바뀌었다…연 매출 30억 넘는 주유소도 OK",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20039545",
-          "publishedAt": "2026-05-02T19:20:00.000Z",
+          "title": "부산·울산·경남 흐리고 비…\"강풍 안전사고 유의해야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260503004800057",
+          "publishedAt": "2026-05-03T00:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "지원금 풀리자 ‘동네 프랜차이즈’ 먼저 움직였다…버거·치킨·편의점까지 총력전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260502073147461",
-          "publishedAt": "2026-05-02T19:20:00.000Z",
+          "title": "[오늘의 날씨] 울산(3일, 일)…밤까지 비",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/ulsan/6155498",
+          "publishedAt": "2026-05-03T00:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "연 매출 관계없이 주유소에서도 고유가 피해지원금 사용 가능",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
-        "publishedAt": "2026-05-02T19:20:00.000Z",
+        "title": "부산, 흐리고 비…예상 강수량 10~40㎜",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260503_0003615045",
+        "publishedAt": "2026-05-03T00:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-02T19:20:00.000Z",
-      "firstSeenAt": "2026-05-02T21:41:35.664Z",
-      "lastSeenAt": "2026-05-02T21:41:35.664Z",
-      "title": "고유",
-      "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762",
-      "rank": 10
+      "publishedAt": "2026-05-03T00:10:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "부산",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260503_0003615045",
+      "rank": 9
     }
   ],
   "history": [
@@ -584,6 +544,52 @@
       "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963762"
     },
     {
+      "id": "731bc9bb1e5c6d0c",
+      "issueKey": "던져",
+      "issueTitle": "던져",
+      "trendTitle": "던져",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "李 대통령까지 나섰지만…삼성전자 노조 '파업 마이웨이'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503071703908",
+          "publishedAt": "2026-05-03T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼성전자 노조 내부 ‘DS vs DX’ 균열⋯ 노노갈등 격화",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260503500167",
+          "publishedAt": "2026-05-03T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“우릴 먹이감으로 던져?” 삼전노조에 뿔난 유플노조",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11586430",
+          "publishedAt": "2026-05-03T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“우릴 먹이감으로 던져?” 삼전노조에 뿔난 유플노조",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11586430",
+        "publishedAt": "2026-05-03T01:40:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-03T01:40:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "던져",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11586430"
+    },
+    {
       "id": "779dce3462c34a6f",
       "issueKey": "이정후",
       "issueTitle": "이정후",
@@ -628,6 +634,119 @@
       "title": "이정후",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260501102904577"
+    },
+    {
+      "id": "982583b21e751868",
+      "issueKey": "레이커스",
+      "issueTitle": "레이커스",
+      "trendTitle": "레이커스",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 6,
+      "relatedArticles": [
+        {
+          "title": "'르브론 28점 활약' NBA 레이커스, 휴스턴 누르고 PO 2R 진출",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260502_0003614844",
+          "publishedAt": "2026-05-03T01:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'벼랑 끝' NBA 휴스턴, 리브스 돌아온 레이커스 꺾고 6차전으로",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260430161300007",
+          "publishedAt": "2026-05-02T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "유럽행 치료도 소용없었다! LA 레이커스 악재 \"돈치치 복귀 계획 여전히 없다\". LAL-OKC 서부 PO 4강 최대변수",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/basketball/2026/05/03/G42TAM3GMI3TCMZUGRQWIYJQGI/",
+          "publishedAt": "2026-05-03T01:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "설마 탈락? 르브론 맹활약에도 3연승 후 2연패 당한 LA 레이커스! 돈치치 없이 NBA PO 2라운드 진출 쉽지 않네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7By91aGhIr",
+          "publishedAt": "2026-05-02T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "듀란트 논란 뒤 ‘선수단 긴급 회동’…휴스턴 탈락의 민낯, KD와 동행은 계속될 수 있을까?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503111307334",
+          "publishedAt": "2026-05-03T01:50:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "레이커스, PO 1라운드서 휴스턴에 3연승 뒤 2연패…빛 바랜 제임스 활약",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/basketball/6154295",
+          "publishedAt": "2026-05-02T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'르브론 28점 활약' NBA 레이커스, 휴스턴 누르고 PO 2R 진출",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260502_0003614844",
+        "publishedAt": "2026-05-03T01:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-03T01:50:00.000Z",
+      "firstSeenAt": "2026-05-02T02:45:27.429Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "레이커스",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260502_0003614844"
+    },
+    {
+      "id": "f0445872cdcaf60e",
+      "issueKey": "손흥민",
+      "issueTitle": "손흥민",
+      "trendTitle": "손흥민",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "손흥민, 샌디에이고전 벤치서 시작…북중미컵 대비 컨디션 관리",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260503_0003615109",
+          "publishedAt": "2026-05-03T01:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[속보]'예고대로' 손흥민 벤치 스타트…'분노의 일정' LA FC, 샌디에이고 상대로 '로테이션' 가동",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/05/03/GMZTANJTGI2DSOBWMNQWMNLCHA/",
+          "publishedAt": "2026-05-03T01:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“지면 말도 안 한다”…美언론도 슈퍼스타 손흥민의 ‘극한 승부욕’에 주목했다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260502220103717",
+          "publishedAt": "2026-05-03T01:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "손흥민, 샌디에이고전 벤치서 시작…북중미컵 대비 컨디션 관리",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260503_0003615109",
+        "publishedAt": "2026-05-03T01:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-03T01:30:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "손흥민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260503_0003615109"
     },
     {
       "id": "a78cee47656be418",
@@ -1044,52 +1163,6 @@
       "url": "https://v.daum.net/v/xnYAxbNdhZ"
     },
     {
-      "id": "982583b21e751868",
-      "issueKey": "레이커스",
-      "issueTitle": "레이커스",
-      "trendTitle": "레이커스",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'벼랑 끝' NBA 휴스턴, 리브스 돌아온 레이커스 꺾고 6차전으로",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260430161300007",
-          "publishedAt": "2026-05-02T01:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "설마 탈락? 르브론 맹활약에도 3연승 후 2연패 당한 LA 레이커스! 돈치치 없이 NBA PO 2라운드 진출 쉽지 않네",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7By91aGhIr",
-          "publishedAt": "2026-05-02T01:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "레이커스, PO 1라운드서 휴스턴에 3연승 뒤 2연패…빛 바랜 제임스 활약",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/basketball/6154295",
-          "publishedAt": "2026-05-02T01:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'벼랑 끝' NBA 휴스턴, 리브스 돌아온 레이커스 꺾고 6차전으로",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260430161300007",
-        "publishedAt": "2026-05-02T01:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-02T01:10:00.000Z",
-      "firstSeenAt": "2026-05-02T02:45:27.429Z",
-      "lastSeenAt": "2026-05-02T02:45:27.429Z",
-      "title": "레이커스",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260430161300007"
-    },
-    {
       "id": "c2762e9b070852ad",
       "issueKey": "초유",
       "issueTitle": "초유",
@@ -1412,52 +1485,6 @@
       "url": "https://www.chosun.com/culture-life/k-culture/2026/05/01/RULSJMRKPJB4TM7U4IYQV43FNY/"
     },
     {
-      "id": "4e20f0206f810a89",
-      "issueKey": "황영웅",
-      "issueTitle": "황영웅",
-      "trendTitle": "황영웅",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "돌아온 황영웅, 인기 장난 없네…남자 스타상·베스트 음원상 '2관왕' 등극",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/950pRH8BLA",
-          "publishedAt": "2026-04-30T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘2026 대한민국 한류연예대상’ 투표마감 D-1…황영웅vs김용빈 초박빙",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/musics/12031110",
-          "publishedAt": "2026-04-30T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "황영웅, '학폭 의혹' 딛고 경사…트로트 남자스타상→베스트 음원상 '2관왕'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260430n32202",
-          "publishedAt": "2026-04-30T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "돌아온 황영웅, 인기 장난 없네…남자 스타상·베스트 음원상 '2관왕' 등극",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/950pRH8BLA",
-        "publishedAt": "2026-04-30T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-04-30T20:40:00.000Z",
-      "firstSeenAt": "2026-04-30T21:56:29.855Z",
-      "lastSeenAt": "2026-04-30T21:56:29.855Z",
-      "title": "황영웅",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/950pRH8BLA"
-    },
-    {
       "id": "544fc81f66caaa5f",
       "issueKey": "야닉 시너",
       "issueTitle": "야닉 시너",
@@ -1523,6 +1550,52 @@
       "title": "야닉 시너",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260429072302269"
+    },
+    {
+      "id": "60422de35871bf54",
+      "issueKey": "이상아",
+      "issueTitle": "이상아",
+      "trendTitle": "이상아",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이상아, 전 남편 출연 프로그램 섭외에 \"당황\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260503_0003615047",
+          "publishedAt": "2026-05-03T01:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'3번 이혼' 이상아, 전 남편 프로그램 섭외에 황당 \"전 남편은 아냐?\"('동치미')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503070932837",
+          "publishedAt": "2026-05-03T01:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이상아 \"전 남편 프로그램 섭외→첫 출연료 母 강도 당해\"('동치미')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/03/GBTGEMZQGJQWEZDBMM3DMYJWMM/",
+          "publishedAt": "2026-05-03T01:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이상아, 전 남편 출연 프로그램 섭외에 \"당황\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260503_0003615047",
+        "publishedAt": "2026-05-03T01:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-03T01:00:00.000Z",
+      "firstSeenAt": "2026-05-03T02:58:14.310Z",
+      "lastSeenAt": "2026-05-03T02:58:14.310Z",
+      "title": "이상아",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260503_0003615047"
     },
     {
       "id": "dcfe56389cd20635",
@@ -2259,98 +2332,6 @@
       "title": "스페이스x",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260501165402684"
-    },
-    {
-      "id": "bb6f651ea2ada46d",
-      "issueKey": "rr vs dc",
-      "issueTitle": "rr vs dc",
-      "trendTitle": "rr vs dc",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Licensable picture: Indian Premier League - IPL - Rajasthan Royals v Delhi Capitals",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/indian-premier-league-ipl-rajasthan-royals-v-delhi-capitals/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNTExNUs5S1M",
-          "publishedAt": "2026-05-01T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "RR vs DC Live win probability, prediction, odds & chances of victory in IPL 2026 clash",
-          "source": "Sporting News",
-          "url": "https://www.sportingnews.com/in/cricket/news/rr-dc-live-win-probability-prediction-odds-chances-ipl-2026/865431a26b1b28086ef888b4",
-          "publishedAt": "2026-05-01T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Ball by Ball Commentary & Live Score - RR vs DC, 43rd Match",
-          "source": "ESPNcricinfo",
-          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/rajasthan-royals-vs-delhi-capitals-43rd-match-1529286/ball-by-ball-commentary",
-          "publishedAt": "2026-05-01T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "RR vs DC Live win probability, prediction, odds & chances of victory in IPL 2026 clash",
-        "source": "Sporting News",
-        "url": "https://www.sportingnews.com/in/cricket/news/rr-dc-live-win-probability-prediction-odds-chances-ipl-2026/865431a26b1b28086ef888b4",
-        "publishedAt": "2026-05-01T13:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-01T13:40:00.000Z",
-      "firstSeenAt": "2026-05-01T15:58:20.412Z",
-      "lastSeenAt": "2026-05-01T15:58:20.412Z",
-      "title": "rr vs dc",
-      "source": "Sporting News",
-      "url": "https://www.sportingnews.com/in/cricket/news/rr-dc-live-win-probability-prediction-odds-chances-ipl-2026/865431a26b1b28086ef888b4"
-    },
-    {
-      "id": "4a3ff62241cf4fc9",
-      "issueKey": "퇴직금",
-      "issueTitle": "퇴직금",
-      "trendTitle": "퇴직금",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[정책 바로보기] \"공공부문 비정규직 처우개선·공정한 고용관행 확립 위해 노력\"",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963747&amp;call_from=rsslink",
-          "publishedAt": "2026-05-01T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "비정규직 단체 \"이름만 돌아온 노동절‥5인 미만은 쉬면 무급\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6819413_36918.html",
-          "publishedAt": "2026-05-01T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“고용 불안정? 돈 더 준다”…공정수당 추진에 여야 ‘온도차’ [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8550093",
-          "publishedAt": "2026-05-01T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "퇴직금",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963747&amp;call_from=rsslink",
-        "publishedAt": "2026-05-01T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-01T11:50:00.000Z",
-      "firstSeenAt": "2026-05-01T13:19:48.035Z",
-      "lastSeenAt": "2026-05-01T13:19:48.035Z",
-      "title": "퇴직금",
-      "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148963747&amp;call_from=rsslink"
     }
   ]
 }
