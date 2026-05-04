@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-04T14:02:40.587Z",
+  "lastUpdatedAt": "2026-05-04T16:46:23.040Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "5a7132c8557301d4",
-      "issueKey": "강릉시",
-      "issueTitle": "강릉시",
-      "trendTitle": "강릉시",
+      "id": "1ecd41c03ef78bd6",
+      "issueKey": "chelsea",
+      "issueTitle": "chelsea",
+      "trendTitle": "chelsea",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Chelsea 1-3 Nottingham Forest: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/may/04/chelsea-v-nottingham-forest-premier-league-live",
+          "publishedAt": "2026-05-04T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Chelsea suffer sixth straight league loss, fall 1-3 to Nottingham - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/05/05/75CPY4MPJJG2ZP5HCROWCMSX4A/",
+          "publishedAt": "2026-05-04T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Robert Sanchez forced off after head injury concern in Nottingham Forest clash",
+          "source": "Tribuna.com",
+          "url": "https://tribuna.com/en/news/2026-05-04-robert-sanchez-forced-off-after-head-injury-concern-in-nottingham-forest-clash/",
+          "publishedAt": "2026-05-04T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Chelsea 1-3 Nottingham Forest: Premier League – live",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/live/2026/may/04/chelsea-v-nottingham-forest-premier-league-live",
+        "publishedAt": "2026-05-04T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-04T15:20:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "chelsea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/football/live/2026/may/04/chelsea-v-nottingham-forest-premier-league-live",
+      "rank": 1
+    },
+    {
+      "id": "af9828245df44894",
+      "issueKey": "엔솔",
+      "issueTitle": "엔솔",
+      "trendTitle": "엔솔",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"전기차 수요 둔화 뚫어라\"… ESS 투자에 울고 웃은 배터리 업체들",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/05/04/MAFY5JEBPVBZFJQU3WKJV2AQVE/",
+          "publishedAt": "2026-05-04T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“적자보다 미래”… 배터리 3사, AI 데이터센터 타고 ‘하반기 턴어라운드’ 정조준",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260503500291",
+          "publishedAt": "2026-05-04T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "실적 주춤해도 방향 선명…LG엔솔의 반등 전략은",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412881",
+          "publishedAt": "2026-05-04T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "실적 주춤해도 방향 선명…LG엔솔의 반등 전략은",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412881",
+        "publishedAt": "2026-05-04T15:00:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-04T15:00:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "엔솔",
+      "source": "연합인포맥스",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4412881",
+      "rank": 2
+    },
+    {
+      "id": "b783bbba205ae231",
+      "issueKey": "김새론",
+      "issueTitle": "김새론",
+      "trendTitle": "김새론",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "강릉시청, 2026 강릉단오제 신주미 봉정 시작",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260504_0003616725",
-          "publishedAt": "2026-05-04T13:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "강릉시, 단오제 시작 알리는 '신주미 봉정' 시작",
+          "title": "\"구렁텅이 처박힌 김수현, 수척하고 피폐…매달 수천만원 드는 상태\" 목격담",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6156488",
-          "publishedAt": "2026-05-04T13:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘강릉 단오제’의 시작… “쌀 한 줌 정성 모아요”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260504512075",
-          "publishedAt": "2026-05-04T13:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "강릉시청, 2026 강릉단오제 신주미 봉정 시작",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260504_0003616725",
-        "publishedAt": "2026-05-04T13:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-04T13:00:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "강릉시",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260504_0003616725",
-      "rank": 1
-    },
-    {
-      "id": "efbbfcbcf788a4c6",
-      "issueKey": "안은진",
-      "issueTitle": "안은진",
-      "trendTitle": "안은진",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김고은·안은진, 한강 나들이…\"따릉이 타고 무사귀환\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260503_0003615303",
-          "publishedAt": "2026-05-04T12:50:00.000Z",
+          "url": "https://www.news1.kr/society/general-society/6156014",
+          "publishedAt": "2026-05-04T14:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "김고은, 얼굴 가리고 ‘이 배우’와 한강 데이트…‘하트’까지[포착]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/entertainments/celebrity/2026/05/04/20260504500007",
-          "publishedAt": "2026-05-04T12:50:00.000Z",
+          "title": "김수현, 성수동서 수척해진 근황 포착",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260503_0003615453",
+          "publishedAt": "2026-05-04T14:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이게 한예종 동기 클래스…김고은·안은진, 엘베 거울샷→한강 야경 데이트 ‘훈훈’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/05/03/MY3TSZRYGE3TMMBWMY4WINJQGE/",
-          "publishedAt": "2026-05-04T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김고은·안은진, 한강 나들이…\"따릉이 타고 무사귀환\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260503_0003615303",
-        "publishedAt": "2026-05-04T12:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-04T12:50:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "안은진",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260503_0003615303",
-      "rank": 2
-    },
-    {
-      "id": "716eb9a19fec5616",
-      "issueKey": "박찬호",
-      "issueTitle": "박찬호",
-      "trendTitle": "박찬호",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "박찬호 딸 이렇게 컸다…19년 차 뉴욕 생활 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260504_0003616003",
-          "publishedAt": "2026-05-04T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "박찬호 딸, '톡파원' 데뷔…19년차 뉴욕 생활 공개에 '술렁'('톡파원 25시')",
+          "title": "\"몰라보게 달라져\" 김수현, 성수동 목격담 확산… \"수척+피폐한 모습\" [MHN:픽]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260504095234328",
-          "publishedAt": "2026-05-04T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "박찬호 딸, '톡파원 25시' 등장…빼어난 미모 속 美 뉴욕 일상 공개",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6156688",
-          "publishedAt": "2026-05-04T12:50:00.000Z",
+          "url": "https://v.daum.net/v/20260504093808602",
+          "publishedAt": "2026-05-04T14:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "박찬호 딸 이렇게 컸다…19년 차 뉴욕 생활 공개",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260504_0003616003",
-        "publishedAt": "2026-05-04T12:50:00.000Z",
+        "title": "김새론",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6156014",
+        "publishedAt": "2026-05-04T14:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-04T12:50:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "박찬호",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260504_0003616003",
+      "publishedAt": "2026-05-04T14:50:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "김새론",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/society/general-society/6156014",
       "rank": 3
     },
     {
-      "id": "849dfd5aac53fb74",
-      "issueKey": "열병식",
-      "issueTitle": "열병식",
-      "trendTitle": "열병식",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "e5d401e6d3a302cf",
+      "issueKey": "유미",
+      "issueTitle": "유미",
+      "trendTitle": "유미",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "우크라 표적될라…러, 20년 만에 첫 신무기 공개 없는 ‘전승절 열병식’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605011610001",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
+          "title": "김고은♥김재원, 사귀는 첫날 첫 키스…첫날밤엔 '긴급 키스' ('유미의 세포들3') [종합]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260504n28933",
+          "publishedAt": "2026-05-04T14:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "우크라이나 신형 미사일 공습 두려움 커지자 러시아, 전승절 열병식 축소",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/List/Series/article/all/11/6212068/1",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
+          "title": "돌아온 '빡돔'에 '붕어빵 뽀뽀'…김고은·김재원 '유미의 세포들3'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260503110304108",
+          "publishedAt": "2026-05-04T14:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "퍼레이드고 뭐고간에",
-          "source": "시사주간",
-          "url": "https://sisaweekly.com/news/articleView.html?idxno=47318",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
+          "title": "김고은 김재원, 오늘 ‘윰록 엔딩’…쌍방연애 시작되나 (유미의세포들)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260504/133856647/1",
+          "publishedAt": "2026-05-04T14:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "우크라 표적될라…러, 20년 만에 첫 신무기 공개 없는 ‘전승절 열병식’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202605011610001",
-        "publishedAt": "2026-05-04T12:40:00.000Z",
+        "title": "김고은♥김재원, 사귀는 첫날 첫 키스…첫날밤엔 '긴급 키스' ('유미의 세포들3') [종합]",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260504n28933",
+        "publishedAt": "2026-05-04T14:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-04T12:40:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "열병식",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202605011610001",
+      "publishedAt": "2026-05-04T14:30:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "유미",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260504n28933",
       "rank": 4
     },
     {
-      "id": "83004837aecb07c8",
-      "issueKey": "양상국",
-      "issueTitle": "양상국",
-      "trendTitle": "양상국",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "19d88c67f8a00342",
+      "issueKey": "김승혜",
+      "issueTitle": "김승혜",
+      "trendTitle": "김승혜",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "유재석 혼낸다던 양상국 결국 사과 \"죄송…조심하겠다\"",
+          "title": "김승혜·김해준, 결혼 2년 만에 부모 된다…임신 17주",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260504_0003616077",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260504_0003616992",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "방송 발언 논란에 고개 숙인 양상국…“고정은 쉽지 않겠다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260504143733619",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
+          "title": "개그우먼 김승혜 임신…“모든 게 처음이지만 잘 헤쳐 나갈 것”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260504/133861299/2",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"운을 깎아먹고있다\" 양상국 논란 속, 역술가 '예언' 재조명 [핫피플]",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112794667",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
+          "title": "김승혜·김해준 “아기 천사 찾아와”… 임신 17주",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260505001419541",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "유재석 혼낸다던 양상국 결국 사과 \"죄송…조심하겠다\"",
+        "title": "김승혜·김해준, 결혼 2년 만에 부모 된다…임신 17주",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260504_0003616077",
-        "publishedAt": "2026-05-04T12:40:00.000Z",
+        "url": "https://www.newsis.com/view/NISX20260504_0003616992",
+        "publishedAt": "2026-05-04T14:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-04T12:40:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "양상국",
+      "publishedAt": "2026-05-04T14:20:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "김승혜",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260504_0003616077",
+      "url": "https://www.newsis.com/view/NISX20260504_0003616992",
       "rank": 5
     },
     {
-      "id": "e18a778ed8db37dc",
-      "issueKey": "이재호",
-      "issueTitle": "이재호",
-      "trendTitle": "이재호",
+      "id": "b2b3a4a1879c2312",
+      "issueKey": "ioi",
+      "issueTitle": "ioi",
+      "trendTitle": "ioi",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "스타크래프트 ASL 4강행 가린다…장윤철 vs 이영호 주목",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260503_0003615357",
-          "publishedAt": "2026-05-04T12:30:00.000Z",
+          "title": "Tak Jae-hoon Teases IOI: 'Did You Run Out of Money?' at 10th Reunion",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/05/04/XLUNZYBM5ZC2NGZS2PLFFWM4PU/",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "SOOP, ‘ASL 시즌21’ 8강 2주차 돌입… 이제동·이영호 출격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YIuoKmpXWT",
-          "publishedAt": "2026-05-04T12:30:00.000Z",
+          "title": "Jeon Somi Confesses Past Conflicts with Kim Se-jeong, Kim Do-yeon",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/05/04/75NMK6SKOBAHDNBKZD7VKMIAG4/",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[오!쎈 현장] '생애 첫 4강' 신상문, \"짭제, 전성기 이제동 느낌\"",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112794572",
-          "publishedAt": "2026-05-04T12:30:00.000Z",
+          "title": "\"Afraid the drinking session would end\"... Kim Se-jeong reveals her heavy-drinking side ('No, but Really!')",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/broadcasting-service/12035192",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "이재호",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260503_0003615357",
-        "publishedAt": "2026-05-04T12:30:00.000Z",
+        "title": "Tak Jae-hoon Teases IOI: 'Did You Run Out of Money?' at 10th Reunion",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/kpop-culture-en/2026/05/04/XLUNZYBM5ZC2NGZS2PLFFWM4PU/",
+        "publishedAt": "2026-05-04T14:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-04T12:30:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "이재호",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260503_0003615357",
+      "publishedAt": "2026-05-04T14:20:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "ioi",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/english/kpop-culture-en/2026/05/04/XLUNZYBM5ZC2NGZS2PLFFWM4PU/",
       "rank": 6
     },
     {
-      "id": "b769992c5aae7aee",
-      "issueKey": "한쪽",
-      "issueTitle": "한쪽",
-      "trendTitle": "홈플러스",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "7be9373b7b11bf47",
+      "issueKey": "빌리",
+      "issueTitle": "빌리",
+      "trendTitle": "츠키",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "한쪽은 파업, 한쪽은 “월급 내려놓겠다”…엇갈린 노조의 선택",
-          "source": "조선일보",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=51285",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "title": "빌리, '불후의 명곡'서 코요태 '비몽' 재해석 \"독기 폭발\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0uirGdlw0z",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "하림그룹, 홈플러스 익스프레스 인수 본계약 체결",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/04/30/2026043080189.html",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "title": "빌리, '불후'서 '비몽' 완벽 재해석..'콘셉추얼 아이콘' 존재감",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/music/2026/05/03/GEYTCNRUGQZTKMLFGYZDGYRVMY/",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"돈 나올 곳 유일\"vs\"돈 넣으면 배임\"…메리츠만 보는 홈플러스 회생할까",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6156588",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "title": "컴백 D-2 빌리 신곡 'ZAP' MV 티저 공개,중독성 비트 눈길끈다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260504n23093",
+          "publishedAt": "2026-05-04T14:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "한쪽은 파업, 한쪽은 “월급 내려놓겠다”…엇갈린 노조의 선택",
-        "source": "조선일보",
-        "url": "http://weekly.chosun.com/news/articleView.html?idxno=51285",
-        "publishedAt": "2026-05-04T12:20:00.000Z",
+        "title": "빌리, '불후의 명곡'서 코요태 '비몽' 재해석 \"독기 폭발\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/0uirGdlw0z",
+        "publishedAt": "2026-05-04T14:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-04T12:20:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "한쪽",
-      "source": "조선일보",
-      "url": "http://weekly.chosun.com/news/articleView.html?idxno=51285",
+      "publishedAt": "2026-05-04T14:20:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "빌리",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/0uirGdlw0z",
       "rank": 7
     },
     {
-      "id": "958004721f5a6f25",
-      "issueKey": "안영미",
-      "issueTitle": "안영미",
-      "trendTitle": "안영미",
+      "id": "c64e3ab35560de8f",
+      "issueKey": "전소미",
+      "issueTitle": "전소미",
+      "trendTitle": "전소미",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'7월 출산' 안영미, 세상 유일 만삭 사진 공개 '골룸 산모'",
+          "title": "돈 떨어졌냐?…전소미, 아이오아이 재결합하자마자 폭로 \"끝까지 간다\"('아근진')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260503205234264",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "url": "https://v.daum.net/v/20260505000932504",
+          "publishedAt": "2026-05-04T14:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'개콘' 가정의 달 특집, 전체 관람가로 변경…2만 5천명 신청",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6155808",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "title": "탁재훈, 데뷔 10주년 맞은 아이오아이에 매운맛 '환영' \"돈 떨어졌냐\" ('아근진')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/04/MVSDEMLGGM3WKN3GGIYGIYZTGM/",
+          "publishedAt": "2026-05-04T14:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'둘째 임신' 안영미, 만삭인데 골룸 분장 투혼..남다른 개그 열정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/03/GIYGKMLEMZSTIMTCGY3TGNZWGI/",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "title": "전소미, 김세정·김도연과 말투+태도 때문에 갈등…\"지적당해도 사과 안하고 끝까지 가\" ('아근진')",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260504n29221",
+          "publishedAt": "2026-05-04T14:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'7월 출산' 안영미, 세상 유일 만삭 사진 공개 '골룸 산모'",
+        "title": "돈 떨어졌냐?…전소미, 아이오아이 재결합하자마자 폭로 \"끝까지 간다\"('아근진')",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260503205234264",
-        "publishedAt": "2026-05-04T12:20:00.000Z",
+        "url": "https://v.daum.net/v/20260505000932504",
+        "publishedAt": "2026-05-04T14:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-04T12:20:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "안영미",
+      "publishedAt": "2026-05-04T14:10:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "전소미",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260503205234264",
+      "url": "https://v.daum.net/v/20260505000932504",
       "rank": 8
     },
     {
-      "id": "1153e6818de5b27b",
-      "issueKey": "금감원",
-      "issueTitle": "금감원",
-      "trendTitle": "금감원",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "df49e7f99f643776",
+      "issueKey": "첼시",
+      "issueTitle": "첼시",
+      "trendTitle": "첼시",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "한화솔루션·SKC, 유상증자 희비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260504102057555",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "title": "'망신 망신 대망신' 첼시, '강등권' 노팅엄에 1-3 패배...리그 6경기 연패→그래도 634분 '골 가뭄' 끊었다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/05/05/GMZWMZJUGZRGIOLDMNSDEMJSME/",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "금감원, 한화솔루션 유상증자 또 제동…주주 판단에 맡길 일",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026050328661",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "title": "[첼시 노팅엄] 부상으로 쓰러진 제시 데리",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3573569",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "유증 또 퇴짜 한화솔루션, 투자자 신뢰 회복이 관건",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260503151848365",
-          "publishedAt": "2026-05-04T12:20:00.000Z",
+          "title": "[PL REVIEW] 황희찬의 울버햄튼보다 더 심각하다…'6연패' 첼시, 노팅엄에 1-3 완패→2달 만에 리그 득점",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260505n00452",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "금감원, 한화솔루션 유상증자 또 제동…주주 판단에 맡길 일",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026050328661",
-        "publishedAt": "2026-05-04T12:20:00.000Z",
-        "relevanceScore": 2
+        "title": "'망신 망신 대망신' 첼시, '강등권' 노팅엄에 1-3 패배...리그 6경기 연패→그래도 634분 '골 가뭄' 끊었다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/05/05/GMZWMZJUGZRGIOLDMNSDEMJSME/",
+        "publishedAt": "2026-05-04T14:00:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-04T12:20:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "금감원",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026050328661",
+      "publishedAt": "2026-05-04T14:00:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "첼시",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/05/05/GMZWMZJUGZRGIOLDMNSDEMJSME/",
       "rank": 9
+    },
+    {
+      "id": "0e0314455cac6263",
+      "issueKey": "lsg vs mi",
+      "issueTitle": "lsg vs mi",
+      "trendTitle": "lsg vs mi",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Ball by Ball Commentary & Live Score - MI vs LSG, 47th Match",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/mumbai-indians-vs-lucknow-super-giants-47th-match-1529290/ball-by-ball-commentary",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Hardik Pandya Not Part Of Mumbai Indians Playing XI vs Lucknow Super Giants Amid Poor Form. Here's The Reason",
+          "source": "NDTV Sports",
+          "url": "https://sports.ndtv.com/ipl-2026/hardik-pandya-not-part-of-mumbai-indians-playing-xi-vs-lucknow-super-giants-amid-poor-form-heres-the-reason-11447890",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "MI Vs LSG, IPL 2026: Is Rohit Sharma Playing Today At Wankhede Stadium?",
+          "source": "Outlook India",
+          "url": "https://www.outlookindia.com/sports/cricket/mi-vs-lsg-ipl-2026-rohit-sharma-playing-update-wankhede-stadium",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "lsg vs mi",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/mumbai-indians-vs-lucknow-super-giants-47th-match-1529290/ball-by-ball-commentary",
+        "publishedAt": "2026-05-04T14:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-04T14:00:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "lsg vs mi",
+      "source": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/mumbai-indians-vs-lucknow-super-giants-47th-match-1529290/ball-by-ball-commentary",
+      "rank": 10
     }
   ],
   "history": [
@@ -680,6 +727,52 @@
       "title": "그야말로 참패",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260503180015025"
+    },
+    {
+      "id": "df49e7f99f643776",
+      "issueKey": "첼시",
+      "issueTitle": "첼시",
+      "trendTitle": "첼시",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'망신 망신 대망신' 첼시, '강등권' 노팅엄에 1-3 패배...리그 6경기 연패→그래도 634분 '골 가뭄' 끊었다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/05/05/GMZWMZJUGZRGIOLDMNSDEMJSME/",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[첼시 노팅엄] 부상으로 쓰러진 제시 데리",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3573569",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[PL REVIEW] 황희찬의 울버햄튼보다 더 심각하다…'6연패' 첼시, 노팅엄에 1-3 완패→2달 만에 리그 득점",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260505n00452",
+          "publishedAt": "2026-05-04T14:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'망신 망신 대망신' 첼시, '강등권' 노팅엄에 1-3 패배...리그 6경기 연패→그래도 634분 '골 가뭄' 끊었다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/05/05/GMZWMZJUGZRGIOLDMNSDEMJSME/",
+        "publishedAt": "2026-05-04T14:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-04T14:00:00.000Z",
+      "firstSeenAt": "2026-05-04T16:46:23.040Z",
+      "lastSeenAt": "2026-05-04T16:46:23.040Z",
+      "title": "첼시",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/05/05/GMZWMZJUGZRGIOLDMNSDEMJSME/"
     },
     {
       "id": "99ace5b9a434c831",
@@ -2286,52 +2379,6 @@
       "title": "아스날",
       "source": "조선일보",
       "url": "https://www.chosun.com/sports/world-football/2026/05/02/MEYWMNJXHE3WCYTGMFTDONJXGE/"
-    },
-    {
-      "id": "849dfd5aac53fb74",
-      "issueKey": "열병식",
-      "issueTitle": "열병식",
-      "trendTitle": "열병식",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "우크라 표적될라…러, 20년 만에 첫 신무기 공개 없는 ‘전승절 열병식’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605011610001",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "우크라이나 신형 미사일 공습 두려움 커지자 러시아, 전승절 열병식 축소",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/List/Series/article/all/11/6212068/1",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "퍼레이드고 뭐고간에",
-          "source": "시사주간",
-          "url": "https://sisaweekly.com/news/articleView.html?idxno=47318",
-          "publishedAt": "2026-05-04T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "우크라 표적될라…러, 20년 만에 첫 신무기 공개 없는 ‘전승절 열병식’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202605011610001",
-        "publishedAt": "2026-05-04T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-04T12:40:00.000Z",
-      "firstSeenAt": "2026-05-04T14:02:40.587Z",
-      "lastSeenAt": "2026-05-04T14:02:40.587Z",
-      "title": "열병식",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202605011610001"
     }
   ]
 }
