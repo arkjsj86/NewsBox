@@ -7,11 +7,152 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-05T16:24:26.826Z",
+  "lastUpdatedAt": "2026-05-05T19:20:39.945Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "b3464b45c13a0cf3",
+      "issueKey": "효경",
+      "issueTitle": "효경",
+      "trendTitle": "효경",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'슈가대디 폭로' 효경 \"전 소속사와 관련 없어\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260504_0003616102",
+          "publishedAt": "2026-05-05T16:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“대표와 사귄 후 걸그룹 센터 됐다”…전 걸그룹 멤버가 폭로한 ‘연예계 슈가대디’",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10730477",
+          "publishedAt": "2026-05-05T16:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"대표와 사귀면 센터\"…장효경, '슈가대디' 폭로→전 소속사와 선 그으며 해명 [RE:뷰]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260505n02857",
+          "publishedAt": "2026-05-05T16:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'슈가대디 폭로' 효경 \"전 소속사와 관련 없어\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260504_0003616102",
+        "publishedAt": "2026-05-05T16:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-05T16:30:00.000Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
+      "title": "효경",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260504_0003616102",
+      "rank": 1
+    },
+    {
+      "id": "fb1d80c0a67b4b02",
+      "issueKey": "어머어머",
+      "issueTitle": "어머어머",
+      "trendTitle": "어머어머",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"어머어머!\" 김세정 키스신에 아이오아이 초토화… \"조금 어렵네\" 폭소 [아근진]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260505073703526",
+          "publishedAt": "2026-05-05T16:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전소미, 그야말로 '막내온탑' \"사과 안 하고 끝까지 가.. 가장 많이 싸운 건 김도연\" ('아근진')",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/05/GVRTCMBQHFSTSOBSGBQWCMRUMQ/",
+          "publishedAt": "2026-05-05T16:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전소미 \"언니가 내 말투 싫어했다\" 아이오아이 과거 갈등 고백",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260504_0003616542",
+          "publishedAt": "2026-05-05T16:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"어머어머!\" 김세정 키스신에 아이오아이 초토화… \"조금 어렵네\" 폭소 [아근진]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260505073703526",
+        "publishedAt": "2026-05-05T16:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-05T16:10:00.000Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
+      "title": "어머어머",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260505073703526",
+      "rank": 2
+    },
+    {
+      "id": "d24e93bf93af1f39",
+      "issueKey": "대통령",
+      "issueTitle": "대통령",
+      "trendTitle": "대통령",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"긴축 노래 부르는 이상한 분들\" 李대통령, 재정긴축론 반박",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/politics_general/2026/05/05/T5E7GQGEZRGRVPSSYLS2JGCVMU/",
+          "publishedAt": "2026-05-05T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "구윤철 \"IMF, 한국 '재정 튼튼한 나라'로 규정…부채 위험 경고 아니다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260506000055405",
+          "publishedAt": "2026-05-05T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "구윤철, 정부부채 논란에 ‘팩트체크’…“선진 38개국 평균 절반에도 못 미쳐”",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260506500003",
+          "publishedAt": "2026-05-05T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"긴축 노래 부르는 이상한 분들\" 李대통령, 재정긴축론 반박",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/politics_general/2026/05/05/T5E7GQGEZRGRVPSSYLS2JGCVMU/",
+        "publishedAt": "2026-05-05T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-05T15:50:00.000Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
+      "title": "대통령",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/politics/politics_general/2026/05/05/T5E7GQGEZRGRVPSSYLS2JGCVMU/",
+      "rank": 3
+    },
     {
       "id": "510bdc2c2072af66",
       "issueKey": "선우용여",
@@ -52,20 +193,67 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-05T15:20:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
       "title": "선우용여",
       "source": "뉴스1",
       "url": "https://www.news1.kr/entertain/broadcast-tv/6157392",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "id": "8970e9b04dddc060",
+      "issueKey": "문성현",
+      "issueTitle": "문성현",
+      "trendTitle": "문성현",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"FA 신청, 마지막 불꽃 태우고 싶다는 고백이었다\" 9승부터 13세이브까지…'프로 15년' 유니폼 반납한다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/05/06/GA3DQOLBMVRTAM3GGVRDKZLBGQ/",
+          "publishedAt": "2026-05-05T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[오피셜] '히어로즈 15년' 투수 문성현, 현역 은퇴 선언…\"심장과도 같았던 유니폼 벗는다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260505224102984",
+          "publishedAt": "2026-05-05T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "프로 15년→FA 미아→독립리그까지 두드렸지만 결국 은퇴…\"아쉬움 없다면 거짓말\"",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=814811",
+          "publishedAt": "2026-05-05T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[오피셜] '히어로즈 15년' 투수 문성현, 현역 은퇴 선언…\"심장과도 같았던 유니폼 벗는다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260505224102984",
+        "publishedAt": "2026-05-05T15:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-05T15:10:00.000Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
+      "title": "문성현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260505224102984",
+      "rank": 5
     },
     {
       "id": "3cab6964670dca89",
       "issueKey": "공중 급유",
       "issueTitle": "공중 급유",
       "trendTitle": "공중 급유",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -77,16 +265,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "‘미군 공중급유기 실종’…조난신호 발신 뒤 추적 신호 끊겨",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11586938",
+          "title": "“美공중급유기 ‘7700’ 비상신호 후 사라져”…중동 긴장 속 파장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260505215701707",
           "publishedAt": "2026-05-05T15:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "미군 공중급유기, 페르시아만 상공서 조난 신호 보내고 실종",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260505220346782",
+          "title": "‘미군 공중급유기 실종’…조난신호 발신 뒤 추적 신호 끊겨",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11586938",
           "publishedAt": "2026-05-05T15:00:00.000Z",
           "relevanceScore": 1
         }
@@ -99,106 +287,59 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-05T15:00:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
       "title": "공중 급유",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260505_0003617516",
-      "rank": 2
+      "rank": 6
     },
     {
-      "id": "055ca318f1ddeee1",
-      "issueKey": "마이크론",
-      "issueTitle": "마이크론",
-      "trendTitle": "마이크론",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "마이크론테크놀러지, AI 데이터센터 핵심 수혜주로 '제2 전성기' 재조명",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/stock/12036513",
-          "publishedAt": "2026-05-05T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "마이크론·인텔의 귀환, AI 거품론 잠재울 '진짜 실적' 터졌다",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/05/202605041409157123fbbec65dfb_1",
-          "publishedAt": "2026-05-05T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "5대 애널리스트 AI 평가: JP모건 메타 하향, 마이크론 테크놀로지 최고 목표가 제시",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-1924304",
-          "publishedAt": "2026-05-05T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "마이크론테크놀러지, AI 데이터센터 핵심 수혜주로 '제2 전성기' 재조명",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/stock/12036513",
-        "publishedAt": "2026-05-05T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-05T15:00:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
-      "title": "마이크론",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/stock/12036513",
-      "rank": 3
-    },
-    {
-      "id": "c37fb57827dee4e5",
-      "issueKey": "실패했던 타자",
-      "issueTitle": "실패했던 타자",
-      "trendTitle": "실패했던 타자",
+      "id": "77303d88d9a2415c",
+      "issueKey": "리베라토",
+      "issueTitle": "리베라토",
+      "trendTitle": "리베라토",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"선수가 먼저 방출 요청\" 한화 재계약 실패했던 타자, 대체 무슨 일?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/05/05/MMZWIMJQMU2TENTDGZSDIMTDGY/",
+          "title": "\"2주 전부터 고민\" 한화 출신 리베라토 흔든 가족사→결국 0홈런 방출로 이어졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260506033434604",
           "publishedAt": "2026-05-05T14:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'충격' 한화 한국시리즈 이끈 중견수, 19경기 만에 계약 해지…\"개인적인 가족 문제, 오늘 서둘러 귀국한다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/buchgX6bJi",
+          "title": "'前 한화' 리베라토, 대만서 돌연 자진 퇴단 왜?…\"가족 사정으로 계약해지 합의\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/05/05/HAZDAOLCMYZTGOBTG44WEZLDMI/",
           "publishedAt": "2026-05-05T14:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'前 한화' 리베라토, 대만서 돌연 자진 퇴단 왜?…\"가족 사정으로 계약해지 합의\"",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112795110",
+          "title": "'충격' 한화 한국시리즈 이끈 중견수, 19경기 만에 계약 해지…\"개인적인 가족 문제, 오늘 서둘러 귀국한다\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260506n00163?mid=s21&amp;list=recent&amp;cpcd=",
           "publishedAt": "2026-05-05T14:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"선수가 먼저 방출 요청\" 한화 재계약 실패했던 타자, 대체 무슨 일?",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-baseball/2026/05/05/MMZWIMJQMU2TENTDGZSDIMTDGY/",
+        "title": "\"2주 전부터 고민\" 한화 출신 리베라토 흔든 가족사→결국 0홈런 방출로 이어졌다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260506033434604",
         "publishedAt": "2026-05-05T14:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-05T14:40:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
-      "title": "실패했던 타자",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-baseball/2026/05/05/MMZWIMJQMU2TENTDGZSDIMTDGY/",
-      "rank": 4
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
+      "title": "리베라토",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260506033434604",
+      "rank": 7
     },
     {
       "id": "f0eca647f05bb7c7",
@@ -218,9 +359,9 @@
           "relevanceScore": 3
         },
         {
-          "title": "Micron begins shipping 245TB SSD for data centers",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/company-news/micron-begins-shipping-245tb-ssd-for-data-centers-93CH-4659221",
+          "title": "Micron stock pops on IDC report pushing back on bear case",
+          "source": "Quartz",
+          "url": "https://qz.com/micron-stock-idc-report-memory-chip-bear-case-050526",
           "publishedAt": "2026-05-05T14:40:00.000Z",
           "relevanceScore": 2
         },
@@ -240,20 +381,20 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-05T14:40:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
       "title": "mu stock",
       "source": "Seeking Alpha",
       "url": "https://seekingalpha.com/article/4898336-microns-50-percent-rally-just-a-prelude-to-the-structural-deficit",
-      "rank": 5
+      "rank": 8
     },
     {
       "id": "70e3595cd7862194",
       "issueKey": "소유진",
       "issueTitle": "소유진",
       "trendTitle": "소유진",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -287,200 +428,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-05T14:30:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
       "title": "소유진",
       "source": "Daum",
       "url": "https://v.daum.net/v/zdRYPgYCna",
-      "rank": 6
-    },
-    {
-      "id": "31e083f5950b1b25",
-      "issueKey": "김포시",
-      "issueTitle": "김포시",
-      "trendTitle": "김포시",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "54년 만에 걷히는 김포 한강 철책... 내년 상반기 시민 품으로",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260505580228",
-          "publishedAt": "2026-05-05T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "정선군, 기부자 전용 '정선와와패스' 관광시설 할인",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260505_0003617161",
-          "publishedAt": "2026-05-05T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "전북도 \"고향사랑기부 답례품 후기 쓰고 경품 받으세요\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260505104517698",
-          "publishedAt": "2026-05-05T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김포시",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260505580228",
-        "publishedAt": "2026-05-05T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-05T14:30:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
-      "title": "김포시",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260505580228",
-      "rank": 7
-    },
-    {
-      "id": "68d745bef778cede",
-      "issueKey": "김다영",
-      "issueTitle": "김다영",
-      "trendTitle": "김다영",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "14살 연하 김다영과 결혼한 베성재 \"장모와 11살 차이\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260505_0003617266",
-          "publishedAt": "2026-05-05T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'배성재♥' 김다영 \"결혼과 동시에 퇴사했지만…너무 만족해\" (동상이몽2)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260505n18102",
-          "publishedAt": "2026-05-05T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘미혼의 삶’ 그리워하던 배성재, 결혼 후에도 개인방 차지 “격리하니 좋아”(동상이몽2)[핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/05/MZSWIOJZMVTGCMZUMYYTOYJUGQ/",
-          "publishedAt": "2026-05-05T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "14살 연하 김다영과 결혼한 베성재 \"장모와 11살 차이\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260505_0003617266",
-        "publishedAt": "2026-05-05T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-05T14:00:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
-      "title": "김다영",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260505_0003617266",
-      "rank": 8
-    },
-    {
-      "id": "0344d729b10d73b6",
-      "issueKey": "샌디스크",
-      "issueTitle": "샌디스크",
-      "trendTitle": "샌디스크",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "샌디스크, 데이터센터 매출 급증…AI 저장장치 수혜-[美증시 특징주]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260504123410489",
-          "publishedAt": "2026-05-05T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "샌디스크(SNDK.O), 3분기 호실적…\"전환점 분기\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260504n03191",
-          "publishedAt": "2026-05-05T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "샌디스크, S&P 500 지수 제패···4월 81% 급등하며 엔비디아 압도",
-          "source": "Benzinga",
-          "url": "https://kr.benzinga.com/news/usa/trading/%EC%83%8C%EB%94%94%EC%8A%A4%ED%81%AC-sp-500-%EC%A7%80%EC%88%98-%EC%A0%9C%ED%8C%A84%EC%9B%94-81-%EA%B8%89%EB%93%B1%ED%95%98%EB%A9%B0-%EC%97%94%EB%B9%84%EB%94%94%EC%95%84/",
-          "publishedAt": "2026-05-05T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "샌디스크, 데이터센터 매출 급증…AI 저장장치 수혜-[美증시 특징주]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260504123410489",
-        "publishedAt": "2026-05-05T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-05T14:00:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
-      "title": "샌디스크",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260504123410489",
       "rank": 9
-    },
-    {
-      "id": "e88d4001bae210ee",
-      "issueKey": "장원영",
-      "issueTitle": "장원영",
-      "trendTitle": "장원영",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "장원영→안유진 어린이 시절 사진 대방출..아이브, 잘 자란 공주님들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260505152834924",
-          "publishedAt": "2026-05-05T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "장원영, 발레복 입은 공주님 그대로 컸다..새 과거사진 공개[핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/05/05/MZTDKN3BMI3DONBVMU4GMNRTGA/",
-          "publishedAt": "2026-05-05T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "아이브, 시작부터 강렬한 새 자체 콘텐츠 '앜아이브'",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=702426",
-          "publishedAt": "2026-05-05T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "장원영→안유진 어린이 시절 사진 대방출..아이브, 잘 자란 공주님들",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260505152834924",
-        "publishedAt": "2026-05-05T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-05T13:50:00.000Z",
-      "firstSeenAt": "2026-05-05T16:24:26.826Z",
-      "lastSeenAt": "2026-05-05T16:24:26.826Z",
-      "title": "장원영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260505152834924",
-      "rank": 10
     }
   ],
   "history": [
@@ -1914,6 +1867,144 @@
       "url": "https://v.daum.net/v/20260503100352084"
     },
     {
+      "id": "3cab6964670dca89",
+      "issueKey": "공중 급유",
+      "issueTitle": "공중 급유",
+      "trendTitle": "공중 급유",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "미 공중급유기 KC-135, 페르시아만 상공에서 실종(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260505_0003617516",
+          "publishedAt": "2026-05-05T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“美공중급유기 ‘7700’ 비상신호 후 사라져”…중동 긴장 속 파장",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260505215701707",
+          "publishedAt": "2026-05-05T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘미군 공중급유기 실종’…조난신호 발신 뒤 추적 신호 끊겨",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11586938",
+          "publishedAt": "2026-05-05T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "공중 급유",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260505_0003617516",
+        "publishedAt": "2026-05-05T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-05T15:00:00.000Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
+      "title": "공중 급유",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260505_0003617516"
+    },
+    {
+      "id": "77303d88d9a2415c",
+      "issueKey": "리베라토",
+      "issueTitle": "리베라토",
+      "trendTitle": "리베라토",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"2주 전부터 고민\" 한화 출신 리베라토 흔든 가족사→결국 0홈런 방출로 이어졌다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260506033434604",
+          "publishedAt": "2026-05-05T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'前 한화' 리베라토, 대만서 돌연 자진 퇴단 왜?…\"가족 사정으로 계약해지 합의\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/05/05/HAZDAOLCMYZTGOBTG44WEZLDMI/",
+          "publishedAt": "2026-05-05T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'충격' 한화 한국시리즈 이끈 중견수, 19경기 만에 계약 해지…\"개인적인 가족 문제, 오늘 서둘러 귀국한다\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260506n00163?mid=s21&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-05-05T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"2주 전부터 고민\" 한화 출신 리베라토 흔든 가족사→결국 0홈런 방출로 이어졌다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260506033434604",
+        "publishedAt": "2026-05-05T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-05T14:40:00.000Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
+      "title": "리베라토",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260506033434604"
+    },
+    {
+      "id": "70e3595cd7862194",
+      "issueKey": "소유진",
+      "issueTitle": "소유진",
+      "trendTitle": "소유진",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "백종원은 안 보이네…소유진, 어린이날→자녀들과 '5성급' 호캉스 [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zdRYPgYCna",
+          "publishedAt": "2026-05-05T14:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'백종원♥' 소유진, 삼남매와 5성급 호텔서 어린이날 호캉스 \"야외수영장 점령\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/05/MI3WGNRZMFRWGMZQMRRWCMLDGM/",
+          "publishedAt": "2026-05-05T14:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'백종원♥' 소유진, 세 아이와 럭셔리 호캉스 만끽…\"완전 해피!!\" [MD★스타]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260504n21492",
+          "publishedAt": "2026-05-05T14:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "백종원은 안 보이네…소유진, 어린이날→자녀들과 '5성급' 호캉스 [MHN:피드]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/zdRYPgYCna",
+        "publishedAt": "2026-05-05T14:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-05T14:30:00.000Z",
+      "firstSeenAt": "2026-05-05T19:20:39.945Z",
+      "lastSeenAt": "2026-05-05T19:20:39.945Z",
+      "title": "소유진",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/zdRYPgYCna"
+    },
+    {
       "id": "c37fb57827dee4e5",
       "issueKey": "실패했던 타자",
       "issueTitle": "실패했던 타자",
@@ -2234,144 +2325,6 @@
       "title": "심형탁",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260505_0003617396"
-    },
-    {
-      "id": "ff0a1ec260b5dcad",
-      "issueKey": "홍진경",
-      "issueTitle": "홍진경",
-      "trendTitle": "홍진경",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "홍진경, 충격적 사실 밝혀졌다…\"이현우 집 앞 3번 찾아가, 매니저가 태워주기도\" ('옥문아')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260505103304403",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "홍진경, 이현우 ‘성덕’이었다…“이현우 집 3번 갔다” 32년 팬심 고백 (옥문아)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260505/133862155/1",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘이혼’ 홍진경 “이현우 집 앞에 3번 찾아갔다”(‘옥탑아’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/05/MNRDQM3DMZRDINJXHE2TQNJVGQ/",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "홍진경, 충격적 사실 밝혀졌다…\"이현우 집 앞 3번 찾아가, 매니저가 태워주기도\" ('옥문아')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260505103304403",
-        "publishedAt": "2026-05-05T09:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-05T09:10:00.000Z",
-      "firstSeenAt": "2026-05-05T10:47:06.939Z",
-      "lastSeenAt": "2026-05-05T10:47:06.939Z",
-      "title": "홍진경",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260505103304403"
-    },
-    {
-      "id": "d6625f45acb27ff2",
-      "issueKey": "동심 사로잡",
-      "issueTitle": "동심 사로잡",
-      "trendTitle": "동심 사로잡",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "부산서 어린이날 어디 갈까… 체험형 행사 풍성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/biSXaunQvr",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "동심 사로잡은 `맘바의 비밀기지`",
-          "source": "부산일보",
-          "url": "https://www.busan.com/view/busan/view.php?code=2026050518170580372",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "즐거운 어린이날 맞이 행사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260504064900051",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "동심 사로잡은 `맘바의 비밀기지`",
-        "source": "부산일보",
-        "url": "https://www.busan.com/view/busan/view.php?code=2026050518170580372",
-        "publishedAt": "2026-05-05T09:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-05T09:10:00.000Z",
-      "firstSeenAt": "2026-05-05T10:47:06.939Z",
-      "lastSeenAt": "2026-05-05T10:47:06.939Z",
-      "title": "동심 사로잡",
-      "source": "부산일보",
-      "url": "https://www.busan.com/view/busan/view.php?code=2026050518170580372"
-    },
-    {
-      "id": "5b316532439b3f5a",
-      "issueKey": "땅집고",
-      "issueTitle": "땅집고",
-      "trendTitle": "땅집고",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"33평보다 비싼 24평 속출\"…국민평형 59㎡시대 왔다",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/05/04/2026050401874.html",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "폭등후 급락하는 건설주..대우건설 '8%'급락",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/05/04/2026050402178.html",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"1억 넣었으면 10억 됐다\" 올해만 1000% 급등…'에너지주'로 변신한 '이 종목'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260429n07801",
-          "publishedAt": "2026-05-05T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "땅집고",
-        "source": "땅집고",
-        "url": "https://realty.chosun.com/site/data/html_dir/2026/05/04/2026050401874.html",
-        "publishedAt": "2026-05-05T09:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-05T09:10:00.000Z",
-      "firstSeenAt": "2026-05-05T10:47:06.939Z",
-      "lastSeenAt": "2026-05-05T10:47:06.939Z",
-      "title": "땅집고",
-      "source": "땅집고",
-      "url": "https://realty.chosun.com/site/data/html_dir/2026/05/04/2026050401874.html"
     }
   ]
 }
