@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-05-06T21:57:33.500Z",
-  "articleCount": 11,
+  "lastUpdatedAt": "2026-05-07T02:54:57.216Z",
+  "articleCount": 12,
   "articles": [
+    {
+      "id": "3901e6464b5f132b",
+      "title": "NHN컨소시움, '스마트품' 통합 플랫폼 구축 … AI, IoT결합 돌봄 서비스 연구 박차",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=304112",
+      "source": "경향게임스",
+      "publishedAt": "2026-05-07T01:50:37.000Z",
+      "summary": "NHN이 보건복지부의 ‘AI 응용제품 신속 상용화 지원 사업’ 중 ‘스마트홈’ 분야 주관기관으로 선정됐다. 이번 사업은 AI와 IoT 기술을 돌봄 서비스에 접목해 24시간 안전과 건강을 관리하고 돌봄 공백을 해소하는 것이 핵심이다. AI 양방향 소통과 돌봄기기 연계, 디지털 전환 등을 포괄하는 모델을 통해 종사자의 업무 부담을 줄이고 효율적인 케어 환경을 조성할 계획이다.컨소시엄에는 주...",
+      "tab": "ai"
+    },
+    {
+      "id": "b3e1f7ba72027bcc",
+      "title": "“자연스러운 대화부터 멀티태스킹까지”…iOS 27 시리 신기능 총정리",
+      "url": "https://www.itworld.co.kr/article/4168099/%ec%9e%90%ec%97%b0%ec%8a%a4%eb%9f%ac%ec%9a%b4-%eb%8c%80%ed%99%94%eb%b6%80%ed%84%b0-%eb%a9%80%ed%8b%b0%ed%83%9c%ec%8a%a4%ed%82%b9%ea%b9%8c%ec%a7%80ios-27-%ec%8b%9c%eb%a6%ac-%ec%8b%a0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-07T00:11:36.000Z",
+      "summary": "지금까지 시리는 날씨 확인, 음악 재생, 위키피디아 데이터 검색 등 기본적인 작업을 아이폰에서 수행해왔다. 이런 용도만이라면 충분하지만, 시리의 이해 능력은 제한적이어서 단어를 신중히 선택하여 간결하게 표현해야만 올바르게 이해한다. 경쟁사의 음성 어시스턴트도 한때 유사한 제약에 시달렸지만 이미 그 경계를 벗어났다. 안드로이드에서는 구글 제미나이가 에이전트 기능을 갖추면서 사용자가 자연어...",
+      "tab": "ai"
+    },
     {
       "id": "ec39bc5c4d29963c",
       "title": "보안·복잡성 높은 환경에서도 통했다…오픈텍스트의 AI 기반 콘텐츠 관리",
@@ -95,15 +113,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-04-28T06:31:54.000Z",
       "summary": "4월 28일 오픈텍스트(OpenText)가 자사 파트너사인 인섹시큐리티 서울 독산교육센터에서 ‘오픈텍스트 애플리케이션 시큐리티 애비에이터(OpenText Application Security Aviator) 오프라인 모드 소개 및 핸즈온 교육’을 성공적으로 개최했다고 밝혔다. 이번 교육은 규제 요건이 까다로운 기업 환경에서도 AI 기반 애플리케이션 보안 솔루션을 안정적으로 운영할 수 있...",
-      "tab": "ai"
-    },
-    {
-      "id": "96021844315e2e8e",
-      "title": "“정액은 끝났다” 깃허브 코파일럿, AI 크레딧 체계 도입",
-      "url": "https://www.itworld.co.kr/article/4163921/%ec%a0%95%ec%95%a1%ec%9d%80-%eb%81%9d%eb%82%ac%eb%8b%a4-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-ai-%ed%81%ac%eb%a0%88%eb%94%a7-%ec%b2%b4%ea%b3%84-%eb%8f%84.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-27T23:28:28.000Z",
-      "summary": "정액 요금으로 AI를 마음껏 쓰던 시대가 끝나가고 있다. 그 시작을 깃허브가 알렸다. 깃허브 코파일럿 요금제가 사용량 기반 과금 체계로 전환된다. 깃허브는 최근 코파일럿 프로와 코파일럿 프로 플러스 정액 요금제의 신규 가입을 중단한다고 발표한 데 이어, 6월부터 해당 요금제를 사용량 기준으로 전환한다고 공식화했다 . 요금 자체는 유지된다. 코파일럿 프로는 월 10달러, 코파일럿 프로 플...",
       "tab": "ai"
     }
   ]
