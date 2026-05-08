@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-07T21:59:16.516Z",
+  "lastUpdatedAt": "2026-05-08T02:56:32.275Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "73b47d6729b4db77",
-      "issueKey": "삼성전자",
-      "issueTitle": "삼성전자",
-      "trendTitle": "삼성전자",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“영업익 현금으로 나눠달라” 한국식 성과급에 흔들리는 기업들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508043332907",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘극한 대치’에 정부 나선다…삼전 노사에 ‘사후 조정’ 카드",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8555742",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[朝鮮칼럼] 4대 그룹 회장의 ‘긴급 회동’을 제안한다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/opinion/chosun_column/2026/05/07/SHVQPNRQKFDAXBEIMH4GU6542E/",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성전자",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260508043332907",
-        "publishedAt": "2026-05-07T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-07T20:50:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "삼성전자",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260508043332907",
-      "rank": 1
-    },
-    {
-      "id": "e0cb4cee8e70ceb9",
-      "issueKey": "신성이엔지",
-      "issueTitle": "신성이엔지",
-      "trendTitle": "신성이엔지",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "신성이엔지, 1Q 매출 1537억…수주잔고 급증 속 적자폭 축소",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=367783",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "신성이엔지, 1분기 수주액 203% 급증…2분기 실적 반등 ‘가시화’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260507580353",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "신성이엔지, 1분기 매출액 32%↑…“2분기 수익성 개선 기대”",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05720326645446624",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "신성이엔지, 1Q 매출 1537억…수주잔고 급증 속 적자폭 축소",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=367783",
-        "publishedAt": "2026-05-07T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-07T20:50:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "신성이엔지",
-      "source": "전기신문",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=367783",
-      "rank": 2
-    },
-    {
-      "id": "9ff21ad7fd5e2e3c",
-      "issueKey": "검찰",
-      "issueTitle": "검찰",
-      "trendTitle": "방시혁",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "검찰, 방시혁 하이브 의장 구속영장 재반려",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/05/07/EMH6HQX7B5GNNKZMX5JPC7AGYU/",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "검찰, 방시혁 구속영장 또 반려…“보완 요구 내용 미이행”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8555743",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[단독] 검찰, 경찰이 재신청한 방시혁 구속영장 '불청구' 기각",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6820739_36918.html",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "검찰, 방시혁 하이브 의장 구속영장 재반려",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/incident/2026/05/07/EMH6HQX7B5GNNKZMX5JPC7AGYU/",
-        "publishedAt": "2026-05-07T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-07T20:50:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "검찰",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/incident/2026/05/07/EMH6HQX7B5GNNKZMX5JPC7AGYU/",
-      "rank": 3
-    },
-    {
-      "id": "8f58cba8339b4dd7",
-      "issueKey": "프로야구 순위",
-      "issueTitle": "프로야구 순위",
-      "trendTitle": "프로야구 순위",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "277일째 무승 수렁…롯데 '안경 에이스' 박세웅, 6전7기 첫 승 도전",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260507_0003619556",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김현수·최원준에 강했다...'15G 연속 무승' 박세웅, 마침 좋은 기운 있는 KT 상대 등판",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260507141402507",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "팀 타율 9위→시즌 첫 10득점 반등 신호? \"강팀은…\" 사령탑은 왜 웃지 못했나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/05/02/GVTGMMZUHE2DEZDGGVRWGOBVMM/",
-          "publishedAt": "2026-05-07T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "프로야구 순위",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260507_0003619556",
-        "publishedAt": "2026-05-07T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-07T20:50:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "프로야구 순위",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260507_0003619556",
-      "rank": 4
-    },
-    {
-      "id": "6f3f71fdc4335b21",
-      "issueKey": "한동훈",
-      "issueTitle": "한동훈",
-      "trendTitle": "한동훈",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "부산 5선 출신 서병수, 국힘 탈당… 한동훈 명예 선대위원장 합류",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/05/07/BINVOVPLRFFYTPAKYHGUIOSXKI/",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[인터뷰] 박민식 \"찐토박이는 나 하나…양파전이든 삼파전이든 필승\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508061211812",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[JTBC 여론조사] 하정우 37%로 앞서는데…양자대결 가정하면 달랐다",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12297352",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "부산 5선 출신 서병수, 국힘 탈당… 한동훈 명예 선대위원장 합류",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/assembly/2026/05/07/BINVOVPLRFFYTPAKYHGUIOSXKI/",
-        "publishedAt": "2026-05-07T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-07T20:40:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "한동훈",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/politics/assembly/2026/05/07/BINVOVPLRFFYTPAKYHGUIOSXKI/",
-      "rank": 5
-    },
-    {
-      "id": "035b806fa406af0f",
-      "issueKey": "대비 중단",
-      "issueTitle": "대비 중단",
-      "trendTitle": "대비 중단",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "조기소집부터 삐걱대는 홍명보호 상대 멕시코…\"월드컵 제외\" 경고",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260507_0003619385",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "손흥민의 LAFC와 대결, 멕시코 대표팀 규정도 어겼다…'북중미월드컵 대비 중단, 리가 MX 클럽 반발'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260507091609729",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "빨리 보내라 vs 누구 맘대로…축구협-구단간 ‘내홍’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202605072100006",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "손흥민의 LAFC와 대결, 멕시코 대표팀 규정도 어겼다…'북중미월드컵 대비 중단, 리가 MX 클럽 반발'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260507091609729",
-        "publishedAt": "2026-05-07T20:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-07T20:40:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "대비 중단",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260507091609729",
-      "rank": 6
-    },
-    {
-      "id": "00c4ae86e8e53ca3",
-      "issueKey": "에코프로",
-      "issueTitle": "에코프로",
-      "trendTitle": "에코프로",
+      "id": "0026c4cf180042a1",
+      "issueKey": "국가유산",
+      "issueTitle": "국가유산",
+      "trendTitle": "국가유산",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "에코프로비엠, 유럽 생산 확대 효과 본격화 기대-대신",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03053686645446296",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
+          "title": "세운4구역 주민-국가유산청, 협상 결렬…서울시 \"해법 찾겠다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260507_0003620750",
+          "publishedAt": "2026-05-08T01:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“배터리는 미래 산업의 심장”...에코프로, 유럽 뚫고 LMR로 간다 [찐코노미]",
+          "title": "종묘 재개발 제동…국가유산청, 서울시에 첫 행정 명령",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260506094005309",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
+          "url": "https://v.daum.net/v/20260508103111345",
+          "publishedAt": "2026-05-08T01:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "에코프로비엠, EU 공급망 재편 수혜 기대…양극재 성장축 확대",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260506n06090",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
+          "title": "서울시, 세운4구역 세계유산영향평가 명령에 ″해법 찾겠다″",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260507171942qb1",
+          "publishedAt": "2026-05-08T01:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "에코프로비엠, 유럽 생산 확대 효과 본격화 기대-대신",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03053686645446296",
-        "publishedAt": "2026-05-07T20:40:00.000Z",
+        "title": "세운4구역 주민-국가유산청, 협상 결렬…서울시 \"해법 찾겠다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260507_0003620750",
+        "publishedAt": "2026-05-08T01:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-07T20:40:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "에코프로",
-      "source": "마켓인",
-      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=03053686645446296",
-      "rank": 7
+      "publishedAt": "2026-05-08T01:50:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "국가유산",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260507_0003620750",
+      "rank": 1
     },
     {
-      "id": "1c7c79f1a9ed030d",
-      "issueKey": "전유진",
-      "issueTitle": "전유진",
-      "trendTitle": "전유진",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "09d34024c3c91f50",
+      "issueKey": "유튜버",
+      "issueTitle": "유튜버",
+      "trendTitle": "유튜버",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "팬심이 부른 이름, 전유진 스타트렌드 트로트 여왕 등극",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260506n28756",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
+          "title": "음주운전 쫓던 유튜버, 결국 사망 사고 책임…1년 6개월 실형",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8555733",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "박군·안성훈·성민, '2026 K-트롯 그랜드 어워즈' 빛냈다",
+          "title": "음주 운전 의심 차량 추격전 끝 사망사고…40대 유튜버 법정 구속",
           "source": "Daum",
-          "url": "https://v.daum.net/v/7JkMbtMVWN",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
+          "url": "https://v.daum.net/v/20260507141018287",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "전유진 “KTGA”…트로피 들고 전한 수상 현장",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16049147",
-          "publishedAt": "2026-05-07T20:40:00.000Z",
+          "title": "사망사고 유발한 ‘유튜브 추격 생중계’…구독자도 유죄",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/honam/1257606.html",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "팬심이 부른 이름, 전유진 스타트렌드 트로트 여왕 등극",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260506n28756",
-        "publishedAt": "2026-05-07T20:40:00.000Z",
+        "title": "음주운전 쫓던 유튜버, 결국 사망 사고 책임…1년 6개월 실형",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8555733",
+        "publishedAt": "2026-05-08T01:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-07T20:40:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "전유진",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260506n28756",
-      "rank": 8
+      "publishedAt": "2026-05-08T01:40:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "유튜버",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8555733",
+      "rank": 2
     },
     {
-      "id": "2c964a4cc6459771",
-      "issueKey": "도성회",
-      "issueTitle": "도성회",
-      "trendTitle": "도성회",
+      "id": "32e82a6090d2cc83",
+      "issueKey": "현대모비스",
+      "issueTitle": "현대모비스",
+      "trendTitle": "현대모비스",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "현대모비스, 수익성 높은 전기차 심장 'PE시스템 ' 풀라인업 구축…미래차 '티어1' 진검승부 개시",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=367780",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현대모비스가 전기차 파워트레인 ‘PE시스템’ 범용 모델도 독자 개발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508101716705",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "현대모비스, 160kW급 'PE시스템' 독자개발…글로벌 수주 활동 본격화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260507_0003619495",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "현대모비스, 수익성 높은 전기차 심장 'PE시스템 ' 풀라인업 구축…미래차 '티어1' 진검승부 개시",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=367780",
+        "publishedAt": "2026-05-08T01:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T01:40:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "현대모비스",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=367780",
+      "rank": 3
+    },
+    {
+      "id": "79525178decfaa31",
+      "issueKey": "현대차",
+      "issueTitle": "현대차",
+      "trendTitle": "현대차",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"도성회, 도로公 내부정보로 휴게소 사업 따내… 적자에도 셀프배당\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/05/08/AQTVNGY2HFEJNGH6K3YAHJ4SAI/",
-          "publishedAt": "2026-05-07T20:30:00.000Z",
+          "title": "현대차그룹, 노무 컨트롤타워 재편…새 총괄에 최준영 사장",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202605083227i",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "국토부 “휴게소 운영 ‘도성회’ 탈세 포착”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508060323640",
-          "publishedAt": "2026-05-07T20:30:00.000Z",
+          "title": "기아 최준영 사장, 현대차그룹 정책개발실장으로…노무 대응 총괄",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260508113413WD3",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "도공, 퇴직자 단체 '도성회' 자회사 운영 바로잡는다…비상경영 TF 발족",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260507_0003620484",
-          "publishedAt": "2026-05-07T20:30:00.000Z",
+          "title": "현대차그룹 노사 총괄에 최준영 기아 사장 임명",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20041673",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"도성회, 도로公 내부정보로 휴게소 사업 따내… 적자에도 셀프배당\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/transport-environment/2026/05/08/AQTVNGY2HFEJNGH6K3YAHJ4SAI/",
-        "publishedAt": "2026-05-07T20:30:00.000Z",
+        "title": "현대차그룹, 노무 컨트롤타워 재편…새 총괄에 최준영 사장",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202605083227i",
+        "publishedAt": "2026-05-08T01:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-07T20:30:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "도성회",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/transport-environment/2026/05/08/AQTVNGY2HFEJNGH6K3YAHJ4SAI/",
-      "rank": 9
+      "publishedAt": "2026-05-08T01:30:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "현대차",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202605083227i",
+      "rank": 4
     },
     {
-      "id": "6e56c561c79dfa0c",
-      "issueKey": "서울에 부동산",
-      "issueTitle": "서울에 부동산",
-      "trendTitle": "서울에 부동산",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "1539b3a60c7d144c",
+      "issueKey": "신고가 경신",
+      "issueTitle": "신고가 경신",
+      "trendTitle": "신고가 경신",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "기안84, 16세 연하 김고은에 직진 \"서울에 부동산, 주식 좀 있다…사는 건 괜찮아\" [인생84]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260507190100718",
-          "publishedAt": "2026-05-07T20:20:00.000Z",
+          "title": "현대오토에버, 상한가 진입.. +29.97% ↑",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20041665",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'43세' 기안84, 역대급 재산 플러팅 \"서울에 부동산·주식 보유\" [인생84]",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/broadcast-show/2026/05/07/2026050708130790456",
-          "publishedAt": "2026-05-07T20:20:00.000Z",
+          "title": "'현대오토에버' 52주 신고가 경신, 로봇 SI 기업으로 변화 - LS증권, BUY",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n09566",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'43세' 기안84, '16살 연하' 김고은과 데이트 \"남성호르몬 많아..스테로이드 맞을것\"(인생84)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/07/G5RTCOLEGEYTEY3BGFRDMYRXMM/",
-          "publishedAt": "2026-05-07T20:20:00.000Z",
+          "title": "[장중수급포착] 현대오토에버, 외국인/기관 동시 순매수… 주가 +29.97%",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260508000709",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "기안84, 16세 연하 김고은에 직진 \"서울에 부동산, 주식 좀 있다…사는 건 괜찮아\" [인생84]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260507190100718",
-        "publishedAt": "2026-05-07T20:20:00.000Z",
+        "title": "'현대오토에버' 52주 신고가 경신, 로봇 SI 기업으로 변화 - LS증권, BUY",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260508n09566",
+        "publishedAt": "2026-05-08T01:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-08T01:30:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "신고가 경신",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260508n09566",
+      "rank": 5
+    },
+    {
+      "id": "5e3d3b2fd51a1f97",
+      "issueKey": "특징주",
+      "issueTitle": "특징주",
+      "trendTitle": "특징주",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보] 현대무벡스, 장초반 VI 발동…10.80% 괴리율",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=573070",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현대무벡스, 3거래일만에 17% 급등…3만6000원선 회복",
+          "source": "이코노뉴스",
+          "url": "https://www.econonews.co.kr/news/articleView.html?idxno=437742",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "특징주, 현대무벡스-로봇(산업용/협동로봇 등) 테마 상승세에 10.01% ↑",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/stock/12040779",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "특징주, 현대무벡스-로봇(산업용/협동로봇 등) 테마 상승세에 10.01% ↑",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/stock/12040779",
+        "publishedAt": "2026-05-08T01:30:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-08T01:30:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "특징주",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/stock/12040779",
+      "rank": 6
+    },
+    {
+      "id": "d4d2f8711bd7cf33",
+      "issueKey": "멜로망스",
+      "issueTitle": "멜로망스",
+      "trendTitle": "멜로망스",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "멜로망스·10CM 공연이 무료! 서울가든페스티벌 열린다",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2018056",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "서울숲, 한 달간 ‘음악이 흐르는 정원’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YdjTm3e43z?f=p",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "뮤지션과 함께 서울숲을…16일부터 서울가든페스티벌",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000527874.do",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "멜로망스·10CM 공연이 무료! 서울가든페스티벌 열린다",
+        "source": "서울특별시",
+        "url": "https://mediahub.seoul.go.kr/archives/2018056",
+        "publishedAt": "2026-05-08T01:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-07T20:20:00.000Z",
-      "firstSeenAt": "2026-05-07T21:59:16.516Z",
-      "lastSeenAt": "2026-05-07T21:59:16.516Z",
-      "title": "서울에 부동산",
+      "publishedAt": "2026-05-08T01:30:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "멜로망스",
+      "source": "서울특별시",
+      "url": "https://mediahub.seoul.go.kr/archives/2018056",
+      "rank": 7
+    },
+    {
+      "id": "a3aeb6df3a51034b",
+      "issueKey": "이혜정",
+      "issueTitle": "이혜정",
+      "trendTitle": "이혜정",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'빅마마' 이혜정, 20년 그릇 무덤 공개…“얼굴만 화장하고 목에 때 낀 기분”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508074217462",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"살림 잘하는 척 했는데 발가벗은 느낌\" 이혜정, 너저분한 주방 공개(빅마마)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n07792",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'빅마마' 이혜정 \"살다 살다 이런 치부까지\"..20년치 '그릇 무덤' 충격",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-05-07/202605070100038650002485",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'빅마마' 이혜정, 20년 그릇 무덤 공개…“얼굴만 화장하고 목에 때 낀 기분”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260508074217462",
+        "publishedAt": "2026-05-08T01:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T01:20:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "이혜정",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260507190100718",
-      "rank": 10
+      "url": "https://v.daum.net/v/20260508074217462",
+      "rank": 8
+    },
+    {
+      "id": "98ed8d272373128e",
+      "issueKey": "매수",
+      "issueTitle": "매수",
+      "trendTitle": "현대차 주가",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"현대차 얼마에 매수하는게 좋을까?\"…한경 '에픽AI'가 매수·매도 타점 찾아줍니다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026050568141",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "물구나무 서고 몸 뒤집고…아틀라스, 고난도 기계체조 거뜬",
+          "source": "동아비즈니스리뷰 | DBR",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/2634",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "현대차 주가 장중 7%대 올라, 휴머노이드 '아틀라스' 기대감에 그룹주 강세",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=437340",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"현대차 얼마에 매수하는게 좋을까?\"…한경 '에픽AI'가 매수·매도 타점 찾아줍니다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026050568141",
+        "publishedAt": "2026-05-08T01:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T01:20:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "매수",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026050568141",
+      "rank": 9
     }
   ],
   "history": [
@@ -713,6 +666,52 @@
       "title": "지수",
       "source": "스포츠경향",
       "url": "https://sports.khan.co.kr/article/202605051653003"
+    },
+    {
+      "id": "09d34024c3c91f50",
+      "issueKey": "유튜버",
+      "issueTitle": "유튜버",
+      "trendTitle": "유튜버",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "음주운전 쫓던 유튜버, 결국 사망 사고 책임…1년 6개월 실형",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8555733",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "음주 운전 의심 차량 추격전 끝 사망사고…40대 유튜버 법정 구속",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260507141018287",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "사망사고 유발한 ‘유튜브 추격 생중계’…구독자도 유죄",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/area/honam/1257606.html",
+          "publishedAt": "2026-05-08T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "음주운전 쫓던 유튜버, 결국 사망 사고 책임…1년 6개월 실형",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8555733",
+        "publishedAt": "2026-05-08T01:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T01:40:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "유튜버",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8555733"
     },
     {
       "id": "73b47d6729b4db77",
@@ -2109,142 +2108,96 @@
       "url": "https://www.newsis.com/view/NISX20260506_0003618143"
     },
     {
-      "id": "9dc94a9d71345356",
-      "issueKey": "계절",
-      "issueTitle": "계절",
-      "trendTitle": "아파트",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "79525178decfaa31",
+      "issueKey": "현대차",
+      "issueTitle": "현대차",
+      "trendTitle": "현대차",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "계절·시간별 전기요금 차등 위해 새 아파트 '실시간 검침' 추진",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260505060814646",
-          "publishedAt": "2026-05-05T20:50:00.000Z",
+          "title": "현대차그룹, 노무 컨트롤타워 재편…새 총괄에 최준영 사장",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202605083227i",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "VPP부터 마이크로그리드까지…기후부 ‘지능형전력망’ 전환 가속",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260505010000695",
-          "publishedAt": "2026-05-05T20:50:00.000Z",
+          "title": "기아 최준영 사장, 현대차그룹 정책개발실장으로…노무 대응 총괄",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260508113413WD3",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "신축 아파트 전력데이터 한전에 의무 연계…전기요금 ‘시간별 차등’ 추진",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260505/133862354/1",
-          "publishedAt": "2026-05-05T20:50:00.000Z",
+          "title": "현대차그룹 노사 총괄에 최준영 기아 사장 임명",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20041673",
+          "publishedAt": "2026-05-08T01:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "계절·시간별 전기요금 차등 위해 새 아파트 '실시간 검침' 추진",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260505060814646",
-        "publishedAt": "2026-05-05T20:50:00.000Z",
+        "title": "현대차그룹, 노무 컨트롤타워 재편…새 총괄에 최준영 사장",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202605083227i",
+        "publishedAt": "2026-05-08T01:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-05T20:50:00.000Z",
-      "firstSeenAt": "2026-05-05T22:01:15.406Z",
-      "lastSeenAt": "2026-05-05T22:01:15.406Z",
-      "title": "계절",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260505060814646"
+      "publishedAt": "2026-05-08T01:30:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "현대차",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202605083227i"
     },
     {
-      "id": "2f517551eae567f1",
-      "issueKey": "경상남도",
-      "issueTitle": "경상남도",
-      "trendTitle": "경상남도",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "98ed8d272373128e",
+      "issueKey": "매수",
+      "issueTitle": "매수",
+      "trendTitle": "현대차 주가",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "닷새 만에 124만 명 받았다… 경남 생활지원금 지급률 40% 육박",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6512357",
-          "publishedAt": "2026-05-05T20:40:00.000Z",
+          "title": "\"현대차 얼마에 매수하는게 좋을까?\"…한경 '에픽AI'가 매수·매도 타점 찾아줍니다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026050568141",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "도민 생활지원금 닷새 만에 124만 명 신청",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260505160713914",
-          "publishedAt": "2026-05-05T20:40:00.000Z",
+          "title": "물구나무 서고 몸 뒤집고…아틀라스, 고난도 기계체조 거뜬",
+          "source": "동아비즈니스리뷰 | DBR",
+          "url": "https://dbr.donga.com/kfocus/view/article_no/2634",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "밀양시, 지원금 신청 혼선 방지에 총력",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260505500462",
-          "publishedAt": "2026-05-05T20:40:00.000Z",
+          "title": "현대차 주가 장중 7%대 올라, 휴머노이드 '아틀라스' 기대감에 그룹주 강세",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=437340",
+          "publishedAt": "2026-05-08T01:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "경상남도",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6512357",
-        "publishedAt": "2026-05-05T20:40:00.000Z",
+        "title": "\"현대차 얼마에 매수하는게 좋을까?\"…한경 '에픽AI'가 매수·매도 타점 찾아줍니다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026050568141",
+        "publishedAt": "2026-05-08T01:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-05T20:40:00.000Z",
-      "firstSeenAt": "2026-05-05T22:01:15.406Z",
-      "lastSeenAt": "2026-05-05T22:01:15.406Z",
-      "title": "경상남도",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6512357"
-    },
-    {
-      "id": "2763d01cd1e85100",
-      "issueKey": "삼성전기",
-      "issueTitle": "삼성전기",
-      "trendTitle": "삼성전기",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "삼성전기, ESG 평가지수 'DJBIC 월드' 17년 연속편입…국내 최장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260505092108850",
-          "publishedAt": "2026-05-05T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "KT&G, 다우존스 월드지수 2년 연속 편입",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/living/2026/05/05/2026050417311552551",
-          "publishedAt": "2026-05-05T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'ESG 경쟁력 입증' 삼성화재… DJSI월드지수 2년 연속 편입",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202605051838498533",
-          "publishedAt": "2026-05-05T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성전기, ESG 평가지수 'DJBIC 월드' 17년 연속편입…국내 최장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260505092108850",
-        "publishedAt": "2026-05-05T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-05T20:30:00.000Z",
-      "firstSeenAt": "2026-05-05T22:01:15.406Z",
-      "lastSeenAt": "2026-05-05T22:01:15.406Z",
-      "title": "삼성전기",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260505092108850"
+      "publishedAt": "2026-05-08T01:20:00.000Z",
+      "firstSeenAt": "2026-05-08T02:56:32.275Z",
+      "lastSeenAt": "2026-05-08T02:56:32.275Z",
+      "title": "매수",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026050568141"
     },
     {
       "id": "035b806fa406af0f",
