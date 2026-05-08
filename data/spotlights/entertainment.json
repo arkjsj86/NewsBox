@@ -7,483 +7,575 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-08T07:43:04.962Z",
+  "lastUpdatedAt": "2026-05-08T10:25:12.545Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "fe58f1fcf494cb60",
-      "issueKey": "무키 베츠",
-      "issueTitle": "무키 베츠",
-      "trendTitle": "무키 베츠",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'마이너 후보였는데' 김혜성이 오타니 다음이라니…\"시몬스 같아\" 다저스 코치 극찬 이유 있었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WPOGduB3Cw",
-          "publishedAt": "2026-05-08T06:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "다저스 베츠, MLB 복귀 임박…김혜성 로스터에 잔류할까",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260508109100007",
-          "publishedAt": "2026-05-08T06:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "왜 김혜성 못믿나, 팬들 아우성…키케·베츠 복귀 임박, 김혜성 잔류할까 \"프리랜드보다 훨씬 꾸준해\"",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112796957",
-          "publishedAt": "2026-05-08T06:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "무키 베츠",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WPOGduB3Cw",
-        "publishedAt": "2026-05-08T06:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T06:40:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "무키 베츠",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/WPOGduB3Cw",
-      "rank": 1
-    },
-    {
-      "id": "46f15f1dbcafc4e7",
-      "issueKey": "비트마인",
-      "issueTitle": "비트마인",
-      "trendTitle": "이더리움",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "비트마인, 이더리움 매집 속도 늦춘다…톰 리 \"목표치 도달 임박\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413790",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "비트마인, 이더리움 공급량 5% 확보 눈앞…톰 리 \"매입 속도 조절 검토\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260508n06853",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[데일리픽] 스페이스X IPO 기대에 ETF 봇물…암호화폐 시장은 '봄'",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662838",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "비트마인, 이더리움 매집 속도 늦춘다…톰 리 \"목표치 도달 임박\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413790",
-        "publishedAt": "2026-05-08T06:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T06:30:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "비트마인",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413790",
-      "rank": 2
-    },
-    {
-      "id": "779dce3462c34a6f",
-      "issueKey": "이정후",
-      "issueTitle": "이정후",
-      "trendTitle": "이정후",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"김혜성 눈부신 활약, 마이너 복귀 안 돼\" 멀티히트+시즌 첫 3루타→LAD 팬들도 열광…\"숨겨진 보물\", \"MLB에 있을 자격 충분\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/4zqGLnTsXo",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김혜성 3루타 포함 2안타 맹활약…이정후·송성문은 침묵",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8554957",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김혜성, 3루타 포함 멀티 히트…팀은 대승",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260507_0002128999",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김혜성 3루타 포함 2안타 맹활약…이정후·송성문은 침묵",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8554957",
-        "publishedAt": "2026-05-08T06:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-08T06:30:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "이정후",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8554957",
-      "rank": 3
-    },
-    {
-      "id": "e7e9baed73f99f9c",
-      "issueKey": "김재환",
-      "issueTitle": "김재환",
-      "trendTitle": "김재환",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'보상 없이 SSG 이적'→\"진심으로 죄송하다\"던 김재환, '드디어' 두산 잠실원정 나선다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508084217682",
-          "publishedAt": "2026-05-08T06:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "2군에서 돌아온 278홈런 베테랑, 잠실에서 친정팀 두산과 첫 맞대결 \"부담감 스스로 극복해야 해\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/05/08/MM3TEZRRME3TAZRSHE2WKNRVG4/",
-          "publishedAt": "2026-05-08T06:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "SSG vs 두산, 잠실벌서 펼쳐지는 시즌 두 번째 '김재환 더비'[주목! 이 종목]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260507_0003620858",
-          "publishedAt": "2026-05-08T06:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'보상 없이 SSG 이적'→\"진심으로 죄송하다\"던 김재환, '드디어' 두산 잠실원정 나선다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260508084217682",
-        "publishedAt": "2026-05-08T06:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T06:20:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "김재환",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260508084217682",
-      "rank": 4
-    },
-    {
-      "id": "1dc31a7111b800df",
-      "issueKey": "cvn 77",
-      "issueTitle": "cvn-77",
-      "trendTitle": "cvn-77",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "US carrier Bush transits Arabian Sea, CENTCOM says",
-          "source": "ایران اینترنشنال",
-          "url": "https://www.iranintl.com/en/202605057496",
-          "publishedAt": "2026-05-08T06:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Nighttime Aircraft Movement Aboard USS George H.W. Bush (CVN 77) [Image 2 of 2]",
-          "source": "DVIDS",
-          "url": "https://www.dvidshub.net/image/9663984/nighttime-aircraft-movement-aboard-uss-george-hw-bush-cvn-77",
-          "publishedAt": "2026-05-08T06:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "USS George H.W. Bush enforces US naval blockade, redirects 52 vessels in Hormuz",
-          "source": "Crypto Briefing",
-          "url": "https://cryptobriefing.com/uss-george-hw-bush-enforces-us-naval-blockade-redirects-52-vessels-in-hormuz/",
-          "publishedAt": "2026-05-08T06:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "cvn-77",
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/en/202605057496",
-        "publishedAt": "2026-05-08T06:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T06:20:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "cvn-77",
-      "source": "ایران اینترنشنال",
-      "url": "https://www.iranintl.com/en/202605057496",
-      "rank": 5
-    },
-    {
-      "id": "d9b56e6fa264d9bc",
-      "issueKey": "북미 이민",
-      "issueTitle": "북미 이민",
-      "trendTitle": "영주권",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "국민이주-성공한사람들, 북미 이민·정착 서비스 제공 MOU 체결",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202605083831O",
-          "publishedAt": "2026-05-08T06:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“美대학 나왔는데 취업비자 왜 안나오죠?”…부자들은 영주권 먼저 샀다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12039597",
-          "publishedAt": "2026-05-08T06:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "미국투자이민 D-146…캔암 패스트트랙 프로젝트 2개 동시 오픈",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260507000321",
-          "publishedAt": "2026-05-08T06:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "국민이주-성공한사람들, 북미 이민·정착 서비스 제공 MOU 체결",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202605083831O",
-        "publishedAt": "2026-05-08T06:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T06:10:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "북미 이민",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202605083831O",
-      "rank": 6
-    },
-    {
-      "id": "1dacb13933ab6045",
-      "issueKey": "바가지요금",
-      "issueTitle": "바가지요금",
-      "trendTitle": "바가지요금",
+      "id": "56709c2426e65282",
+      "issueKey": "주간조선",
+      "issueTitle": "주간조선",
+      "trendTitle": "주간조선",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "외국인 택시 요금 바가지 '경고' 없다…자격정지 30일",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003621176",
-          "publishedAt": "2026-05-08T05:50:00.000Z",
+          "title": "공약은 뒷전?…또 늦어지는 공약집 발표",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "앞으로 외국인에 택시 ‘바가지요금’ 씌우면 경고 없이 30일 자격정지",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260508/133885068/2",
-          "publishedAt": "2026-05-08T05:50:00.000Z",
+          "title": "예측불허 판세에 여야 PK 기초단체장 후보들 ‘좌불안석’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260507172014887",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "앞으로 외국인에 택시 '바가지요금' 씌우면 경고 없이 30일 자격정지",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260508n14369",
-          "publishedAt": "2026-05-08T05:50:00.000Z",
+          "title": "“내란 청산“ vs “정권 심판”…지방선거 한달 여 앞두고 여야 ‘프레임 전쟁’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260507580406",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "앞으로 외국인에 택시 ‘바가지요금’ 씌우면 경고 없이 30일 자격정지",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260508/133885068/2",
-        "publishedAt": "2026-05-08T05:50:00.000Z",
-        "relevanceScore": 2
+        "title": "주간조선",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816",
+        "publishedAt": "2026-05-08T09:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-08T05:50:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "바가지요금",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Society/article/all/20260508/133885068/2",
+      "publishedAt": "2026-05-08T09:20:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "주간조선",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816",
+      "rank": 1
+    },
+    {
+      "id": "e0075c0c280d0b17",
+      "issueKey": "한화 박준영",
+      "issueTitle": "한화 박준영",
+      "trendTitle": "한화 박준영",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한화 박준영-배승수, 퓨처스 리그 월간 메디힐 루키상 수상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7H9wxSb0sz",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "KBO 퓨처스리그 3~4월 루키상, 한화 박준영·타자 배승수 선정",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260507134507z3K",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한화 박준영·배승수, 2026시즌 KBO 퓨처스리그 투타 루키상 수상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260507_0003619807",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "한화 박준영-배승수, 퓨처스 리그 월간 메디힐 루키상 수상",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/7H9wxSb0sz",
+        "publishedAt": "2026-05-08T09:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T09:20:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "한화 박준영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/7H9wxSb0sz",
+      "rank": 2
+    },
+    {
+      "id": "eba60d9980517310",
+      "issueKey": "신봉선",
+      "issueTitle": "신봉선",
+      "trendTitle": "신봉선",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“뱃살 하나도 없네”… ‘11kg 감량’ 신봉선, 몸매 비결 뭐지?",
+          "source": "헬스조선",
+          "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026050703359",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘이렇게 고왔나?’ 신봉선, 요요 없이 11kg 감량… ‘이 운동’ 덕분?",
+          "source": "코메디닷컴",
+          "url": "https://kormedi.com/2813374/",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'11kg 감량' 신봉선, \"다이어트\" 선언하더니…2만 걸음·헬스 '폭풍 운동' [★해시태그]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260507n16532",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“뱃살 하나도 없네”… ‘11kg 감량’ 신봉선, 몸매 비결 뭐지?",
+        "source": "헬스조선",
+        "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026050703359",
+        "publishedAt": "2026-05-08T09:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T09:20:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "신봉선",
+      "source": "헬스조선",
+      "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026050703359",
+      "rank": 3
+    },
+    {
+      "id": "0a557c7eeb53d929",
+      "issueKey": "이수현",
+      "issueTitle": "이수현",
+      "trendTitle": "이수현",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'위고비 해명' 이수현, '뼈말라' 대열 합류… 날력 턱선+호리한 몸 [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508142137219",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "위고비 의혹 억울할 만도…악뮤 이수현, 1년 전과 확 다른 '뼈말라' 자태",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/08/HA2TKMBWGIYWIOBZMZRTCOBRGQ/",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[샷!] 우울증·공황장애 이겨냈어요",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260430177200011",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'위고비 해명' 이수현, '뼈말라' 대열 합류… 날력 턱선+호리한 몸 [MHN:피드]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260508142137219",
+        "publishedAt": "2026-05-08T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T09:10:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "이수현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260508142137219",
+      "rank": 4
+    },
+    {
+      "id": "6bb8a37b630b6736",
+      "issueKey": "wec",
+      "issueTitle": "wec",
+      "trendTitle": "wec",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "McLaren Signs Vanthoor For Hypercar Programme",
+          "source": "dailysportscar.com",
+          "url": "https://www.dailysportscar.com/2026/05/08/mclaren-signs-vanthoor-for-hypercar-programme.html",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "The McLaren MCL-HY: McLaren’s 2027 FIA World Endurance Championship Hypercar and ultra-exclusive track car revealed",
+          "source": "McLaren",
+          "url": "https://www.mclaren.com/racing/2026/endurance/2027-fia-world-endurance-championship-hypercar-and-track-car-revealed/",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "The real successor to the McLaren F1 GTR is finally here",
+          "source": "MSN",
+          "url": "https://www.msn.com/en-us/autos/enthusiasts/the-real-successor-to-the-mclaren-f1-gtr-is-finally-here/ar-AA22tMC0",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "wec",
+        "source": "dailysportscar.com",
+        "url": "https://www.dailysportscar.com/2026/05/08/mclaren-signs-vanthoor-for-hypercar-programme.html",
+        "publishedAt": "2026-05-08T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T09:10:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "wec",
+      "source": "dailysportscar.com",
+      "url": "https://www.dailysportscar.com/2026/05/08/mclaren-signs-vanthoor-for-hypercar-programme.html",
+      "rank": 5
+    },
+    {
+      "id": "e5696eaa64a691bb",
+      "issueKey": "최강욱",
+      "issueTitle": "최강욱",
+      "trendTitle": "최강욱",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박상용, '울산지검 술판 의혹' 최강욱·강성범 상대 승소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508171651259",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“박상용 검사 ‘음주 추태 의혹’ 제기 강미정·최강욱·강성범, 2천만원 배상하라”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1257806.html",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "박상용, '술판 의혹' 손배소 일부 승소…'최초 제기' 이성윤엔 패소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260508_0003621948",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박상용, '울산지검 술판 의혹' 최강욱·강성범 상대 승소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260508171651259",
+        "publishedAt": "2026-05-08T09:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T09:00:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "최강욱",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260508171651259",
+      "rank": 6
+    },
+    {
+      "id": "6ad700c583e3fc17",
+      "issueKey": "금타는 금요일",
+      "issueTitle": "금타는 금요일",
+      "trendTitle": "금타는 금요일",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[TV조선] 부모님께 바치는 노래",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508004153991",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "남승민, 암투병 母 앞에서 끝내 오열…\"집 사드리고 싶었는데\" (금타는금요일)",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/05/08/GU3DQMTFMI3TIMRYGQZWGZRYHE/",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'금타는 금요일' 정서주, 양지은 무대에 \"무릎이라도 꿇어야 하나\" 긴장",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/504006",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'금타는 금요일' 정서주, 양지은 무대에 \"무릎이라도 꿇어야 하나\" 긴장",
+        "source": "iMBC 연예",
+        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/504006",
+        "publishedAt": "2026-05-08T09:00:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-08T09:00:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "금타는 금요일",
+      "source": "iMBC 연예",
+      "url": "https://enews.imbc.com/News/RetrieveNewsInfo/504006",
       "rank": 7
     },
     {
-      "id": "fbdb03821fcea656",
-      "issueKey": "전주원",
-      "issueTitle": "전주원",
-      "trendTitle": "전주원",
+      "id": "e16d4743e03e607d",
+      "issueKey": "아이폰",
+      "issueTitle": "아이폰",
+      "trendTitle": "아이폰",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "우리은행, 여자 프로농구 최고 슈터 강이슬 영입",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/05/08/VHDLDJNQJZE5PPKYGMSBSTAJYE/",
-          "publishedAt": "2026-05-08T05:30:00.000Z",
+          "title": "삼성D·LGD, 아이폰18 프리미엄 모델 OLED 독식",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=56089",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "전주원 체제로 새출발하는 아산 우리은행, FA 최대어 ‘스테판 이슬’ 강이슬 품으며 김단비-강이슬 원투펀치 결성했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5nYXAQsAkX",
-          "publishedAt": "2026-05-08T05:30:00.000Z",
+          "title": "\"아이폰18 프로, ‘내구성 논란’ 알루미늄 마감 유지\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260507075254",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "여자농구 우리은행, 'FA 최대어' 강이슬 영입…4년 총액 4억2000만원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003621276",
-          "publishedAt": "2026-05-08T05:30:00.000Z",
+          "title": "\"아이폰 18 일반형 왜 늦어지나?\"…애플의 노림수",
+          "source": "디지털데일리",
+          "url": "https://m.ddaily.co.kr/page/view/2026050711431809202",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "전주원 체제로 새출발하는 아산 우리은행, FA 최대어 ‘스테판 이슬’ 강이슬 품으며 김단비-강이슬 원투펀치 결성했다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5nYXAQsAkX",
-        "publishedAt": "2026-05-08T05:30:00.000Z",
-        "relevanceScore": 2
+        "title": "삼성D·LGD, 아이폰18 프리미엄 모델 OLED 독식",
+        "source": "디일렉",
+        "url": "https://www.thelec.kr/news/articleView.html?idxno=56089",
+        "publishedAt": "2026-05-08T08:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-08T05:30:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "전주원",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/5nYXAQsAkX",
+      "publishedAt": "2026-05-08T08:50:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "아이폰",
+      "source": "디일렉",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=56089",
       "rank": 8
     },
     {
-      "id": "ed56b0505ddc2367",
-      "issueKey": "국내선",
-      "issueTitle": "국내선",
-      "trendTitle": "국내선",
+      "id": "e9591129b5d75e90",
+      "issueKey": "신동엽",
+      "issueTitle": "신동엽",
+      "trendTitle": "신동엽",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“일본 포기했는데, 제주도도 부담될까요”…국내선 항공권 유류할증료 또 인상",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12040887",
-          "publishedAt": "2026-05-08T05:30:00.000Z",
+          "title": "[Opinion] 방구석 평론가의 2026 백상예술대상 수상 예측 [문화 전반]",
+          "source": "아트인사이트",
+          "url": "https://www.artinsight.co.kr/news/view.php?no=80791",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "제주 항공권 20만원 돌파...여객선은 할인 중단",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508152108762",
-          "publishedAt": "2026-05-08T05:30:00.000Z",
+          "title": "이준호, 눈을 뗄 수 없는 훈훈한 매력 [포토엔HD]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n28821",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "항공 화물 유류할증료 또 오른다… “수출 기업 운임 부담 커져” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/05/08/KR3EB7XZCFFNLIRGJGAKZVOIWI/",
-          "publishedAt": "2026-05-08T05:30:00.000Z",
+          "title": "백상예술대상 오늘(8일) 개최…신동엽·수지·박보검 8번째 공동 진행",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202605080944103487",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“일본 포기했는데, 제주도도 부담될까요”…국내선 항공권 유류할증료 또 인상",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12040887",
-        "publishedAt": "2026-05-08T05:30:00.000Z",
-        "relevanceScore": 3
+        "title": "백상예술대상 오늘(8일) 개최…신동엽·수지·박보검 8번째 공동 진행",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202605080944103487",
+        "publishedAt": "2026-05-08T08:50:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-05-08T05:30:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "국내선",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/business/12040887",
+      "publishedAt": "2026-05-08T08:50:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "신동엽",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0117_202605080944103487",
       "rank": 9
     },
     {
-      "id": "952c078ac59c2578",
-      "issueKey": "hlb이노베이션",
-      "issueTitle": "hlb이노베이션",
-      "trendTitle": "hlb이노베이션",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "18f59604fdef72da",
+      "issueKey": "박병호",
+      "issueTitle": "박병호",
+      "trendTitle": "박병호",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "HLB이노베이션, 대규모 CB 발행…\"글로벌 협상력 강화\"",
+          "title": "“시즌 다시 시작하고 싶다”는 KIA 김도영… 당겨치기가 너무 많다? 쓸데없는 걱정이다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260507115111954",
-          "publishedAt": "2026-05-08T05:20:00.000Z",
+          "url": "https://v.daum.net/v/VVTSjw3G7z?f=p",
+          "publishedAt": "2026-05-08T08:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "HLB이노베이션, 405억원 CB발행…\"임상연구 자금\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260506_0003619175",
-          "publishedAt": "2026-05-08T05:20:00.000Z",
+          "title": "관중 11만 명…11년 만에 어린이날 전경기 매진",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008547604",
+          "publishedAt": "2026-05-08T08:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "HLB이노베이션, 405억원 규모 전환사채 발행",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260506170100017",
-          "publishedAt": "2026-05-08T05:20:00.000Z",
+          "title": "2015년 박병호·2025년 디아즈보다 빠르다…김도영, 홈런레이스서 먼저 치고 나갔다 [SD 베이스볼 브레이크]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260506n18209",
+          "publishedAt": "2026-05-08T08:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "HLB이노베이션, 대규모 CB 발행…\"글로벌 협상력 강화\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260507115111954",
-        "publishedAt": "2026-05-08T05:20:00.000Z",
-        "relevanceScore": 3
+        "title": "2015년 박병호·2025년 디아즈보다 빠르다…김도영, 홈런레이스서 먼저 치고 나갔다 [SD 베이스볼 브레이크]",
+        "source": "네이트",
+        "url": "https://m.news.nate.com/view/20260506n18209",
+        "publishedAt": "2026-05-08T08:40:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-05-08T05:20:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "hlb이노베이션",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260507115111954",
+      "publishedAt": "2026-05-08T08:40:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "박병호",
+      "source": "네이트",
+      "url": "https://m.news.nate.com/view/20260506n18209",
       "rank": 10
     }
   ],
   "history": [
+    {
+      "id": "18f59604fdef72da",
+      "issueKey": "박병호",
+      "issueTitle": "박병호",
+      "trendTitle": "박병호",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“시즌 다시 시작하고 싶다”는 KIA 김도영… 당겨치기가 너무 많다? 쓸데없는 걱정이다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VVTSjw3G7z?f=p",
+          "publishedAt": "2026-05-08T08:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "관중 11만 명…11년 만에 어린이날 전경기 매진",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008547604",
+          "publishedAt": "2026-05-08T08:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "2015년 박병호·2025년 디아즈보다 빠르다…김도영, 홈런레이스서 먼저 치고 나갔다 [SD 베이스볼 브레이크]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260506n18209",
+          "publishedAt": "2026-05-08T08:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "2015년 박병호·2025년 디아즈보다 빠르다…김도영, 홈런레이스서 먼저 치고 나갔다 [SD 베이스볼 브레이크]",
+        "source": "네이트",
+        "url": "https://m.news.nate.com/view/20260506n18209",
+        "publishedAt": "2026-05-08T08:40:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-08T08:40:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "박병호",
+      "source": "네이트",
+      "url": "https://m.news.nate.com/view/20260506n18209"
+    },
+    {
+      "id": "0a557c7eeb53d929",
+      "issueKey": "이수현",
+      "issueTitle": "이수현",
+      "trendTitle": "이수현",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'위고비 해명' 이수현, '뼈말라' 대열 합류… 날력 턱선+호리한 몸 [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508142137219",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "위고비 의혹 억울할 만도…악뮤 이수현, 1년 전과 확 다른 '뼈말라' 자태",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/08/HA2TKMBWGIYWIOBZMZRTCOBRGQ/",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[샷!] 우울증·공황장애 이겨냈어요",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260430177200011",
+          "publishedAt": "2026-05-08T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'위고비 해명' 이수현, '뼈말라' 대열 합류… 날력 턱선+호리한 몸 [MHN:피드]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260508142137219",
+        "publishedAt": "2026-05-08T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T09:10:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "이수현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260508142137219"
+    },
     {
       "id": "6e56c561c79dfa0c",
       "issueKey": "서울에 부동산",
@@ -667,6 +759,52 @@
       "title": "선정",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260506184813519"
+    },
+    {
+      "id": "e5696eaa64a691bb",
+      "issueKey": "최강욱",
+      "issueTitle": "최강욱",
+      "trendTitle": "최강욱",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박상용, '울산지검 술판 의혹' 최강욱·강성범 상대 승소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508171651259",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“박상용 검사 ‘음주 추태 의혹’ 제기 강미정·최강욱·강성범, 2천만원 배상하라”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1257806.html",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "박상용, '술판 의혹' 손배소 일부 승소…'최초 제기' 이성윤엔 패소",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260508_0003621948",
+          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박상용, '울산지검 술판 의혹' 최강욱·강성범 상대 승소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260508171651259",
+        "publishedAt": "2026-05-08T09:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T09:00:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "최강욱",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260508171651259"
     },
     {
       "id": "9e686d54653521df",
@@ -1371,6 +1509,52 @@
       "title": "lsg vs rcb",
       "source": "ESPNcricinfo",
       "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/lucknow-super-giants-vs-royal-challengers-bengaluru-50th-match-1529293/full-scorecard"
+    },
+    {
+      "id": "e16d4743e03e607d",
+      "issueKey": "아이폰",
+      "issueTitle": "아이폰",
+      "trendTitle": "아이폰",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "삼성D·LGD, 아이폰18 프리미엄 모델 OLED 독식",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=56089",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"아이폰18 프로, ‘내구성 논란’ 알루미늄 마감 유지\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260507075254",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"아이폰 18 일반형 왜 늦어지나?\"…애플의 노림수",
+          "source": "디지털데일리",
+          "url": "https://m.ddaily.co.kr/page/view/2026050711431809202",
+          "publishedAt": "2026-05-08T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "삼성D·LGD, 아이폰18 프리미엄 모델 OLED 독식",
+        "source": "디일렉",
+        "url": "https://www.thelec.kr/news/articleView.html?idxno=56089",
+        "publishedAt": "2026-05-08T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T08:50:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "아이폰",
+      "source": "디일렉",
+      "url": "https://www.thelec.kr/news/articleView.html?idxno=56089"
     },
     {
       "id": "fe58f1fcf494cb60",
@@ -2109,234 +2293,50 @@
       "url": "https://www.joongboo.com/news/articleView.html?idxno=363724720"
     },
     {
-      "id": "1dacb13933ab6045",
-      "issueKey": "바가지요금",
-      "issueTitle": "바가지요금",
-      "trendTitle": "바가지요금",
+      "id": "56709c2426e65282",
+      "issueKey": "주간조선",
+      "issueTitle": "주간조선",
+      "trendTitle": "주간조선",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "외국인 택시 요금 바가지 '경고' 없다…자격정지 30일",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003621176",
-          "publishedAt": "2026-05-08T05:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "앞으로 외국인에 택시 ‘바가지요금’ 씌우면 경고 없이 30일 자격정지",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260508/133885068/2",
-          "publishedAt": "2026-05-08T05:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "앞으로 외국인에 택시 '바가지요금' 씌우면 경고 없이 30일 자격정지",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260508n14369",
-          "publishedAt": "2026-05-08T05:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "앞으로 외국인에 택시 ‘바가지요금’ 씌우면 경고 없이 30일 자격정지",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260508/133885068/2",
-        "publishedAt": "2026-05-08T05:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-08T05:50:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "바가지요금",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Society/article/all/20260508/133885068/2"
-    },
-    {
-      "id": "303ab0fc0525b385",
-      "issueKey": "빌라",
-      "issueTitle": "빌라",
-      "trendTitle": "빌라",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "구윤철 \"임대아파트 사업자 양도세 중과배제, 혜택 '과도'\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202605083494i",
-          "publishedAt": "2026-05-08T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“세 살다가 쫓겨나서 빌라 매입합니다” 집 세 주지 말고 직접 살라했더니 [부동산360]",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10733617",
-          "publishedAt": "2026-05-08T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "구윤철 \"잠겨있는 매물 실거주자에게 가도록 다양한 방안 논의\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/05/08/OSP7Y2CGCBE45KTZZUOLQ65CZY/",
-          "publishedAt": "2026-05-08T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“세 살다가 쫓겨나서 빌라 매입합니다” 집 세 주지 말고 직접 살라했더니 [부동산360]",
-        "source": "헤럴드경제",
-        "url": "https://biz.heraldcorp.com/article/10733617",
-        "publishedAt": "2026-05-08T04:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-08T04:20:00.000Z",
-      "firstSeenAt": "2026-05-08T05:32:49.476Z",
-      "lastSeenAt": "2026-05-08T05:32:49.476Z",
-      "title": "빌라",
-      "source": "헤럴드경제",
-      "url": "https://biz.heraldcorp.com/article/10733617"
-    },
-    {
-      "id": "3717d34d5e380bf8",
-      "issueKey": "정원오",
-      "issueTitle": "정원오",
-      "trendTitle": "정원오",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "정원오 \"오세훈 15년 방치한 용산에 '유엔 AI 허브' 유치할 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003621627",
-          "publishedAt": "2026-05-08T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "정원오, '유엔 AI 허브' 용산 유치 공약…\"吳, 용산 방치\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260508074600001",
-          "publishedAt": "2026-05-08T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정원오 “강북-강남 동부선 신설하고 ‘30분 통근도시’ 만들 것”",
+          "title": "공약은 뒷전?…또 늦어지는 공약집 발표",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8555068",
-          "publishedAt": "2026-05-08T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "정원오 \"오세훈 15년 방치한 용산에 '유엔 AI 허브' 유치할 것\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260508_0003621627",
-        "publishedAt": "2026-05-08T04:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T04:20:00.000Z",
-      "firstSeenAt": "2026-05-08T05:32:49.476Z",
-      "lastSeenAt": "2026-05-08T05:32:49.476Z",
-      "title": "정원오",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260508_0003621627"
-    },
-    {
-      "id": "947ebe4c8e1abd0c",
-      "issueKey": "최준영",
-      "issueTitle": "최준영",
-      "trendTitle": "최준영",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "현대차그룹, 노무 컨트롤타워 재편…새 총괄에 최준영 사장",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202605083227i",
-          "publishedAt": "2026-05-08T04:10:00.000Z",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "현대차그룹, 노무총괄조직 사장급 격상…최준영 사장 선임",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260508000183",
-          "publishedAt": "2026-05-08T04:10:00.000Z",
+          "title": "예측불허 판세에 여야 PK 기초단체장 후보들 ‘좌불안석’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260507172014887",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "현대차그룹 노사 총괄에 최준영 기아 사장 임명",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20041673",
-          "publishedAt": "2026-05-08T04:10:00.000Z",
+          "title": "“내란 청산“ vs “정권 심판”…지방선거 한달 여 앞두고 여야 ‘프레임 전쟁’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260507580406",
+          "publishedAt": "2026-05-08T09:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "현대차그룹, 노무 컨트롤타워 재편…새 총괄에 최준영 사장",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202605083227i",
-        "publishedAt": "2026-05-08T04:10:00.000Z",
+        "title": "주간조선",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816",
+        "publishedAt": "2026-05-08T09:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-08T04:10:00.000Z",
-      "firstSeenAt": "2026-05-08T05:32:49.476Z",
-      "lastSeenAt": "2026-05-08T05:32:49.476Z",
-      "title": "최준영",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202605083227i"
-    },
-    {
-      "id": "46f15f1dbcafc4e7",
-      "issueKey": "비트마인",
-      "issueTitle": "비트마인",
-      "trendTitle": "이더리움",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "비트마인, 이더리움 매집 속도 늦춘다…톰 리 \"목표치 도달 임박\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413790",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "비트마인, 이더리움 공급량 5% 확보 눈앞…톰 리 \"매입 속도 조절 검토\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260508n06853",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[데일리픽] 스페이스X IPO 기대에 ETF 봇물…암호화폐 시장은 '봄'",
-          "source": "디지털투데이",
-          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=662838",
-          "publishedAt": "2026-05-08T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "비트마인, 이더리움 매집 속도 늦춘다…톰 리 \"목표치 도달 임박\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413790",
-        "publishedAt": "2026-05-08T06:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T06:30:00.000Z",
-      "firstSeenAt": "2026-05-08T07:43:04.962Z",
-      "lastSeenAt": "2026-05-08T07:43:04.962Z",
-      "title": "비트마인",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413790"
+      "publishedAt": "2026-05-08T09:20:00.000Z",
+      "firstSeenAt": "2026-05-08T10:25:12.545Z",
+      "lastSeenAt": "2026-05-08T10:25:12.545Z",
+      "title": "주간조선",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816"
     }
   ]
 }
