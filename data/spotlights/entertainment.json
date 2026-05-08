@@ -7,483 +7,529 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-08T10:25:12.545Z",
+  "lastUpdatedAt": "2026-05-08T13:49:42.486Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "56709c2426e65282",
-      "issueKey": "주간조선",
-      "issueTitle": "주간조선",
-      "trendTitle": "주간조선",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "공약은 뒷전?…또 늦어지는 공약집 발표",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "예측불허 판세에 여야 PK 기초단체장 후보들 ‘좌불안석’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260507172014887",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“내란 청산“ vs “정권 심판”…지방선거 한달 여 앞두고 여야 ‘프레임 전쟁’",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260507580406",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "주간조선",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816",
-        "publishedAt": "2026-05-08T09:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T09:20:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "주간조선",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8555816",
-      "rank": 1
-    },
-    {
-      "id": "e0075c0c280d0b17",
-      "issueKey": "한화 박준영",
-      "issueTitle": "한화 박준영",
-      "trendTitle": "한화 박준영",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한화 박준영-배승수, 퓨처스 리그 월간 메디힐 루키상 수상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/7H9wxSb0sz",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "KBO 퓨처스리그 3~4월 루키상, 한화 박준영·타자 배승수 선정",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260507134507z3K",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "한화 박준영·배승수, 2026시즌 KBO 퓨처스리그 투타 루키상 수상",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260507_0003619807",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한화 박준영-배승수, 퓨처스 리그 월간 메디힐 루키상 수상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/7H9wxSb0sz",
-        "publishedAt": "2026-05-08T09:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T09:20:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "한화 박준영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/7H9wxSb0sz",
-      "rank": 2
-    },
-    {
-      "id": "eba60d9980517310",
-      "issueKey": "신봉선",
-      "issueTitle": "신봉선",
-      "trendTitle": "신봉선",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“뱃살 하나도 없네”… ‘11kg 감량’ 신봉선, 몸매 비결 뭐지?",
-          "source": "헬스조선",
-          "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026050703359",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘이렇게 고왔나?’ 신봉선, 요요 없이 11kg 감량… ‘이 운동’ 덕분?",
-          "source": "코메디닷컴",
-          "url": "https://kormedi.com/2813374/",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'11kg 감량' 신봉선, \"다이어트\" 선언하더니…2만 걸음·헬스 '폭풍 운동' [★해시태그]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260507n16532",
-          "publishedAt": "2026-05-08T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“뱃살 하나도 없네”… ‘11kg 감량’ 신봉선, 몸매 비결 뭐지?",
-        "source": "헬스조선",
-        "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026050703359",
-        "publishedAt": "2026-05-08T09:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T09:20:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "신봉선",
-      "source": "헬스조선",
-      "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026050703359",
-      "rank": 3
-    },
-    {
-      "id": "0a557c7eeb53d929",
-      "issueKey": "이수현",
-      "issueTitle": "이수현",
-      "trendTitle": "이수현",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'위고비 해명' 이수현, '뼈말라' 대열 합류… 날력 턱선+호리한 몸 [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508142137219",
-          "publishedAt": "2026-05-08T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "위고비 의혹 억울할 만도…악뮤 이수현, 1년 전과 확 다른 '뼈말라' 자태",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/08/HA2TKMBWGIYWIOBZMZRTCOBRGQ/",
-          "publishedAt": "2026-05-08T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[샷!] 우울증·공황장애 이겨냈어요",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260430177200011",
-          "publishedAt": "2026-05-08T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'위고비 해명' 이수현, '뼈말라' 대열 합류… 날력 턱선+호리한 몸 [MHN:피드]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260508142137219",
-        "publishedAt": "2026-05-08T09:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T09:10:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "이수현",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260508142137219",
-      "rank": 4
-    },
-    {
-      "id": "6bb8a37b630b6736",
-      "issueKey": "wec",
-      "issueTitle": "wec",
-      "trendTitle": "wec",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "McLaren Signs Vanthoor For Hypercar Programme",
-          "source": "dailysportscar.com",
-          "url": "https://www.dailysportscar.com/2026/05/08/mclaren-signs-vanthoor-for-hypercar-programme.html",
-          "publishedAt": "2026-05-08T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "The McLaren MCL-HY: McLaren’s 2027 FIA World Endurance Championship Hypercar and ultra-exclusive track car revealed",
-          "source": "McLaren",
-          "url": "https://www.mclaren.com/racing/2026/endurance/2027-fia-world-endurance-championship-hypercar-and-track-car-revealed/",
-          "publishedAt": "2026-05-08T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "The real successor to the McLaren F1 GTR is finally here",
-          "source": "MSN",
-          "url": "https://www.msn.com/en-us/autos/enthusiasts/the-real-successor-to-the-mclaren-f1-gtr-is-finally-here/ar-AA22tMC0",
-          "publishedAt": "2026-05-08T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "wec",
-        "source": "dailysportscar.com",
-        "url": "https://www.dailysportscar.com/2026/05/08/mclaren-signs-vanthoor-for-hypercar-programme.html",
-        "publishedAt": "2026-05-08T09:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-08T09:10:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "wec",
-      "source": "dailysportscar.com",
-      "url": "https://www.dailysportscar.com/2026/05/08/mclaren-signs-vanthoor-for-hypercar-programme.html",
-      "rank": 5
-    },
-    {
-      "id": "e5696eaa64a691bb",
-      "issueKey": "최강욱",
-      "issueTitle": "최강욱",
-      "trendTitle": "최강욱",
+      "id": "d8270e2b29ec7acf",
+      "issueKey": "보스턴다이내믹스",
+      "issueTitle": "보스턴다이내믹스",
+      "trendTitle": "보스턴다이내믹스",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "박상용, '울산지검 술판 의혹' 최강욱·강성범 상대 승소",
+          "title": "\"로봇 완성도 높아졌네\" 관련株 일제히 급등세",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260508171651259",
-          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "url": "https://v.daum.net/v/20260508175710566",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“박상용 검사 ‘음주 추태 의혹’ 제기 강미정·최강욱·강성범, 2천만원 배상하라”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1257806.html",
-          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "title": "[주도 섹터] 현대차그룹 로봇 랠리+ K-뷰티 호실적… 순환매 장세 지속 (2026.05.08)",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/moneykhan/moneykhan1/contents/260508211905815cy",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "박상용, '술판 의혹' 손배소 일부 승소…'최초 제기' 이성윤엔 패소",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003621948",
-          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "title": "기계체조하는 아틀라스 첫 공개...\"사람보다 유연해\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260506102648",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "박상용, '울산지검 술판 의혹' 최강욱·강성범 상대 승소",
+        "title": "보스턴다이내믹스",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260508171651259",
-        "publishedAt": "2026-05-08T09:00:00.000Z",
+        "url": "https://v.daum.net/v/20260508175710566",
+        "publishedAt": "2026-05-08T12:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-08T09:00:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "최강욱",
+      "publishedAt": "2026-05-08T12:40:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "보스턴다이내믹스",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260508171651259",
-      "rank": 6
+      "url": "https://v.daum.net/v/20260508175710566",
+      "rank": 1
     },
     {
-      "id": "6ad700c583e3fc17",
-      "issueKey": "금타는 금요일",
-      "issueTitle": "금타는 금요일",
-      "trendTitle": "금타는 금요일",
+      "id": "3725567246990eb8",
+      "issueKey": "결정",
+      "issueTitle": "결정",
+      "trendTitle": "결정",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[TV조선] 부모님께 바치는 노래",
+          "title": "광주 여고생 살해범 ‘신상공개’ 결정···피의자는 ‘동의 안 해’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605081615001",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘광주 여고생 살인 사건’…여고생 구하려다 부상당한 17세 남학생 ‘의상자’ 추진",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260508004153991",
-          "publishedAt": "2026-05-08T09:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "남승민, 암투병 母 앞에서 끝내 오열…\"집 사드리고 싶었는데\" (금타는금요일)",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/05/08/GU3DQMTFMI3TIMRYGQZWGZRYHE/",
-          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "url": "https://v.daum.net/v/20260508220252600",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'금타는 금요일' 정서주, 양지은 무대에 \"무릎이라도 꿇어야 하나\" 긴장",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/504006",
-          "publishedAt": "2026-05-08T09:00:00.000Z",
+          "title": "‘여고생 흉기 살해’ 피의자 신상 정보, 14일에 공개",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8556451",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'금타는 금요일' 정서주, 양지은 무대에 \"무릎이라도 꿇어야 하나\" 긴장",
-        "source": "iMBC 연예",
-        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/504006",
-        "publishedAt": "2026-05-08T09:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-08T09:00:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "금타는 금요일",
-      "source": "iMBC 연예",
-      "url": "https://enews.imbc.com/News/RetrieveNewsInfo/504006",
-      "rank": 7
-    },
-    {
-      "id": "e16d4743e03e607d",
-      "issueKey": "아이폰",
-      "issueTitle": "아이폰",
-      "trendTitle": "아이폰",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "삼성D·LGD, 아이폰18 프리미엄 모델 OLED 독식",
-          "source": "디일렉",
-          "url": "https://www.thelec.kr/news/articleView.html?idxno=56089",
-          "publishedAt": "2026-05-08T08:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"아이폰18 프로, ‘내구성 논란’ 알루미늄 마감 유지\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260507075254",
-          "publishedAt": "2026-05-08T08:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"아이폰 18 일반형 왜 늦어지나?\"…애플의 노림수",
-          "source": "디지털데일리",
-          "url": "https://m.ddaily.co.kr/page/view/2026050711431809202",
-          "publishedAt": "2026-05-08T08:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성D·LGD, 아이폰18 프리미엄 모델 OLED 독식",
-        "source": "디일렉",
-        "url": "https://www.thelec.kr/news/articleView.html?idxno=56089",
-        "publishedAt": "2026-05-08T08:50:00.000Z",
+        "title": "광주 여고생 살해범 ‘신상공개’ 결정···피의자는 ‘동의 안 해’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605081615001",
+        "publishedAt": "2026-05-08T12:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-08T08:50:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "아이폰",
-      "source": "디일렉",
-      "url": "https://www.thelec.kr/news/articleView.html?idxno=56089",
-      "rank": 8
+      "publishedAt": "2026-05-08T12:40:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "결정",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202605081615001",
+      "rank": 2
     },
     {
-      "id": "e9591129b5d75e90",
-      "issueKey": "신동엽",
-      "issueTitle": "신동엽",
-      "trendTitle": "신동엽",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "266f8b700dfcbdc1",
+      "issueKey": "최고치 코스피",
+      "issueTitle": "최고치 코스피",
+      "trendTitle": "최고치 코스피",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[Opinion] 방구석 평론가의 2026 백상예술대상 수상 예측 [문화 전반]",
-          "source": "아트인사이트",
-          "url": "https://www.artinsight.co.kr/news/view.php?no=80791",
-          "publishedAt": "2026-05-08T08:50:00.000Z",
+          "title": "\"코스피 9000 간다\"…골드만삭스, 20일 만에 또 깜짝 전망",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202605084686i",
+          "publishedAt": "2026-05-08T12:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이준호, 눈을 뗄 수 없는 훈훈한 매력 [포토엔HD]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260508n28821",
-          "publishedAt": "2026-05-08T08:50:00.000Z",
+          "title": "\"AI·반도체 훈풍 타고 9000 간다\"…연일 최고치 코스피, 골드만삭스 목표치 대폭 상향",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260508580308",
+          "publishedAt": "2026-05-08T12:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "백상예술대상 오늘(8일) 개최…신동엽·수지·박보검 8번째 공동 진행",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202605080944103487",
-          "publishedAt": "2026-05-08T08:50:00.000Z",
+          "title": "골드만삭스 ‘팔천피’ 이어 ‘구천피’…코스피 목표치 상향에 숨가쁜 금융사들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508203617024",
+          "publishedAt": "2026-05-08T12:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "백상예술대상 오늘(8일) 개최…신동엽·수지·박보검 8번째 공동 진행",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0117_202605080944103487",
-        "publishedAt": "2026-05-08T08:50:00.000Z",
-        "relevanceScore": 1
+        "title": "\"AI·반도체 훈풍 타고 9000 간다\"…연일 최고치 코스피, 골드만삭스 목표치 대폭 상향",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260508580308",
+        "publishedAt": "2026-05-08T12:30:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-08T08:50:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "신동엽",
-      "source": "YTN",
-      "url": "https://www.ytn.co.kr/_ln/0117_202605080944103487",
-      "rank": 9
+      "publishedAt": "2026-05-08T12:30:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "최고치 코스피",
+      "source": "경기일보",
+      "url": "https://www.kyeonggi.com/article/20260508580308",
+      "rank": 3
     },
     {
-      "id": "18f59604fdef72da",
-      "issueKey": "박병호",
-      "issueTitle": "박병호",
-      "trendTitle": "박병호",
+      "id": "f189611bca7a3025",
+      "issueKey": "삼전",
+      "issueTitle": "삼전",
+      "trendTitle": "삼전",
       "approxTraffic": "10000+",
       "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“시즌 다시 시작하고 싶다”는 KIA 김도영… 당겨치기가 너무 많다? 쓸데없는 걱정이다",
+          "title": "하이닉스 2배, 세계 최대 단일종목 레버리지 됐다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/VVTSjw3G7z?f=p",
-          "publishedAt": "2026-05-08T08:40:00.000Z",
+          "url": "https://v.daum.net/v/20260508170738932",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "관중 11만 명…11년 만에 어린이날 전경기 매진",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008547604",
-          "publishedAt": "2026-05-08T08:40:00.000Z",
+          "title": "삼전닉스 폭등 뒤에 '이것' 있었다…240조 '뭉칫돈' 몰린 곳 [분석+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026050830656",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "2015년 박병호·2025년 디아즈보다 빠르다…김도영, 홈런레이스서 먼저 치고 나갔다 [SD 베이스볼 브레이크]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260506n18209",
-          "publishedAt": "2026-05-08T08:40:00.000Z",
+          "title": "삼전·하닉 레버리지 ETF, 이달 말로 상장 늦춘다",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413837",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "2015년 박병호·2025년 디아즈보다 빠르다…김도영, 홈런레이스서 먼저 치고 나갔다 [SD 베이스볼 브레이크]",
-        "source": "네이트",
-        "url": "https://m.news.nate.com/view/20260506n18209",
-        "publishedAt": "2026-05-08T08:40:00.000Z",
-        "relevanceScore": 1
+        "title": "삼전닉스 폭등 뒤에 '이것' 있었다…240조 '뭉칫돈' 몰린 곳 [분석+]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026050830656",
+        "publishedAt": "2026-05-08T12:20:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-08T08:40:00.000Z",
-      "firstSeenAt": "2026-05-08T10:25:12.545Z",
-      "lastSeenAt": "2026-05-08T10:25:12.545Z",
-      "title": "박병호",
-      "source": "네이트",
-      "url": "https://m.news.nate.com/view/20260506n18209",
+      "publishedAt": "2026-05-08T12:20:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "삼전",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026050830656",
+      "rank": 4
+    },
+    {
+      "id": "917c04528e5b09e6",
+      "issueKey": "유승목",
+      "issueTitle": "유승목",
+      "trendTitle": "유승목",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "백상예술대상 참석한 유승목",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260508_0021276926",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "유승목, 남자 조연상 주인공…\"시상식 후보 처음\" 울컥 [62회 백상]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6161176",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"낙수야, 이게 웬일이니\"…유승목, 데뷔 36년 만에 첫 후보→수상[백상예술대상]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n32508",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "백상예술대상 참석한 유승목",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260508_0021276926",
+        "publishedAt": "2026-05-08T12:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T12:20:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "유승목",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260508_0021276926",
+      "rank": 5
+    },
+    {
+      "id": "9b4e8e1f07a8ffde",
+      "issueKey": "차준환",
+      "issueTitle": "차준환",
+      "trendTitle": "차준환",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이영지, 차준환 플러팅에 심쿵 \"내 이상형은 일 열심히 하는 피겨 스케이팅 선수\" ('차쥐뿔') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/08/HA4TIY3DMUZDKMRTHEZDIZBXMI/",
+          "publishedAt": "2026-05-08T12:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "차준환, 이영지 플러팅 의혹에 선 긋기?…\"제 주변에 INFP 많아요\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n33430?mid=e1200",
+          "publishedAt": "2026-05-08T12:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이영지, 차준환 플러팅에 심쿵 \"내 이상형은 일 열심히 하는 피겨 스케이팅 선수\" ('차쥐뿔')",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n32069",
+          "publishedAt": "2026-05-08T12:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이영지, 차준환 플러팅에 심쿵 \"내 이상형은 일 열심히 하는 피겨 스케이팅 선수\" ('차쥐뿔') - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/08/HA4TIY3DMUZDKMRTHEZDIZBXMI/",
+        "publishedAt": "2026-05-08T12:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T12:10:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "차준환",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/08/HA4TIY3DMUZDKMRTHEZDIZBXMI/",
+      "rank": 6
+    },
+    {
+      "id": "786654ea0521c8b5",
+      "issueKey": "장동혁",
+      "issueTitle": "장동혁",
+      "trendTitle": "장동혁",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "어르신과 인사하는 장동혁 대표",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260508_0021276395",
+          "publishedAt": "2026-05-08T12:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "장동혁 어버이날 큰절 “국민의힘부터 잘 챙기겠다” [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8556438",
+          "publishedAt": "2026-05-08T12:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[포토] 배식봉사 패션",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n14957",
+          "publishedAt": "2026-05-08T12:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "어르신과 인사하는 장동혁 대표",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260508_0021276395",
+        "publishedAt": "2026-05-08T12:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T12:00:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "장동혁",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260508_0021276395",
+      "rank": 7
+    },
+    {
+      "id": "eab8af5e1bbe5d47",
+      "issueKey": "쑨잉사",
+      "issueTitle": "쑨잉사",
+      "trendTitle": "쑨잉사",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'세계선수권 8강' 한국 여자탁구, 아쉬움 속 발견한 '희망'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260508_0003622380",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'세계 30위' 韓 오준성, 너무 잘 싸웠다…1위 中 왕추친에 2-3 석패→'중국 에이스' 벼랑 끝으로 몰았다 [세계탁구선수권]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508213107066",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한국 여자탁구, 단체전 세계선수권서 중국에 완패해 8강 탈락",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260507188300007",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "쑨잉사",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260508_0003622380",
+        "publishedAt": "2026-05-08T11:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T11:50:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "쑨잉사",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260508_0003622380",
+      "rank": 8
+    },
+    {
+      "id": "2a5558330abfb02c",
+      "issueKey": "김신록",
+      "issueTitle": "김신록",
+      "trendTitle": "김신록",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김신록, 블링블링",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/7896785",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[62회 백상예술대상] '연기상' 김신록, 눈물⋯\"母 낳아준 덕분에 재미보고 산다\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n31980",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[포토S] 김신록, '믿고 보는 배우'",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=815518",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김신록, 블링블링",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/photos/7896785",
+        "publishedAt": "2026-05-08T11:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T11:50:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "김신록",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/photos/7896785",
+      "rank": 9
+    },
+    {
+      "id": "16ab0c61b364589c",
+      "issueKey": "남규리",
+      "issueTitle": "남규리",
+      "trendTitle": "남규리",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "쉽게 사라지지 않았다…고소영·남규리·홍진희, 멍들게 한 헛소문의 실체",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260429517772",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“계절마다 통장 바꿔” 안지영, 저작권료 ‘벚꽃엔딩’급..연금송 보유자였다 (‘라스’)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/08/GQ2TEZRQMEZDQY3DHA4GKYTDGA/",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "불빨간 안지영 \"스트리밍 1억회 9곡\" 남규리 \"컨설팅 부탁\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260506_0003618511",
+          "publishedAt": "2026-05-08T11:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "쉽게 사라지지 않았다…고소영·남규리·홍진희, 멍들게 한 헛소문의 실체",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260429517772",
+        "publishedAt": "2026-05-08T11:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T11:50:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "남규리",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20260429517772",
       "rank": 10
     }
   ],
   "history": [
+    {
+      "id": "f189611bca7a3025",
+      "issueKey": "삼전",
+      "issueTitle": "삼전",
+      "trendTitle": "삼전",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "하이닉스 2배, 세계 최대 단일종목 레버리지 됐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508170738932",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼전닉스 폭등 뒤에 '이것' 있었다…240조 '뭉칫돈' 몰린 곳 [분석+]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026050830656",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "삼전·하닉 레버리지 ETF, 이달 말로 상장 늦춘다",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413837",
+          "publishedAt": "2026-05-08T12:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "삼전닉스 폭등 뒤에 '이것' 있었다…240조 '뭉칫돈' 몰린 곳 [분석+]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026050830656",
+        "publishedAt": "2026-05-08T12:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-08T12:20:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "삼전",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026050830656"
+    },
     {
       "id": "18f59604fdef72da",
       "issueKey": "박병호",
@@ -715,50 +761,96 @@
       "url": "https://www.yna.co.kr/view/AKR20260506120000007"
     },
     {
-      "id": "e72037deae93fe62",
-      "issueKey": "선정",
-      "issueTitle": "선정",
-      "trendTitle": "선정",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "d8270e2b29ec7acf",
+      "issueKey": "보스턴다이내믹스",
+      "issueTitle": "보스턴다이내믹스",
+      "trendTitle": "보스턴다이내믹스",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "미국 '폭스뉴스'가 윤석열 '3대 말썽꾼' 선정? 거짓 [오마이팩트]",
+          "title": "\"로봇 완성도 높아졌네\" 관련株 일제히 급등세",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260506184813519",
-          "publishedAt": "2026-05-06T09:50:00.000Z",
+          "url": "https://v.daum.net/v/20260508175710566",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"美·이란, 1쪽짜리 종전 합의안 근접\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/05/06/XTWUNM2NKNCKNBUUUCJAXPKP6A/",
-          "publishedAt": "2026-05-06T09:50:00.000Z",
+          "title": "[주도 섹터] 현대차그룹 로봇 랠리+ K-뷰티 호실적… 순환매 장세 지속 (2026.05.08)",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/moneykhan/moneykhan1/contents/260508211905815cy",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[속보] 미국과 이란, 전쟁 종식을 위한 1페이지 분량 메모 합의 임박〈악시오스〉",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6820415_36925.html",
-          "publishedAt": "2026-05-06T09:50:00.000Z",
+          "title": "기계체조하는 아틀라스 첫 공개...\"사람보다 유연해\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260506102648",
+          "publishedAt": "2026-05-08T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "미국 '폭스뉴스'가 윤석열 '3대 말썽꾼' 선정? 거짓 [오마이팩트]",
+        "title": "보스턴다이내믹스",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260506184813519",
-        "publishedAt": "2026-05-06T09:50:00.000Z",
+        "url": "https://v.daum.net/v/20260508175710566",
+        "publishedAt": "2026-05-08T12:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-06T09:50:00.000Z",
-      "firstSeenAt": "2026-05-06T11:08:00.938Z",
-      "lastSeenAt": "2026-05-06T11:08:00.938Z",
-      "title": "선정",
+      "publishedAt": "2026-05-08T12:40:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "보스턴다이내믹스",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260506184813519"
+      "url": "https://v.daum.net/v/20260508175710566"
+    },
+    {
+      "id": "786654ea0521c8b5",
+      "issueKey": "장동혁",
+      "issueTitle": "장동혁",
+      "trendTitle": "장동혁",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "어르신과 인사하는 장동혁 대표",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260508_0021276395",
+          "publishedAt": "2026-05-08T12:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "장동혁 어버이날 큰절 “국민의힘부터 잘 챙기겠다” [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8556438",
+          "publishedAt": "2026-05-08T12:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[포토] 배식봉사 패션",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260508n14957",
+          "publishedAt": "2026-05-08T12:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "어르신과 인사하는 장동혁 대표",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260508_0021276395",
+        "publishedAt": "2026-05-08T12:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-08T12:00:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "장동혁",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260508_0021276395"
     },
     {
       "id": "e5696eaa64a691bb",
@@ -1403,52 +1495,6 @@
       "title": "최준희",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260506_0003618257"
-    },
-    {
-      "id": "fee820f56f9bcb2f",
-      "issueKey": "대한 광통신",
-      "issueTitle": "대한 광통신",
-      "trendTitle": "대한 광통신",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "대한광통신, 美 인캡아메리카 인수 완료…지분 90% 확보",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260506_0003617990",
-          "publishedAt": "2026-05-06T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대한광통신, 美인캡아메리카 인수 마무리…\"AI 데이터센터發 전력·광통신 시장 진출 가속\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026050609191566696",
-          "publishedAt": "2026-05-06T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "대한광통신, 美 인캡아메리카 인수 완료",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260506000440",
-          "publishedAt": "2026-05-06T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대한 광통신",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260506_0003617990",
-        "publishedAt": "2026-05-06T09:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-06T09:20:00.000Z",
-      "firstSeenAt": "2026-05-06T11:08:00.938Z",
-      "lastSeenAt": "2026-05-06T11:08:00.938Z",
-      "title": "대한 광통신",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260506_0003617990"
     },
     {
       "id": "f23fb9adb297f9b6",
@@ -2201,96 +2247,50 @@
       "url": "https://v.daum.net/v/20260505214216582"
     },
     {
-      "id": "ae3f4009a008879f",
-      "issueKey": "에디 레펀스",
-      "issueTitle": "에디 레펀스",
-      "trendTitle": "에디 레펀스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "266f8b700dfcbdc1",
+      "issueKey": "최고치 코스피",
+      "issueTitle": "최고치 코스피",
+      "trendTitle": "최고치 코스피",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'프로당구 지각 변동 일어나나' SK렌터카 해체, 강동궁-레펀스 드래프트 나온다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260506183001040",
-          "publishedAt": "2026-05-06T09:40:00.000Z",
+          "title": "\"코스피 9000 간다\"…골드만삭스, 20일 만에 또 깜짝 전망",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202605084686i",
+          "publishedAt": "2026-05-08T12:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“내부 사정으로” 26/27시즌 프로당구 PBA 팀리그 드래프트 돌연 연기",
-          "source": "mkbn.mk.co.kr",
-          "url": "https://mkbn.mk.co.kr/news/sports/12037246",
-          "publishedAt": "2026-05-06T09:40:00.000Z",
+          "title": "\"AI·반도체 훈풍 타고 9000 간다\"…연일 최고치 코스피, 골드만삭스 목표치 대폭 상향",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260508580308",
+          "publishedAt": "2026-05-08T12:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "강동궁·에디 레펀스·강지은 등 PBA 팀리그 드래프트 나온다",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260506n33708",
-          "publishedAt": "2026-05-06T09:40:00.000Z",
+          "title": "골드만삭스 ‘팔천피’ 이어 ‘구천피’…코스피 목표치 상향에 숨가쁜 금융사들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260508203617024",
+          "publishedAt": "2026-05-08T12:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "강동궁·에디 레펀스·강지은 등 PBA 팀리그 드래프트 나온다",
-        "source": "네이트 스포츠",
-        "url": "https://sports.news.nate.com/view/20260506n33708",
-        "publishedAt": "2026-05-06T09:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-06T09:40:00.000Z",
-      "firstSeenAt": "2026-05-06T11:08:00.938Z",
-      "lastSeenAt": "2026-05-06T11:08:00.938Z",
-      "title": "에디 레펀스",
-      "source": "네이트 스포츠",
-      "url": "https://sports.news.nate.com/view/20260506n33708"
-    },
-    {
-      "id": "689b86274f229e30",
-      "issueKey": "성남시",
-      "issueTitle": "성남시",
-      "trendTitle": "성남시",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "도시철도, 중앙버스차로, 도로 신설..김병욱의 '성남 교통혁신'",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06632166645446296",
-          "publishedAt": "2026-05-06T09:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[6·3 지방선거 이모저모] 김병욱 민주당 성남시장 후보, 성남대로 전 구간 중앙버스차로제 확대 약속",
-          "source": "중부일보",
-          "url": "https://www.joongboo.com/news/articleView.html?idxno=363724720",
-          "publishedAt": "2026-05-06T09:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김병욱 \"성남대로 전 구간 버스전용차로 확대, 대중교통 중심 도시 만들겠다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260506114808850",
-          "publishedAt": "2026-05-06T09:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[6·3 지방선거 이모저모] 김병욱 민주당 성남시장 후보, 성남대로 전 구간 중앙버스차로제 확대 약속",
-        "source": "중부일보",
-        "url": "https://www.joongboo.com/news/articleView.html?idxno=363724720",
-        "publishedAt": "2026-05-06T09:30:00.000Z",
+        "title": "\"AI·반도체 훈풍 타고 9000 간다\"…연일 최고치 코스피, 골드만삭스 목표치 대폭 상향",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20260508580308",
+        "publishedAt": "2026-05-08T12:30:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-05-06T09:30:00.000Z",
-      "firstSeenAt": "2026-05-06T11:08:00.938Z",
-      "lastSeenAt": "2026-05-06T11:08:00.938Z",
-      "title": "성남시",
-      "source": "중부일보",
-      "url": "https://www.joongboo.com/news/articleView.html?idxno=363724720"
+      "publishedAt": "2026-05-08T12:30:00.000Z",
+      "firstSeenAt": "2026-05-08T13:49:42.486Z",
+      "lastSeenAt": "2026-05-08T13:49:42.486Z",
+      "title": "최고치 코스피",
+      "source": "경기일보",
+      "url": "https://www.kyeonggi.com/article/20260508580308"
     },
     {
       "id": "56709c2426e65282",
