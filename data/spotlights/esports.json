@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-05-09T07:57:39.684Z",
+  "lastUpdatedAt": "2026-05-09T10:05:20.834Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -14,52 +14,6 @@
   "primaryBlockName": "Week 6",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115548128962971931",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 6",
-      "startTime": "2026-05-09T08:00:00.000Z",
-      "state": "inprogress",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "kt Rolster",
-          "code": "KT",
-          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
-        },
-        {
-          "name": "BNK FEARX",
-          "code": "BFX",
-          "imageUrl": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
-    {
-      "id": "115548128963037515",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 6",
-      "startTime": "2026-05-09T10:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "NONGSHIM RED FORCE",
-          "code": "NS",
-          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
-        },
-        {
-          "name": "HANJIN BRION",
-          "code": "BRO",
-          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128962971899",
       "leagueKey": "lck",
@@ -289,6 +243,52 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962971871",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 7",
+      "startTime": "2026-05-17T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+        },
+        {
+          "name": "kt Rolster",
+          "code": "KT",
+          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128963037519",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 7",
+      "startTime": "2026-05-17T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "KIWOOM DRX",
+          "code": "DRX",
+          "imageUrl": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+        },
+        {
+          "name": "HANJIN BRION",
+          "code": "BRO",
+          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     }
   ],
   "fetchedLeagues": [
@@ -296,7 +296,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 34
+      "matchCount": 32
     },
     {
       "key": "ewc",
