@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-10T08:08:42.357Z",
+  "lastUpdatedAt": "2026-05-10T10:15:44.669Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "dd41f7b7d700294c",
-      "issueKey": "영국",
-      "issueTitle": "영국",
-      "trendTitle": "영국",
+      "id": "c923ac0619b16007",
+      "issueKey": "찰리 반즈",
+      "issueTitle": "찰리 반즈",
+      "trendTitle": "찰리 반즈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "롯데 출신 반즈, 김혜성과 한솥밥…MLB 다저스와 계약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260510_0003623176",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "혹시 KBO 컴백하나 했는데…다저스 깜짝 영입, 롯데 12승→11승→9승 에이스 방출 시련 끝났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510071715722?f=p",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "마이너 머물던 롯데 35승 투수, 김혜성과 한솥밥 먹는다…다저스 이적, 에드먼 15일→60일 IL 이동",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/05/10/GZQWMYRXGI4DSYZWMVTGKOBRGM/",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "찰리 반즈",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260510_0003623176",
+        "publishedAt": "2026-05-10T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T09:10:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "찰리 반즈",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260510_0003623176",
+      "rank": 1
+    },
+    {
+      "id": "4531456ea7d41f04",
+      "issueKey": "채원빈",
+      "issueTitle": "채원빈",
+      "trendTitle": "채원빈",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김민석·채원빈, ‘런닝맨’ 계략에 당했다..“무서운 세상이다” 손 덜덜",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/10/MU4GCMJVMI4TEM3EMQ4TQMTEG4/",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "유재석 녹화 중 폭발..유희관과 일촉즉발, 몸싸움 직전까지 간 사연 ('런닝맨')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260509211205009",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'런닝맨' 김민석, '바타와 열애' 지예은에게 서운…\"제가 이상형이라더니\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6161985",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김민석·채원빈, ‘런닝맨’ 계략에 당했다..“무서운 세상이다” 손 덜덜",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/10/MU4GCMJVMI4TEM3EMQ4TQMTEG4/",
+        "publishedAt": "2026-05-10T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T09:10:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "채원빈",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/10/MU4GCMJVMI4TEM3EMQ4TQMTEG4/",
+      "rank": 2
+    },
+    {
+      "id": "21c66a720199373a",
+      "issueKey": "이이경",
+      "issueTitle": "이이경",
+      "trendTitle": "이이경",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이이경, '독일女 사생활 논란' 6개월만 SNS 재개..송해나와 마라톤 근황",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510165307673",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이이경, 사생활 논란 6개월 만에 근황 공개…\"생애 첫 마라톤\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260510_0003623359",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "사생환 논란 6개월 만…이이경, 마라톤 완주로 SNS 재개",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12042525",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이이경, '독일女 사생활 논란' 6개월만 SNS 재개..송해나와 마라톤 근황",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260510165307673",
+        "publishedAt": "2026-05-10T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T09:10:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "이이경",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260510165307673",
+      "rank": 3
+    },
+    {
+      "id": "06449fc3c06ef9d5",
+      "issueKey": "캐리어 전도",
+      "issueTitle": "캐리어 전도",
+      "trendTitle": "캐리어 전도",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "정읍 호남고속도로서 카 캐리어 전도, 60대 운전자 경상(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260510_0003623382",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "호남고속도로 천안방향 일부 통제 중...교통사고 발생",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3577859",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "호남고속도로에서 차량 탁송용 화물차 넘어져 교통 정체",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8557084",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "정읍 호남고속도로서 카 캐리어 전도, 60대 운전자 경상(종합)",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260510_0003623382",
+        "publishedAt": "2026-05-10T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T09:10:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "캐리어 전도",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260510_0003623382",
+      "rank": 4
+    },
+    {
+      "id": "01f4815d4efe06d9",
+      "issueKey": "속보 빌라 실외기설치 40대 9m추락 주차차량 위로 쿵",
+      "issueTitle": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+      "trendTitle": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "英 양당체제 사실상 붕괴…노동당 지방선거 참패 [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8556830",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
+          "title": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11587929",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "영국 극우, 지방의회 30% 석권…노동당은 1400석 잃어 참패",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/europe/1257954.html",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
+          "title": "작업 도중 실수로…에어컨 설치작업 40대 추락 '중상'",
+          "source": "전북노컷",
+          "url": "https://jb.nocutnews.co.kr/news/6514709",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "영국서 한국계 구의원 5명 탄생…한류 타고 역대 최다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xA1AM6MVXK?f=p",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "영국 극우, 지방의회 30% 석권…노동당은 1400석 잃어 참패",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/international/europe/1257954.html",
-        "publishedAt": "2026-05-10T07:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-10T07:00:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "영국",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/international/europe/1257954.html",
-      "rank": 1
-    },
-    {
-      "id": "b44b79244b416765",
-      "issueKey": "류지혁",
-      "issueTitle": "류지혁",
-      "trendTitle": "류지혁",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[사진]류지혁 '만루 홈런'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/05/10/MU4WGMBYHA4DCMBVGI4GMMDFME/",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]류지혁 'NC 추격 의지를 꺾는 만루포'",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112798636",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "홈런 구자욱 \"오늘도 승리\" : 네이트 스포츠",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260510n08876?issue_sq=8588",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[사진]류지혁 '만루 홈런'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/05/10/MU4WGMBYHA4DCMBVGI4GMMDFME/",
-        "publishedAt": "2026-05-10T07:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T07:00:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "류지혁",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/05/10/MU4WGMBYHA4DCMBVGI4GMMDFME/",
-      "rank": 2
-    },
-    {
-      "id": "ac436a3cfd671495",
-      "issueKey": "전북",
-      "issueTitle": "전북",
-      "trendTitle": "전북",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'닥공' 살아난 K리그1 전북, 주말 안양 상대로 4연승 도전",
+          "title": "에어컨 실외기 설치하던 40대, 빌라 3층서 추락 중상",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003622275",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전북전 '4연패' 징크스 극복 나서는 안양 유병훈 감독 \"졌잘싸에서 끝나지 않고 방법 가리지 않고 승리\"[현장인터뷰]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260510n10672?mid=n0100",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'아일톤-김운-최건주' 안양 VS '모따 원톱' 전북, 맞대결 명단발표[오!쎈현장]",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112798637",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260510_0003623311",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'닥공' 살아난 K리그1 전북, 주말 안양 상대로 4연승 도전",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260508_0003622275",
-        "publishedAt": "2026-05-10T06:50:00.000Z",
+        "title": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11587929",
+        "publishedAt": "2026-05-10T08:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-10T06:50:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "전북",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260508_0003622275",
-      "rank": 3
+      "publishedAt": "2026-05-10T08:50:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11587929",
+      "rank": 5
     },
     {
       "id": "3ca1f4cbf299caa8",
       "issueKey": "이란",
       "issueTitle": "이란",
       "trendTitle": "이란",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "카타르 LNG선 첫 호르무즈 통과...카타르 \"모든 당사국 중재 동참\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202605101555556213",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
+          "title": "이란축구협회 \"월드컵 참가…혁명수비대 출신도 비자 발급돼야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510100754768",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "파키스탄행 선박 호르무즈 접근‥\"이란, 신뢰 구축 위해 통항 승인\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6821251_36925.html",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
+          "title": "이란 “혁명수비대 출신 입국도 보장하라”…미 “혁명수비대는 테러단체”…월드컵 참가 다시 변수",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605100540001",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "카타르 LNG 수출 재개되나…파키스탄행 선박 호르무즈 항로 접근",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260510013800009",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
+          "title": "\"혁명수비대 출신도 비자 발급하라\" 이란, 북중미 월드컵 참가 공식 조건 제시",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6514668",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "파키스탄행 선박 호르무즈 접근‥\"이란, 신뢰 구축 위해 통항 승인\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6821251_36925.html",
-        "publishedAt": "2026-05-10T06:50:00.000Z",
-        "relevanceScore": 2
+        "title": "이란축구협회 \"월드컵 참가…혁명수비대 출신도 비자 발급돼야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260510100754768",
+        "publishedAt": "2026-05-10T08:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-10T06:50:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
+      "publishedAt": "2026-05-10T08:50:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
       "title": "이란",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6821251_36925.html",
-      "rank": 4
-    },
-    {
-      "id": "e7c03818aa08bfc6",
-      "issueKey": "허인서",
-      "issueTitle": "허인서",
-      "trendTitle": "허인서",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'홈런 2방·14안타 폭발' 한화, LG에 11-3 대승…연장 패배 설욕",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260509_0003622853",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'페라자에 피홈런→3⅔이닝 4실점' 13승 외인 아쉬운 복귀전, 염경엽 감독은 어떻게 봤나 [오!쎈 대전]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260510132717593",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "타점&득점의 주인공 김태연",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/7897844",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "허인서",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260509_0003622853",
-        "publishedAt": "2026-05-10T06:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T06:50:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "허인서",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260509_0003622853",
-      "rank": 5
-    },
-    {
-      "id": "bc72cbaec4e642e0",
-      "issueKey": "신지",
-      "issueTitle": "신지",
-      "trendTitle": "신지",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“내 여동생이면 절대 안 시켜”…신지 결혼에 작심 조언한 변호사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260510/133891929/1",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"내 여동생이면 절대 결혼 안 시켜\" 변호사, 신지·문원 부부에 직언 '파장' [ST이슈]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260510n06122",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“부부재산 약정 써라”…신지 결혼에 직언한 법조인, 왜?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260510110106629",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“내 여동생이면 절대 안 시켜”…신지 결혼에 작심 조언한 변호사",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20260510/133891929/1",
-        "publishedAt": "2026-05-10T06:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T06:40:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "신지",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Culture/article/all/20260510/133891929/1",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260510100754768",
       "rank": 6
     },
     {
-      "id": "362d693d2a768dda",
-      "issueKey": "카스피해",
-      "issueTitle": "카스피해",
-      "trendTitle": "카스피해",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "48d003e07a2183c4",
+      "issueKey": "기온",
+      "issueTitle": "기온",
+      "trendTitle": "기온",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "호르무즈 '역봉쇄'로 틀어막았는데…미국도 몰랐던 이란의 '비밀 통로'",
+          "title": "[날씨] 전국 낮 동안 덥고 맑아…내일 오후부터 전국 비 소식",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260510143008134",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "url": "https://v.daum.net/v/20260510072103749",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "카스피 해안 걷는 이란인",
+          "title": "낮 최고 27도 '포근'…20도 안팎 큰 일교차 주의[오늘날씨]",
           "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260510_0002131249&amp;pID=1&amp;cID=&amp;sID=1&amp;type=Main&amp;idx=5",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260509_0003622950",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "베일 속 카스피해…호르무즈 막힌 이란-러시아 '조용한 뒷거래'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260509047300009",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "title": "일요일, 미세먼지도 없고 화창해요···나들이나 산책하기 딱 좋은 날",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605092119001",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "베일 속 카스피해…호르무즈 막힌 이란-러시아 '조용한 뒷거래'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260509047300009",
-        "publishedAt": "2026-05-10T06:40:00.000Z",
-        "relevanceScore": 1
+        "title": "기온",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260510072103749",
+        "publishedAt": "2026-05-10T08:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-10T06:40:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "카스피해",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260509047300009",
+      "publishedAt": "2026-05-10T08:40:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "기온",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260510072103749",
       "rank": 7
     },
     {
-      "id": "4888fe48037ca2cc",
-      "issueKey": "구창모",
-      "issueTitle": "구창모",
-      "trendTitle": "구창모",
+      "id": "0cfda897a5e28130",
+      "issueKey": "씨맥",
+      "issueTitle": "씨맥",
+      "trendTitle": "씨맥",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[사진]류지혁 '6타점 경기 완성하는 2타점 적시타'",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260510n11563?issue_sq=10352",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "title": "‘비디디’ 곽보성은 왜 스스로 ‘꿀밤’ 때렸을까 [오!쎈 인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KJ5JptpXl6",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[사진]이우성 '2루타' : 네이트 스포츠",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260510n11363",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "title": "‘에이밍’ 김하람, “갑자기 생각난 세리머니, 씨맥 새빨간 얼굴 보고 싶어”",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112796676",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[사진] 이정현, 3점슛 성공인가?",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260510n11646?mid=n1101",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "title": "[포토] '커리어' 오형석의 1대1 상대는?",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260507n35066",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "구창모",
-        "source": "네이트",
-        "url": "https://m.news.nate.com/view/20260510n11563?issue_sq=10352",
-        "publishedAt": "2026-05-10T06:40:00.000Z",
-        "relevanceScore": 3
+        "title": "‘에이밍’ 김하람, “갑자기 생각난 세리머니, 씨맥 새빨간 얼굴 보고 싶어”",
+        "source": "OSEN",
+        "url": "http://www.osen.co.kr/article/G1112796676",
+        "publishedAt": "2026-05-10T08:40:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-10T06:40:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "구창모",
-      "source": "네이트",
-      "url": "https://m.news.nate.com/view/20260510n11563?issue_sq=10352",
+      "publishedAt": "2026-05-10T08:40:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "씨맥",
+      "source": "OSEN",
+      "url": "http://www.osen.co.kr/article/G1112796676",
       "rank": 8
     },
     {
-      "id": "1141b3ecd123c216",
-      "issueKey": "최정",
-      "issueTitle": "최정",
-      "trendTitle": "최정",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "37e6d397ef1f209a",
+      "issueKey": "뉴스 속보",
+      "issueTitle": "뉴스 속보",
+      "trendTitle": "뉴스 속보",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[포토] 질주하라 최정, 21시즌 두 자릿 수 홈런을 향해",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/05/10/2026051013500493590",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "title": "“김관영 복당? 누구 맘대로?”···민주당 조승래, ‘영구 불가’ 못 박고 ‘해당 행위’ 법적 대응까지 시사",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605101516001",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘KBO 역대 최초’ SSG 최정, 통산 1만타석 달성…중심타순에서 약 85% [SD 잠실 라이브]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260510/133892767/1",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "title": "민주당 '무소속 출마' 김관영에 \"영구복당 불허 대상\" 경고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510184005261",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[사진]오명진 태그에 아웃되는 최정",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/05/08/GU4WKYZZMM3TCODBMQYGEZBYG4/",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "title": "與 '공정선거조사특위' 설치…최고위 '후보 추천 무효' 권한 등 정청래에 위임도",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260510_0003623360",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[포토] 질주하라 최정, 21시즌 두 자릿 수 홈런을 향해",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/05/10/2026051013500493590",
-        "publishedAt": "2026-05-10T06:40:00.000Z",
+        "title": "뉴스 속보",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605101516001",
+        "publishedAt": "2026-05-10T08:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-10T06:40:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "최정",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/sports/2026/05/10/2026051013500493590",
+      "publishedAt": "2026-05-10T08:30:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "뉴스 속보",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202605101516001",
       "rank": 9
     },
     {
-      "id": "b4f3670df1bad23c",
-      "issueKey": "대우건설",
-      "issueTitle": "대우건설",
-      "trendTitle": "대우건설",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "f49d6a9b8f51f0e0",
+      "issueKey": "로저 페더러",
+      "issueTitle": "로저 페더러",
+      "trendTitle": "로저 페더러",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "대우건설, 임직원과 중랑천 일대 '생태 정원' 조성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508110156728",
-          "publishedAt": "2026-05-10T06:30:00.000Z",
+          "title": "오프너에게 서브 구사하는 신네르",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260510_0002131304",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "대우건설, 중랑천에 ‘대우건설 Nature’ 정원 조성 준공",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04431286645446952",
-          "publishedAt": "2026-05-10T06:30:00.000Z",
+          "title": "신네르, 홈에서 '골든 마스터스' 도전 시동…사발렌카는 충격 역전패",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260510n05632",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[오늘의 건설 브리핑] ESG·상생·인재·AI까지···건설업계 '현장형 미래 전략' 가속",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260508n26643",
-          "publishedAt": "2026-05-10T06:30:00.000Z",
+          "title": "[김경무의 오디세이] '13세 때 집 떠날 결심'… 야닉 시너 '오늘'을 만들다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qSp7cAZvHY",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "대우건설, 임직원과 중랑천 일대 '생태 정원' 조성",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260508110156728",
-        "publishedAt": "2026-05-10T06:30:00.000Z",
+        "title": "로저 페더러",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260510_0002131304",
+        "publishedAt": "2026-05-10T08:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-10T06:30:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "대우건설",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260508110156728",
+      "publishedAt": "2026-05-10T08:30:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "로저 페더러",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260510_0002131304",
       "rank": 10
     }
   ],
@@ -918,6 +918,52 @@
       "title": "장항준",
       "source": "조선일보",
       "url": "https://www.chosun.com/entertainments/broadcast/2026/05/08/GRRWINRTG5RTEMZQMZSGEYLGGM/"
+    },
+    {
+      "id": "01f4815d4efe06d9",
+      "issueKey": "속보 빌라 실외기설치 40대 9m추락 주차차량 위로 쿵",
+      "issueTitle": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+      "trendTitle": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11587929",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "작업 도중 실수로…에어컨 설치작업 40대 추락 '중상'",
+          "source": "전북노컷",
+          "url": "https://jb.nocutnews.co.kr/news/6514709",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "에어컨 실외기 설치하던 40대, 빌라 3층서 추락 중상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260510_0003623311",
+          "publishedAt": "2026-05-10T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11587929",
+        "publishedAt": "2026-05-10T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T08:50:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "[속보]빌라 실외기설치 40대 9m추락…주차차량 위로 ‘쿵’",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11587929"
     },
     {
       "id": "dd41f7b7d700294c",
@@ -1861,6 +1907,144 @@
       "url": "https://www.chosun.com/sports/baseball/2026/05/08/ZDUWLUUMCZB3VM3KOR6BQZKHCQ/"
     },
     {
+      "id": "c923ac0619b16007",
+      "issueKey": "찰리 반즈",
+      "issueTitle": "찰리 반즈",
+      "trendTitle": "찰리 반즈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "롯데 출신 반즈, 김혜성과 한솥밥…MLB 다저스와 계약",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260510_0003623176",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "혹시 KBO 컴백하나 했는데…다저스 깜짝 영입, 롯데 12승→11승→9승 에이스 방출 시련 끝났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510071715722?f=p",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "마이너 머물던 롯데 35승 투수, 김혜성과 한솥밥 먹는다…다저스 이적, 에드먼 15일→60일 IL 이동",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/05/10/GZQWMYRXGI4DSYZWMVTGKOBRGM/",
+          "publishedAt": "2026-05-10T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "찰리 반즈",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260510_0003623176",
+        "publishedAt": "2026-05-10T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T09:10:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "찰리 반즈",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260510_0003623176"
+    },
+    {
+      "id": "48d003e07a2183c4",
+      "issueKey": "기온",
+      "issueTitle": "기온",
+      "trendTitle": "기온",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[날씨] 전국 낮 동안 덥고 맑아…내일 오후부터 전국 비 소식",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510072103749",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "낮 최고 27도 '포근'…20도 안팎 큰 일교차 주의[오늘날씨]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260509_0003622950",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "일요일, 미세먼지도 없고 화창해요···나들이나 산책하기 딱 좋은 날",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605092119001",
+          "publishedAt": "2026-05-10T08:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기온",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260510072103749",
+        "publishedAt": "2026-05-10T08:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T08:40:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "기온",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260510072103749"
+    },
+    {
+      "id": "f49d6a9b8f51f0e0",
+      "issueKey": "로저 페더러",
+      "issueTitle": "로저 페더러",
+      "trendTitle": "로저 페더러",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "오프너에게 서브 구사하는 신네르",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260510_0002131304",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "신네르, 홈에서 '골든 마스터스' 도전 시동…사발렌카는 충격 역전패",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260510n05632",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[김경무의 오디세이] '13세 때 집 떠날 결심'… 야닉 시너 '오늘'을 만들다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qSp7cAZvHY",
+          "publishedAt": "2026-05-10T08:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "로저 페더러",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260510_0002131304",
+        "publishedAt": "2026-05-10T08:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T08:30:00.000Z",
+      "firstSeenAt": "2026-05-10T10:15:44.669Z",
+      "lastSeenAt": "2026-05-10T10:15:44.669Z",
+      "title": "로저 페더러",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260510_0002131304"
+    },
+    {
       "id": "21f5489d789f973e",
       "issueKey": "김효주",
       "issueTitle": "김효주",
@@ -2181,190 +2365,6 @@
       "title": "오세훈",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260509_0003622866"
-    },
-    {
-      "id": "2c7f589a03027b3b",
-      "issueKey": "뉴진스",
-      "issueTitle": "뉴진스",
-      "trendTitle": "뉴진스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "뉴진스, 미국서 표절 혐의로 피소...소속사 어도어 \"사실 무근\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/05/09/ZJCLMAG5O5BZPM5LOTRMTHHIKY/",
-          "publishedAt": "2026-05-09T08:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "뉴진스, 미국서 저작권 침해로 피소…소속사 ″표절 사실 없다″",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/MYH20260509185247tj7",
-          "publishedAt": "2026-05-09T08:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "뉴진스, 美서 저작권 침해 소송…\"가창자 멤버들도 피소\"(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260509_0003622892",
-          "publishedAt": "2026-05-09T08:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "뉴진스, 미국서 표절 혐의로 피소...소속사 어도어 \"사실 무근\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/culture-life/culture_general/2026/05/09/ZJCLMAG5O5BZPM5LOTRMTHHIKY/",
-        "publishedAt": "2026-05-09T08:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-09T08:30:00.000Z",
-      "firstSeenAt": "2026-05-09T10:05:20.834Z",
-      "lastSeenAt": "2026-05-09T10:05:20.834Z",
-      "title": "뉴진스",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/culture-life/culture_general/2026/05/09/ZJCLMAG5O5BZPM5LOTRMTHHIKY/"
-    },
-    {
-      "id": "f7ae96f864076833",
-      "issueKey": "아이유",
-      "issueTitle": "아이유",
-      "trendTitle": "변우석",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'21세기 대군부인' 아이유·변우석에 \"우리 이혼해요\"…11.7% 자체 최고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260509122127450",
-          "publishedAt": "2026-05-09T08:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[이자연의 해상도를 높이면] 도망친 결혼에 낙원은 없다",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=109895",
-          "publishedAt": "2026-05-09T08:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘21세기 대군부인’ 창엔 창!…아이유의 방어법",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202605091338003",
-          "publishedAt": "2026-05-09T08:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'21세기 대군부인' 아이유·변우석에 \"우리 이혼해요\"…11.7% 자체 최고",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260509122127450",
-        "publishedAt": "2026-05-09T08:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-09T08:20:00.000Z",
-      "firstSeenAt": "2026-05-09T10:05:20.834Z",
-      "lastSeenAt": "2026-05-09T10:05:20.834Z",
-      "title": "아이유",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260509122127450"
-    },
-    {
-      "id": "febd628ca9ac989d",
-      "issueKey": "광주",
-      "issueTitle": "광주",
-      "trendTitle": "광주",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "강원FC, 내일 리그 최하위 광주FC 상대 원정 경기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QR4pcigRSp",
-          "publishedAt": "2026-05-09T06:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "부진의 늪에 빠진 ‘최하위’ 광주, 강원 상대로 ‘연패 탈출’ 총력전",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20041952",
-          "publishedAt": "2026-05-09T06:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[현장목소리] 이정효의 응원에 힘 낸 이정규 감독, \"많은 격려에 감사, 후반기에 평가 받을 것\"",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260509n07983?mid=s02&amp;list=recent&amp;cpcd=",
-          "publishedAt": "2026-05-09T06:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "강원FC, 내일 리그 최하위 광주FC 상대 원정 경기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/QR4pcigRSp",
-        "publishedAt": "2026-05-09T06:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-09T06:50:00.000Z",
-      "firstSeenAt": "2026-05-09T07:57:39.684Z",
-      "lastSeenAt": "2026-05-09T07:57:39.684Z",
-      "title": "광주",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/QR4pcigRSp"
-    },
-    {
-      "id": "21950bee8427879d",
-      "issueKey": "김천상무",
-      "issueTitle": "김천상무",
-      "trendTitle": "김천상무",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김천상무, 휴식기 전 마지막 홈경기서 인천 상대 승리 정조준",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026050813025669773",
-          "publishedAt": "2026-05-09T06:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[현장목소리] \"선수들 상승세 타고 있어\" 김천 주승진 감독, 두 번의 실수는 없다! 인천 상대 설욕 다짐...\"더 끈끈하게 대비했다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260509161618138",
-          "publishedAt": "2026-05-09T06:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'참전용사'와 '어린이 팬'이 선수들과 함께! 김천, 대구지방보훈청과 '브랜드 데이' 연다",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260508n33382?mid=s02&amp;list=recent&amp;cpcd=",
-          "publishedAt": "2026-05-09T06:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김천상무, 휴식기 전 마지막 홈경기서 인천 상대 승리 정조준",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026050813025669773",
-        "publishedAt": "2026-05-09T06:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-09T06:50:00.000Z",
-      "firstSeenAt": "2026-05-09T07:57:39.684Z",
-      "lastSeenAt": "2026-05-09T07:57:39.684Z",
-      "title": "김천상무",
-      "source": "아시아경제",
-      "url": "https://www.asiae.co.kr/article/2026050813025669773"
     }
   ]
 }
