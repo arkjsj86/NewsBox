@@ -7,104 +7,426 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-10T15:55:05.197Z",
+  "lastUpdatedAt": "2026-05-10T19:05:24.458Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "89cd27ae64693736",
-      "issueKey": "west ham vs arsenal",
-      "issueTitle": "west ham vs arsenal",
-      "trendTitle": "west ham vs arsenal",
+      "id": "8ca67001e686c2a4",
+      "issueKey": "박선영",
+      "issueTitle": "박선영",
+      "trendTitle": "박선영",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 2,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "'가슴 달린 남자' 박선영, 이상형은 MC 이상민...\"듬직하고 잘생긴 팔방미남\" ('알토란')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510175602321",
+          "publishedAt": "2026-05-10T17:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "알토란 - 배우 박선영, 축구 경기 중 그녀에게 무슨 일이?",
+          "source": "MBN",
+          "url": "https://www.mbn.co.kr/vod/programContents/previewlist/671/4217/1153521",
+          "publishedAt": "2026-05-10T17:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'가슴 달린 남자' 박선영, 이상형은 MC 이상민...\"듬직하고 잘생긴 팔방미남\" ('알토란')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260510175602321",
+        "publishedAt": "2026-05-10T17:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-10T17:30:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "박선영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260510175602321",
+      "rank": 1
+    },
+    {
+      "id": "c6fc4c6c05d4d173",
+      "issueKey": "เวสต แฮม พบ อาร เซนอล",
+      "issueTitle": "เวสต์แฮม พบ อาร์เซนอล",
+      "trendTitle": "เวสต์แฮม พบ อาร์เซนอล",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "LIVE ดูบอลสด เวสต์แฮม พบ อาร์เซนอล พรีเมียร์ลีกวันนี้ 10 พ.ค. 69 ถ่ายทอดสด 22.30 น.",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2931012",
+          "publishedAt": "2026-05-10T16:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "การวิเคราะห์ผลการแข่งขันระหว่างเวสต์แฮมกับอาร์เซนอล: ศึกดาร์บี้แมตช์แห่งลอนดอนที่ต้องชนะให้ได้",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/soi-ti-so-tran-west-ham-arsenal-tran-derby-london-buoc-phai-thang",
+          "publishedAt": "2026-05-10T16:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "เวสต์แฮม-สเปอร์ส ดิ้นหนีตกชั้น Opta คาด ขุนค้อน เสี่ยงกว่า 80 %",
+          "source": "MSN",
+          "url": "https://www.msn.com/th-th/sports/other/%E0%B9%80%E0%B8%A7%E0%B8%AA%E0%B8%95%E0%B9%8C%E0%B9%81%E0%B8%AE%E0%B8%A1-%E0%B8%AA%E0%B9%80%E0%B8%9B%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B8%AA-%E0%B8%94%E0%B8%B4%E0%B9%89%E0%B8%99%E0%B8%AB%E0%B8%99%E0%B8%B5%E0%B8%95%E0%B8%81%E0%B8%8A%E0%B8%B1%E0%B9%89%E0%B8%99-opta-%E0%B8%84%E0%B8%B2%E0%B8%94-%E0%B8%82%E0%B8%B8%E0%B8%99%E0%B8%84%E0%B9%89%E0%B8%AD%E0%B8%99-%E0%B9%80%E0%B8%AA%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87%E0%B8%81%E0%B8%A7%E0%B9%88%E0%B8%B2-80/ar-AA22OlFV",
+          "publishedAt": "2026-05-10T16:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "LIVE ดูบอลสด เวสต์แฮม พบ อาร์เซนอล พรีเมียร์ลีกวันนี้ 10 พ.ค. 69 ถ่ายทอดสด 22.30 น.",
+        "source": "Thairath.co.th",
+        "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2931012",
+        "publishedAt": "2026-05-10T16:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T16:30:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "เวสต์แฮม พบ อาร์เซนอล",
+      "source": "Thairath.co.th",
+      "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2931012",
+      "rank": 2
+    },
+    {
+      "id": "e38cfeb8d54f73c0",
+      "issueKey": "나홍진 호프",
+      "issueTitle": "나홍진 호프",
+      "trendTitle": "나홍진 호프",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "나홍진 '호프', 17일 칸영화제서 베일 벗는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Xy35qYZvcf",
+          "publishedAt": "2026-05-10T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "4년만에 황금종려상 노리는 韓영화",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001872",
+          "publishedAt": "2026-05-10T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘호프’ 17일 칸 영화제에서 세계 최초 공개…황정민·조인성·정호연 참석",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260510/133890916/1",
+          "publishedAt": "2026-05-10T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "나홍진 호프",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Xy35qYZvcf",
+        "publishedAt": "2026-05-10T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T15:40:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "나홍진 호프",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/Xy35qYZvcf",
+      "rank": 3
+    },
+    {
+      "id": "a2bc06919a15cbfc",
+      "issueKey": "고소",
+      "issueTitle": "고소",
+      "trendTitle": "고소",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "West Ham United vs Arsenal: Premier League preview, team news, stats & head-to-head",
+          "title": "“탈퇴비 30만원”…동아리 탈퇴 두고 7시간 대치 끝 고소까지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510193305109?f=p",
+          "publishedAt": "2026-05-10T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“대학 팀플 탈퇴하겠다” 했을 뿐인데 7시간 ‘감금 대치’…“탈퇴비 30만원 내라”",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20042234",
+          "publishedAt": "2026-05-10T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"탈퇴하려면 돈 내\"…대학 동아리 7시간반 감금 소동",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260510132022qxV",
+          "publishedAt": "2026-05-10T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“탈퇴비 30만원”…동아리 탈퇴 두고 7시간 대치 끝 고소까지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260510193305109?f=p",
+        "publishedAt": "2026-05-10T15:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T15:10:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "고소",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260510193305109?f=p",
+      "rank": 4
+    },
+    {
+      "id": "ffa2cf6996216bb1",
+      "issueKey": "west ham đấu với arsenal",
+      "issueTitle": "west ham đấu với arsenal",
+      "trendTitle": "west ham đấu với arsenal",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Trực tiếp bóng đá West Ham - Arsenal: \"Pháo thủ\" dồn ép (Ngoại hạng Anh)",
+          "source": "Tin tức 24h",
+          "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-west-ham-arsenal-phao-thu-dang-thang-hoa-ngoai-hang-anh-c48a1760533.html",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Nuno Santo và bài toán hàng công West Ham: Canh bạc tất tay trước Arsenal để trụ hạng",
+          "source": "Báo Hà Tĩnh",
+          "url": "https://baohatinh.vn/tv/nuno-santo-va-bai-toan-hang-cong-west-ham-canh-bac-tat-tay-truoc-arsenal-de-tru-hang-39918.html",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Declan Rice và nhiệm vụ nghiệt ngã: Arsenal tiến gần chức vô địch, West Ham sát bờ vực xuống hạng",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/declan-rice-va-nhiem-vu-nghiet-nga-arsenal-tien-gan-chuc-vo-dich-west-ham-sat-bo-vuc-xuong-hang-441057.html",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "west ham đấu với arsenal",
+        "source": "Tin tức 24h",
+        "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-west-ham-arsenal-phao-thu-dang-thang-hoa-ngoai-hang-anh-c48a1760533.html",
+        "publishedAt": "2026-05-10T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T15:00:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "west ham đấu với arsenal",
+      "source": "Tin tức 24h",
+      "url": "https://www.24h.com.vn/bong-da/truc-tiep-bong-da-west-ham-arsenal-phao-thu-dang-thang-hoa-ngoai-hang-anh-c48a1760533.html",
+      "rank": 5
+    },
+    {
+      "id": "69b90afb78be099b",
+      "issueKey": "나홍진",
+      "issueTitle": "나홍진",
+      "trendTitle": "나홍진",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘세로 본능’ 코로나 학번 20대 감독, 나홍진과 칸 간다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510160909682",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "강남스타일 손조각상 옆 미디어아트, 그 감독 칸 간다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260511n00065",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "나홍진 '호프', 17일 칸영화제서 베일 벗는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Xy35qYZvcf",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘세로 본능’ 코로나 학번 20대 감독, 나홍진과 칸 간다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260510160909682",
+        "publishedAt": "2026-05-10T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T15:00:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "나홍진",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260510160909682",
+      "rank": 6
+    },
+    {
+      "id": "dd873bf94d1936ee",
+      "issueKey": "뉴캐슬",
+      "issueTitle": "뉴캐슬",
+      "trendTitle": "뉴캐슬",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'김민재 중동으로 데려가나'…사우디 프로리그 디렉터, 바이에른 뮌헨 방문해 논의",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260510020337905",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"세계 최고 수비수인데 백업?\" 김민재 흔들리는 현실, 토트넘·뉴캐슬·첼시 다 붙었다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/05/08/MFRDQNLBGE4TOYZTG4YGKNRZGI/",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "사우디 리그 총괄 디렉터가 직접 바이에른 뮌헨 방문했다…\"김민재, 영입 리스트 포함\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260509n07236",
+          "publishedAt": "2026-05-10T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"세계 최고 수비수인데 백업?\" 김민재 흔들리는 현실, 토트넘·뉴캐슬·첼시 다 붙었다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/05/08/MFRDQNLBGE4TOYZTG4YGKNRZGI/",
+        "publishedAt": "2026-05-10T15:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-10T15:00:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "뉴캐슬",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/05/08/MFRDQNLBGE4TOYZTG4YGKNRZGI/",
+      "rank": 7
+    },
+    {
+      "id": "89cd27ae64693736",
+      "issueKey": "west ham vs arsenal",
+      "issueTitle": "west ham vs arsenal",
+      "trendTitle": "west ham vs arsenal",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "West Ham 0-1 Arsenal: Gunners go five points clear",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/crkpe566737t",
           "publishedAt": "2026-05-10T14:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Arsenal Faces Critical West Ham Clash In Tense Title Race",
-          "source": "https://streamlinefeed.co.ke/",
-          "url": "https://streamlinefeed.co.ke/news/arsenal-faces-critical-west-ham-clash-in-tense-title-race",
+          "title": "Arsenal Edges West Ham, Title Race Intact",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/05/11/HY6ODYOD7FELVD3M6JNLRAEHBM/",
           "publishedAt": "2026-05-10T14:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "West Ham plan to ‘dominate’ Arsenal as Nuno explains Todibo and Wan-Bissaka recalls",
-          "source": "Hammers News",
-          "url": "https://www.hammers.news/match-report/west-ham-plan-to-dominate-arsenal-as-nuno-explains-todibo-and-wan-bissaka-recalls/",
+          "title": "West Ham vs Arsenal LIVE! Premier League match commentary, updates, team news and score - live on Sky Sports",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13541033/west-ham-vs-arsenal-live-premier-league-match-commentary-updates-team-news-and-score-live-on-sky-sports",
           "publishedAt": "2026-05-10T14:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "west ham vs arsenal",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/crkpe566737t",
+        "title": "West Ham vs Arsenal LIVE! Premier League match commentary, updates, team news and score - live on Sky Sports",
+        "source": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13541033/west-ham-vs-arsenal-live-premier-league-match-commentary-updates-team-news-and-score-live-on-sky-sports",
         "publishedAt": "2026-05-10T14:50:00.000Z",
-        "relevanceScore": 3
+        "relevanceScore": 1
       },
       "publishedAt": "2026-05-10T14:50:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
       "title": "west ham vs arsenal",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/crkpe566737t",
-      "rank": 1
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/live-blog/11095/13541033/west-ham-vs-arsenal-live-premier-league-match-commentary-updates-team-news-and-score-live-on-sky-sports",
+      "rank": 8
     },
     {
-      "id": "2ba114d1119037ab",
-      "issueKey": "아스널",
-      "issueTitle": "아스널",
-      "trendTitle": "아스널",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "c81d9ab768863b29",
+      "issueKey": "아스날",
+      "issueTitle": "아스날",
+      "trendTitle": "아스날",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "1위 하면 1058억 최하위도 53억인 ‘이 경기’ 이달 말이면 결과 나온다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260510100000536",
+          "title": "'아스날은 우승, 토트넘은 잔류 가까이!' 아스날, 웨스트햄 원정서 1-0 진땀승...트로사르 결승골로 승점 79점→우승 8부 능선 넘었다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/05/11/G44WGODGMVRDEZBRGZSGGYZRGM/",
           "publishedAt": "2026-05-10T14:40:00.000Z",
           "relevanceScore": 3
+        },
+        {
+          "title": "“토트넘 팬이 아스널 응원한다”…49년 만의 강등 위기에 ‘딜레마’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260509012500285",
+          "publishedAt": "2026-05-10T14:40:00.000Z",
+          "relevanceScore": 2
         },
         {
           "title": "[PL LINE UP] 토트넘이 '북런던 라이벌' 응원해야 하는 경기…아스널, 웨스트햄전 선발 공개→주전 총출동",
           "source": "네이트",
           "url": "https://m.news.nate.com/view/20260510n16777?sect=s22&amp;list=rank&amp;cate=interest",
           "publishedAt": "2026-05-10T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[if.preview] “길을 잃었다” 아르테타의 고백, 그의 시선이 멈춘 곳은 웨스트햄이었다",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=91744",
-          "publishedAt": "2026-05-10T14:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[PL LINE UP] 토트넘이 '북런던 라이벌' 응원해야 하는 경기…아스널, 웨스트햄전 선발 공개→주전 총출동",
-        "source": "네이트",
-        "url": "https://m.news.nate.com/view/20260510n16777?sect=s22&amp;list=rank&amp;cate=interest",
+        "title": "'아스날은 우승, 토트넘은 잔류 가까이!' 아스날, 웨스트햄 원정서 1-0 진땀승...트로사르 결승골로 승점 79점→우승 8부 능선 넘었다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/05/11/G44WGODGMVRDEZBRGZSGGYZRGM/",
         "publishedAt": "2026-05-10T14:40:00.000Z",
-        "relevanceScore": 2
+        "relevanceScore": 3
       },
       "publishedAt": "2026-05-10T14:40:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "아스널",
-      "source": "네이트",
-      "url": "https://m.news.nate.com/view/20260510n16777?sect=s22&amp;list=rank&amp;cate=interest",
-      "rank": 2
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "아스날",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/05/11/G44WGODGMVRDEZBRGZSGGYZRGM/",
+      "rank": 9
     },
     {
       "id": "753fa0b627acf460",
@@ -117,362 +439,40 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/football-news/live-score/stats/mll-vs-vil-72036/",
+          "title": "Playing XI - RCB vs MI 54th Match | Indian Premier League Squad",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/royal-challengers-bengaluru-vs-mumbai-indians-54th-match-1529297/match-playing-xi",
           "publishedAt": "2026-05-10T14:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "RCB vs MI prediction, odds and betting tips as Virat Kohli meets Rohit Sharma",
+          "title": "Virat Kohli score in today's IPL 2026 match: How many runs did RCB star score against MI in Raipur",
           "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/rcb-vs-mi-prediction-odds-104340536.html",
+          "url": "https://sports.yahoo.com/articles/virat-kohli-score-todays-ipl-130002941.html",
           "publishedAt": "2026-05-10T14:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Licensable picture: Indian Premier League - IPL - Royal Challengers Bengaluru v Mumbai Indians",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/indian-premier-league-ipl-royal-challengers-bengaluru-v-mumbai-indians/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNUExNzY2SlM",
+          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/football-news/live-score/stats/mll-vs-vil-72036/",
           "publishedAt": "2026-05-10T14:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "mi vs rcb",
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/football-news/live-score/stats/mll-vs-vil-72036/",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/royal-challengers-bengaluru-vs-mumbai-indians-54th-match-1529297/match-playing-xi",
         "publishedAt": "2026-05-10T14:10:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-10T14:10:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
       "title": "mi vs rcb",
-      "source": "Firstpost",
-      "url": "https://www.firstpost.com/football-news/live-score/stats/mll-vs-vil-72036/",
-      "rank": 3
-    },
-    {
-      "id": "b8b0474a39f6196b",
-      "issueKey": "과천시",
-      "issueTitle": "과천시",
-      "trendTitle": "과천시",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "과천시, ‘공무원 덕림씨’ 최덕림 강사 초빙… 적극행정 혁신 교육 실시",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260508580204",
-          "publishedAt": "2026-05-10T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "과천시, 적극행정 직장교육…‘시민이 체감하는 행정서비스’ 실천",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/2026/05/08/20260508500137",
-          "publishedAt": "2026-05-10T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "과천시, 시민 체감 행정 강조… 적극행정 교육 실시",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260508500541",
-          "publishedAt": "2026-05-10T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "과천시, ‘공무원 덕림씨’ 최덕림 강사 초빙… 적극행정 혁신 교육 실시",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260508580204",
-        "publishedAt": "2026-05-10T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T14:10:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "과천시",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260508580204",
-      "rank": 4
-    },
-    {
-      "id": "b25beaff80d4c504",
-      "issueKey": "이종윤",
-      "issueTitle": "이종윤",
-      "trendTitle": "이종윤",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "美, 지하 요새 '완전 무력화' 차세대 벙커버스터 개발 속도낸다 [이종윤의 밀리터리 월드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260510190450664",
-          "publishedAt": "2026-05-10T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "美, 지하 요새 '완전 무력화' 차세대 벙커버스터 개발 속도낸다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260510n14186",
-          "publishedAt": "2026-05-10T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "美, 지하 요새 '완전 무력화' 차세대 벙커버스터 개발 속도낸다 [이종윤의 밀리터리 월드]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260510190450664",
-        "publishedAt": "2026-05-10T14:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-10T14:00:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "이종윤",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260510190450664",
-      "rank": 5
-    },
-    {
-      "id": "4107e8355c4be13b",
-      "issueKey": "풍자",
-      "issueTitle": "풍자",
-      "trendTitle": "풍자",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘32kg 감량’ 풍자, 가녀린 손목·고운 손가락까지..NEW 비주얼에 “그만 예뻐져라”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/09/MQ3WMZRYMFSDGNRRGBSDGNZSHA/",
-          "publishedAt": "2026-05-10T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'30kg 감량' 풍자 맞아…? 새 프로필까지 공개→\"여배우 같아\" [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260510140137350",
-          "publishedAt": "2026-05-10T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "풍자, 32㎏ 감량 후 '은발' 변신…몰라보게 달라진 비주얼 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6161587",
-          "publishedAt": "2026-05-10T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘32kg 감량’ 풍자, 가녀린 손목·고운 손가락까지..NEW 비주얼에 “그만 예뻐져라”",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/09/MQ3WMZRYMFSDGNRRGBSDGNZSHA/",
-        "publishedAt": "2026-05-10T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T13:50:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "풍자",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/09/MQ3WMZRYMFSDGNRRGBSDGNZSHA/",
-      "rank": 6
-    },
-    {
-      "id": "e3db5befe59ed863",
-      "issueKey": "골프장",
-      "issueTitle": "골프장",
-      "trendTitle": "골프장",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[6·3 지선 여론조사] 하남시장 투표예상층, 강병덕 51.4%-이현재 38.4%",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260510183002027",
-          "publishedAt": "2026-05-10T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이현재 하남시장 후보, 4천석 규모 실내체육관 건립 공약",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3022185",
-          "publishedAt": "2026-05-10T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[6·3 지선 여론조사] 하남시 정당 지지도, 민주당 강세…국민의힘 오차범위 밖 앞서",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1322494",
-          "publishedAt": "2026-05-10T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "골프장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260510183002027",
-        "publishedAt": "2026-05-10T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T13:50:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "골프장",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260510183002027",
-      "rank": 7
-    },
-    {
-      "id": "28bf7361460d71db",
-      "issueKey": "호프",
-      "issueTitle": "호프",
-      "trendTitle": "호프",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "나홍진 '호프', 17일 칸영화제서 베일 벗는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Xy35qYZvcf",
-          "publishedAt": "2026-05-10T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "4년만에 황금종려상 노리는 韓영화",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001872",
-          "publishedAt": "2026-05-10T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘호프’ 17일 칸 영화제에서 세계 최초 공개…황정민·조인성·정호연 참석",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260510/133890916/1",
-          "publishedAt": "2026-05-10T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "나홍진 '호프', 17일 칸영화제서 베일 벗는다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Xy35qYZvcf",
-        "publishedAt": "2026-05-10T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T13:40:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "호프",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/Xy35qYZvcf",
-      "rank": 8
-    },
-    {
-      "id": "384b884beaf06033",
-      "issueKey": "플릭 감독",
-      "issueTitle": "플릭 감독",
-      "trendTitle": "플릭 감독",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보]\"'엘 클라시코' 비보\" 눈물의 플릭 감독, 부친상에도 벤치 지킨다…바르셀로나 애도 성명 발표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/10/MI4DAM3BMUYWKMZSGA3DIMJSHA/",
-          "publishedAt": "2026-05-10T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[if.preview] 바르셀로나, ‘내부 분열’ 레알 잡고 29번째 ‘우승 확정’ 가능할까",
-          "source": "포포투",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=91752",
-          "publishedAt": "2026-05-10T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“넌 2부로 떨어질거다” 에스파뇰전 멀티골 비니시우스의 살벌한 신경전, “TV 나오고 싶냐? 내 유니폼 안 줄거야”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=306474",
-          "publishedAt": "2026-05-10T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보]\"'엘 클라시코' 비보\" 눈물의 플릭 감독, 부친상에도 벤치 지킨다…바르셀로나 애도 성명 발표",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/05/10/MI4DAM3BMUYWKMZSGA3DIMJSHA/",
-        "publishedAt": "2026-05-10T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T13:40:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "플릭 감독",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/05/10/MI4DAM3BMUYWKMZSGA3DIMJSHA/",
-      "rank": 9
-    },
-    {
-      "id": "173e715297354f2c",
-      "issueKey": "burnley vs aston villa",
-      "issueTitle": "burnley vs aston villa",
-      "trendTitle": "burnley vs aston villa",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Burnley 2-2 Aston Villa: Unai Emery's side held by relegated Clarets",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ckgp74jjywkt",
-          "publishedAt": "2026-05-10T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Burnley vs Aston Villa Prediction, Betting Pick, Latest Premier League Odds",
-          "source": "Oddschecker",
-          "url": "https://www.oddschecker.com/us/insight/football/20260510-burnley-vs-aston-villa-prediction-betting-pick-latest-premier-league-odds",
-          "publishedAt": "2026-05-10T13:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Aston Villa Triumph Over Burnley in Thrilling Match",
-          "source": "SSBCrack",
-          "url": "https://news.ssbcrack.com/aston-villa-triumph-over-burnley-in-thrilling-match/",
-          "publishedAt": "2026-05-10T13:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Burnley vs Aston Villa Prediction, Betting Pick, Latest Premier League Odds",
-        "source": "Oddschecker",
-        "url": "https://www.oddschecker.com/us/insight/football/20260510-burnley-vs-aston-villa-prediction-betting-pick-latest-premier-league-odds",
-        "publishedAt": "2026-05-10T13:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-10T13:10:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "burnley vs aston villa",
-      "source": "Oddschecker",
-      "url": "https://www.oddschecker.com/us/insight/football/20260510-burnley-vs-aston-villa-prediction-betting-pick-latest-premier-league-odds",
+      "source": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/royal-challengers-bengaluru-vs-mumbai-indians-54th-match-1529297/match-playing-xi",
       "rank": 10
     }
   ],
@@ -522,6 +522,52 @@
       "title": "천둥",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260510212407548"
+    },
+    {
+      "id": "c81d9ab768863b29",
+      "issueKey": "아스날",
+      "issueTitle": "아스날",
+      "trendTitle": "아스날",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'아스날은 우승, 토트넘은 잔류 가까이!' 아스날, 웨스트햄 원정서 1-0 진땀승...트로사르 결승골로 승점 79점→우승 8부 능선 넘었다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/05/11/G44WGODGMVRDEZBRGZSGGYZRGM/",
+          "publishedAt": "2026-05-10T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“토트넘 팬이 아스널 응원한다”…49년 만의 강등 위기에 ‘딜레마’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260509012500285",
+          "publishedAt": "2026-05-10T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[PL LINE UP] 토트넘이 '북런던 라이벌' 응원해야 하는 경기…아스널, 웨스트햄전 선발 공개→주전 총출동",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260510n16777?sect=s22&amp;list=rank&amp;cate=interest",
+          "publishedAt": "2026-05-10T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'아스날은 우승, 토트넘은 잔류 가까이!' 아스날, 웨스트햄 원정서 1-0 진땀승...트로사르 결승골로 승점 79점→우승 8부 능선 넘었다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/05/11/G44WGODGMVRDEZBRGZSGGYZRGM/",
+        "publishedAt": "2026-05-10T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-10T14:40:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "아스날",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/05/11/G44WGODGMVRDEZBRGZSGGYZRGM/"
     },
     {
       "id": "2ba114d1119037ab",
@@ -978,6 +1024,66 @@
       "title": "장항준",
       "source": "조선일보",
       "url": "https://www.chosun.com/entertainments/broadcast/2026/05/08/GRRWINRTG5RTEMZQMZSGEYLGGM/"
+    },
+    {
+      "id": "89cd27ae64693736",
+      "issueKey": "west ham vs arsenal",
+      "issueTitle": "west ham vs arsenal",
+      "trendTitle": "west ham vs arsenal",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 5,
+      "relatedArticles": [
+        {
+          "title": "West Ham United vs Arsenal: Premier League preview, team news, stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/crkpe566737t",
+          "publishedAt": "2026-05-10T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Arsenal Faces Critical West Ham Clash In Tense Title Race",
+          "source": "https://streamlinefeed.co.ke/",
+          "url": "https://streamlinefeed.co.ke/news/arsenal-faces-critical-west-ham-clash-in-tense-title-race",
+          "publishedAt": "2026-05-10T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Arsenal Edges West Ham, Title Race Intact",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/05/11/HY6ODYOD7FELVD3M6JNLRAEHBM/",
+          "publishedAt": "2026-05-10T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "West Ham plan to ‘dominate’ Arsenal as Nuno explains Todibo and Wan-Bissaka recalls",
+          "source": "Hammers News",
+          "url": "https://www.hammers.news/match-report/west-ham-plan-to-dominate-arsenal-as-nuno-explains-todibo-and-wan-bissaka-recalls/",
+          "publishedAt": "2026-05-10T14:50:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "West Ham vs Arsenal LIVE! Premier League match commentary, updates, team news and score - live on Sky Sports",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/live-blog/11095/13541033/west-ham-vs-arsenal-live-premier-league-match-commentary-updates-team-news-and-score-live-on-sky-sports",
+          "publishedAt": "2026-05-10T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "West Ham vs Arsenal LIVE! Premier League match commentary, updates, team news and score - live on Sky Sports",
+        "source": "Sky Sports",
+        "url": "https://www.skysports.com/football/live-blog/11095/13541033/west-ham-vs-arsenal-live-premier-league-match-commentary-updates-team-news-and-score-live-on-sky-sports",
+        "publishedAt": "2026-05-10T14:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-10T14:50:00.000Z",
+      "firstSeenAt": "2026-05-10T15:55:05.197Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "west ham vs arsenal",
+      "source": "Sky Sports",
+      "url": "https://www.skysports.com/football/live-blog/11095/13541033/west-ham-vs-arsenal-live-premier-league-match-commentary-updates-team-news-and-score-live-on-sky-sports"
     },
     {
       "id": "b081ccaa85dcdb25",
@@ -1808,71 +1914,50 @@
       "url": "https://www.newsis.com/view/NISX20260508_0003621873"
     },
     {
-      "id": "0f8f554595ead9d9",
-      "issueKey": "김서현",
-      "issueTitle": "김서현",
-      "trendTitle": "김서현",
+      "id": "e38cfeb8d54f73c0",
+      "issueKey": "나홍진 호프",
+      "issueTitle": "나홍진 호프",
+      "trendTitle": "나홍진 호프",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
-      "articleCount": 6,
+      "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "7점 차 망친 김서현, 혹사 정우주 선발… 김경문식 투수 운용에 커지는 물음표",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/05/08/ZDUWLUUMCZB3VM3KOR6BQZKHCQ/",
-          "publishedAt": "2026-05-08T14:10:00.000Z",
+          "title": "나홍진 '호프', 17일 칸영화제서 베일 벗는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Xy35qYZvcf",
+          "publishedAt": "2026-05-10T15:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이정도면 다시 2군가야… 7점차도 마무리 못하는 김서현[초점]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260507220203161",
-          "publishedAt": "2026-05-07T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "2군 갔던 한화 김서현·SSG 김재환, 1군 복귀…롯데 황성빈도 합류",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260507_0003620638",
-          "publishedAt": "2026-05-07T13:10:00.000Z",
+          "title": "4년만에 황금종려상 노리는 韓영화",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260508010001872",
+          "publishedAt": "2026-05-10T15:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김서현, 재정비 거치고도 또 '제구 불안'…고민 깊어지는 한화",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003621526",
-          "publishedAt": "2026-05-08T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘156㎞’ 김서현, ‘157㎞’ 정우주의 실패… ‘142㎞’ 투수의 무실점 행진이 교훈될까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508145202456",
-          "publishedAt": "2026-05-08T14:10:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "[사진] 쿠싱과 허인서, 잘 막았어",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/05/07/GNSDEY3CGU3WIYLGGU3WEOJRHE/",
-          "publishedAt": "2026-05-07T13:10:00.000Z",
+          "title": "‘호프’ 17일 칸 영화제에서 세계 최초 공개…황정민·조인성·정호연 참석",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260510/133890916/1",
+          "publishedAt": "2026-05-10T15:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "7점 차 망친 김서현, 혹사 정우주 선발… 김경문식 투수 운용에 커지는 물음표",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/05/08/ZDUWLUUMCZB3VM3KOR6BQZKHCQ/",
-        "publishedAt": "2026-05-08T14:10:00.000Z",
+        "title": "나홍진 호프",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Xy35qYZvcf",
+        "publishedAt": "2026-05-10T15:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-08T14:10:00.000Z",
-      "firstSeenAt": "2026-05-07T16:50:33.345Z",
-      "lastSeenAt": "2026-05-08T16:14:24.750Z",
-      "title": "김서현",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/baseball/2026/05/08/ZDUWLUUMCZB3VM3KOR6BQZKHCQ/"
+      "publishedAt": "2026-05-10T15:40:00.000Z",
+      "firstSeenAt": "2026-05-10T19:05:24.458Z",
+      "lastSeenAt": "2026-05-10T19:05:24.458Z",
+      "title": "나홍진 호프",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/Xy35qYZvcf"
     },
     {
       "id": "c923ac0619b16007",
@@ -2287,98 +2372,6 @@
       "title": "당첨번호 조회",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260509211753062"
-    },
-    {
-      "id": "89cd27ae64693736",
-      "issueKey": "west ham vs arsenal",
-      "issueTitle": "west ham vs arsenal",
-      "trendTitle": "west ham vs arsenal",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "West Ham United vs Arsenal: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/crkpe566737t",
-          "publishedAt": "2026-05-10T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Arsenal Faces Critical West Ham Clash In Tense Title Race",
-          "source": "https://streamlinefeed.co.ke/",
-          "url": "https://streamlinefeed.co.ke/news/arsenal-faces-critical-west-ham-clash-in-tense-title-race",
-          "publishedAt": "2026-05-10T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "West Ham plan to ‘dominate’ Arsenal as Nuno explains Todibo and Wan-Bissaka recalls",
-          "source": "Hammers News",
-          "url": "https://www.hammers.news/match-report/west-ham-plan-to-dominate-arsenal-as-nuno-explains-todibo-and-wan-bissaka-recalls/",
-          "publishedAt": "2026-05-10T14:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "west ham vs arsenal",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/crkpe566737t",
-        "publishedAt": "2026-05-10T14:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T14:50:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "west ham vs arsenal",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/crkpe566737t"
-    },
-    {
-      "id": "753fa0b627acf460",
-      "issueKey": "mi vs rcb",
-      "issueTitle": "mi vs rcb",
-      "trendTitle": "mi vs rcb",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Team A vs Team B Football Match Stats | Player & Team Statistics in Real-Time",
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/football-news/live-score/stats/mll-vs-vil-72036/",
-          "publishedAt": "2026-05-10T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "RCB vs MI prediction, odds and betting tips as Virat Kohli meets Rohit Sharma",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/rcb-vs-mi-prediction-odds-104340536.html",
-          "publishedAt": "2026-05-10T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Licensable picture: Indian Premier League - IPL - Royal Challengers Bengaluru v Mumbai Indians",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/indian-premier-league-ipl-royal-challengers-bengaluru-v-mumbai-indians/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNUExNzY2SlM",
-          "publishedAt": "2026-05-10T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "mi vs rcb",
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/football-news/live-score/stats/mll-vs-vil-72036/",
-        "publishedAt": "2026-05-10T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T14:10:00.000Z",
-      "firstSeenAt": "2026-05-10T15:55:05.197Z",
-      "lastSeenAt": "2026-05-10T15:55:05.197Z",
-      "title": "mi vs rcb",
-      "source": "Firstpost",
-      "url": "https://www.firstpost.com/football-news/live-score/stats/mll-vs-vil-72036/"
     }
   ]
 }
