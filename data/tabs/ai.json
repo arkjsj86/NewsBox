@@ -4,9 +4,36 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-05-10T21:49:29.238Z",
-  "articleCount": 9,
+  "lastUpdatedAt": "2026-05-11T03:35:53.174Z",
+  "articleCount": 10,
   "articles": [
+    {
+      "id": "39cf4e9173a4f9af",
+      "title": "미국 정부, 생성형 AI 모델 출시 전 안전 테스트 실시",
+      "url": "https://www.itworld.co.kr/article/4169165/%eb%af%b8%ea%b5%ad-%ec%a0%95%eb%b6%80-%ec%83%9d%ec%84%b1%ed%98%95-ai-%eb%aa%a8%eb%8d%b8-%ec%b6%9c%ec%8b%9c-%ec%a0%84-%ec%95%88%ec%a0%84-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%8b%a4%ec%8b%9c.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-11T01:13:38.000Z",
+      "summary": "CAISI가 구글, 마이크로소프트, xAI와 협약을 체결하면서 백악관의 자체 AI 검증 시스템 구축 추진 계획 보도에 앞서 움직임을 보였다. 미국 상무부 산하 AI 표준 및 혁신 센터(CAISI)는 구글 딥마인드, 마이크로소프트, xAI와 협약을 체결했다. 이 협약을 통해 CAISI는 이들 기업이 개발한 AI 모델을 공개 출시 전에 검증할 수 있는 권한이 생긴다. CAISI는 국립표준기...",
+      "tab": "ai"
+    },
+    {
+      "id": "5c304fe6233d09bb",
+      "title": "AI 에이전트 중심으로 재편되는 엔지니어링 팀 구조 트렌드",
+      "url": "https://www.itworld.co.kr/article/4169156/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%a4%91%ec%8b%ac%ec%9c%bc%eb%a1%9c-%ec%9e%ac%ed%8e%b8%eb%90%98%eb%8a%94-%ec%97%94%ec%a7%80%eb%8b%88%ec%96%b4%eb%a7%81-%ed%8c%80-%ea%b5%ac%ec%a1%b0-%ed%8a%b8.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-11T00:43:55.000Z",
+      "summary": "브라우저베이스의 창업자 겸 CEO 폴 클라인 4세는 엔지니어링 팀 내 AI 도입 속도에 대해 언급하며 밤새 가장 인상적인 발언을 남겼다. “이 시점에서 AI가 개인의 전체 업무를 못 하면 기술에 문제가 있는 것”이라는 발언이다. 마스트라의 창업자 겸 최고기술책임자 아비 아이어는 결과적으로 훨씬 작은 규모의 팀이 훨씬 더 큰 범위의 업무를 처리할 수 있다고 강조했다. 한 명의 엔지니어가...",
+      "tab": "ai"
+    },
+    {
+      "id": "5f0d9d1f749b98e5",
+      "title": "앤트로픽 클로드 확장, 악성 확장 프로그램의 권한 상승 취약점 노출",
+      "url": "https://www.itworld.co.kr/article/4169154/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c-%ed%99%95%ec%9e%a5-%ec%95%85%ec%84%b1-%ed%99%95%ec%9e%a5-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%a8%ec%9d%98-%ea%b6%8c%ed%95%9c-%ec%83%81.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-11T00:13:36.000Z",
+      "summary": "앤트로픽의 클로드 인 크롬 확장 프로그램이 악성 확장 프로그램에 의해 탈취될 수 있다는 보안 경고가 나왔다. 레이어엑스 보안의 연구원들은 클로드의 과도하게 신뢰된 브라우저 통신 흐름이 악용되어 스크립트를 주입할 수 있으며, 이는 어시스턴트의 역량을 탈취하고 브라우징 세션을 조작할 수 있다고 경고했다. 레이어엑스는 이 결함을 “클로드블리드”라고 명명했다. 레이어엑스 연구원 아비아드 기스판...",
+      "tab": "ai"
+    },
     {
       "id": "d90d6d19cd6ff78d",
       "title": "프론트엔드 아키텍처의 트릴레마 : 반응성, 하이퍼미디어, 로컬 우선 앱",
@@ -68,24 +95,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-05-03T23:44:18.000Z",
       "summary": "옥스퍼드 인터넷 인스티튜트(Oxford Internet Institute)의 새 연구에 따르면, 더 따뜻하고 친절하며 공감적으로 훈련된 ‘친근한’ AI 챗봇일수록 답변의 질이 낮고 정확도도 떨어지는 것으로 나타났다. 해당 연구는 BBC가 최초로 보도했다. 연구팀은 크기와 아키텍처가 서로 다른 AI 모델 5종이 생성한 40만 건 이상의 응답을 분석했다. 분석 대상은 메타의 라마-8B(Ll...",
-      "tab": "ai"
-    },
-    {
-      "id": "d5155dfda1b5f0bf",
-      "title": "더하기보다 빼기가 어려운 AI 시대의 제품 관리",
-      "url": "https://www.itworld.co.kr/article/4165212/%eb%8d%94%ed%95%98%ea%b8%b0%eb%b3%b4%eb%8b%a4-%eb%b9%bc%ea%b8%b0%ea%b0%80-%ec%96%b4%eb%a0%a4%ec%9a%b4-ai-%ec%8b%9c%eb%8c%80%ec%9d%98-%ec%a0%9c%ed%92%88-%ea%b4%80%eb%a6%ac.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-30T01:05:23.000Z",
-      "summary": "한때 마이크로소프트 워드는 세계에서 가장 널리 사용되는 소프트웨어였다. .doc 파일은 컴퓨팅 세계의 공용어였고, “워드 파일로 보내주세요”라는 표현은 비즈니스 용어로 자리 잡았다. 워드와의 경쟁에 패배한 경쟁 프로그램 워드퍼펙트(WordPerfect)는 결국 윈도우 환경으로의 전환에 완전히 적응하지 못했다. 그러나 워드퍼펙트와의 경쟁은 일종의 ‘피로스의 승리’였을지도 모른다. 더 많은...",
-      "tab": "ai"
-    },
-    {
-      "id": "0d73912ab364a814",
-      "title": "AI도 ‘기분’이 있다? 사용자 태도가 만드는 차이",
-      "url": "https://www.itworld.co.kr/article/4165199/ai%eb%8f%84-%ea%b8%b0%eb%b6%84%ec%9d%b4-%ec%9e%88%eb%8b%a4-%ec%82%ac%ec%9a%a9%ec%9e%90-%ed%83%9c%eb%8f%84%ea%b0%80-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%b0%a8%ec%9d%b4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-04-30T00:17:56.000Z",
-      "summary": "AI에게 “고맙다”고 말하는 게 이상할까? 그동안 오픈AI의 챗GPT, 앤트로픽의 클로드, 구글의 제미나이에게 “부탁해”나 “고마워”라고 말한다는 이유로 핀잔을 들은 적이 있다. AI가 인간처럼 감정을 갖고 있지 않다는 걸 알면서도 여전히 그렇게 한다. AI에게 예의를 지키는 일은 그저 자연스럽게 느껴진다. 그리고 AI 챗봇을 친절하게 대하느냐, 혹은 거칠게 대하느냐가 실제로 그 행동에...",
       "tab": "ai"
     }
   ]
