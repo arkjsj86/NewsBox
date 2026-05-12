@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-12T03:22:45.890Z",
+  "lastUpdatedAt": "2026-05-12T08:40:55.221Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "b6417036b5e0a5dc",
-      "issueKey": "염경엽 감독",
-      "issueTitle": "염경엽 감독",
-      "trendTitle": "염경엽 감독",
+      "id": "0f88834dd80fd636",
+      "issueKey": "코스피",
+      "issueTitle": "코스피",
+      "trendTitle": "코스피",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "8천피 아슬아슬하게 놓친 코스피, 급락한 배경은",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "외인 '사자' vs 개인 '팔자'…치열한 수급 힘겨루기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260512172709949",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "외국인 투매에도 끄떡없는 개미들…'8천피' 믿음 여전(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003626454",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "8천피 아슬아슬하게 놓친 코스피, 급락한 배경은",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373",
+        "publishedAt": "2026-05-12T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T07:30:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "코스피",
+      "source": "연합인포맥스",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373",
+      "rank": 1
+    },
+    {
+      "id": "8c4f749c241ea843",
+      "issueKey": "유재석",
+      "issueTitle": "유재석",
+      "trendTitle": "유재석",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "복귀전부터 '3⅔이닝 4실점', ERA 7.32 치리노스 정말 괜찮나! 염경엽 감독은 '볼넷 2개'만 지적했다 [대전 현장]",
+          "title": "양상국, 연이은 '태도 논란' 속…과거 식당 사장 발언 재평가 \"지가 잘하는 줄 안다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/WIGx8rIkTH?f=p",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "url": "https://v.daum.net/v/20260512163116138",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'페라자에 피홈런→3⅔이닝 4실점' 13승 외인 아쉬운 복귀전, 염경엽 감독은 어떻게 봤나 [오!쎈 대전]",
+          "title": "[단독] 양상국 \"유재석 무례 논란? 실제는 아냐...의욕 지나쳤다\" 사과 (직격인터뷰)",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/05/10/GMYDMMRVMQZDOMDBMVSDQMLDMY/",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GIZTAZBTMEYTIZBVGQYDSNJXGU/",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "LG 치리노스, 부상 복귀전서 3⅔이닝 4실점 '흔들'…페라자에 홈런 헌납",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260509_0003622796",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "title": "양상국, 또 선 넘었다…고성·돌려차기에 “시끄럽고 폭력적” 비판 쏟아져",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202605111701003",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "복귀전부터 '3⅔이닝 4실점', ERA 7.32 치리노스 정말 괜찮나! 염경엽 감독은 '볼넷 2개'만 지적했다 [대전 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WIGx8rIkTH?f=p",
-        "publishedAt": "2026-05-12T02:20:00.000Z",
-        "relevanceScore": 3
+        "title": "[단독] 양상국 \"유재석 무례 논란? 실제는 아냐...의욕 지나쳤다\" 사과 (직격인터뷰)",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GIZTAZBTMEYTIZBVGQYDSNJXGU/",
+        "publishedAt": "2026-05-12T07:30:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-12T02:20:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "염경엽 감독",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/WIGx8rIkTH?f=p",
-      "rank": 1
+      "publishedAt": "2026-05-12T07:30:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "유재석",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GIZTAZBTMEYTIZBVGQYDSNJXGU/",
+      "rank": 2
     },
     {
-      "id": "7eafb0d297d08b30",
-      "issueKey": "위르겐 클린스만",
-      "issueTitle": "위르겐 클린스만",
-      "trendTitle": "위르겐 클린스만",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "e7aa831058574b42",
+      "issueKey": "삼성 라이온즈",
+      "issueTitle": "삼성 라이온즈",
+      "trendTitle": "삼성 라이온즈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "클린스만 전 대표팀 감독, 북중미 월드컵 간다…2022년 카타르 대회처럼 TSG 멤버 합류",
+          "title": "'아뿔싸' 삼성 타율 0.286 포수 잃었다, 또 햄스트링이 말썽이네…강민호 언제 돌아올까",
           "source": "Daum",
-          "url": "https://v.daum.net/v/qgJv0071wT",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "url": "https://v.daum.net/v/PmuLMNkLsJ",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[오피셜] 이럴 수가! 韓 축구 퇴보시킨 클린스만, '또' 월드컵 간다…4년 전 이어 이번에도 'FIFA TSG 멤버'합류",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260512n02959",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "title": "삼성 포수 김도환, 햄스트링 미세 손상…1군 엔트리 말소",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6164074",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "클린스만, 북중미월드컵서 FIFA TSG 활동",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11588294",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "title": "'또 햄스트링 부상' 김영웅, '25김도영' 떠오르네…확실히 다스리고 돌아와야 [SS포커스]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260511n19704?sect=s01&amp;list=rank&amp;cate=interest",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "위르겐 클린스만",
+        "title": "삼성 라이온즈",
         "source": "Daum",
-        "url": "https://v.daum.net/v/qgJv0071wT",
-        "publishedAt": "2026-05-12T02:20:00.000Z",
+        "url": "https://v.daum.net/v/PmuLMNkLsJ",
+        "publishedAt": "2026-05-12T07:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-12T02:20:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "위르겐 클린스만",
+      "publishedAt": "2026-05-12T07:30:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "삼성 라이온즈",
       "source": "Daum",
-      "url": "https://v.daum.net/v/qgJv0071wT",
-      "rank": 2
+      "url": "https://v.daum.net/v/PmuLMNkLsJ",
+      "rank": 3
     },
     {
-      "id": "d4328f17fc46dfde",
-      "issueKey": "iran",
-      "issueTitle": "iran",
-      "trendTitle": "iran",
+      "id": "207fd373900595be",
+      "issueKey": "손아섭",
+      "issueTitle": "손아섭",
+      "trendTitle": "손아섭",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'깜짝 트레이드 주인공' 손아섭 주고 데려온 군필 좌완, 1군 복귀 언제? 1이닝 1K 무실점→부진 탈출 신호 되나",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260512n02458",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "한화-두산 트레이드, 실체가 사라졌다… 손아섭마저 2군서 고전, 아무도 1군서 안 보인다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260509012715298",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "드디어 감 잡았나…'타율 .111→2군행 충격' 손아섭, 안타-2루타에 타점까지 부활 청신호? [오!쎈 퓨처스]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260509022118665",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'깜짝 트레이드 주인공' 손아섭 주고 데려온 군필 좌완, 1군 복귀 언제? 1이닝 1K 무실점→부진 탈출 신호 되나",
+        "source": "네이트 스포츠",
+        "url": "https://sports.news.nate.com/view/20260512n02458",
+        "publishedAt": "2026-05-12T07:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T07:10:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "손아섭",
+      "source": "네이트 스포츠",
+      "url": "https://sports.news.nate.com/view/20260512n02458",
+      "rank": 4
+    },
+    {
+      "id": "e2b904f054848451",
+      "issueKey": "정승연",
+      "issueTitle": "정승연",
+      "trendTitle": "정승연",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "The U.A.E. Has Been Secretly Carrying Out Attacks on Iran",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/articles/the-u-a-e-has-been-secretly-carrying-out-attacks-on-iran-f1745a0d",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "title": "연수갑 조국지지층 “민주당보다 국힘”…수도권 범여권 연대 흔들? [이런정치]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260512155554201",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Shift in Middle East Order: \"UAE Behind April Attack on Iranian Oil Facility\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/world-general/2026051209495889912",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "title": "[단독] 정승연, 국민의힘 탈당...개혁신당 입당 연수갑 보궐 출마",
+          "source": "인천투데이",
+          "url": "https://www.incheontoday.com/news/articleView.html?idxno=318777",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Knesset approves bill barring police from spraying ‘Skunk’ liquid on protesters",
-          "source": "The Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-may-12-2026/",
-          "publishedAt": "2026-05-12T02:20:00.000Z",
+          "title": "(단독)국민의힘 ‘연수갑 공천’ 박종진…’공천헌금’ 의혹으로 검찰 조사",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/readnews.aspx?no=1300610",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "The U.A.E. Has Been Secretly Carrying Out Attacks on Iran",
-        "source": "WSJ",
-        "url": "https://www.wsj.com/articles/the-u-a-e-has-been-secretly-carrying-out-attacks-on-iran-f1745a0d",
-        "publishedAt": "2026-05-12T02:20:00.000Z",
-        "relevanceScore": 3
+        "title": "[단독] 정승연, 국민의힘 탈당...개혁신당 입당 연수갑 보궐 출마",
+        "source": "인천투데이",
+        "url": "https://www.incheontoday.com/news/articleView.html?idxno=318777",
+        "publishedAt": "2026-05-12T07:10:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-12T02:20:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "iran",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/articles/the-u-a-e-has-been-secretly-carrying-out-attacks-on-iran-f1745a0d",
-      "rank": 3
-    },
-    {
-      "id": "89de55884ce6e0a0",
-      "issueKey": "지민",
-      "issueTitle": "지민",
-      "trendTitle": "지민",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "방탄소년단 지민, 실루엣만으로 콩닥콩닥~♥",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/music/2026/05/11/2026051107463318521",
-          "publishedAt": "2026-05-12T02:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[BTS News] 방탄소년단 지민, 멕시코시티 뒤흔든 본업천재…영화 속 왕자님에서 깜짝 복근 공개까지",
-          "source": "뷰어스",
-          "url": "https://theviewers.co.kr/View.aspx?No=4073928",
-          "publishedAt": "2026-05-12T02:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "방탄소년단 지민, 시스루 패션도 우아하게…미모 성수기",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260511n10359?mid=e0600",
-          "publishedAt": "2026-05-12T02:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "방탄소년단 지민, 실루엣만으로 콩닥콩닥~♥",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/music/2026/05/11/2026051107463318521",
-        "publishedAt": "2026-05-12T02:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T02:10:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "지민",
-      "source": "스타뉴스",
-      "url": "https://www.starnewskorea.com/music/2026/05/11/2026051107463318521",
-      "rank": 4
-    },
-    {
-      "id": "3154f950bc06dfc4",
-      "issueKey": "김용범",
-      "issueTitle": "김용범",
-      "trendTitle": "김용범",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김용범 “기업 초과이윤 환원할 ‘국민배당금’ 설계해야”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/blue_house/2026/05/12/NXCEEALZEZH4VJTDCKJX3OJ43Y/",
-          "publishedAt": "2026-05-12T02:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김용범, 삼성노조 협상 당일 밤 “AI 시대 과실 ‘국민 배당금’으로 환원돼야”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1258206.html",
-          "publishedAt": "2026-05-12T02:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "삼전닉스가 나라 곳간 채운다…청와대, 확장재정 시그널 [반도체가 바꾼 韓경제]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2583018?trc=right_categori_news",
-          "publishedAt": "2026-05-12T02:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김용범 “기업 초과이윤 환원할 ‘국민배당금’ 설계해야”",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/politics/blue_house/2026/05/12/NXCEEALZEZH4VJTDCKJX3OJ43Y/",
-        "publishedAt": "2026-05-12T02:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T02:00:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "김용범",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/politics/blue_house/2026/05/12/NXCEEALZEZH4VJTDCKJX3OJ43Y/",
+      "publishedAt": "2026-05-12T07:10:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "정승연",
+      "source": "인천투데이",
+      "url": "https://www.incheontoday.com/news/articleView.html?idxno=318777",
       "rank": 5
     },
     {
-      "id": "3979da0df6a44b09",
-      "issueKey": "kospi",
-      "issueTitle": "kospi",
-      "trendTitle": "kospi",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "91cd797909bb43a2",
+      "issueKey": "펄어비스 주가",
+      "issueTitle": "펄어비스 주가",
+      "trendTitle": "펄어비스 주가",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "KOSPI Surges 1.68% to 7,953.41, Nears 8,000 Milestone",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/market-money-en/2026/05/12/VEFMET7T5FCSBGX564ZVBVBPZU/",
-          "publishedAt": "2026-05-12T02:00:00.000Z",
+          "title": "'붉은사막' 대박에 펄어비스, 분기 최대 매출 3285억…영업익 2121억",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003626527",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[Photo] On the Verge of 8,000",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026051209281048230",
-          "publishedAt": "2026-05-12T02:00:00.000Z",
+          "title": "‘붉은사막’ 대박에 펄어비스 역대 최대 실적…“올해 매출 최대 9754억 전망\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/05/12/VTUJSGIFCZB43BSPWWT4WB2BNQ/",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "As the KOSPI approaches the 8,000-point level due to a semiconductor rally, the target stock price o..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/stock/12044166",
-          "publishedAt": "2026-05-12T02:00:00.000Z",
+          "title": "펄어비스, 1분기 영업익 2121억원…'붉은사막' 신드롬 통했다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260512165159",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "KOSPI Surges 1.68% to 7,953.41, Nears 8,000 Milestone",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/market-money-en/2026/05/12/VEFMET7T5FCSBGX564ZVBVBPZU/",
-        "publishedAt": "2026-05-12T02:00:00.000Z",
+        "title": "펄어비스 주가",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260512_0003626527",
+        "publishedAt": "2026-05-12T07:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-12T02:00:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "kospi",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/english/market-money-en/2026/05/12/VEFMET7T5FCSBGX564ZVBVBPZU/",
+      "publishedAt": "2026-05-12T07:00:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "펄어비스 주가",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260512_0003626527",
       "rank": 6
     },
     {
-      "id": "c99f2fddaf384bb2",
-      "issueKey": "신화",
-      "issueTitle": "신화",
-      "trendTitle": "신화",
+      "id": "608859dada11aeaa",
+      "issueKey": "조선의 사랑꾼",
+      "issueTitle": "조선의 사랑꾼",
+      "trendTitle": "조선의 사랑꾼",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "김동완, 이번에는 '8번 이혼' 유퉁에 소신 발언…\"남 인생 함부로 논할 수 없어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260511173957126",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
+          "title": "'예비신부' 한윤서 \"이 결혼이 맞나…매일 밤 기도해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003625289",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "신화 김동완, 결혼 8번 유퉁에 소신발언 \"누구도 함부로 논할 수 없어\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/11/HFTDMZJVMRSDGN3DGY3GCYTFGA/",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
+          "title": "‘조선의사랑꾼’ 신랑 흉보다 위기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260512083050955",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김동완 또 소신 발언…\"'8번 이혼' 유퉁, 함부로 논할 수 없다\"",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20260511_0003625030",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
+          "title": "41세 한윤서, 드디어 결혼하나..반대 시모 마음 움직였다 \"볼수록 착해\"(조선의 사랑꾼)[어저께TV]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GQ2TSZRUHFTDCZRYMU2DCZJZGQ/",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "신화 김동완, 결혼 8번 유퉁에 소신발언 \"누구도 함부로 논할 수 없어\" - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/11/HFTDMZJVMRSDGN3DGY3GCYTFGA/",
-        "publishedAt": "2026-05-12T01:50:00.000Z",
-        "relevanceScore": 2
+        "title": "41세 한윤서, 드디어 결혼하나..반대 시모 마음 움직였다 \"볼수록 착해\"(조선의 사랑꾼)[어저께TV]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GQ2TSZRUHFTDCZRYMU2DCZJZGQ/",
+        "publishedAt": "2026-05-12T07:00:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-05-12T01:50:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "신화",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/11/HFTDMZJVMRSDGN3DGY3GCYTFGA/",
+      "publishedAt": "2026-05-12T07:00:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "조선의 사랑꾼",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GQ2TSZRUHFTDCZRYMU2DCZJZGQ/",
       "rank": 7
     },
     {
-      "id": "4aa08612a8f6e9e4",
-      "issueKey": "cnn",
-      "issueTitle": "cnn",
-      "trendTitle": "cnn",
+      "id": "da69ba98156a5974",
+      "issueKey": "사우나",
+      "issueTitle": "사우나",
+      "trendTitle": "사우나",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Live updates: Trump says ceasefire with Iran on ‘massive life support’ after he rejects Tehran’s proposal",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/05/11/world/live-news/iran-war-proposal-trump",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
+          "title": "[제보#] 폰 끄고 삼겹살 굽고…'속세' 떠나 사우나 향하는 MZ",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260512052500505",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Trump news at a glance: president says he ‘didn’t even finish reading’ Iran’s peace proposals",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/may/11/trump-news-latest-updates-today",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
+          "title": "술 마시는 것보다 낫다… 2030 세대 놀이터가 된 '의외의 장소'",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1136097",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Iran War Live News Updates: Trump Says Iran Ceasefire Is on ‘Massive Life Support’",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/livecoverage/iran-trump-war-news",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
+          "title": "“핫하다 핫해”…뜨겁게 달아오른 차세대 힐링공간 ‘1인 OOO’",
+          "source": "농민신문",
+          "url": "https://www.nongmin.com/article/20260508500548",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "cnn",
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/05/11/world/live-news/iran-war-proposal-trump",
-        "publishedAt": "2026-05-12T01:50:00.000Z",
+        "title": "[제보#] 폰 끄고 삼겹살 굽고…'속세' 떠나 사우나 향하는 MZ",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260512052500505",
+        "publishedAt": "2026-05-12T07:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-12T01:50:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "cnn",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/05/11/world/live-news/iran-war-proposal-trump",
+      "publishedAt": "2026-05-12T07:00:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "사우나",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260512052500505",
       "rank": 8
     },
     {
-      "id": "ed27fcae6f8c48ac",
-      "issueKey": "주왕산 초등학생",
-      "issueTitle": "주왕산 초등학생",
-      "trendTitle": "주왕산 초등학생",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "d76a8666477be9ed",
+      "issueKey": "이재영",
+      "issueTitle": "이재영",
+      "trendTitle": "이재영",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "청송 주왕산 실종 초등생, 정상 부근서 숨진 채 발견",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/yeongnam/1258221.html",
-          "publishedAt": "2026-05-12T01:40:00.000Z",
+          "title": "이재영, 일본 여자배구 히메지 퇴단…\"복귀 기회 준 구단 감사\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260512140703132",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "청송 주왕산 실종 11살 초등생…실종 사흘째 숨진 채 발견",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260512121106860",
-          "publishedAt": "2026-05-12T01:40:00.000Z",
+          "title": "이재영, 일본 여자배구 히메지와 결별…\"복귀 기회 줘 감사\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003626179",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "주왕산 실종 초등생, 사흘만에 숨진 채 발견…“실족 후 사망 추정”",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25427580",
-          "publishedAt": "2026-05-12T01:40:00.000Z",
+          "title": "이재영, 日여자배구 히메지 퇴단 \"부상 회복...새 팀 찾을 것\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260512000998",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "주왕산 초등학생",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/area/yeongnam/1258221.html",
-        "publishedAt": "2026-05-12T01:40:00.000Z",
+        "title": "이재영, 일본 여자배구 히메지 퇴단…\"복귀 기회 준 구단 감사\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260512140703132",
+        "publishedAt": "2026-05-12T06:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-12T01:40:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "주왕산 초등학생",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/area/yeongnam/1258221.html",
+      "publishedAt": "2026-05-12T06:50:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "이재영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260512140703132",
       "rank": 9
+    },
+    {
+      "id": "9becf3bfac7b03b4",
+      "issueKey": "노상원",
+      "issueTitle": "노상원",
+      "trendTitle": "노상원",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "대법 '제2수사단' 노상원 징역 2년 확정‥계엄 관련 첫 확정판결",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6821803_36918.html",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘부정선거 수사단’ 노상원 징역 2년... 비상계엄 사건 첫 대법원 확정",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/05/12/P4W4ZU2BVZDMPC6XVDOVHFWO5Y/",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[그래픽] 노상원 전 정보사령관 대법원 선고 결과",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20260512000400044",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "대법 '제2수사단' 노상원 징역 2년 확정‥계엄 관련 첫 확정판결",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6821803_36918.html",
+        "publishedAt": "2026-05-12T06:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T06:50:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "노상원",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6821803_36918.html",
+      "rank": 10
     }
   ],
   "history": [
@@ -491,8 +538,15 @@
       "approxTraffic": "20000+",
       "trafficScore": 20000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 6,
       "relatedArticles": [
+        {
+          "title": "8천피 아슬아슬하게 놓친 코스피, 급락한 배경은",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 3
+        },
         {
           "title": "파죽지세 코스피 7870선도 뚫어내, 1만2000간다 전망까지 등장",
           "source": "조선일보",
@@ -501,11 +555,25 @@
           "relevanceScore": 3
         },
         {
+          "title": "외인 '사자' vs 개인 '팔자'…치열한 수급 힘겨루기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260512172709949",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
           "title": "코스피 8천피가 눈앞에…시총도 7천조 넘어서",
           "source": "KBS 뉴스",
           "url": "https://news.kbs.co.kr/news/view.do?ncd=8557851",
           "publishedAt": "2026-05-11T08:00:00.000Z",
           "relevanceScore": 2
+        },
+        {
+          "title": "외국인 투매에도 끄떡없는 개미들…'8천피' 믿음 여전(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003626454",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 1
         },
         {
           "title": "코스피 7800 돌파, 4일 연속 ‘사상 최고’…반도체 랠리 지속",
@@ -516,18 +584,18 @@
         }
       ],
       "representativeArticle": {
-        "title": "파죽지세 코스피 7870선도 뚫어내, 1만2000간다 전망까지 등장",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/stock-finance/2026/05/11/VL54W2FY7JB5RJZMP7XTXRQKAU/",
-        "publishedAt": "2026-05-11T08:00:00.000Z",
+        "title": "8천피 아슬아슬하게 놓친 코스피, 급락한 배경은",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373",
+        "publishedAt": "2026-05-12T07:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-11T08:00:00.000Z",
+      "publishedAt": "2026-05-12T07:30:00.000Z",
       "firstSeenAt": "2026-05-11T09:40:33.669Z",
-      "lastSeenAt": "2026-05-11T09:40:33.669Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
       "title": "코스피",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/stock-finance/2026/05/11/VL54W2FY7JB5RJZMP7XTXRQKAU/"
+      "source": "연합인포맥스",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373"
     },
     {
       "id": "c81d9ab768863b29",
@@ -873,52 +941,6 @@
       "url": "https://weather.com/forecast/national/news/2026-05-06-mothers-day-weather-forecast-wet-south-midwest"
     },
     {
-      "id": "ac436a3cfd671495",
-      "issueKey": "전북",
-      "issueTitle": "전북",
-      "trendTitle": "전북",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'닥공' 살아난 K리그1 전북, 주말 안양 상대로 4연승 도전",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003622275",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전북전 '4연패' 징크스 극복 나서는 안양 유병훈 감독 \"졌잘싸에서 끝나지 않고 방법 가리지 않고 승리\"[현장인터뷰]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260510n10672?mid=n0100",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'아일톤-김운-최건주' 안양 VS '모따 원톱' 전북, 맞대결 명단발표[오!쎈현장]",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112798637",
-          "publishedAt": "2026-05-10T06:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'닥공' 살아난 K리그1 전북, 주말 안양 상대로 4연승 도전",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260508_0003622275",
-        "publishedAt": "2026-05-10T06:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T06:50:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "전북",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260508_0003622275"
-    },
-    {
       "id": "4e4e174b837b0982",
       "issueKey": "경기 프리뷰",
       "issueTitle": "경기 프리뷰",
@@ -1044,6 +1066,98 @@
       "title": "west ham vs arsenal",
       "source": "Sky Sports",
       "url": "https://www.skysports.com/football/live-blog/11095/13541033/west-ham-vs-arsenal-live-premier-league-match-commentary-updates-team-news-and-score-live-on-sky-sports"
+    },
+    {
+      "id": "207fd373900595be",
+      "issueKey": "손아섭",
+      "issueTitle": "손아섭",
+      "trendTitle": "손아섭",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'깜짝 트레이드 주인공' 손아섭 주고 데려온 군필 좌완, 1군 복귀 언제? 1이닝 1K 무실점→부진 탈출 신호 되나",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260512n02458",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "한화-두산 트레이드, 실체가 사라졌다… 손아섭마저 2군서 고전, 아무도 1군서 안 보인다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260509012715298",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "드디어 감 잡았나…'타율 .111→2군행 충격' 손아섭, 안타-2루타에 타점까지 부활 청신호? [오!쎈 퓨처스]",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260509022118665",
+          "publishedAt": "2026-05-12T07:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'깜짝 트레이드 주인공' 손아섭 주고 데려온 군필 좌완, 1군 복귀 언제? 1이닝 1K 무실점→부진 탈출 신호 되나",
+        "source": "네이트 스포츠",
+        "url": "https://sports.news.nate.com/view/20260512n02458",
+        "publishedAt": "2026-05-12T07:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T07:10:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "손아섭",
+      "source": "네이트 스포츠",
+      "url": "https://sports.news.nate.com/view/20260512n02458"
+    },
+    {
+      "id": "d76a8666477be9ed",
+      "issueKey": "이재영",
+      "issueTitle": "이재영",
+      "trendTitle": "이재영",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이재영, 일본 여자배구 히메지 퇴단…\"복귀 기회 준 구단 감사\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260512140703132",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이재영, 일본 여자배구 히메지와 결별…\"복귀 기회 줘 감사\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003626179",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이재영, 日여자배구 히메지 퇴단 \"부상 회복...새 팀 찾을 것\"",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260512000998",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이재영, 일본 여자배구 히메지 퇴단…\"복귀 기회 준 구단 감사\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260512140703132",
+        "publishedAt": "2026-05-12T06:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T06:50:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "이재영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260512140703132"
     },
     {
       "id": "b000bfe22ddb911c",
@@ -1276,188 +1390,188 @@
       "url": "https://www.munhwa.com/article/11587929"
     },
     {
-      "id": "dd41f7b7d700294c",
-      "issueKey": "영국",
-      "issueTitle": "영국",
-      "trendTitle": "영국",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "8c4f749c241ea843",
+      "issueKey": "유재석",
+      "issueTitle": "유재석",
+      "trendTitle": "유재석",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "英 양당체제 사실상 붕괴…노동당 지방선거 참패 [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8556830",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "영국 극우, 지방의회 30% 석권…노동당은 1400석 잃어 참패",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/europe/1257954.html",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "영국서 한국계 구의원 5명 탄생…한류 타고 역대 최다",
+          "title": "양상국, 연이은 '태도 논란' 속…과거 식당 사장 발언 재평가 \"지가 잘하는 줄 안다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/xA1AM6MVXK?f=p",
-          "publishedAt": "2026-05-10T07:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "영국 극우, 지방의회 30% 석권…노동당은 1400석 잃어 참패",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/international/europe/1257954.html",
-        "publishedAt": "2026-05-10T07:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-10T07:00:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "영국",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/international/europe/1257954.html"
-    },
-    {
-      "id": "bc72cbaec4e642e0",
-      "issueKey": "신지",
-      "issueTitle": "신지",
-      "trendTitle": "신지",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“내 여동생이면 절대 안 시켜”…신지 결혼에 작심 조언한 변호사",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260510/133891929/1",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
+          "url": "https://v.daum.net/v/20260512163116138",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"내 여동생이면 절대 결혼 안 시켜\" 변호사, 신지·문원 부부에 직언 '파장' [ST이슈]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260510n06122",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“부부재산 약정 써라”…신지 결혼에 직언한 법조인, 왜?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260510110106629",
-          "publishedAt": "2026-05-10T06:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“내 여동생이면 절대 안 시켜”…신지 결혼에 작심 조언한 변호사",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20260510/133891929/1",
-        "publishedAt": "2026-05-10T06:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T06:40:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "신지",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Culture/article/all/20260510/133891929/1"
-    },
-    {
-      "id": "b4f3670df1bad23c",
-      "issueKey": "대우건설",
-      "issueTitle": "대우건설",
-      "trendTitle": "대우건설",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "대우건설, 임직원과 중랑천 일대 '생태 정원' 조성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260508110156728",
-          "publishedAt": "2026-05-10T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대우건설, 중랑천에 ‘대우건설 Nature’ 정원 조성 준공",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04431286645446952",
-          "publishedAt": "2026-05-10T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[오늘의 건설 브리핑] ESG·상생·인재·AI까지···건설업계 '현장형 미래 전략' 가속",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260508n26643",
-          "publishedAt": "2026-05-10T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대우건설, 임직원과 중랑천 일대 '생태 정원' 조성",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260508110156728",
-        "publishedAt": "2026-05-10T06:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-10T06:30:00.000Z",
-      "firstSeenAt": "2026-05-10T08:08:42.357Z",
-      "lastSeenAt": "2026-05-10T08:08:42.357Z",
-      "title": "대우건설",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260508110156728"
-    },
-    {
-      "id": "48b2a3c02c122eb1",
-      "issueKey": "시즌 아웃이다",
-      "issueTitle": "시즌 아웃이다",
-      "trendTitle": "시즌 아웃이다",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "NBA '정규시즌 1위' OKC·디트로이트, 나란히 PO 2R 2연승",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260508_0003621852",
-          "publishedAt": "2026-05-10T00:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "최악의 경우 시즌 아웃이다! 암담한 루카 돈치치의 복귀. 美 매체 \"러닝 훈련 시작, 풀 컨택트 돌입조차 못하고 있다\"",
+          "title": "[단독] 양상국 \"유재석 무례 논란? 실제는 아냐...의욕 지나쳤다\" 사과 (직격인터뷰)",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/basketball/2026/05/09/GY2TAY3GG4ZGKMRSGQ3WKYTDMQ/",
-          "publishedAt": "2026-05-10T00:10:00.000Z",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GIZTAZBTMEYTIZBVGQYDSNJXGU/",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘미첼 24점+SGA 23점’ 뎁스의 힘 과시한 OKC, LA 레이커스 격파하고 NBA PO 7연승 질주…2년 연속 콘퍼런스 결승행 -1승",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260510/133891262/1",
-          "publishedAt": "2026-05-10T00:10:00.000Z",
+          "title": "양상국, 또 선 넘었다…고성·돌려차기에 “시끄럽고 폭력적” 비판 쏟아져",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202605111701003",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "최악의 경우 시즌 아웃이다! 암담한 루카 돈치치의 복귀. 美 매체 \"러닝 훈련 시작, 풀 컨택트 돌입조차 못하고 있다\"",
+        "title": "[단독] 양상국 \"유재석 무례 논란? 실제는 아냐...의욕 지나쳤다\" 사과 (직격인터뷰)",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/basketball/2026/05/09/GY2TAY3GG4ZGKMRSGQ3WKYTDMQ/",
-        "publishedAt": "2026-05-10T00:10:00.000Z",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GIZTAZBTMEYTIZBVGQYDSNJXGU/",
+        "publishedAt": "2026-05-12T07:30:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-05-10T00:10:00.000Z",
-      "firstSeenAt": "2026-05-10T03:23:10.230Z",
-      "lastSeenAt": "2026-05-10T03:23:10.230Z",
-      "title": "시즌 아웃이다",
+      "publishedAt": "2026-05-12T07:30:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "유재석",
       "source": "조선일보",
-      "url": "https://www.chosun.com/sports/basketball/2026/05/09/GY2TAY3GG4ZGKMRSGQ3WKYTDMQ/"
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GIZTAZBTMEYTIZBVGQYDSNJXGU/"
+    },
+    {
+      "id": "e7aa831058574b42",
+      "issueKey": "삼성 라이온즈",
+      "issueTitle": "삼성 라이온즈",
+      "trendTitle": "삼성 라이온즈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'아뿔싸' 삼성 타율 0.286 포수 잃었다, 또 햄스트링이 말썽이네…강민호 언제 돌아올까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PmuLMNkLsJ",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼성 포수 김도환, 햄스트링 미세 손상…1군 엔트리 말소",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6164074",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'또 햄스트링 부상' 김영웅, '25김도영' 떠오르네…확실히 다스리고 돌아와야 [SS포커스]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260511n19704?sect=s01&amp;list=rank&amp;cate=interest",
+          "publishedAt": "2026-05-12T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "삼성 라이온즈",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/PmuLMNkLsJ",
+        "publishedAt": "2026-05-12T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T07:30:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "삼성 라이온즈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/PmuLMNkLsJ"
+    },
+    {
+      "id": "91cd797909bb43a2",
+      "issueKey": "펄어비스 주가",
+      "issueTitle": "펄어비스 주가",
+      "trendTitle": "펄어비스 주가",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'붉은사막' 대박에 펄어비스, 분기 최대 매출 3285억…영업익 2121억",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003626527",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘붉은사막’ 대박에 펄어비스 역대 최대 실적…“올해 매출 최대 9754억 전망\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/it-science/ict/2026/05/12/VTUJSGIFCZB43BSPWWT4WB2BNQ/",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "펄어비스, 1분기 영업익 2121억원…'붉은사막' 신드롬 통했다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260512165159",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "펄어비스 주가",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260512_0003626527",
+        "publishedAt": "2026-05-12T07:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T07:00:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "펄어비스 주가",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260512_0003626527"
+    },
+    {
+      "id": "9becf3bfac7b03b4",
+      "issueKey": "노상원",
+      "issueTitle": "노상원",
+      "trendTitle": "노상원",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "대법 '제2수사단' 노상원 징역 2년 확정‥계엄 관련 첫 확정판결",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6821803_36918.html",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘부정선거 수사단’ 노상원 징역 2년... 비상계엄 사건 첫 대법원 확정",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/court_law/2026/05/12/P4W4ZU2BVZDMPC6XVDOVHFWO5Y/",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[그래픽] 노상원 전 정보사령관 대법원 선고 결과",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20260512000400044",
+          "publishedAt": "2026-05-12T06:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "대법 '제2수사단' 노상원 징역 2년 확정‥계엄 관련 첫 확정판결",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6821803_36918.html",
+        "publishedAt": "2026-05-12T06:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T06:50:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "노상원",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6821803_36918.html"
     },
     {
       "id": "b6417036b5e0a5dc",
@@ -2196,6 +2310,52 @@
       "url": "https://www.newsis.com/view/NISI20260510_0002131304"
     },
     {
+      "id": "608859dada11aeaa",
+      "issueKey": "조선의 사랑꾼",
+      "issueTitle": "조선의 사랑꾼",
+      "trendTitle": "조선의 사랑꾼",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'예비신부' 한윤서 \"이 결혼이 맞나…매일 밤 기도해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003625289",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘조선의사랑꾼’ 신랑 흉보다 위기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260512083050955",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "41세 한윤서, 드디어 결혼하나..반대 시모 마음 움직였다 \"볼수록 착해\"(조선의 사랑꾼)[어저께TV]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GQ2TSZRUHFTDCZRYMU2DCZJZGQ/",
+          "publishedAt": "2026-05-12T07:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "41세 한윤서, 드디어 결혼하나..반대 시모 마음 움직였다 \"볼수록 착해\"(조선의 사랑꾼)[어저께TV]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GQ2TSZRUHFTDCZRYMU2DCZJZGQ/",
+        "publishedAt": "2026-05-12T07:00:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-12T07:00:00.000Z",
+      "firstSeenAt": "2026-05-12T08:40:55.221Z",
+      "lastSeenAt": "2026-05-12T08:40:55.221Z",
+      "title": "조선의 사랑꾼",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GQ2TSZRUHFTDCZRYMU2DCZJZGQ/"
+    },
+    {
       "id": "3154f950bc06dfc4",
       "issueKey": "김용범",
       "issueTitle": "김용범",
@@ -2240,98 +2400,6 @@
       "title": "김용범",
       "source": "조선일보",
       "url": "https://www.chosun.com/politics/blue_house/2026/05/12/NXCEEALZEZH4VJTDCKJX3OJ43Y/"
-    },
-    {
-      "id": "c99f2fddaf384bb2",
-      "issueKey": "신화",
-      "issueTitle": "신화",
-      "trendTitle": "신화",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김동완, 이번에는 '8번 이혼' 유퉁에 소신 발언…\"남 인생 함부로 논할 수 없어\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260511173957126",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "신화 김동완, 결혼 8번 유퉁에 소신발언 \"누구도 함부로 논할 수 없어\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/11/HFTDMZJVMRSDGN3DGY3GCYTFGA/",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김동완 또 소신 발언…\"'8번 이혼' 유퉁, 함부로 논할 수 없다\"",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/view.html?ar_id=NISX20260511_0003625030",
-          "publishedAt": "2026-05-12T01:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "신화 김동완, 결혼 8번 유퉁에 소신발언 \"누구도 함부로 논할 수 없어\" - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/11/HFTDMZJVMRSDGN3DGY3GCYTFGA/",
-        "publishedAt": "2026-05-12T01:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-12T01:50:00.000Z",
-      "firstSeenAt": "2026-05-12T03:22:45.890Z",
-      "lastSeenAt": "2026-05-12T03:22:45.890Z",
-      "title": "신화",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/entertainment/enter_general/2026/05/11/HFTDMZJVMRSDGN3DGY3GCYTFGA/"
-    },
-    {
-      "id": "f2270dfd679fd626",
-      "issueKey": "epl",
-      "issueTitle": "epl",
-      "trendTitle": "epl",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "VAR Controversy Shakes EPL Title Race, Relegation",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/05/12/JCKINPCVDZH23PSYTRDKNB5E5M/",
-          "publishedAt": "2026-05-11T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Watch a full match replay from our West Ham clash | Video | News",
-          "source": "Arsenal.com",
-          "url": "https://www.arsenal.com/news/watch-full-match-replay-our-west-ham-clash-0",
-          "publishedAt": "2026-05-11T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Five 'fouls' in one move - breaking down Premier League corner chaos",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cd9p01l1x5zo",
-          "publishedAt": "2026-05-11T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "VAR Controversy Shakes EPL Title Race, Relegation",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/05/12/JCKINPCVDZH23PSYTRDKNB5E5M/",
-        "publishedAt": "2026-05-11T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-11T21:00:00.000Z",
-      "firstSeenAt": "2026-05-11T22:08:05.489Z",
-      "lastSeenAt": "2026-05-11T22:08:05.489Z",
-      "title": "epl",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/english/sports-en/2026/05/12/JCKINPCVDZH23PSYTRDKNB5E5M/"
     }
   ]
 }
