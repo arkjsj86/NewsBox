@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-05-11T22:08:05.489Z",
-  "articleCount": 10,
+  "lastUpdatedAt": "2026-05-12T03:22:45.890Z",
+  "articleCount": 11,
   "articles": [
+    {
+      "id": "37f466beb6dfb994",
+      "title": "AI 급변기 기술력 기준 재편…AI 시대 기업의 채용 신호 엇갈려",
+      "url": "https://www.itworld.co.kr/article/4169755/ai-%ea%b8%89%eb%b3%80%ea%b8%b0-%ea%b8%b0%ec%88%a0%eb%a0%a5-%ea%b8%b0%ec%a4%80-%ec%9e%ac%ed%8e%b8ai-%ec%8b%9c%eb%8c%80-%ea%b8%b0%ec%97%85%ec%9d%98-%ec%b1%84%ec%9a%a9-%ec%8b%a0%ed%98%b8.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-12T01:59:45.000Z",
+      "summary": "미국 직장에서 채용 동결·감원 기조가 이어지면서 기술 인력 채용 속도가 둔화했지만, 기업은 한 가지 이득을 얻었다. 직무 후보자 선별이 쉬워진 것이다. 많은 기업이 신입 사원에게 요구하는 자격이 더욱 명확해졌다. 대규모 코드 스택을 관리하는 역량보다 기업 수익과 운영에 직접 영향을 미칠 수 있는 능력을 더 중시하는 추세다. 맨파워그룹 산하 인력소개 회사 엑스퍼리스(Experis)의 대표...",
+      "tab": "ai"
+    },
+    {
+      "id": "3ff2ea6d0ad38afe",
+      "title": "사용자 신뢰를 잃지 않고 AI를 제품에 통합하려면?",
+      "url": "https://www.itworld.co.kr/article/4169753/%ec%82%ac%ec%9a%a9%ec%9e%90-%ec%8b%a0%eb%a2%b0%eb%a5%bc-%ec%9e%83%ec%a7%80-%ec%95%8a%ea%b3%a0-ai%eb%a5%bc-%ec%a0%9c%ed%92%88%ec%97%90-%ed%86%b5%ed%95%a9%ed%95%98%eb%a0%a4%eb%a9%b4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-12T01:37:10.000Z",
+      "summary": "생성형 AI가 소프트웨어 엔지니어링 발전에서 유망한 성과를 보였지만, 최종 사용자 애플리케이션에 포함되는 방식은 사뭇 다르다. AI 레이블이 붙은 기능이 모든 사용자 인터페이스에 계속 나타나고 있지만, 항상 도움이 되거나 유용한 것은 아니다. 과대광고에 영향을 받을 때가 많으며, 사용자를 더 산만하게 하기도 하고 심한 경우 생산성을 해치기도 한다. 스택 오버플로의 최고상품기술책임자 조디...",
+      "tab": "ai"
+    },
     {
       "id": "39cf4e9173a4f9af",
       "title": "미국 정부, 생성형 AI 모델 출시 전 안전 테스트 실시",
@@ -86,15 +104,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-05-06T01:49:12.000Z",
       "summary": "가트너는 최근 AI 에이전트와 지능형 자동화 도구를 이미 사용 중인 대형 기업의 글로벌 비즈니스 리더 350명을 대상으로 설문 조사를 실시했다. 응답자의 80%가 AI 도입으로 인원이 감소했다고 밝혔으며, 최대 20%까지 줄었다는 사례도 있었다. 그러나 이 감원이 고위 경영진이 기대하는 것만큼 기업에 유익하지는 않은 것으로 나타났다. 가트너의 수석 부사장 애널리스트 헬렌 포이트뱅은 “R...",
-      "tab": "ai"
-    },
-    {
-      "id": "7fe8233400fdbf74",
-      "title": "친절한 AI 챗봇이 더 많이 틀린다…옥스퍼드 연구",
-      "url": "https://www.itworld.co.kr/article/4166253/%ec%b9%9c%ec%a0%88%ed%95%9c-ai-%ec%b1%97%eb%b4%87%ec%9d%b4-%eb%8d%94-%eb%a7%8e%ec%9d%b4-%ed%8b%80%eb%a6%b0%eb%8b%a4-%ec%98%a5%ec%8a%a4%ed%8d%bc%eb%93%9c-%ec%97%b0%ea%b5%ac.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-03T23:44:18.000Z",
-      "summary": "옥스퍼드 인터넷 인스티튜트(Oxford Internet Institute)의 새 연구에 따르면, 더 따뜻하고 친절하며 공감적으로 훈련된 ‘친근한’ AI 챗봇일수록 답변의 질이 낮고 정확도도 떨어지는 것으로 나타났다. 해당 연구는 BBC가 최초로 보도했다. 연구팀은 크기와 아키텍처가 서로 다른 AI 모델 5종이 생성한 40만 건 이상의 응답을 분석했다. 분석 대상은 메타의 라마-8B(Ll...",
       "tab": "ai"
     }
   ]
