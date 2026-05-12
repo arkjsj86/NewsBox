@@ -7,14 +7,296 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-12T14:26:50.577Z",
+  "lastUpdatedAt": "2026-05-12T17:11:38.426Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
+      "id": "78557814be8b3358",
+      "issueKey": "뉴욕증시",
+      "issueTitle": "뉴욕증시",
+      "trendTitle": "나스닥",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "뉴욕증시, 이란 전쟁 재개 조짐에도 일단 매수…강세 마감",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414204",
+          "publishedAt": "2026-05-12T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "뉴욕증시, 3대 지수 동반 하락 출발… 미·이란 갈등 고조 반영 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/international/international_economy/2026/05/12/VEJUTUEVSRBUPNBTPVIHJE2TPM/",
+          "publishedAt": "2026-05-12T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "중동 긴장에도 기술주 랠리…S&P500·나스닥 최고치 마감",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003625158",
+          "publishedAt": "2026-05-12T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "뉴욕증시, 이란 전쟁 재개 조짐에도 일단 매수…강세 마감",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414204",
+        "publishedAt": "2026-05-12T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T16:00:00.000Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "뉴욕증시",
+      "source": "연합인포맥스",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414204",
+      "rank": 1
+    },
+    {
+      "id": "8f47e1536563677d",
+      "issueKey": "에어부산",
+      "issueTitle": "에어부산",
+      "trendTitle": "에어부산",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘유류할증료 부담 No'...일본·동남아 항공권 특가 예매 서두르자",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3578861",
+          "publishedAt": "2026-05-12T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“여름철 최애 여행지, 지금이 싸다”…에어부산, 지역별로 두 차례 나눠 국제선 특가 대방출",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11586996",
+          "publishedAt": "2026-05-12T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "에어부산, 2주간 국제선 '반값 발길' 할인 이벤트 열어",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260506n03474?mid=m03&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-05-12T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“여름철 최애 여행지, 지금이 싸다”…에어부산, 지역별로 두 차례 나눠 국제선 특가 대방출",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11586996",
+        "publishedAt": "2026-05-12T15:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-12T15:30:00.000Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "에어부산",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11586996",
+      "rank": 2
+    },
+    {
+      "id": "6d70d67a68e3f8b7",
+      "issueKey": "디렉티브 8020",
+      "issueTitle": "디렉티브 8020",
+      "trendTitle": "디렉티브 8020",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Directive 8020 Review",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/directive-8020-review",
+          "publishedAt": "2026-05-12T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Directive 8020 Review - A Failed Copy",
+          "source": "Game Informer",
+          "url": "https://gameinformer.com/review/directive-8020/a-failed-copy",
+          "publishedAt": "2026-05-12T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "The Dark Pictures Anthology Has Never Been More Adrift | Directive 8020 Review",
+          "source": "GameSpot",
+          "url": "https://www.gamespot.com/reviews/the-dark-pictures-anthology-has-never-been-more-adrift-directive-8020-review/1900-6418488/",
+          "publishedAt": "2026-05-12T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "디렉티브 8020",
+        "source": "IGN",
+        "url": "https://www.ign.com/articles/directive-8020-review",
+        "publishedAt": "2026-05-12T14:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T14:50:00.000Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "디렉티브 8020",
+      "source": "IGN",
+      "url": "https://www.ign.com/articles/directive-8020-review",
+      "rank": 3
+    },
+    {
+      "id": "68d745bef778cede",
+      "issueKey": "김다영",
+      "issueTitle": "김다영",
+      "trendTitle": "김다영",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "동상이몽2_너는 내 운명 : 배성재, 결혼 1주년 맞아 놀이공원에서 간식으로 치팅 즐기며 행복",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC479460702",
+          "publishedAt": "2026-05-12T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "배성재♥김다영, 교복 입고 놀이공원…\"장가 가서 엄청 호강\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260512_0003625489",
+          "publishedAt": "2026-05-12T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김다영, ♥배성재 카드 꽂고 다니다 비밀 연애 발칵..거울 셀카로 시기 유추까지(동상이몽2)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GM2TQY3GME4GCYTBME3DCNRUGY/",
+          "publishedAt": "2026-05-12T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "배성재♥김다영, 교복 입고 놀이공원…\"장가 가서 엄청 호강\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260512_0003625489",
+        "publishedAt": "2026-05-12T14:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-12T14:50:00.000Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "김다영",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260512_0003625489",
+      "rank": 4
+    },
+    {
+      "id": "7c3495b5ff7cf1da",
+      "issueKey": "무리뉴",
+      "issueTitle": "무리뉴",
+      "trendTitle": "무리뉴",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "무리뉴, '레알 복귀' 본격 시동...2가지 핵심 조건 내세웠다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/05/12/MJSDOZDGGI3TINRRMMYDMYJYMU/",
+          "publishedAt": "2026-05-12T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "직접 입 열었다! 무리뉴 감독, 레알 관련 소문에 \"일주일만 기다려줘\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qHmPFFUZCD",
+          "publishedAt": "2026-05-12T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘공식입장 진짜 떴다' 무리뉴 감독, 레알 마드리드 복귀 임박…레알 페레즈 회장 “무리뉴 감독 원한다면 레알 감독 될 수 있다” 공개선언",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=816018",
+          "publishedAt": "2026-05-12T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "무리뉴, '레알 복귀' 본격 시동...2가지 핵심 조건 내세웠다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/05/12/MJSDOZDGGI3TINRRMMYDMYJYMU/",
+        "publishedAt": "2026-05-12T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-12T14:40:00.000Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "무리뉴",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/05/12/MJSDOZDGGI3TINRRMMYDMYJYMU/",
+      "rank": 5
+    },
+    {
+      "id": "a406f24c04ac1013",
+      "issueKey": "gt vs srh",
+      "issueTitle": "gt vs srh",
+      "trendTitle": "gt vs srh",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Super Stat of the Day - The Powerplay difference between Gujarat and Hyderabad",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/48750323/super-stat-day-gujarat-vs-hyderabad",
+          "publishedAt": "2026-05-12T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "GT vs SRH Live Score, IPL 2026: SRH bowl first vs GT in Ahmedabad",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-sunrisers-hyderabad-56th-match-1529299/live-match-blog",
+          "publishedAt": "2026-05-12T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "IPL 2026: SRH take on GT with eye on playoffs",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ipl-2026-srh-gt-eye-090800528.html",
+          "publishedAt": "2026-05-12T14:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "GT vs SRH Live Score, IPL 2026: SRH bowl first vs GT in Ahmedabad",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-sunrisers-hyderabad-56th-match-1529299/live-match-blog",
+        "publishedAt": "2026-05-12T14:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-12T14:10:00.000Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "gt vs srh",
+      "source": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-sunrisers-hyderabad-56th-match-1529299/live-match-blog",
+      "rank": 6
+    },
+    {
       "id": "8e309963dd0ae2a0",
-      "issueKey": "리플",
+      "issueKey": "온도 파이낸스",
       "issueTitle": "리플",
       "trendTitle": "리플",
       "approxTraffic": "500+",
@@ -23,41 +305,41 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "리플, 기관 대상 프라임 브로커리지 사업 확대…2억 달러 자금 조달",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/blockchain-fintech/6164019",
+          "title": "XRP, SWIFT 'ISO 20022' 대변혁 중심에 서나…글로벌 금융 판도 뒤바뀐다",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Securities/2026/05/20260510110814986e250e8e188_1",
           "publishedAt": "2026-05-12T13:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "리플 프라임 브로커리지 사업부, 2억 달러 대출 확보",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/cryptocurrency-news/article-93CH-1937616",
+          "title": "리플(XRP), 온도 파이낸스·JP모건과 협력으로 토큰화 자산 시장 확대",
+          "source": "토큰포스트",
+          "url": "https://www.tokenpost.kr/news/cryptocurrency/358832",
           "publishedAt": "2026-05-12T13:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "리플, 프라임 브로커리지 키운다…뉴버거에서 2억달러 조달",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1084438",
+          "title": "마스터카드, 페이팔 홀딩스, 비자, 영국 경쟁 조사를 받다",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-1929912",
           "publishedAt": "2026-05-12T13:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "리플, 기관 대상 프라임 브로커리지 사업 확대…2억 달러 자금 조달",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/finance/blockchain-fintech/6164019",
+        "title": "리플(XRP), 온도 파이낸스·JP모건과 협력으로 토큰화 자산 시장 확대",
+        "source": "토큰포스트",
+        "url": "https://www.tokenpost.kr/news/cryptocurrency/358832",
         "publishedAt": "2026-05-12T13:10:00.000Z",
-        "relevanceScore": 3
+        "relevanceScore": 2
       },
       "publishedAt": "2026-05-12T13:10:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
       "title": "리플",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/finance/blockchain-fintech/6164019",
-      "rank": 1
+      "source": "토큰포스트",
+      "url": "https://www.tokenpost.kr/news/cryptocurrency/358832",
+      "rank": 7
     },
     {
       "id": "2d14016e35aa2817",
@@ -99,12 +381,12 @@
         "relevanceScore": 1
       },
       "publishedAt": "2026-05-12T13:00:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
       "title": "도깨비",
       "source": "게임메카",
       "url": "https://www.gamemeca.com/view.php?gid=1775083",
-      "rank": 2
+      "rank": 8
     },
     {
       "id": "dffdd7d8430e145e",
@@ -146,340 +428,58 @@
         "relevanceScore": 1
       },
       "publishedAt": "2026-05-12T13:00:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
       "title": "ios 26.5",
       "source": "9to5Google",
       "url": "https://9to5google.com/2026/05/04/encrypted-rcs-android-iphone/",
-      "rank": 3
+      "rank": 9
     },
     {
-      "id": "51b66c03d1add9f1",
-      "issueKey": "토지거래허가제",
-      "issueTitle": "토지거래허가제",
-      "trendTitle": "토지거래허가제",
+      "id": "faa7292b792ac7a0",
+      "issueKey": "실거주 유예",
+      "issueTitle": "실거주 유예",
+      "trendTitle": "실거주 유예",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'비거주 1주택 매물 접수' 붙이자 문의 이어졌다‥연말까지 '세낀 매도 허용'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6821931_37004.html",
+          "title": "[정책 바로보기] 국토부 \"토지거래허가구역 내 실거주 유예, '갭투자 불허 원칙'하에 검토\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964213&amp;pWise=sub&amp;pWiseSub=C5",
           "publishedAt": "2026-05-12T13:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'세 낀 주택' 실거주 연말까지 유예…매물 다시 늘까",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/MYH20260512231518Dbh",
+          "title": "비거주 1주택자의 ‘세 낀 집’… 정부는 ‘일단 팔아라’ 압박",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/real_estate/2026/05/13/G26CTXJU6JDLFIOD3ULIWIVDG4/",
           "publishedAt": "2026-05-12T13:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "토지거래허가구역 실거주 유예 확대…세입자 있는 주택 전체로",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964215",
+          "title": "‘세입자 낀 모든 주택’ 올해 말까지 토허제 미적용",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605122039005",
           "publishedAt": "2026-05-12T13:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "토지거래허가제",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6821931_37004.html",
+        "title": "[정책 바로보기] 국토부 \"토지거래허가구역 내 실거주 유예, '갭투자 불허 원칙'하에 검토\"",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964213&amp;pWise=sub&amp;pWiseSub=C5",
         "publishedAt": "2026-05-12T13:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-12T13:00:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "토지거래허가제",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6821931_37004.html",
-      "rank": 4
-    },
-    {
-      "id": "46064b6572e89f1d",
-      "issueKey": "이천수",
-      "issueTitle": "이천수",
-      "trendTitle": "이천수",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"이천수가 기적을 낳았다\" 딸 주은, 원어민 수준 영어 통역에 '흐뭇' [핫피플]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260512163306221",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이천수 딸, 원어민 수준 영어 인터뷰·통역 ‘아빠 미소’",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10736355",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이천수, 자식농사 대박…‘영재’ 딸 유창한 영어 인터뷰에 ‘뿌듯’ (‘리춘수’)",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12044378",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"이천수가 기적을 낳았다\" 딸 주은, 원어민 수준 영어 통역에 '흐뭇' [핫피플]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260512163306221",
-        "publishedAt": "2026-05-12T12:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T12:50:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "이천수",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260512163306221",
-      "rank": 5
-    },
-    {
-      "id": "9de89526fae7b160",
-      "issueKey": "김대호",
-      "issueTitle": "김대호",
-      "trendTitle": "아나운서",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'MBC 퇴사' 김대호, 9개월 만에 4억→인생 역전…\"먹고살기 좋아\" ('말자쇼')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260512112107223",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'띠동갑 커플' 탄생?..김대호, 미모의 후배女아나운서와 '말자팅' 성사 ('말자쇼') [어저께TV]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GIZWIYLCGRRTONBSGBSDEMJZMQ/",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "결혼 급한 41세 김대호, 20대 미녀 아나운서와 소개팅 \"내 가족 꾸리고파\" (말자쇼)[결정적장면]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260512n02367",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'MBC 퇴사' 김대호, 9개월 만에 4억→인생 역전…\"먹고살기 좋아\" ('말자쇼')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260512112107223",
-        "publishedAt": "2026-05-12T12:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T12:50:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "김대호",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260512112107223",
-      "rank": 6
-    },
-    {
-      "id": "edcbec69097398c9",
-      "issueKey": "수금지화",
-      "issueTitle": "수금지화",
-      "trendTitle": "수금지화",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'돌싱N모솔' 0표남 조지 각성했다…\"이제부터 본게임\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260512_0003625799",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "제작진에 항의 쏟아졌다…\"제정신이냐. 응급상황\" MC들도 경악 ('돌싱N모솔')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260512190115738",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "수금지화는 ♥두쫀쿠에 관심있는데…카멜리아 \"나 좋아하는 거 너무 티내\" (돌싱N모솔)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260512n37837",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "수금지화는 ♥두쫀쿠에 관심있는데…카멜리아 \"나 좋아하는 거 너무 티내\" (돌싱N모솔)",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260512n37837",
-        "publishedAt": "2026-05-12T12:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-12T12:50:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "수금지화",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260512n37837",
-      "rank": 7
-    },
-    {
-      "id": "42e234b7e83423c5",
-      "issueKey": "tod",
-      "issueTitle": "tod",
-      "trendTitle": "tod",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Tod im Krankenhaus: Unfall auf Parkplatz: Mann stirbt eine Woche nach Sturz",
-          "source": "DIE ZEIT",
-          "url": "https://www.zeit.de/news/2026-05/12/unfall-auf-parkplatz-mann-stirbt-eine-woche-nach-sturz",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Von Auto angefahren: Mann (84) stirbt nach Zusammenstoß auf Parkplatz in Viechtach",
-          "source": "Pnp.de",
-          "url": "https://www.pnp.de/lokales/landkreis-regen/von-auto-angefahren-mann-84-stirbt-nach-zusammenstoss-auf-parkplatz-in-viechtach-21126751",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "84-Jähriger stirbt nach Unfall auf Parkplatz in Viechtach",
-          "source": "Idowa.de",
-          "url": "https://www.idowa.de/regionen/viechtach/landkreis-regen/84-jaehriger-stirbt-nach-unfall-auf-parkplatz-in-viechtach-art-394563",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Tod im Krankenhaus: Unfall auf Parkplatz: Mann stirbt eine Woche nach Sturz",
-        "source": "DIE ZEIT",
-        "url": "https://www.zeit.de/news/2026-05/12/unfall-auf-parkplatz-mann-stirbt-eine-woche-nach-sturz",
-        "publishedAt": "2026-05-12T12:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T12:50:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "tod",
-      "source": "DIE ZEIT",
-      "url": "https://www.zeit.de/news/2026-05/12/unfall-auf-parkplatz-mann-stirbt-eine-woche-nach-sturz",
-      "rank": 8
-    },
-    {
-      "id": "46d3d42a0b1c35da",
-      "issueKey": "군용기",
-      "issueTitle": "군용기",
-      "trendTitle": "군용기",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"중재국 파키스탄, 이란 군용기 자국 공군기지 주둔 허용\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260512113225941",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'중재국' 파키스탄의 두 얼굴?…이란 군용기 '피신' 허용 의혹",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/middleeast-africa/6164440",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "주러 파키스탄 대사 \"미중 정상회담 전 美·이란 돌파구 나타날 것\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4413978",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"중재국 파키스탄, 이란 군용기 자국 공군기지 주둔 허용\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260512113225941",
-        "publishedAt": "2026-05-12T12:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T12:50:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "군용기",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260512113225941",
-      "rank": 9
-    },
-    {
-      "id": "1880c40bb3e195a6",
-      "issueKey": "rte",
-      "issueTitle": "rte",
-      "trendTitle": "rte",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Irish TV to air Father Ted instead of Eurovision final in protest against Israel’s inclusion",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/tv-and-radio/2026/may/12/irish-tv-rte-father-ted-eurovision-final-israel",
-          "publishedAt": "2026-05-12T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "How Israel Turned Eurovision’s Stage Into a Soft Power Tool",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html",
-          "publishedAt": "2026-05-12T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Eurovision song competition starts with the first semifinal after boycott over Israel",
-          "source": "AP News",
-          "url": "https://apnews.com/article/eurovision-song-contest-semifinal-israel-4ddc9d6c352bb53b0b9dbab240de0a94",
-          "publishedAt": "2026-05-12T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "rte",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/tv-and-radio/2026/may/12/irish-tv-rte-father-ted-eurovision-final-israel",
-        "publishedAt": "2026-05-12T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T12:40:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "rte",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/12/irish-tv-rte-father-ted-eurovision-final-israel",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "실거주 유예",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964213&amp;pWise=sub&amp;pWiseSub=C5",
       "rank": 10
     }
   ],
@@ -1409,7 +1409,7 @@
       },
       "publishedAt": "2026-05-12T13:00:00.000Z",
       "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
       "title": "도깨비",
       "source": "게임메카",
       "url": "https://www.gamemeca.com/view.php?gid=1775083"
@@ -2289,96 +2289,96 @@
       "url": "https://v.daum.net/v/Xy35qYZvcf"
     },
     {
-      "id": "8e309963dd0ae2a0",
-      "issueKey": "리플",
-      "issueTitle": "리플",
-      "trendTitle": "리플",
+      "id": "7c3495b5ff7cf1da",
+      "issueKey": "무리뉴",
+      "issueTitle": "무리뉴",
+      "trendTitle": "무리뉴",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "리플, 기관 대상 프라임 브로커리지 사업 확대…2억 달러 자금 조달",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/finance/blockchain-fintech/6164019",
-          "publishedAt": "2026-05-12T13:10:00.000Z",
+          "title": "무리뉴, '레알 복귀' 본격 시동...2가지 핵심 조건 내세웠다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/05/12/MJSDOZDGGI3TINRRMMYDMYJYMU/",
+          "publishedAt": "2026-05-12T14:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "리플 프라임 브로커리지 사업부, 2억 달러 대출 확보",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/cryptocurrency-news/article-93CH-1937616",
-          "publishedAt": "2026-05-12T13:10:00.000Z",
+          "title": "직접 입 열었다! 무리뉴 감독, 레알 관련 소문에 \"일주일만 기다려줘\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qHmPFFUZCD",
+          "publishedAt": "2026-05-12T14:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "리플, 프라임 브로커리지 키운다…뉴버거에서 2억달러 조달",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1084438",
-          "publishedAt": "2026-05-12T13:10:00.000Z",
+          "title": "‘공식입장 진짜 떴다' 무리뉴 감독, 레알 마드리드 복귀 임박…레알 페레즈 회장 “무리뉴 감독 원한다면 레알 감독 될 수 있다” 공개선언",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=816018",
+          "publishedAt": "2026-05-12T14:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "리플, 기관 대상 프라임 브로커리지 사업 확대…2억 달러 자금 조달",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/finance/blockchain-fintech/6164019",
-        "publishedAt": "2026-05-12T13:10:00.000Z",
+        "title": "무리뉴, '레알 복귀' 본격 시동...2가지 핵심 조건 내세웠다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/05/12/MJSDOZDGGI3TINRRMMYDMYJYMU/",
+        "publishedAt": "2026-05-12T14:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-12T13:10:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "리플",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/finance/blockchain-fintech/6164019"
+      "publishedAt": "2026-05-12T14:40:00.000Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "무리뉴",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/05/12/MJSDOZDGGI3TINRRMMYDMYJYMU/"
     },
     {
-      "id": "9de89526fae7b160",
-      "issueKey": "김대호",
-      "issueTitle": "김대호",
-      "trendTitle": "아나운서",
+      "id": "a406f24c04ac1013",
+      "issueKey": "gt vs srh",
+      "issueTitle": "gt vs srh",
+      "trendTitle": "gt vs srh",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'MBC 퇴사' 김대호, 9개월 만에 4억→인생 역전…\"먹고살기 좋아\" ('말자쇼')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260512112107223",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
+          "title": "Super Stat of the Day - The Powerplay difference between Gujarat and Hyderabad",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/48750323/super-stat-day-gujarat-vs-hyderabad",
+          "publishedAt": "2026-05-12T14:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'띠동갑 커플' 탄생?..김대호, 미모의 후배女아나운서와 '말자팅' 성사 ('말자쇼') [어저께TV]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/12/GIZWIYLCGRRTONBSGBSDEMJZMQ/",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
+          "title": "GT vs SRH Live Score, IPL 2026: SRH bowl first vs GT in Ahmedabad",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-sunrisers-hyderabad-56th-match-1529299/live-match-blog",
+          "publishedAt": "2026-05-12T14:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "결혼 급한 41세 김대호, 20대 미녀 아나운서와 소개팅 \"내 가족 꾸리고파\" (말자쇼)[결정적장면]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260512n02367",
-          "publishedAt": "2026-05-12T12:50:00.000Z",
+          "title": "IPL 2026: SRH take on GT with eye on playoffs",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/ipl-2026-srh-gt-eye-090800528.html",
+          "publishedAt": "2026-05-12T14:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'MBC 퇴사' 김대호, 9개월 만에 4억→인생 역전…\"먹고살기 좋아\" ('말자쇼')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260512112107223",
-        "publishedAt": "2026-05-12T12:50:00.000Z",
-        "relevanceScore": 3
+        "title": "GT vs SRH Live Score, IPL 2026: SRH bowl first vs GT in Ahmedabad",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-sunrisers-hyderabad-56th-match-1529299/live-match-blog",
+        "publishedAt": "2026-05-12T14:10:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-12T12:50:00.000Z",
-      "firstSeenAt": "2026-05-12T14:26:50.577Z",
-      "lastSeenAt": "2026-05-12T14:26:50.577Z",
-      "title": "김대호",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260512112107223"
+      "publishedAt": "2026-05-12T14:10:00.000Z",
+      "firstSeenAt": "2026-05-12T17:11:38.426Z",
+      "lastSeenAt": "2026-05-12T17:11:38.426Z",
+      "title": "gt vs srh",
+      "source": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-sunrisers-hyderabad-56th-match-1529299/live-match-blog"
     }
   ]
 }
