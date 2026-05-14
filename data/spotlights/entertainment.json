@@ -7,550 +7,436 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-14T08:38:07.372Z",
+  "lastUpdatedAt": "2026-05-14T11:13:42.924Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "dd00cc10c23a6851",
-      "issueKey": "한가인",
-      "issueTitle": "한가인",
-      "trendTitle": "한가인",
+      "id": "e307a6280aa4dc91",
+      "issueKey": "김동관",
+      "issueTitle": "김동관",
+      "trendTitle": "김동관",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"무겁게 받아들였다\"…한화솔루션, 금감원 2차 정정 반영 유증 신고서 다시 제출",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260514_0003630089",
+          "publishedAt": "2026-05-14T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "한화솔루션, 1.8조 규모 유상증자 일정 재확정…7월 청약(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6167063",
+          "publishedAt": "2026-05-14T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한화솔루션, 1조8000억원 유증 일정 7월로 연기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514181122564",
+          "publishedAt": "2026-05-14T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김동관",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260514_0003630089",
+        "publishedAt": "2026-05-14T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-14T10:00:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "김동관",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260514_0003630089",
+      "rank": 1
+    },
+    {
+      "id": "b7434c4d9d04211a",
+      "issueKey": "청년미래적금",
+      "issueTitle": "청년미래적금",
+      "trendTitle": "청년미래적금",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'청년미래적금' 금리 공개…월 50만 원씩 3년 넣으면 최대 2255만 원",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964376",
+          "publishedAt": "2026-05-14T09:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "청년미래적금 금리 최대 7~8%로…\"19.4% 적금 가입 효과\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260514_0003629068",
+          "publishedAt": "2026-05-14T09:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "청년미래적금 문턱 낮춰… 부부합산 소득요건 완화",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514190455368",
+          "publishedAt": "2026-05-14T09:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'청년미래적금' 금리 공개…월 50만 원씩 3년 넣으면 최대 2255만 원",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964376",
+        "publishedAt": "2026-05-14T09:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-14T09:50:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "청년미래적금",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964376",
+      "rank": 2
+    },
+    {
+      "id": "381948faf6ba7416",
+      "issueKey": "연휴",
+      "issueTitle": "연휴",
+      "trendTitle": "연휴",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "노동절 연휴 여행객 1163만 명…비수도권으로 70% 몰렸다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514150311708",
+          "publishedAt": "2026-05-14T09:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "노동절 여행객 1,163만 명… 공휴일 지정에 전년보다 55%↑",
+          "source": "연합뉴스TV",
+          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260514155215meT",
+          "publishedAt": "2026-05-14T09:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "첫 법정 공휴일 ‘노동절’…지역 여행객 70% 늘어",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8560923",
+          "publishedAt": "2026-05-14T09:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "노동절 연휴 여행객 1163만 명…비수도권으로 70% 몰렸다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260514150311708",
+        "publishedAt": "2026-05-14T09:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-14T09:50:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "연휴",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260514150311708",
+      "rank": 3
+    },
+    {
+      "id": "47f9c353c26ceda9",
+      "issueKey": "천소윤",
+      "issueTitle": "천소윤",
+      "trendTitle": "천소윤",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[사진]정호영 셰프, '잠실 시구 앞두고 훈훈하게'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/05/14/GE4GINTCMY3TONJUGNQWKZDDHA/",
+          "publishedAt": "2026-05-14T09:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "시구 앞두고 인사말 하는 박준형",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260512_0021280737",
+          "publishedAt": "2026-05-14T09:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[사진]LG 선발 송승기, '지난 실점은 잊고 힘차게'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260514n36459?mid=n1101",
+          "publishedAt": "2026-05-14T09:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "천소윤",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/entertain_photo/2026/05/14/GE4GINTCMY3TONJUGNQWKZDDHA/",
+        "publishedAt": "2026-05-14T09:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-14T09:40:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "천소윤",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/entertain_photo/2026/05/14/GE4GINTCMY3TONJUGNQWKZDDHA/",
+      "rank": 4
+    },
+    {
+      "id": "9b59d985ccd77d9a",
+      "issueKey": "나승엽",
+      "issueTitle": "나승엽",
+      "trendTitle": "나승엽",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[사진] 예비군 훈련 마친 나승엽",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/05/14/MU3DEMJXMZQTEOJXGYZWGY3CGY/",
+          "publishedAt": "2026-05-14T09:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'국가의 부름' 끝났는데, 예비역 병장 나승엽 왜 라인업 못 들었나…\"경기 시작 때쯤 야구장 도착, 대타 대기한다\" [부산 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514161316844",
+          "publishedAt": "2026-05-14T09:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'징계 복귀' 롯데 나승엽, 예비군 동원훈련으로 1군 엔트리 말소",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6164407",
+          "publishedAt": "2026-05-14T09:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[사진] 예비군 훈련 마친 나승엽",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/05/14/MU3DEMJXMZQTEOJXGYZWGY3CGY/",
+        "publishedAt": "2026-05-14T09:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-14T09:40:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "나승엽",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/05/14/MU3DEMJXMZQTEOJXGYZWGY3CGY/",
+      "rank": 5
+    },
+    {
+      "id": "72eb59780372b619",
+      "issueKey": "손승원",
+      "issueTitle": "손승원",
+      "trendTitle": "손승원",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'SNL 시즌8' 안주미·이아라·정창환·정희수, '제2의 지예은' 예약",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260513n20729",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
+          "title": "[단독] '윤창호법 1호 연예인' 강변북로 역주행 '또' 음주운전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514193402228",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'연정훈♥' 한가인, '말죽거리 잔혹사' 때 미모 그대로네 \"SNL 감사합니다\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/05/12/MVRDQZBSGE4GMMDFHA2DGZRQGY/",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
+          "title": "처벌 강화에도 멈추지 않는 음주운전…재범률 40%대 ‘고착’",
+          "source": "시사매거진",
+          "url": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=526835",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "한가인, SNL8 파격 코미디 변신 후 근황 공개",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16058237",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
+          "title": "[단독] 재판 6일 전, 술집까지 '무면허 운전'…딱 걸린 손승원",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260514n36494",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'연정훈♥' 한가인, '말죽거리 잔혹사' 때 미모 그대로네 \"SNL 감사합니다\" - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/tv/2026/05/12/MVRDQZBSGE4GMMDFHA2DGZRQGY/",
-        "publishedAt": "2026-05-14T07:30:00.000Z",
-        "relevanceScore": 2
+        "title": "[단독] 재판 6일 전, 술집까지 '무면허 운전'…딱 걸린 손승원",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260514n36494",
+        "publishedAt": "2026-05-14T09:30:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-05-14T07:30:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "한가인",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/entertainment/tv/2026/05/12/MVRDQZBSGE4GMMDFHA2DGZRQGY/",
-      "rank": 1
+      "publishedAt": "2026-05-14T09:30:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "손승원",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260514n36494",
+      "rank": 6
     },
     {
-      "id": "57dbff2898415dad",
-      "issueKey": "미사일",
-      "issueTitle": "미사일",
-      "trendTitle": "미사일",
+      "id": "5996408e35155529",
+      "issueKey": "안우진",
+      "issueTitle": "안우진",
+      "trendTitle": "안우진",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“교전!” 순식간에 사라진 탄도미사일…중동 스타 된 천궁 부대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514120226370",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
+          "title": "안우진, 역투",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260514_0021283379",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[르포]\"무장 완료!\" 천궁, 10분만에 적 탄도미사일 제압…KF-21 기지 지키는 미사일방어포대",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260514_0003628968",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
+          "title": "안우진, 수술 후 '놀라운 회복력'…\"동주야, 구속저하 걱정마\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260513020800038",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "북 탄도미사일 쏘면 10여분 내 “요격 준비 끝”…중동서 위력 떨친 ‘천궁-Ⅱ’ 이러니 잘나가지",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605141532001",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
+          "title": "[사진]안우진,'삼자범퇴로 틀어막고'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/05/14/GFQTANZRMU2DIODEGVSGEZRWGQ/",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“교전!” 순식간에 사라진 탄도미사일…중동 스타 된 천궁 부대",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260514120226370",
-        "publishedAt": "2026-05-14T07:30:00.000Z",
+        "title": "안우진, 역투",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260514_0021283379",
+        "publishedAt": "2026-05-14T09:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-14T07:30:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "미사일",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260514120226370",
-      "rank": 2
+      "publishedAt": "2026-05-14T09:30:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "안우진",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260514_0021283379",
+      "rank": 7
     },
     {
-      "id": "e77740744058fdc9",
-      "issueKey": "066570",
-      "issueTitle": "066570",
-      "trendTitle": "066570",
+      "id": "850a23ed51bf5025",
+      "issueKey": "차입찰",
+      "issueTitle": "차입찰",
+      "trendTitle": "차입찰",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "HD현대중공업, KDDX 1차 입찰 미참여…사업 또 지연",
+          "source": "디일렉",
+          "url": "https://www.thelec.kr/news/articleView.html?idxno=56612",
+          "publishedAt": "2026-05-14T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "HD현대중공업, KDDX 1차입찰 불참…2차입찰은 참여 전망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260514172600003",
+          "publishedAt": "2026-05-14T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'7.8조' 차기 구축함(KDDX) 입찰 D-1, 'HD현대 정기선 vs 한화오션 김동관' 자존심 승부 내달 결판",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=437838",
+          "publishedAt": "2026-05-14T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "HD현대중공업, KDDX 1차입찰 불참…2차입찰은 참여 전망",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260514172600003",
+        "publishedAt": "2026-05-14T09:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-14T09:20:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "차입찰",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260514172600003",
+      "rank": 8
+    },
+    {
+      "id": "6978f2b0c122dfa6",
+      "issueKey": "후성",
+      "issueTitle": "후성",
+      "trendTitle": "후성",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "LG Electronics surges as Korea robotics push accelerates on new plans - CHOSUNBIZ",
+          "title": "후성 주가, 급등세... 배경은?",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1158237",
+          "publishedAt": "2026-05-14T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "후성, +13.22% 상승폭 확대 - 조선비즈",
           "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-finance/2026/05/14/4V6CWQB5UVGI5PEAM55V7C6SRQ/",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"Curious where the next move after semiconductors would be?\" Robot stocks surge on foreign buying",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/business/12046281",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
+          "url": "https://biz.chosun.com/stock/c-biz_bot/2026/05/14/MIYDQOBXMIYDOYJSMJTGGOLGHA/",
+          "publishedAt": "2026-05-14T09:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[Click e-Stock] \"LG, Subsidiary Value Rises... Target Price Raised\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026051116161474027",
-          "publishedAt": "2026-05-14T07:30:00.000Z",
+          "title": "화학주에 다시뭉칫도 몰렸다…OCI홀딩스·후성 주가 급등에 투자자들 환호",
+          "source": "핀포인트뉴스",
+          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=452791",
+          "publishedAt": "2026-05-14T09:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "066570",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-finance/2026/05/14/4V6CWQB5UVGI5PEAM55V7C6SRQ/",
-        "publishedAt": "2026-05-14T07:30:00.000Z",
+        "title": "후성 주가, 급등세... 배경은?",
+        "source": "금강일보",
+        "url": "https://www.ggilbo.com/news/articleView.html?idxno=1158237",
+        "publishedAt": "2026-05-14T09:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-14T07:30:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "066570",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/en/en-finance/2026/05/14/4V6CWQB5UVGI5PEAM55V7C6SRQ/",
-      "rank": 3
-    },
-    {
-      "id": "ec9c734900b0a822",
-      "issueKey": "기자",
-      "issueTitle": "기자",
-      "trendTitle": "기자",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "다이소 또 품절 대란 날까…'개당 100원' 벌써부터 술렁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514103601305",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "다이소로 또 몰리겠네…\"개당 100원\" 파격에 벌써 '들썩' [권 기자의 장바구니]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202605132127i",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"원재료값 매년 떨어졌는데 생리대 가격은 3년간 18% 올라\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260513102700030",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "다이소로 또 몰리겠네…\"개당 100원\" 파격에 벌써 '들썩' [권 기자의 장바구니]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202605132127i",
-        "publishedAt": "2026-05-14T07:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-14T07:20:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "기자",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202605132127i",
-      "rank": 4
-    },
-    {
-      "id": "fef701bb7cf1ad2d",
-      "issueKey": "사다리차",
-      "issueTitle": "사다리차",
-      "trendTitle": "사다리차",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "사다리차 점검하던 중 추락 … 이삿짐센터 직원 숨져",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/05/14/3PFRYI4B3VFRJISJ2OWIC4IGWQ/",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이사용 사다리차서 30m 아래로 추락…50대 사망",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514074603162",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "인천 아파트 사다리차서 떨어진 50대 숨져",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260514580012",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "사다리차 점검하던 중 추락 … 이삿짐센터 직원 숨져",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/incident/2026/05/14/3PFRYI4B3VFRJISJ2OWIC4IGWQ/",
-        "publishedAt": "2026-05-14T07:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T07:20:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "사다리차",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/incident/2026/05/14/3PFRYI4B3VFRJISJ2OWIC4IGWQ/",
-      "rank": 5
-    },
-    {
-      "id": "55925593bd99ee94",
-      "issueKey": "트롯 챔피언",
-      "issueTitle": "트롯 챔피언",
-      "trendTitle": "트롯 챔피언",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘트롯챔피언’ 성리 vs 김용빈",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514080450624",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘트롯챔피언’ 김용빈VS박군VS성리…5월 월간 챔피언 새 얼굴 누구",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/504867",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'트롯챔피언', 김용빈·박군·성리 5월 월간 챔피언 격돌",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=738929",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "트롯 챔피언",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260514080450624",
-        "publishedAt": "2026-05-14T07:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T07:20:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "트롯 챔피언",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260514080450624",
-      "rank": 6
-    },
-    {
-      "id": "e5f76a22ce3bad9a",
-      "issueKey": "양창섭",
-      "issueTitle": "양창섭",
-      "trendTitle": "양창섭",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“14일 선발투수는 양창섭으로 변경” 삼성 박진만 감독, LG측에 양해 구한 사연",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260513/133916830/1",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"퓨처스 등판 없다\" 든든한 19세 아기사자, 1군 등록 즉시 선발 재투입! '물집 불운' 좌완도 덕분에 천천히 돌아온다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514011915020",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[오늘의 경기] 2026년 5월 14일",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/05/14/2K4UDFUP6RAANLRGVHLCZSMUJA/",
-          "publishedAt": "2026-05-14T07:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“14일 선발투수는 양창섭으로 변경” 삼성 박진만 감독, LG측에 양해 구한 사연",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/sports/article/all/20260513/133916830/1",
-        "publishedAt": "2026-05-14T07:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T07:20:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "양창섭",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/sports/article/all/20260513/133916830/1",
-      "rank": 7
-    },
-    {
-      "id": "c4cc2c7d2a86dcc6",
-      "issueKey": "예산",
-      "issueTitle": "예산",
-      "trendTitle": "예산",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"중복 사업 딱 걸렸어\"…정부 R&D 예산심의, 국산 AI '연예인'이 돕는다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260514_0003628979",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "AI가 국가 R&D 예산심의 돕는다…'예산심의 특화 AI' 본격 도입",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260514000135",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "과기정통부, ‘AI 에이전트’로 지능형 업무환경 전환 가속화",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8559823",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"중복 사업 딱 걸렸어\"…정부 R&D 예산심의, 국산 AI '연예인'이 돕는다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260514_0003628979",
-        "publishedAt": "2026-05-14T07:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T07:10:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "예산",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260514_0003628979",
-      "rank": 8
-    },
-    {
-      "id": "c862c9fd50dcf936",
-      "issueKey": "만나는 강지은",
-      "issueTitle": "만나는 강지은",
-      "trendTitle": "드래프트",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"해체 소식에 슬펐지만…\" 이제 적으로 만나는 강지은·강동궁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514113810208",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘휴온스에 새 둥지’ 강동궁 “2~3승 올려 누적상금 10억 돌파하겠다”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20044137",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[ST포토] 최봄이, '팀리그 활약 기대해주세요'",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260514n14534?mid=s04",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"해체 소식에 슬펐지만…\" 이제 적으로 만나는 강지은·강동궁",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260514113810208",
-        "publishedAt": "2026-05-14T07:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T07:10:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "만나는 강지은",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260514113810208",
+      "publishedAt": "2026-05-14T09:20:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "후성",
+      "source": "금강일보",
+      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1158237",
       "rank": 9
-    },
-    {
-      "id": "67c72f2a2a64c676",
-      "issueKey": "대한민국",
-      "issueTitle": "대한민국",
-      "trendTitle": "대한민국",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[금요칼럼] 전작권 전환 조건의 불편한 진실",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514150815968",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "주한미군사령관 \"韓 제조 역량이 한미동맹 억제력 강화\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/05/13/TMEAQQ2L6NG6LGFTUYSIV3LXFM/",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "브런슨 ″충분히 준비 안 된 일, 떠밀려 하면 잠 못 들 것″",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260513165810Sdk",
-          "publishedAt": "2026-05-14T07:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대한민국",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260514150815968",
-        "publishedAt": "2026-05-14T07:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T07:10:00.000Z",
-      "firstSeenAt": "2026-05-14T08:38:07.372Z",
-      "lastSeenAt": "2026-05-14T08:38:07.372Z",
-      "title": "대한민국",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260514150815968",
-      "rank": 10
     }
   ],
   "history": [
-    {
-      "id": "0f88834dd80fd636",
-      "issueKey": "코스피",
-      "issueTitle": "코스피",
-      "trendTitle": "코스피",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 6,
-      "relatedArticles": [
-        {
-          "title": "8천피 아슬아슬하게 놓친 코스피, 급락한 배경은",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373",
-          "publishedAt": "2026-05-12T07:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "파죽지세 코스피 7870선도 뚫어내, 1만2000간다 전망까지 등장",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/05/11/VL54W2FY7JB5RJZMP7XTXRQKAU/",
-          "publishedAt": "2026-05-11T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "외인 '사자' vs 개인 '팔자'…치열한 수급 힘겨루기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260512172709949",
-          "publishedAt": "2026-05-12T07:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "코스피 8천피가 눈앞에…시총도 7천조 넘어서",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8557851",
-          "publishedAt": "2026-05-11T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "외국인 투매에도 끄떡없는 개미들…'8천피' 믿음 여전(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260512_0003626454",
-          "publishedAt": "2026-05-12T07:30:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "코스피 7800 돌파, 4일 연속 ‘사상 최고’…반도체 랠리 지속",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1258105.html",
-          "publishedAt": "2026-05-11T08:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "8천피 아슬아슬하게 놓친 코스피, 급락한 배경은",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373",
-        "publishedAt": "2026-05-12T07:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T07:30:00.000Z",
-      "firstSeenAt": "2026-05-11T09:40:33.669Z",
-      "lastSeenAt": "2026-05-12T08:40:55.221Z",
-      "title": "코스피",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4414373"
-    },
     {
       "id": "35a1c24b4d94a8f8",
       "issueKey": "박수홍",
@@ -840,6 +726,52 @@
       "title": "이재영",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260512_0003626179"
+    },
+    {
+      "id": "72eb59780372b619",
+      "issueKey": "손승원",
+      "issueTitle": "손승원",
+      "trendTitle": "손승원",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] '윤창호법 1호 연예인' 강변북로 역주행 '또' 음주운전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514193402228",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "처벌 강화에도 멈추지 않는 음주운전…재범률 40%대 ‘고착’",
+          "source": "시사매거진",
+          "url": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=526835",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[단독] 재판 6일 전, 술집까지 '무면허 운전'…딱 걸린 손승원",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260514n36494",
+          "publishedAt": "2026-05-14T09:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독] 재판 6일 전, 술집까지 '무면허 운전'…딱 걸린 손승원",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260514n36494",
+        "publishedAt": "2026-05-14T09:30:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-14T09:30:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "손승원",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260514n36494"
     },
     {
       "id": "dd00cc10c23a6851",
@@ -1484,52 +1416,6 @@
       "title": "증시 불장",
       "source": "부산일보",
       "url": "https://www.busan.com/view/busan/view.php?code=2026051217582674056"
-    },
-    {
-      "id": "207fd373900595be",
-      "issueKey": "손아섭",
-      "issueTitle": "손아섭",
-      "trendTitle": "손아섭",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'깜짝 트레이드 주인공' 손아섭 주고 데려온 군필 좌완, 1군 복귀 언제? 1이닝 1K 무실점→부진 탈출 신호 되나",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260512n02458",
-          "publishedAt": "2026-05-12T07:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "한화-두산 트레이드, 실체가 사라졌다… 손아섭마저 2군서 고전, 아무도 1군서 안 보인다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260509012715298",
-          "publishedAt": "2026-05-12T07:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "드디어 감 잡았나…'타율 .111→2군행 충격' 손아섭, 안타-2루타에 타점까지 부활 청신호? [오!쎈 퓨처스]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260509022118665",
-          "publishedAt": "2026-05-12T07:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'깜짝 트레이드 주인공' 손아섭 주고 데려온 군필 좌완, 1군 복귀 언제? 1이닝 1K 무실점→부진 탈출 신호 되나",
-        "source": "네이트 스포츠",
-        "url": "https://sports.news.nate.com/view/20260512n02458",
-        "publishedAt": "2026-05-12T07:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-12T07:10:00.000Z",
-      "firstSeenAt": "2026-05-12T08:40:55.221Z",
-      "lastSeenAt": "2026-05-12T08:40:55.221Z",
-      "title": "손아섭",
-      "source": "네이트 스포츠",
-      "url": "https://sports.news.nate.com/view/20260512n02458"
     },
     {
       "id": "b311f0a479de656f",
@@ -2372,6 +2258,52 @@
       "title": "이천수",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260512163306221"
+    },
+    {
+      "id": "e307a6280aa4dc91",
+      "issueKey": "김동관",
+      "issueTitle": "김동관",
+      "trendTitle": "김동관",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"무겁게 받아들였다\"…한화솔루션, 금감원 2차 정정 반영 유증 신고서 다시 제출",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260514_0003630089",
+          "publishedAt": "2026-05-14T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "한화솔루션, 1.8조 규모 유상증자 일정 재확정…7월 청약(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6167063",
+          "publishedAt": "2026-05-14T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한화솔루션, 1조8000억원 유증 일정 7월로 연기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514181122564",
+          "publishedAt": "2026-05-14T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김동관",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260514_0003630089",
+        "publishedAt": "2026-05-14T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-14T10:00:00.000Z",
+      "firstSeenAt": "2026-05-14T11:13:42.924Z",
+      "lastSeenAt": "2026-05-14T11:13:42.924Z",
+      "title": "김동관",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260514_0003630089"
     }
   ]
 }
