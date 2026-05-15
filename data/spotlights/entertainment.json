@@ -7,18 +7,347 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-15T16:51:31.078Z",
+  "lastUpdatedAt": "2026-05-15T19:38:49.634Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "fb921b04356c53ef",
-      "issueKey": "싫다더니 순삭",
-      "issueTitle": "싫다더니 순삭",
-      "trendTitle": "싫다더니 순삭",
+      "id": "61ae7e7d96079b41",
+      "issueKey": "리버풀",
+      "issueTitle": "리버풀",
+      "trendTitle": "리버풀",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘리버풀의 왕’ 모하메드 살라가 돌아온다···슬롯 감독 “빌라 원정에서 조금 뛸 수 있는 상태”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12049122",
+          "publishedAt": "2026-05-15T18:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "아뿔싸! '좌 흥민-우 살라' 듀오는 결국 꿈이었나...살라, MLS 대신 유럽 잔류 가능성↑ \"페네르바흐체, 3가지 조건 충족\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yPqdRyHlRx",
+          "publishedAt": "2026-05-15T18:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'손흥민 떠난 토트넘에 벌어진 상황? 곧 리버풀이 맞이할 미래'…토트넘·리버풀 모두 뛴 로젠탈, 살라 이탈 후폭풍 우려",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260511n00439",
+          "publishedAt": "2026-05-15T18:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘리버풀의 왕’ 모하메드 살라가 돌아온다···슬롯 감독 “빌라 원정에서 조금 뛸 수 있는 상태”",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/sports/12049122",
+        "publishedAt": "2026-05-15T18:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-15T18:10:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "리버풀",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/sports/12049122",
+      "rank": 1
+    },
+    {
+      "id": "037aeaeaf4bbf26d",
+      "issueKey": "op",
+      "issueTitle": "op",
+      "trendTitle": "op",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "I hike, bike, and camp outside as often as possible – the 14 best deals I'll be shopping from REI's 2026 Anniversary Sale",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals",
+          "publishedAt": "2026-05-15T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Get Hundreds off Thule and Yakima Racks, Boxes, and More at REI’s Anniversary Sale",
+          "source": "The Drive",
+          "url": "https://www.thedrive.com/guides-and-gear/get-hundreds-off-thule-and-yakima-racks-boxes-and-more-at-reis-anniversary-sale",
+          "publishedAt": "2026-05-15T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "REI just dropped its biggest sale of the year and it's blowing out apparel, camping gear, and more for clearance prices",
+          "source": "Popular Science",
+          "url": "https://www.popsci.com/gear/rei-anniversary-sale-outdoor-gear-deals-2026/",
+          "publishedAt": "2026-05-15T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "I hike, bike, and camp outside as often as possible – the 14 best deals I'll be shopping from REI's 2026 Anniversary Sale",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals",
+        "publishedAt": "2026-05-15T17:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-15T17:20:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "op",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/thefilter-us/2026/may/15/rei-anniversary-sale-deals",
+      "rank": 2
+    },
+    {
+      "id": "add92b9cde2bdbf3",
+      "issueKey": "grok",
+      "issueTitle": "grok",
+      "trendTitle": "grok",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Musk’s xAI Unveils First Coding Agent in Bid to Rival Anthropic",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-14/musk-s-xai-unveils-first-coding-agent-in-bid-to-rival-anthropic",
+          "publishedAt": "2026-05-15T17:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "xAI Introduces Its Coding Agent Called Grok Build",
+          "source": "Engadget",
+          "url": "https://www.engadget.com/2173482/xai-coding-agent-grok-build/",
+          "publishedAt": "2026-05-15T17:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Elon Musk’s xAI Just Launched New Coding Agent Grok Build",
+          "source": "TipRanks",
+          "url": "https://www.tipranks.com/news/elon-musks-xai-just-launched-new-coding-agent-grok-build",
+          "publishedAt": "2026-05-15T17:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "xAI Introduces Its Coding Agent Called Grok Build",
+        "source": "Engadget",
+        "url": "https://www.engadget.com/2173482/xai-coding-agent-grok-build/",
+        "publishedAt": "2026-05-15T17:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-15T17:10:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "grok",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/2173482/xai-coding-agent-grok-build/",
+      "rank": 3
+    },
+    {
+      "id": "0275889a5b1d23f2",
+      "issueKey": "맨시티냐",
+      "issueTitle": "맨시티냐",
+      "trendTitle": "맨시티냐",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[FA CUP] '트레블 도전' 맨시티냐, '4년 만의 정상' 첼시냐…웸블리 단판 승부 열린다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260515n03281",
+          "publishedAt": "2026-05-15T16:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "맨체스터 시티와 첼시는 FA컵 결승전을 앞두고 상반된 모습을 보여주고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/man-city-chelsea-voi-hinh-anh-trai-nguoc-truoc-chung-ket-fa-cup",
+          "publishedAt": "2026-05-15T16:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "첼시-맨시티, FA컵 결승 격돌…쿠팡플레이 중계",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=738983",
+          "publishedAt": "2026-05-15T16:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[FA CUP] '트레블 도전' 맨시티냐, '4년 만의 정상' 첼시냐…웸블리 단판 승부 열린다",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260515n03281",
+        "publishedAt": "2026-05-15T16:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-15T16:40:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "맨시티냐",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260515n03281",
+      "rank": 4
+    },
+    {
+      "id": "982b46e697327006",
+      "issueKey": "함은정",
+      "issueTitle": "함은정",
+      "trendTitle": "함은정",
       "approxTraffic": "200+",
       "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'2세대' 함은정, 5세대 메이크업 받고 충격 반응…\"배우병 걸렸나 봐\" 폭소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515132851596",
+          "publishedAt": "2026-05-15T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "티아라 함은정, 아이돌 화장 거부하더니…결국 배우병 폭로 [스타이슈]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260514n33763?mid=e0600",
+          "publishedAt": "2026-05-15T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "함은정 “싫다”…5세대 메이크업 받고 결국 ‘배우병’ 인정 [SD톡톡]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260514/133926501/1",
+          "publishedAt": "2026-05-15T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'2세대' 함은정, 5세대 메이크업 받고 충격 반응…\"배우병 걸렸나 봐\" 폭소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260515132851596",
+        "publishedAt": "2026-05-15T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-15T16:00:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "함은정",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260515132851596",
+      "rank": 5
+    },
+    {
+      "id": "f27ad918594f89a5",
+      "issueKey": "지난 지금은",
+      "issueTitle": "지난 지금은",
+      "trendTitle": "지난 지금은",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] ‘반도체 클러스터 지방에’ 법으로 의무화한다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20044678",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "너도나도 공약했던 ‘10조 이상 SOC’…4년 지난 지금은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8562329",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "너도나도 “반도체 유치”·“경마장 이전”…“후보님들, 진짜 됩니까?”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514063154813",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "너도나도 공약했던 ‘10조 이상 SOC’…4년 지난 지금은?",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8562329",
+        "publishedAt": "2026-05-15T15:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-15T15:50:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "지난 지금은",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8562329",
+      "rank": 6
+    },
+    {
+      "id": "9af1c45197c5b191",
+      "issueKey": "이채연",
+      "issueTitle": "이채연",
+      "trendTitle": "이채연",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'타이거즈 찐팬' 이채연, 또 KIA 승리요정 될까…21일 LG전서 4년 만에 두 번째 시구",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/05/14/MIYTGODFGRQWGYLCG4YDCNRWGA/",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'타이거즈 찐팬' 가수 이채연, 21일 광주 KIA-LG전 시구",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6166739",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "타이거즈 찐팬 납시오! 이채연, 21일 챔필 뜬다…\"끝까지 응원할게요\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260514n34573",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'타이거즈 찐팬' 이채연, 또 KIA 승리요정 될까…21일 LG전서 4년 만에 두 번째 시구",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/05/14/MIYTGODFGRQWGYLCG4YDCNRWGA/",
+        "publishedAt": "2026-05-15T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-15T15:50:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "이채연",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/baseball/2026/05/14/MIYTGODFGRQWGYLCG4YDCNRWGA/",
+      "rank": 7
+    },
+    {
+      "id": "72d047e8dcb25f8e",
+      "issueKey": "전현무",
+      "issueTitle": "전현무",
+      "trendTitle": "전현무",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -37,27 +366,27 @@
           "relevanceScore": 2
         },
         {
-          "title": "전현무계획3 - 해산물 싫다더니 순삭?! 삼척 바다 통째로 삼킨 박지현의 반전 먹방",
-          "source": "www.mbn.co.kr",
-          "url": "https://www.mbn.co.kr/vod/programContents/previewlist/1010/6487/1418834",
+          "title": "전현무, '나혼산' 박지현 이름 모르는 곽튜브에 \"너 이민 갈 뻔했다\" (전현무계획3)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515214103531",
           "publishedAt": "2026-05-15T15:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "전현무계획3 - 해산물 싫다더니 순삭?! 삼척 바다 통째로 삼킨 박지현의 반전 먹방",
-        "source": "www.mbn.co.kr",
-        "url": "https://www.mbn.co.kr/vod/programContents/previewlist/1010/6487/1418834",
+        "title": "박지현 \"데뷔 전 홍어 6만여 마리 손질‥母 힘드시니까\" ('전현무계획3') [핫피플]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G43TKMTDGNQWKNRTMYZTCMBVME/",
         "publishedAt": "2026-05-15T15:40:00.000Z",
-        "relevanceScore": 1
+        "relevanceScore": 3
       },
       "publishedAt": "2026-05-15T15:40:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "싫다더니 순삭",
-      "source": "www.mbn.co.kr",
-      "url": "https://www.mbn.co.kr/vod/programContents/previewlist/1010/6487/1418834",
-      "rank": 1
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "전현무",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G43TKMTDGNQWKNRTMYZTCMBVME/",
+      "rank": 8
     },
     {
       "id": "fa0b605981b0aa4e",
@@ -70,16 +399,16 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'나혼산' 조이, 애견 미용사 자격증 도전…\"연예인 못하게 된다면?\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260516003900455",
+          "title": "조이, 무슨 일 있나‥애견 미용사 공부ing \"만약 연예인 못하게 되면\" ('나혼산') [순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/GYZWINBQMFQTANLCGQ2GIZTBGU/",
           "publishedAt": "2026-05-15T15:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "조이, 무슨 일 있나‥애견 미용사 공부ing \"만약 연예인 못하게 되면\" ('나혼산') [순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/GYZWINBQMFQTANLCGQ2GIZTBGU/",
+          "title": "'크러쉬 ♥' 레드벨벳 조이, 가수→'애견 미용사 자격증' 준비 中 ('나혼산')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515194852354?t=m&amp;x_mn=6a06fd0d3c0d6c72cd85926d",
           "publishedAt": "2026-05-15T15:30:00.000Z",
           "relevanceScore": 2
         },
@@ -92,27 +421,27 @@
         }
       ],
       "representativeArticle": {
-        "title": "'나혼산' 조이, 애견 미용사 자격증 도전…\"연예인 못하게 된다면?\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260516003900455",
+        "title": "조이, 무슨 일 있나‥애견 미용사 공부ing \"만약 연예인 못하게 되면\" ('나혼산') [순간포착]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/GYZWINBQMFQTANLCGQ2GIZTBGU/",
         "publishedAt": "2026-05-15T15:30:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-15T15:30:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
       "title": "조이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260516003900455",
-      "rank": 2
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/GYZWINBQMFQTANLCGQ2GIZTBGU/",
+      "rank": 9
     },
     {
       "id": "0e146993d01decb1",
-      "issueKey": "사우디",
-      "issueTitle": "사우디",
+      "issueKey": "중동",
+      "issueTitle": "중동",
       "trendTitle": "중동",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -124,16 +453,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "중동판 ‘헬싱키 협정’ 나오나",
+          "title": "\"UAE, 걸프 형제국에 대이란 군사 대응 설득했다 거절당해\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260516004756555",
+          "url": "https://v.daum.net/v/20260515220956995",
           "publishedAt": "2026-05-15T15:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "미 당국도 “사우디·UAE, 이란에 비밀 보복공격” 확인…NYT “걸프 방어전략 사실상 전환”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605151551001",
+          "title": "중동판 ‘헬싱키 협정’ 나오나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/05/16/IYWW5M6QLBDO3E5EBBR3W7LNTU/",
           "publishedAt": "2026-05-15T15:20:00.000Z",
           "relevanceScore": 1
         }
@@ -146,340 +475,11 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-15T15:20:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "사우디",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "중동",
       "source": "KBS 뉴스",
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8561532",
-      "rank": 3
-    },
-    {
-      "id": "388a4b685d29f7c2",
-      "issueKey": "마크롱",
-      "issueTitle": "마크롱",
-      "trendTitle": "마크롱",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "아내에 뺨 맞았던 마크롱…\"이란 여배우 때문이었다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/05/14/5MNJSVX6TVE3LHR3IRQW6ASF64/",
-          "publishedAt": "2026-05-15T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“마크롱 부인 ‘공항 손찌검’, 이란 출신 여배우 메시지 때문?”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260514580754",
-          "publishedAt": "2026-05-15T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "브리지트가 마크롱 뺨 때린 이유…여배우에 \"아름답다\" 넋나간 문자",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/G1v35LNdZN",
-          "publishedAt": "2026-05-15T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아내에 뺨 맞았던 마크롱…\"이란 여배우 때문이었다\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/05/14/5MNJSVX6TVE3LHR3IRQW6ASF64/",
-        "publishedAt": "2026-05-15T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T15:20:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "마크롱",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/international/international_general/2026/05/14/5MNJSVX6TVE3LHR3IRQW6ASF64/",
-      "rank": 4
-    },
-    {
-      "id": "0c6a663998f4b25b",
-      "issueKey": "김신영",
-      "issueTitle": "김신영",
-      "trendTitle": "김신영",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'요요' 김신영, 불룩 나온 D라인에 충격..\"뱃살 너무 많이 나와\"[나혼산][별별TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260516001904344",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김신영, 최연소 브론즈 마우스 수상 \"2029년까지 구설수 없길 바라\" ('나혼산') [순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G5RDANBTHE3DGYZTGRSTGYZQGE/",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'나혼산' 김신영, 셀프 이발도 척척…\"혼자 머리 민 지 10년\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6168429",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'요요' 김신영, 불룩 나온 D라인에 충격..\"뱃살 너무 많이 나와\"[나혼산][별별TV]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260516001904344",
-        "publishedAt": "2026-05-15T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T15:00:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "김신영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260516001904344",
-      "rank": 5
-    },
-    {
-      "id": "a6f9386a8711ed62",
-      "issueKey": "연기금",
-      "issueTitle": "연기금",
-      "trendTitle": "연기금",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'상장 임박' 스페이스X 몸값 '3000조 평가'에 일론 머스크는 왜 분노했나 (영상)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260516000230139",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“절대 스페이스X만 몰빵 마라” 美정부, 대놓고 밀어준 기업",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25428267",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "스페이스X 상장 아직인데…수익률 상위권 휩쓴 '우주 ETF'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202605159164i",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "연기금",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260516000230139",
-        "publishedAt": "2026-05-15T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T15:00:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "연기금",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260516000230139",
-      "rank": 6
-    },
-    {
-      "id": "743598aceb5d73b9",
-      "issueKey": "ebay",
-      "issueTitle": "ebay",
-      "trendTitle": "ebay",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Louis Vuitton, Gucci, Burberry, Chanel, Prada and Dior Are Most Purchased Items on EBay This Year So Far",
-          "source": "WWD",
-          "url": "https://wwd.com/fashion-news/fashion-trends/ebay-2026-watchlist-top-luxury-resale-trends-1238955600/",
-          "publishedAt": "2026-05-15T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Global listings for women’s bags grow nearly 20pc in Q1: eBay",
-          "source": "Luxury Daily",
-          "url": "https://www.luxurydaily.com/global-listings-for-womens-bags-grow-nearly-20pc-in-q1-ebay/",
-          "publishedAt": "2026-05-15T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "The Resale Market Is Booming, Depending on Which End You’re Looking At",
-          "source": "https://the-ethos.co/",
-          "url": "https://the-ethos.co/the-resale-market-is-booming-depending-on-which-end-youre-looking-at/",
-          "publishedAt": "2026-05-15T14:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Louis Vuitton, Gucci, Burberry, Chanel, Prada and Dior Are Most Purchased Items on EBay This Year So Far",
-        "source": "WWD",
-        "url": "https://wwd.com/fashion-news/fashion-trends/ebay-2026-watchlist-top-luxury-resale-trends-1238955600/",
-        "publishedAt": "2026-05-15T14:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T14:50:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "ebay",
-      "source": "WWD",
-      "url": "https://wwd.com/fashion-news/fashion-trends/ebay-2026-watchlist-top-luxury-resale-trends-1238955600/",
-      "rank": 7
-    },
-    {
-      "id": "e87e3049b21ed704",
-      "issueKey": "김태희",
-      "issueTitle": "김태희",
-      "trendTitle": "김태희",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "비, '사냥개들2' 악역 몰입해 ♥김태희에 혼쭐 \"눈을 왜 그렇게 떠?\" ('집대성')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/GJQTQZLBGFRTAOJVHE3TIYJVGY/",
-          "publishedAt": "2026-05-15T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'집대성' 비 \"♥김태희에게 혼났다…집에서 '사냥개들' 눈빛 한다고\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6168422",
-          "publishedAt": "2026-05-15T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘유퀴즈’ 비, 아내 김태희에 “태희님” 극존칭... “나라도 활개쳐야” 폭소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514121802996",
-          "publishedAt": "2026-05-15T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "비, '사냥개들2' 악역 몰입해 ♥김태희에 혼쭐 \"눈을 왜 그렇게 떠?\" ('집대성')",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/GJQTQZLBGFRTAOJVHE3TIYJVGY/",
-        "publishedAt": "2026-05-15T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T14:40:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "김태희",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/GJQTQZLBGFRTAOJVHE3TIYJVGY/",
-      "rank": 8
-    },
-    {
-      "id": "f399644c799f19d8",
-      "issueKey": "이효리",
-      "issueTitle": "이효리",
-      "trendTitle": "이효리",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이효리, 요가원서 맞은 스승의 날..선물 인증 \"강도 높은 수업 보답\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260515114753389",
-          "publishedAt": "2026-05-15T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이효리, 요가원 수강생들 '스승의날' 선물에 '활짝'..\"강도높은 수업으로 보답\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/GFRDEOBVHA3WIZLFMI4TCZRQMM/",
-          "publishedAt": "2026-05-15T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "발로 밟고 방귀 뀌어도, 이효리 요가 수업 인기 \"땀 뻘뻘 후, 미녀가 웃으며 사탕 주심\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260514n17711",
-          "publishedAt": "2026-05-15T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이효리, 요가원서 맞은 스승의 날..선물 인증 \"강도 높은 수업 보답\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260515114753389",
-        "publishedAt": "2026-05-15T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T14:30:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "이효리",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260515114753389",
-      "rank": 9
-    },
-    {
-      "id": "48acbb9689323253",
-      "issueKey": "김어준",
-      "issueTitle": "김어준",
-      "trendTitle": "김어준",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘기자 명예훼손’ 기소 2년만에... 검찰, 김어준 징역 1년 구형",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/05/15/QMKDGG7Q3BDMZNVPVLZ2RQK7UI/",
-          "publishedAt": "2026-05-15T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "검찰, ‘이동재 전 기자 명예훼손’ 김어준에 징역 1년 구형",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8562523",
-          "publishedAt": "2026-05-15T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[단독] '이동재 명예훼손' 혐의 김어준 징역 1년 구형…기소 2년만",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260515190647402",
-          "publishedAt": "2026-05-15T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘기자 명예훼손’ 기소 2년만에... 검찰, 김어준 징역 1년 구형",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/05/15/QMKDGG7Q3BDMZNVPVLZ2RQK7UI/",
-        "publishedAt": "2026-05-15T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T14:10:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "김어준",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/05/15/QMKDGG7Q3BDMZNVPVLZ2RQK7UI/",
       "rank": 10
     }
   ],
@@ -727,6 +727,52 @@
       "title": "이재영",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260512_0003626179"
+    },
+    {
+      "id": "61ae7e7d96079b41",
+      "issueKey": "리버풀",
+      "issueTitle": "리버풀",
+      "trendTitle": "리버풀",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘리버풀의 왕’ 모하메드 살라가 돌아온다···슬롯 감독 “빌라 원정에서 조금 뛸 수 있는 상태”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12049122",
+          "publishedAt": "2026-05-15T18:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "아뿔싸! '좌 흥민-우 살라' 듀오는 결국 꿈이었나...살라, MLS 대신 유럽 잔류 가능성↑ \"페네르바흐체, 3가지 조건 충족\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/yPqdRyHlRx",
+          "publishedAt": "2026-05-15T18:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'손흥민 떠난 토트넘에 벌어진 상황? 곧 리버풀이 맞이할 미래'…토트넘·리버풀 모두 뛴 로젠탈, 살라 이탈 후폭풍 우려",
+          "source": "네이트 스포츠",
+          "url": "https://sports.news.nate.com/view/20260511n00439",
+          "publishedAt": "2026-05-15T18:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘리버풀의 왕’ 모하메드 살라가 돌아온다···슬롯 감독 “빌라 원정에서 조금 뛸 수 있는 상태”",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/sports/12049122",
+        "publishedAt": "2026-05-15T18:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-15T18:10:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "리버풀",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/sports/12049122"
     },
     {
       "id": "7baf75f51c9d0d7d",
@@ -1454,6 +1500,52 @@
       "url": "https://www.cricbuzz.com/live-cricket-scores/152130/kkr-vs-rcb-57th-match-indian-premier-league-2026"
     },
     {
+      "id": "72d047e8dcb25f8e",
+      "issueKey": "전현무",
+      "issueTitle": "전현무",
+      "trendTitle": "전현무",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박지현 \"데뷔 전 홍어 6만여 마리 손질‥母 힘드시니까\" ('전현무계획3') [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G43TKMTDGNQWKNRTMYZTCMBVME/",
+          "publishedAt": "2026-05-15T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "박지현 \"중국서 오래 유학…당시 집 잘 살아\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260514_0003628865",
+          "publishedAt": "2026-05-15T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전현무, '나혼산' 박지현 이름 모르는 곽튜브에 \"너 이민 갈 뻔했다\" (전현무계획3)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515214103531",
+          "publishedAt": "2026-05-15T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박지현 \"데뷔 전 홍어 6만여 마리 손질‥母 힘드시니까\" ('전현무계획3') [핫피플]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G43TKMTDGNQWKNRTMYZTCMBVME/",
+        "publishedAt": "2026-05-15T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-15T15:40:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "전현무",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G43TKMTDGNQWKNRTMYZTCMBVME/"
+    },
+    {
       "id": "df8671acdd670935",
       "issueKey": "교사",
       "issueTitle": "교사",
@@ -1868,52 +1960,6 @@
       "url": "https://www.chosun.com/international/international_general/2026/05/14/P7TJFZTMBFBOTGTMPJ6BGLVZZI/"
     },
     {
-      "id": "e88d4001bae210ee",
-      "issueKey": "장원영",
-      "issueTitle": "장원영",
-      "trendTitle": "장원영",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "출국하는 아이브 장원영, 아침부터 자체발광 모닝엔젤 [MHN영상]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260513141900768",
-          "publishedAt": "2026-05-13T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "상큼+청순만 있는 게 아니었네 반전 매력 뽐낸 ‘모태 공주’ 장원영 [이대선의 모멘트]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/13/MUYGCOBYMRRTKNRVGQ2DMZRTGE/",
-          "publishedAt": "2026-05-13T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "장원영, 이렇게 성숙했나…가녀린 오프숄더 자태 [DA★]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/SODA/article/0210/20260513/133917515/1",
-          "publishedAt": "2026-05-13T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "출국하는 아이브 장원영, 아침부터 자체발광 모닝엔젤 [MHN영상]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260513141900768",
-        "publishedAt": "2026-05-13T15:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-13T15:10:00.000Z",
-      "firstSeenAt": "2026-05-13T17:16:47.910Z",
-      "lastSeenAt": "2026-05-13T17:16:47.910Z",
-      "title": "장원영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260513141900768"
-    },
-    {
       "id": "f76cd0f119e5791a",
       "issueKey": "pbks vs mi",
       "issueTitle": "pbks vs mi",
@@ -2211,52 +2257,6 @@
       "url": "https://zdnet.co.kr/view/?no=20260515152621"
     },
     {
-      "id": "fb921b04356c53ef",
-      "issueKey": "싫다더니 순삭",
-      "issueTitle": "싫다더니 순삭",
-      "trendTitle": "싫다더니 순삭",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "박지현 \"데뷔 전 홍어 6만여 마리 손질‥母 힘드시니까\" ('전현무계획3') [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G43TKMTDGNQWKNRTMYZTCMBVME/",
-          "publishedAt": "2026-05-15T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "박지현 \"중국서 오래 유학…당시 집 잘 살아\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260514_0003628865",
-          "publishedAt": "2026-05-15T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "전현무계획3 - 해산물 싫다더니 순삭?! 삼척 바다 통째로 삼킨 박지현의 반전 먹방",
-          "source": "www.mbn.co.kr",
-          "url": "https://www.mbn.co.kr/vod/programContents/previewlist/1010/6487/1418834",
-          "publishedAt": "2026-05-15T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전현무계획3 - 해산물 싫다더니 순삭?! 삼척 바다 통째로 삼킨 박지현의 반전 먹방",
-        "source": "www.mbn.co.kr",
-        "url": "https://www.mbn.co.kr/vod/programContents/previewlist/1010/6487/1418834",
-        "publishedAt": "2026-05-15T15:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-15T15:40:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "싫다더니 순삭",
-      "source": "www.mbn.co.kr",
-      "url": "https://www.mbn.co.kr/vod/programContents/previewlist/1010/6487/1418834"
-    },
-    {
       "id": "fa0b605981b0aa4e",
       "issueKey": "조이",
       "issueTitle": "조이",
@@ -2264,8 +2264,15 @@
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "relatedArticles": [
+        {
+          "title": "조이, 무슨 일 있나‥애견 미용사 공부ing \"만약 연예인 못하게 되면\" ('나혼산') [순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/GYZWINBQMFQTANLCGQ2GIZTBGU/",
+          "publishedAt": "2026-05-15T15:30:00.000Z",
+          "relevanceScore": 3
+        },
         {
           "title": "'나혼산' 조이, 애견 미용사 자격증 도전…\"연예인 못하게 된다면?\"",
           "source": "Daum",
@@ -2274,9 +2281,9 @@
           "relevanceScore": 3
         },
         {
-          "title": "조이, 무슨 일 있나‥애견 미용사 공부ing \"만약 연예인 못하게 되면\" ('나혼산') [순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/GYZWINBQMFQTANLCGQ2GIZTBGU/",
+          "title": "'크러쉬 ♥' 레드벨벳 조이, 가수→'애견 미용사 자격증' 준비 中 ('나혼산')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515194852354?t=m&amp;x_mn=6a06fd0d3c0d6c72cd85926d",
           "publishedAt": "2026-05-15T15:30:00.000Z",
           "relevanceScore": 2
         },
@@ -2289,110 +2296,110 @@
         }
       ],
       "representativeArticle": {
-        "title": "'나혼산' 조이, 애견 미용사 자격증 도전…\"연예인 못하게 된다면?\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260516003900455",
+        "title": "조이, 무슨 일 있나‥애견 미용사 공부ing \"만약 연예인 못하게 되면\" ('나혼산') [순간포착]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/GYZWINBQMFQTANLCGQ2GIZTBGU/",
         "publishedAt": "2026-05-15T15:30:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-15T15:30:00.000Z",
       "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
       "title": "조이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260516003900455"
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/16/GYZWINBQMFQTANLCGQ2GIZTBGU/"
     },
     {
-      "id": "a6f9386a8711ed62",
-      "issueKey": "연기금",
-      "issueTitle": "연기금",
-      "trendTitle": "연기금",
+      "id": "982b46e697327006",
+      "issueKey": "함은정",
+      "issueTitle": "함은정",
+      "trendTitle": "함은정",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'상장 임박' 스페이스X 몸값 '3000조 평가'에 일론 머스크는 왜 분노했나 (영상)",
+          "title": "'2세대' 함은정, 5세대 메이크업 받고 충격 반응…\"배우병 걸렸나 봐\" 폭소",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260516000230139",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
+          "url": "https://v.daum.net/v/20260515132851596",
+          "publishedAt": "2026-05-15T16:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“절대 스페이스X만 몰빵 마라” 美정부, 대놓고 밀어준 기업",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25428267",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "스페이스X 상장 아직인데…수익률 상위권 휩쓴 '우주 ETF'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202605159164i",
-          "publishedAt": "2026-05-15T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "연기금",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260516000230139",
-        "publishedAt": "2026-05-15T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T15:00:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "연기금",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260516000230139"
-    },
-    {
-      "id": "f399644c799f19d8",
-      "issueKey": "이효리",
-      "issueTitle": "이효리",
-      "trendTitle": "이효리",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이효리, 요가원서 맞은 스승의 날..선물 인증 \"강도 높은 수업 보답\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260515114753389",
-          "publishedAt": "2026-05-15T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이효리, 요가원 수강생들 '스승의날' 선물에 '활짝'..\"강도높은 수업으로 보답\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/GFRDEOBVHA3WIZLFMI4TCZRQMM/",
-          "publishedAt": "2026-05-15T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "발로 밟고 방귀 뀌어도, 이효리 요가 수업 인기 \"땀 뻘뻘 후, 미녀가 웃으며 사탕 주심\"",
+          "title": "티아라 함은정, 아이돌 화장 거부하더니…결국 배우병 폭로 [스타이슈]",
           "source": "네이트",
-          "url": "https://news.nate.com/view/20260514n17711",
-          "publishedAt": "2026-05-15T14:30:00.000Z",
+          "url": "https://news.nate.com/view/20260514n33763?mid=e0600",
+          "publishedAt": "2026-05-15T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "함은정 “싫다”…5세대 메이크업 받고 결국 ‘배우병’ 인정 [SD톡톡]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260514/133926501/1",
+          "publishedAt": "2026-05-15T16:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "이효리, 요가원서 맞은 스승의 날..선물 인증 \"강도 높은 수업 보답\"",
+        "title": "'2세대' 함은정, 5세대 메이크업 받고 충격 반응…\"배우병 걸렸나 봐\" 폭소",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260515114753389",
-        "publishedAt": "2026-05-15T14:30:00.000Z",
+        "url": "https://v.daum.net/v/20260515132851596",
+        "publishedAt": "2026-05-15T16:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-15T14:30:00.000Z",
-      "firstSeenAt": "2026-05-15T16:51:31.078Z",
-      "lastSeenAt": "2026-05-15T16:51:31.078Z",
-      "title": "이효리",
+      "publishedAt": "2026-05-15T16:00:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "함은정",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260515114753389"
+      "url": "https://v.daum.net/v/20260515132851596"
+    },
+    {
+      "id": "f27ad918594f89a5",
+      "issueKey": "지난 지금은",
+      "issueTitle": "지난 지금은",
+      "trendTitle": "지난 지금은",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] ‘반도체 클러스터 지방에’ 법으로 의무화한다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20044678",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "너도나도 공약했던 ‘10조 이상 SOC’…4년 지난 지금은?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8562329",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "너도나도 “반도체 유치”·“경마장 이전”…“후보님들, 진짜 됩니까?”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260514063154813",
+          "publishedAt": "2026-05-15T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "너도나도 공약했던 ‘10조 이상 SOC’…4년 지난 지금은?",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8562329",
+        "publishedAt": "2026-05-15T15:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-15T15:50:00.000Z",
+      "firstSeenAt": "2026-05-15T19:38:49.634Z",
+      "lastSeenAt": "2026-05-15T19:38:49.634Z",
+      "title": "지난 지금은",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8562329"
     }
   ]
 }
