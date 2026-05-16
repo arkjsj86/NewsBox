@@ -7,16 +7,63 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-16T02:56:41.065Z",
+  "lastUpdatedAt": "2026-05-16T05:57:08.662Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "bc4162d3d1ba745f",
-      "issueKey": "한화 문현빈",
-      "issueTitle": "한화 문현빈",
-      "trendTitle": "한화 문현빈",
+      "id": "cc5a4ea18079d3be",
+      "issueKey": "서동주",
+      "issueTitle": "서동주",
+      "trendTitle": "서동주",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"풍자 32kg 폭풍감량\" 서동주, \"실제로 보면 굉장히 작아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515103402871",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "32kg 감량 풍자, “30kg 더 빼겠다”… 최근 ‘이 운동’ 시작",
+          "source": "헬스조선",
+          "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026051503677",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "홀쭉해진 풍자 \"32㎏ 감량…워너비 몸매는 한혜진\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260513_0003628464",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"풍자 32kg 폭풍감량\" 서동주, \"실제로 보면 굉장히 작아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260515103402871",
+        "publishedAt": "2026-05-16T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-16T04:50:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "서동주",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260515103402871",
+      "rank": 1
+    },
+    {
+      "id": "9e18735de0ce06da",
+      "issueKey": "페라자",
+      "issueTitle": "페라자",
+      "trendTitle": "페라자",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
@@ -26,460 +73,413 @@
           "title": "한화 이 선수는 왜 방망이를 던졌나…1할대 추락 위기에 실망, 강백호 보상선수 울리다 \"약간 타격감 좋지 않아서\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260516084302066",
-          "publishedAt": "2026-05-16T01:50:00.000Z",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
           "relevanceScore": 3
-        },
-        {
-          "title": "한화 문현빈·페라자 ′투런포′ 작렬…kt 잡고 2연승",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/MYH202605161024420md",
-          "publishedAt": "2026-05-16T01:50:00.000Z",
-          "relevanceScore": 2
         },
         {
           "title": "'팀 내 홈런 선두' 한화 문현빈 \"나는 형들보다 안타를 더 많이 칠 것\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260515_0003632064",
-          "publishedAt": "2026-05-16T01:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한화 문현빈·페라자 ′투런포′ 작렬…kt 잡고 2연승",
-        "source": "연합뉴스TV",
-        "url": "https://m.yonhapnewstv.co.kr/news/MYH202605161024420md",
-        "publishedAt": "2026-05-16T01:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-16T01:50:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "한화 문현빈",
-      "source": "연합뉴스TV",
-      "url": "https://m.yonhapnewstv.co.kr/news/MYH202605161024420md",
-      "rank": 1
-    },
-    {
-      "id": "6a28b6281763e210",
-      "issueKey": "티켓링크",
-      "issueTitle": "티켓링크",
-      "trendTitle": "티켓링크",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'표 왜 없나 했더니'…매크로로 야구 티켓 싹쓸이 40대 적발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260514060000053",
-          "publishedAt": "2026-05-16T01:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"매크로 암표 막아라\"…놀유니버스·NHN링크, 경찰 협력 공로 감사장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260514_0003629071",
-          "publishedAt": "2026-05-16T01:40:00.000Z",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "놀유니버스 경찰청에서 감사장 받아, 부정예매와 암표 범죄 수사 역량 발전에 기여",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=437850",
-          "publishedAt": "2026-05-16T01:40:00.000Z",
+          "title": "'벌써 8호' 한화 1위 등극, 거포 돌멩이 변신 \"저는 홈런타자 아니라…형들보다 안타 더 많이 치겠습니다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/05/16/GM4TGOBZMJRTEZRVGNRDSM3GMU/",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "티켓링크",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260514060000053",
-        "publishedAt": "2026-05-16T01:40:00.000Z",
+        "title": "페라자",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260516084302066",
+        "publishedAt": "2026-05-16T04:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-16T01:40:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "티켓링크",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260514060000053",
+      "publishedAt": "2026-05-16T04:50:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "페라자",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260516084302066",
       "rank": 2
     },
     {
-      "id": "7984f5792eb340bb",
-      "issueKey": "송해",
-      "issueTitle": "송해",
-      "trendTitle": "송해",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "b30031c92ba39599",
+      "issueKey": "좌완",
+      "issueTitle": "좌완",
+      "trendTitle": "좌완",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'나는 솔로' 31기 왕따 논란에 MC 송해나가 SNS에 조용히 올린 영상 [MHN:피드]",
+          "title": "\"올해는 선발 돌아갈 생각 없다\" LG 11승 좌완, '마무리 전환' 팬 우려에 단호히 답했다... 벌써 2SV 달성 \"아직 80점\" [인천 현장]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/urxXv53GJJ",
-          "publishedAt": "2026-05-16T01:20:00.000Z",
+          "url": "https://v.daum.net/v/20260516000510200",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[스경X이슈] 따돌림 논란부터 통편집 협박·임신설까지…‘나는 솔로’ 31기, 인간성 실종된 ‘솔로나라’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202605151243013",
-          "publishedAt": "2026-05-16T01:20:00.000Z",
+          "title": "'LG 트럭 시위'의 주인공, '선발→마무리' 2세이브 손주영의 솔직 심정 \"부상 걱정 안 해도 된다. 마무리는 올해만\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/05/16/GU4GEMZVGQ3TKMRVGJRDAMBRMQ/",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "정색하던 송해나, 결국 SNS까지 박제했다…‘나솔’ 31기 영상 업로드",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/05/15/ME3DGNBTGMYDOZRYGRRGENDFGY/",
-          "publishedAt": "2026-05-16T01:20:00.000Z",
+          "title": "하루 휴식 후 등판, 1점차 터프 세이브…손주영 \"제 심장, 나쁘진 않네요\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260515n33329?mid=s21&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'나는 솔로' 31기 왕따 논란에 MC 송해나가 SNS에 조용히 올린 영상 [MHN:피드]",
+        "title": "\"올해는 선발 돌아갈 생각 없다\" LG 11승 좌완, '마무리 전환' 팬 우려에 단호히 답했다... 벌써 2SV 달성 \"아직 80점\" [인천 현장]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/urxXv53GJJ",
-        "publishedAt": "2026-05-16T01:20:00.000Z",
+        "url": "https://v.daum.net/v/20260516000510200",
+        "publishedAt": "2026-05-16T04:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-16T01:20:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "송해",
+      "publishedAt": "2026-05-16T04:50:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "좌완",
       "source": "Daum",
-      "url": "https://v.daum.net/v/urxXv53GJJ",
+      "url": "https://v.daum.net/v/20260516000510200",
       "rank": 3
     },
     {
-      "id": "997a5ca712518bcb",
-      "issueKey": "홍지윤",
-      "issueTitle": "홍지윤",
-      "trendTitle": "홍지윤",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "7828e86d4b195798",
+      "issueKey": "베트남",
+      "issueTitle": "베트남",
+      "trendTitle": "베트남",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "홍지윤, '현역가왕3' 우승 상금 1억 전액 기부…\"어르신들 사랑에 보답\" (편스토랑)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260515221108006",
-          "publishedAt": "2026-05-16T00:50:00.000Z",
+          "title": "베트남 커뮤니티-한국기업 협력 MoU...여름엔 공동 축구대회",
+          "source": "Thông tấn xã Việt Nam",
+          "url": "https://vietnam.vnanet.vn/korean/tin-van/%E1%84%87%E1%85%A6%E1%84%90%E1%85%B3%E1%84%82%E1%85%A1%E1%86%B7-%E1%84%8F%E1%85%A5%E1%84%86%E1%85%B2%E1%84%82%E1%85%B5%E1%84%90%E1%85%B5-%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%B8-%E1%84%92%E1%85%A7%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8-mou%E1%84%8B%E1%85%A7%E1%84%85%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A6%E1%86%AB-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC-446174.html",
+          "publishedAt": "2026-05-16T04:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'편스토랑' 홍지윤 \"1억 상금 전액 기부…어르신들 사랑에 보답\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6168424",
-          "publishedAt": "2026-05-16T00:50:00.000Z",
+          "title": "베트남 커뮤니티와 한국 기업을 연결하는 실질적인 다리.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cau-noi-thiet-thuc-giua-cong-dong-nguoi-viet-voi-cac-doanh-nghiep-han-quoc",
+          "publishedAt": "2026-05-16T04:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "홍지윤, 리본 원피스 차림으로 ‘편스토랑’ 출근길",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16061833",
-          "publishedAt": "2026-05-16T00:50:00.000Z",
+          "title": "무협·코트라, 베트남 기업 韓시장 등 글로벌공급망 확대 지원 나서",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515164339605",
+          "publishedAt": "2026-05-16T04:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "홍지윤, '현역가왕3' 우승 상금 1억 전액 기부…\"어르신들 사랑에 보답\" (편스토랑)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260515221108006",
-        "publishedAt": "2026-05-16T00:50:00.000Z",
+        "title": "베트남 커뮤니티-한국기업 협력 MoU...여름엔 공동 축구대회",
+        "source": "Thông tấn xã Việt Nam",
+        "url": "https://vietnam.vnanet.vn/korean/tin-van/%E1%84%87%E1%85%A6%E1%84%90%E1%85%B3%E1%84%82%E1%85%A1%E1%86%B7-%E1%84%8F%E1%85%A5%E1%84%86%E1%85%B2%E1%84%82%E1%85%B5%E1%84%90%E1%85%B5-%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%B8-%E1%84%92%E1%85%A7%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8-mou%E1%84%8B%E1%85%A7%E1%84%85%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A6%E1%86%AB-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC-446174.html",
+        "publishedAt": "2026-05-16T04:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-16T00:50:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "홍지윤",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260515221108006",
+      "publishedAt": "2026-05-16T04:40:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "베트남",
+      "source": "Thông tấn xã Việt Nam",
+      "url": "https://vietnam.vnanet.vn/korean/tin-van/%E1%84%87%E1%85%A6%E1%84%90%E1%85%B3%E1%84%82%E1%85%A1%E1%86%B7-%E1%84%8F%E1%85%A5%E1%84%86%E1%85%B2%E1%84%82%E1%85%B5%E1%84%90%E1%85%B5-%E1%84%92%E1%85%A1%E1%86%AB%E1%84%80%E1%85%AE%E1%86%A8%E1%84%80%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%B8-%E1%84%92%E1%85%A7%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8-mou%E1%84%8B%E1%85%A7%E1%84%85%E1%85%B3%E1%86%B7%E1%84%8B%E1%85%A6%E1%86%AB-%E1%84%80%E1%85%A9%E1%86%BC%E1%84%83%E1%85%A9%E1%86%BC-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE%E1%84%83%E1%85%A2%E1%84%92%E1%85%AC-446174.html",
       "rank": 4
     },
     {
-      "id": "ea7c6db315d9d27d",
-      "issueKey": "김도영",
-      "issueTitle": "김도영",
-      "trendTitle": "김도영",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "ef88923d777fa340",
+      "issueKey": "hanwha vs kt",
+      "issueTitle": "hanwha vs kt",
+      "trendTitle": "hanwha vs kt",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "김도영은 축지법을 쓰는 것일까…슬슬 뛰는데 왜 그렇게 빠를까, 급기야 기습적으로 도루 봉인 해제",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260516061205530",
-          "publishedAt": "2026-05-16T00:50:00.000Z",
+          "title": "[Photo] Hanwha starting pitcher White returns from injury - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/05/16/27NEPWYZQJFXZAD3U7ZHSKNF6A/",
+          "publishedAt": "2026-05-16T04:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[사진] 아데를린, 타점치고 엄지척",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/05/15/MYZDEMDGHFQWEMZVGU3TONTCMY/",
-          "publishedAt": "2026-05-16T00:50:00.000Z",
+          "title": "[Photo] Kian84 throws ceremonial first pitch aiming for KT victory - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/05/16/SSDH4JGCPRHQJGE52X3IPCWUSY/",
+          "publishedAt": "2026-05-16T04:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[사진] 김도영, 득점 성공 하이파이브",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112802274",
-          "publishedAt": "2026-05-16T00:50:00.000Z",
+          "title": "[Photo] Kian84 throws energetic ceremonial first pitch - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-photo-spo/2026/05/16/HVB56P22S5B27KRI5WM5CBUCCA/",
+          "publishedAt": "2026-05-16T04:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김도영은 축지법을 쓰는 것일까…슬슬 뛰는데 왜 그렇게 빠를까, 급기야 기습적으로 도루 봉인 해제",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260516061205530",
-        "publishedAt": "2026-05-16T00:50:00.000Z",
+        "title": "hanwha vs kt",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-photo-spo/2026/05/16/27NEPWYZQJFXZAD3U7ZHSKNF6A/",
+        "publishedAt": "2026-05-16T04:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-16T00:50:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "김도영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260516061205530",
+      "publishedAt": "2026-05-16T04:40:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "hanwha vs kt",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-photo-spo/2026/05/16/27NEPWYZQJFXZAD3U7ZHSKNF6A/",
       "rank": 5
     },
     {
-      "id": "bd7977eb6f624bce",
-      "issueKey": "외국 개미",
-      "issueTitle": "외국 개미",
-      "trendTitle": "외국 개미",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "df8671acdd670935",
+      "issueKey": "교사",
+      "issueTitle": "교사",
+      "trendTitle": "교사",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“아리가또 하이닉스”…외국 개미, 한국 증시로 얼마나 몰려올까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260516090139222",
-          "publishedAt": "2026-05-16T00:40:00.000Z",
+          "title": "상담받던 초등생, 교사 20분간 폭행해 ‘전치 2주’···교육당국, 조사 착수",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605150950001",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "연금개미도 '바이 코리아'…세대별 '황금 포트폴리오'는 [투자톡]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026051339506",
-          "publishedAt": "2026-05-16T00:40:00.000Z",
+          "title": "\"축하 대신 보호를\"...스승의 날, 피해 교사의 외침",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&amp;key=202605151106263360",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'삼전닉스'에 노후 건다…\"하이닉스 11억 투자해 은퇴자금 180억\"",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260516n01841?issue_sq=11002",
-          "publishedAt": "2026-05-16T00:40:00.000Z",
+          "title": "의자 던지고 발길질‥초등생이 30분간 교사 폭행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6822845_37004.html",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“아리가또 하이닉스”…외국 개미, 한국 증시로 얼마나 몰려올까",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260516090139222",
-        "publishedAt": "2026-05-16T00:40:00.000Z",
+        "title": "상담받던 초등생, 교사 20분간 폭행해 ‘전치 2주’···교육당국, 조사 착수",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605150950001",
+        "publishedAt": "2026-05-16T04:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-16T00:40:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "외국 개미",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260516090139222",
+      "publishedAt": "2026-05-16T04:30:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "교사",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202605150950001",
       "rank": 6
     },
     {
-      "id": "41533555df3b5110",
-      "issueKey": "인수 확정",
-      "issueTitle": "인수 확정",
-      "trendTitle": "인수 확정",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "SOOP, 여자배구 페퍼 인수 추진…7구단 체제 유지 유력",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260516_0003632192",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "SOOP, 여자 프로배구 페퍼 인수 나선다…7구단 체제 유력",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pDQrAvYCHd",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "SOOP, 페퍼저축은행 인수 확정!…연고지는 아직 미정",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8562415",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "SOOP, 페퍼저축은행 인수 확정!…연고지는 아직 미정",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8562415",
-        "publishedAt": "2026-05-16T00:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-16T00:00:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "인수 확정",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8562415",
-      "rank": 7
-    },
-    {
-      "id": "5d03ab909004ed1d",
-      "issueKey": "지역 대학생",
-      "issueTitle": "지역 대학생",
-      "trendTitle": "장학금",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "충주시장학회, 지역 대학생·교육 소외계층 3억8천만원 장학금 지원",
-          "source": "www.gukjenews.com",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3582269",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“‘배움 늦지 않았다’…충주시장학회, 만학도·쉼터 학생까지 품었다”",
-          "source": "공뉴스",
-          "url": "https://www.bzeronews.com/news/articleView.html?idxno=817516",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "충주시장학회, 대학생 등 148명에 장학금 3억 8천만 원 전격 지원",
-          "source": "한국시사경제",
-          "url": "https://www.hksisaeconomy.com/news/article.html?no=1135289",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "충주시장학회, 지역 대학생·교육 소외계층 3억8천만원 장학금 지원",
-        "source": "www.gukjenews.com",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3582269",
-        "publishedAt": "2026-05-16T00:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-16T00:00:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "지역 대학생",
-      "source": "www.gukjenews.com",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3582269",
-      "rank": 8
-    },
-    {
-      "id": "9b2abeeabfa16bee",
-      "issueKey": "우스만 뎀벨레",
-      "issueTitle": "우스만 뎀벨레",
-      "trendTitle": "우스만 뎀벨레",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'음바페 포함' 프랑스 대표팀, 북중미 월드컵 출전 초호화 명단 발표",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260515_0003630962",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'명단 확정' 프랑스의 목표는 우승 사냥...\"음바페-뎀벨레-올리세 조합, 역사상 가장 파괴적\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/15/HFQTCMZYGA4TAMZVMNQWGMDGGM/",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "프랑스 축구대표팀, 월드컵 명단 발표…카마빙가 탈락 '눈길'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260515046700007",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "우스만 뎀벨레",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260515_0003630962",
-        "publishedAt": "2026-05-16T00:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-16T00:00:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "우스만 뎀벨레",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260515_0003630962",
-      "rank": 9
-    },
-    {
-      "id": "78d345d0c9d1b258",
-      "issueKey": "꼴찌의 대반란",
-      "issueTitle": "꼴찌의 대반란",
-      "trendTitle": "꼴찌의 대반란",
+      "id": "7bfaab5712c67d08",
+      "issueKey": "고진영",
+      "issueTitle": "고진영",
+      "trendTitle": "고진영",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "올해 메이저리그는 '와일드 와일드 NL 센트럴'…5개 팀 모두 승률 5할 이상→大혼전 양상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260515220202865",
-          "publishedAt": "2026-05-15T23:50:00.000Z",
+          "title": "고진영, 3년 만에 LPGA 우승 도전 ... 크로거 퀸시티 챔피언십 2R 선두",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/golf/2026/05/16/IGLTEWEMUNCE5HIXZWM6BP4LWM/",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'101패→121패→102패' 만년 꼴찌의 대반란! 화이트삭스 승승승승승, 4년 만에 승패마진 +1승",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=816842",
-          "publishedAt": "2026-05-15T23:50:00.000Z",
+          "title": "‘너무 어려운’ 코스서 ‘너무 대단한’ 전인지의 64타…‘102위→16위’ 86계단 껑충",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20044814",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"3년 연속 100패\" 화이트삭스의 반전...5연승+5할 승률 비결은?",
-          "source": "https://www.mlbkor.com/",
-          "url": "https://www.mlbkor.com/news/articleView.html?idxno=30043",
-          "publishedAt": "2026-05-15T23:50:00.000Z",
+          "title": "고진영, LPGA 투어 크루거 퀸시티 챔피언십 2R 공동 선두",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260516_0003632158",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'101패→121패→102패' 만년 꼴찌의 대반란! 화이트삭스 승승승승승, 4년 만에 승패마진 +1승",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=816842",
-        "publishedAt": "2026-05-15T23:50:00.000Z",
-        "relevanceScore": 2
+        "title": "고진영, 3년 만에 LPGA 우승 도전 ... 크로거 퀸시티 챔피언십 2R 선두",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/golf/2026/05/16/IGLTEWEMUNCE5HIXZWM6BP4LWM/",
+        "publishedAt": "2026-05-16T04:30:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-15T23:50:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "꼴찌의 대반란",
-      "source": "SPOTV NEWS",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=816842",
+      "publishedAt": "2026-05-16T04:30:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "고진영",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/golf/2026/05/16/IGLTEWEMUNCE5HIXZWM6BP4LWM/",
+      "rank": 7
+    },
+    {
+      "id": "5224d391b243d330",
+      "issueKey": "기장군",
+      "issueTitle": "기장군",
+      "trendTitle": "기장군",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "고유가 피해지원금 2차 지급 18일 시작…국민 70%에 10~25만 원",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964141",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "의왕시, 18일부터 2차 고유가피해지원금…소득 하위 70%",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260515_0003631276",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전남도, 2차 고유가 피해지원금 신속 지급 총력",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260516105700822",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기장군",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964141",
+        "publishedAt": "2026-05-16T04:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-16T04:30:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "기장군",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964141",
+      "rank": 8
+    },
+    {
+      "id": "34bfcd0da8461e4a",
+      "issueKey": "서울장미축제",
+      "issueTitle": "서울장미축제",
+      "trendTitle": "서울장미축제",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "천만 송이 장미 꽃길 '중랑 서울장미축제', 철저한 현장점검으로 안전까지 만개",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156761861",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김광용 재난안전관리본부장, '중랑 서울장미축제' 축제장 안전관리 현장점검",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260515086900013",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘중랑 서울장미축제’ 첫날부터 장미 인파 북적",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260516074620373",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "천만 송이 장미 꽃길 '중랑 서울장미축제', 철저한 현장점검으로 안전까지 만개",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156761861",
+        "publishedAt": "2026-05-16T04:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-16T04:00:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "서울장미축제",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156761861",
+      "rank": 9
+    },
+    {
+      "id": "137daa039b2a47e5",
+      "issueKey": "ban vs pak",
+      "issueTitle": "ban vs pak",
+      "trendTitle": "ban vs pak",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Babar boost for Pakistan but Bangladesh have all the momentum",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/pakistan-in-bangladesh-2026-1532478/bangladesh-vs-pakistan-2nd-test-1532487/match-preview",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Pakistan wins the toss and decides to bowl against Bangladesh in the 2nd test",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/Sports/wireStory/pakistan-wins-toss-decides-bowl-bangladesh-2nd-test-133025502",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Bangladesh vs Pakistan Test Today at Sylhet International Cricket Stadium, Sylhet, Bangladesh stadium",
+          "source": "AIMA Media",
+          "url": "https://aimamedia.org/newsdetails.aspx?nid=653339",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "ban vs pak",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/pakistan-in-bangladesh-2026-1532478/bangladesh-vs-pakistan-2nd-test-1532487/match-preview",
+        "publishedAt": "2026-05-16T04:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-16T04:00:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "ban vs pak",
+      "source": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/series/pakistan-in-bangladesh-2026-1532478/bangladesh-vs-pakistan-2nd-test-1532487/match-preview",
       "rank": 10
     }
   ],
@@ -759,6 +759,73 @@
       "title": "사기",
       "source": "조선일보",
       "url": "https://www.chosun.com/national/incident/2026/05/15/NBGVO72LEJA7ZKKDRDD7U7YCFA/"
+    },
+    {
+      "id": "df8671acdd670935",
+      "issueKey": "교사",
+      "issueTitle": "교사",
+      "trendTitle": "교사",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 6,
+      "relatedArticles": [
+        {
+          "title": "상담받던 초등생, 교사 20분간 폭행해 ‘전치 2주’···교육당국, 조사 착수",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605150950001",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "케이크 32등분해 제자들에게 나눠준 교사…“나는 먹을 수 없었다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515133105661",
+          "publishedAt": "2026-05-15T07:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"축하 대신 보호를\"...스승의 날, 피해 교사의 외침",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&amp;key=202605151106263360",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"준비한 선물 어쩌나\" 스승의 날 선물 거절 공지에 당혹스런 학부모들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260515_0003631338",
+          "publishedAt": "2026-05-15T07:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "의자 던지고 발길질‥초등생이 30분간 교사 폭행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6822845_37004.html",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "\"스승의날 케이크, 학생만 먹고 교사는 먹지 마라\" 교육청 지침 논란",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/national_general/2026/05/14/M3IAEI4MFJEZ7M3QGFVBNTHT5Q/",
+          "publishedAt": "2026-05-15T07:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "상담받던 초등생, 교사 20분간 폭행해 ‘전치 2주’···교육당국, 조사 착수",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605150950001",
+        "publishedAt": "2026-05-16T04:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-16T04:30:00.000Z",
+      "firstSeenAt": "2026-05-15T08:49:36.505Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "교사",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202605150950001"
     },
     {
       "id": "61ae7e7d96079b41",
@@ -1221,98 +1288,6 @@
       "url": "https://biz.chosun.com/entertainment/tv/2026/05/12/MVRDQZBSGE4GMMDFHA2DGZRQGY/"
     },
     {
-      "id": "807d82f82fbcf722",
-      "issueKey": "김하성",
-      "issueTitle": "김하성",
-      "trendTitle": "김하성",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김하성, 韓日투타 맞대결…시카고 컵스 '에이스' 이마나가 상대로 7번-유격수 출전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260514045101858",
-          "publishedAt": "2026-05-14T01:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[MLB 리뷰]미쳤다! 김하성, 골글급 수비+결승점 연결 안타 종횡무진…ATL, 컵스 4대1 격파 '4연승 신바람'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/05/14/GRRDMNLFGU4DOY3FMRRGGNRUHA/",
-          "publishedAt": "2026-05-14T01:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "하성·정후 쾌청한데…혜성·성문 먹구름",
-          "source": "국제신문",
-          "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&amp;key=20260514.22015003354&amp;kid=",
-          "publishedAt": "2026-05-14T01:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김하성, 韓日투타 맞대결…시카고 컵스 '에이스' 이마나가 상대로 7번-유격수 출전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260514045101858",
-        "publishedAt": "2026-05-14T01:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T01:40:00.000Z",
-      "firstSeenAt": "2026-05-14T03:30:26.629Z",
-      "lastSeenAt": "2026-05-14T03:30:26.629Z",
-      "title": "김하성",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260514045101858"
-    },
-    {
-      "id": "c1fc52507c366520",
-      "issueKey": "이기택",
-      "issueTitle": "이기택",
-      "trendTitle": "이기택",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "배우 이기택, '1박 2일' 새 멤버 합류…유선호 후임",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260514065800005",
-          "publishedAt": "2026-05-14T00:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[공식] 이기택, '1박 2일' 새로운 막내 됐다…소속사 \"고정 합류 맞아\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/14/GIZDOYRUMY4WCM3EMNRWEZJVGE/",
-          "publishedAt": "2026-05-14T00:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[단독] '1박2일' 새 막내 이기택 \"국민 예능 합류 영광…아직 많이 부족해\"(인터뷰)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260514n15085",
-          "publishedAt": "2026-05-14T00:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "배우 이기택, '1박 2일' 새 멤버 합류…유선호 후임",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260514065800005",
-        "publishedAt": "2026-05-14T00:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T00:50:00.000Z",
-      "firstSeenAt": "2026-05-14T03:30:26.629Z",
-      "lastSeenAt": "2026-05-14T03:30:26.629Z",
-      "title": "이기택",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260514065800005"
-    },
-    {
       "id": "3bc6235e1d18162f",
       "issueKey": "오늘",
       "issueTitle": "오늘",
@@ -1516,52 +1491,6 @@
       "title": "전현무",
       "source": "조선일보",
       "url": "https://www.chosun.com/entertainments/broadcast/2026/05/15/G43TKMTDGNQWKNRTMYZTCMBVME/"
-    },
-    {
-      "id": "df8671acdd670935",
-      "issueKey": "교사",
-      "issueTitle": "교사",
-      "trendTitle": "교사",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "케이크 32등분해 제자들에게 나눠준 교사…“나는 먹을 수 없었다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260515133105661",
-          "publishedAt": "2026-05-15T07:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"준비한 선물 어쩌나\" 스승의 날 선물 거절 공지에 당혹스런 학부모들",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260515_0003631338",
-          "publishedAt": "2026-05-15T07:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"스승의날 케이크, 학생만 먹고 교사는 먹지 마라\" 교육청 지침 논란",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/05/14/M3IAEI4MFJEZ7M3QGFVBNTHT5Q/",
-          "publishedAt": "2026-05-15T07:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "케이크 32등분해 제자들에게 나눠준 교사…“나는 먹을 수 없었다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260515133105661",
-        "publishedAt": "2026-05-15T07:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-15T07:20:00.000Z",
-      "firstSeenAt": "2026-05-15T08:49:36.505Z",
-      "lastSeenAt": "2026-05-15T08:49:36.505Z",
-      "title": "교사",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260515133105661"
     },
     {
       "id": "f9c54d0fc27f92d9",
@@ -1794,52 +1723,6 @@
       "url": "https://www.newsis.com/view/NISX20260514_0003628979"
     },
     {
-      "id": "032a31b40369a7ba",
-      "issueKey": "찾아온 국보",
-      "issueTitle": "찾아온 국보",
-      "trendTitle": "찾아온 국보",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "우리 동네로 찾아온 국보·보물…진천·영암·의령 '국보순회전'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260514_0003629121",
-          "publishedAt": "2026-05-14T00:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "故 이건희 기증 상감청자 3점, 의령서 만난다…'국보순회전'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/life-culture/performance-exhibition/6166542",
-          "publishedAt": "2026-05-14T00:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "왕실 청화백자의 품격과 미감 보러오세요",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260514/133920649/1",
-          "publishedAt": "2026-05-14T00:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "우리 동네로 찾아온 국보·보물…진천·영암·의령 '국보순회전'",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260514_0003629121",
-        "publishedAt": "2026-05-14T00:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-14T00:40:00.000Z",
-      "firstSeenAt": "2026-05-14T03:30:26.629Z",
-      "lastSeenAt": "2026-05-14T03:30:26.629Z",
-      "title": "찾아온 국보",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260514_0003629121"
-    },
-    {
       "id": "f76cd0f119e5791a",
       "issueKey": "pbks vs mi",
       "issueTitle": "pbks vs mi",
@@ -1905,6 +1788,144 @@
       "title": "pbks vs mi",
       "source": "ESPNcricinfo",
       "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/punjab-kings-vs-mumbai-indians-58th-match-1529301/match-playing-xi"
+    },
+    {
+      "id": "cc5a4ea18079d3be",
+      "issueKey": "서동주",
+      "issueTitle": "서동주",
+      "trendTitle": "서동주",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"풍자 32kg 폭풍감량\" 서동주, \"실제로 보면 굉장히 작아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260515103402871",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "32kg 감량 풍자, “30kg 더 빼겠다”… 최근 ‘이 운동’ 시작",
+          "source": "헬스조선",
+          "url": "https://m.health.chosun.com/svc/news_view.html?contid=2026051503677",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "홀쭉해진 풍자 \"32㎏ 감량…워너비 몸매는 한혜진\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260513_0003628464",
+          "publishedAt": "2026-05-16T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"풍자 32kg 폭풍감량\" 서동주, \"실제로 보면 굉장히 작아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260515103402871",
+        "publishedAt": "2026-05-16T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-16T04:50:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "서동주",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260515103402871"
+    },
+    {
+      "id": "7bfaab5712c67d08",
+      "issueKey": "고진영",
+      "issueTitle": "고진영",
+      "trendTitle": "고진영",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "고진영, 3년 만에 LPGA 우승 도전 ... 크로거 퀸시티 챔피언십 2R 선두",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/golf/2026/05/16/IGLTEWEMUNCE5HIXZWM6BP4LWM/",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘너무 어려운’ 코스서 ‘너무 대단한’ 전인지의 64타…‘102위→16위’ 86계단 껑충",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20044814",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "고진영, LPGA 투어 크루거 퀸시티 챔피언십 2R 공동 선두",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260516_0003632158",
+          "publishedAt": "2026-05-16T04:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고진영, 3년 만에 LPGA 우승 도전 ... 크로거 퀸시티 챔피언십 2R 선두",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/golf/2026/05/16/IGLTEWEMUNCE5HIXZWM6BP4LWM/",
+        "publishedAt": "2026-05-16T04:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-16T04:30:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "고진영",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/golf/2026/05/16/IGLTEWEMUNCE5HIXZWM6BP4LWM/"
+    },
+    {
+      "id": "137daa039b2a47e5",
+      "issueKey": "ban vs pak",
+      "issueTitle": "ban vs pak",
+      "trendTitle": "ban vs pak",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Babar boost for Pakistan but Bangladesh have all the momentum",
+          "source": "ESPNcricinfo",
+          "url": "https://www.espncricinfo.com/series/pakistan-in-bangladesh-2026-1532478/bangladesh-vs-pakistan-2nd-test-1532487/match-preview",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Pakistan wins the toss and decides to bowl against Bangladesh in the 2nd test",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/Sports/wireStory/pakistan-wins-toss-decides-bowl-bangladesh-2nd-test-133025502",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Bangladesh vs Pakistan Test Today at Sylhet International Cricket Stadium, Sylhet, Bangladesh stadium",
+          "source": "AIMA Media",
+          "url": "https://aimamedia.org/newsdetails.aspx?nid=653339",
+          "publishedAt": "2026-05-16T04:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "ban vs pak",
+        "source": "ESPNcricinfo",
+        "url": "https://www.espncricinfo.com/series/pakistan-in-bangladesh-2026-1532478/bangladesh-vs-pakistan-2nd-test-1532487/match-preview",
+        "publishedAt": "2026-05-16T04:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-16T04:00:00.000Z",
+      "firstSeenAt": "2026-05-16T05:57:08.662Z",
+      "lastSeenAt": "2026-05-16T05:57:08.662Z",
+      "title": "ban vs pak",
+      "source": "ESPNcricinfo",
+      "url": "https://www.espncricinfo.com/series/pakistan-in-bangladesh-2026-1532478/bangladesh-vs-pakistan-2nd-test-1532487/match-preview"
     },
     {
       "id": "997a5ca712518bcb",
