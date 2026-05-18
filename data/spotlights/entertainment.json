@@ -7,436 +7,482 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-17T21:56:00.068Z",
+  "lastUpdatedAt": "2026-05-18T03:43:26.874Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 9,
   "items": [
     {
-      "id": "2846ab19fed57285",
-      "issueKey": "이강인",
-      "issueTitle": "이강인",
-      "trendTitle": "이강인",
+      "id": "79c6d3e8f2fcd40d",
+      "issueKey": "동전주",
+      "issueTitle": "동전주",
+      "trendTitle": "동전주",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "23년전 시트콤 속 460원 '동전주 하닉' 수익률 40만%…\"400만원 가면?\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-finance/6169451",
+          "publishedAt": "2026-05-18T02:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“100만원만 샀어도”…23년 전 하이닉스 주가 화제 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/05/18/ZZXOI4TB5NFSXDPAZ72Z2CLQSU/",
+          "publishedAt": "2026-05-18T02:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"망하는 줄 알고 다 던졌는데 3900배 폭등\"…상장폐지 걱정하던 공포의 주식이 'AI 핵심' 되기까지",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026051810161613927",
+          "publishedAt": "2026-05-18T02:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "23년전 시트콤 속 460원 '동전주 하닉' 수익률 40만%…\"400만원 가면?\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/finance/general-finance/6169451",
+        "publishedAt": "2026-05-18T02:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-18T02:40:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "동전주",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/finance/general-finance/6169451",
+      "rank": 1
+    },
+    {
+      "id": "9729d0708f14af62",
+      "issueKey": "별사랑",
+      "issueTitle": "별사랑",
+      "trendTitle": "별사랑",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "별사랑 임신, 14살 만난 첫사랑과 2세 본다 “활발한 왕자님”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260518072602411",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "가수 별사랑, 엄마 된다…\"임신 16주 차, 활발한 왕자님\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/music/6169459",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "별사랑, 임신 16주 차 \"초반엔 골반 통증…점점 컨디션 회복\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6518533",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "별사랑 임신, 14살 만난 첫사랑과 2세 본다 “활발한 왕자님”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260518072602411",
+        "publishedAt": "2026-05-18T02:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-18T02:30:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "별사랑",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260518072602411",
+      "rank": 2
+    },
+    {
+      "id": "cec8a7e5df7e49d0",
+      "issueKey": "paris fc vs psg",
+      "issueTitle": "paris fc vs psg",
+      "trendTitle": "paris fc vs psg",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Le trophée de champion de France au PSG remis avant le match contre le Paris FC ?",
+          "source": "L'Équipe",
+          "url": "https://www.lequipe.fr/Football/Actualites/Le-trophee-de-champion-de-france-ne-sera-pas-remis-au-psg-a-jean-bouin-apres-la-derniere-journee-de-ligue-1-face-au-paris-fc/1675777",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Ligue 1 : le Paris FC refuse la demande d’organiser la remise du trophée de champion au PSG après le derby à Jean-Bouin",
+          "source": "Le Parisien",
+          "url": "https://www.leparisien.fr/sports/football/ligue-1/ligue-1-le-paris-fc-refuse-la-demande-dorganiser-la-remise-du-trophee-de-champion-au-psg-apres-le-derby-a-jean-bouin-13-05-2026-4ZQYGPGHRJDMLPW3BTB53XUOTA.php",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Photos Ligue 1 : Matchs, Strasbourg 5 - 4 Monaco",
+          "source": "MadeinFoot.com",
+          "url": "https://madeinfoot.ouest-france.fr/photos-foot/photo-ligue-1-matchs-strasbourg-5---4-monaco-5346.html",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "paris fc vs psg",
+        "source": "L'Équipe",
+        "url": "https://www.lequipe.fr/Football/Actualites/Le-trophee-de-champion-de-france-ne-sera-pas-remis-au-psg-a-jean-bouin-apres-la-derniere-journee-de-ligue-1-face-au-paris-fc/1675777",
+        "publishedAt": "2026-05-18T02:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-18T02:30:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "paris fc vs psg",
+      "source": "L'Équipe",
+      "url": "https://www.lequipe.fr/Football/Actualites/Le-trophee-de-champion-de-france-ne-sera-pas-remis-au-psg-a-jean-bouin-apres-la-derniere-journee-de-ligue-1-face-au-paris-fc/1675777",
+      "rank": 3
+    },
+    {
+      "id": "54d4935c50f62551",
+      "issueKey": "nashville vs lafc",
+      "issueTitle": "nashville vs lafc",
+      "trendTitle": "nashville vs lafc",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Player Status Report | Nashville SC vs. LAFC - 2026 MLS Season",
+          "source": "Los Angeles Football Club",
+          "url": "https://lafc.com/news/player-status-report-st-louis-city-fc-vs-lafc-2026-mls-season-may-17",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Nashville SC - Los Angeles Football Club 3 - 2 | GOAL - Denis Bouanga",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/it/video/nashville-sc-los-angeles-football-club-3-2-goal-denis-bouanga-3DsUyZYATHk2rmEXJlcZHqwp6wp",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Nashville SC - Los Angeles Football Club 2 - 1 | GOL - Hany Mukhtar",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/it/video/nashville-sc-los-angeles-football-club-2-1-gol-hany-mukhtar-3DsV8zVmzZfFHwGBATXVjJaGowj",
+          "publishedAt": "2026-05-18T02:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "nashville vs lafc",
+        "source": "Los Angeles Football Club",
+        "url": "https://lafc.com/news/player-status-report-st-louis-city-fc-vs-lafc-2026-mls-season-may-17",
+        "publishedAt": "2026-05-18T02:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-18T02:30:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "nashville vs lafc",
+      "source": "Los Angeles Football Club",
+      "url": "https://lafc.com/news/player-status-report-st-louis-city-fc-vs-lafc-2026-mls-season-may-17",
+      "rank": 4
+    },
+    {
+      "id": "f0445872cdcaf60e",
+      "issueKey": "손흥민",
+      "issueTitle": "손흥민",
+      "trendTitle": "손흥민",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "손흥민, 빛바랜 '9호 도움+폭풍 질주'…팀 내 4번째 평점",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260518_0003633837",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘손흥민 리그 9호 도움’ LAFC, 내슈빌에 2-3으로 져 3연패",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8563409",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "손흥민, 4번째 월드컵 출격 앞두고 리그 9호 도움...LAFC는 패배",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202605181217242957&amp;s_mcd=0107",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "손흥민, 빛바랜 '9호 도움+폭풍 질주'…팀 내 4번째 평점",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260518_0003633837",
+        "publishedAt": "2026-05-18T02:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-18T02:10:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "손흥민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260518_0003633837",
+      "rank": 5
+    },
+    {
+      "id": "aa5ded493982a07e",
+      "issueKey": "신네르",
+      "issueTitle": "신네르",
+      "trendTitle": "테니스",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"그리즈만 대체자 낙점\" 이강인, ATM 러브콜 다시 불붙었다…PSG도 이번엔 길 열까",
+          "title": "세계 1위 신네르, 조코비치 이어 역대 두번째로 ‘커리어 골든 마스터스’ 달성",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/17/GJSWKYJQMJSGGMBXGI3TCZTDGM/",
-          "publishedAt": "2026-05-17T20:50:00.000Z",
+          "url": "https://www.chosun.com/international/international_general/2026/05/18/NC4LYM2UAZBIFKSC6ZHD3T5PP4/",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "PSG 이강인, 또 스페인 아틀레티코 마드리드와 이적설",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260515_0003630619",
-          "publishedAt": "2026-05-17T20:50:00.000Z",
+          "title": "‘테니스 세계 1위’ 신네르, ‘커리어 골든 마스터스’ 달성",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/sports_general/1259135.html",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이강인(아틀레티코, 25) 가능성 커졌다! \"그간 이적 막았던 엔리케, 훌리안 영입 위해 LEE 매각 열려\"",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260516n06924?issue_sq=8655",
-          "publishedAt": "2026-05-17T20:50:00.000Z",
+          "title": "로마 오픈 우승컵에 입 맞추는 신네르",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260518_0002137852",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"그리즈만 대체자 낙점\" 이강인, ATM 러브콜 다시 불붙었다…PSG도 이번엔 길 열까",
+        "title": "세계 1위 신네르, 조코비치 이어 역대 두번째로 ‘커리어 골든 마스터스’ 달성",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/05/17/GJSWKYJQMJSGGMBXGI3TCZTDGM/",
-        "publishedAt": "2026-05-17T20:50:00.000Z",
+        "url": "https://www.chosun.com/international/international_general/2026/05/18/NC4LYM2UAZBIFKSC6ZHD3T5PP4/",
+        "publishedAt": "2026-05-18T02:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-17T20:50:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "이강인",
+      "publishedAt": "2026-05-18T02:10:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "신네르",
       "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/05/17/GJSWKYJQMJSGGMBXGI3TCZTDGM/",
-      "rank": 1
+      "url": "https://www.chosun.com/international/international_general/2026/05/18/NC4LYM2UAZBIFKSC6ZHD3T5PP4/",
+      "rank": 6
     },
     {
-      "id": "638dd1e2000c22c9",
-      "issueKey": "런닝맨",
-      "issueTitle": "런닝맨",
-      "trendTitle": "런닝맨",
+      "id": "e86946df1aed0f8f",
+      "issueKey": "현대",
+      "issueTitle": "현대",
+      "trendTitle": "현대",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'♥바타' 지예은 족상 결과는…\"결혼 한 번 갔다 와야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260516_0003632421",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
+          "title": "[단독] 철도공단 \"조속한 기둥 보강 필요\"‥서울시 보강 방안에도 '우려'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6823279_36918.html",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'요즘 좋은' 공명, 상승세 어디까지…족상가 \"내년부터 대박난다\" (런닝맨)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260517n15381?mid=e1200",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "바타랑 연애 중 찬물 쫘악...\"지예은, 이혼운 있다\" 족상 점괘에 발끈 ('런닝맨') [어저께TV]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/18/MQ4WMZRQMFSDEMBRG43TGZJZHE/",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'요즘 좋은' 공명, 상승세 어디까지…족상가 \"내년부터 대박난다\" (런닝맨)",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260517n15381?mid=e1200",
-        "publishedAt": "2026-05-17T20:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-17T20:40:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "런닝맨",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260517n15381?mid=e1200",
-      "rank": 2
-    },
-    {
-      "id": "f45a261b73b86f0a",
-      "issueKey": "김가영",
-      "issueTitle": "김가영",
-      "trendTitle": "김가영",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘디펜딩 챔프’ 김가영 2연패 시동…뱅크샷 7방 앞세워 LPBA 개막전 128강 가볍게 통과",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260517141202087?f=p",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'3쿠션 전설' 산체스, PBA 개막전서 인플루언서 '해커'와 격돌",
+          "title": "여야, 'GTX 철근 누락' 공방…\"吳, 사실 은폐\"·\"허위사실 유포\"",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260516021900007",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
+          "url": "https://www.yna.co.kr/view/AKR20260518081200001",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'당구 여제' 김가영 20승 도전…새 시즌 프로당구 16일 개막",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260515_0003630724",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
+          "title": "정원오 “안전불감증” 오세훈 “쫓기는 모양”…민생 공약도 나란히 발표",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8563002",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘디펜딩 챔프’ 김가영 2연패 시동…뱅크샷 7방 앞세워 LPBA 개막전 128강 가볍게 통과",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260517141202087?f=p",
-        "publishedAt": "2026-05-17T20:40:00.000Z",
+        "title": "현대",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6823279_36918.html",
+        "publishedAt": "2026-05-18T02:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-17T20:40:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "김가영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260517141202087?f=p",
-      "rank": 3
+      "publishedAt": "2026-05-18T02:10:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "현대",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6823279_36918.html",
+      "rank": 7
     },
     {
-      "id": "6f538c34910db8ff",
-      "issueKey": "투수도 놀랐다",
-      "issueTitle": "투수도 놀랐다",
-      "trendTitle": "투수도 놀랐다",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "8ab9950121e800bf",
+      "issueKey": "에어로케이",
+      "issueTitle": "에어로케이",
+      "trendTitle": "에어로케이",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘와~’ 510억 계약이 헐값이었네. 홈런-홈런, 日 거포 연타석 터졌다…MVP 제치고 홈런 단독 1위",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/05/17/GUYDGZJTMRRGEY3BGY3GIZRVMI/",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
+          "title": "에어로케이항공, ‘2026 청주 채용박람회’ 참가…지역 청년 채용 확대 나서",
+          "source": "충청매일",
+          "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1078656",
+          "publishedAt": "2026-05-18T02:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"왜 29개 구단이 외면했는지 모르겠어\" 상대 투수도 놀랐다, 日 거포 16·17호 홈런 폭발→ 61홈런 페이스",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260518011753922",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
+          "title": "\"청주공항 성장에 지역 일자리도 함께\"…에어로케이항공, 청주 채용박람회 참가",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260515n28792",
+          "publishedAt": "2026-05-18T02:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "화이트삭스 무라카미, 16호, 17호 홈런 두 방 '쾅,꽝' 홈런 단독 선두",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=428647",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
+          "title": "‘2026 청주채용박람회’…“구직자에 취업 기회 제공했다”",
+          "source": "세종경제뉴스",
+          "url": "https://www.seenews365.com/news/articleView.html?idxno=64913",
+          "publishedAt": "2026-05-18T02:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"왜 29개 구단이 외면했는지 모르겠어\" 상대 투수도 놀랐다, 日 거포 16·17호 홈런 폭발→ 61홈런 페이스",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260518011753922",
-        "publishedAt": "2026-05-17T20:40:00.000Z",
-        "relevanceScore": 2
+        "title": "에어로케이항공, ‘2026 청주 채용박람회’ 참가…지역 청년 채용 확대 나서",
+        "source": "충청매일",
+        "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1078656",
+        "publishedAt": "2026-05-18T02:00:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-17T20:40:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "투수도 놀랐다",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260518011753922",
-      "rank": 4
+      "publishedAt": "2026-05-18T02:00:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "에어로케이",
+      "source": "충청매일",
+      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1078656",
+      "rank": 8
     },
     {
-      "id": "a3d17b15943e3f80",
-      "issueKey": "พยากรณ อากาศ",
-      "issueTitle": "พยากรณ์อากาศ",
-      "trendTitle": "พยากรณ์อากาศ",
+      "id": "580bb8d061b97e66",
+      "issueKey": "문화",
+      "issueTitle": "문화",
+      "trendTitle": "문화",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "📢 พยากรณ์อากาศ 24 ชั่วโมง และ 6 วันล่วงหน้า 🗓 วันอาทิตย์ที่ 17 พฤษภาคม 2569 ☔️ประเทศไทยยังคงมีฝนตกต่อเนื่อง และมีฝนตกหนักบางแห่งโดยมีฝนตกหนักมากบางพื้นที่ในภาคใต้ฝั่งตะวันตก #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
-          "source": "Facebook",
-          "url": "https://www.facebook.com/tmd.go.th/posts/-%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8-24-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-6-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88-17-%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A1-2569%EF%B8%8F%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84/1435938388578292/",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "สภาพอากาศวันนี้ กรมอุตุฯ เปิดชื่อ 40 จังหวัด เตือน มรสุมถล่ม ฝนตกหนัก",
-          "source": "ข่าวสด",
-          "url": "https://www.khaosod.co.th/breaking-news/news_10247687",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "ฝนฟ้าอากาศ 17 พ.ค.69 | ไทยตอนบน ฝนตกหนักหลายพื้นที่ ส่วนภาคใต้มีฝนเพิ่มขึ้น",
-          "source": "Ch7.com",
-          "url": "https://news.ch7.com/detail/873605",
-          "publishedAt": "2026-05-17T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "📢 พยากรณ์อากาศ 24 ชั่วโมง และ 6 วันล่วงหน้า 🗓 วันอาทิตย์ที่ 17 พฤษภาคม 2569 ☔️ประเทศไทยยังคงมีฝนตกต่อเนื่อง และมีฝนตกหนักบางแห่งโดยมีฝนตกหนักมากบางพื้นที่ในภาคใต้ฝั่งตะวันตก #กรมอุตุนิยมวิทยา #พยากรณ์อากาศ #ดิจิทัลเพื่อเศรษฐกิจและสังคม",
-        "source": "Facebook",
-        "url": "https://www.facebook.com/tmd.go.th/posts/-%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8-24-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-6-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88-17-%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A1-2569%EF%B8%8F%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84/1435938388578292/",
-        "publishedAt": "2026-05-17T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-17T20:40:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "พยากรณ์อากาศ",
-      "source": "Facebook",
-      "url": "https://www.facebook.com/tmd.go.th/posts/-%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8-24-%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87-%E0%B9%81%E0%B8%A5%E0%B8%B0-6-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%AB%E0%B8%99%E0%B9%89%E0%B8%B2-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%AD%E0%B8%B2%E0%B8%97%E0%B8%B4%E0%B8%95%E0%B8%A2%E0%B9%8C%E0%B8%97%E0%B8%B5%E0%B9%88-17-%E0%B8%9E%E0%B8%A4%E0%B8%A9%E0%B8%A0%E0%B8%B2%E0%B8%84%E0%B8%A1-2569%EF%B8%8F%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B9%80%E0%B8%97%E0%B8%A8%E0%B9%84/1435938388578292/",
-      "rank": 5
-    },
-    {
-      "id": "4f27d5dbde985df0",
-      "issueKey": "장애인고용공단 등록장애인 1만1천명 경제활동 실태조사 실시",
-      "issueTitle": "장애인고용공단, 등록장애인 1만1천명 경제활동 실태조사 실시",
-      "trendTitle": "장애인고용공단, 등록장애인 1만1천명 경제활동 실태조사 실시",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "장애인고용공단, 등록장애인 1만1천명 경제활동 실태조사 실시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260518062107259",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "장애인고용공단, 경제활동 조사 실시…12월 결과 공표",
+          "title": "문화·자연·무형유산위원회 하나로 통합…제1대 국가유산위원회 출범",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260517_0003632673",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "장애인고용공단, 장애인경제활동실태조사 실시…1만1000명 대상",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1645305/",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "장애인고용공단, 등록장애인 1만1천명 경제활동 실태조사 실시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260518062107259",
-        "publishedAt": "2026-05-17T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-17T20:30:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "장애인고용공단, 등록장애인 1만1천명 경제활동 실태조사 실시",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260518062107259",
-      "rank": 6
-    },
-    {
-      "id": "544fc81f66caaa5f",
-      "issueKey": "야닉 시너",
-      "issueTitle": "야닉 시너",
-      "trendTitle": "야닉 시너",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "신네르, '1박2일' 승부 끝에 메드베데프 제압…BNL 이탈리아 결승행",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260517_0003632603",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260518_0003633474",
+          "publishedAt": "2026-05-18T01:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "야닉 시너, 역대 최연소 '커리어 골든 마스터스' 대기록 수립...조코비치 보다 7살 빠른 24세에 달성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0odyxUqFZZ",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
+          "title": "제1대 국가유산위원회 출범…위원 134명 위촉",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8563471",
+          "publishedAt": "2026-05-18T01:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'1박2일 사투' 신네르, 로마오픈 결승행…'골든 마스터스' 단 1승 남았다",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=428643",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
+          "title": "문화·자연·무형유산위원회, 하나로…위원장에 전봉희 교수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260515177000005",
+          "publishedAt": "2026-05-18T01:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "야닉 시너, 역대 최연소 '커리어 골든 마스터스' 대기록 수립...조코비치 보다 7살 빠른 24세에 달성",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/0odyxUqFZZ",
-        "publishedAt": "2026-05-17T20:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-17T20:30:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "야닉 시너",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/0odyxUqFZZ",
-      "rank": 7
-    },
-    {
-      "id": "b069641760a81042",
-      "issueKey": "barcelona vs real betis",
-      "issueTitle": "barcelona vs real betis",
-      "trendTitle": "barcelona vs real betis",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Claves del triunfo del Barcelona ante el Betis en LaLiga",
-          "source": "ESPN Deportes",
-          "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/16722805/barcelona-betis-la-liga-jornada-37-claves-victoria",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "3-1. Raphinha y Cancelo redondean el homenaje a Lewandowski y el pleno de triunfos locales",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/3-1-barcelona-gana-betis-211510614.html",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Hansi Flick: \"Es difícil ganar todos los partidos en casa, pero lo hemos hecho\"",
-          "source": "MARCA",
-          "url": "https://www.marca.com/futbol/barcelona/2026/05/17/hansi-flick-dificil-ganar-todos-partidos-casa-hemos-hecho.html",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "barcelona vs real betis",
-        "source": "ESPN Deportes",
-        "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/16722805/barcelona-betis-la-liga-jornada-37-claves-victoria",
-        "publishedAt": "2026-05-17T20:30:00.000Z",
+        "title": "문화·자연·무형유산위원회 하나로 통합…제1대 국가유산위원회 출범",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260518_0003633474",
+        "publishedAt": "2026-05-18T01:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-17T20:30:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "barcelona vs real betis",
-      "source": "ESPN Deportes",
-      "url": "https://espndeportes.espn.com/futbol/espana/nota/_/id/16722805/barcelona-betis-la-liga-jornada-37-claves-victoria",
-      "rank": 8
-    },
-    {
-      "id": "bbb56c63d872d9a1",
-      "issueKey": "신고",
-      "issueTitle": "신고",
-      "trendTitle": "신고",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "아리팍 60억 신고가 찍었다…양도세 중과 전부터 수억씩 ‘껑충’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12050230",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서울 집값 '꿈틀'…아리팍 84㎡ 60억 신고가",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260517_0003632877",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서울 매매-전월세 가격 ‘동반 상승’… 경기까지 번져",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260517/133938852/2",
-          "publishedAt": "2026-05-17T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아리팍 60억 신고가 찍었다…양도세 중과 전부터 수억씩 ‘껑충’",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/12050230",
-        "publishedAt": "2026-05-17T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-17T20:30:00.000Z",
-      "firstSeenAt": "2026-05-17T21:56:00.068Z",
-      "lastSeenAt": "2026-05-17T21:56:00.068Z",
-      "title": "신고",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/realestate/12050230",
+      "publishedAt": "2026-05-18T01:50:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "문화",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260518_0003633474",
       "rank": 9
     }
   ],
   "history": [
+    {
+      "id": "f0445872cdcaf60e",
+      "issueKey": "손흥민",
+      "issueTitle": "손흥민",
+      "trendTitle": "손흥민",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "손흥민, 빛바랜 '9호 도움+폭풍 질주'…팀 내 4번째 평점",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260518_0003633837",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘손흥민 리그 9호 도움’ LAFC, 내슈빌에 2-3으로 져 3연패",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8563409",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "손흥민, 4번째 월드컵 출격 앞두고 리그 9호 도움...LAFC는 패배",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202605181217242957&amp;s_mcd=0107",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "손흥민, 빛바랜 '9호 도움+폭풍 질주'…팀 내 4번째 평점",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260518_0003633837",
+        "publishedAt": "2026-05-18T02:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-18T02:10:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "손흥민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260518_0003633837"
+    },
     {
       "id": "39a0579cceacc130",
       "issueKey": "이재용",
@@ -535,6 +581,52 @@
       "title": "사기",
       "source": "조선일보",
       "url": "https://www.chosun.com/national/incident/2026/05/15/NBGVO72LEJA7ZKKDRDD7U7YCFA/"
+    },
+    {
+      "id": "79c6d3e8f2fcd40d",
+      "issueKey": "동전주",
+      "issueTitle": "동전주",
+      "trendTitle": "동전주",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "23년전 시트콤 속 460원 '동전주 하닉' 수익률 40만%…\"400만원 가면?\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-finance/6169451",
+          "publishedAt": "2026-05-18T02:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“100만원만 샀어도”…23년 전 하이닉스 주가 화제 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/05/18/ZZXOI4TB5NFSXDPAZ72Z2CLQSU/",
+          "publishedAt": "2026-05-18T02:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"망하는 줄 알고 다 던졌는데 3900배 폭등\"…상장폐지 걱정하던 공포의 주식이 'AI 핵심' 되기까지",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026051810161613927",
+          "publishedAt": "2026-05-18T02:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "23년전 시트콤 속 460원 '동전주 하닉' 수익률 40만%…\"400만원 가면?\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/finance/general-finance/6169451",
+        "publishedAt": "2026-05-18T02:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-18T02:40:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "동전주",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/finance/general-finance/6169451"
     },
     {
       "id": "aa2106d8aba04ec8",
@@ -859,98 +951,6 @@
       "url": "https://www.chosun.com/sports/football/2026/05/16/MI3GGMBUMUZWGOJSGAZTGMRVGY/"
     },
     {
-      "id": "7984f5792eb340bb",
-      "issueKey": "송해",
-      "issueTitle": "송해",
-      "trendTitle": "송해",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'나는 솔로' 31기 왕따 논란에 MC 송해나가 SNS에 조용히 올린 영상 [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/urxXv53GJJ",
-          "publishedAt": "2026-05-16T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[스경X이슈] 따돌림 논란부터 통편집 협박·임신설까지…‘나는 솔로’ 31기, 인간성 실종된 ‘솔로나라’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202605151243013",
-          "publishedAt": "2026-05-16T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정색하던 송해나, 결국 SNS까지 박제했다…‘나솔’ 31기 영상 업로드",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/05/15/ME3DGNBTGMYDOZRYGRRGENDFGY/",
-          "publishedAt": "2026-05-16T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'나는 솔로' 31기 왕따 논란에 MC 송해나가 SNS에 조용히 올린 영상 [MHN:피드]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/urxXv53GJJ",
-        "publishedAt": "2026-05-16T01:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-16T01:20:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "송해",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/urxXv53GJJ"
-    },
-    {
-      "id": "41533555df3b5110",
-      "issueKey": "인수 확정",
-      "issueTitle": "인수 확정",
-      "trendTitle": "인수 확정",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "SOOP, 여자배구 페퍼 인수 추진…7구단 체제 유지 유력",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260516_0003632192",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "SOOP, 여자 프로배구 페퍼 인수 나선다…7구단 체제 유력",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pDQrAvYCHd",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "SOOP, 페퍼저축은행 인수 확정!…연고지는 아직 미정",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8562415",
-          "publishedAt": "2026-05-16T00:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "SOOP, 페퍼저축은행 인수 확정!…연고지는 아직 미정",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8562415",
-        "publishedAt": "2026-05-16T00:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-16T00:00:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "인수 확정",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8562415"
-    },
-    {
       "id": "df8671acdd670935",
       "issueKey": "교사",
       "issueTitle": "교사",
@@ -1069,6 +1069,52 @@
       "title": "카리나",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260517182300478"
+    },
+    {
+      "id": "aa5ded493982a07e",
+      "issueKey": "신네르",
+      "issueTitle": "신네르",
+      "trendTitle": "테니스",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "세계 1위 신네르, 조코비치 이어 역대 두번째로 ‘커리어 골든 마스터스’ 달성",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/05/18/NC4LYM2UAZBIFKSC6ZHD3T5PP4/",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘테니스 세계 1위’ 신네르, ‘커리어 골든 마스터스’ 달성",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/sports_general/1259135.html",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "로마 오픈 우승컵에 입 맞추는 신네르",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260518_0002137852",
+          "publishedAt": "2026-05-18T02:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "세계 1위 신네르, 조코비치 이어 역대 두번째로 ‘커리어 골든 마스터스’ 달성",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/05/18/NC4LYM2UAZBIFKSC6ZHD3T5PP4/",
+        "publishedAt": "2026-05-18T02:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-18T02:10:00.000Z",
+      "firstSeenAt": "2026-05-18T03:43:26.874Z",
+      "lastSeenAt": "2026-05-18T03:43:26.874Z",
+      "title": "신네르",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/international/international_general/2026/05/18/NC4LYM2UAZBIFKSC6ZHD3T5PP4/"
     },
     {
       "id": "2846ab19fed57285",
@@ -2265,52 +2311,6 @@
       "title": "양재훈",
       "source": "조선일보",
       "url": "https://www.chosun.com/sports/sports_photo/2026/05/15/GI2DSZDEMM4TSOJUGUYGKYZRHA/"
-    },
-    {
-      "id": "6a28b6281763e210",
-      "issueKey": "티켓링크",
-      "issueTitle": "티켓링크",
-      "trendTitle": "티켓링크",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'표 왜 없나 했더니'…매크로로 야구 티켓 싹쓸이 40대 적발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260514060000053",
-          "publishedAt": "2026-05-16T01:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"매크로 암표 막아라\"…놀유니버스·NHN링크, 경찰 협력 공로 감사장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260514_0003629071",
-          "publishedAt": "2026-05-16T01:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "놀유니버스 경찰청에서 감사장 받아, 부정예매와 암표 범죄 수사 역량 발전에 기여",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=437850",
-          "publishedAt": "2026-05-16T01:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "티켓링크",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260514060000053",
-        "publishedAt": "2026-05-16T01:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-16T01:40:00.000Z",
-      "firstSeenAt": "2026-05-16T02:56:41.065Z",
-      "lastSeenAt": "2026-05-16T02:56:41.065Z",
-      "title": "티켓링크",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260514060000053"
     }
   ]
 }
