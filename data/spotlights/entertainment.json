@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-18T22:03:23.460Z",
+  "lastUpdatedAt": "2026-05-19T03:37:16.167Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "aa02f8a164723f60",
-      "issueKey": "허수아비",
-      "issueTitle": "허수아비",
-      "trendTitle": "허수아비",
+      "id": "94c237abedef0b51",
+      "issueKey": "지나 카라노",
+      "issueTitle": "지나 카라노",
+      "trendTitle": "지나 카라노",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Ronda Rousey submits Gina Carano by armbar in 17 seconds",
+          "source": "ESPN",
+          "url": "https://www.espn.com/mma/story/_/id/48793049/ronda-rousey-submits-gina-carano-armbar-17-seconds",
+          "publishedAt": "2026-05-19T02:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Gina Carano explains why she tapped out vs. Ronda Rousey so fast",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/sports/mma/2026/05/18/gina-carano-explains-why-she-tapped-out-vs-ronda-rousey-so-fast/90151436007/",
+          "publishedAt": "2026-05-19T02:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "If this was Ronda Rousey’s final fight, fans witnessed a legendary farewell on Netflix’s MVP card | OutKick",
+          "source": "Fox News",
+          "url": "https://www.foxnews.com/outkick-sports/ronda-rouseys-final-fight-fans-witnessed-legendary-farewell-netflixs-mvp-card",
+          "publishedAt": "2026-05-19T02:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "지나 카라노",
+        "source": "ESPN",
+        "url": "https://www.espn.com/mma/story/_/id/48793049/ronda-rousey-submits-gina-carano-armbar-17-seconds",
+        "publishedAt": "2026-05-19T02:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T02:20:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "지나 카라노",
+      "source": "ESPN",
+      "url": "https://www.espn.com/mma/story/_/id/48793049/ronda-rousey-submits-gina-carano-armbar-17-seconds",
+      "rank": 1
+    },
+    {
+      "id": "5b6b5a16786532a0",
+      "issueKey": "부부",
+      "issueTitle": "부부",
+      "trendTitle": "부부",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'배그부부' 시한부 아내, 31번째 생일 앞두고 결국 사망",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260519_0003634992",
+          "publishedAt": "2026-05-19T02:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘오은영 리포트’ 배그 부부 아내, 위암 투병 중 사망…“엄마가 미안해”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12051683",
+          "publishedAt": "2026-05-19T02:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "위암 말기 아내 지키며 육아에 병간호까지...\"이보다 훌륭한 남편 없어\" ('다시, 사랑')[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1rkFCgAiYM?f=p",
+          "publishedAt": "2026-05-19T02:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'배그부부' 시한부 아내, 31번째 생일 앞두고 결국 사망",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260519_0003634992",
+        "publishedAt": "2026-05-19T02:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T02:10:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "부부",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260519_0003634992",
+      "rank": 2
+    },
+    {
+      "id": "79525178decfaa31",
+      "issueKey": "현대차",
+      "issueTitle": "현대차",
+      "trendTitle": "현대차",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘23㎏ 냉장고 번쩍‘…현대차, 물건 들고 나르는 ‘아틀라스’ 영상 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/05/19/62S32GQIJFFI5BBMJX2L37XEYI/",
+          "publishedAt": "2026-05-19T02:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "아틀라스, 23㎏ 냉장고 번쩍…택배 뒤집는 미 로봇 보란 듯",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/car/1259325.html",
+          "publishedAt": "2026-05-19T02:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "휴머노이드, 이제 냉장고도 ‘번쩍’…기아 사장 “29년 미국공장에 투입” [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8564556",
+          "publishedAt": "2026-05-19T02:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘23㎏ 냉장고 번쩍‘…현대차, 물건 들고 나르는 ‘아틀라스’ 영상 공개",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/05/19/62S32GQIJFFI5BBMJX2L37XEYI/",
+        "publishedAt": "2026-05-19T02:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T02:00:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "현대차",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/industry-company/2026/05/19/62S32GQIJFFI5BBMJX2L37XEYI/",
+      "rank": 3
+    },
+    {
+      "id": "807d82f82fbcf722",
+      "issueKey": "김하성",
+      "issueTitle": "김하성",
+      "trendTitle": "김하성",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'허수아비' 박해수 vs 이희준, 법정 신경전…백승환 '불안'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260518140218038",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
+          "title": "공 손에 쥐고 아쉬워하는 김하성",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260519_0002139328&amp;pID=1&amp;cID=&amp;sID=1&amp;type=photoMain&amp;idx=7",
+          "publishedAt": "2026-05-19T01:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'허수아비' 박해수, 연쇄살인 누명에 사형 구형 백승환 구해낼까",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/05/18/2026051814277256696",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "범죄 스릴러 《허수아비》는 《살인의 추억》과 무엇이 다를까",
-          "source": "시사저널",
-          "url": "https://www.sisajournal.com/news/articleView.html?idxno=372331",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'허수아비' 박해수 vs 이희준, 법정 신경전…백승환 '불안'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260518140218038",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "허수아비",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260518140218038",
-      "rank": 1
-    },
-    {
-      "id": "95db13419dfa3c4f",
-      "issueKey": "달아오른 한화",
-      "issueTitle": "달아오른 한화",
-      "trendTitle": "한화 이글스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "달아오른 한화·가라앉은 대전…엇갈린 대전 연고팀 분위기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260518192738807",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "발톱 세운 새들의 결투…누가 날아오를까",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&amp;key=20260519.22013004837",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'1선발 부진에 복덩이 우뚝' 비슬리, 위기의 롯데 구해낼까…한화 에르난데스, 거인 제물로 또 반등할까",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6518878",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "달아오른 한화·가라앉은 대전…엇갈린 대전 연고팀 분위기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260518192738807",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "달아오른 한화",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260518192738807",
-      "rank": 2
-    },
-    {
-      "id": "a934a0e0a38913e8",
-      "issueKey": "떠난 토트넘",
-      "issueTitle": "떠난 토트넘",
-      "trendTitle": "떠난 토트넘",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "손흥민 떠난 토트넘, 충격의 2부 강등은 피할 듯…웨스트햄 3연패로 자멸했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6ItbPtvmT3",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "시민들 위해 토트넘이 2부 가야 한다? 런던 시장의 경고, \"웨스트햄 강등되면 세금 폭탄 터진다\"",
+          "title": "'타율 0.053 충격' 김하성 또 무안타, 복귀 후 1안타가 전부라니…팀은 0-12 대패 [ATL 리뷰]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/18/MEZDOYZWGA2TONRUGBQTMYZVGI/",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/05/19/MRRTCYRWGZSDGMRRHFRGEMRXME/",
+          "publishedAt": "2026-05-19T01:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "토트넘, 잔류 확률 93%…2경기 중 1무만 해도 EPL 생존",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-soccer/6169708",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
+          "title": "4경기 연속 침묵한 김하성, 2타수 무안타 1볼넷…타율 0.053",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260519069000007",
+          "publishedAt": "2026-05-19T01:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "손흥민 떠난 토트넘, 충격의 2부 강등은 피할 듯…웨스트햄 3연패로 자멸했다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6ItbPtvmT3",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
+        "title": "공 손에 쥐고 아쉬워하는 김하성",
+        "source": "뉴시스",
+        "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260519_0002139328&amp;pID=1&amp;cID=&amp;sID=1&amp;type=photoMain&amp;idx=7",
+        "publishedAt": "2026-05-19T01:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "떠난 토트넘",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/6ItbPtvmT3",
-      "rank": 3
-    },
-    {
-      "id": "cb25bf739544bdd8",
-      "issueKey": "나스닥 지수",
-      "issueTitle": "나스닥 지수",
-      "trendTitle": "나스닥 지수",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "뉴욕증시, 이란전쟁 주시하며 혼조…다우 0.3%↑·나스닥 0.5%↓(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260519060702817",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "뉴욕 증시 혼조 마감...종전 협상 난항·인플레이션 우려 여파",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202605190549288631",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "채권금리 급등에 하락‥선물시장에서도 약세 지속",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6823397_36981.html",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "나스닥 지수",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260519060702817",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "나스닥 지수",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260519060702817",
+      "publishedAt": "2026-05-19T01:50:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "김하성",
+      "source": "뉴시스",
+      "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260519_0002139328&amp;pID=1&amp;cID=&amp;sID=1&amp;type=photoMain&amp;idx=7",
       "rank": 4
     },
     {
-      "id": "350067f6e5356a85",
-      "issueKey": "양산",
-      "issueTitle": "양산",
-      "trendTitle": "기상청",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "양산·선글라스에 물놀이…거리는 벌써 여름 풍경",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260519060458746",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전국 구름많다가 밤부터 흐려져…내일 새벽부터 비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260519009400034",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "오늘도 여전히 더워…내일 오후부터 누그러져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8564262",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "양산·선글라스에 물놀이…거리는 벌써 여름 풍경",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260519060458746",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "양산",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260519060458746",
-      "rank": 5
-    },
-    {
-      "id": "75abc1ead6ae4a92",
-      "issueKey": "클린룸 수주",
-      "issueTitle": "클린룸 수주",
-      "trendTitle": "클린룸 수주",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[신성이엔지] 신성이엔지, 반도체 클린룸 수주가 실적을 바꿀까 (2026_1Q)",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/bilanxlyc/curiousir/contents/260518154550788lm",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'실적 숨고르기' 들어간 반도체 장비 \"2분기 기대\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zcmwZfPKgp",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "신성이엔지, 2026년 1분기 분기보고서 제출...자본금 1,030억 원",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/global-filings/article-93CH-1944898",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[신성이엔지] 신성이엔지, 반도체 클린룸 수주가 실적을 바꿀까 (2026_1Q)",
-        "source": "네이버 프리미엄콘텐츠",
-        "url": "https://contents.premium.naver.com/bilanxlyc/curiousir/contents/260518154550788lm",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "클린룸 수주",
-      "source": "네이버 프리미엄콘텐츠",
-      "url": "https://contents.premium.naver.com/bilanxlyc/curiousir/contents/260518154550788lm",
-      "rank": 6
-    },
-    {
-      "id": "3bc6235e1d18162f",
-      "issueKey": "오늘",
-      "issueTitle": "오늘",
-      "trendTitle": "오늘",
+      "id": "8f4a8a574f4a8342",
+      "issueKey": "고속도로",
+      "issueTitle": "고속도로",
+      "trendTitle": "고속도로",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[오늘의 운세] 5월 19일 화요일 (음력 4월 3일 癸巳)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/05/18/QXMLIZHUJFAIHI72JW6J3465JQ/",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
+          "title": "고속도로 잘못 나가도 15분내 재진입시 10월부터 요금 면제",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260519027400003",
+          "publishedAt": "2026-05-19T01:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[녹유 오늘의 운세] 89년생 약해진 모습 담금질을 더 해요.",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260516_0003632501",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
+          "title": "“착오로 나간 고속도로 바로 재진입 시 기본요금 면제”…권익위, 제도개선 권고",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8564432",
+          "publishedAt": "2026-05-19T01:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[오늘의 운세] 2026년 05월 19일 별자리 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202605190000000002",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[오늘의 운세] 5월 19일 화요일 (음력 4월 3일 癸巳)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/05/18/QXMLIZHUJFAIHI72JW6J3465JQ/",
-        "publishedAt": "2026-05-18T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T20:50:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "오늘",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/05/18/QXMLIZHUJFAIHI72JW6J3465JQ/",
-      "rank": 7
-    },
-    {
-      "id": "ab224c46f6c22e9f",
-      "issueKey": "오타니 쇼헤이",
-      "issueTitle": "오타니 쇼헤이",
-      "trendTitle": "오타니 쇼헤이",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘0순위 스킨스 와르르→ERA 2.62’ 오타니, ‘NL 사이영상에 올인?’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260518090753894",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이럴수가! 2년 연속 사이영상 꿈 좌절? ML 역대 최고 투수 꿈꿨던 스킨스, 필리스전 5이닝 5실점 패전",
+          "title": "손명수 \"10월부터 고속도로 오진출→재진입 통행료 중복 부과 문제 개선\"",
           "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260518n08253?mid=s21&amp;list=recent&amp;cpcd=",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "MLB 1위 팀에 안정감을 더해주는 어썸킴! #shorts",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=816424",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
+          "url": "https://news.nate.com/view/20260519n05471?mid=n1101",
+          "publishedAt": "2026-05-19T01:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "오타니 쇼헤이",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260518090753894",
-        "publishedAt": "2026-05-18T20:50:00.000Z",
+        "title": "고속도로 잘못 나가도 15분내 재진입시 10월부터 요금 면제",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260519027400003",
+        "publishedAt": "2026-05-19T01:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-18T20:50:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "오타니 쇼헤이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260518090753894",
-      "rank": 8
+      "publishedAt": "2026-05-19T01:40:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "고속도로",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260519027400003",
+      "rank": 5
     },
     {
-      "id": "9b8397fdab4c3044",
-      "issueKey": "일기예보",
-      "issueTitle": "일기예보",
-      "trendTitle": "일기예보",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "광범위한 지역에 폭우가 예상됩니다. 지방 당국은 토네이도, 번개, 홍수에 대비해야 합니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/canh-bao-mua-lon-dien-rong-cac-dia-phuong-de-phong-loc-set-va-ngap-ung",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "충전식 기기가 더운 계절에 박닌 지역의 고객들에게 인기를 끌고 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/thiet-bi-tich-dien-hut-khach-tai-bac-ninh-mua-nang-nong",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "향후 24시간 동안 빈롱 지역에는 전반적으로 보통 수준의 비가 내리겠으며, 일부 지역에서는 폭우와 천둥번개가 예상됩니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/24-gio-toi-vinh-long-co-mua-dien-rong-mua-vua-co-noi-mua-to-va-dong",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "일기예보",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/canh-bao-mua-lon-dien-rong-cac-dia-phuong-de-phong-loc-set-va-ngap-ung",
-        "publishedAt": "2026-05-18T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T20:50:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "일기예보",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/canh-bao-mua-lon-dien-rong-cac-dia-phuong-de-phong-loc-set-va-ngap-ung",
-      "rank": 9
-    },
-    {
-      "id": "7aec1b1fd3c2612d",
-      "issueKey": "삼전",
-      "issueTitle": "삼전",
-      "trendTitle": "공매도",
+      "id": "3303a744791b42e6",
+      "issueKey": "spurs vs thunder",
+      "issueTitle": "spurs vs thunder",
+      "trendTitle": "spurs vs thunder",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "외국인 ‘팔자’ 8거래일째… 삼전·SK하닉 던지고 코스피 41조 이탈",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260518174715756",
-          "publishedAt": "2026-05-18T20:40:00.000Z",
+          "title": "Thunder and Spurs' 62+ Wins Revive 1998 Finals Legacy",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/05/19/R4NLU243SVFNNE2H3BZMDN6IVY/",
+          "publishedAt": "2026-05-19T01:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "100조 투매에도 지분율은 상승… 코스피 불장이 만든 ‘외인 지분 미스터리’",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/05/19/ZKZGCNEG35HHBCCDOJWXJMIHG4/",
-          "publishedAt": "2026-05-18T20:40:00.000Z",
+          "title": "OKC Thunder Must Avoid Game 1 Blunder in Toughest Matchup Yet",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/thunder/onsi/okc-thunder-must-avoid-game-1-blunder-in-toughest-matchup-yet",
+          "publishedAt": "2026-05-19T01:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[생생한 주식쇼 생쇼] 외인 매도는 비중 조절일 뿐, 주도주 중심 대응",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/mobile/view?news_no=MM1005837813",
-          "publishedAt": "2026-05-18T20:40:00.000Z",
+          "title": "Shai Gilgeous-Alexander, OKC Thunder vs San Antonio Spurs in Game 1 NBA Playoffs WCF",
+          "source": "The Oklahoman",
+          "url": "https://www.oklahoman.com/picture-gallery/sports/nba/thunder/2026/05/18/okc-thunder-vs-san-antonio-spurs-game-1-nba-playoffs-western-conference-finals-photos/90147221007/",
+          "publishedAt": "2026-05-19T01:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "외국인 ‘팔자’ 8거래일째… 삼전·SK하닉 던지고 코스피 41조 이탈",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260518174715756",
-        "publishedAt": "2026-05-18T20:40:00.000Z",
+        "title": "spurs vs thunder",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/05/19/R4NLU243SVFNNE2H3BZMDN6IVY/",
+        "publishedAt": "2026-05-19T01:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-18T20:40:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "삼전",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260518174715756",
+      "publishedAt": "2026-05-19T01:20:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "spurs vs thunder",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/05/19/R4NLU243SVFNNE2H3BZMDN6IVY/",
+      "rank": 6
+    },
+    {
+      "id": "3fecb3f7ca424d68",
+      "issueKey": "만나",
+      "issueTitle": "만나",
+      "trendTitle": "만나",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "광화문서 즐기는 야외 아리아…수어·자막 갖춘 배리어프리 공연",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260519_0003634983",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'광화문에서 만나는 아리아' 수어통역·점자리플렛 제공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260518138900004",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "세계가 주목한 광화문, 아리아로 물든다, 누구나 세종썸머페스티벌 ‘광화문에서 만나는 아리아’",
+          "source": "의정신문 서울시티",
+          "url": "https://www.seoulcity.co.kr/news/articleView.html?idxno=538329",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'광화문에서 만나는 아리아' 수어통역·점자리플렛 제공",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260518138900004",
+        "publishedAt": "2026-05-19T01:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-19T01:10:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "만나",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260518138900004",
+      "rank": 7
+    },
+    {
+      "id": "bfb0b65c47a4d1f7",
+      "issueKey": "병무청",
+      "issueTitle": "병무청",
+      "trendTitle": "병무청",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "재외국민, 민간인증서로도 병무민원 서비스 이용 가능해져",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260518021800504",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "병무청, 재외국민 병무민원 '민간인증서'로 더 쉽게",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260518001182",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "재외국민 병무민원 본인확인 민간인증서 활용…접근성 개선",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260518084703105",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "병무청, 재외국민 병무민원 '민간인증서'로 더 쉽게",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260518001182",
+        "publishedAt": "2026-05-19T01:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-19T01:10:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "병무청",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20260518001182",
+      "rank": 8
+    },
+    {
+      "id": "59902455d50452c9",
+      "issueKey": "최진실",
+      "issueTitle": "최진실",
+      "trendTitle": "최진실",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "유재석, '은인' 故최진실 딸 챙겼다‥말 없이 축의금만 안겨줘",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/MQ2TKYLBMQ3DCZRUG43DQZRZG4/",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[전문] 최준희, '최진실 사단' 향한 감사…\"친구 딸 끝까지 품어줘, 엄마 대신 혼내기도·울어주고 축하해줘\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260519082520257",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "유재석, 故최진실 딸 결혼에 축의금…\"킹갓제너럴, 말도 없이 전달\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6170749",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "유재석, '은인' 故최진실 딸 챙겼다‥말 없이 축의금만 안겨줘",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/MQ2TKYLBMQ3DCZRUG43DQZRZG4/",
+        "publishedAt": "2026-05-19T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T00:50:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "최진실",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/MQ2TKYLBMQ3DCZRUG43DQZRZG4/",
+      "rank": 9
+    },
+    {
+      "id": "002b2c38e1578ee5",
+      "issueKey": "두산 베어스",
+      "issueTitle": "두산 베어스",
+      "trendTitle": "두산 베어스",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "넷마블 엠엔비 ‘쿵야 레스토랑즈’, 두산 베어스와 콜라보 제품 출시",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202605195846P",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[Game & Now] 쿵야 두산과 만나고 '붉은사막' 달리고…비버스 더 커진다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260519n15705",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "넷마블 엠엔비 쿵야 레스토랑즈와 두산 베어스 협업 마케팅, 게이미피케이션 IP 비즈니스 확장 분석",
+          "source": "창업일보",
+          "url": "https://www.news33.net/news/articleView.html?idxno=116208",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "넷마블 엠엔비 ‘쿵야 레스토랑즈’, 두산 베어스와 콜라보 제품 출시",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202605195846P",
+        "publishedAt": "2026-05-19T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T00:50:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "두산 베어스",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202605195846P",
       "rank": 10
     }
   ],
@@ -621,6 +621,52 @@
       "title": "주식",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260517144754051"
+    },
+    {
+      "id": "5b6b5a16786532a0",
+      "issueKey": "부부",
+      "issueTitle": "부부",
+      "trendTitle": "부부",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'배그부부' 시한부 아내, 31번째 생일 앞두고 결국 사망",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260519_0003634992",
+          "publishedAt": "2026-05-19T02:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘오은영 리포트’ 배그 부부 아내, 위암 투병 중 사망…“엄마가 미안해”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12051683",
+          "publishedAt": "2026-05-19T02:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "위암 말기 아내 지키며 육아에 병간호까지...\"이보다 훌륭한 남편 없어\" ('다시, 사랑')[종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1rkFCgAiYM?f=p",
+          "publishedAt": "2026-05-19T02:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'배그부부' 시한부 아내, 31번째 생일 앞두고 결국 사망",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260519_0003634992",
+        "publishedAt": "2026-05-19T02:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T02:10:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "부부",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260519_0003634992"
     },
     {
       "id": "9d61bd4d775c67a1",
@@ -879,6 +925,98 @@
       "title": "카리나",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260517182300478"
+    },
+    {
+      "id": "807d82f82fbcf722",
+      "issueKey": "김하성",
+      "issueTitle": "김하성",
+      "trendTitle": "김하성",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "공 손에 쥐고 아쉬워하는 김하성",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260519_0002139328&amp;pID=1&amp;cID=&amp;sID=1&amp;type=photoMain&amp;idx=7",
+          "publishedAt": "2026-05-19T01:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'타율 0.053 충격' 김하성 또 무안타, 복귀 후 1안타가 전부라니…팀은 0-12 대패 [ATL 리뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/05/19/MRRTCYRWGZSDGMRRHFRGEMRXME/",
+          "publishedAt": "2026-05-19T01:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "4경기 연속 침묵한 김하성, 2타수 무안타 1볼넷…타율 0.053",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260519069000007",
+          "publishedAt": "2026-05-19T01:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "공 손에 쥐고 아쉬워하는 김하성",
+        "source": "뉴시스",
+        "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260519_0002139328&amp;pID=1&amp;cID=&amp;sID=1&amp;type=photoMain&amp;idx=7",
+        "publishedAt": "2026-05-19T01:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T01:50:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "김하성",
+      "source": "뉴시스",
+      "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260519_0002139328&amp;pID=1&amp;cID=&amp;sID=1&amp;type=photoMain&amp;idx=7"
+    },
+    {
+      "id": "59902455d50452c9",
+      "issueKey": "최진실",
+      "issueTitle": "최진실",
+      "trendTitle": "최진실",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "유재석, '은인' 故최진실 딸 챙겼다‥말 없이 축의금만 안겨줘",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/MQ2TKYLBMQ3DCZRUG43DQZRZG4/",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[전문] 최준희, '최진실 사단' 향한 감사…\"친구 딸 끝까지 품어줘, 엄마 대신 혼내기도·울어주고 축하해줘\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260519082520257",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "유재석, 故최진실 딸 결혼에 축의금…\"킹갓제너럴, 말도 없이 전달\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6170749",
+          "publishedAt": "2026-05-19T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "유재석, '은인' 故최진실 딸 챙겼다‥말 없이 축의금만 안겨줘",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/MQ2TKYLBMQ3DCZRUG43DQZRZG4/",
+        "publishedAt": "2026-05-19T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T00:50:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "최진실",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/19/MQ2TKYLBMQ3DCZRUG43DQZRZG4/"
     },
     {
       "id": "aa02f8a164723f60",
@@ -1249,52 +1387,6 @@
       "url": "https://www.mk.co.kr/news/business/12050160"
     },
     {
-      "id": "79859a4dd9a659d1",
-      "issueKey": "송도동",
-      "issueTitle": "송도동",
-      "trendTitle": "송도동",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "인천 송도동 송도랜드마크시티센트럴더샵아파트 95㎡ 6억8500만원에 거래",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260516n08441",
-          "publishedAt": "2026-05-17T00:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "인천 송도동 더샵송도마리나베이 84㎡ 6억8500만원에 거래 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/aptbot/2026/05/12/GZRTMNZQMIYGINTBMEZDSZTDMY/",
-          "publishedAt": "2026-05-17T00:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "인천 송도동 더샵송도마리나베이 84㎡ 6억8500만원에 거래",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260512n29298",
-          "publishedAt": "2026-05-17T00:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "인천 송도동 송도랜드마크시티센트럴더샵아파트 95㎡ 6억8500만원에 거래",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260516n08441",
-        "publishedAt": "2026-05-17T00:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-17T00:30:00.000Z",
-      "firstSeenAt": "2026-05-17T03:31:03.045Z",
-      "lastSeenAt": "2026-05-17T03:31:03.045Z",
-      "title": "송도동",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260516n08441"
-    },
-    {
       "id": "93567840d74427f0",
       "issueKey": "무소속",
       "issueTitle": "무소속",
@@ -1353,6 +1445,98 @@
       "title": "무소속",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260518082539501"
+    },
+    {
+      "id": "79525178decfaa31",
+      "issueKey": "현대차",
+      "issueTitle": "현대차",
+      "trendTitle": "현대차",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘23㎏ 냉장고 번쩍‘…현대차, 물건 들고 나르는 ‘아틀라스’ 영상 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/05/19/62S32GQIJFFI5BBMJX2L37XEYI/",
+          "publishedAt": "2026-05-19T02:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "아틀라스, 23㎏ 냉장고 번쩍…택배 뒤집는 미 로봇 보란 듯",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/car/1259325.html",
+          "publishedAt": "2026-05-19T02:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "휴머노이드, 이제 냉장고도 ‘번쩍’…기아 사장 “29년 미국공장에 투입” [현장영상]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8564556",
+          "publishedAt": "2026-05-19T02:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘23㎏ 냉장고 번쩍‘…현대차, 물건 들고 나르는 ‘아틀라스’ 영상 공개",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/industry-company/2026/05/19/62S32GQIJFFI5BBMJX2L37XEYI/",
+        "publishedAt": "2026-05-19T02:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T02:00:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "현대차",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/industry-company/2026/05/19/62S32GQIJFFI5BBMJX2L37XEYI/"
+    },
+    {
+      "id": "8f4a8a574f4a8342",
+      "issueKey": "고속도로",
+      "issueTitle": "고속도로",
+      "trendTitle": "고속도로",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "고속도로 잘못 나가도 15분내 재진입시 10월부터 요금 면제",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260519027400003",
+          "publishedAt": "2026-05-19T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“착오로 나간 고속도로 바로 재진입 시 기본요금 면제”…권익위, 제도개선 권고",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8564432",
+          "publishedAt": "2026-05-19T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "손명수 \"10월부터 고속도로 오진출→재진입 통행료 중복 부과 문제 개선\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260519n05471?mid=n1101",
+          "publishedAt": "2026-05-19T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고속도로 잘못 나가도 15분내 재진입시 10월부터 요금 면제",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260519027400003",
+        "publishedAt": "2026-05-19T01:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-19T01:40:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "고속도로",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260519027400003"
     },
     {
       "id": "95db13419dfa3c4f",
@@ -1815,50 +1999,96 @@
       "url": "https://v.daum.net/v/P9dNuenQvw"
     },
     {
-      "id": "f0521109ea9291e5",
-      "issueKey": "경기도",
-      "issueTitle": "경기도",
-      "trendTitle": "경기도",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "3303a744791b42e6",
+      "issueKey": "spurs vs thunder",
+      "issueTitle": "spurs vs thunder",
+      "trendTitle": "spurs vs thunder",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "경기도, 맞춤형 컨설팅으로 순환경제 2건 규제특례",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260517_0003632572",
-          "publishedAt": "2026-05-17T01:00:00.000Z",
+          "title": "Thunder and Spurs' 62+ Wins Revive 1998 Finals Legacy",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/05/19/R4NLU243SVFNNE2H3BZMDN6IVY/",
+          "publishedAt": "2026-05-19T01:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "버려지는 폐현수막·농산부산물, 재활용으로 가치 높인다···규제특례 승인",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605171057001",
-          "publishedAt": "2026-05-17T01:00:00.000Z",
+          "title": "OKC Thunder Must Avoid Game 1 Blunder in Toughest Matchup Yet",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/nba/thunder/onsi/okc-thunder-must-avoid-game-1-blunder-in-toughest-matchup-yet",
+          "publishedAt": "2026-05-19T01:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "경기도 \"컨설팅해준 폐현수막, 버섯 재배 찌꺼기 재활용 기술 규제샌드박스 승인\"",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3584059",
-          "publishedAt": "2026-05-17T01:00:00.000Z",
+          "title": "Shai Gilgeous-Alexander, OKC Thunder vs San Antonio Spurs in Game 1 NBA Playoffs WCF",
+          "source": "The Oklahoman",
+          "url": "https://www.oklahoman.com/picture-gallery/sports/nba/thunder/2026/05/18/okc-thunder-vs-san-antonio-spurs-game-1-nba-playoffs-western-conference-finals-photos/90147221007/",
+          "publishedAt": "2026-05-19T01:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "경기도, 맞춤형 컨설팅으로 순환경제 2건 규제특례",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260517_0003632572",
-        "publishedAt": "2026-05-17T01:00:00.000Z",
+        "title": "spurs vs thunder",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/05/19/R4NLU243SVFNNE2H3BZMDN6IVY/",
+        "publishedAt": "2026-05-19T01:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-17T01:00:00.000Z",
-      "firstSeenAt": "2026-05-17T03:31:03.045Z",
-      "lastSeenAt": "2026-05-17T03:31:03.045Z",
-      "title": "경기도",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260517_0003632572"
+      "publishedAt": "2026-05-19T01:20:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "spurs vs thunder",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/05/19/R4NLU243SVFNNE2H3BZMDN6IVY/"
+    },
+    {
+      "id": "3fecb3f7ca424d68",
+      "issueKey": "만나",
+      "issueTitle": "만나",
+      "trendTitle": "만나",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "광화문서 즐기는 야외 아리아…수어·자막 갖춘 배리어프리 공연",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260519_0003634983",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'광화문에서 만나는 아리아' 수어통역·점자리플렛 제공",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260518138900004",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "세계가 주목한 광화문, 아리아로 물든다, 누구나 세종썸머페스티벌 ‘광화문에서 만나는 아리아’",
+          "source": "의정신문 서울시티",
+          "url": "https://www.seoulcity.co.kr/news/articleView.html?idxno=538329",
+          "publishedAt": "2026-05-19T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'광화문에서 만나는 아리아' 수어통역·점자리플렛 제공",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260518138900004",
+        "publishedAt": "2026-05-19T01:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-19T01:10:00.000Z",
+      "firstSeenAt": "2026-05-19T03:37:16.167Z",
+      "lastSeenAt": "2026-05-19T03:37:16.167Z",
+      "title": "만나",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260518138900004"
     },
     {
       "id": "7aec1b1fd3c2612d",
@@ -2135,236 +2365,6 @@
       "title": "교도관",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260518105857518"
-    },
-    {
-      "id": "a934a0e0a38913e8",
-      "issueKey": "떠난 토트넘",
-      "issueTitle": "떠난 토트넘",
-      "trendTitle": "떠난 토트넘",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "손흥민 떠난 토트넘, 충격의 2부 강등은 피할 듯…웨스트햄 3연패로 자멸했다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6ItbPtvmT3",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "시민들 위해 토트넘이 2부 가야 한다? 런던 시장의 경고, \"웨스트햄 강등되면 세금 폭탄 터진다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/18/MEZDOYZWGA2TONRUGBQTMYZVGI/",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "토트넘, 잔류 확률 93%…2경기 중 1무만 해도 EPL 생존",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/overseas-soccer/6169708",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "손흥민 떠난 토트넘, 충격의 2부 강등은 피할 듯…웨스트햄 3연패로 자멸했다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6ItbPtvmT3",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "떠난 토트넘",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/6ItbPtvmT3"
-    },
-    {
-      "id": "cb25bf739544bdd8",
-      "issueKey": "나스닥 지수",
-      "issueTitle": "나스닥 지수",
-      "trendTitle": "나스닥 지수",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "뉴욕증시, 이란전쟁 주시하며 혼조…다우 0.3%↑·나스닥 0.5%↓(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260519060702817",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "뉴욕 증시 혼조 마감...종전 협상 난항·인플레이션 우려 여파",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202605190549288631",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "채권금리 급등에 하락‥선물시장에서도 약세 지속",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6823397_36981.html",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "나스닥 지수",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260519060702817",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "나스닥 지수",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260519060702817"
-    },
-    {
-      "id": "350067f6e5356a85",
-      "issueKey": "양산",
-      "issueTitle": "양산",
-      "trendTitle": "기상청",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "양산·선글라스에 물놀이…거리는 벌써 여름 풍경",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260519060458746",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전국 구름많다가 밤부터 흐려져…내일 새벽부터 비",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260519009400034",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "오늘도 여전히 더워…내일 오후부터 누그러져",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8564262",
-          "publishedAt": "2026-05-18T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "양산·선글라스에 물놀이…거리는 벌써 여름 풍경",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260519060458746",
-        "publishedAt": "2026-05-18T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T21:00:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "양산",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260519060458746"
-    },
-    {
-      "id": "ab224c46f6c22e9f",
-      "issueKey": "오타니 쇼헤이",
-      "issueTitle": "오타니 쇼헤이",
-      "trendTitle": "오타니 쇼헤이",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘0순위 스킨스 와르르→ERA 2.62’ 오타니, ‘NL 사이영상에 올인?’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260518090753894",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이럴수가! 2년 연속 사이영상 꿈 좌절? ML 역대 최고 투수 꿈꿨던 스킨스, 필리스전 5이닝 5실점 패전",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260518n08253?mid=s21&amp;list=recent&amp;cpcd=",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "MLB 1위 팀에 안정감을 더해주는 어썸킴! #shorts",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=816424",
-          "publishedAt": "2026-05-18T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "오타니 쇼헤이",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260518090753894",
-        "publishedAt": "2026-05-18T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T20:50:00.000Z",
-      "firstSeenAt": "2026-05-18T22:03:23.460Z",
-      "lastSeenAt": "2026-05-18T22:03:23.460Z",
-      "title": "오타니 쇼헤이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260518090753894"
-    },
-    {
-      "id": "abeea9595072c5a0",
-      "issueKey": "이차전지 업종",
-      "issueTitle": "이차전지 업종",
-      "trendTitle": "이차전지 업종",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[리포트 브리핑]포스코퓨처엠, '이차전지 업종의 마지막 퍼즐' 목표가 370,000원 - 다올투자증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260518000860",
-          "publishedAt": "2026-05-18T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "포스코퓨처엠, \"연 4% 후반 공모채 부담\"…조달 전략 또 바뀌나",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260518n05027?mid=n0100",
-          "publishedAt": "2026-05-18T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "포스코퓨처엠, 배터리 소재 공급 판로 넓어졌다",
-          "source": "SR타임스",
-          "url": "https://www.srtimes.kr/news/articleView.html?idxno=203165",
-          "publishedAt": "2026-05-18T14:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[리포트 브리핑]포스코퓨처엠, '이차전지 업종의 마지막 퍼즐' 목표가 370,000원 - 다올투자증권",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260518000860",
-        "publishedAt": "2026-05-18T14:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-18T14:50:00.000Z",
-      "firstSeenAt": "2026-05-18T19:44:45.958Z",
-      "lastSeenAt": "2026-05-18T19:44:45.958Z",
-      "title": "이차전지 업종",
-      "source": "뉴스핌",
-      "url": "https://www.newspim.com/news/view/20260518000860"
     }
   ]
 }
