@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-05-20T03:37:46.339Z",
+  "lastUpdatedAt": "2026-05-20T09:34:49.047Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -14,29 +14,6 @@
   "primaryBlockName": "Week 8",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115548128962971911",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 8",
-      "startTime": "2026-05-20T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        },
-        {
-          "name": "KIWOOM DRX",
-          "code": "DRX",
-          "imageUrl": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128963037551",
       "leagueKey": "lck",
@@ -289,6 +266,29 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128962971959",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Week 9",
+      "startTime": "2026-05-28T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "DN SOOPers",
+          "code": "DNS",
+          "imageUrl": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+        },
+        {
+          "name": "NONGSHIM RED FORCE",
+          "code": "NS",
+          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     }
   ],
   "fetchedLeagues": [
@@ -296,7 +296,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 20
+      "matchCount": 19
     },
     {
       "key": "ewc",
