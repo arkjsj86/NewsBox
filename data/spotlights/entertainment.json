@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-21T19:53:40.086Z",
+  "lastUpdatedAt": "2026-05-21T22:19:29.226Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "655aac34b9fdca1e",
-      "issueKey": "al nassr",
-      "issueTitle": "al nassr",
-      "trendTitle": "al nassr",
+      "id": "066ff408079a5ece",
+      "issueKey": "단체교섭 소송",
+      "issueTitle": "단체교섭 소송",
+      "trendTitle": "단체교섭 소송",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보]대법 “HD현대중공업, 사내하청 노동자와 단체교섭 의무 없다”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605211431001",
+          "publishedAt": "2026-05-21T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현대중 하청 단체교섭 소송, 9년 기다림 끝에 ‘패소’ 확정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260522063159425",
+          "publishedAt": "2026-05-21T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "조희대 대법원장, 전원합의체 선고 참석",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260521_0021291957",
+          "publishedAt": "2026-05-21T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "현대중 하청 단체교섭 소송, 9년 기다림 끝에 ‘패소’ 확정",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260522063159425",
+        "publishedAt": "2026-05-21T21:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-21T21:00:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "단체교섭 소송",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260522063159425",
+      "rank": 1
+    },
+    {
+      "id": "b63aad7bb8690cd8",
+      "issueKey": "무죄",
+      "issueTitle": "무죄",
+      "trendTitle": "무죄",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Today's match schedule and broadcast channels.. A heated battle in the Saudi League finale",
-          "source": "صوت الإمارات",
-          "url": "https://www.voiceofemirates.com/en/sport/2026/05/21/todays-match-schedule-and-broadcast-channels-a-heated-battle-in-the-saudi-league-finale/",
-          "publishedAt": "2026-05-21T18:50:00.000Z",
+          "title": "법정 향하는 박종준 전 대통령 경호처장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260521163500013",
+          "publishedAt": "2026-05-21T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "What happens if Cristiano Ronaldo’s Al Nassr win, tie or lose vs Damac today in 2025-26 Saudi Pro League fi...",
-          "source": "Bolavip US",
-          "url": "https://bolavip.com/en/soccer/what-happens-if-cristiano-ronaldos-al-nassr-win-tie-or-lose-vs-damac-today-in-2025-26-saudi-pro-league-finale",
-          "publishedAt": "2026-05-21T18:50:00.000Z",
+          "title": "'尹 비화폰 삭제' 박종준 전 경호처장 1심 무죄…\"증거인멸 의도 없어\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202605220523267O1",
+          "publishedAt": "2026-05-21T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Jesus Decides Coman's Final Stance for Al-Nassr's Matc…",
-          "source": "YSscores",
-          "url": "https://www.ysscores.com/en/news/13969515/jesus-decides-comans-final-stance-for-al-nassrs-match-against-damac",
-          "publishedAt": "2026-05-21T18:50:00.000Z",
+          "title": "'비화폰 삭제' 박종준 전 경호처장 1심 무죄‥\"보안조치 보고 받아 승인\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6824297_36918.html",
+          "publishedAt": "2026-05-21T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "What happens if Cristiano Ronaldo’s Al Nassr win, tie or lose vs Damac today in 2025-26 Saudi Pro League fi...",
-        "source": "Bolavip US",
-        "url": "https://bolavip.com/en/soccer/what-happens-if-cristiano-ronaldos-al-nassr-win-tie-or-lose-vs-damac-today-in-2025-26-saudi-pro-league-finale",
-        "publishedAt": "2026-05-21T18:50:00.000Z",
+        "title": "'尹 비화폰 삭제' 박종준 전 경호처장 1심 무죄…\"증거인멸 의도 없어\"",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH202605220523267O1",
+        "publishedAt": "2026-05-21T21:00:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-05-21T18:50:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "al nassr",
-      "source": "Bolavip US",
-      "url": "https://bolavip.com/en/soccer/what-happens-if-cristiano-ronaldos-al-nassr-win-tie-or-lose-vs-damac-today-in-2025-26-saudi-pro-league-finale",
-      "rank": 1
+      "publishedAt": "2026-05-21T21:00:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "무죄",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202605220523267O1",
+      "rank": 2
     },
     {
-      "id": "593b84aa70a3f1c0",
-      "issueKey": "대통령",
-      "issueTitle": "대통령",
-      "trendTitle": "김혜경",
+      "id": "646262117330ee33",
+      "issueKey": "나솔",
+      "issueTitle": "나솔",
+      "trendTitle": "나솔",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“오늘은 쀼의날” “남편, 잘 생겼네 하하”···이 대통령·김혜경 여사, 부부의날 ‘달달 부부 케미’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605211112001",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "李 “오늘은 쀼의 날”…부부의날 맞아 과거 사진 포즈 재현",
+          "title": "'나솔사계' 27기 현숙 \"13기 상철, 나랑 비슷한 생각\" 기대",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260521105802025",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김혜경 여사, 대통령 볼 두드리며 “잘 생겼네”…‘부부의 날’ 영상 눈길",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260521580543",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“오늘은 쀼의날” “남편, 잘 생겼네 하하”···이 대통령·김혜경 여사, 부부의날 ‘달달 부부 케미’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202605211112001",
-        "publishedAt": "2026-05-21T18:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-21T18:40:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "대통령",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202605211112001",
-      "rank": 2
-    },
-    {
-      "id": "2a75fc76bce5e6bb",
-      "issueKey": "매매",
-      "issueTitle": "매매",
-      "trendTitle": "매매",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "다주택 압박 안 통했나…서울 아파트값 상승률 7개월 만에 최고치",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25430256",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
+          "url": "https://v.daum.net/v/20260521232203922",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "다주택자 양도세 회피 물량 소화 끝‥서울 집값 2주 연속 상승폭 확대",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6824358_36932.html",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
+          "title": "‘나솔’ 25기 영자, 계약 위반으로 라방 불참…20기 영식 “현커 NO”",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/505805",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "서울 부동산 본격 상승세?…“전세난에 단기 공급 부족”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8567249",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
+          "title": "'나솔사계' 17기 순자 \"20기 영식과 틀어져 자책\"…후회",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/ampNews/202605212307291999",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "매매",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/article/25430256",
-        "publishedAt": "2026-05-21T18:40:00.000Z",
+        "title": "'나솔사계' 27기 현숙 \"13기 상철, 나랑 비슷한 생각\" 기대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260521232203922",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-21T18:40:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "매매",
-      "source": "중앙일보",
-      "url": "https://www.joongang.co.kr/article/25430256",
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "나솔",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260521232203922",
       "rank": 3
     },
     {
-      "id": "194121c83c9e6a08",
-      "issueKey": "김학래",
-      "issueTitle": "김학래",
-      "trendTitle": "김학래",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "166cef90a3847dfb",
+      "issueKey": "laes",
+      "issueTitle": "laes",
+      "trendTitle": "laes",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "김학래, 故전유성 유언 공개…\"사망 전날 장례 지시\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260521_0003639544",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
+          "title": "SEALSQ’s Quantum Space Pilot With Swiss Military And Investor Takeaways",
+          "source": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-laes/sealsq/news/sealsqs-quantum-space-pilot-with-swiss-military-and-investor",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "김학래, 故전유성 유언 공개 \"먼저 가 있을테니 거기서 만나자고\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260521135153332",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
+          "title": "What is behind SEALSQ stock's recent gain in value today",
+          "source": "Traders Union",
+          "url": "https://tradersunion.com/news/financial-news/show/2101024-sealsq-corp-surges-12-1percent-today/",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김학래, 故 전유성 유언 공개…“사망 전날 장례 지시까지”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12053374",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
+          "title": "How SEALSQ plans to secure space data centers with quantum-safe chips",
+          "source": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/LAES/sealsq-positioned-for-leadership-in-orbital-quantum-security-and-wp384vi93fnx.html",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김학래, 故전유성 유언 공개…\"사망 전날 장례 지시\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260521_0003639544",
-        "publishedAt": "2026-05-21T18:40:00.000Z",
+        "title": "laes",
+        "source": "Simply Wall Street",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-laes/sealsq/news/sealsqs-quantum-space-pilot-with-swiss-military-and-investor",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-21T18:40:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "김학래",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260521_0003639544",
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "laes",
+      "source": "Simply Wall Street",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-laes/sealsq/news/sealsqs-quantum-space-pilot-with-swiss-military-and-investor",
       "rank": 4
     },
     {
-      "id": "28f16c300744304b",
-      "issueKey": "모빌리티",
-      "issueTitle": "모빌리티",
-      "trendTitle": "모빌리티",
+      "id": "8dc5d9b0bbbc3611",
+      "issueKey": "병사",
+      "issueTitle": "병사",
+      "trendTitle": "병사",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[단독] \"글로벌 시장 확대\" KG모빌리티, 현대차 해외영업통 출신 잇단 영입",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260521_0003639137",
-          "publishedAt": "2026-05-21T18:30:00.000Z",
+          "title": "'만취' 해병대원 가방서 공포탄 '우르르'…해병대 “문제 없었다” 해명에도 집중 포화 [현장영상] / 채널A",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/digitalspecial/detail/dl3DWzoi9eE.do",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "KGM, '무쏘'로 픽업 명가 재건…전동화로 영토 넓힌다 [주도권을 향한 질주, 신차열전]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260518n03113",
-          "publishedAt": "2026-05-21T18:30:00.000Z",
+          "title": "용산역 만취 병사 가방에서 공포탄 30여 발‥군 수사 착수",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6823657_36911.html",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "KG모빌리티 현대차 출신 해외통 영입…수출 확대 드라이브",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260521150757151",
-          "publishedAt": "2026-05-21T18:30:00.000Z",
+          "title": "용산역 인근서 만취 신고된 해병대 병사, 공포탄 30여발 빼돌리다 적발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260518_0003634742",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[단독] \"글로벌 시장 확대\" KG모빌리티, 현대차 해외영업통 출신 잇단 영입",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260521_0003639137",
-        "publishedAt": "2026-05-21T18:30:00.000Z",
-        "relevanceScore": 3
+        "title": "용산역 만취 병사 가방에서 공포탄 30여 발‥군 수사 착수",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6823657_36911.html",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-21T18:30:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "모빌리티",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260521_0003639137",
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "병사",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6823657_36911.html",
       "rank": 5
     },
     {
-      "id": "9553a076b0afc670",
-      "issueKey": "한다감",
-      "issueTitle": "한다감",
-      "trendTitle": "한다감",
+      "id": "715a7fae365df2f4",
+      "issueKey": "경인양행",
+      "issueTitle": "경인양행",
+      "trendTitle": "광전자",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'연예계 최고령 산모' 한다감, '슈돌' 출연 심경 고백…\"간절함·진실함으로 촬영\" [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260521181750696",
-          "publishedAt": "2026-05-21T18:30:00.000Z",
+          "title": "[시선강탈] 광전자 vs 삼성증권 vs 경인양행, 공략법은?",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/05/22/2026052121587042693",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'47세 임신' 한다감, 마음 울리는 '슈퍼맨이 돌아왔다' 출연 이유",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/05/21/2026052117217219528",
-          "publishedAt": "2026-05-21T18:30:00.000Z",
+          "title": "[시선강탈] 광전자 vs 삼성증권 vs 경인양행, 공략법은?",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026052121581218440",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "46세 한다감, '슈돌' 합류⋯'예비엄마'의 현실 고민 나눈다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260521n30870?mid=e1200",
-          "publishedAt": "2026-05-21T18:30:00.000Z",
+          "title": "[5/21 오늘의 수익 실현 리포트] _ #광전자",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/welvue/parkt/contents/260521170830202si",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'연예계 최고령 산모' 한다감, '슈돌' 출연 심경 고백…\"간절함·진실함으로 촬영\" [MHN:피드]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260521181750696",
-        "publishedAt": "2026-05-21T18:30:00.000Z",
+        "title": "[시선강탈] 광전자 vs 삼성증권 vs 경인양행, 공략법은?",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/05/22/2026052121587042693",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-21T18:30:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "한다감",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260521181750696",
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "경인양행",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/stock/2026/05/22/2026052121587042693",
       "rank": 6
     },
     {
-      "id": "a37d4eb61057bf0a",
-      "issueKey": "오세훈",
-      "issueTitle": "오세훈",
-      "trendTitle": "오세훈",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "정원오 45% 오세훈 34%-전재수 45% 박형준 34%-김부겸 40% 추경호 39%…D-13 KBS 여론조사",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8566931",
-          "publishedAt": "2026-05-21T17:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서울 정원오, 오세훈에 8.2~11%P차 우세… 부산 전재수-박형준 오차범위 안팎 혼조",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260522043319833",
-          "publishedAt": "2026-05-21T17:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[6·3 판세/서울시장] 민주당 정원오 우세에 국힘 오세훈 추격세, 부동산 민심과 GTX 안전 공방",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=438380",
-          "publishedAt": "2026-05-21T17:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "정원오 45% 오세훈 34%-전재수 45% 박형준 34%-김부겸 40% 추경호 39%…D-13 KBS 여론조사",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8566931",
-        "publishedAt": "2026-05-21T17:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-21T17:50:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "오세훈",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8566931",
-      "rank": 7
-    },
-    {
-      "id": "fc763594f5a07dc0",
-      "issueKey": "아약스",
-      "issueTitle": "아약스",
-      "trendTitle": "아약스",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Ajax 2-0 FC Groningen (May 21, 2026) Final Score",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/match/_/gameId/401873225/fc-groningen-ajax-amsterdam",
-          "publishedAt": "2026-05-21T17:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Ajax vs Groningen: Eredivisie stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c98r6vdgz31t",
-          "publishedAt": "2026-05-21T17:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Ajax keeps European football dreams alive with victory over Groningen",
-          "source": "NL Times",
-          "url": "https://nltimes.nl/2026/05/21/ajax-keeps-european-football-dreams-alive-victory-groningen",
-          "publishedAt": "2026-05-21T17:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아약스",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/match/_/gameId/401873225/fc-groningen-ajax-amsterdam",
-        "publishedAt": "2026-05-21T17:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-21T17:40:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "아약스",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/match/_/gameId/401873225/fc-groningen-ajax-amsterdam",
-      "rank": 8
-    },
-    {
-      "id": "3cb570104c9c1e14",
-      "issueKey": "메이플",
-      "issueTitle": "메이플",
-      "trendTitle": "메이플",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'메이플 키우기', 파티 퀘스트 3종 카오스 난도 추가",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/zZNAEGOcda",
-          "publishedAt": "2026-05-21T17:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "넥슨 '메이플 키우기', 난이도 업데이트 실시 外",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260521n23421",
-          "publishedAt": "2026-05-21T17:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[게임 NOW] 넥슨·넷마블·크래프톤",
-          "source": "위키리크스한국",
-          "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=187682",
-          "publishedAt": "2026-05-21T17:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'메이플 키우기', 파티 퀘스트 3종 카오스 난도 추가",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/zZNAEGOcda",
-        "publishedAt": "2026-05-21T17:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-21T17:20:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "메이플",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/zZNAEGOcda",
-      "rank": 9
-    },
-    {
-      "id": "7d113b0be92f0a31",
-      "issueKey": "김부선",
-      "issueTitle": "김부선",
-      "trendTitle": "김부선",
+      "id": "bf301234ab040792",
+      "issueKey": "체험학습",
+      "issueTitle": "체험학습",
+      "trendTitle": "체험학습",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'난방 열사' 김부선 옥수동 아파트, 2억 원대 가압류…합의 결렬→강제조정 절차 돌입",
+          "title": "\"고소 무서워 수학여행 못가요\"…교육부 '결단'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260521165707128",
-          "publishedAt": "2026-05-21T15:50:00.000Z",
+          "url": "https://v.daum.net/v/20260521124604141",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "김부선, '난방열사' 아파트 2억대 가압류",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260521_0003639731",
-          "publishedAt": "2026-05-21T15:50:00.000Z",
+          "title": "전문가들 “기관 책임제·민원 처리 시스템화 필요”[사라지는 교실 밖 교실 下-③]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2586152",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘난방열사’ 김부선 옥수동 집, 가압류 당했다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202605211535003",
-          "publishedAt": "2026-05-21T15:50:00.000Z",
+          "title": "학교 현장체험학습 논의 위해 교원단체 만난 최교진 장관",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260521231400013",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'난방 열사' 김부선 옥수동 아파트, 2억 원대 가압류…합의 결렬→강제조정 절차 돌입",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260521165707128",
-        "publishedAt": "2026-05-21T15:50:00.000Z",
+        "title": "학교 현장체험학습 논의 위해 교원단체 만난 최교진 장관",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260521231400013",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "체험학습",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/PYH20260521231400013",
+      "rank": 7
+    },
+    {
+      "id": "b96acde2051507b5",
+      "issueKey": "많은 기관",
+      "issueTitle": "많은 기관",
+      "trendTitle": "최준용",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "행안부, 스벅 불매 선언…\"많은 기관·국민께서도 함께 공감해달라\"",
+          "source": "대전일보",
+          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2276838",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"출근이 공포스럽다\"...스타벅스 애꿎은 현장 직원만 '욕받이' 전락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260522053139380",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "배달 노동자들 “스타벅스 배달 안 한다”…불매 선언",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8566891",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "행안부, 스벅 불매 선언…\"많은 기관·국민께서도 함께 공감해달라\"",
+        "source": "대전일보",
+        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2276838",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-21T15:50:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "김부선",
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "많은 기관",
+      "source": "대전일보",
+      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2276838",
+      "rank": 8
+    },
+    {
+      "id": "32c037d3c09de3b4",
+      "issueKey": "국내 금시세는",
+      "issueTitle": "국내 금시세는",
+      "trendTitle": "국내 금시세는",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“더 담을까 팔까”…금 가격 폭락에 ETF 개미 ‘고심’",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06415686645451216",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[원자재 시황] 미·이란 협상 \"최종 단계\" 발언에 WTI 100달러선 붕괴 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-1955091",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "반등한 국제 금값…국내 금시세는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260521075904742",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "반등한 국제 금값…국내 금시세는?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260521075904742",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "국내 금시세는",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260521165707128",
-      "rank": 10
+      "url": "https://v.daum.net/v/20260521075904742",
+      "rank": 9
     }
   ],
   "history": [
@@ -621,6 +574,98 @@
       "title": "우원식",
       "source": "조선일보",
       "url": "https://www.chosun.com/sports/football/2026/05/20/OD56SB4RPRGTZPI5SJEQUU3AA4/"
+    },
+    {
+      "id": "646262117330ee33",
+      "issueKey": "나솔",
+      "issueTitle": "나솔",
+      "trendTitle": "나솔",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'나솔사계' 27기 현숙 \"13기 상철, 나랑 비슷한 생각\" 기대",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260521232203922",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘나솔’ 25기 영자, 계약 위반으로 라방 불참…20기 영식 “현커 NO”",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/505805",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'나솔사계' 17기 순자 \"20기 영식과 틀어져 자책\"…후회",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/ampNews/202605212307291999",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'나솔사계' 27기 현숙 \"13기 상철, 나랑 비슷한 생각\" 기대",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260521232203922",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "나솔",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260521232203922"
+    },
+    {
+      "id": "b96acde2051507b5",
+      "issueKey": "많은 기관",
+      "issueTitle": "많은 기관",
+      "trendTitle": "최준용",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "행안부, 스벅 불매 선언…\"많은 기관·국민께서도 함께 공감해달라\"",
+          "source": "대전일보",
+          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2276838",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"출근이 공포스럽다\"...스타벅스 애꿎은 현장 직원만 '욕받이' 전락",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260522053139380",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "배달 노동자들 “스타벅스 배달 안 한다”…불매 선언",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8566891",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "행안부, 스벅 불매 선언…\"많은 기관·국민께서도 함께 공감해달라\"",
+        "source": "대전일보",
+        "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2276838",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "많은 기관",
+      "source": "대전일보",
+      "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2276838"
     },
     {
       "id": "593b84aa70a3f1c0",
@@ -991,50 +1036,50 @@
       "url": "https://www.chosun.com/entertainments/broadcast/2026/05/20/HE2DMNZTGYYGGMTBGA2TQNZSGQ/"
     },
     {
-      "id": "4a681ec9eb5ed764",
-      "issueKey": "주가",
-      "issueTitle": "주가",
-      "trendTitle": "주가",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "32c037d3c09de3b4",
+      "issueKey": "국내 금시세는",
+      "issueTitle": "국내 금시세는",
+      "trendTitle": "국내 금시세는",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "삼전닉스 이어 주목하라더니 ‘급락’?…“주가 100만원 간다”, 목표가는 줄줄이 ‘상향’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260519204907259",
-          "publishedAt": "2026-05-19T20:50:00.000Z",
+          "title": "“더 담을까 팔까”…금 가격 폭락에 ETF 개미 ‘고심’",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=06415686645451216",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "현대차, 노사 갈등 확대 우려에 8%대 급락",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260519_0003635403",
-          "publishedAt": "2026-05-19T20:50:00.000Z",
+          "title": "[원자재 시황] 미·이란 협상 \"최종 단계\" 발언에 WTI 100달러선 붕괴 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-1955091",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "다음은 현대차?…노사 갈등 확대 우려에 8%대 급락",
-          "source": "연합뉴스TV",
-          "url": "https://m.yonhapnewstv.co.kr/news/AKR20260519105120Vcp",
-          "publishedAt": "2026-05-19T20:50:00.000Z",
+          "title": "반등한 국제 금값…국내 금시세는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260521075904742",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "삼전닉스 이어 주목하라더니 ‘급락’?…“주가 100만원 간다”, 목표가는 줄줄이 ‘상향’",
+        "title": "반등한 국제 금값…국내 금시세는?",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260519204907259",
-        "publishedAt": "2026-05-19T20:50:00.000Z",
-        "relevanceScore": 3
+        "url": "https://v.daum.net/v/20260521075904742",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-05-19T20:50:00.000Z",
-      "firstSeenAt": "2026-05-19T22:17:00.990Z",
-      "lastSeenAt": "2026-05-19T22:17:00.990Z",
-      "title": "주가",
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "국내 금시세는",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260519204907259"
+      "url": "https://v.daum.net/v/20260521075904742"
     },
     {
       "id": "057a9aaadff9040b",
@@ -1541,6 +1586,98 @@
       "title": "추성훈",
       "source": "네이트 스포츠",
       "url": "https://sports.news.nate.com/view/20260520n04642"
+    },
+    {
+      "id": "166cef90a3847dfb",
+      "issueKey": "laes",
+      "issueTitle": "laes",
+      "trendTitle": "laes",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SEALSQ’s Quantum Space Pilot With Swiss Military And Investor Takeaways",
+          "source": "Simply Wall Street",
+          "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-laes/sealsq/news/sealsqs-quantum-space-pilot-with-swiss-military-and-investor",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "What is behind SEALSQ stock's recent gain in value today",
+          "source": "Traders Union",
+          "url": "https://tradersunion.com/news/financial-news/show/2101024-sealsq-corp-surges-12-1percent-today/",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "How SEALSQ plans to secure space data centers with quantum-safe chips",
+          "source": "Stock Titan",
+          "url": "https://www.stocktitan.net/news/LAES/sealsq-positioned-for-leadership-in-orbital-quantum-security-and-wp384vi93fnx.html",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "laes",
+        "source": "Simply Wall Street",
+        "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-laes/sealsq/news/sealsqs-quantum-space-pilot-with-swiss-military-and-investor",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "laes",
+      "source": "Simply Wall Street",
+      "url": "https://simplywall.st/stocks/us/semiconductors/nasdaq-laes/sealsq/news/sealsqs-quantum-space-pilot-with-swiss-military-and-investor"
+    },
+    {
+      "id": "8dc5d9b0bbbc3611",
+      "issueKey": "병사",
+      "issueTitle": "병사",
+      "trendTitle": "병사",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'만취' 해병대원 가방서 공포탄 '우르르'…해병대 “문제 없었다” 해명에도 집중 포화 [현장영상] / 채널A",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/digitalspecial/detail/dl3DWzoi9eE.do",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "용산역 만취 병사 가방에서 공포탄 30여 발‥군 수사 착수",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6823657_36911.html",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "용산역 인근서 만취 신고된 해병대 병사, 공포탄 30여발 빼돌리다 적발",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260518_0003634742",
+          "publishedAt": "2026-05-21T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "용산역 만취 병사 가방에서 공포탄 30여 발‥군 수사 착수",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6823657_36911.html",
+        "publishedAt": "2026-05-21T20:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-21T20:50:00.000Z",
+      "firstSeenAt": "2026-05-21T22:19:29.226Z",
+      "lastSeenAt": "2026-05-21T22:19:29.226Z",
+      "title": "병사",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6823657_36911.html"
     },
     {
       "id": "28f16c300744304b",
@@ -2139,190 +2276,6 @@
       "title": "blackpink",
       "source": "Sporting Goods Intelligence Europe",
       "url": "https://www.sgieurope.com/sporting-events/world-cup-2026-kicks-off-with-a-trilogy-of-opening-shows/121217.article"
-    },
-    {
-      "id": "bb31535f8e0ad0dd",
-      "issueKey": "여자축구 중계",
-      "issueTitle": "여자축구 중계",
-      "trendTitle": "여자축구 중계",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이 대통령, 남북 여자축구 응원하는 문체부 장관에 \"좌우 균형 잘 맞춰라\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260520_0003638115",
-          "publishedAt": "2026-05-20T08:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]수원에서 열리는 AWCL 참가 결정한 내고향여자축구단",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/05/20/GY3DCMJYMNRWCNRSGI3DCNTEHE/",
-          "publishedAt": "2026-05-20T08:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[영상] 북한 내고향여자축구단, 나이키·아디다스 신고 공개 훈련",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260520007400704",
-          "publishedAt": "2026-05-20T08:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여자축구 중계",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260520_0003638115",
-        "publishedAt": "2026-05-20T08:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-20T08:10:00.000Z",
-      "firstSeenAt": "2026-05-20T09:34:49.047Z",
-      "lastSeenAt": "2026-05-20T09:34:49.047Z",
-      "title": "여자축구 중계",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260520_0003638115"
-    },
-    {
-      "id": "4ee3dd913db507db",
-      "issueKey": "이훈",
-      "issueTitle": "이훈",
-      "trendTitle": "이훈",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이훈, ‘700억 건물주’ 서장훈도 여장하는데 “내가 뭐라고..뭐든 할것” 깨달음(인터뷰②) [단독]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260520075354884",
-          "publishedAt": "2026-05-20T02:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[단독]이훈, 유튜버 도전..’50대男 운동→다이어트법’ 전수 “가만히 있으면 도태돼”(인터뷰④)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/20/GQ4WEZDFMVSDKY3BMQZDGYTFMU/",
-          "publishedAt": "2026-05-20T02:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[단독]이훈, 故이순재 가르침 전했다 “본인 연기에 만족한 순간 ‘똥배우’..인생 좌우명”(인터뷰③)",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260519164601343",
-          "publishedAt": "2026-05-20T02:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이훈, ‘700억 건물주’ 서장훈도 여장하는데 “내가 뭐라고..뭐든 할것” 깨달음(인터뷰②) [단독]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260520075354884",
-        "publishedAt": "2026-05-20T02:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-20T02:10:00.000Z",
-      "firstSeenAt": "2026-05-20T03:37:46.339Z",
-      "lastSeenAt": "2026-05-20T03:37:46.339Z",
-      "title": "이훈",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260520075354884"
-    },
-    {
-      "id": "2a75fc76bce5e6bb",
-      "issueKey": "매매",
-      "issueTitle": "매매",
-      "trendTitle": "매매",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "다주택 압박 안 통했나…서울 아파트값 상승률 7개월 만에 최고치",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25430256",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "다주택자 양도세 회피 물량 소화 끝‥서울 집값 2주 연속 상승폭 확대",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6824358_36932.html",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서울 부동산 본격 상승세?…“전세난에 단기 공급 부족”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8567249",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "매매",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/article/25430256",
-        "publishedAt": "2026-05-21T18:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-21T18:40:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "매매",
-      "source": "중앙일보",
-      "url": "https://www.joongang.co.kr/article/25430256"
-    },
-    {
-      "id": "194121c83c9e6a08",
-      "issueKey": "김학래",
-      "issueTitle": "김학래",
-      "trendTitle": "김학래",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김학래, 故전유성 유언 공개…\"사망 전날 장례 지시\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260521_0003639544",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김학래, 故전유성 유언 공개 \"먼저 가 있을테니 거기서 만나자고\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260521135153332",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김학래, 故 전유성 유언 공개…“사망 전날 장례 지시까지”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12053374",
-          "publishedAt": "2026-05-21T18:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김학래, 故전유성 유언 공개…\"사망 전날 장례 지시\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260521_0003639544",
-        "publishedAt": "2026-05-21T18:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-21T18:40:00.000Z",
-      "firstSeenAt": "2026-05-21T19:53:40.086Z",
-      "lastSeenAt": "2026-05-21T19:53:40.086Z",
-      "title": "김학래",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260521_0003639544"
     }
   ]
 }
