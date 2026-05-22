@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-22T19:46:11.777Z",
+  "lastUpdatedAt": "2026-05-22T22:08:01.198Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "94b794ec199f56b6",
-      "issueKey": "맨유",
-      "issueTitle": "맨유",
-      "trendTitle": "맨유",
+      "id": "15a3e03112bb23e9",
+      "issueKey": "포든",
+      "issueTitle": "포든",
+      "trendTitle": "포든",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'빅네임' 포든·파머·매과이어, 잉글랜드 최종명단 대거 낙마",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7Y446dV71s",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘잉글랜드 중앙수비 구멍 뚫리나?’ 해리 매과이어, 월드컵대표팀 최종 탈락",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/05/23/202605222226770636O",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "포든·매과이어·아놀드·파머 낙마…잉글랜드, 월드컵 최종 명단 발표",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260523_0003641751",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'빅네임' 포든·파머·매과이어, 잉글랜드 최종명단 대거 낙마",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/7Y446dV71s",
+        "publishedAt": "2026-05-22T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-22T21:00:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "포든",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/7Y446dV71s",
+      "rank": 1
+    },
+    {
+      "id": "e7acfe3dcf3d32d6",
+      "issueKey": "한미반도체",
+      "issueTitle": "한미반도체",
+      "trendTitle": "한미반도체",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "상상인證 \"한미반도체, 올해 사상 최대 실적 예상…목표가↑\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260522_0003640615",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[클릭 e종목]\"한미반도체, 2분기부터 TC본더 매출 본격 반등…목표가↑\"",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026052209485443598",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한미반도체, 11%대 급등... 왜?",
+          "source": "금강일보",
+          "url": "http://www.ggilbo.com/news/articleView.html?idxno=1159710",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "상상인證 \"한미반도체, 올해 사상 최대 실적 예상…목표가↑\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260522_0003640615",
+        "publishedAt": "2026-05-22T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-22T21:00:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "한미반도체",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260522_0003640615",
+      "rank": 2
+    },
+    {
+      "id": "99a9ac341365b7f3",
+      "issueKey": "rgti",
+      "issueTitle": "rgti",
+      "trendTitle": "rgti",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "맨유, 캐릭 감독 정식 선임 \"이제 앞으로 나아갈 시간\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3FhduuHltE",
-          "publishedAt": "2026-05-22T17:30:00.000Z",
+          "title": "Why is Rigetti Computing stock surging today?",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-rigetti-computing-stock-surging-today-93CH-4707173",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[오피셜] '아모림이 망친 팀, 레전드가 살렸다' 캐릭, 결국 정식 감독 성공... 2028년까지 계약",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/05/22/2026052220593589037",
-          "publishedAt": "2026-05-22T17:30:00.000Z",
+          "title": "RGTI: Quantum breakthroughs and major funding accelerate commercialization, with modular architectures leading",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3356582:0-rgti-quantum-breakthroughs-and-major-funding-accelerate-commercialization-with-modular-architectures-leading/",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "맨체스터 유나이티드, 카릭 감독 2028년까지 재계약 확정",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1092769",
-          "publishedAt": "2026-05-22T17:30:00.000Z",
+          "title": "Rigetti Bears Exit After Trump's Quantum Funding Fuel Rally: Short Seller Tracker",
+          "source": "Moomoo",
+          "url": "https://www.moomoo.com/community/feed/rigetti-bears-exit-after-trump-s-quantum-funding-fuel-rally-116618322444293",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "맨유, 캐릭 감독 정식 선임 \"이제 앞으로 나아갈 시간\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/3FhduuHltE",
-        "publishedAt": "2026-05-22T17:30:00.000Z",
-        "relevanceScore": 3
+        "title": "RGTI: Quantum breakthroughs and major funding accelerate commercialization, with modular architectures leading",
+        "source": "TradingView",
+        "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3356582:0-rgti-quantum-breakthroughs-and-major-funding-accelerate-commercialization-with-modular-architectures-leading/",
+        "publishedAt": "2026-05-22T21:00:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-22T17:30:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "맨유",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/3FhduuHltE",
-      "rank": 1
+      "publishedAt": "2026-05-22T21:00:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "rgti",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/news/urn:summary_document_transcript:quartr.com:3356582:0-rgti-quantum-breakthroughs-and-major-funding-accelerate-commercialization-with-modular-architectures-leading/",
+      "rank": 3
     },
     {
-      "id": "3e9a2fcf7233797d",
-      "issueKey": "이도현",
-      "issueTitle": "이도현",
-      "trendTitle": "이도현",
+      "id": "9beb99732f809261",
+      "issueKey": "상하",
+      "issueTitle": "상하",
+      "trendTitle": "상하",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "중국프로야구 트라이아웃서 한국 선수 3명 우선 지명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/G6cXuHIkGU",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'KBO 출신' 국해성 등 9명, 중국프로야구 트라이아웃서 상하이에 지명",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260522_0003641539",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“상하이 드래건스 우선 지명”…국해성 포함 9명, 중국프로야구 도전",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16068977",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'KBO 출신' 국해성 등 9명, 중국프로야구 트라이아웃서 상하이에 지명",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260522_0003641539",
+        "publishedAt": "2026-05-22T21:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-22T21:00:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "상하",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260522_0003641539",
+      "rank": 4
+    },
+    {
+      "id": "ed0e90733d1a21cf",
+      "issueKey": "과일",
+      "issueTitle": "과일",
+      "trendTitle": "과일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"사과 4알에 5만원\" 고소영이 '백화점 식품관' 고집하는 이유",
+          "source": "TV조선뉴스",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/05/22/2026052290051.html",
+          "publishedAt": "2026-05-22T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고소영 \"♥장동건과 한번 헤어졌다, 친구가 낫겠다고\"…결혼 풀스토리[이슈S]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260520113255740?t=m&amp;x_mn=6a0d2611afd4137a09ce612d",
+          "publishedAt": "2026-05-22T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "고소영, 사과 4개에 5만원 ‘플렉스’…“과일은 맛없으면 못 먹어”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260521511555",
+          "publishedAt": "2026-05-22T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고소영, 사과 4개에 5만원 ‘플렉스’…“과일은 맛없으면 못 먹어”",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260521511555",
+        "publishedAt": "2026-05-22T20:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-22T20:50:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "과일",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20260521511555",
+      "rank": 5
+    },
+    {
+      "id": "c2cec1bf7ff0a600",
+      "issueKey": "결승전",
+      "issueTitle": "결승전",
+      "trendTitle": "결승전",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "빗속에서 다시 만난 남북여자축구…수원에 울린 '공동 응원'",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964911",
+          "publishedAt": "2026-05-22T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'상금 15억' 北 내고향 vs 日 베르디, 아시아 최고 여자축구 가린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260523062900970",
+          "publishedAt": "2026-05-22T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘불편 기색’ 내비친 리유일 감독…‘내일 KBS 생중계’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8568260",
+          "publishedAt": "2026-05-22T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "결승전",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964911",
+        "publishedAt": "2026-05-22T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-22T20:40:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "결승전",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148964911",
+      "rank": 6
+    },
+    {
+      "id": "e63a12657765c64b",
+      "issueKey": "식물 기록",
+      "issueTitle": "설악산",
+      "trendTitle": "설악산",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한반도 고산대 식물 195종 총정리…생태도감 발간",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260522060311897",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "설악산 등 한반도 고산지대 식물 기록·보전",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260522084129",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"기후변화에 가장 빨리 반응\"…설악산 꼭대기 식물을 기록한 이유",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2587171",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "설악산 등 한반도 고산지대 식물 기록·보전",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260522084129",
+        "publishedAt": "2026-05-22T20:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-22T20:30:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "설악산",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260522084129",
+      "rank": 7
+    },
+    {
+      "id": "767005d1fa2edf2f",
+      "issueKey": "즉각적 휴전",
+      "issueTitle": "즉각적 휴전",
+      "trendTitle": "즉각적 휴전",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[단독] ‘1000만 배우’ 이도현, 스크린 컴백 ‘우리 태양을 흔들자’ 주인공",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12299430",
-          "publishedAt": "2026-05-22T16:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이도현·김민하, 시한부 로맨스 예고 \"'우리 태양을 흔들자' 긍정 검토\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260522n21285",
-          "publishedAt": "2026-05-22T16:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이도현, 전역 1년 만에 전한 차기작 소식…’1000만’ 파묘 이후 ‘2년 만’",
-          "source": "TV리포트",
-          "url": "https://tvreport.co.kr/entertainment/article/1047002/",
-          "publishedAt": "2026-05-22T16:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독] ‘1000만 배우’ 이도현, 스크린 컴백 ‘우리 태양을 흔들자’ 주인공",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12299430",
-        "publishedAt": "2026-05-22T16:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-22T16:40:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "이도현",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12299430",
-      "rank": 2
-    },
-    {
-      "id": "d24e93bf93af1f39",
-      "issueKey": "대통령",
-      "issueTitle": "대통령",
-      "trendTitle": "대통령",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "청와대 “소방청장 감찰 착수…이 대통령, 즉각 진상 확인 지시”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8568076",
-          "publishedAt": "2026-05-22T16:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "소방청장 감찰 내부당혹…\"관용차 부적절 이용·갑질의혹 거론\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260522159251530",
-          "publishedAt": "2026-05-22T16:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "李대통령, 소방청장 감찰지시…개인 비위로 추정",
+          "title": "\"즉각적 휴전·호르무즈 개방... 美·이란 합의문 초안 곧 발표\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/politics/politics_general/2026/05/22/MCFS2WV2CVALZOP3PZ266DQJWU/",
-          "publishedAt": "2026-05-22T16:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "청와대 “소방청장 감찰 착수…이 대통령, 즉각 진상 확인 지시”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8568076",
-        "publishedAt": "2026-05-22T16:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-22T16:20:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "대통령",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8568076",
-      "rank": 3
-    },
-    {
-      "id": "3f524cdc07a11d7c",
-      "issueKey": "f1",
-      "issueTitle": "f1",
-      "trendTitle": "f1",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Williams reveal extent of car damage after Alex Albon kills marmot",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/williams-reveal-extent-of-car-damage-after-alex-albon-kills-marmot",
-          "publishedAt": "2026-05-22T15:40:00.000Z",
+          "url": "https://www.chosun.com/international/international_general/2026/05/22/QSQLA75Y7NBO7F33CTSYYQPS5I/",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "2026 Canadian GP FP1: Russell taps the barrier after late spin",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/video/2026-canadian-gp-fp1-russell-taps-the-barrier-after-late-spin.1865915577328583427",
-          "publishedAt": "2026-05-22T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "F1 – Antonelli sets the pace in single Montréal practice session halted by three red flags",
-          "source": "Federation Internationale de l'Automobile",
-          "url": "https://www.fia.com/news/f1-antonelli-sets-pace-single-montreal-practice-session-halted-three-red-flags",
-          "publishedAt": "2026-05-22T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "F1 – Antonelli sets the pace in single Montréal practice session halted by three red flags",
-        "source": "Federation Internationale de l'Automobile",
-        "url": "https://www.fia.com/news/f1-antonelli-sets-pace-single-montreal-practice-session-halted-three-red-flags",
-        "publishedAt": "2026-05-22T15:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-22T15:40:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "f1",
-      "source": "Federation Internationale de l'Automobile",
-      "url": "https://www.fia.com/news/f1-antonelli-sets-pace-single-montreal-practice-session-halted-three-red-flags",
-      "rank": 4
-    },
-    {
-      "id": "813f79d14da803f1",
-      "issueKey": "김부겸",
-      "issueTitle": "추경호",
-      "trendTitle": "추경호",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘1%’ 초박빙 선거…‘부동층 표심’이 승부 가른다",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8568131",
-          "publishedAt": "2026-05-22T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김부겸·추경호 \"대구 경제 살리겠다\" 첫 TV 토론서 자격 경쟁(종합)",
+          "title": "이란, '합의 임박설' 부인…\"핵문제 논의 없었다\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260522203757480",
-          "publishedAt": "2026-05-22T15:20:00.000Z",
+          "url": "https://v.daum.net/v/20260523062100808",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "아버지는 “김부겸” 형은 “추경호”…구자욱은 누구 지지?",
+          "title": "사우디 매체 “미-이란 종전 초안 마련…수 시간 내 발표 가능성”",
           "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1259978.html",
-          "publishedAt": "2026-05-22T15:20:00.000Z",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1260054.html",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김부겸·추경호 \"대구 경제 살리겠다\" 첫 TV 토론서 자격 경쟁(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260522203757480",
-        "publishedAt": "2026-05-22T15:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-22T15:20:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "추경호",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260522203757480",
-      "rank": 5
-    },
-    {
-      "id": "ae4d4db51ad49a0c",
-      "issueKey": "김동현",
-      "issueTitle": "김동현",
-      "trendTitle": "김동현",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘4남매 아빠’ 김동현 “아이 낳고 명품시계 다 처분…그럴 여유 없어”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/YE4IhEiPa7",
-          "publishedAt": "2026-05-22T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'20주 임신' 김동현 아내 \"오빠 얼굴 보고 만나\"…넷째까지 ♥금슬",
-          "source": "네이트 스포츠",
-          "url": "https://sports.news.nate.com/view/20260518n04196",
-          "publishedAt": "2026-05-22T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김동현, 넷째 성별 공개했다…\"또 아들 찾아와\" 2남 2녀 다둥이 아빠",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/entertainment/2026-05-22/202605220100137010009135",
-          "publishedAt": "2026-05-22T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘4남매 아빠’ 김동현 “아이 낳고 명품시계 다 처분…그럴 여유 없어”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/YE4IhEiPa7",
-        "publishedAt": "2026-05-22T15:20:00.000Z",
+        "title": "\"즉각적 휴전·호르무즈 개방... 美·이란 합의문 초안 곧 발표\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/05/22/QSQLA75Y7NBO7F33CTSYYQPS5I/",
+        "publishedAt": "2026-05-22T20:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-22T15:20:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "김동현",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/YE4IhEiPa7",
-      "rank": 6
-    },
-    {
-      "id": "7533d5f3c83e1f2d",
-      "issueKey": "화물선",
-      "issueTitle": "화물선",
-      "trendTitle": "화물선",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"러 군함, 北 무기밀수 의심 선박 호위…베트남 인근 항해중\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260522104318971",
-          "publishedAt": "2026-05-22T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“러 해군 ‘북한산 무기 운송’ 연루 화물선 호위 정황”···북·러 무기 거래 방식 변화 시사",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605221147001",
-          "publishedAt": "2026-05-22T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"러 군함, 북한 무기밀수 의심 선박 호위\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6824534_36925.html",
-          "publishedAt": "2026-05-22T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“러 해군 ‘북한산 무기 운송’ 연루 화물선 호위 정황”···북·러 무기 거래 방식 변화 시사",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202605221147001",
-        "publishedAt": "2026-05-22T15:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-22T15:10:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "화물선",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202605221147001",
-      "rank": 7
-    },
-    {
-      "id": "749fb835159a3f2b",
-      "issueKey": "노무현",
-      "issueTitle": "노무현",
-      "trendTitle": "노무현",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "노무현 전 대통령 17주기 앞둔 봉하마을…'노란색 추모 물결'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260522093500052",
-          "publishedAt": "2026-05-22T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "민주당, ‘노무현 서거 17주기’ 봉하마을 추도식 참석",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8568405",
-          "publishedAt": "2026-05-22T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "노무현 좇아 500km 봉하까지 걷고, 또 걷고... 일흔다섯 '할매'의 고백",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260522161305260?f=p",
-          "publishedAt": "2026-05-22T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "노무현 전 대통령 17주기 앞둔 봉하마을…'노란색 추모 물결'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260522093500052",
-        "publishedAt": "2026-05-22T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-22T15:00:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "노무현",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260522093500052",
+      "publishedAt": "2026-05-22T20:30:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "즉각적 휴전",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/international/international_general/2026/05/22/QSQLA75Y7NBO7F33CTSYYQPS5I/",
       "rank": 8
     },
     {
-      "id": "396fc02d8fd91ad2",
-      "issueKey": "이선민",
-      "issueTitle": "이선민",
-      "trendTitle": "이선민",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "2956f88f102ed8c4",
+      "issueKey": "캡틴 로메로",
+      "issueTitle": "캡틴 로메로",
+      "trendTitle": "캡틴 로메로",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'나혼산' 이선민 \"진짜 미혼, 자취 19년 차…지드래곤과 동갑\"",
+          "title": "토트넘 역대 최악의 주장 확정, 손흥민과 차원이 다르다...\"캡틴 로메로, 잔류 결정전 대신 아르헨 친정팀 방문\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260523001602695",
-          "publishedAt": "2026-05-22T15:00:00.000Z",
+          "url": "https://v.daum.net/v/5fXPy5lwyE",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'대세 개그맨' 이선민, 자신만만 자기소개 \"진짜 미혼, 올리브색 눈동자, 지드래곤과 동갑\" ('나혼산') [순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/23/HA2TQZTBMM2DEODBMM2DOMLGMU/",
-          "publishedAt": "2026-05-22T15:00:00.000Z",
+          "title": "'토트넘 강등보다 내 고향 우승이 즐겁지' 로메로 런던 떠났다...매디슨은 \"강등 잔류 경쟁하는 것, 부끄러운 줄 알아야\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/05/23/202605221610774920O",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘확신의 기혼상’ 이선민, 자취 19년 차 요리 실력 자랑 (나 혼자 산다)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/505896",
-          "publishedAt": "2026-05-22T15:00:00.000Z",
+          "title": "‘손흥민 찬스’ 안 통했다, 추락한 민심→시위로 번졌다 “잔류 상관 없이 수뇌부에 맞선다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202605212034003",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'나혼산' 이선민 \"진짜 미혼, 자취 19년 차…지드래곤과 동갑\"",
+        "title": "토트넘 역대 최악의 주장 확정, 손흥민과 차원이 다르다...\"캡틴 로메로, 잔류 결정전 대신 아르헨 친정팀 방문\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260523001602695",
-        "publishedAt": "2026-05-22T15:00:00.000Z",
+        "url": "https://v.daum.net/v/5fXPy5lwyE",
+        "publishedAt": "2026-05-22T20:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-22T15:00:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "이선민",
+      "publishedAt": "2026-05-22T20:20:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "캡틴 로메로",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260523001602695",
+      "url": "https://v.daum.net/v/5fXPy5lwyE",
       "rank": 9
     },
     {
-      "id": "bcf3991b734a41e9",
-      "issueKey": "항공모함",
-      "issueTitle": "항공모함",
-      "trendTitle": "항공모함",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "f40a57b091c609f3",
+      "issueKey": "김지민",
+      "issueTitle": "김지민",
+      "trendTitle": "김지민",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "美, '쿠바 정권 돈줄' 군부 재벌 여동생 전격 체포",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260522076400009",
-          "publishedAt": "2026-05-22T14:50:00.000Z",
+          "title": "김지민 \"채팅으로 남자 만나…잘생겨서 좋아해\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260522_0003641282",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "역시 내가 나서야 하나...트럼프 \"60년 만의 쿠바 개입, 내가 할 듯\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12299461",
-          "publishedAt": "2026-05-22T14:50:00.000Z",
+          "title": "‘이호선의 사이다’ 이호선 “내가 잘하는 게 아니라, 남편이 잘한다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202605230531003",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[W 언박싱] 카스트로 수갑 ‘철컹’?…쿠바 턱밑 진격한 ‘미 항모’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8568382",
-          "publishedAt": "2026-05-22T14:50:00.000Z",
+          "title": "'김준호 아내' 김지민 \"채팅男 만나 봤다..잘생겨서 좋아해\" ('이호선의 사이다')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260522142955598",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "항공모함",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260522076400009",
-        "publishedAt": "2026-05-22T14:50:00.000Z",
+        "title": "김지민 \"채팅으로 남자 만나…잘생겨서 좋아해\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260522_0003641282",
+        "publishedAt": "2026-05-22T20:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-22T14:50:00.000Z",
-      "firstSeenAt": "2026-05-22T19:46:11.777Z",
-      "lastSeenAt": "2026-05-22T19:46:11.777Z",
-      "title": "항공모함",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260522076400009",
+      "publishedAt": "2026-05-22T20:20:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "김지민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260522_0003641282",
       "rank": 10
     }
   ],
@@ -690,52 +690,6 @@
       "url": "https://www.donga.com/news/Politics/article/all/20260521/133966044/2"
     },
     {
-      "id": "2dd3800b535c6855",
-      "issueKey": "우원식",
-      "issueTitle": "우원식",
-      "trendTitle": "우원식",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "女축구 수원 통한의 PK 실축... 北, 인공기 펼치며 웃었다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/05/20/OD56SB4RPRGTZPI5SJEQUU3AA4/",
-          "publishedAt": "2026-05-20T17:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "수원과 결승 진출권 두고 붇는 내고향여자축구단",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260520_0021290866",
-          "publishedAt": "2026-05-20T17:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'PK 실축' 수원FC, 북한 내고향에 1-2 역전패…AWCL 결승행 불발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260520186200007",
-          "publishedAt": "2026-05-20T17:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "우원식",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/05/20/OD56SB4RPRGTZPI5SJEQUU3AA4/",
-        "publishedAt": "2026-05-20T17:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-20T17:00:00.000Z",
-      "firstSeenAt": "2026-05-20T20:15:32.455Z",
-      "lastSeenAt": "2026-05-20T20:15:32.455Z",
-      "title": "우원식",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/football/2026/05/20/OD56SB4RPRGTZPI5SJEQUU3AA4/"
-    },
-    {
       "id": "593b84aa70a3f1c0",
       "issueKey": "대통령",
       "issueTitle": "대통령",
@@ -801,6 +755,98 @@
       "title": "대통령",
       "source": "KBS 뉴스",
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8568076"
+    },
+    {
+      "id": "15a3e03112bb23e9",
+      "issueKey": "포든",
+      "issueTitle": "포든",
+      "trendTitle": "포든",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'빅네임' 포든·파머·매과이어, 잉글랜드 최종명단 대거 낙마",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7Y446dV71s",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘잉글랜드 중앙수비 구멍 뚫리나?’ 해리 매과이어, 월드컵대표팀 최종 탈락",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/05/23/202605222226770636O",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "포든·매과이어·아놀드·파머 낙마…잉글랜드, 월드컵 최종 명단 발표",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260523_0003641751",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'빅네임' 포든·파머·매과이어, 잉글랜드 최종명단 대거 낙마",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/7Y446dV71s",
+        "publishedAt": "2026-05-22T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-22T21:00:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "포든",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/7Y446dV71s"
+    },
+    {
+      "id": "2956f88f102ed8c4",
+      "issueKey": "캡틴 로메로",
+      "issueTitle": "캡틴 로메로",
+      "trendTitle": "캡틴 로메로",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "토트넘 역대 최악의 주장 확정, 손흥민과 차원이 다르다...\"캡틴 로메로, 잔류 결정전 대신 아르헨 친정팀 방문\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5fXPy5lwyE",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'토트넘 강등보다 내 고향 우승이 즐겁지' 로메로 런던 떠났다...매디슨은 \"강등 잔류 경쟁하는 것, 부끄러운 줄 알아야\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/05/23/202605221610774920O",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘손흥민 찬스’ 안 통했다, 추락한 민심→시위로 번졌다 “잔류 상관 없이 수뇌부에 맞선다”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202605212034003",
+          "publishedAt": "2026-05-22T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "토트넘 역대 최악의 주장 확정, 손흥민과 차원이 다르다...\"캡틴 로메로, 잔류 결정전 대신 아르헨 친정팀 방문\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/5fXPy5lwyE",
+        "publishedAt": "2026-05-22T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-22T20:20:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "캡틴 로메로",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/5fXPy5lwyE"
     },
     {
       "id": "553b750564c35a72",
@@ -1125,98 +1171,6 @@
       "url": "https://globalnews.ca/news/11857542/warm-weather-maritimes/"
     },
     {
-      "id": "fd7ce0e97f6dc176",
-      "issueKey": "유로파",
-      "issueTitle": "유로파",
-      "trendTitle": "유로파",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "손흥민 울었던 영광의 무대…복병과 유로파의 제왕 사이에 섰다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260520174802169",
-          "publishedAt": "2026-05-20T18:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Turkey Europa League Final Soccer",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260521n01673?mid=n1101",
-          "publishedAt": "2026-05-20T18:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유럽축구 새 역사 노리는 EPL! 챔스·유로파·컨퍼런스 '싹쓸이 도전'…애스턴 빌라, 21일 유로파리그 우승 사냥",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026052023212601458",
-          "publishedAt": "2026-05-20T18:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "손흥민 울었던 영광의 무대…복병과 유로파의 제왕 사이에 섰다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260520174802169",
-        "publishedAt": "2026-05-20T18:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-20T18:10:00.000Z",
-      "firstSeenAt": "2026-05-20T20:15:32.455Z",
-      "lastSeenAt": "2026-05-20T20:15:32.455Z",
-      "title": "유로파",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260520174802169"
-    },
-    {
-      "id": "510bdc2c2072af66",
-      "issueKey": "선우용여",
-      "issueTitle": "선우용여",
-      "trendTitle": "선우용여",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "선우용여, 전원주와 함께 600평대 땅 소유 \"돈 없어 집 못 지어\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/20/HE2DMNZTGYYGGMTBGA2TQNZSGQ/",
-          "publishedAt": "2026-05-20T17:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'주식 귀재' 전원주, 부동산 문외한 아니었다 \"양평 땅 350평 소유\"('순풍 선우용여')[순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260520192111181",
-          "publishedAt": "2026-05-20T17:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "선우용여, 불륜 커플에 \"무슨 상관, 애 많이 낳아라\"('순풍 선우용여')",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260520032342139",
-          "publishedAt": "2026-05-20T17:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "선우용여, 전원주와 함께 600평대 땅 소유 \"돈 없어 집 못 지어\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/20/HE2DMNZTGYYGGMTBGA2TQNZSGQ/",
-        "publishedAt": "2026-05-20T17:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-20T17:10:00.000Z",
-      "firstSeenAt": "2026-05-20T20:15:32.455Z",
-      "lastSeenAt": "2026-05-20T20:15:32.455Z",
-      "title": "선우용여",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/20/HE2DMNZTGYYGGMTBGA2TQNZSGQ/"
-    },
-    {
       "id": "0bda61a54af46aab",
       "issueKey": "mlb",
       "issueTitle": "mlb",
@@ -1282,6 +1236,98 @@
       "title": "mlb",
       "source": "NPR",
       "url": "https://www.npr.org/2026/05/20/nx-s1-5828213/shirtless-fans-mlb-tarps-off-baseball"
+    },
+    {
+      "id": "e7acfe3dcf3d32d6",
+      "issueKey": "한미반도체",
+      "issueTitle": "한미반도체",
+      "trendTitle": "한미반도체",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "상상인證 \"한미반도체, 올해 사상 최대 실적 예상…목표가↑\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260522_0003640615",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[클릭 e종목]\"한미반도체, 2분기부터 TC본더 매출 본격 반등…목표가↑\"",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026052209485443598",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한미반도체, 11%대 급등... 왜?",
+          "source": "금강일보",
+          "url": "http://www.ggilbo.com/news/articleView.html?idxno=1159710",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "상상인證 \"한미반도체, 올해 사상 최대 실적 예상…목표가↑\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260522_0003640615",
+        "publishedAt": "2026-05-22T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-22T21:00:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "한미반도체",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260522_0003640615"
+    },
+    {
+      "id": "ed0e90733d1a21cf",
+      "issueKey": "과일",
+      "issueTitle": "과일",
+      "trendTitle": "과일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"사과 4알에 5만원\" 고소영이 '백화점 식품관' 고집하는 이유",
+          "source": "TV조선뉴스",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/05/22/2026052290051.html",
+          "publishedAt": "2026-05-22T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고소영 \"♥장동건과 한번 헤어졌다, 친구가 낫겠다고\"…결혼 풀스토리[이슈S]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260520113255740?t=m&amp;x_mn=6a0d2611afd4137a09ce612d",
+          "publishedAt": "2026-05-22T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "고소영, 사과 4개에 5만원 ‘플렉스’…“과일은 맛없으면 못 먹어”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260521511555",
+          "publishedAt": "2026-05-22T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고소영, 사과 4개에 5만원 ‘플렉스’…“과일은 맛없으면 못 먹어”",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260521511555",
+        "publishedAt": "2026-05-22T20:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-22T20:50:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "과일",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20260521511555"
     },
     {
       "id": "749fb835159a3f2b",
@@ -1882,52 +1928,6 @@
       "url": "https://seekingalpha.com/article/4907161-ionq-the-only-quantum-stock-im-considering-rating-upgrade"
     },
     {
-      "id": "9fde88bdb6d1edca",
-      "issueKey": "스핀오프",
-      "issueTitle": "스핀오프",
-      "trendTitle": "스핀오프",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "포즈 취하는 무명전설 TOP7 영광의 주역들",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260520_0021289596",
-          "publishedAt": "2026-05-20T16:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]무명전설 톱7 기자간담회",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/05/20/GFRWIOBWGNRWGZDCGQ4TOMJSGU/",
-          "publishedAt": "2026-05-20T16:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘무명전설’ 시즌2 확정…디너쇼·다큐·스핀오프·전국투어 ‘풀가동’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202605201250003",
-          "publishedAt": "2026-05-20T16:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘무명전설’ 시즌2 확정…디너쇼·다큐·스핀오프·전국투어 ‘풀가동’",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202605201250003",
-        "publishedAt": "2026-05-20T16:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-20T16:50:00.000Z",
-      "firstSeenAt": "2026-05-20T20:15:32.455Z",
-      "lastSeenAt": "2026-05-20T20:15:32.455Z",
-      "title": "스핀오프",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202605201250003"
-    },
-    {
       "id": "396fc02d8fd91ad2",
       "issueKey": "이선민",
       "issueTitle": "이선민",
@@ -1986,6 +1986,98 @@
       "title": "이선민",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260523003504974"
+    },
+    {
+      "id": "9beb99732f809261",
+      "issueKey": "상하",
+      "issueTitle": "상하",
+      "trendTitle": "상하",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "중국프로야구 트라이아웃서 한국 선수 3명 우선 지명",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/G6cXuHIkGU",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'KBO 출신' 국해성 등 9명, 중국프로야구 트라이아웃서 상하이에 지명",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260522_0003641539",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“상하이 드래건스 우선 지명”…국해성 포함 9명, 중국프로야구 도전",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16068977",
+          "publishedAt": "2026-05-22T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'KBO 출신' 국해성 등 9명, 중국프로야구 트라이아웃서 상하이에 지명",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260522_0003641539",
+        "publishedAt": "2026-05-22T21:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-22T21:00:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "상하",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260522_0003641539"
+    },
+    {
+      "id": "e63a12657765c64b",
+      "issueKey": "식물 기록",
+      "issueTitle": "설악산",
+      "trendTitle": "설악산",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한반도 고산대 식물 195종 총정리…생태도감 발간",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260522060311897",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "설악산 등 한반도 고산지대 식물 기록·보전",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260522084129",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"기후변화에 가장 빨리 반응\"…설악산 꼭대기 식물을 기록한 이유",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2587171",
+          "publishedAt": "2026-05-22T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "설악산 등 한반도 고산지대 식물 기록·보전",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260522084129",
+        "publishedAt": "2026-05-22T20:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-22T20:30:00.000Z",
+      "firstSeenAt": "2026-05-22T22:08:01.198Z",
+      "lastSeenAt": "2026-05-22T22:08:01.198Z",
+      "title": "설악산",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260522084129"
     },
     {
       "id": "ae4d4db51ad49a0c",
@@ -2308,98 +2400,6 @@
       "title": "해운대 모래축제",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260522_0003640841"
-    },
-    {
-      "id": "55654bf1f509e16a",
-      "issueKey": "클래스",
-      "issueTitle": "클래스",
-      "trendTitle": "클래스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "벤츠 신형 S-클래스·마이바흐, 사전계약 나흘 만에 1000대 돌파···가격은?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605221456001",
-          "publishedAt": "2026-05-22T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "부분변경 ‘더 뉴 메르세데스-벤츠 S-클래스’ 및 ‘더 뉴 메르세데스-마이바흐 S-클래스’ 사전 계약 1천건 돌파",
-          "source": "다나와 자동차",
-          "url": "https://auto.danawa.com/news/?Work=detail&amp;no=6013438&amp;Tab=N1",
-          "publishedAt": "2026-05-22T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "벤츠코리아, 신형 S-클래스 사전계약 나흘만에 '1000대'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260522112901807",
-          "publishedAt": "2026-05-22T08:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "벤츠 신형 S-클래스·마이바흐, 사전계약 나흘 만에 1000대 돌파···가격은?",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202605221456001",
-        "publishedAt": "2026-05-22T08:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-22T08:00:00.000Z",
-      "firstSeenAt": "2026-05-22T09:25:40.018Z",
-      "lastSeenAt": "2026-05-22T09:25:40.018Z",
-      "title": "클래스",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202605221456001"
-    },
-    {
-      "id": "02b5070e1c794998",
-      "issueKey": "대한항공",
-      "issueTitle": "대한항공",
-      "trendTitle": "대한항공",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "티웨이항공, ‘트리니티항공’으로 다시 난다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260521161701323",
-          "publishedAt": "2026-05-22T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "티웨이홀딩스, 사명 변경으로 이미지 개선 기대감↑…3일 연속 상한가",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/05/21/2026052109370884649",
-          "publishedAt": "2026-05-22T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "오후 이슈 [항공] : 티웨이홀딩스, 트리니티항공, 한진칼, 대한항공, 켄코아에어로스페이스",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202605211500377595",
-          "publishedAt": "2026-05-22T08:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "오후 이슈 [항공] : 티웨이홀딩스, 트리니티항공, 한진칼, 대한항공, 켄코아에어로스페이스",
-        "source": "파이낸셜뉴스",
-        "url": "https://www.fnnews.com/news/202605211500377595",
-        "publishedAt": "2026-05-22T08:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-22T08:00:00.000Z",
-      "firstSeenAt": "2026-05-22T09:25:40.018Z",
-      "lastSeenAt": "2026-05-22T09:25:40.018Z",
-      "title": "대한항공",
-      "source": "파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202605211500377595"
     }
   ]
 }
