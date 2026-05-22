@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-05-22T03:42:27.147Z",
+  "lastUpdatedAt": "2026-05-22T09:25:40.018Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "NneUUF1aSDo",
-      "title": "AI 시대 개발자의 필수 덕목, SOLID 디자인패턴 실전 Part.3 - 알쓸유잡 2026.05",
-      "url": "https://www.youtube.com/watch?v=NneUUF1aSDo",
-      "publishedAt": "2026-05-20T20:36:18.000Z",
-      "thumbnailUrl": "https://i3.ytimg.com/vi/NneUUF1aSDo/hqdefault.jpg"
+      "id": "eXgMHUu9bls",
+      "title": "[2D 게임 개발 꿀팁 시리즈] 텍스처",
+      "url": "https://www.youtube.com/shorts/eXgMHUu9bls",
+      "publishedAt": "2026-05-22T05:44:57.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/eXgMHUu9bls/hqdefault.jpg"
     },
     {
-      "id": "lStxewSNxNA",
-      "title": "[2D 게임 개발 꿀팁 시리즈] 2D 애니메이션",
-      "url": "https://www.youtube.com/shorts/lStxewSNxNA",
-      "publishedAt": "2026-05-20T07:34:21.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/lStxewSNxNA/hqdefault.jpg"
+      "id": "6Ik94spWREI",
+      "title": "Unity AI와 함께하는 리팩토링 생산성 혁신",
+      "url": "https://www.youtube.com/watch?v=6Ik94spWREI",
+      "publishedAt": "2026-05-22T02:05:44.000Z",
+      "thumbnailUrl": "https://i3.ytimg.com/vi/6Ik94spWREI/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
