@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-05-24T08:29:50.317Z",
+  "lastUpdatedAt": "2026-05-24T10:41:32.148Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -11,32 +11,9 @@
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 2 2026",
-  "primaryBlockName": "Week 8",
+  "primaryBlockName": "Week 9",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115548128962971891",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 8",
-      "startTime": "2026-05-24T10:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "HANJIN BRION",
-          "code": "BRO",
-          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-        },
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128962971863",
       "leagueKey": "lck",
@@ -289,6 +266,29 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128963037569",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-06-07T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     }
   ],
   "fetchedLeagues": [
@@ -296,7 +296,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 16
+      "matchCount": 15
     },
     {
       "key": "ewc",
