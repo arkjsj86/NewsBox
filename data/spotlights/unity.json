@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-05-26T03:36:47.847Z",
+  "lastUpdatedAt": "2026-05-26T09:57:21.873Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "-SQtbs9tyxw",
+      "title": "[2D 게임 개발 꿀팁 시리즈] 2D 애니메이션 샘플",
+      "url": "https://www.youtube.com/shorts/-SQtbs9tyxw",
+      "publishedAt": "2026-05-26T05:33:50.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/-SQtbs9tyxw/hqdefault.jpg"
+    },
+    {
       "id": "eXgMHUu9bls",
       "title": "[2D 게임 개발 꿀팁 시리즈] 텍스처",
       "url": "https://www.youtube.com/shorts/eXgMHUu9bls",
       "publishedAt": "2026-05-22T05:44:57.000Z",
       "thumbnailUrl": "https://i2.ytimg.com/vi/eXgMHUu9bls/hqdefault.jpg"
-    },
-    {
-      "id": "6Ik94spWREI",
-      "title": "Unity AI와 함께하는 리팩토링 생산성 혁신",
-      "url": "https://www.youtube.com/watch?v=6Ik94spWREI",
-      "publishedAt": "2026-05-22T02:05:44.000Z",
-      "thumbnailUrl": "https://i3.ytimg.com/vi/6Ik94spWREI/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
