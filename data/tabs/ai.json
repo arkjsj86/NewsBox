@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-05-26T22:19:44.277Z",
+  "lastUpdatedAt": "2026-05-27T03:53:54.877Z",
   "articleCount": 13,
   "articles": [
+    {
+      "id": "01f5eaf97506ce7f",
+      "title": "코드는 AI가 짠다, 책임은 누가 지나",
+      "url": "https://www.itworld.co.kr/article/4177478/%ec%bd%94%eb%93%9c%eb%8a%94-ai%ea%b0%80-%ec%a7%a0%eb%8b%a4-%ec%b1%85%ec%9e%84%ec%9d%80-%eb%88%84%ea%b0%80-%ec%a7%80%eb%82%98.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-27T02:51:54.000Z",
+      "summary": "반발은 예정된 수순이었다. 지난 1년간 실리콘밸리는 소프트웨어 개발이 ‘프롬프트 입력 후 즉시 배포’하는 작업으로 변모하기 직전이라고 외쳐왔다. 원하는 것을 설명하면 AI 코딩 에이전트가 알아서 만들어 준다는 것이다. 물론 결과물을 승인할 시니어 엔지니어 몇 명쯤은 남겨둘 수도 있겠지만, 꼭 그럴 필요도 없다는 분위기다. 구글 CEO 순다르 피차이는 구글의 신규 코드 중 75%가 이제...",
+      "tab": "ai"
+    },
+    {
+      "id": "7e6d5879279397dd",
+      "title": "클라우드 빅3, 마케팅 차별화 뒤엔 ‘상품화된 인프라’ 있어",
+      "url": "https://www.itworld.co.kr/article/4177435/%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%b9%853-%eb%a7%88%ec%bc%80%ed%8c%85-%ec%b0%a8%eb%b3%84%ed%99%94-%eb%92%a4%ec%97%94-%ec%83%81%ed%92%88%ed%99%94%eb%90%9c-%ec%9d%b8%ed%94%84%eb%9d%bc.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-27T00:51:06.000Z",
+      "summary": "매년 클라우드 컨퍼런스가 열리면 새로운 기능, 서비스, 에코시스템 확장, 기업 IT 판도를 바꿀 것이라는 발표가 쏟아진다. 물론 이런 혁신은 의미가 있다. 그러나 한 발 물러서서 대다수 기업이 실제로 퍼블릭 클라우드를 어떻게 소비하는지 살펴보면, 실질적으로 중요한 영역에서 빅3 클라우드 업체는 사실상 동일하다. 이 발언이 불편하게 들린다면 이유가 있다. 시장이 AI 서비스, 데이터베이스...",
+      "tab": "ai"
+    },
     {
       "id": "25e308ae185942bb",
       "title": "애플 실리콘을 뚫은 AI, 양자 컴퓨터와 AI 결합은 이제 시작일 뿐",
@@ -104,24 +122,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-05-19T04:03:35.000Z",
       "summary": "한글과컴퓨터(이하 한컴)가 19일 서울 여의도 페어몬트호텔에서 전략 발표회 ‘HANCOM : THE SHIFT’를 개최하고, ‘소버린 에이전틱 운영체제(Sovereign Agentic OS)’ 기업으로의 전환을 공식 선언했다. 창사 36년 만에 사명을 ‘한컴(HANCOM)’으로 변경하고, AI 에이전트의 운영과 조율을 총괄하는 글로벌 에이전틱 OS 기업으로 도약한다는 청사진을 내놓았다....",
-      "tab": "ai"
-    },
-    {
-      "id": "1b8e71fdabbd20af",
-      "title": "오픈텍스트, 버티카 매각으로 AI·클라우드 사업 집중",
-      "url": "https://www.itworld.co.kr/article/4172709/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%b2%84%ed%8b%b0%ec%b9%b4-%eb%a7%a4%ea%b0%81%ec%9c%bc%eb%a1%9c-ai%c2%b7%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%82%ac%ec%97%85-%ec%a7%91%ec%a4%91.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-19T03:51:54.000Z",
-      "summary": "글로벌 정보관리 소프트웨어 기업 오픈텍스트가 데이터 분석 플랫폼 ‘버티카(Vertica)’ 사업부를 로켓소프트웨어(Rocket Software)에 매각하는 절차를 완료했다. 거래 규모는 약 1억 5천만 달러다. 이번 매각은 오픈텍스트의 포트폴리오 재편 전략의 핵심으로, AI 기반 정보관리, 클라우드, 사이버보안 등 핵심 성장 영역에 역량을 집중하기 위한 결정이다. 매각 대금은 부채 축소...",
-      "tab": "ai"
-    },
-    {
-      "id": "b3ffa4b58f37f41f",
-      "title": "하이퍼스케일러 독점 깨지는 클라우드 용량 시장, 지형도 변한다",
-      "url": "https://www.itworld.co.kr/article/4172080/%ed%95%98%ec%9d%b4%ed%8d%bc%ec%8a%a4%ec%bc%80%ec%9d%bc%eb%9f%ac-%eb%8f%85%ec%a0%90-%ea%b9%a8%ec%a7%80%eb%8a%94-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ec%9a%a9%eb%9f%89-%ec%8b%9c%ec%9e%a5%ec%9d%98.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-18T01:32:20.000Z",
-      "summary": "AI 인프라스트럭처 제공 업체 앤트로픽과 스페이스X 간의 용량 공유 계약을 다룬 AI CERTs 기사가 눈에 띈 이유는, 클라우드 시장이 수년간 지향해왔으나 결코 온전히 수용하지 못한 가능성을 조명하기 때문이다. 전통적인 통념은 항상 단순했다. 규모의 탄력적 인프라가 필요하면 AWS, 마이크로소프트, 구글 같은 하이퍼스케일러를 찾으면 된다. 이들은 데이터센터를 소유하고, 다중 임차를 이...",
       "tab": "ai"
     }
   ]
