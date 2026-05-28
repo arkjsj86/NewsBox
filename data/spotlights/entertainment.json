@@ -7,483 +7,482 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-27T22:41:03.925Z",
+  "lastUpdatedAt": "2026-05-28T03:39:48.825Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "eb547e8df25f2690",
-      "issueKey": "iren",
-      "issueTitle": "iren",
-      "trendTitle": "iren",
+      "id": "f7ef56adc34be09e",
+      "issueKey": "라이엇 게임즈",
+      "issueTitle": "라이엇 게임즈",
+      "trendTitle": "라이엇 게임즈",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "리그 오브 레전드 26.11 패치 노트",
+          "source": "League of Legends",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-11-notes/",
+          "publishedAt": "2026-05-28T02:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "라이엇 게임즈, 'LoL' 신규 챔피언 로크 등 대규모 업데이트 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528113202722",
+          "publishedAt": "2026-05-28T02:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "롤 시즌2 어떻게 바뀌나… 신규 챔프 추가에 5인 랭크 부활",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092162901",
+          "publishedAt": "2026-05-28T02:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "라이엇 게임즈, 'LoL' 신규 챔피언 로크 등 대규모 업데이트 예고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528113202722",
+        "publishedAt": "2026-05-28T02:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-28T02:20:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "라이엇 게임즈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260528113202722",
+      "rank": 1
+    },
+    {
+      "id": "4d880f70dda3995d",
+      "issueKey": "3기신도시 남양주 왕숙지구",
+      "issueTitle": "3기신도시 남양주 왕숙지구",
+      "trendTitle": "3기신도시 남양주 왕숙지구",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "IREN Secures Blackwell Firepower To Feed Booming AI Cloud Demand",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/iren-secures-blackwell-firepower-feed-092933311.html",
-          "publishedAt": "2026-05-27T21:30:00.000Z",
+          "title": "3기신도시 남양주왕숙2 첫 공급서 특공 세자릿수 경쟁률",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260526171700003",
+          "publishedAt": "2026-05-28T02:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "IREN to buy Blackwell systems from Dell for about $1.6 billion",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/iren-buy-blackwell-systems-dell-about-16-billion-2026-05-26/",
-          "publishedAt": "2026-05-27T21:30:00.000Z",
+          "title": "왕숙 아테라 특공 흥행…오늘까지 일반공급 청약",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528094321622",
+          "publishedAt": "2026-05-28T02:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "IREN rallies after securing GPUs to boost run-rate revenues to $4.4 billion",
-          "source": "Sherwood News",
-          "url": "https://sherwood.news/markets/iren-rallies-after-securing-gpus-to-boost-run-rate-revenues-to-4-4-billion/",
-          "publishedAt": "2026-05-27T21:30:00.000Z",
+          "title": "금호건설 \"왕숙아테라 견본주택 개관 후 1만명 방문\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260526_0003643807",
+          "publishedAt": "2026-05-28T02:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "IREN Secures Blackwell Firepower To Feed Booming AI Cloud Demand",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/iren-secures-blackwell-firepower-feed-092933311.html",
-        "publishedAt": "2026-05-27T21:30:00.000Z",
+        "title": "3기신도시 남양주 왕숙지구",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260526171700003",
+        "publishedAt": "2026-05-28T02:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-27T21:30:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "iren",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/iren-secures-blackwell-firepower-feed-092933311.html",
-      "rank": 1
+      "publishedAt": "2026-05-28T02:10:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "3기신도시 남양주 왕숙지구",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260526171700003",
+      "rank": 2
     },
     {
-      "id": "00c4ae86e8e53ca3",
-      "issueKey": "에코프로",
-      "issueTitle": "에코프로",
-      "trendTitle": "에코프로",
+      "id": "c45da11dae783b8b",
+      "issueKey": "증권가 목표",
+      "issueTitle": "증권가 목표",
+      "trendTitle": "증권가 목표",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"엔비디아 수혜 반도체 아닌 2차전지…에코프로, 전고점 뚫고 무섭게 오른다\" (JW인베스트 곽유정 대표)",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/vod/3049072",
-          "publishedAt": "2026-05-27T21:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[장중수급포착] 에코프로에이치엔, 외국인 6일 연속 순매수행진... 주가 +3.59%",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260527000327",
-          "publishedAt": "2026-05-27T21:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "에코프로 주가 4,100원 하락 후 장마감",
-          "source": "아시아뉴스통신",
-          "url": "https://m.anewsa.com/article_sub3.php?number=3163070&amp;type=&amp;mobile=",
-          "publishedAt": "2026-05-27T21:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"엔비디아 수혜 반도체 아닌 2차전지…에코프로, 전고점 뚫고 무섭게 오른다\" (JW인베스트 곽유정 대표)",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/vod/3049072",
-        "publishedAt": "2026-05-27T21:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T21:30:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "에코프로",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/vod/3049072",
-      "rank": 2
-    },
-    {
-      "id": "6d1d036d5b938b36",
-      "issueKey": "부품사",
-      "issueTitle": "부품사",
-      "trendTitle": "부품사",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "피지컬 AI 뜨자 '로봇 관절' 전쟁…車부품사, 휴머노이드 공급망 선점전",
+          "title": "[특징주] 현대모비스, 증권가 목표가 줄상향 속 52주 신고가",
           "source": "Daum",
-          "url": "https://v.daum.net/v/4RyOMoPKlS",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
+          "url": "https://v.daum.net/v/20260528093208166",
+          "publishedAt": "2026-05-28T01:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"사람보다 더 사람 같다\" 축구하는 아틀라스, 드리블에 세리머니까지",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=341383",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
+          "title": "“머리 다음엔 당연히 몸이지”…피지컬AI 제대로 올라탄 이 종목",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1094758",
+          "publishedAt": "2026-05-28T01:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "손흥민 슈팅 순식간에 '복사'...월드컵 뒤집어놓을 현대차그룹 로봇 [지금이뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202605271411014020",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
+          "title": "\"현대모비스, 로보틱스 부품사 전환 긍정적…목표가↑\"[클릭 e종목]",
+          "source": "아시아경제",
+          "url": "https://core.asiae.co.kr/article/2026052717030474590",
+          "publishedAt": "2026-05-28T01:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "피지컬 AI 뜨자 '로봇 관절' 전쟁…車부품사, 휴머노이드 공급망 선점전",
+        "title": "[특징주] 현대모비스, 증권가 목표가 줄상향 속 52주 신고가",
         "source": "Daum",
-        "url": "https://v.daum.net/v/4RyOMoPKlS",
-        "publishedAt": "2026-05-27T21:20:00.000Z",
+        "url": "https://v.daum.net/v/20260528093208166",
+        "publishedAt": "2026-05-28T01:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-27T21:20:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "부품사",
+      "publishedAt": "2026-05-28T01:40:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "증권가 목표",
       "source": "Daum",
-      "url": "https://v.daum.net/v/4RyOMoPKlS",
+      "url": "https://v.daum.net/v/20260528093208166",
       "rank": 3
     },
     {
-      "id": "501820e7ca41e883",
-      "issueKey": "양평군",
-      "issueTitle": "양평군",
-      "trendTitle": "양평군",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "양평군수 당선가능성, 전진선 52.7%vs박은미 41.0% [중부일보 여론조사]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526180003612",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“양평은 이미 하고 있습니다”…전진선 후보 측, ‘재포장 공약’ 논란 정면 제기",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=704712",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "전진선 양평군수 후보 “불합리한 농업진흥구역 해제 추진”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260527580346",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "양평군수 당선가능성, 전진선 52.7%vs박은미 41.0% [중부일보 여론조사]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260526180003612",
-        "publishedAt": "2026-05-27T21:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T21:20:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "양평군",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260526180003612",
-      "rank": 4
-    },
-    {
-      "id": "4a47c870d7e01ae6",
-      "issueKey": "vix",
-      "issueTitle": "vix",
-      "trendTitle": "vix",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "The Great India Miscalculation",
-          "source": "BW Businessworld",
-          "url": "https://www.businessworld.in/article/the-great-india-miscalculation-608385",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "India Bull Case Is Falling on Deaf Ears for Now",
-          "source": "Bloomberg.com",
-          "url": "https://www.bloomberg.com/news/newsletters/2026-05-22/india-s-bull-case-has-believers-amid-the-rupee-crisis",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Global Tensions, Oil Shock & Dalal Street: Deven Choksey Breaks It Down",
-          "source": "Business Today",
-          "url": "https://www.businesstoday.in/bt-tv/market-today/video/global-tensions-oil-shock-dalal-street-deven-choksey-breaks-it-down-533487-2026-05-27",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "vix",
-        "source": "BW Businessworld",
-        "url": "https://www.businessworld.in/article/the-great-india-miscalculation-608385",
-        "publishedAt": "2026-05-27T21:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T21:20:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "vix",
-      "source": "BW Businessworld",
-      "url": "https://www.businessworld.in/article/the-great-india-miscalculation-608385",
-      "rank": 5
-    },
-    {
-      "id": "83d6df8cf4385534",
-      "issueKey": "이예원",
-      "issueTitle": "이예원",
-      "trendTitle": "이예원",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘대상 1위’ 이예원 일본行, ‘상금 1위’ 김민솔은 미국行…KLPGA 주요 타이틀 순위 격변 예고",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20048937",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'KLPGA 간판' 이예원, 2주 연속 일본에서 샷대결 [JLPGA]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20020501",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "악천후에 흐름 깨진 이예원, 일본 브리지스톤 오픈 2R 아쉽네 [JLPGA]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HZVFt5lwWQ",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘대상 1위’ 이예원 일본行, ‘상금 1위’ 김민솔은 미국行…KLPGA 주요 타이틀 순위 격변 예고",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20048937",
-        "publishedAt": "2026-05-27T21:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T21:20:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "이예원",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20048937",
-      "rank": 6
-    },
-    {
-      "id": "f10ee21742b220b7",
-      "issueKey": "다우지수 최고",
-      "issueTitle": "다우지수 최고",
-      "trendTitle": "다우지수 최고",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "뉴욕증시 3대지수 동시 최고치 마감…올해 들어 처음(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528054508060",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "미 다우지수 최고가 경신 마감…S&P500·나스닥은 보합",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8571754",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"늦게라도 올라탈 걸\" 삼전닉스 질주에 '입이 떡'...신고가 행진",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/05/27/2026052717182198132",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "미 다우지수 최고가 경신 마감…S&P500·나스닥은 보합",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8571754",
-        "publishedAt": "2026-05-27T21:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-27T21:20:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "다우지수 최고",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8571754",
-      "rank": 7
-    },
-    {
-      "id": "ed64ffbbd8e83afb",
-      "issueKey": "삼성 폴더블폰",
-      "issueTitle": "삼성 폴더블폰",
-      "trendTitle": "삼성 폴더블폰",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"화면 주름 그대로…갤럭시Z폴드8, 프라이버시 디스플레이·S펜도 미지원\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260521085007",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "삼성 폴더블폰, '갤Z폴드 울트라'로 명칭 바뀌나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526085704657?f=p",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "설마했는데…‘293만→369만원’ 삼성 접는폰 가격, 무려 ‘70만원’ 오른다?",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10755234",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성 폴더블폰, '갤Z폴드 울트라'로 명칭 바뀌나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260526085704657?f=p",
-        "publishedAt": "2026-05-27T21:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-27T21:20:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "삼성 폴더블폰",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260526085704657?f=p",
-      "rank": 8
-    },
-    {
-      "id": "af9828245df44894",
-      "issueKey": "엔솔",
-      "issueTitle": "엔솔",
-      "trendTitle": "엔솔",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "LG엔솔, 혼다 합작 美 배터리 공장 3.7兆 에 처분",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/05/26/2026052680180.html",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전력망으로 전기차 정체기 뚫는다…배터리 3사 체질개선 속도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528065137234",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "LG에너지솔루션, 북미 ‘ESS 생산 거점’ 확대… 시장 선점 속도",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/business-news/2026/05/27/20260527500088",
-          "publishedAt": "2026-05-27T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "LG엔솔, 혼다 합작 美 배터리 공장 3.7兆 에 처분",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/05/26/2026052680180.html",
-        "publishedAt": "2026-05-27T21:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T21:20:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "엔솔",
-      "source": "인베스트조선",
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/05/26/2026052680180.html",
-      "rank": 9
-    },
-    {
-      "id": "31e083f5950b1b25",
-      "issueKey": "김포시",
-      "issueTitle": "김포시",
-      "trendTitle": "김포시",
+      "id": "3d6e4adece09120f",
+      "issueKey": "시큐브",
+      "issueTitle": "시큐브",
+      "trendTitle": "자기주식",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "김포시, '기후재난 대비' 사회복지시설 안전점검",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260527142501082",
-          "publishedAt": "2026-05-27T21:10:00.000Z",
+          "title": "시큐브, 20억원 규모 자기주식 취득 결정",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04405046645453184",
+          "publishedAt": "2026-05-28T01:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "김포시, 여름철 재난 대비 ‘사회복지시설’ 안전점검",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8571246",
-          "publishedAt": "2026-05-27T21:10:00.000Z",
+          "title": "시큐브, 자사주 취득 신탁계약 체결...20억 원 규모",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/global-filings/article-93CH-1961333",
+          "publishedAt": "2026-05-28T01:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김포시, 하절기 사회복지시설 안전 점검…881곳 재난 대비 강화 - 보도자료 | 기사",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/releasecopy/2326513.htm",
-          "publishedAt": "2026-05-27T21:10:00.000Z",
+          "title": "[공시모음] 시큐브, 20억 규모 자사주 취득 外",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/162584",
+          "publishedAt": "2026-05-28T01:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김포시, '기후재난 대비' 사회복지시설 안전점검",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260527142501082",
-        "publishedAt": "2026-05-27T21:10:00.000Z",
+        "title": "시큐브, 20억원 규모 자기주식 취득 결정",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04405046645453184",
+        "publishedAt": "2026-05-28T01:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-27T21:10:00.000Z",
-      "firstSeenAt": "2026-05-27T22:41:03.925Z",
-      "lastSeenAt": "2026-05-27T22:41:03.925Z",
-      "title": "김포시",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260527142501082",
-      "rank": 10
+      "publishedAt": "2026-05-28T01:20:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "시큐브",
+      "source": "마켓인",
+      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04405046645453184",
+      "rank": 4
+    },
+    {
+      "id": "ee872f50a9711510",
+      "issueKey": "금리",
+      "issueTitle": "금리",
+      "trendTitle": "금리",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[현장영상+] 신현송 한은 총재 \"향후 적절한 시기에 기준금리 인상 필요\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202605281138181742_005.html",
+          "publishedAt": "2026-05-28T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "한국은행, 기준금리 연 2.50%로 동결‥올해 성장률 전망치 2.6%로 대폭 상향",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6825814_36932.html",
+          "publishedAt": "2026-05-28T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "금통위 의결문 ‘기준금리 인상’ 언급...금리 인상 사이클 신호탄",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/05/28/GQ7YQX52WNC2ZEUHITUBDDRRFQ/",
+          "publishedAt": "2026-05-28T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[현장영상+] 신현송 한은 총재 \"향후 적절한 시기에 기준금리 인상 필요\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0102_202605281138181742_005.html",
+        "publishedAt": "2026-05-28T01:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T01:10:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "금리",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_cs/_ln_0102_202605281138181742_005.html",
+      "rank": 5
+    },
+    {
+      "id": "9038327bd2377617",
+      "issueKey": "tiger 미국우주테크",
+      "issueTitle": "tiger 미국우주테크",
+      "trendTitle": "tiger 미국우주테크",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "사상 최대 상장 앞둔 스페이스X 지배구조 \"섬뜩\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260527_0003645085",
+          "publishedAt": "2026-05-28T01:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"스페이스X·앤트로픽 초대형 IPO, 대형 기술주 매도 부를 것\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417093",
+          "publishedAt": "2026-05-28T01:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "스페이스X 스타십 ‘V3’ 발사 중단… FAA 조사 착수",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/05/2026052807430885402bd56fbc3c_1",
+          "publishedAt": "2026-05-28T01:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "tiger 미국우주테크",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260527_0003645085",
+        "publishedAt": "2026-05-28T01:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T01:00:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "tiger 미국우주테크",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260527_0003645085",
+      "rank": 6
+    },
+    {
+      "id": "9b6834dbb2bfc221",
+      "issueKey": "의사",
+      "issueTitle": "의사",
+      "trendTitle": "의사",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[합천소식]군, 보건복지부 시니어의사 채용지원 사업 선정 등",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260527_0003645828",
+          "publishedAt": "2026-05-28T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "보성군, '시니어 의사' 진료 개시…농어촌 의료 공백 메운다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6180113",
+          "publishedAt": "2026-05-28T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "합천군, 보건복지부 시니어의사 채용지원 사업 선정",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260527500687",
+          "publishedAt": "2026-05-28T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[합천소식]군, 보건복지부 시니어의사 채용지원 사업 선정 등",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260527_0003645828",
+        "publishedAt": "2026-05-28T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T00:50:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "의사",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260527_0003645828",
+      "rank": 7
+    },
+    {
+      "id": "1e75eb0094201b6a",
+      "issueKey": "웨스 벤자민",
+      "issueTitle": "웨스 벤자민",
+      "trendTitle": "웨스 벤자민",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "잘 잡았어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260527_0021299046",
+          "publishedAt": "2026-05-28T00:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'5경기 8득점' 두산 김원형 감독 고민 가득 \"타순이 술술 안 나옵니다\"... 양의지 이틀 연속 선발 제외 [잠실 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/05NemlkLCy",
+          "publishedAt": "2026-05-28T00:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'1.5억' 12주 임시 외인 맞아? 8이닝 무실점→7이닝 무실점, 우승후보까지 격침 \"벤자민 완벽투, 덕분에 선수들 집중했다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/05/28/G43WIY3DMQ4TQYZWHFQWIOLCMY/",
+          "publishedAt": "2026-05-28T00:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "웨스 벤자민",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260527_0021299046",
+        "publishedAt": "2026-05-28T00:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T00:30:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "웨스 벤자민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260527_0021299046",
+      "rank": 8
+    },
+    {
+      "id": "3717d34d5e380bf8",
+      "issueKey": "정원오",
+      "issueTitle": "정원오",
+      "trendTitle": "정원오",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "서울 0·부산 1·대구 2%P差 ‘초초박빙’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11591904",
+          "publishedAt": "2026-05-28T00:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[르포] 투표함 열어야 드러난다…지방선거 목전까지 갈라진 서울 민심",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260527163800001",
+          "publishedAt": "2026-05-28T00:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8570423",
+          "publishedAt": "2026-05-28T00:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8570423",
+        "publishedAt": "2026-05-28T00:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-28T00:20:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "정원오",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8570423",
+      "rank": 9
     }
   ],
   "history": [
+    {
+      "id": "3717d34d5e380bf8",
+      "issueKey": "정원오",
+      "issueTitle": "정원오",
+      "trendTitle": "정원오",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "서울 0·부산 1·대구 2%P差 ‘초초박빙’",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11591904",
+          "publishedAt": "2026-05-28T00:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[르포] 투표함 열어야 드러난다…지방선거 목전까지 갈라진 서울 민심",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260527163800001",
+          "publishedAt": "2026-05-28T00:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8570423",
+          "publishedAt": "2026-05-28T00:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "D-8 KBS 여론조사…정원오 42%·오세훈 36% 오차범위 내 접전",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8570423",
+        "publishedAt": "2026-05-28T00:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-28T00:20:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "정원오",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8570423"
+    },
     {
       "id": "ea150b0a003c9a38",
       "issueKey": "원자력 잠수함",
@@ -621,52 +620,6 @@
       "title": "포수 최재훈",
       "source": "머니투데이",
       "url": "https://www.mt.co.kr/sports/2026/05/24/202605241140777411O"
-    },
-    {
-      "id": "fddfb1d4f74de621",
-      "issueKey": "미군",
-      "issueTitle": "미군",
-      "trendTitle": "미군",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "미군, 호르무즈 인근 이란 남부 타격…\"병력 보호 차원\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/05/26/IPQF4ZFIFRBZNFHWB3G434JIB4/",
-          "publishedAt": "2026-05-26T02:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "미군, 호르무즈 인근 이란남부서 공격 단행‥\"자위권 차원\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6825194_36925.html",
-          "publishedAt": "2026-05-26T02:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "미군, 이란 남부서 “자위적 공습”…휴전 협상 중에",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1260352.html",
-          "publishedAt": "2026-05-26T02:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "미군, 호르무즈 인근 이란 남부 타격…\"병력 보호 차원\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/05/26/IPQF4ZFIFRBZNFHWB3G434JIB4/",
-        "publishedAt": "2026-05-26T02:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-26T02:10:00.000Z",
-      "firstSeenAt": "2026-05-26T03:36:47.847Z",
-      "lastSeenAt": "2026-05-26T03:36:47.847Z",
-      "title": "미군",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/international/international_general/2026/05/26/IPQF4ZFIFRBZNFHWB3G434JIB4/"
     },
     {
       "id": "73b47d6729b4db77",
@@ -1334,6 +1287,52 @@
       "url": "https://www.chosun.com/sports/baseball/2026/05/26/GBRGKZTBG43TMMBTGU3WMZLGGI/"
     },
     {
+      "id": "1e75eb0094201b6a",
+      "issueKey": "웨스 벤자민",
+      "issueTitle": "웨스 벤자민",
+      "trendTitle": "웨스 벤자민",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "잘 잡았어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260527_0021299046",
+          "publishedAt": "2026-05-28T00:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'5경기 8득점' 두산 김원형 감독 고민 가득 \"타순이 술술 안 나옵니다\"... 양의지 이틀 연속 선발 제외 [잠실 현장]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/05NemlkLCy",
+          "publishedAt": "2026-05-28T00:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'1.5억' 12주 임시 외인 맞아? 8이닝 무실점→7이닝 무실점, 우승후보까지 격침 \"벤자민 완벽투, 덕분에 선수들 집중했다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/05/28/G43WIY3DMQ4TQYZWHFQWIOLCMY/",
+          "publishedAt": "2026-05-28T00:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "웨스 벤자민",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISI20260527_0021299046",
+        "publishedAt": "2026-05-28T00:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T00:30:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "웨스 벤자민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISI20260527_0021299046"
+    },
+    {
       "id": "2846ab19fed57285",
       "issueKey": "이강인",
       "issueTitle": "이강인",
@@ -1794,50 +1793,96 @@
       "url": "https://v.daum.net/v/20260526135817314"
     },
     {
-      "id": "6f3216915fb32ebf",
-      "issueKey": "골프 카트",
-      "issueTitle": "골프 카트",
-      "trendTitle": "골프 카트",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "f7ef56adc34be09e",
+      "issueKey": "라이엇 게임즈",
+      "issueTitle": "라이엇 게임즈",
+      "trendTitle": "라이엇 게임즈",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“안 타는데 돈을 왜 내요?”…골퍼들 뒷목 잡게 한 카트비 ‘악마의 옵션’ [권준영의 머니볼]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260526500281",
-          "publishedAt": "2026-05-26T02:00:00.000Z",
+          "title": "리그 오브 레전드 26.11 패치 노트",
+          "source": "League of Legends",
+          "url": "https://www.leagueoflegends.com/ko-kr/news/game-updates/league-of-legends-patch-26-11-notes/",
+          "publishedAt": "2026-05-28T02:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "한국대중골프장협회, 5월 전문경영인회 개최, “안전관리·정보보안 강화”",
-          "source": "레저신문",
-          "url": "https://www.golftimes.co.kr/news/articleView.html?idxno=200734",
-          "publishedAt": "2026-05-26T02:00:00.000Z",
+          "title": "라이엇 게임즈, 'LoL' 신규 챔피언 로크 등 대규모 업데이트 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528113202722",
+          "publishedAt": "2026-05-28T02:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "골프장 안전·보안 관리 강화..대중골프장협회, 근로자 추정제 우려도 제기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/bevmdQB3ig",
-          "publishedAt": "2026-05-26T02:00:00.000Z",
+          "title": "롤 시즌2 어떻게 바뀌나… 신규 챔프 추가에 5인 랭크 부활",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092162901",
+          "publishedAt": "2026-05-28T02:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "골프 카트",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260526500281",
-        "publishedAt": "2026-05-26T02:00:00.000Z",
+        "title": "라이엇 게임즈, 'LoL' 신규 챔피언 로크 등 대규모 업데이트 예고",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528113202722",
+        "publishedAt": "2026-05-28T02:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-28T02:20:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "라이엇 게임즈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260528113202722"
+    },
+    {
+      "id": "3d6e4adece09120f",
+      "issueKey": "시큐브",
+      "issueTitle": "시큐브",
+      "trendTitle": "자기주식",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "시큐브, 20억원 규모 자기주식 취득 결정",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04405046645453184",
+          "publishedAt": "2026-05-28T01:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "시큐브, 자사주 취득 신탁계약 체결...20억 원 규모",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/global-filings/article-93CH-1961333",
+          "publishedAt": "2026-05-28T01:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[공시모음] 시큐브, 20억 규모 자사주 취득 外",
+          "source": "딜사이트",
+          "url": "https://dealsite.co.kr/articles/162584",
+          "publishedAt": "2026-05-28T01:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "시큐브, 20억원 규모 자기주식 취득 결정",
+        "source": "마켓인",
+        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04405046645453184",
+        "publishedAt": "2026-05-28T01:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-26T02:00:00.000Z",
-      "firstSeenAt": "2026-05-26T03:36:47.847Z",
-      "lastSeenAt": "2026-05-26T03:36:47.847Z",
-      "title": "골프 카트",
-      "source": "세계일보",
-      "url": "https://www.segye.com/newsView/20260526500281"
+      "publishedAt": "2026-05-28T01:20:00.000Z",
+      "firstSeenAt": "2026-05-28T03:39:48.825Z",
+      "lastSeenAt": "2026-05-28T03:39:48.825Z",
+      "title": "시큐브",
+      "source": "마켓인",
+      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04405046645453184"
     },
     {
       "id": "6d1d036d5b938b36",
@@ -2252,98 +2297,6 @@
       "title": "시스템",
       "source": "Vietnam.vn",
       "url": "https://www.vietnam.vn/ko/vi-sao-han-quoc-tu-choi-he-thong-s-300-cua-nga-du-tinh-nang-vuot-troi-patriot"
-    },
-    {
-      "id": "4ed7f032cd37065b",
-      "issueKey": "장중 상한가",
-      "issueTitle": "장중 상한가",
-      "trendTitle": "장중 상한가",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "디앤디파마텍 \"MASH 신약 임상 2상 조직생검 통계적 유의성 확보\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/thebio/2026/05/27/2026052710294696453",
-          "publishedAt": "2026-05-27T00:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "디앤디파마텍 'DD01', 미국 2상 간 생검서 혁신적 효능 입증…EASL서 탑라인 공개",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=341351",
-          "publishedAt": "2026-05-27T00:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "디앤디파마텍 주가 장중 상한가, 지방간염 치료제 기술 수출 기대감 반영",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=438661",
-          "publishedAt": "2026-05-27T00:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "디앤디파마텍 주가 장중 상한가, 지방간염 치료제 기술 수출 기대감 반영",
-        "source": "비즈니스포스트",
-        "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=438661",
-        "publishedAt": "2026-05-27T00:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-27T00:50:00.000Z",
-      "firstSeenAt": "2026-05-27T03:53:54.877Z",
-      "lastSeenAt": "2026-05-27T03:53:54.877Z",
-      "title": "장중 상한가",
-      "source": "비즈니스포스트",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=438661"
-    },
-    {
-      "id": "c0839094a5215c41",
-      "issueKey": "thunder vs spurs",
-      "issueTitle": "thunder vs spurs",
-      "trendTitle": "thunder vs spurs",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Oklahoma City Thunder One Win Away from Second Consecutive NBA Finals",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/05/27/E6YF3ORVSBFDDPQTSWPBA2Z4U4/",
-          "publishedAt": "2026-05-27T00:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "NBA playoffs 2026: Top moments as Thunder take down Spurs in Game 5",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/story/_/id/48876421/oklahoma-city-thunder-san-antonio-spurs-game-5-nba-playoffs-2026-live-updates",
-          "publishedAt": "2026-05-27T00:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Shai Gilgeous-Alexander Picks, Predictions & Best Bets for Spurs vs Thunder Game 5 on May 26",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/shai-gilgeous-alexander-picks-predictions-200000695.html",
-          "publishedAt": "2026-05-27T00:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "thunder vs spurs",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/05/27/E6YF3ORVSBFDDPQTSWPBA2Z4U4/",
-        "publishedAt": "2026-05-27T00:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T00:40:00.000Z",
-      "firstSeenAt": "2026-05-27T03:53:54.877Z",
-      "lastSeenAt": "2026-05-27T03:53:54.877Z",
-      "title": "thunder vs spurs",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/english/sports-en/2026/05/27/E6YF3ORVSBFDDPQTSWPBA2Z4U4/"
     }
   ]
 }
