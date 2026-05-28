@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-05-28T03:39:48.825Z",
+  "lastUpdatedAt": "2026-05-28T10:02:32.182Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -14,29 +14,6 @@
   "primaryBlockName": "Week 9",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115548128962971959",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 9",
-      "startTime": "2026-05-28T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "DN SOOPers",
-          "code": "DNS",
-          "imageUrl": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-        },
-        {
-          "name": "NONGSHIM RED FORCE",
-          "code": "NS",
-          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128962971903",
       "leagueKey": "lck",
@@ -289,6 +266,29 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548128963037587",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 2 2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-06-14T06:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     }
   ],
   "fetchedLeagues": [
@@ -296,7 +296,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 13
+      "matchCount": 12
     },
     {
       "key": "ewc",
