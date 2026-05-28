@@ -7,11 +7,387 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-28T15:57:12.365Z",
+  "lastUpdatedAt": "2026-05-28T20:23:53.926Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
+    {
+      "id": "8d91afe604b1f31d",
+      "issueKey": "홍대입구역",
+      "issueTitle": "홍대입구역",
+      "trendTitle": "홍대입구역",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "방치 12시간‥고가차도 밑으로 열차 166대 달렸다",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825982_37004.html",
+          "publishedAt": "2026-05-28T19:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "서소문 고가 붕괴 책임 어디까지… “시공사에 벌금형 가능”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529022906017",
+          "publishedAt": "2026-05-28T19:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[속보]지하철 홍대입구역~을지로입구역 29일 첫차부터 운행 중지",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202605290000011",
+          "publishedAt": "2026-05-28T19:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[속보]지하철 홍대입구역~을지로입구역 29일 첫차부터 운행 중지",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202605290000011",
+        "publishedAt": "2026-05-28T19:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-28T19:20:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "홍대입구역",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202605290000011",
+      "rank": 1
+    },
+    {
+      "id": "582e78a0b0891033",
+      "issueKey": "수사",
+      "issueTitle": "수사",
+      "trendTitle": "수사",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] 임상준 환경공단 이사장, 차관 시절 ‘유흥주점’ 고급 접대 의혹",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8572682",
+          "publishedAt": "2026-05-28T19:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[단독] 경찰, 임 전 차관 강제수사 착수…‘골프 접대’ 정황도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528214319020",
+          "publishedAt": "2026-05-28T19:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "경찰 ′유흥주점 접대 의혹′ 임상준 환경공단 이사장 수사",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260528225311wNp",
+          "publishedAt": "2026-05-28T19:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독] 경찰, 임 전 차관 강제수사 착수…‘골프 접대’ 정황도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528214319020",
+        "publishedAt": "2026-05-28T19:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-28T19:10:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "수사",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260528214319020",
+      "rank": 2
+    },
+    {
+      "id": "772ccb74f6fc76cd",
+      "issueKey": "김선빈",
+      "issueTitle": "김선빈",
+      "trendTitle": "김선빈",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "KIA, '호랑이 기운'으로 거침없이 6연승…황동하 시즌 5승째",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260528186200007",
+          "publishedAt": "2026-05-28T17:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[AI상보] '황동하 6이닝 무실점' KIA, 키움 5-0으로 제압...키움 5연승 후 5연패",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260528001300",
+          "publishedAt": "2026-05-28T17:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "KIA 15억 투자 신의 한 수 됐다…대혼란 수습→ERA 1.69 미친 안정감, 부활 비결은 \"손승락 코치님 피드백 덕분\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/05/29/GZRDMNBXGE4DCYRTHA2TQMJXMU/",
+          "publishedAt": "2026-05-28T17:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김선빈",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260528186200007",
+        "publishedAt": "2026-05-28T17:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T17:50:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "김선빈",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260528186200007",
+      "rank": 3
+    },
+    {
+      "id": "3b19d30f1433269b",
+      "issueKey": "opus 4 8",
+      "issueTitle": "opus 4.8",
+      "trendTitle": "opus 4.8",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Introducing Claude Opus 4.8",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/news/claude-opus-4-8",
+          "publishedAt": "2026-05-28T17:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Anthropic releases Opus 4.8 with new ‘dynamic workflow’ tool",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/05/28/anthropic-releases-opus-4-8-with-new-dynamic-workflow-tool/",
+          "publishedAt": "2026-05-28T17:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Announcing Anthropic Claude Opus 4.8 on Snowflake Cortex AI",
+          "source": "Snowflake",
+          "url": "https://www.snowflake.com/en/blog/claude-opus-4-8-snowflake-cortex-ai/",
+          "publishedAt": "2026-05-28T17:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Introducing Claude Opus 4.8",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/claude-opus-4-8",
+        "publishedAt": "2026-05-28T17:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T17:30:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "opus 4.8",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/claude-opus-4-8",
+      "rank": 4
+    },
+    {
+      "id": "abbc940f03792a89",
+      "issueKey": "도시",
+      "issueTitle": "도시",
+      "trendTitle": "도시",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "누가, 왜 도시 공간을 바꾸는가 [.txt]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/book/1260939.html",
+          "publishedAt": "2026-05-28T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "임규호 서울시의원 “5000억원 세운공원 사업, B/C 0.37로 타당성 없어”",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260526500153",
+          "publishedAt": "2026-05-28T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "노들섬과 세운상가",
+          "source": "교수신문",
+          "url": "https://www.kyosu.net/news/articleView.html?idxno=206224",
+          "publishedAt": "2026-05-28T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "누가, 왜 도시 공간을 바꾸는가 [.txt]",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/culture/book/1260939.html",
+        "publishedAt": "2026-05-28T17:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T17:20:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "도시",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/culture/book/1260939.html",
+      "rank": 5
+    },
+    {
+      "id": "a0bc5ef4a56bcafa",
+      "issueKey": "통화 정책",
+      "issueTitle": "통화 정책",
+      "trendTitle": "통화 정책",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "기준금리 2차례 올려 3% 가능성… 물가안정 도움, 대출이자 늘듯",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529043349722",
+          "publishedAt": "2026-05-28T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "단호한 申 \"물가·성장·환율·부동산 어딜봐도, 갈 길은 명확\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/05/29/2026052820110260165",
+          "publishedAt": "2026-05-28T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'데뷔' 신현송 '매파적 동결'...7월 인상 가능성 시사",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202605282317007019",
+          "publishedAt": "2026-05-28T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "통화 정책",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260529043349722",
+        "publishedAt": "2026-05-28T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T16:00:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "통화 정책",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260529043349722",
+      "rank": 6
+    },
+    {
+      "id": "dc9b572ad86b9296",
+      "issueKey": "충전소",
+      "issueTitle": "충전소",
+      "trendTitle": "충전소",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[특파원 시선] 하노이 '전기오토바이 시대' 언제쯤 올까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260523070915262",
+          "publishedAt": "2026-05-28T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전기차 충전 인프라: 해결해야 할 \"병목 현상\".",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ha-tang-sac-xe-dien-nut-that-can-duoc-thao-go",
+          "publishedAt": "2026-05-28T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'대기오염 주범' 내연 오토바이 퇴출 나선 하노이市 사실상 '백기'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/asia-australia/6171400",
+          "publishedAt": "2026-05-28T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "충전소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260523070915262",
+        "publishedAt": "2026-05-28T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T15:50:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "충전소",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260523070915262",
+      "rank": 7
+    },
+    {
+      "id": "14e312c68815206b",
+      "issueKey": "이준",
+      "issueTitle": "이준",
+      "trendTitle": "이준",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "생활고 고백한 이준, 왜 거짓말했나..\"성공했다고 보여주고싶었다\" ('유퀴즈') [핫피플]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528195154476",
+          "publishedAt": "2026-05-28T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이준, 몸 사리지 않는 성실함으로 '대세' 등극",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/05/28/2026052814577216288",
+          "publishedAt": "2026-05-28T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이준 “욕먹어 1년간 잠 못 자”…화폐가치 논란 심경 고백 (유퀴즈)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202605281336003",
+          "publishedAt": "2026-05-28T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "생활고 고백한 이준, 왜 거짓말했나..\"성공했다고 보여주고싶었다\" ('유퀴즈') [핫피플]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260528195154476",
+        "publishedAt": "2026-05-28T15:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T15:10:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "이준",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260528195154476",
+      "rank": 8
+    },
     {
       "id": "ae7527be8fd20e3f",
       "issueKey": "당첨결과",
@@ -52,59 +428,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-28T14:40:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
       "title": "당첨결과",
       "source": "톱스타뉴스",
       "url": "https://www.topstarnews.net/news/articleView.html?idxno=16074108",
-      "rank": 1
-    },
-    {
-      "id": "de17cb1fdf0f4af0",
-      "issueKey": "서울",
-      "issueTitle": "서울",
-      "trendTitle": "김정철",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[MBC여론조사] '서울·대구' 접전‥부산 전재수 오차 범위 밖 우세",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html",
-          "publishedAt": "2026-05-28T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[2026 지선] 오세훈 \"규제 때문에 강북 피해\"…정원오 \"특구로 해결\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260529002139105",
-          "publishedAt": "2026-05-28T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "처음이자 마지막 서울시장 TV토론...鄭 \"보여주기식 행정\" 吳 \"서울 정상화 사력\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/election2026/2026/05/28/EXW2PNDI5BDL5KFISJT5FKBSYM/",
-          "publishedAt": "2026-05-28T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[MBC여론조사] '서울·대구' 접전‥부산 전재수 오차 범위 밖 우세",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html",
-        "publishedAt": "2026-05-28T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-28T14:10:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
-      "title": "서울",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6825990_37004.html",
-      "rank": 2
+      "rank": 9
     },
     {
       "id": "642315305ad78197",
@@ -117,9 +446,9 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘LS전선 해저케이블 기술 유출’ 대한전선 임직원 등 13명 검찰 송치",
+          "title": "\"LS전선 도면부터 설비까지 유출\"…대한전선 임직원 송치",
           "source": "Daum",
-          "url": "https://v.daum.net/v/xmHv3CAivr",
+          "url": "https://v.daum.net/v/20260528173652018",
           "publishedAt": "2026-05-28T14:10:00.000Z",
           "relevanceScore": 3
         },
@@ -131,9 +460,9 @@
           "relevanceScore": 2
         },
         {
-          "title": "대한전선, ‘LS전선 해저케이블 기술유출’ 혐의로 검찰 송치",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8572583",
+          "title": "[해저케이블 기술 유출 공방] 대한전선 위법성 확정된 것 아냐…LS 기술 도용 전면 부인",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260528175310086",
           "publishedAt": "2026-05-28T14:10:00.000Z",
           "relevanceScore": 1
         }
@@ -146,340 +475,11 @@
         "relevanceScore": 2
       },
       "publishedAt": "2026-05-28T14:10:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
       "title": "경찰",
       "source": "전기신문",
       "url": "https://www.electimes.com/news/articleView.html?idxno=368579",
-      "rank": 3
-    },
-    {
-      "id": "c3657f272dcc67fc",
-      "issueKey": "정혜성",
-      "issueTitle": "정혜성",
-      "trendTitle": "정혜성",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "연애하기 딱 좋은 타이밍의 매력 만점 짝녀들, 10년만의 A/S 시작!ㅣ사랑은 계속된다 EP.167ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000630887",
-          "publishedAt": "2026-05-28T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'나솔사계'에 '짝' 출연자 등장 \"지금은 40대\"…연프 세계관 대통합에 술렁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528233115329",
-          "publishedAt": "2026-05-28T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'새 MC' 정혜성 \"얼바람피운 전남친들 보고 있냐\"···경리 \"나보다 한 수 위\"('나솔사계')[순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GQYDGMJSHE4TMNJSHE4GCMRSGM/",
-          "publishedAt": "2026-05-28T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'새 MC' 정혜성 \"얼바람피운 전남친들 보고 있냐\"···경리 \"나보다 한 수 위\"('나솔사계')[순간포착]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GQYDGMJSHE4TMNJSHE4GCMRSGM/",
-        "publishedAt": "2026-05-28T14:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-28T14:00:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
-      "title": "정혜성",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GQYDGMJSHE4TMNJSHE4GCMRSGM/",
-      "rank": 4
-    },
-    {
-      "id": "0be477336d3e1a8d",
-      "issueKey": "nc",
-      "issueTitle": "nc",
-      "trendTitle": "nc",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "NC: Class of 2027 Rankings Update - Final Summer Season Loading",
-          "source": "Prep Baseball Report",
-          "url": "https://www.prepbaseballreport.com/news/NC/nc--class-of-2027-rankings-update---final-summer-season-loading",
-          "publishedAt": "2026-05-28T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "2027 NC Football Recruiting Rankings: Top Spots Unchanged, But New Names Shake Up Latest Composite List",
-          "source": "NC Football News",
-          "url": "https://ncfootballnews.com/north-carolina-2027-football-recruiting-consensus-rankings-may-2026-update/",
-          "publishedAt": "2026-05-28T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Football recruiting rankings: Top North Carolina high school football recruits in 2027 class",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/sports/high-school/2026/05/23/north-carolina-high-school-football-rankings-recruit-2027/89141226007/",
-          "publishedAt": "2026-05-28T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "NC: Class of 2027 Rankings Update - Final Summer Season Loading",
-        "source": "Prep Baseball Report",
-        "url": "https://www.prepbaseballreport.com/news/NC/nc--class-of-2027-rankings-update---final-summer-season-loading",
-        "publishedAt": "2026-05-28T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-28T14:00:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
-      "title": "nc",
-      "source": "Prep Baseball Report",
-      "url": "https://www.prepbaseballreport.com/news/NC/nc--class-of-2027-rankings-update---final-summer-season-loading",
-      "rank": 5
-    },
-    {
-      "id": "1d171eb35e6b9b4b",
-      "issueKey": "요금도 카톡",
-      "issueTitle": "요금도 카톡",
-      "trendTitle": "요금도 카톡",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "LGU+, 이통사 첫 5G·LTE 통합요금제 출시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260528043300017",
-          "publishedAt": "2026-05-28T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "LG U+, 5G·LTE 구분 없앤 통합 요금제 출시",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/05/29/OIEDXDU435HXTAMT6YOOQLCN3E/",
-          "publishedAt": "2026-05-28T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"2만원대 요금도 카톡·유튜브 무제한\"…LGU+, '심플리 2.0' 승부수(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260528_0003647172",
-          "publishedAt": "2026-05-28T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"2만원대 요금도 카톡·유튜브 무제한\"…LGU+, '심플리 2.0' 승부수(종합)",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260528_0003647172",
-        "publishedAt": "2026-05-28T13:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-28T13:50:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
-      "title": "요금도 카톡",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260528_0003647172",
-      "rank": 6
-    },
-    {
-      "id": "a3e92066c8fef602",
-      "issueKey": "한정수",
-      "issueTitle": "한정수",
-      "trendTitle": "한정수",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "5·18 단체, '탱크데이' 정용진 신세계그룹 회장 고소",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260528084600054",
-          "publishedAt": "2026-05-28T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "AI 활용한 ‘탱크데이’ 밈 확산…연이은 사과에도 ‘극우’ 상징된 스타벅스",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605280600041",
-          "publishedAt": "2026-05-28T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "스타벅스 논란에 이마트 휘청…주가도 실적도 '불안'",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260528163420",
-          "publishedAt": "2026-05-28T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한정수",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260528084600054",
-        "publishedAt": "2026-05-28T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-28T13:40:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
-      "title": "한정수",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260528084600054",
-      "rank": 7
-    },
-    {
-      "id": "d652830ec3c070f7",
-      "issueKey": "강미나",
-      "issueTitle": "강미나",
-      "trendTitle": "강미나",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "강미나, 아이오아이 無활동에 나온 불화설에 심경 “왜 이렇게 피곤하게 사는지”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202605281153003",
-          "publishedAt": "2026-05-28T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'재결합 불참' 강미나, 아이오아이 불화설에 입 열었다…\"피곤하게들 산다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528103905728",
-          "publishedAt": "2026-05-28T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "강미나 “왜 이리 피곤하게 사나”…‘아이오아이 불화설’ 일축",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10757820",
-          "publishedAt": "2026-05-28T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "강미나, 아이오아이 無활동에 나온 불화설에 심경 “왜 이렇게 피곤하게 사는지”",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202605281153003",
-        "publishedAt": "2026-05-28T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-28T13:40:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
-      "title": "강미나",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202605281153003",
-      "rank": 8
-    },
-    {
-      "id": "d6532a9b8353b29f",
-      "issueKey": "이소나",
-      "issueTitle": "이소나",
-      "trendTitle": "이소나",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[TV조선] ‘순천 셀럽’의 정체는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528004115832",
-          "publishedAt": "2026-05-28T13:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“임영웅 다음 유명” ‘930만 뷰’ 이소나 짝꿍 정체는? (미스트롯 포유)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202605280913003",
-          "publishedAt": "2026-05-28T13:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "17세 소녀, 김용빈과 불편한 관계 폭로? \"정신 못 차리겠다\" 진땀 (미스트롯 포유) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/05/27/MMYTGODFGVRDOYJXMNQTSOLGGQ/",
-          "publishedAt": "2026-05-28T13:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“임영웅 다음 유명” ‘930만 뷰’ 이소나 짝꿍 정체는? (미스트롯 포유)",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202605280913003",
-        "publishedAt": "2026-05-28T13:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-28T13:30:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
-      "title": "이소나",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202605280913003",
-      "rank": 9
-    },
-    {
-      "id": "fa9a4e453c827545",
-      "issueKey": "roland garros",
-      "issueTitle": "roland garros",
-      "trendTitle": "roland garros",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Le scénario surréaliste de Moïse Kouamé qui plombe le pays !",
-          "source": "FFL",
-          "url": "https://fflose.com/le-scenario-surrealiste-de-moise-kouame-qui-plombe-le-pays/",
-          "publishedAt": "2026-05-28T13:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Moïse Kouamé, l’ado de 17 ans qui affole le tennis français, réalise un coup de maître",
-          "source": "24 Heures",
-          "url": "https://www.24heures.ch/roland-garros-moise-kouame-17-ans-enflamme-paris-358367510430",
-          "publishedAt": "2026-05-28T13:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "L'exploit de l'espoir tricolore Moïse Kouame, qualifié pour le 3e tour de Roland-Garros au terme d'un super tie-break",
-          "source": "franceinfo",
-          "url": "https://www.franceinfo.fr/roland-garros/videos/l-exploit-de-l-espoir-tricolore-moise-kouame-qualifie-pour-le-3e-tour-de-roland-garros-au-terme-d-un-super-tie-break_8034107.html",
-          "publishedAt": "2026-05-28T13:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "roland garros",
-        "source": "FFL",
-        "url": "https://fflose.com/le-scenario-surrealiste-de-moise-kouame-qui-plombe-le-pays/",
-        "publishedAt": "2026-05-28T13:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-28T13:30:00.000Z",
-      "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
-      "title": "roland garros",
-      "source": "FFL",
-      "url": "https://fflose.com/le-scenario-surrealiste-de-moise-kouame-qui-plombe-le-pays/",
       "rank": 10
     }
   ],
@@ -759,52 +759,6 @@
       "title": "삼성전자",
       "source": "연합뉴스TV",
       "url": "https://www.yonhapnewstv.co.kr/news/MYH20260527065552gL1"
-    },
-    {
-      "id": "fef2c9a02b0c0455",
-      "issueKey": "도생",
-      "issueTitle": "도생",
-      "trendTitle": "원룸 주택",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "도생·원룸·오피스텔 '영끌' 공급… 전세난 잡기 총력전",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/05/27/2026052620055596826",
-          "publishedAt": "2026-05-26T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "非아파트 규제 완화 수도권에 11만가구",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/05/27/2026052620061122520",
-          "publishedAt": "2026-05-26T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정부, 비아파트 공급 확대 시동",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605262029005",
-          "publishedAt": "2026-05-26T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "도생·원룸·오피스텔 '영끌' 공급… 전세난 잡기 총력전",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/estate/2026/05/27/2026052620055596826",
-        "publishedAt": "2026-05-26T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-26T14:40:00.000Z",
-      "firstSeenAt": "2026-05-26T20:09:07.499Z",
-      "lastSeenAt": "2026-05-26T20:09:07.499Z",
-      "title": "도생",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/estate/2026/05/27/2026052620055596826"
     },
     {
       "id": "39b19a21a228ae9f",
@@ -1194,6 +1148,52 @@
       "title": "박명수",
       "source": "뉴스1",
       "url": "https://www.news1.kr/entertain/celebrity-topic/6178396"
+    },
+    {
+      "id": "a0bc5ef4a56bcafa",
+      "issueKey": "통화 정책",
+      "issueTitle": "통화 정책",
+      "trendTitle": "통화 정책",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "기준금리 2차례 올려 3% 가능성… 물가안정 도움, 대출이자 늘듯",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529043349722",
+          "publishedAt": "2026-05-28T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "단호한 申 \"물가·성장·환율·부동산 어딜봐도, 갈 길은 명확\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/05/29/2026052820110260165",
+          "publishedAt": "2026-05-28T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'데뷔' 신현송 '매파적 동결'...7월 인상 가능성 시사",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202605282317007019",
+          "publishedAt": "2026-05-28T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "통화 정책",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260529043349722",
+        "publishedAt": "2026-05-28T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T16:00:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "통화 정책",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260529043349722"
     },
     {
       "id": "a3e92066c8fef602",
@@ -1656,52 +1656,6 @@
       "url": "https://www.yna.co.kr/view/AKR20260526109600003"
     },
     {
-      "id": "43a5247b0c80ff6c",
-      "issueKey": "심형탁",
-      "issueTitle": "심형탁",
-      "trendTitle": "심형탁",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'심형탁 子' 생후 16개월차 하루, 농부로 변신 [슈돌]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260526135817314",
-          "publishedAt": "2026-05-26T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "심형탁 子 하루, 반전 강심장…미꾸라지 한 손으로 덥석 (슈돌)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260526/133992847/1",
-          "publishedAt": "2026-05-26T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "심형탁 아들 하루, “하루 진짜 대단하다”…논밭 접수한 16개월 농부",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16071573",
-          "publishedAt": "2026-05-26T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'심형탁 子' 생후 16개월차 하루, 농부로 변신 [슈돌]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260526135817314",
-        "publishedAt": "2026-05-26T15:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-26T15:10:00.000Z",
-      "firstSeenAt": "2026-05-26T20:09:07.499Z",
-      "lastSeenAt": "2026-05-26T20:09:07.499Z",
-      "title": "심형탁",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260526135817314"
-    },
-    {
       "id": "642315305ad78197",
       "issueKey": "경찰",
       "issueTitle": "경찰",
@@ -1709,12 +1663,19 @@
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "relatedArticles": [
         {
           "title": "‘LS전선 해저케이블 기술 유출’ 대한전선 임직원 등 13명 검찰 송치",
           "source": "Daum",
           "url": "https://v.daum.net/v/xmHv3CAivr",
+          "publishedAt": "2026-05-28T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"LS전선 도면부터 설비까지 유출\"…대한전선 임직원 송치",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260528173652018",
           "publishedAt": "2026-05-28T14:10:00.000Z",
           "relevanceScore": 3
         },
@@ -1731,6 +1692,13 @@
           "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8572583",
           "publishedAt": "2026-05-28T14:10:00.000Z",
           "relevanceScore": 1
+        },
+        {
+          "title": "[해저케이블 기술 유출 공방] 대한전선 위법성 확정된 것 아냐…LS 기술 도용 전면 부인",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260528175310086",
+          "publishedAt": "2026-05-28T14:10:00.000Z",
+          "relevanceScore": 1
         }
       ],
       "representativeArticle": {
@@ -1742,10 +1710,102 @@
       },
       "publishedAt": "2026-05-28T14:10:00.000Z",
       "firstSeenAt": "2026-05-28T15:57:12.365Z",
-      "lastSeenAt": "2026-05-28T15:57:12.365Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
       "title": "경찰",
       "source": "전기신문",
       "url": "https://www.electimes.com/news/articleView.html?idxno=368579"
+    },
+    {
+      "id": "abbc940f03792a89",
+      "issueKey": "도시",
+      "issueTitle": "도시",
+      "trendTitle": "도시",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "누가, 왜 도시 공간을 바꾸는가 [.txt]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/book/1260939.html",
+          "publishedAt": "2026-05-28T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "임규호 서울시의원 “5000억원 세운공원 사업, B/C 0.37로 타당성 없어”",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260526500153",
+          "publishedAt": "2026-05-28T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "노들섬과 세운상가",
+          "source": "교수신문",
+          "url": "https://www.kyosu.net/news/articleView.html?idxno=206224",
+          "publishedAt": "2026-05-28T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "누가, 왜 도시 공간을 바꾸는가 [.txt]",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/culture/book/1260939.html",
+        "publishedAt": "2026-05-28T17:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T17:20:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "도시",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/culture/book/1260939.html"
+    },
+    {
+      "id": "dc9b572ad86b9296",
+      "issueKey": "충전소",
+      "issueTitle": "충전소",
+      "trendTitle": "충전소",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[특파원 시선] 하노이 '전기오토바이 시대' 언제쯤 올까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260523070915262",
+          "publishedAt": "2026-05-28T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전기차 충전 인프라: 해결해야 할 \"병목 현상\".",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ha-tang-sac-xe-dien-nut-that-can-duoc-thao-go",
+          "publishedAt": "2026-05-28T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'대기오염 주범' 내연 오토바이 퇴출 나선 하노이市 사실상 '백기'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/asia-australia/6171400",
+          "publishedAt": "2026-05-28T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "충전소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260523070915262",
+        "publishedAt": "2026-05-28T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-28T15:50:00.000Z",
+      "firstSeenAt": "2026-05-28T20:23:53.926Z",
+      "lastSeenAt": "2026-05-28T20:23:53.926Z",
+      "title": "충전소",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260523070915262"
     },
     {
       "id": "d6532a9b8353b29f",
@@ -2298,52 +2358,6 @@
       "title": "시바이누",
       "source": "글로벌이코노믹",
       "url": "https://www.g-enews.com/article/Securities/2026/05/202605270440474664e7e8286d56_1"
-    },
-    {
-      "id": "f0445872cdcaf60e",
-      "issueKey": "손흥민",
-      "issueTitle": "손흥민",
-      "trendTitle": "손흥민",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘4번째 월드컵’ 손흥민, 韓 축구 4호 골 신화 정조준",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&amp;key=20260527.22015006720",
-          "publishedAt": "2026-05-27T08:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“자랑하는 건 아니지만 해트트릭했던 곳!” 손흥민은 자신감도 '월클'~",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260527175428699",
-          "publishedAt": "2026-05-27T08:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "주장 손흥민 대표팀 합류‥\"처음처럼 4번째 월드컵 도전\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6825516_36946.html",
-          "publishedAt": "2026-05-27T08:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘4번째 월드컵’ 손흥민, 韓 축구 4호 골 신화 정조준",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&amp;key=20260527.22015006720",
-        "publishedAt": "2026-05-27T08:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T08:10:00.000Z",
-      "firstSeenAt": "2026-05-27T09:51:18.528Z",
-      "lastSeenAt": "2026-05-27T09:51:18.528Z",
-      "title": "손흥민",
-      "source": "국제신문",
-      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0600&amp;key=20260527.22015006720"
     }
   ]
 }
