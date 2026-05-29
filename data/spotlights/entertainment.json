@@ -7,157 +7,298 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-29T15:33:39.920Z",
+  "lastUpdatedAt": "2026-05-29T20:25:52.475Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "05b2021a92f7fcda",
-      "issueKey": "사우디 아라비아",
-      "issueTitle": "사우디 아라비아",
-      "trendTitle": "사우디 아라비아",
+      "id": "82d761d8dbb72368",
+      "issueKey": "외국인",
+      "issueTitle": "외국인",
+      "trendTitle": "외국인",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[그래픽] 외국인 보유 국내 주택 추이",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20260529000300044",
+          "publishedAt": "2026-05-29T19:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "중국인이 강남 싹쓸이? 오해였다…실제론 부천·안산서 6억 이하 실거주",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/05/29/2026052915395154404",
+          "publishedAt": "2026-05-29T19:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "외국인들 지난해 부산에서 토지 499만4000㎡·집 3276가구 소유",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260529.99099007637",
+          "publishedAt": "2026-05-29T19:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[그래픽] 외국인 보유 국내 주택 추이",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/GYH20260529000300044",
+        "publishedAt": "2026-05-29T19:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T19:10:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "외국인",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/GYH20260529000300044",
+      "rank": 1
+    },
+    {
+      "id": "52b1bc4e219364e5",
+      "issueKey": "기아 ev9",
+      "issueTitle": "기아 ev9",
+      "trendTitle": "기아 ev9",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kia’s flagship EV has a battery problem",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "I Love EVs, But Kia and Hyundai Are Making That Harder",
+          "source": "InsideEVs",
+          "url": "https://insideevs.com/features/796357/kia-hyundai-ev-owner-experience-2026/",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Kia EV6, KV9, Hyundai IONIQ & Genesis Battery ICCU Bricking, Recalls & Fixes?",
+          "source": "AUTO Connected Car News",
+          "url": "https://www.autoconnectedcar.com/2026/05/kia-ev6-kv9-hyundai-ioniq-genesis-battery-iccu-bricking-recalls-fixes/",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기아 ev9",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
+        "publishedAt": "2026-05-29T19:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T19:00:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "기아 ev9",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
+      "rank": 2
+    },
+    {
+      "id": "ee6e9af34f186881",
+      "issueKey": "환자 의뢰",
+      "issueTitle": "환자 의뢰",
+      "trendTitle": "환자 의뢰",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"트럼프 '아브라함 협정' 압박에 빈살만 격분…'NO' 100번 말해\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260527078851009",
-          "publishedAt": "2026-05-29T14:30:00.000Z",
+          "title": "하반기 AI기반 환자 의뢰·회송 도입…\"연속 진료·의료비 절감\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260529100207870",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“빈살만, 트럼프가 이스라엘과 관계 정상화 압박하자 격분”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/XBrUse2uYn",
-          "publishedAt": "2026-05-29T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"분위기 파악 못하는 트럼프\"...중동국 강요에 빈살만 분노",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/05/27/2026052717261544442",
-          "publishedAt": "2026-05-29T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "사우디 아라비아",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260527078851009",
-        "publishedAt": "2026-05-29T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-29T14:30:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "사우디 아라비아",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260527078851009",
-      "rank": 1
-    },
-    {
-      "id": "1ea0b989213f4138",
-      "issueKey": "최지수",
-      "issueTitle": "최지수",
-      "trendTitle": "최지수",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'나혼산' 최지수 \"혼자 산 지 3년 차…요일별 청소 계획\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260529234137929",
-          "publishedAt": "2026-05-29T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "배우 최지수, 알바로 9년 만에 학자금 대출금 완납…\"母에 자랑하다 울컥\"",
+          "title": "하반기 의료 현장에 AI 의뢰·회송…서울·강원·전남 시범 운영",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260529_0003649794",
-          "publishedAt": "2026-05-29T14:20:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260528_0003648191",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'나혼산' 최지수, 학자금 9년 만의 완납에 눈물⋯\"고양이 탈 쓰고 알바\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2589153",
-          "publishedAt": "2026-05-29T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'나혼산' 최지수 \"혼자 산 지 3년 차…요일별 청소 계획\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260529234137929",
-        "publishedAt": "2026-05-29T14:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-29T14:20:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "최지수",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260529234137929",
-      "rank": 2
-    },
-    {
-      "id": "4aa11385d5e83038",
-      "issueKey": "오상진",
-      "issueTitle": "오상진",
-      "trendTitle": "오상진",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'70억 CEO' 김소영, 둘째 출산 당일까지 '워커 홀릭'..긴박했던 출산 비하인드[편스토랑][★밤TView]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260529234303937",
-          "publishedAt": "2026-05-29T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김소영♥오상진, 둘째 '수동이' 첫 공개…완성형 이목구비 눈길",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260529_0003648846",
-          "publishedAt": "2026-05-29T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'편스토랑' 오상진, ♥김소영 위해 혈자리 공부까지…\"마사지 이벤트\"",
+          "title": "AI로 환자 의뢰·회송 자동화…복지부, AX 스프린트 사업 착수",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6182087",
-          "publishedAt": "2026-05-29T14:20:00.000Z",
+          "url": "https://www.news1.kr/bio/general/6181061",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김소영♥오상진, 둘째 '수동이' 첫 공개…완성형 이목구비 눈길",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260529_0003648846",
-        "publishedAt": "2026-05-29T14:20:00.000Z",
-        "relevanceScore": 2
+        "title": "하반기 AI기반 환자 의뢰·회송 도입…\"연속 진료·의료비 절감\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260529100207870",
+        "publishedAt": "2026-05-29T19:00:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-29T14:20:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "오상진",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260529_0003648846",
+      "publishedAt": "2026-05-29T19:00:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "환자 의뢰",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260529100207870",
       "rank": 3
     },
     {
-      "id": "3fc57cf82bf4bac4",
-      "issueKey": "이승진",
-      "issueTitle": "이승진",
-      "trendTitle": "이승진",
+      "id": "40af4be600da7d71",
+      "issueKey": "도박",
+      "issueTitle": "도박",
+      "trendTitle": "도박",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] '통일교 도박 수사무마 의혹' 김도형 전 강원경찰청장 등 4명 압수수색",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6826250_36918.html",
+          "publishedAt": "2026-05-29T18:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "종합특검, ‘통일교 원정도박 수사무마 의혹’ 윤희근 전 경찰청장 압수수색",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zCzhFhcnhR",
+          "publishedAt": "2026-05-29T18:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "종합특검, 윤희근 前경찰청장·김도형 前강원청장 압수수색(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260529_0003649812",
+          "publishedAt": "2026-05-29T18:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독] '통일교 도박 수사무마 의혹' 김도형 전 강원경찰청장 등 4명 압수수색",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6826250_36918.html",
+        "publishedAt": "2026-05-29T18:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T18:20:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "도박",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6826250_36918.html",
+      "rank": 4
+    },
+    {
+      "id": "fc8dfc1d39bc7545",
+      "issueKey": "휩쓴 스타워즈",
+      "issueTitle": "휩쓴 스타워즈",
+      "trendTitle": "휩쓴 스타워즈",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "스타워즈와 협업해 ‘전기로-고로 기술’ 대중에 알린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zBPpZVpXpL",
+          "publishedAt": "2026-05-29T17:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘이것이 우리의 길'⋯ 현대제철, ‘스타워즈’ 앞세워 탄소저감 철강 알린다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260529500510",
+          "publishedAt": "2026-05-29T17:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "엄빠 세대 휩쓴 스타워즈·토이스토리 … 극장가에 돌아왔다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12061356",
+          "publishedAt": "2026-05-29T17:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "엄빠 세대 휩쓴 스타워즈·토이스토리 … 극장가에 돌아왔다",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/culture/12061356",
+        "publishedAt": "2026-05-29T17:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-05-29T17:10:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "휩쓴 스타워즈",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/culture/12061356",
+      "rank": 5
+    },
+    {
+      "id": "34cb3951d4e2d64a",
+      "issueKey": "artificial intelligence news",
+      "issueTitle": "artificial intelligence news",
+      "trendTitle": "artificial intelligence news",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/news/series-h",
+          "publishedAt": "2026-05-29T16:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Samsung Electronics, SK hynix make strategic investments in Anthropic",
+          "source": "매일경제",
+          "url": "https://pulse.mk.co.kr/news/english/12060958",
+          "publishedAt": "2026-05-29T16:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Samsung Foundry Likely to Win Anthropic \"Claude AI Chip\" Orders Following Tesla and Nvidia",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026052907592796585",
+          "publishedAt": "2026-05-29T16:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "artificial intelligence news",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/news/series-h",
+        "publishedAt": "2026-05-29T16:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T16:50:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "artificial intelligence news",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/series-h",
+      "rank": 6
+    },
+    {
+      "id": "d0519b2656e006e2",
+      "issueKey": "오성욱",
+      "issueTitle": "오성욱",
+      "trendTitle": "오성욱",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
@@ -165,321 +306,180 @@
       "relatedArticles": [
         {
           "title": "'공포의 외인 구단?' PBA 팀 리그 10구단 선수 구성 완료, 우승 경험자만 4명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260529092700121",
-          "publishedAt": "2026-05-29T14:00:00.000Z",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6524575",
+          "publishedAt": "2026-05-29T16:40:00.000Z",
           "relevanceScore": 3
-        },
-        {
-          "title": "PBA, 직영 팀리그 제10구단 선수 구성 완료…이승진·오성욱 등 합류",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260529_0003649166",
-          "publishedAt": "2026-05-29T14:00:00.000Z",
-          "relevanceScore": 2
         },
         {
           "title": "오성욱·임경진 등 챔피언으로 채운 프로당구 10구단…언더독 반란 노린다",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html",
-          "publishedAt": "2026-05-29T14:00:00.000Z",
+          "publishedAt": "2026-05-29T16:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "휴온스 헬스케어 레전드, 26-27시즌 PBA 팀리그 출정식",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10759783",
+          "publishedAt": "2026-05-29T16:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "PBA, 직영 팀리그 제10구단 선수 구성 완료…이승진·오성욱 등 합류",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260529_0003649166",
-        "publishedAt": "2026-05-29T14:00:00.000Z",
+        "title": "오성욱·임경진 등 챔피언으로 채운 프로당구 10구단…언더독 반란 노린다",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html",
+        "publishedAt": "2026-05-29T16:40:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-05-29T14:00:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "이승진",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260529_0003649166",
-      "rank": 4
-    },
-    {
-      "id": "ef716d291dc9f21a",
-      "issueKey": "박민식",
-      "issueTitle": "박민식",
-      "trendTitle": "박민식",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[여론조사]② ‘북구갑’ 하정우 33%·박민식 15%·한동훈 39%…경남은 김경수 우세",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8572669",
-          "publishedAt": "2026-05-29T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"뻔뻔 구질구질\" \"트로이 목마\"‥네거티브 난타전",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6826076_37012.html",
-          "publishedAt": "2026-05-29T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "부산 북갑 후보들 토론장으로",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260528131900051",
-          "publishedAt": "2026-05-29T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[여론조사]② ‘북구갑’ 하정우 33%·박민식 15%·한동훈 39%…경남은 김경수 우세",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8572669",
-        "publishedAt": "2026-05-29T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-29T14:00:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "박민식",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8572669",
-      "rank": 5
-    },
-    {
-      "id": "ad1108f7f6f47a69",
-      "issueKey": "rr vs gt",
-      "issueTitle": "rr vs gt",
-      "trendTitle": "rr vs gt",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "IPL | RR 109/4 (11.3) (Vaibhav Sooryavanshi 47(27) ) | Gujarat Titans vs Rajasthan Royals, Qualifier 2, Indian Premier League 2026 Live Cricket Stream, live scores, ball-by-ball commentary, highlights, videos, news, and more in USA & Canada",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/155398/gt-vs-rr-qualifier-2-indian-premier-league-2026",
-          "publishedAt": "2026-05-29T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "IPL 2026, GT vs RR Qualifier 2 Match Preview - RR ride on teen steam against steady GT with final in sight",
-          "source": "ESPNcricinfo",
-          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/gujarat-titans-vs-rajasthan-royals-qualifier-2-1535464/match-preview",
-          "publishedAt": "2026-05-29T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "What are the other toss blunders? 2011 World Cup final memories relived after GT-RR faux pas at coin-flick | Cricket",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/cricket/what-are-the-other-toss-blunders-2011-world-cup-final-memories-relived-after-gt-rr-faux-pas-at-coinflick-101780063206358.html",
-          "publishedAt": "2026-05-29T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "rr vs gt",
-        "source": "Cricbuzz",
-        "url": "https://www.cricbuzz.com/live-cricket-scores/155398/gt-vs-rr-qualifier-2-indian-premier-league-2026",
-        "publishedAt": "2026-05-29T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-29T13:50:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "rr vs gt",
-      "source": "Cricbuzz",
-      "url": "https://www.cricbuzz.com/live-cricket-scores/155398/gt-vs-rr-qualifier-2-indian-premier-league-2026",
-      "rank": 6
-    },
-    {
-      "id": "a7444ee050c62abd",
-      "issueKey": "성심당",
-      "issueTitle": "성심당",
-      "trendTitle": "성심당",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "불닭소스 심장부 폭파(?)하러 간 산업부 인턴즈 (feat. AI 자율제조)",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148965474&amp;pWise=sub&amp;pWiseSub=R4",
-          "publishedAt": "2026-05-29T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "반도체 기판 보던 '비전 AI'가 족발 공장·빵집 속으로…중소기업에도 AI는 효자",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260529200703005",
-          "publishedAt": "2026-05-29T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "용접로봇부터 휴머노이드까지…AI 로봇 얼라이언스 중간 점검",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260529055300003",
-          "publishedAt": "2026-05-29T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "성심당",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148965474&amp;pWise=sub&amp;pWiseSub=R4",
-        "publishedAt": "2026-05-29T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-29T13:50:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "성심당",
-      "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148965474&amp;pWise=sub&amp;pWiseSub=R4",
+      "publishedAt": "2026-05-29T16:40:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "오성욱",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html",
       "rank": 7
     },
     {
-      "id": "cf223a16d5904fb2",
-      "issueKey": "최민식",
-      "issueTitle": "최현욱",
-      "trendTitle": "최현욱",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "14b16825c0365a04",
+      "issueKey": "손태진",
+      "issueTitle": "손태진",
+      "trendTitle": "손태진",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[방송소식] 최민식 주연 '맨 끝줄 소년' 내달 넷플릭스 공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260529086400005",
-          "publishedAt": "2026-05-29T13:40:00.000Z",
+          "title": "'편스토랑' 손태진 父 \"해외 생활만 45년‥건설업체 주재원 근무\" [RE:TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530045202593",
+          "publishedAt": "2026-05-29T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'맨 끝줄 소년' 최민식·최현욱의 사제 스릴러…6월 26일 공개 확정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/x0deVONdYO",
-          "publishedAt": "2026-05-29T13:40:00.000Z",
+          "title": "1등 가수 손태진, 상인 분들 환호에 생애 최초 수산시장 버스킹! 어머니, 아버지도 흐뭇♥",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_PS-2026094723-01-000_MFSC1&amp;program_code=T2019-0286&amp;program_id=PS-2026094723-01-000&amp;section_code=04&amp;broadcast_complete_yn=N&amp;section_id=10742",
+          "publishedAt": "2026-05-29T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "최민식·최현욱 서스펜스…'맨 끝줄 소년' 내달 공개",
+          "title": "손태진, 중국어에 이탈리아어까지 4개국어 '능력자'",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260529_0003648640",
-          "publishedAt": "2026-05-29T13:40:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260528_0003647762",
+          "publishedAt": "2026-05-29T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'맨 끝줄 소년' 최민식·최현욱의 사제 스릴러…6월 26일 공개 확정",
+        "title": "'편스토랑' 손태진 父 \"해외 생활만 45년‥건설업체 주재원 근무\" [RE:TV]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/x0deVONdYO",
-        "publishedAt": "2026-05-29T13:40:00.000Z",
-        "relevanceScore": 2
+        "url": "https://v.daum.net/v/20260530045202593",
+        "publishedAt": "2026-05-29T16:30:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-29T13:40:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "최현욱",
+      "publishedAt": "2026-05-29T16:30:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "손태진",
       "source": "Daum",
-      "url": "https://v.daum.net/v/x0deVONdYO",
+      "url": "https://v.daum.net/v/20260530045202593",
       "rank": 8
     },
     {
-      "id": "d31579ff3b4d6a87",
-      "issueKey": "지젤",
-      "issueTitle": "지젤",
-      "trendTitle": "지젤",
+      "id": "09644999a9069dde",
+      "issueKey": "원이",
+      "issueTitle": "원이",
+      "trendTitle": "원이",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "지젤, 극세사 몸매 비결 공개 \"팬케이크 매일 먹어..탄수화물만\" [야노시호]",
-          "source": "ASIA ARTIST AWARDS 2025",
-          "url": "https://www.asiaartistawards.com/news/detail/180979",
-          "publishedAt": "2026-05-29T13:20:00.000Z",
+          "title": "[TF초점] '거제 야호'로 터진 잠재력…리센느, 대중 속으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530000221158",
+          "publishedAt": "2026-05-29T16:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "지젤, '뼈말라' 몸매로 난리났는데…\"탄수화물만 먹어, 팬케이크에 빠졌다\" (야노시호)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260529n32013",
-          "publishedAt": "2026-05-29T13:20:00.000Z",
+          "title": "갸루, 왜 다시 예뻐 보이죠? [솔드아웃]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2588753",
+          "publishedAt": "2026-05-29T16:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "지젤, 극세사 몸매 비결 공개 \"팬케이크 매일 먹어…탄수화물만\" [야노시호]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260529n31151",
-          "publishedAt": "2026-05-29T13:20:00.000Z",
+          "title": "“거제 야호”…아이돌 그룹 리센느, 거제 홍보대사 콘텐츠 268만명 ‘엄지 척’",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202605290144",
+          "publishedAt": "2026-05-29T16:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "지젤, 극세사 몸매 비결 공개 \"팬케이크 매일 먹어..탄수화물만\" [야노시호]",
-        "source": "ASIA ARTIST AWARDS 2025",
-        "url": "https://www.asiaartistawards.com/news/detail/180979",
-        "publishedAt": "2026-05-29T13:20:00.000Z",
+        "title": "원이",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530000221158",
+        "publishedAt": "2026-05-29T16:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-29T13:20:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "지젤",
-      "source": "ASIA ARTIST AWARDS 2025",
-      "url": "https://www.asiaartistawards.com/news/detail/180979",
+      "publishedAt": "2026-05-29T16:20:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "원이",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260530000221158",
       "rank": 9
     },
     {
-      "id": "f4028909379cd80d",
-      "issueKey": "챔스",
-      "issueTitle": "챔스",
-      "trendTitle": "챔스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "bb2315fdc7db1661",
+      "issueKey": "최고의 조력자",
+      "issueTitle": "최고의 조력자",
+      "trendTitle": "최고의 조력자",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'UCL 결승 뛰고 우승'…이강인, 홍명보호 합류 전 새 역사 쓸까",
+          "title": "[서병기의 문화인사이트]'모자무싸'고혜진 역 강말금, 이 시대 최고의 조력자!",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260529111511777",
-          "publishedAt": "2026-05-29T13:20:00.000Z",
+          "url": "https://v.daum.net/v/20260530010218885",
+          "publishedAt": "2026-05-29T16:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"50대 50이지만, 이제 트로피 가져 올 때 됐다\".. '20년 전 13분의 악몽' 벵거, 아스날 역사상 첫 챔피언스리그 우승 예언",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/28/MMZDGZBXMJQTIY3BGYZTKYTEGA/",
-          "publishedAt": "2026-05-29T13:20:00.000Z",
+          "title": "[기획] 황동만은 정말 데뷔할 수 있을까 - 중예산 담당자가 말하는 드라마 와 신인감독들의 현실",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110030",
+          "publishedAt": "2026-05-29T16:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"공중볼은 아스날이 우위, 하지만 우승은 결국 PSG\" 伊 전설, 60 대 40 냉정한 챔스 결승 예측",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/05/29/202605282315772659O",
-          "publishedAt": "2026-05-29T13:20:00.000Z",
+          "title": "키스신 없고 포옹이 전부였던 , 왜 그랬을까",
+          "source": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003238492",
+          "publishedAt": "2026-05-29T16:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"공중볼은 아스날이 우위, 하지만 우승은 결국 PSG\" 伊 전설, 60 대 40 냉정한 챔스 결승 예측",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/05/29/202605282315772659O",
-        "publishedAt": "2026-05-29T13:20:00.000Z",
-        "relevanceScore": 1
+        "title": "[서병기의 문화인사이트]'모자무싸'고혜진 역 강말금, 이 시대 최고의 조력자!",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530010218885",
+        "publishedAt": "2026-05-29T16:00:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-05-29T13:20:00.000Z",
-      "firstSeenAt": "2026-05-29T15:33:39.920Z",
-      "lastSeenAt": "2026-05-29T15:33:39.920Z",
-      "title": "챔스",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/sports/2026/05/29/202605282315772659O",
+      "publishedAt": "2026-05-29T16:00:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "최고의 조력자",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260530010218885",
       "rank": 10
     }
   ],
@@ -575,52 +575,6 @@
       "title": "정원오",
       "source": "KBS 뉴스",
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8570423"
-    },
-    {
-      "id": "ea150b0a003c9a38",
-      "issueKey": "원자력 잠수함",
-      "issueTitle": "원자력 잠수함",
-      "trendTitle": "원자력 잠수함",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "정부 “핵잠 연료, 해외에서 도입”…美 더딘 실무협상에 연료 조달 고심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260527153715070",
-          "publishedAt": "2026-05-27T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "HD현대중공업·한화오션 ‘20조 K핵잠’ 수주 진검승부",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/industry/2026/05/28/20260528030003",
-          "publishedAt": "2026-05-27T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "스스로를 지키는 힘, 미래를 준비하는 국방",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148965169",
-          "publishedAt": "2026-05-27T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "원자력 잠수함",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260527153715070",
-        "publishedAt": "2026-05-27T14:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T14:20:00.000Z",
-      "firstSeenAt": "2026-05-27T15:42:51.510Z",
-      "lastSeenAt": "2026-05-27T15:42:51.510Z",
-      "title": "원자력 잠수함",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260527153715070"
     },
     {
       "id": "73b47d6729b4db77",
@@ -828,71 +782,50 @@
       "url": "https://www.chosun.com/entertainments/broadcast/2026/05/28/GQYDGMJSHE4TMNJSHE4GCMRSGM/"
     },
     {
-      "id": "39b19a21a228ae9f",
-      "issueKey": "제니",
-      "issueTitle": "제니",
-      "trendTitle": "제니",
+      "id": "14b16825c0365a04",
+      "issueKey": "손태진",
+      "issueTitle": "손태진",
+      "trendTitle": "손태진",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
-      "articleCount": 6,
+      "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[뉴스1 ★]블랙핑크 제니, ‘인간 샤넬’의 압도적 존재감",
+          "title": "'편스토랑' 손태진 父 \"해외 생활만 45년‥건설업체 주재원 근무\" [RE:TV]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/paYn8saeHv",
-          "publishedAt": "2026-05-27T16:30:00.000Z",
+          "url": "https://v.daum.net/v/20260530045202593",
+          "publishedAt": "2026-05-29T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "미소 짓는 제니",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260526_0021297246",
-          "publishedAt": "2026-05-26T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]지창욱,'볼하트로 여심 사냥'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/entertain_photo/2026/05/26/GZSDAOLCGI4GMNBVGE2TANTEGM/",
-          "publishedAt": "2026-05-26T15:00:00.000Z",
+          "title": "1등 가수 손태진, 상인 분들 환호에 생애 최초 수산시장 버스킹! 어머니, 아버지도 흐뭇♥",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_PS-2026094723-01-000_MFSC1&amp;program_code=T2019-0286&amp;program_id=PS-2026094723-01-000&amp;section_code=04&amp;broadcast_complete_yn=N&amp;section_id=10742",
+          "publishedAt": "2026-05-29T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "미모의 제니",
+          "title": "손태진, 중국어에 이탈리아어까지 4개국어 '능력자'",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260526_0021297350",
-          "publishedAt": "2026-05-27T16:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[MD포토] 아일릿 원희 '시크하게'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260526n33398",
-          "publishedAt": "2026-05-27T16:30:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "라이크 제니? 온리 제니!…클래스가 다른 아우라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/f7jCWZhDH9?f=p",
-          "publishedAt": "2026-05-26T15:00:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260528_0003647762",
+          "publishedAt": "2026-05-29T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[뉴스1 ★]블랙핑크 제니, ‘인간 샤넬’의 압도적 존재감",
+        "title": "'편스토랑' 손태진 父 \"해외 생활만 45년‥건설업체 주재원 근무\" [RE:TV]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/paYn8saeHv",
-        "publishedAt": "2026-05-27T16:30:00.000Z",
+        "url": "https://v.daum.net/v/20260530045202593",
+        "publishedAt": "2026-05-29T16:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-27T16:30:00.000Z",
-      "firstSeenAt": "2026-05-26T20:09:07.499Z",
-      "lastSeenAt": "2026-05-27T20:18:46.499Z",
-      "title": "제니",
+      "publishedAt": "2026-05-29T16:30:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "손태진",
       "source": "Daum",
-      "url": "https://v.daum.net/v/paYn8saeHv"
+      "url": "https://v.daum.net/v/20260530045202593"
     },
     {
       "id": "8823badb83c7b59c",
@@ -1079,96 +1012,50 @@
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8571754"
     },
     {
-      "id": "57dbff2898415dad",
-      "issueKey": "미사일",
-      "issueTitle": "미사일",
-      "trendTitle": "미사일",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "d0519b2656e006e2",
+      "issueKey": "오성욱",
+      "issueTitle": "오성욱",
+      "trendTitle": "오성욱",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "주한이란대사, 나무호 피격 관련성 부인…″절대 개입한 것 없어″",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260527200426SR1",
-          "publishedAt": "2026-05-27T18:50:00.000Z",
+          "title": "'공포의 외인 구단?' PBA 팀 리그 10구단 선수 구성 완료, 우승 경험자만 4명",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6524575",
+          "publishedAt": "2026-05-29T16:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "정부 “나무호 때린 탄두, 이란제와 유사”… 이란대사는 공격 부인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260528043426882",
-          "publishedAt": "2026-05-27T18:50:00.000Z",
+          "title": "오성욱·임경진 등 챔피언으로 채운 프로당구 10구단…언더독 반란 노린다",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html",
+          "publishedAt": "2026-05-29T16:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"나무호, 총 두 번의 미상 비행체 공격받아\" [현장영상+]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202605271701518111",
-          "publishedAt": "2026-05-27T18:50:00.000Z",
+          "title": "휴온스 헬스케어 레전드, 26-27시즌 PBA 팀리그 출정식",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10759783",
+          "publishedAt": "2026-05-29T16:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "미사일",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260527200426SR1",
-        "publishedAt": "2026-05-27T18:50:00.000Z",
-        "relevanceScore": 3
+        "title": "오성욱·임경진 등 챔피언으로 채운 프로당구 10구단…언더독 반란 노린다",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html",
+        "publishedAt": "2026-05-29T16:40:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-05-27T18:50:00.000Z",
-      "firstSeenAt": "2026-05-27T20:18:46.499Z",
-      "lastSeenAt": "2026-05-27T20:18:46.499Z",
-      "title": "미사일",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260527200426SR1"
-    },
-    {
-      "id": "c8e88a823a2091fe",
-      "issueKey": "패싸움 발발",
-      "issueTitle": "패싸움 발발",
-      "trendTitle": "패싸움 발발",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "패싸움 발발! \"서로에게 병과 의자를 던져\"→경찰 출동 후 구금...UECL 결승 앞두고 팰리스-라요 팬 대거 충돌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9zvItmgRW2",
-          "publishedAt": "2026-05-27T18:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Germany Conference League Final Soccer",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260528n01816?mid=n1101",
-          "publishedAt": "2026-05-27T18:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "라요 바예카노 vs. 크리스탈 팰리스: 지역 정체성과 프리미어 리그의 막대한 자금력이 충돌할 때.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/rayo-vallecano-doi-dau-crystal-palace-khi-ban-sac-khu-pho-doi-dau-nui-tien-ngoai-hang-anh",
-          "publishedAt": "2026-05-27T18:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "패싸움 발발! \"서로에게 병과 의자를 던져\"→경찰 출동 후 구금...UECL 결승 앞두고 팰리스-라요 팬 대거 충돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/9zvItmgRW2",
-        "publishedAt": "2026-05-27T18:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T18:10:00.000Z",
-      "firstSeenAt": "2026-05-27T20:18:46.499Z",
-      "lastSeenAt": "2026-05-27T20:18:46.499Z",
-      "title": "패싸움 발발",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/9zvItmgRW2"
+      "publishedAt": "2026-05-29T16:40:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "오성욱",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html"
     },
     {
       "id": "1ea0b989213f4138",
@@ -1631,144 +1518,6 @@
       "url": "https://www.newsis.com/view/NISI20260527_0021299046"
     },
     {
-      "id": "2846ab19fed57285",
-      "issueKey": "이강인",
-      "issueTitle": "이강인",
-      "trendTitle": "이강인",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이강인 3년 내내 러브콜, LEE 드디어 스페인 라리가 명문 아틀레티코 마드리드 가나?…\"ATM, 여름에 다시 시도\" 이적료 2616억 갖고 뛰어든다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260527215503622",
-          "publishedAt": "2026-05-27T16:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이강인, 3년 만에 라리가 복귀 시나리오 떴다…알바레스 재계약 거절→PSG-AT 빅딜 변수",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/05/27/GE2DAN3GGY4TCNLGMZTDKMZVMY/",
-          "publishedAt": "2026-05-27T16:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이강인, 알바레스 초대형 트레이드설 등장…ATM “하무스와 함께 원한다”",
-          "source": "오쎈",
-          "url": "http://www.osen.co.kr/article/G1112808707",
-          "publishedAt": "2026-05-27T16:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이강인 3년 내내 러브콜, LEE 드디어 스페인 라리가 명문 아틀레티코 마드리드 가나?…\"ATM, 여름에 다시 시도\" 이적료 2616억 갖고 뛰어든다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260527215503622",
-        "publishedAt": "2026-05-27T16:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T16:30:00.000Z",
-      "firstSeenAt": "2026-05-27T20:18:46.499Z",
-      "lastSeenAt": "2026-05-27T20:18:46.499Z",
-      "title": "이강인",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260527215503622"
-    },
-    {
-      "id": "679baea92d36cf94",
-      "issueKey": "경북도",
-      "issueTitle": "경북도",
-      "trendTitle": "경북도",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "경북도, 전략산업 인재 8천9백여 명 양성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260527154002197",
-          "publishedAt": "2026-05-27T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "반도체 핵심 부품 국산화, 구미가 밀고 포항이 끈다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260526/133996478/2",
-          "publishedAt": "2026-05-27T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "경북 포항시, 지역 AI 기업과 손잡고 제조업 AX 전환 나서",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/society/2026/05/27/20260527500206?cp=go",
-          "publishedAt": "2026-05-27T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "경북도, 전략산업 인재 8천9백여 명 양성",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260527154002197",
-        "publishedAt": "2026-05-27T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T14:10:00.000Z",
-      "firstSeenAt": "2026-05-27T15:42:51.510Z",
-      "lastSeenAt": "2026-05-27T15:42:51.510Z",
-      "title": "경북도",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260527154002197"
-    },
-    {
-      "id": "eea991f14a8c7500",
-      "issueKey": "rr vs srh",
-      "issueTitle": "rr vs srh",
-      "trendTitle": "rr vs srh",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "RR vs SRH Cricket Scorecard, Eliminator at New Chandigarh, May 27, 2026",
-          "source": "ESPNcricinfo",
-          "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/rajasthan-royals-vs-sunrisers-hyderabad-eliminator-1535463/full-scorecard",
-          "publishedAt": "2026-05-27T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "SRH vs RR, Eliminator, Indian Premier League 2026 - Commentary",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/live-cricket-scores/155387/rr-vs-srh-eliminator-indian-premier-league-2026",
-          "publishedAt": "2026-05-27T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'Will Try To Be More Aggressive': Pat Cummins' Big Warning Ahead Of SRH vs RR Eliminator Match",
-          "source": "NDTV Sports",
-          "url": "https://sports.ndtv.com/ipl-2026/will-try-to-be-more-aggressive-pat-cummins-big-warning-ahead-of-srh-vs-rr-eliminator-match-11553354",
-          "publishedAt": "2026-05-27T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "RR vs SRH Cricket Scorecard, Eliminator at New Chandigarh, May 27, 2026",
-        "source": "ESPNcricinfo",
-        "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/rajasthan-royals-vs-sunrisers-hyderabad-eliminator-1535463/full-scorecard",
-        "publishedAt": "2026-05-27T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-27T14:00:00.000Z",
-      "firstSeenAt": "2026-05-27T15:42:51.510Z",
-      "lastSeenAt": "2026-05-27T15:42:51.510Z",
-      "title": "rr vs srh",
-      "source": "ESPNcricinfo",
-      "url": "https://www.espncricinfo.com/series/ipl-2026-1510719/rajasthan-royals-vs-sunrisers-hyderabad-eliminator-1535463/full-scorecard"
-    },
-    {
       "id": "642315305ad78197",
       "issueKey": "경찰",
       "issueTitle": "경찰",
@@ -1827,6 +1576,52 @@
       "title": "경찰",
       "source": "전기신문",
       "url": "https://www.electimes.com/news/articleView.html?idxno=368579"
+    },
+    {
+      "id": "bb2315fdc7db1661",
+      "issueKey": "최고의 조력자",
+      "issueTitle": "최고의 조력자",
+      "trendTitle": "최고의 조력자",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[서병기의 문화인사이트]'모자무싸'고혜진 역 강말금, 이 시대 최고의 조력자!",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530010218885",
+          "publishedAt": "2026-05-29T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[기획] 황동만은 정말 데뷔할 수 있을까 - 중예산 담당자가 말하는 드라마 와 신인감독들의 현실",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=110030",
+          "publishedAt": "2026-05-29T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "키스신 없고 포옹이 전부였던 , 왜 그랬을까",
+          "source": "오마이뉴스",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003238492",
+          "publishedAt": "2026-05-29T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[서병기의 문화인사이트]'모자무싸'고혜진 역 강말금, 이 시대 최고의 조력자!",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530010218885",
+        "publishedAt": "2026-05-29T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T16:00:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "최고의 조력자",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260530010218885"
     },
     {
       "id": "4aa11385d5e83038",
@@ -2379,6 +2174,190 @@
       "title": "라이엇 게임즈",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260528113202722"
+    },
+    {
+      "id": "82d761d8dbb72368",
+      "issueKey": "외국인",
+      "issueTitle": "외국인",
+      "trendTitle": "외국인",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[그래픽] 외국인 보유 국내 주택 추이",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/GYH20260529000300044",
+          "publishedAt": "2026-05-29T19:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "중국인이 강남 싹쓸이? 오해였다…실제론 부천·안산서 6억 이하 실거주",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/05/29/2026052915395154404",
+          "publishedAt": "2026-05-29T19:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "외국인들 지난해 부산에서 토지 499만4000㎡·집 3276가구 소유",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260529.99099007637",
+          "publishedAt": "2026-05-29T19:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[그래픽] 외국인 보유 국내 주택 추이",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/GYH20260529000300044",
+        "publishedAt": "2026-05-29T19:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T19:10:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "외국인",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/GYH20260529000300044"
+    },
+    {
+      "id": "52b1bc4e219364e5",
+      "issueKey": "기아 ev9",
+      "issueTitle": "기아 ev9",
+      "trendTitle": "기아 ev9",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kia’s flagship EV has a battery problem",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "I Love EVs, But Kia and Hyundai Are Making That Harder",
+          "source": "InsideEVs",
+          "url": "https://insideevs.com/features/796357/kia-hyundai-ev-owner-experience-2026/",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Kia EV6, KV9, Hyundai IONIQ & Genesis Battery ICCU Bricking, Recalls & Fixes?",
+          "source": "AUTO Connected Car News",
+          "url": "https://www.autoconnectedcar.com/2026/05/kia-ev6-kv9-hyundai-ioniq-genesis-battery-iccu-bricking-recalls-fixes/",
+          "publishedAt": "2026-05-29T19:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기아 ev9",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues",
+        "publishedAt": "2026-05-29T19:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T19:00:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "기아 ev9",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/report/938783/kia-ev9-battery-problem-issues"
+    },
+    {
+      "id": "40af4be600da7d71",
+      "issueKey": "도박",
+      "issueTitle": "도박",
+      "trendTitle": "도박",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] '통일교 도박 수사무마 의혹' 김도형 전 강원경찰청장 등 4명 압수수색",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6826250_36918.html",
+          "publishedAt": "2026-05-29T18:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "종합특검, ‘통일교 원정도박 수사무마 의혹’ 윤희근 전 경찰청장 압수수색",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zCzhFhcnhR",
+          "publishedAt": "2026-05-29T18:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "종합특검, 윤희근 前경찰청장·김도형 前강원청장 압수수색(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260529_0003649812",
+          "publishedAt": "2026-05-29T18:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독] '통일교 도박 수사무마 의혹' 김도형 전 강원경찰청장 등 4명 압수수색",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6826250_36918.html",
+        "publishedAt": "2026-05-29T18:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T18:20:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "도박",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6826250_36918.html"
+    },
+    {
+      "id": "09644999a9069dde",
+      "issueKey": "원이",
+      "issueTitle": "원이",
+      "trendTitle": "원이",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[TF초점] '거제 야호'로 터진 잠재력…리센느, 대중 속으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530000221158",
+          "publishedAt": "2026-05-29T16:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "갸루, 왜 다시 예뻐 보이죠? [솔드아웃]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2588753",
+          "publishedAt": "2026-05-29T16:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“거제 야호”…아이돌 그룹 리센느, 거제 홍보대사 콘텐츠 268만명 ‘엄지 척’",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202605290144",
+          "publishedAt": "2026-05-29T16:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "원이",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530000221158",
+        "publishedAt": "2026-05-29T16:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-05-29T16:20:00.000Z",
+      "firstSeenAt": "2026-05-29T20:25:52.475Z",
+      "lastSeenAt": "2026-05-29T20:25:52.475Z",
+      "title": "원이",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260530000221158"
     }
   ]
 }
