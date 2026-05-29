@@ -4,9 +4,45 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-05-28T22:41:18.485Z",
-  "articleCount": 21,
+  "lastUpdatedAt": "2026-05-29T03:40:13.729Z",
+  "articleCount": 23,
   "articles": [
+    {
+      "id": "2b83d47faf0c4015",
+      "title": "서틱, 인공지능 에이전트 보안 점검 도구 ‘스킬 스캐너’ 출시",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=304854",
+      "source": "경향게임스",
+      "publishedAt": "2026-05-29T02:13:30.000Z",
+      "summary": "글로벌 웹3 보안 기업 서틱(CertiK)이 인공지능(AI) 에이전트용 애플리케이션 보안을 점검하는 ‘서틱 스킬 스캐너(CertiK Skill Scanner)’를 출시했다고 밝혔다. 업계에서는 이를 두고 “AI 시대의 백신 프로그램”이라는 평가도 나오고 있다. 최근 AI 에이전트는 단순 정보 검색을 넘어 금융 거래와 외부 시스템 호출, 코드 실행 등 다양한 작업을 수행할 수 있는 수준으...",
+      "tab": "ai"
+    },
+    {
+      "id": "4c33582af225ac8d",
+      "title": "선언형 MCP, AI 코딩 에이전트의 컨텍스트 문제를 풀다",
+      "url": "https://www.itworld.co.kr/article/4178019/%ec%84%a0%ec%96%b8%ed%98%95-mcp-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bb%a8%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%ac%b8%ec%a0%9c%eb%a5%bc-%ed%92%80%eb%8b%a4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-29T01:18:00.000Z",
+      "summary": "모델 컨텍스트 프로토콜(MCP)은 AI 어시스턴트를 외부 데이터, 툴, API와 연결하기 위한 개방형 프로토콜이다. 앤트로픽이 2024년 말에 처음 선보인 이후 데브옵스, 클라우드를 비롯한 다양한 분야에서 수많은 MCP 서버가 등장했다. 개발자들이 애플리케이션에 MCP 서버를 통합하고 실제 작업에서 검증을 거치면서 여러 사용 패턴도 나타나고 있다. 예를 들어 2026년 초 발행된 주플로...",
+      "tab": "ai"
+    },
+    {
+      "id": "773f3adc1f5beb59",
+      "title": "“모델보다 무거운 것들” AI 종속의 새로운 전선",
+      "url": "https://www.itworld.co.kr/article/4177998/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%ac%b4%ea%b1%b0%ec%9a%b4-%ea%b2%83%eb%93%a4-ai-%ec%a2%85%ec%86%8d%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%a0%84%ec%84%a0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-29T01:10:00.000Z",
+      "summary": "최근 PwC는 3만 명의 자사 직원을 대상으로 앤트로픽 클로드에 대한 교육과 인증을 실시하고, 이를 기반으로 은행, 보험, 의료 분야 고객을 위한 CFO 오피스 비즈니스를 구축할 것이라고 발표했다 . 앤트로픽도 최근 파트너 네트워크에 1억 달러를 투자했고 , 오픈AI 역시 40억 달러 이상의 초기 투자를 유치해 새로운 회사인 오픈AI 디플로이먼트 컴퍼니(OpenAI Deployment...",
+      "tab": "ai"
+    },
+    {
+      "id": "4209de4f44ad3c8d",
+      "title": "3조 달러짜리 오픈AI 소송, 진짜 승자는 ‘위선’이었다",
+      "url": "https://www.itworld.co.kr/article/4177995/3%ec%a1%b0-%eb%8b%ac%eb%9f%ac%ec%a7%9c%eb%a6%ac-%ec%98%a4%ed%94%88ai-%ec%86%8c%ec%86%a1-%ec%a7%84%ec%a7%9c-%ec%8a%b9%ec%9e%90%eb%8a%94-%ec%9c%84%ec%84%a0%ec%9d%b4%ec%97%88%eb%8b%a4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-05-29T01:00:00.000Z",
+      "summary": "만약 원고와 피고 모두에게 불리한 판결이 내려져야 마땅한 소송이 있다면, 일론 머스크가 오픈AI와 마이크로소프트를 상대로 제기한 소송이 바로 그런 사례다. 세간의 이목을 집중시킨 이 법적 공방은 세계 최고 부호와 기업 가치 3조 달러 이상의 회사, 곧 1조 달러 기업공개를 앞뒀다는 회사, 그리고 인류에게 해악을 끼칠 수도 있는 기술을 개발하면서도 오로지 세상의 선(善)을 위한다고 주장하...",
+      "tab": "ai"
+    },
     {
       "id": "c38ba7f6e4c801f4",
       "title": "[포토] 2026 A1 CHALLENGE 시뮬레이션 대회",
@@ -176,24 +212,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-05-21T01:16:00.000Z",
       "summary": "자율 에이전트 오케스트레이션 도구 오픈클로(OpenClaw)는 지난 11월 등장하자마자 폭발적인 반응을 얻었지만, 금세 심각한 결함도 드러났다. 그럼에도 오픈클로는 에이전트 AI 시대의 중요한 전환점이 됐고, 기업은 그 이후 자율 에이전트 집단을 안전하고 보안을 갖춰 배포할 방법을 모색해 왔다. 오토메이션 애니웨어가 화요일 시스코, 엔비디아, 옥타, 오픈AI와 공동으로 개발한 엔터프라이...",
-      "tab": "ai"
-    },
-    {
-      "id": "283b704409766b5c",
-      "title": "10년 만에 돌아온 구글 글래스 착용기 “이번엔 다르다”",
-      "url": "https://www.itworld.co.kr/article/4175380/10%eb%85%84-%eb%a7%8c%ec%97%90-%eb%8f%8c%ec%95%84%ec%98%a8-%ea%b5%ac%ea%b8%80-%ea%b8%80%eb%9e%98%ec%8a%a4-%ec%b0%a9%ec%9a%a9%ea%b8%b0-%ec%9d%b4%eb%b2%88%ec%97%94-%eb%8b%a4%eb%a5%b4%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-21T00:24:55.000Z",
-      "summary": "구글 글래스로 화려한 실패를 맛본 지 10년 후 구글이 다시 도전에 나섰다. 이번에는 온라인 AI 통역사 역할을 하는 제미나이를 귀에 꽂아 세상을 탐색하는 방식으로, 세상도 필자도 훨씬 더 열린 마음으로 받아들일 수 있을 것 같다. 이번 주 열린 구글 I/O 컨퍼런스에서 구글의 확장현실(XR) 글래스 프로토타입을 직접 착용해 볼 기회가 생겼다. I/O에서 나온 웨어러블 글래스 관련 발표...",
-      "tab": "ai"
-    },
-    {
-      "id": "efa727cdc8272ab9",
-      "title": "AI 검색 에이전트로 무장한 구글, 검색의 정의를 바꾼다",
-      "url": "https://www.itworld.co.kr/article/4175359/ai-%ea%b2%80%ec%83%89-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%a1%9c-%eb%ac%b4%ec%9e%a5%ed%95%9c-%ea%b5%ac%ea%b8%80-%ea%b2%80%ec%83%89%ec%9d%98-%ec%a0%95%ec%9d%98%eb%a5%bc-%eb%b0%94%ea%be%bc%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-20T23:41:02.000Z",
-      "summary": "AI 모드는 시작일 뿐이었다. 이제 구글 검색과 제미나이는 계속해서 경계를 무너뜨리고 있다. 검색이란 무엇인가? 이번 주 구글 I/O 컨퍼런스에서 구글은 더 복잡한 질문을 던졌다. 검색이 제미나이의 AI 기능을 흡수하면서 익숙한 파란색 링크 목록의 세계를 훨씬 벗어났기 때문이다. 수십 년간 사용자는 구글이나 빙에 페이지 목록을 가져오라고 지시했고, 목록 안에서 답을 발견했다. 이제 ‘검...",
       "tab": "ai"
     }
   ]
