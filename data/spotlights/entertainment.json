@@ -7,11 +7,58 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-05-31T19:18:07.054Z",
+  "lastUpdatedAt": "2026-05-31T22:00:09.550Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 9,
   "items": [
+    {
+      "id": "aa505a7d45ac47bb",
+      "issueKey": "안타",
+      "issueTitle": "안타",
+      "trendTitle": "안타",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘오스틴 결승포’ LG, KIA에 꺽고 단독 1위 수성",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531213303752",
+          "publishedAt": "2026-05-31T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "홍창기 4안타-박해민 3안타, 테이블세터 살아난다...염갈량 \"주말 시리즈 3연승, 만원 관중 팬들에게 감사\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/06/01/MRRTCZRVG43DQN3CGVRTAZJSHA/",
+          "publishedAt": "2026-05-31T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "오스틴 결승 2점 홈런·장단 12개 안타…LG, KIA에 싹쓸이 3연승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260531044400007",
+          "publishedAt": "2026-05-31T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "홍창기 4안타-박해민 3안타, 테이블세터 살아난다...염갈량 \"주말 시리즈 3연승, 만원 관중 팬들에게 감사\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/06/01/MRRTCZRVG43DQN3CGVRTAZJSHA/",
+        "publishedAt": "2026-05-31T20:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-31T20:50:00.000Z",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
+      "title": "안타",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/baseball/2026/06/01/MRRTCZRVG43DQN3CGVRTAZJSHA/",
+      "rank": 1
+    },
     {
       "id": "48f6950402531f64",
       "issueKey": "박준금",
@@ -23,9 +70,9 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'미우새' 박준금, 탁재훈과 뜻밖의 인연…\"탁재훈 집에서 자고 간 적 있다\"",
+          "title": "'64세' 박준금, 평생 43kg‥비법은 다이어트 김밥? \"배부를 생각 마\" ('미우새') [순간포착]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260531214100804",
+          "url": "https://v.daum.net/v/20260601064018846",
           "publishedAt": "2026-05-31T12:20:00.000Z",
           "relevanceScore": 3
         },
@@ -37,27 +84,27 @@
           "relevanceScore": 2
         },
         {
-          "title": "'돌싱 22년 차' 박준금 \"이혼할 줄 몰랐다‥연애도, 재혼도 관심有\" ('미우새') [순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/GVSGIYJXGEZTQMDEMI3TCZBZHA/",
+          "title": "'돌싱 22년차' 박준금, 재혼도 열려있다…\"소개팅 말고 자연스럽게\" (미우새)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260531n17028",
           "publishedAt": "2026-05-31T12:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'미우새' 박준금, 탁재훈과 뜻밖의 인연…\"탁재훈 집에서 자고 간 적 있다\"",
+        "title": "'64세' 박준금, 평생 43kg‥비법은 다이어트 김밥? \"배부를 생각 마\" ('미우새') [순간포착]",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260531214100804",
+        "url": "https://v.daum.net/v/20260601064018846",
         "publishedAt": "2026-05-31T12:20:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-31T12:20:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "박준금",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260531214100804",
-      "rank": 1
+      "url": "https://v.daum.net/v/20260601064018846",
+      "rank": 2
     },
     {
       "id": "a8c5d92bb744ac4c",
@@ -84,9 +131,9 @@
           "relevanceScore": 2
         },
         {
-          "title": "XSMT 1/6, Xổ số miền Trung ngày 1 tháng 6, Trực tiếp Kết quả Xổ số miền Trung hôm nay ngày 1/6/2026",
-          "source": "Tạp chí Doanh nghiệp và Hội nhập",
-          "url": "https://doanhnghiephoinhap.vn/xsmt-16-xo-so-mien-trung-ngay-1-thang-6-truc-tiep-ket-qua-xo-so-mien-trung-hom-nay-ngay-162026-137374.html",
+          "title": "Kết quả xổ số hôm nay, 31-5: Xổ số miền Nam - Tiền Giang, Kiên Giang, Lâm Đồng",
+          "source": "CafeF",
+          "url": "https://cafef.vn/ket-qua-xo-so-hom-nay-31-5-xo-so-mien-nam-tien-giang-kien-giang-lam-dong-188260531160528325.chn",
           "publishedAt": "2026-05-31T11:40:00.000Z",
           "relevanceScore": 1
         }
@@ -99,12 +146,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-31T11:40:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "xsmb",
       "source": "thethaovanhoa.vn",
       "url": "https://thethaovanhoa.vn/xsmn-1-6-ket-qua-xo-so-mien-nam-hom-nay-1-6-2026-truc-tiep-xo-so-hom-nay-ngay-1-thang-6-20260531061248192.htm",
-      "rank": 2
+      "rank": 3
     },
     {
       "id": "73e517306708aba6",
@@ -124,9 +171,9 @@
           "relevanceScore": 3
         },
         {
-          "title": "'지금까지 이런 적 없었다' 안세영, 19년 만에 대기록 주인공 우뚝...두통·고열 속 극적 승리 \"태극기 덕분에\"",
+          "title": "안세영이 마지막이었다니…배드민턴연맹 '중국화' 심해진다→'열광적 응원' 싱가포르 오픈 강등+홍콩 오픈 슈퍼 750 '승격'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/BseSzegRvm",
+          "url": "https://v.daum.net/v/20260601060119253",
           "publishedAt": "2026-05-31T11:00:00.000Z",
           "relevanceScore": 2
         },
@@ -146,12 +193,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-31T11:00:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "안세영",
       "source": "조선일보",
       "url": "https://www.chosun.com/international/international_general/2026/05/31/HPR3DJPESJCUXD7XPBF6DCDF3M/",
-      "rank": 3
+      "rank": 4
     },
     {
       "id": "9cf5817c5264ba37",
@@ -171,16 +218,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "[기고] 예약 순찰 적극적 활용으로 절도 예방합시다",
-          "source": "서산포스트",
-          "url": "https://www.seosanpost.co.kr/news/articleView.html?idxno=60074",
+          "title": "‘수확철’ 제주 도로변 농산물 건조…안전 위협·절도 표적 우려",
+          "source": "제주도민일보",
+          "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=319413",
           "publishedAt": "2026-05-31T11:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "제주서부경찰서, 농산물(마늘) 절도예방을 위한 民·警 합동순찰",
-          "source": "뉴스N제주",
-          "url": "https://www.newsnjeju.com/news/articleView.html?idxno=283795",
+          "title": "[열린마당] 농민의 일 년을 지키는 경찰의 사명",
+          "source": "한라일보",
+          "url": "https://m.ihalla.com/article.php?aid=1779897600786395099",
           "publishedAt": "2026-05-31T11:00:00.000Z",
           "relevanceScore": 1
         }
@@ -193,64 +240,64 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-31T11:00:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "기댄 꼴불견",
       "source": "경향신문",
       "url": "https://www.khan.co.kr/article/202605311548001",
-      "rank": 4
+      "rank": 5
     },
     {
-      "id": "79f7b70e00be156e",
-      "issueKey": "유선호",
-      "issueTitle": "유선호",
-      "trendTitle": "유선호",
+      "id": "3af37469f426bf9a",
+      "issueKey": "딘딘",
+      "issueTitle": "딘딘",
+      "trendTitle": "딘딘",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'1박2일' 유선호, 마지막 촬영서 멤버들 편지에 감동…\"평생 함께할 형들\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260531210250454",
-          "publishedAt": "2026-05-31T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
           "title": "딘딘, 유선호 보내며 오열 \"넌 우리에게 찾아온 선물\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260531_0003650893",
           "publishedAt": "2026-05-31T10:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'1박2일' 이준, 고된 노동 후 오히려 '적자'…\"나는 거의 어미새\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531205737387",
+          "publishedAt": "2026-05-31T10:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'21살에서 25살'까지..유선호 \"내 20대 전부\" 눈물로 '1박2일' 하차 [핫피플]",
+          "title": "\"보물\" 유선호 가고, \"선물\" 이기택 온다..'1박2일' 新막내 커밍쑨 [어저께TV]",
           "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/05/31/GJRTAY3CGQ2TOMTCMZRDCZJQMI/",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/06/01/GY3DAM3BGMYWKOBTGFTDQMLCGM/",
           "publishedAt": "2026-05-31T10:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'1박2일' 유선호, 마지막 촬영서 멤버들 편지에 감동…\"평생 함께할 형들\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260531210250454",
+        "title": "딘딘, 유선호 보내며 오열 \"넌 우리에게 찾아온 선물\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260531_0003650893",
         "publishedAt": "2026-05-31T10:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-31T10:40:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
-      "title": "유선호",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260531210250454",
-      "rank": 5
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
+      "title": "딘딘",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260531_0003650893",
+      "rank": 6
     },
     {
       "id": "0333e25dadeddee4",
       "issueKey": "후임에 정성호",
-      "issueTitle": "후임에 정성호",
+      "issueTitle": "김민석",
       "trendTitle": "김민석",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
@@ -258,23 +305,23 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12062286",
+          "title": "김 총리, ‘6·3 지선’ 후 사임 가능성…관가, 연쇄 개각여부 최대 관심사[세종백블]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531235908833",
           "publishedAt": "2026-05-31T10:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "관세·중동 파고 넘은 李정부 1기…2년차 국정 드라이브 진용 꾸린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260531060220465",
+          "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12062286",
           "publishedAt": "2026-05-31T10:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[靑春노트] 취임 1년 앞둔 靑…인사의 시계가 움직인다",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1372096",
+          "title": "관세·중동 파고 넘은 李정부 1기…2년차 국정 드라이브 진용 꾸린다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/president/6182606",
           "publishedAt": "2026-05-31T10:30:00.000Z",
           "relevanceScore": 1
         }
@@ -284,15 +331,15 @@
         "source": "매일경제",
         "url": "https://www.mk.co.kr/news/politics/12062286",
         "publishedAt": "2026-05-31T10:30:00.000Z",
-        "relevanceScore": 3
+        "relevanceScore": 2
       },
       "publishedAt": "2026-05-31T10:30:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
-      "title": "후임에 정성호",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
+      "title": "김민석",
       "source": "매일경제",
       "url": "https://www.mk.co.kr/news/politics/12062286",
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "2c22ce30cd3d52fd",
@@ -334,17 +381,17 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-05-31T10:30:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "실업급여",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260531120256895",
-      "rank": 7
+      "rank": 8
     },
     {
       "id": "c1fc52507c366520",
-      "issueKey": "이기택",
-      "issueTitle": "이기택",
+      "issueKey": "유재석",
+      "issueTitle": "유재석",
       "trendTitle": "이기택",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
@@ -366,73 +413,26 @@
           "relevanceScore": 2
         },
         {
-          "title": "[TVis] 유선호 '하차'→이용진·이기택, 슈트 입고 '1박 2일' 첫 등장…\"긴장되고 떨려\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260531n15999?mid=n1101",
+          "title": "“고정 귀하다” 유재석, 이용진 ‘1박 2일’ 정식멤버 축하 (‘놀면 뭐하니’)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12061930",
           "publishedAt": "2026-05-31T10:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[RE스타] ‘봉주르빵집 → 1박2일’ 고정만 3개.. 이기택, 어떻게 예능 블루칩이 됐나",
-        "source": "일간스포츠",
-        "url": "https://isplus.com/article/view/isp202605310030",
+        "title": "이용진 \"'1박 2일' 고정 합류, 유재석·하하 덕분\" (놀뭐)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530184817339",
         "publishedAt": "2026-05-31T10:20:00.000Z",
-        "relevanceScore": 2
+        "relevanceScore": 3
       },
       "publishedAt": "2026-05-31T10:20:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
-      "title": "이기택",
-      "source": "일간스포츠",
-      "url": "https://isplus.com/article/view/isp202605310030",
-      "rank": 8
-    },
-    {
-      "id": "208d105231d51911",
-      "issueKey": "의존 끊었다",
-      "issueTitle": "의존 끊었다",
-      "trendTitle": "의존 끊었다",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "삼성SDI 전고체 배터리 전용 시설 'S라인' 2027년 상용화 목표로 속도 낸다",
-          "source": "엠투데이",
-          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=544516",
-          "publishedAt": "2026-05-31T10:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "최신 배터리 기술 덕분에 밤새 충전하는 것이 더욱 안전해졌습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/cong-nghe-pin-hien-dai-giup-viec-sac-qua-dem-an-toan-hon",
-          "publishedAt": "2026-05-31T10:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“80% 의존 끊었다!”… K-배터리 독립의 시작",
-          "source": "브런치",
-          "url": "https://brunch.co.kr/@294a9e42095d403/3097",
-          "publishedAt": "2026-05-31T10:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“80% 의존 끊었다!”… K-배터리 독립의 시작",
-        "source": "브런치",
-        "url": "https://brunch.co.kr/@294a9e42095d403/3097",
-        "publishedAt": "2026-05-31T10:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-05-31T10:20:00.000Z",
-      "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
-      "title": "의존 끊었다",
-      "source": "브런치",
-      "url": "https://brunch.co.kr/@294a9e42095d403/3097",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
+      "title": "유재석",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260530184817339",
       "rank": 9
     }
   ],
@@ -1446,50 +1446,71 @@
       "url": "https://sports.news.nate.com/view/20260530n06904"
     },
     {
-      "id": "14b16825c0365a04",
-      "issueKey": "손태진",
-      "issueTitle": "손태진",
-      "trendTitle": "손태진",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "0333e25dadeddee4",
+      "issueKey": "후임에 정성호",
+      "issueTitle": "후임에 정성호",
+      "trendTitle": "김민석",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 6,
       "relatedArticles": [
         {
-          "title": "'편스토랑' 손태진 父 \"해외 생활만 45년‥건설업체 주재원 근무\" [RE:TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260530045202593",
-          "publishedAt": "2026-05-29T16:30:00.000Z",
+          "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/politics/12062286",
+          "publishedAt": "2026-05-31T10:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "1등 가수 손태진, 상인 분들 환호에 생애 최초 수산시장 버스킹! 어머니, 아버지도 흐뭇♥",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_PS-2026094723-01-000_MFSC1&amp;program_code=T2019-0286&amp;program_id=PS-2026094723-01-000&amp;section_code=04&amp;broadcast_complete_yn=N&amp;section_id=10742",
-          "publishedAt": "2026-05-29T16:30:00.000Z",
+          "title": "김 총리, ‘6·3 지선’ 후 사임 가능성…관가, 연쇄 개각여부 최대 관심사[세종백블]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531235908833",
+          "publishedAt": "2026-05-31T10:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "관세·중동 파고 넘은 李정부 1기…2년차 국정 드라이브 진용 꾸린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531060220465",
+          "publishedAt": "2026-05-31T10:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "손태진, 중국어에 이탈리아어까지 4개국어 '능력자'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260528_0003647762",
-          "publishedAt": "2026-05-29T16:30:00.000Z",
+          "title": "‘당권 도전설’ 김민석 총리, 지방선거 뒤 사의 표명할 듯",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1260887.html",
+          "publishedAt": "2026-05-31T10:30:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "김 총리, ‘6·3 지선’ 후 사임 가능성…관가, 연쇄 개각여부 최대 관심사[세종백블]",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10760338",
+          "publishedAt": "2026-05-31T10:30:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "[靑春노트] 취임 1년 앞둔 靑…인사의 시계가 움직인다",
+          "source": "데일리한국",
+          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1372096",
+          "publishedAt": "2026-05-31T10:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'편스토랑' 손태진 父 \"해외 생활만 45년‥건설업체 주재원 근무\" [RE:TV]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260530045202593",
-        "publishedAt": "2026-05-29T16:30:00.000Z",
+        "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/politics/12062286",
+        "publishedAt": "2026-05-31T10:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-29T16:30:00.000Z",
-      "firstSeenAt": "2026-05-29T20:25:52.475Z",
-      "lastSeenAt": "2026-05-29T20:25:52.475Z",
-      "title": "손태진",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260530045202593"
+      "publishedAt": "2026-05-31T10:30:00.000Z",
+      "firstSeenAt": "2026-05-31T13:45:45.167Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
+      "title": "후임에 정성호",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/politics/12062286"
     },
     {
       "id": "c1fc52507c366520",
@@ -1559,64 +1580,50 @@
       "url": "https://v.daum.net/v/20260531101347273"
     },
     {
-      "id": "0333e25dadeddee4",
-      "issueKey": "후임에 정성호",
-      "issueTitle": "후임에 정성호",
-      "trendTitle": "김민석",
+      "id": "c1fc52507c366520",
+      "issueKey": "유재석",
+      "issueTitle": "유재석",
+      "trendTitle": "이기택",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
-      "articleCount": 5,
+      "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12062286",
-          "publishedAt": "2026-05-31T10:30:00.000Z",
+          "title": "이용진 \"'1박 2일' 고정 합류, 유재석·하하 덕분\" (놀뭐)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530184817339",
+          "publishedAt": "2026-05-31T10:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "관세·중동 파고 넘은 李정부 1기…2년차 국정 드라이브 진용 꾸린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260531060220465",
-          "publishedAt": "2026-05-31T10:30:00.000Z",
+          "title": "[RE스타] ‘봉주르빵집 → 1박2일’ 고정만 3개.. 이기택, 어떻게 예능 블루칩이 됐나",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202605310030",
+          "publishedAt": "2026-05-31T10:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘당권 도전설’ 김민석 총리, 지방선거 뒤 사의 표명할 듯",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/bluehouse/1260887.html",
-          "publishedAt": "2026-05-31T10:30:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "김 총리, ‘6·3 지선’ 후 사임 가능성…관가, 연쇄 개각여부 최대 관심사[세종백블]",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10760338",
-          "publishedAt": "2026-05-31T10:30:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "[靑春노트] 취임 1년 앞둔 靑…인사의 시계가 움직인다",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1372096",
-          "publishedAt": "2026-05-31T10:30:00.000Z",
+          "title": "“고정 귀하다” 유재석, 이용진 ‘1박 2일’ 정식멤버 축하 (‘놀면 뭐하니’)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12061930",
+          "publishedAt": "2026-05-31T10:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김민석 총리 이달 사임 가능성 … 후임에 정성호·강훈식·한정애 하마평",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/politics/12062286",
-        "publishedAt": "2026-05-31T10:30:00.000Z",
+        "title": "이용진 \"'1박 2일' 고정 합류, 유재석·하하 덕분\" (놀뭐)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530184817339",
+        "publishedAt": "2026-05-31T10:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-31T10:30:00.000Z",
-      "firstSeenAt": "2026-05-31T13:45:45.167Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
-      "title": "후임에 정성호",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/politics/12062286"
+      "publishedAt": "2026-05-31T10:20:00.000Z",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
+      "title": "유재석",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260530184817339"
     },
     {
       "id": "32fb67ad07d52838",
@@ -2125,52 +2132,6 @@
       "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000630884?div=entersectionmain_clip"
     },
     {
-      "id": "d0519b2656e006e2",
-      "issueKey": "오성욱",
-      "issueTitle": "오성욱",
-      "trendTitle": "오성욱",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'공포의 외인 구단?' PBA 팀 리그 10구단 선수 구성 완료, 우승 경험자만 4명",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6524575",
-          "publishedAt": "2026-05-29T16:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "오성욱·임경진 등 챔피언으로 채운 프로당구 10구단…언더독 반란 노린다",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html",
-          "publishedAt": "2026-05-29T16:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "휴온스 헬스케어 레전드, 26-27시즌 PBA 팀리그 출정식",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10759783",
-          "publishedAt": "2026-05-29T16:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "오성욱·임경진 등 챔피언으로 채운 프로당구 10구단…언더독 반란 노린다",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html",
-        "publishedAt": "2026-05-29T16:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-29T16:40:00.000Z",
-      "firstSeenAt": "2026-05-29T20:25:52.475Z",
-      "lastSeenAt": "2026-05-29T20:25:52.475Z",
-      "title": "오성욱",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/sports/sports_general/1260983.html"
-    },
-    {
       "id": "48f6950402531f64",
       "issueKey": "박준금",
       "issueTitle": "박준금",
@@ -2195,6 +2156,13 @@
           "relevanceScore": 3
         },
         {
+          "title": "'64세' 박준금, 평생 43kg‥비법은 다이어트 김밥? \"배부를 생각 마\" ('미우새') [순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601064018846",
+          "publishedAt": "2026-05-31T12:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
           "title": "60대 제니 박준금 \"탁재훈 방에서 잔 적 있다\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260531_0003650601",
@@ -2214,13 +2182,6 @@
           "url": "https://www.news1.kr/entertain/broadcast-tv/6183168",
           "publishedAt": "2026-05-31T12:20:00.000Z",
           "relevanceScore": 1
-        },
-        {
-          "title": "'미우새' 박준금, 43kg 유지 비결?! \"배부르게 먹으려고 하면 안 돼\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/506820",
-          "publishedAt": "2026-05-31T12:20:00.000Z",
-          "relevanceScore": 1
         }
       ],
       "representativeArticle": {
@@ -2232,7 +2193,7 @@
       },
       "publishedAt": "2026-05-31T12:20:00.000Z",
       "firstSeenAt": "2026-05-31T13:45:45.167Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "박준금",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260531214100804"
@@ -2285,7 +2246,7 @@
       },
       "publishedAt": "2026-05-31T11:40:00.000Z",
       "firstSeenAt": "2026-05-31T16:09:01.417Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "xsmb",
       "source": "thethaovanhoa.vn",
       "url": "https://thethaovanhoa.vn/xsmn-1-6-ket-qua-xo-so-mien-nam-hom-nay-1-6-2026-truc-tiep-xo-so-hom-nay-ngay-1-thang-6-20260531061248192.htm"
@@ -2298,7 +2259,7 @@
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "relatedArticles": [
         {
           "title": "농촌 ‘인심’에 기댄 꼴불견···농작물 ‘이삭줍기’도 적당히",
@@ -2315,9 +2276,23 @@
           "relevanceScore": 2
         },
         {
+          "title": "‘수확철’ 제주 도로변 농산물 건조…안전 위협·절도 표적 우려",
+          "source": "제주도민일보",
+          "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=319413",
+          "publishedAt": "2026-05-31T11:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
           "title": "제주서부경찰서, 농산물(마늘) 절도예방을 위한 民·警 합동순찰",
           "source": "뉴스N제주",
           "url": "https://www.newsnjeju.com/news/articleView.html?idxno=283795",
+          "publishedAt": "2026-05-31T11:00:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "[열린마당] 농민의 일 년을 지키는 경찰의 사명",
+          "source": "한라일보",
+          "url": "https://m.ihalla.com/article.php?aid=1779897600786395099",
           "publishedAt": "2026-05-31T11:00:00.000Z",
           "relevanceScore": 1
         }
@@ -2331,7 +2306,7 @@
       },
       "publishedAt": "2026-05-31T11:00:00.000Z",
       "firstSeenAt": "2026-05-31T16:09:01.417Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "기댄 꼴불견",
       "source": "경향신문",
       "url": "https://www.khan.co.kr/article/202605311548001"
@@ -2344,7 +2319,7 @@
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 4,
       "relatedArticles": [
         {
           "title": "안세영, 싱가포르 오픈 정상 ... 올해만 벌써 5번째 우승컵",
@@ -2357,6 +2332,13 @@
           "title": "'지금까지 이런 적 없었다' 안세영, 19년 만에 대기록 주인공 우뚝...두통·고열 속 극적 승리 \"태극기 덕분에\"",
           "source": "Daum",
           "url": "https://v.daum.net/v/BseSzegRvm",
+          "publishedAt": "2026-05-31T11:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "안세영이 마지막이었다니…배드민턴연맹 '중국화' 심해진다→'열광적 응원' 싱가포르 오픈 강등+홍콩 오픈 슈퍼 750 '승격'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601060119253",
           "publishedAt": "2026-05-31T11:00:00.000Z",
           "relevanceScore": 2
         },
@@ -2377,10 +2359,56 @@
       },
       "publishedAt": "2026-05-31T11:00:00.000Z",
       "firstSeenAt": "2026-05-31T19:18:07.054Z",
-      "lastSeenAt": "2026-05-31T19:18:07.054Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
       "title": "안세영",
       "source": "조선일보",
       "url": "https://www.chosun.com/international/international_general/2026/05/31/HPR3DJPESJCUXD7XPBF6DCDF3M/"
+    },
+    {
+      "id": "aa505a7d45ac47bb",
+      "issueKey": "안타",
+      "issueTitle": "안타",
+      "trendTitle": "안타",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘오스틴 결승포’ LG, KIA에 꺽고 단독 1위 수성",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260531213303752",
+          "publishedAt": "2026-05-31T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "홍창기 4안타-박해민 3안타, 테이블세터 살아난다...염갈량 \"주말 시리즈 3연승, 만원 관중 팬들에게 감사\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/06/01/MRRTCZRVG43DQN3CGVRTAZJSHA/",
+          "publishedAt": "2026-05-31T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "오스틴 결승 2점 홈런·장단 12개 안타…LG, KIA에 싹쓸이 3연승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260531044400007",
+          "publishedAt": "2026-05-31T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "홍창기 4안타-박해민 3안타, 테이블세터 살아난다...염갈량 \"주말 시리즈 3연승, 만원 관중 팬들에게 감사\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/baseball/2026/06/01/MRRTCZRVG43DQN3CGVRTAZJSHA/",
+        "publishedAt": "2026-05-31T20:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-05-31T20:50:00.000Z",
+      "firstSeenAt": "2026-05-31T22:00:09.550Z",
+      "lastSeenAt": "2026-05-31T22:00:09.550Z",
+      "title": "안타",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/baseball/2026/06/01/MRRTCZRVG43DQN3CGVRTAZJSHA/"
     }
   ]
 }
