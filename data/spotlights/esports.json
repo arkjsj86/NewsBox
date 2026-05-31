@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-05-31T08:46:10.803Z",
+  "lastUpdatedAt": "2026-05-31T10:57:57.562Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -11,32 +11,9 @@
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 2 2026",
-  "primaryBlockName": "Week 9",
-  "matchCount": 6,
+  "primaryBlockName": "Knockouts",
+  "matchCount": 5,
   "matches": [
-    {
-      "id": "115548128963037543",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Week 9",
-      "startTime": "2026-05-31T10:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "NONGSHIM RED FORCE",
-          "code": "NS",
-          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
-        },
-        {
-          "name": "Dplus KIA",
-          "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128963037563",
       "leagueKey": "lck",
@@ -158,7 +135,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 6
+      "matchCount": 5
     },
     {
       "key": "ewc",
