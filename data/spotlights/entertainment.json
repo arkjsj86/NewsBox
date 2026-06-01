@@ -7,57 +7,292 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-01T04:08:46.290Z",
+  "lastUpdatedAt": "2026-06-01T11:35:08.474Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "780cdaac1fd77800",
-      "issueKey": "사망",
-      "issueTitle": "사망",
-      "trendTitle": "사망",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "71dea7fe6c257ad6",
+      "issueKey": "ตรวจหวย",
+      "issueTitle": "ตรวจหวย",
+      "trendTitle": "ตรวจหวย",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[속보] 대전 한화에어로스페이스 사업장 폭발 추정 화재‥\"진화 중\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6826686_36918.html",
+          "title": "ตรวจหวย 1 มิถุนายน 2569 ผลสลากกินแบ่งรัฐบาล หวย 1/6/69",
+          "source": "Sanook",
+          "url": "https://www.sanook.com/news/9891818/",
+          "publishedAt": "2026-06-01T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "ผลการออกรางวัลลอตเตอรี่ - ผลการออกรางวัลลอตเตอรี่วันนี้ วันจันทร์ที่ 1 มิถุนายน 2569",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/ket-qua-xo-so-kqxs-hom-nay-thu-hai-ngay-1-6-2026",
+          "publishedAt": "2026-06-01T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "แม่เจ้า! ถูกสลากดิจิทัลคนเดียว 20 ใบ กลายเป็นมหาเศรษฐีหน้าใหม่รวยเละ 120 ล้าน",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/5910343/",
+          "publishedAt": "2026-06-01T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "ตรวจหวย 1 มิถุนายน 2569 ผลสลากกินแบ่งรัฐบาล หวย 1/6/69",
+        "source": "Sanook",
+        "url": "https://www.sanook.com/news/9891818/",
+        "publishedAt": "2026-06-01T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T10:00:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "ตรวจหวย",
+      "source": "Sanook",
+      "url": "https://www.sanook.com/news/9891818/",
+      "rank": 1
+    },
+    {
+      "id": "a73ac2fa81a0c3e4",
+      "issueKey": "kbo",
+      "issueTitle": "kbo",
+      "trendTitle": "kbo",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Landers looking to snap 12-game slide in KBO during 6-game home stand",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260601002600315",
+          "publishedAt": "2026-06-01T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "14 Players Demoted as Top Teams Keep Roster Unchanged",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/01/CLUJ2AZI4JALRIBJ4NI2T6QOFM/",
+          "publishedAt": "2026-06-01T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "212-home run slugger 'shock' removed from first division! SSG ends 12-game losing streak with final decision! Top overall pick throwing 159 km/h sent to minor league... Doosan's Yang Jae-hoon, suffering from elbow pain, also undergoes re-examination",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/06/01/2026060116515665302",
+          "publishedAt": "2026-06-01T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Landers looking to snap 12-game slide in KBO during 6-game home stand",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20260601002600315",
+        "publishedAt": "2026-06-01T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T07:30:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "kbo",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260601002600315",
+      "rank": 2
+    },
+    {
+      "id": "a4aae561b8a16aa1",
+      "issueKey": "광주시",
+      "issueTitle": "광주시",
+      "trendTitle": "광주시",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "AI·무인매장까지 다 본다… 광주시, 사업체 2만4천곳 ‘경제총조사’ 돌입",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601161246781",
+          "publishedAt": "2026-06-01T06:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전주시, 3만8천여개 사업체 대상 '경제총조사' 실시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260601072400055",
+          "publishedAt": "2026-06-01T06:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "안양시, 2025 경제총조사 시작…3만5천여 사업체 대상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260601_0003652069",
+          "publishedAt": "2026-06-01T06:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "AI·무인매장까지 다 본다… 광주시, 사업체 2만4천곳 ‘경제총조사’ 돌입",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260601161246781",
+        "publishedAt": "2026-06-01T06:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T06:30:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "광주시",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260601161246781",
+      "rank": 3
+    },
+    {
+      "id": "fd6a77dc3a9cb542",
+      "issueKey": "하이닉스 화재",
+      "issueTitle": "하이닉스 화재",
+      "trendTitle": "하이닉스 화재",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260601062753064",
+          "publishedAt": "2026-06-01T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "청주 SK하이닉스 공장서 불···유독 가스 누출돼 직원 3600명 대피 소동",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606011229011",
+          "publishedAt": "2026-06-01T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "SK하이닉스 청주공장서 화재… 불소 누출로 다수 부상",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20050512",
+          "publishedAt": "2026-06-01T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "하이닉스 화재",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260601062753064",
+        "publishedAt": "2026-06-01T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T04:50:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "하이닉스 화재",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260601062753064",
+      "rank": 4
+    },
+    {
+      "id": "fe3d79f61ae5a460",
+      "issueKey": "양산서 만나",
+      "issueTitle": "양산서 만나",
+      "trendTitle": "양산서 만나",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "독립의지 품은 서대문형무소 삶 재조명",
+          "source": "경남매일",
+          "url": "https://www.gnmaeil.com/news/articleView.html?idxno=587624",
+          "publishedAt": "2026-06-01T02:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"그들의 삶은 죽음보다 강했다\"… 양산서 만나는 서대문형무소, 역사의 숨결 느끼다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260530094600080",
+          "publishedAt": "2026-06-01T02:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "독립운동가들 수감생활 조명…'죽음의 집에서의 삶' 전시",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260529_0003649691",
+          "publishedAt": "2026-06-01T02:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"그들의 삶은 죽음보다 강했다\"… 양산서 만나는 서대문형무소, 역사의 숨결 느끼다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260530094600080",
+        "publishedAt": "2026-06-01T02:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-01T02:40:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "양산서 만나",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260530094600080",
+      "rank": 5
+    },
+    {
+      "id": "2d8f9417bb34bc93",
+      "issueKey": "화재진압",
+      "issueTitle": "화재진압",
+      "trendTitle": "화재진압",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보]대전 한화에어로스페이스서 폭발 사고 “추진체 폭발 추정”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11592595",
           "publishedAt": "2026-06-01T02:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "한화에어로 대전 공장서 폭발 사고…4명 사망·2명 중경상",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/news-detail/2026060112543052342",
+          "title": "\"모든 후보 유세 중단\"…\"차분한 선거 운동\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601201515172",
           "publishedAt": "2026-06-01T02:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "속보 대전 한화에어로스페이스서 폭발 신고 접수...\"폭발음 들려\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202606011135033042",
+          "title": "김 총리 \"한화에어로스페이스 화재진압·인명구조에 최선\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965559",
           "publishedAt": "2026-06-01T02:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "한화에어로 대전 공장서 폭발 사고…4명 사망·2명 중경상",
-        "source": "MTN 머니투데이방송",
-        "url": "https://news.mtn.co.kr/news-detail/2026060112543052342",
+        "title": "김 총리 \"한화에어로스페이스 화재진압·인명구조에 최선\"",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965559",
         "publishedAt": "2026-06-01T02:20:00.000Z",
-        "relevanceScore": 2
+        "relevanceScore": 1
       },
       "publishedAt": "2026-06-01T02:20:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
-      "title": "사망",
-      "source": "MTN 머니투데이방송",
-      "url": "https://news.mtn.co.kr/news-detail/2026060112543052342",
-      "rank": 1
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "화재진압",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965559",
+      "rank": 6
     },
     {
       "id": "83d82a74a67aebde",
@@ -70,41 +305,41 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "The book fueling a movement against screens in schools",
-          "source": "Yahoo",
-          "url": "https://www.yahoo.com/news/us/articles/book-fueling-movement-against-screens-110000599.html",
+          "title": "Greenwich school board approves adding pre-K classrooms to Riverside project, saving $5M",
+          "source": "Greenwich Time",
+          "url": "https://www.greenwichtime.com/news/education/article/greenwich-school-riverside-pre-k-project-classroom-22282462.php",
           "publishedAt": "2026-06-01T02:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Teachers union president calls for limits on AI and screen time in schools",
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/news/education/randi-weingarten-teachers-union-limits-ai-screen-time-school-rcna346871",
+          "title": "With Houlton and Willow River schools set to close, community says goodbye",
+          "source": "Hudson Star Observer",
+          "url": "https://www.hudsonstarobserver.com/with-houlton-and-willow-river-schools-set-to-close-community-says-goodbye/article_1ce17e05-115c-4c1b-8b6c-5b35e4b1359e.html",
           "publishedAt": "2026-06-01T02:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "America’s tech-filled classrooms are facing a backlash against school-assigned devices",
-          "source": "AP News",
-          "url": "https://apnews.com/article/school-screen-time-technology-edtech-07958fb159c7cfbceb7bfdb37b2bb726",
+          "title": "Houlton Elementary to celebrate its history on Sunday",
+          "source": "Hudson Star Observer",
+          "url": "https://www.hudsonstarobserver.com/news/houlton-elementary-to-celebrate-its-history-on-sunday/article_aef65e06-1615-4f10-a3b9-279bdad04791.html",
           "publishedAt": "2026-06-01T02:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "America’s tech-filled classrooms are facing a backlash against school-assigned devices",
-        "source": "AP News",
-        "url": "https://apnews.com/article/school-screen-time-technology-edtech-07958fb159c7cfbceb7bfdb37b2bb726",
+        "title": "Greenwich school board approves adding pre-K classrooms to Riverside project, saving $5M",
+        "source": "Greenwich Time",
+        "url": "https://www.greenwichtime.com/news/education/article/greenwich-school-riverside-pre-k-project-classroom-22282462.php",
         "publishedAt": "2026-06-01T02:00:00.000Z",
-        "relevanceScore": 1
+        "relevanceScore": 3
       },
       "publishedAt": "2026-06-01T02:00:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
       "title": "classroom",
-      "source": "AP News",
-      "url": "https://apnews.com/article/school-screen-time-technology-edtech-07958fb159c7cfbceb7bfdb37b2bb726",
-      "rank": 2
+      "source": "Greenwich Time",
+      "url": "https://www.greenwichtime.com/news/education/article/greenwich-school-riverside-pre-k-project-classroom-22282462.php",
+      "rank": 7
     },
     {
       "id": "b9f53aa764518b2b",
@@ -117,92 +352,92 @@
       "articleCount": 3,
       "relatedArticles": [
         {
+          "title": "BTS는 왜 경복궁서 컴백했을까? 해설사 \"광화문부터 들어와야 진짜가 보인다\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260601n27490",
+          "publishedAt": "2026-06-01T02:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
           "title": "경복궁 무료, 예술의전당 공연 5000원.. 65세 이상 문화 혜택 총정리",
           "source": "조선일보",
           "url": "https://www.chosun.com/economy/startup_story/2026/05/30/A4LHD6EKMNAIJPUN3WCWPXPKYM/",
           "publishedAt": "2026-06-01T02:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "SPECIAL ISSUE 시니어들을 위한 예술활동 길라잡이_검토요청",
-          "source": "auditorium.kr",
-          "url": "https://auditorium.kr/2026/05/special-issue-%EC%8B%9C%EB%8B%88%EC%96%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%98%88%EC%88%A0%ED%99%9C%EB%8F%99-%EA%B8%B8%EB%9D%BC%EC%9E%A1%EC%9D%B4_%EA%B2%80%ED%86%A0%EC%9A%94%EC%B2%AD/",
-          "publishedAt": "2026-06-01T02:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "다시 잡은 악기 한 자루, 시니어의 뇌와 마음을 깨우다",
-          "source": "캐어유 뉴스",
-          "url": "https://www.careyounews.org/news/articleView.html?idxno=9945",
+          "title": "SPECIAL ISSUE 시니어들을 위한 예술활동 길라잡이",
+          "source": "월간객석",
+          "url": "https://auditorium.kr/2026/05/special-issue-%EC%8B%9C%EB%8B%88%EC%96%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%98%88%EC%88%A0%ED%99%9C%EB%8F%99-%EA%B8%B8%EB%9D%BC%EC%9E%A1%EC%9D%B4/",
           "publishedAt": "2026-06-01T02:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "경복궁 무료, 예술의전당 공연 5000원.. 65세 이상 문화 혜택 총정리",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/startup_story/2026/05/30/A4LHD6EKMNAIJPUN3WCWPXPKYM/",
+        "title": "BTS는 왜 경복궁서 컴백했을까? 해설사 \"광화문부터 들어와야 진짜가 보인다\"",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260601n27490",
         "publishedAt": "2026-06-01T02:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-01T02:00:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
       "title": "경복궁",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/startup_story/2026/05/30/A4LHD6EKMNAIJPUN3WCWPXPKYM/",
-      "rank": 3
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260601n27490",
+      "rank": 8
     },
     {
       "id": "252ac990d27ebe08",
-      "issueKey": "게임",
-      "issueTitle": "게임",
+      "issueKey": "찾아가",
+      "issueTitle": "찾아가",
       "trendTitle": "게임",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Emotional Victor Wembanyama leads Spurs back to NBA Finals",
-          "source": "ESPN",
-          "url": "https://www.espn.com/nba/story/_/id/48926783/emotional-victor-wembanyama-leads-spurs-back-nba-finals",
+          "title": "카카오게임즈, '찾아가는 프렌즈게임 랜드'로 지역 아동·청소년 500명과 만났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601162753455",
           "publishedAt": "2026-06-01T01:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Victor Wembanyama Towers Over the Thunder, and the Game of Basketball",
-          "source": "The New Yorker",
-          "url": "https://www.newyorker.com/sports/sporting-scene/victor-wembanyama-towers-over-the-thunder-and-the-game-of-basketball",
+          "title": "카카오게임즈, ‘찾아가는 프렌즈게임 랜드’ 캠페인 성료",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606011006003",
           "publishedAt": "2026-06-01T01:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Victor Wembanyama's 'greatest of all time' trajectory is officially ahead of schedule after Spurs' Game 7 win",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/nba/news/victor-wembanyama-greatest-of-all-time-trajectory-spurs-game-7-win-thunder/",
+          "title": "카카오게임즈, 세계놀이의 날 맞아 '찾아가는 프렌즈게임 랜드' 개최... 500여명 참여",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260601000214",
           "publishedAt": "2026-06-01T01:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "게임",
-        "source": "ESPN",
-        "url": "https://www.espn.com/nba/story/_/id/48926783/emotional-victor-wembanyama-leads-spurs-back-nba-finals",
+        "title": "카카오게임즈, '찾아가는 프렌즈게임 랜드'로 지역 아동·청소년 500명과 만났다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260601162753455",
         "publishedAt": "2026-06-01T01:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-01T01:40:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
-      "title": "게임",
-      "source": "ESPN",
-      "url": "https://www.espn.com/nba/story/_/id/48926783/emotional-victor-wembanyama-leads-spurs-back-nba-finals",
-      "rank": 4
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "찾아가",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260601162753455",
+      "rank": 9
     },
     {
       "id": "0026c4cf180042a1",
-      "issueKey": "관광",
+      "issueKey": "국가유산",
       "issueTitle": "국가유산",
       "trendTitle": "국가유산",
       "approxTraffic": "200+",
@@ -211,275 +446,40 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "K-고궁 관람객, 4월까지 545만명…최대였던 지난해 '1781만명'도 넘어선다",
+          "title": "지난해 고궁 관람객 역대 최다…국가유산청, “K-유산 가치 극대화할 것”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260601105905705",
+          "url": "https://v.daum.net/v/20260601140822227",
           "publishedAt": "2026-06-01T01:40:00.000Z",
           "relevanceScore": 3
-        },
-        {
-          "title": "'출범 1주년' 유산청, 궁·능에 1781만 손님 모았다…이후 숙제는",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/culture/2026/06/01/2026060108494517782",
-          "publishedAt": "2026-06-01T01:40:00.000Z",
-          "relevanceScore": 2
         },
         {
           "title": "궁·왕릉 관람객 1800만, 외국인 427만…국가유산청 \"관광·유산외교 성과\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260601_0003651376",
           "publishedAt": "2026-06-01T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "BTS 공연 보고 K-고궁 방문…외국인 100만명 더 찾았다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260601505153",
+          "publishedAt": "2026-06-01T01:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "궁·왕릉 관람객 1800만, 외국인 427만…국가유산청 \"관광·유산외교 성과\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260601_0003651376",
+        "title": "지난해 고궁 관람객 역대 최다…국가유산청, “K-유산 가치 극대화할 것”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260601140822227",
         "publishedAt": "2026-06-01T01:40:00.000Z",
-        "relevanceScore": 1
+        "relevanceScore": 3
       },
       "publishedAt": "2026-06-01T01:40:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
       "title": "국가유산",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260601_0003651376",
-      "rank": 5
-    },
-    {
-      "id": "aaca9d8cf6f8baea",
-      "issueKey": "국중박이 뽑았다",
-      "issueTitle": "국중박이 뽑았다",
-      "trendTitle": "국중박이 뽑았다",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "국립중앙박물관, 6월 매주 수요일 '큐레이터와의 대화' 운영",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02299286645477456&amp;mediaCodeNo=257",
-          "publishedAt": "2026-06-01T00:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "선사시대 기후변화부터 보존과학까지, 6월 국중박 해설 12선",
-          "source": "뉴스컬처",
-          "url": "https://www.nc.press/news/articleView.html?idxno=616971",
-          "publishedAt": "2026-06-01T00:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"얘 너무 예쁘지?\"…국중박이 뽑았다, 100인의 '애착 유물' 이야기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fkC88ZpXHo",
-          "publishedAt": "2026-06-01T00:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"얘 너무 예쁘지?\"…국중박이 뽑았다, 100인의 '애착 유물' 이야기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fkC88ZpXHo",
-        "publishedAt": "2026-06-01T00:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-06-01T00:20:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
-      "title": "국중박이 뽑았다",
       "source": "Daum",
-      "url": "https://v.daum.net/v/fkC88ZpXHo",
-      "rank": 6
-    },
-    {
-      "id": "b9e2e0ea0fb64101",
-      "issueKey": "제주",
-      "issueTitle": "제주",
-      "trendTitle": "기상청 날씨누리",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[날씨] 낮 더위 이어져, 서울 30도…제주·남해안 비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260601111944066",
-          "publishedAt": "2026-06-01T00:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "바람 방향 바뀌며 서쪽 비상...태풍 비구름에 많은 비 예고",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202606011031134764",
-          "publishedAt": "2026-06-01T00:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "7~8월엔 어쩌려고... 강릉은 벌써 열대야",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/transport-environment/2026/05/31/2L6SFM3EFJGKRI5BDNC6EWVMXE/",
-          "publishedAt": "2026-06-01T00:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[날씨] 낮 더위 이어져, 서울 30도…제주·남해안 비",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260601111944066",
-        "publishedAt": "2026-06-01T00:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-01T00:20:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
-      "title": "제주",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260601111944066",
-      "rank": 7
-    },
-    {
-      "id": "e060883f2f627183",
-      "issueKey": "결혼 반대",
-      "issueTitle": "결혼 반대",
-      "trendTitle": "결혼 반대",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'크리스티나 남편' 김현준 \"母 결혼 반대, 둘이 알콩달콩 살자고\" [아침마당]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260601095315374",
-          "publishedAt": "2026-06-01T00:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "크리스티나 \"남편, 카메라 없으면 스킨십 아주 잘 해\" 초토화 (아침마당)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260601n05006",
-          "publishedAt": "2026-06-01T00:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "크리스티나 “사랑 위해 EU 사무실 떠나 한국행. 다들 미쳤냐고” (아침마당)",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202606010904592410",
-          "publishedAt": "2026-06-01T00:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'크리스티나 남편' 김현준 \"母 결혼 반대, 둘이 알콩달콩 살자고\" [아침마당]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260601095315374",
-        "publishedAt": "2026-06-01T00:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-01T00:10:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
-      "title": "결혼 반대",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260601095315374",
-      "rank": 8
-    },
-    {
-      "id": "1c622364d7f8559f",
-      "issueKey": "이순신",
-      "issueTitle": "이순신",
-      "trendTitle": "이순신",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "좋은땅출판사, 역사대하소설 ‘大 命’ 출간",
-          "source": "뉴스와이어",
-          "url": "https://www.newswire.co.kr/newsRead.php?no=1035417",
-          "publishedAt": "2026-06-01T00:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이순신과 누르하치, 역사 속 엇갈린 두 영웅의 만남을 상상하다- 대하소설 ‘대명’ 출간",
-          "source": "미디어파인",
-          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=79838",
-          "publishedAt": "2026-06-01T00:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "좋은땅출판사, 이순신·누르하치 다룬 역사대하소설 ‘大 命’ 출간",
-          "source": "클래시안",
-          "url": "https://classian.co.kr/View.aspx?No=4096936",
-          "publishedAt": "2026-06-01T00:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이순신과 누르하치, 역사 속 엇갈린 두 영웅의 만남을 상상하다- 대하소설 ‘대명’ 출간",
-        "source": "미디어파인",
-        "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=79838",
-        "publishedAt": "2026-06-01T00:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-01T00:10:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
-      "title": "이순신",
-      "source": "미디어파인",
-      "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=79838",
-      "rank": 9
-    },
-    {
-      "id": "1d081d7ab7ce87c3",
-      "issueKey": "상한가",
-      "issueTitle": "상한가",
-      "trendTitle": "상한가",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보]‘젠슨 황 효과 이 정도?’ LG전자 또 29.8%↑상한가, 그룹주 일제히 불기둥",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11592549",
-          "publishedAt": "2026-06-01T00:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘방한’ 젠슨 황, 93번 유니폼 입을까?…시구 전망에 기대감 UP",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260601125709642",
-          "publishedAt": "2026-06-01T00:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"젠슨 황 방한 핵심은 소버린 AI·데이터센터\"…인프라 관련株 급등",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417701",
-          "publishedAt": "2026-06-01T00:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보]‘젠슨 황 효과 이 정도?’ LG전자 또 29.8%↑상한가, 그룹주 일제히 불기둥",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11592549",
-        "publishedAt": "2026-06-01T00:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-01T00:00:00.000Z",
-      "firstSeenAt": "2026-06-01T04:08:46.290Z",
-      "lastSeenAt": "2026-06-01T04:08:46.290Z",
-      "title": "상한가",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11592549",
+      "url": "https://v.daum.net/v/20260601140822227",
       "rank": 10
     }
   ],
@@ -621,52 +621,6 @@
       "title": "명당 어디",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260530212805524"
-    },
-    {
-      "id": "4bad58994ef098c8",
-      "issueKey": "인구 감소",
-      "issueTitle": "인구 감소",
-      "trendTitle": "인구 감소",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "日 인구 감소 3배 빨라졌다…5년 사이 310만명 줄어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260530164247889",
-          "publishedAt": "2026-05-30T08:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "일본 인구, 5년 새 310만명 감소···세 배나 빨라진 ‘인구 소멸’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202605291036001",
-          "publishedAt": "2026-05-30T08:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "日 초고령·저출산에 인구감소 가속… 5년간 2.5% 줄어",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0029892186",
-          "publishedAt": "2026-05-30T08:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "日 인구 감소 3배 빨라졌다…5년 사이 310만명 줄어",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260530164247889",
-        "publishedAt": "2026-05-30T08:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-30T08:20:00.000Z",
-      "firstSeenAt": "2026-05-30T10:47:32.085Z",
-      "lastSeenAt": "2026-05-30T10:47:32.085Z",
-      "title": "인구 감소",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260530164247889"
     },
     {
       "id": "79f7b70e00be156e",
@@ -920,50 +874,96 @@
       "url": "https://v.daum.net/v/20260531053820231"
     },
     {
-      "id": "c84f42ef8a22cf6b",
-      "issueKey": "저출산",
-      "issueTitle": "저출산",
-      "trendTitle": "저출산",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "2d8f9417bb34bc93",
+      "issueKey": "화재진압",
+      "issueTitle": "화재진압",
+      "trendTitle": "화재진압",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "당진의 미래 가를 저출산 공약은?...'파격 인센티브' 오성환 vs '양육 환경 내실' 김기재",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260529134559263",
-          "publishedAt": "2026-05-30T07:00:00.000Z",
+          "title": "[속보]대전 한화에어로스페이스서 폭발 사고 “추진체 폭발 추정”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11592595",
+          "publishedAt": "2026-06-01T02:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "김기재 \"당진시민 1인당 30만원 지급\"…오성환 \"따라하기 공약\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260528163800063",
-          "publishedAt": "2026-05-30T07:00:00.000Z",
+          "title": "\"모든 후보 유세 중단\"…\"차분한 선거 운동\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601201515172",
+          "publishedAt": "2026-06-01T02:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김기재 당진시장 후보,\"정부와 원팀으로 당진 대전환 반드시 이루겠다\"",
-          "source": "중도일보",
-          "url": "https://www.joongdo.co.kr/web/view.php?key=20260529010008093",
-          "publishedAt": "2026-05-30T07:00:00.000Z",
+          "title": "김 총리 \"한화에어로스페이스 화재진압·인명구조에 최선\"",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965559",
+          "publishedAt": "2026-06-01T02:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "당진의 미래 가를 저출산 공약은?...'파격 인센티브' 오성환 vs '양육 환경 내실' 김기재",
+        "title": "김 총리 \"한화에어로스페이스 화재진압·인명구조에 최선\"",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965559",
+        "publishedAt": "2026-06-01T02:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-06-01T02:20:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "화재진압",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148965559"
+    },
+    {
+      "id": "252ac990d27ebe08",
+      "issueKey": "찾아가",
+      "issueTitle": "찾아가",
+      "trendTitle": "게임",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "카카오게임즈, '찾아가는 프렌즈게임 랜드'로 지역 아동·청소년 500명과 만났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601162753455",
+          "publishedAt": "2026-06-01T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "카카오게임즈, ‘찾아가는 프렌즈게임 랜드’ 캠페인 성료",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606011006003",
+          "publishedAt": "2026-06-01T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "카카오게임즈, 세계놀이의 날 맞아 '찾아가는 프렌즈게임 랜드' 개최... 500여명 참여",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260601000214",
+          "publishedAt": "2026-06-01T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "카카오게임즈, '찾아가는 프렌즈게임 랜드'로 지역 아동·청소년 500명과 만났다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260529134559263",
-        "publishedAt": "2026-05-30T07:00:00.000Z",
+        "url": "https://v.daum.net/v/20260601162753455",
+        "publishedAt": "2026-06-01T01:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-05-30T07:00:00.000Z",
-      "firstSeenAt": "2026-05-30T08:28:17.992Z",
-      "lastSeenAt": "2026-05-30T08:28:17.992Z",
-      "title": "저출산",
+      "publishedAt": "2026-06-01T01:40:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "찾아가",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260529134559263"
+      "url": "https://v.daum.net/v/20260601162753455"
     },
     {
       "id": "e5088d9a463f7e5e",
@@ -1332,98 +1332,6 @@
       "title": "이라올라",
       "source": "네이트",
       "url": "https://sports.news.nate.com/view/20260530n11754"
-    },
-    {
-      "id": "79525178decfaa31",
-      "issueKey": "현대차",
-      "issueTitle": "현대차",
-      "trendTitle": "현대차",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "다음주 젠슨 황 방한…재계 ′깐부회동′ 재현될까",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260530092418SGi",
-          "publishedAt": "2026-05-30T07:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"이번엔 누굴 만나나\"…젠슨 황 방한에 LG·현대차·네이버 '들썩'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260530151843672",
-          "publishedAt": "2026-05-30T07:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "젠슨 황 엔비디아 CEO, 7개월만에 다시 한국행",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260530000339",
-          "publishedAt": "2026-05-30T07:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"이번엔 누굴 만나나\"…젠슨 황 방한에 LG·현대차·네이버 '들썩'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260530151843672",
-        "publishedAt": "2026-05-30T07:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-30T07:10:00.000Z",
-      "firstSeenAt": "2026-05-30T08:28:17.992Z",
-      "lastSeenAt": "2026-05-30T08:28:17.992Z",
-      "title": "현대차",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260530151843672"
-    },
-    {
-      "id": "42df7f59bac4279e",
-      "issueKey": "충남아산",
-      "issueTitle": "충남아산",
-      "trendTitle": "충남아산",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[그래도 K리그] '승점 2점 차' 선두 경쟁...부산 수성이냐, 수원 탈환이냐",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260529000301644",
-          "publishedAt": "2026-05-30T07:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[K리그2 프리뷰] '안드레 체제 첫 승 도전!' 충남아산, 홈에서 수원삼성과 격돌",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260530n06904",
-          "publishedAt": "2026-05-30T07:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘충남아산, ‘충무혼’ 입고 호국보훈 기념 홈경기 개최… 이순신 장군 정신 새긴다",
-          "source": "풋볼리스트",
-          "url": "https://www.footballist.co.kr/news/articleView.html?idxno=210646",
-          "publishedAt": "2026-05-30T07:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[K리그2 프리뷰] '안드레 체제 첫 승 도전!' 충남아산, 홈에서 수원삼성과 격돌",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260530n06904",
-        "publishedAt": "2026-05-30T07:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-05-30T07:00:00.000Z",
-      "firstSeenAt": "2026-05-30T08:28:17.992Z",
-      "lastSeenAt": "2026-05-30T08:28:17.992Z",
-      "title": "충남아산",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260530n06904"
     },
     {
       "id": "0333e25dadeddee4",
@@ -1928,144 +1836,6 @@
       "url": "https://www.espncricinfo.com/series/australia-in-pakistan-2026-1535643/pakistan-vs-australia-1st-odi-1535645/match-preview"
     },
     {
-      "id": "6366fb28aea87e77",
-      "issueKey": "이준석",
-      "issueTitle": "이준석",
-      "trendTitle": "이준석",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“국회의원 특혜냐” 주민 고성에… 이준석 “줄이 없는데 어떻게 서나” 황당",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BdhULQiPSj",
-          "publishedAt": "2026-05-30T09:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이준석, ‘투표 새치기’ 논란에 “줄이 없는데 어떻게”…법적조처 예고",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/election/1261159.html",
-          "publishedAt": "2026-05-30T09:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이준석 “‘이재명 정부 독재’에 대한 견제 보여줘야”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8573206",
-          "publishedAt": "2026-05-30T09:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“국회의원 특혜냐” 주민 고성에… 이준석 “줄이 없는데 어떻게 서나” 황당",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BdhULQiPSj",
-        "publishedAt": "2026-05-30T09:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-30T09:40:00.000Z",
-      "firstSeenAt": "2026-05-30T10:47:32.085Z",
-      "lastSeenAt": "2026-05-30T10:47:32.085Z",
-      "title": "이준석",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/BdhULQiPSj"
-    },
-    {
-      "id": "0573037165df9cf5",
-      "issueKey": "석유",
-      "issueTitle": "석유",
-      "trendTitle": "석유",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[차이나 트렌드] 1만4천 개 석유가스정 폐쇄...中 창칭유전, 과감한 녹색 전환으로 '탄소제로' 박차",
-          "source": "내외뉴스통신",
-          "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1032006",
-          "publishedAt": "2026-05-30T06:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "금호석유화학, 유럽 공략 성과 '스페셜티' 통했다…獨에 법인 신설",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260529073138451",
-          "publishedAt": "2026-05-30T06:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유가 90달러 아래로…원가 부담 하락에 석화업계 ‘화색’",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=341461",
-          "publishedAt": "2026-05-30T06:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[차이나 트렌드] 1만4천 개 석유가스정 폐쇄...中 창칭유전, 과감한 녹색 전환으로 '탄소제로' 박차",
-        "source": "내외뉴스통신",
-        "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1032006",
-        "publishedAt": "2026-05-30T06:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-30T06:10:00.000Z",
-      "firstSeenAt": "2026-05-30T08:28:17.992Z",
-      "lastSeenAt": "2026-05-30T08:28:17.992Z",
-      "title": "석유",
-      "source": "내외뉴스통신",
-      "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1032006"
-    },
-    {
-      "id": "a0da2636aab16d8f",
-      "issueKey": "농협",
-      "issueTitle": "농협",
-      "trendTitle": "농협",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "NH농협손해보험, 화원농협 'Top-Class' 사무소 선정...시상식 개최",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3596183",
-          "publishedAt": "2026-05-30T06:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "완도농협, 농가 맞춤형 설계로 ‘위더스상’ 수상",
-          "source": "한국영농신문",
-          "url": "http://www.youngnong.co.kr/news/articleView.html?idxno=59802",
-          "publishedAt": "2026-05-30T06:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "봉평농협·문막농협 NH농협손해보험 1분기 ‘TOP–CLASS’사무소 선정",
-          "source": "강원일보",
-          "url": "https://m.kwnews.co.kr/page/view/2026052750116900000",
-          "publishedAt": "2026-05-30T06:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "NH농협손해보험, 화원농협 'Top-Class' 사무소 선정...시상식 개최",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3596183",
-        "publishedAt": "2026-05-30T06:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-05-30T06:10:00.000Z",
-      "firstSeenAt": "2026-05-30T08:28:17.992Z",
-      "lastSeenAt": "2026-05-30T08:28:17.992Z",
-      "title": "농협",
-      "source": "국제뉴스",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3596183"
-    },
-    {
       "id": "48f6950402531f64",
       "issueKey": "박준금",
       "issueTitle": "박준금",
@@ -2345,6 +2115,144 @@
       "url": "https://www.chosun.com/international/international_general/2026/05/31/HPR3DJPESJCUXD7XPBF6DCDF3M/"
     },
     {
+      "id": "a73ac2fa81a0c3e4",
+      "issueKey": "kbo",
+      "issueTitle": "kbo",
+      "trendTitle": "kbo",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Landers looking to snap 12-game slide in KBO during 6-game home stand",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260601002600315",
+          "publishedAt": "2026-06-01T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "14 Players Demoted as Top Teams Keep Roster Unchanged",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/01/CLUJ2AZI4JALRIBJ4NI2T6QOFM/",
+          "publishedAt": "2026-06-01T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "212-home run slugger 'shock' removed from first division! SSG ends 12-game losing streak with final decision! Top overall pick throwing 159 km/h sent to minor league... Doosan's Yang Jae-hoon, suffering from elbow pain, also undergoes re-examination",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/06/01/2026060116515665302",
+          "publishedAt": "2026-06-01T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Landers looking to snap 12-game slide in KBO during 6-game home stand",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/AEN20260601002600315",
+        "publishedAt": "2026-06-01T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T07:30:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "kbo",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/AEN20260601002600315"
+    },
+    {
+      "id": "fd6a77dc3a9cb542",
+      "issueKey": "하이닉스 화재",
+      "issueTitle": "하이닉스 화재",
+      "trendTitle": "하이닉스 화재",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SK하이닉스 청주공장서 3천600명 대피소동…7명 병원 이송(종합2보)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260601062753064",
+          "publishedAt": "2026-06-01T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "청주 SK하이닉스 공장서 불···유독 가스 누출돼 직원 3600명 대피 소동",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606011229011",
+          "publishedAt": "2026-06-01T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "SK하이닉스 청주공장서 화재… 불소 누출로 다수 부상",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20050512",
+          "publishedAt": "2026-06-01T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "하이닉스 화재",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260601062753064",
+        "publishedAt": "2026-06-01T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T04:50:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "하이닉스 화재",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260601062753064"
+    },
+    {
+      "id": "0026c4cf180042a1",
+      "issueKey": "국가유산",
+      "issueTitle": "국가유산",
+      "trendTitle": "국가유산",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "지난해 고궁 관람객 역대 최다…국가유산청, “K-유산 가치 극대화할 것”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601140822227",
+          "publishedAt": "2026-06-01T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "궁·왕릉 관람객 1800만, 외국인 427만…국가유산청 \"관광·유산외교 성과\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260601_0003651376",
+          "publishedAt": "2026-06-01T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "BTS 공연 보고 K-고궁 방문…외국인 100만명 더 찾았다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260601505153",
+          "publishedAt": "2026-06-01T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "지난해 고궁 관람객 역대 최다…국가유산청, “K-유산 가치 극대화할 것”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260601140822227",
+        "publishedAt": "2026-06-01T01:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T01:40:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "국가유산",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260601140822227"
+    },
+    {
       "id": "0026c4cf180042a1",
       "issueKey": "관광",
       "issueTitle": "국가유산",
@@ -2435,6 +2343,98 @@
       "title": "제주",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260601111944066"
+    },
+    {
+      "id": "71dea7fe6c257ad6",
+      "issueKey": "ตรวจหวย",
+      "issueTitle": "ตรวจหวย",
+      "trendTitle": "ตรวจหวย",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "ตรวจหวย 1 มิถุนายน 2569 ผลสลากกินแบ่งรัฐบาล หวย 1/6/69",
+          "source": "Sanook",
+          "url": "https://www.sanook.com/news/9891818/",
+          "publishedAt": "2026-06-01T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "ผลการออกรางวัลลอตเตอรี่ - ผลการออกรางวัลลอตเตอรี่วันนี้ วันจันทร์ที่ 1 มิถุนายน 2569",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/ket-qua-xo-so-kqxs-hom-nay-thu-hai-ngay-1-6-2026",
+          "publishedAt": "2026-06-01T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "แม่เจ้า! ถูกสลากดิจิทัลคนเดียว 20 ใบ กลายเป็นมหาเศรษฐีหน้าใหม่รวยเละ 120 ล้าน",
+          "source": "เดลินิวส์",
+          "url": "https://www.dailynews.co.th/news/5910343/",
+          "publishedAt": "2026-06-01T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "ตรวจหวย 1 มิถุนายน 2569 ผลสลากกินแบ่งรัฐบาล หวย 1/6/69",
+        "source": "Sanook",
+        "url": "https://www.sanook.com/news/9891818/",
+        "publishedAt": "2026-06-01T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T10:00:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "ตรวจหวย",
+      "source": "Sanook",
+      "url": "https://www.sanook.com/news/9891818/"
+    },
+    {
+      "id": "a4aae561b8a16aa1",
+      "issueKey": "광주시",
+      "issueTitle": "광주시",
+      "trendTitle": "광주시",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "AI·무인매장까지 다 본다… 광주시, 사업체 2만4천곳 ‘경제총조사’ 돌입",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260601161246781",
+          "publishedAt": "2026-06-01T06:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전주시, 3만8천여개 사업체 대상 '경제총조사' 실시",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260601072400055",
+          "publishedAt": "2026-06-01T06:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "안양시, 2025 경제총조사 시작…3만5천여 사업체 대상",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260601_0003652069",
+          "publishedAt": "2026-06-01T06:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "AI·무인매장까지 다 본다… 광주시, 사업체 2만4천곳 ‘경제총조사’ 돌입",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260601161246781",
+        "publishedAt": "2026-06-01T06:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-01T06:30:00.000Z",
+      "firstSeenAt": "2026-06-01T11:35:08.474Z",
+      "lastSeenAt": "2026-06-01T11:35:08.474Z",
+      "title": "광주시",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260601161246781"
     }
   ]
 }
