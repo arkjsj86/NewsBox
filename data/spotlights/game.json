@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-02T20:49:39.642Z",
+  "lastUpdatedAt": "2026-06-02T23:02:54.003Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -47,7 +47,7 @@
         {
           "title": "코모도, ‘스팀 덱 OLED’ 가격 재차 인상",
           "url": "https://bbs.ruliweb.com/news/read/225224",
-          "meta": "댓글 53"
+          "meta": "댓글 55"
         },
         {
           "title": "엔비디아, 'RTX 스파크'로 개인용 AI PC 시대 연다",
@@ -69,27 +69,27 @@
         {
           "title": "7성급 헌터 류즈캉부터 3분기 로드맵까지! 6월 개발자 라이브",
           "url": "https://www.inven.co.kr/webzine/news/?news=317062",
-          "meta": "나 혼자만 레벨업: ARISE · 4시간 전"
+          "meta": "나 혼자만 레벨업: ARISE · 10시간 전"
         },
         {
           "title": "\"수냉 방열판?\" 팀그룹(Teamgroup), 티포스 10주년 기념 신제품 전격 공개",
           "url": "https://www.inven.co.kr/webzine/news/?news=317057",
-          "meta": "6시간 전"
+          "meta": "13시간 전"
         },
         {
           "title": "\"프레임 방어의 신세계\" 엔비디아, DLSS 4.5 레이 리컨스트럭션 공개",
           "url": "https://www.inven.co.kr/webzine/news/?news=317056",
-          "meta": "6시간 전"
+          "meta": "13시간 전"
         },
         {
           "title": "인텔, 아크 G 시리즈로 휴대용 게이밍 시장 확대 선언",
           "url": "https://www.inven.co.kr/webzine/news/?news=317054",
-          "meta": "7시간 전"
+          "meta": "14시간 전"
         },
         {
           "title": "눈부신 크리스탈 탑재! 게일(GeIL), 컴퓨텍스서 신제품 메모리 공개",
           "url": "https://www.inven.co.kr/webzine/news/?news=317053",
-          "meta": "7시간 전"
+          "meta": "14시간 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
