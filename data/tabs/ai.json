@@ -4,9 +4,36 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-06-01T21:33:25.377Z",
-  "articleCount": 21,
+  "lastUpdatedAt": "2026-06-02T04:02:02.801Z",
+  "articleCount": 22,
   "articles": [
+    {
+      "id": "a6338190b1a7a79c",
+      "title": "인텔, 로보틱스 칩으로 피지컬 AI 시장 재진입",
+      "url": "https://www.itworld.co.kr/article/4179651/%ec%9d%b8%ed%85%94-%eb%a1%9c%eb%b3%b4%ed%8b%b1%ec%8a%a4-%ec%b9%a9%ec%9c%bc%eb%a1%9c-%ed%94%bc%ec%a7%80%ec%bb%ac-ai-%ec%8b%9c%ec%9e%a5-%ec%9e%ac%ec%a7%84%ec%9e%85.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-06-02T02:11:54.000Z",
+      "summary": "인텔이 수년 전 재정난으로 철수했던 로보틱스 시장에 재진입하며 피지컬 AI 분야를 본격 공략하고 나섰다. 로보틱스 전략은 엣지에서 AI를 구동한다는 인텔의 더 큰 그림의 일환이다. 엣지 AI란 기기 자체에 AI를 로컬로 실행할 수 있는 컴퓨팅 역량을 갖추는 방식을 말한다. 현재 다수의 기기는 AI 기능이 없어 처리 작업을 클라우드에 위탁해야 한다. 인텔은 인텔 시리즈 3 프로세서가 현재...",
+      "tab": "ai"
+    },
+    {
+      "id": "a24718ab2b066c21",
+      "title": "오픈텍스트, G7 AI 행동강령 이행 체계 동참",
+      "url": "https://www.itworld.co.kr/article/4179066/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-g7-ai-%ed%96%89%eb%8f%99%ea%b0%95%eb%a0%b9-%ec%9d%b4%ed%96%89-%ec%b2%b4%ea%b3%84-%eb%8f%99%ec%b0%b8.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-06-02T00:48:00.000Z",
+      "summary": "글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다. HAIP는 G7이 마련한 첨단 AI의 안전한 개발·운영을 위한 자발적 행동강령 이행 체계로, 참여 기업은 AI 거버넌스·투명성·안전성·책임성 관련 활동을 공개하고 글로벌 기준에 부합하는 운영 체계를 갖출 수 있다. 에이먼 안툰 CEO는 “AI에 대한 신...",
+      "tab": "ai"
+    },
+    {
+      "id": "0a698243dcac76aa",
+      "title": "엔비디아 RTX 스파크, 에이전트형 AI PC 시대 열다",
+      "url": "https://www.itworld.co.kr/article/4179589/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-rtx-%ec%8a%a4%ed%8c%8c%ed%81%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-pc-%ec%8b%9c%eb%8c%80-%ec%97%b4%eb%8b%a4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-06-02T00:35:01.000Z",
+      "summary": "엔비디아는 전 세계 거의 모든 사람의 손에 AI 생산성을 쥐여주겠다는 비전을 품고 있다. 지난 일요일 밤, 엔비디아 RTX 스파크(Nvidia RTX Spark) 데뷔와 함께 그 여정에 새 이정표를 세웠다. RTX 스파크는 사용자·기업용 PC 시장에서 퀄컴에 도전하는 두 번째 윈도우 온 암(Windows on Arm) 프로세서다. 엔비디아는 RTX 스파크 플랫폼의 핵심인 N1 및 N1X...",
+      "tab": "ai"
+    },
     {
       "id": "7bba51f0aaed2e44",
       "title": "엔비디아가 ‘에이전틱 AI 팩토리’ 시대 선언 … 인라인 보안부터 피지컬 로봇까지 전방위 공략",
@@ -176,24 +203,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-05-26T02:50:17.000Z",
       "summary": "한 보안 연구팀이 클로드 미토스(Claude Mythos)를 활용해 애플 M5 칩에서 최초로 알려진 익스플로잇 을 발견했다. 물리적 접근이 필요한 접근이었고 취약점은 이미 패치됐으므로 심각한 위협으로 볼 필요는 없다. 그러나 AI 시대에 공격자가 시스템 취약점을 위험할 만큼 빠른 속도로 찾아내고 악용할 수 있다는 냉혹한 경고임은 분명하다. 이미 널리 보도됐지만, 이 개념 증명 익스플로잇...",
-      "tab": "ai"
-    },
-    {
-      "id": "24ff4f49a767305c",
-      "title": "8,000명 내보내고 AI에 수백조 쏟는 메타",
-      "url": "https://www.itworld.co.kr/article/4176863/8000%eb%aa%85-%eb%82%b4%eb%b3%b4%eb%82%b4%ea%b3%a0-ai%ec%97%90-%ec%88%98%eb%b0%b1%ec%a1%b0-%ec%8f%9f%eb%8a%94-%eb%a9%94%ed%83%80.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-26T01:32:37.000Z",
-      "summary": "메타도 AI 전환 흐름 속 인력 구조조정에 나선 기업 대열에 이름을 올렸다. 전체 인력의 약 10%에 해당하는 8,000명을 이번 주 초 해고했으며, 별도로 7,000명을 AI 중심 직무로 재배치했다. 메타 CEO 마크 저커버그는 감원 사실을 직원에게 알리는 사내 메모에서 “AI는 우리 생애 가장 중요한 기술”이라며 “이 분야를 선도하는 기업이 다음 세대를 정의할 것”이라고 강조했다....",
-      "tab": "ai"
-    },
-    {
-      "id": "356303719af9183f",
-      "title": "LLM의 미래는 ‘특화’에 있다…의료·법률·금융 분야 맞춤형 모델 21가지",
-      "url": "https://www.itworld.co.kr/article/4175450/llm%ec%9d%98-%eb%af%b8%eb%9e%98%eb%8a%94-%ed%8a%b9%ed%99%94%ec%97%90-%ec%9e%88%eb%8b%a4-%ec%9d%98%eb%a3%8c%c2%b7%eb%b2%95%eb%a5%a0%c2%b7%ea%b8%88%ec%9c%b5-%eb%b6%84%ec%95%bc-%eb%a7%9e%ec%b6%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-22T01:02:00.000Z",
-      "summary": "대규모 언어 모델(LLM)이 대화를 할 수 있다는 정도에 모두가 놀란 시절은 지나간지 오래다. 이제 초점은 지식의 깊이에 있다. 심층적인 지식을 제공하는 최선의 방법은 전문화다. 앞서가는 이들은 모든 상황에 맞는 거대한 단일 모델을 개발하는 것이 아니라 의사, 변호사, 은행 등을 위한 모델 등 틈새를 노리는 전문 모델을 구축하고 있다. 이 추세는 앞으로도 계속된다. 곧 어깨 인공관절 치...",
       "tab": "ai"
     }
   ]
