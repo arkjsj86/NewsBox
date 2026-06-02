@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-06-02T04:02:02.801Z",
+  "lastUpdatedAt": "2026-06-02T10:24:03.826Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "9rwyI5gyVsQ",
+      "title": "Unity AI와 함께하는 TDD",
+      "url": "https://www.youtube.com/watch?v=9rwyI5gyVsQ",
+      "publishedAt": "2026-06-02T04:40:38.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/9rwyI5gyVsQ/hqdefault.jpg"
+    },
+    {
       "id": "6vva3yP5RWQ",
       "title": "Unity AI와 함께하는 TDD 및 프로파일링 - 유니티라이브 2026.05",
       "url": "https://www.youtube.com/watch?v=6vva3yP5RWQ",
       "publishedAt": "2026-05-27T21:01:43.000Z",
       "thumbnailUrl": "https://i3.ytimg.com/vi/6vva3yP5RWQ/hqdefault.jpg"
-    },
-    {
-      "id": "MYrgUUTHMFY",
-      "title": "이번 여름, Unite Seoul 2026에서 One Unity와 함께하세요",
-      "url": "https://www.youtube.com/watch?v=MYrgUUTHMFY",
-      "publishedAt": "2026-05-27T01:33:37.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/MYrgUUTHMFY/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
