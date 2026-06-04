@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-04T15:16:10.995Z",
+  "lastUpdatedAt": "2026-06-04T20:06:35.157Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "efe01a310895c2d6",
-      "issueKey": "젠슨 황 방한",
-      "issueTitle": "젠슨 황 방한",
-      "trendTitle": "젠슨 황 방한",
+      "id": "a4215a3126661d52",
+      "issueKey": "커피",
+      "issueTitle": "커피",
+      "trendTitle": "커피",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "커피 2천 원도 무너졌다…선거 끝난 6월, 외식물가 줄인상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604132501935",
+          "publishedAt": "2026-06-04T18:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "안 오르는 게 없네…식음료 프랜차이즈 줄줄이 가격 인상(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260604070951030",
+          "publishedAt": "2026-06-04T18:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "더본코리아, 9일부터 산하 브랜드 11곳 메뉴 139개 가격 평균 11.08% 인상",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=439268",
+          "publishedAt": "2026-06-04T18:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "커피 2천 원도 무너졌다…선거 끝난 6월, 외식물가 줄인상",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604132501935",
+        "publishedAt": "2026-06-04T18:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T18:40:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "커피",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260604132501935",
+      "rank": 1
+    },
+    {
+      "id": "1ee258289f50d2cd",
+      "issueKey": "쿠와키 리무",
+      "issueTitle": "쿠와키 리무",
+      "trendTitle": "쿠와키 리무",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "고레에다 히로카즈 감독 내한 기자간담회",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260604256600013",
+          "publishedAt": "2026-06-04T17:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "죽은 아들 대신 입양한 AI로봇이 “나는 누구냐” 묻는다면…",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605004218423",
+          "publishedAt": "2026-06-04T17:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[현장포토] \"일본의 미래\"...쿠와키 리무, 사랑스러운 애교",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2343667",
+          "publishedAt": "2026-06-04T17:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[현장포토] \"일본의 미래\"...쿠와키 리무, 사랑스러운 애교",
+        "source": "디스패치",
+        "url": "https://www.dispatch.co.kr/2343667",
+        "publishedAt": "2026-06-04T17:30:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-06-04T17:30:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "쿠와키 리무",
+      "source": "디스패치",
+      "url": "https://www.dispatch.co.kr/2343667",
+      "rank": 2
+    },
+    {
+      "id": "690286f79be1fafe",
+      "issueKey": "퀀티넘",
+      "issueTitle": "퀀티넘",
+      "trendTitle": "퀀티넘",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "양자컴퓨팅 대장주 노리는 퀀티넘…IPO 흥행, 오늘 밤 나스닥 상장",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/06/04/2026060412294629682",
+          "publishedAt": "2026-06-04T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Quantinuum, 나스닥 데뷔와 함께 주가 급등…기업가치 176억 달러 돌파 By Investing.com",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-1972970",
+          "publishedAt": "2026-06-04T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "퀀티넘, 증액된 기업공개 가격 발표",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260604181002",
+          "publishedAt": "2026-06-04T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "양자컴퓨팅 대장주 노리는 퀀티넘…IPO 흥행, 오늘 밤 나스닥 상장",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/06/04/2026060412294629682",
+        "publishedAt": "2026-06-04T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T17:00:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "퀀티넘",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/world/2026/06/04/2026060412294629682",
+      "rank": 3
+    },
+    {
+      "id": "0a396394742b1c1f",
+      "issueKey": "마야 흐발린스카",
+      "issueTitle": "마야 흐발린스카",
+      "trendTitle": "마야 흐발린스카",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "114위 예선통과자 흐발린스카, 프랑스오픈 4강…역대 2번째 이변",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260603214419471?f=p",
+          "publishedAt": "2026-06-04T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "세계 랭킹 114위 흐발린스카, 프랑스 오픈 테니스 4강 진출 ‘이변’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20051580",
+          "publishedAt": "2026-06-04T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"114위 서브 맛을 봐라\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260604_0002152401",
+          "publishedAt": "2026-06-04T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "마야 흐발린스카",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260603214419471?f=p",
+        "publishedAt": "2026-06-04T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T15:40:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "마야 흐발린스카",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260603214419471?f=p",
+      "rank": 4
+    },
+    {
+      "id": "c6ae4fe6da7b916c",
+      "issueKey": "한수민",
+      "issueTitle": "한수민",
+      "trendTitle": "한수민",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘박명수 아내’ 한수민, 환자에게 명품 H사 가방 선물 받아… “19년 인연”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260603231901762",
+          "publishedAt": "2026-06-04T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'박명수♥' 한수민, 에르메스 인증…\"행복한 하루\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260604_0003655944",
+          "publishedAt": "2026-06-04T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "환자에서 친구로…한수민, 개업 첫 인연이 건넨 명품선물",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1613235",
+          "publishedAt": "2026-06-04T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘박명수 아내’ 한수민, 환자에게 명품 H사 가방 선물 받아… “19년 인연”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260603231901762",
+        "publishedAt": "2026-06-04T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T15:40:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "한수민",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260603231901762",
+      "rank": 5
+    },
+    {
+      "id": "8ecd8c469384bf58",
+      "issueKey": "디아나 슈나이더",
+      "issueTitle": "디아나 슈나이더",
+      "trendTitle": "디아나 슈나이더",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "No. 1 Sabalenka is out -- who will win the French Open title?",
+          "source": "ESPN",
+          "url": "https://www.espn.com/tennis/story/_/id/48956620/aryna-sabalenka-french-open-upset-diana-shnaider",
+          "publishedAt": "2026-06-04T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Aryna Sabalenka’s quest for mastery of clay and grass courts takes another turn",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7330378/2026/06/03/aryna-sabalenka-tennis-clay-grass-french-open-wimbledon/",
+          "publishedAt": "2026-06-04T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Aryna Sabalenka says she 'just want to quit tennis right now' after French Open loss to Diana Shnaider",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/tennis/breaking-news/article/aryna-sabalenka-says-she-just-want-to-quit-tennis-right-now-after-french-open-loss-to-diana-shnaider-134501871.html",
+          "publishedAt": "2026-06-04T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "디아나 슈나이더",
+        "source": "ESPN",
+        "url": "https://www.espn.com/tennis/story/_/id/48956620/aryna-sabalenka-french-open-upset-diana-shnaider",
+        "publishedAt": "2026-06-04T15:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T15:30:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "디아나 슈나이더",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/48956620/aryna-sabalenka-french-open-upset-diana-shnaider",
+      "rank": 6
+    },
+    {
+      "id": "6d98c1a01f9d6097",
+      "issueKey": "이상민",
+      "issueTitle": "이상민",
+      "trendTitle": "이상민",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이상민, 파격 합격 선언에 부상 치료비 약속까지 했다(‘232 프로젝트’)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604111515708?f=p",
+          "publishedAt": "2026-06-04T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이상민, 15살에 172㎝ 장원영 피지컬 참가자에 \"그냥 연예인이야\" 파격 합격 (232프로젝트)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260604n09552",
+          "publishedAt": "2026-06-04T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘232 프로젝트’ 이상민, 제작자 날카로운 안목+인간적 매력 동시에 분출",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606041757003",
+          "publishedAt": "2026-06-04T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이상민, 파격 합격 선언에 부상 치료비 약속까지 했다(‘232 프로젝트’)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604111515708?f=p",
+        "publishedAt": "2026-06-04T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T15:00:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "이상민",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260604111515708?f=p",
+      "rank": 7
+    },
+    {
+      "id": "46f15f1dbcafc4e7",
+      "issueKey": "이더리움",
+      "issueTitle": "이더리움",
+      "trendTitle": "이더리움",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"신규 매수세 실종\"…이더리움 현물 ETF, 17거래일 연속 순유출",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6187794",
+          "publishedAt": "2026-06-04T14:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이더리움, 15일 연속 ETF 자금 유출에 결국 1,800달러대 붕괴 위기",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/240006",
+          "publishedAt": "2026-06-04T14:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "인용 모아보기 | ETH 현물 ETF 1,371억 원 순유출...16거래일 연속",
+          "source": "코인니스",
+          "url": "https://coinness.com/news/1159220/quote",
+          "publishedAt": "2026-06-04T14:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"신규 매수세 실종\"…이더리움 현물 ETF, 17거래일 연속 순유출",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/finance/blockchain-fintech/6187794",
+        "publishedAt": "2026-06-04T14:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T14:20:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "이더리움",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/finance/blockchain-fintech/6187794",
+      "rank": 8
+    },
+    {
+      "id": "09fb7246623a7b8d",
+      "issueKey": "닌텐도 스위치",
+      "issueTitle": "닌텐도 스위치",
+      "trendTitle": "닌텐도 스위치",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+          "publishedAt": "2026-06-04T14:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Nintendo Switch 2 with user-replaceable batteries coming to the EU — console maker confirms it will comply with regulations set to take effect from 2027",
+          "source": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/video-games/nintendo/nintendo-switch-2-with-user-replaceable-batteries-coming-to-the-eu-console-maker-confirms-it-will-comply-with-regulations-set-to-take-effect-from-2027",
+          "publishedAt": "2026-06-04T14:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Nintendo Confirms New Switch 2 Hardware With Replaceable Battery",
+          "source": "Digital Foundry",
+          "url": "https://www.digitalfoundry.net/news/2026/06/nintendo-confirms-new-switch-2-hardware-with-replaceable-battery",
+          "publishedAt": "2026-06-04T14:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "닌텐도 스위치",
+        "source": "The Verge",
+        "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+        "publishedAt": "2026-06-04T14:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T14:20:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "닌텐도 스위치",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "rank": 9
+    },
+    {
+      "id": "63bd0381944fae55",
+      "issueKey": "나흘간 뭐하나",
+      "issueTitle": "나흘간 뭐하나",
+      "trendTitle": "나흘간 뭐하나",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "젠슨 황의 밥상…깐부치킨 이어 '삼쏘 회동'에 쏠린 눈",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418114",
+          "title": "젠슨 황 내일 전용기로 입국‥나흘간 뭐하나, 삼겹살에 시구까지",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6827833_37004.html",
           "publishedAt": "2026-06-04T14:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "젠슨 황, 내일 전용기로 방한…홍대서 '삼겹 회동'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604231703361",
+          "title": "\"우리도 깐부\" 최태원, TSMC 손 잡는다",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/06/05/2026060419373514270",
           "publishedAt": "2026-06-04T14:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "젠슨 황 내일 방한…‘AI·로보틱스 동맹’ 강화부터 프로야구 시구까지 광폭 행보",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606041800001",
+          "title": "대만에서 회동한 최태원 SK그룹 회장과 웨이저자 TSMC 회장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260604079900003",
           "publishedAt": "2026-06-04T14:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "젠슨 황 방한",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418114",
+        "title": "젠슨 황 내일 전용기로 입국‥나흘간 뭐하나, 삼겹살에 시구까지",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6827833_37004.html",
         "publishedAt": "2026-06-04T14:10:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-04T14:10:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "젠슨 황 방한",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418114",
-      "rank": 1
-    },
-    {
-      "id": "7aec1b1fd3c2612d",
-      "issueKey": "공매도",
-      "issueTitle": "공매도",
-      "trendTitle": "공매도",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'불장' 환호 뒤에 \"곧 떨어진다\" 22조 베팅…공매도 몰린 종목은?",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/06/04/2026060416293667659",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "02일 코스피 시장 공매도 수량 상위 종목. LG디스플레이, 삼성전자 등 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/c-biz_bot/2026/06/04/MJRGGMRWGUZDANJYGI3WMODCMI/",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "공매도 순보유잔고 1위 코스피 한미반도체·코스닥 엔켐",
-          "source": "중기이코노미",
-          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=36607",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'불장' 환호 뒤에 \"곧 떨어진다\" 22조 베팅…공매도 몰린 종목은?",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/06/04/2026060416293667659",
-        "publishedAt": "2026-06-04T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-04T13:50:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "공매도",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/stock/2026/06/04/2026060416293667659",
-      "rank": 2
-    },
-    {
-      "id": "9d9072d23070636e",
-      "issueKey": "독일",
-      "issueTitle": "독일",
-      "trendTitle": "독일",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "독일 안보리 이사국 탈락 수모…이스라엘 편들다 미움 샀나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604181106964",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "유엔 안보리 비상임이사국 5개국 선출…독일 탈락",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8578107",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "독일, 유엔 안보리 비상임이사국 선거서 '고배'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260604_0003656904",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "독일 안보리 이사국 탈락 수모…이스라엘 편들다 미움 샀나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260604181106964",
-        "publishedAt": "2026-06-04T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-04T13:50:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "독일",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260604181106964",
-      "rank": 3
-    },
-    {
-      "id": "5617da85a5470634",
-      "issueKey": "이용찬",
-      "issueTitle": "이용찬",
-      "trendTitle": "이용찬",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "두산 김원형 감독 \"쏟아지는 비에도 관중석 지켜준 팬들께 감사\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260604_0003657070",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]9회말 승리 마무리 짓는 두산 이용찬",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/MM4DCYJVGU4TMMRWMU4GKZRRGI/",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "투수 박치국 '슈퍼 캐치' 두산 구했다, 빗속 혈투 끝 한화에 0.5경기 차 추격 [잠실 현장]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260604n39710",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[사진]9회말 승리 마무리 짓는 두산 이용찬",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/MM4DCYJVGU4TMMRWMU4GKZRRGI/",
-        "publishedAt": "2026-06-04T13:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-04T13:50:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "이용찬",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/MM4DCYJVGU4TMMRWMU4GKZRRGI/",
-      "rank": 4
-    },
-    {
-      "id": "5387bad7291bcbad",
-      "issueKey": "마르타 코스튜크",
-      "issueTitle": "마르타 코스튜크",
-      "trendTitle": "마르타 코스튜크",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“이 승리를 조국 우크라이나에”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/20260603230100A",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘우크라 더비’ 웃은 코스튜크, 결승 길목 러시아 만난다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/F6WB9H3G0H",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "코스튜크, 우크라이나 최초 프랑스오픈 여자 단식 4강 진출",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6185748",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "마르타 코스튜크",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/20260603230100A",
-        "publishedAt": "2026-06-04T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-04T13:50:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "마르타 코스튜크",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/20260603230100A",
-      "rank": 5
-    },
-    {
-      "id": "9642e412434416e9",
-      "issueKey": "이우성",
-      "issueTitle": "이우성",
-      "trendTitle": "이우성",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "KIA랑 초대형 트레이드하길 잘했네…타율 0.358에 5출루 경기+팀 구한 호수비까지 '완벽'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604024802779",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"이게 운이라고요?\" 정우영이 밝힌 리그 타율 2위 이우성의 놀라운 확률 [베이스볼S]",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000631105",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'KIA와 초대형 트레이드 주인공' NC서 터졌네! '0.358' 타율 2위 미쳤다→정작 \"기록 떠나 팀 승리 기뻐\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/06/04/2026060404504727346",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"이게 운이라고요?\" 정우영이 밝힌 리그 타율 2위 이우성의 놀라운 확률 [베이스볼S]",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000631105",
-        "publishedAt": "2026-06-04T13:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-04T13:50:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "이우성",
-      "source": "programs.sbs.co.kr",
-      "url": "https://programs.sbs.co.kr/sports/2026baseballs/clip/89153/22000631105",
-      "rank": 6
-    },
-    {
-      "id": "82260873bc174433",
-      "issueKey": "굿파트너",
-      "issueTitle": "굿파트너",
-      "trendTitle": "굿파트너",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "신혜선, SBS 새 드라마 '대시' 주연…진실 좇는 검사 변신",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260601147400005",
-          "publishedAt": "2026-06-04T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'15년 만에 로맨스' 고수→'데뷔 첫 오컬트' 이준혁…역대급 SBS 드라마 라인업",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602161217656",
-          "publishedAt": "2026-06-04T13:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "소지섭→이준혁…SBS, 제대로 칼 갈고 시청률 사냥",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/06/03/2026060307007295980",
-          "publishedAt": "2026-06-04T13:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "굿파트너",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260601147400005",
-        "publishedAt": "2026-06-04T13:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-04T13:10:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "굿파트너",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260601147400005",
-      "rank": 7
-    },
-    {
-      "id": "0349802933dce341",
-      "issueKey": "심수봉",
-      "issueTitle": "심수봉",
-      "trendTitle": "심수봉",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'편스토랑' 손태진 \"사촌 동생 진원, '팬텀싱어4' 우승·연세대 출신\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604211300722",
-          "publishedAt": "2026-06-04T13:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "손태진, 심수봉·빌리 시윤→국악 인간문화재···성대 DNA 증명('신상출시 편스토랑')[순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/06/04/MRSWEOJYMZSGIMZVHEZTKYLFGM/",
-          "publishedAt": "2026-06-04T13:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "심수봉, 손태진에 \"결혼 안 하니?\" 잔소리…왜?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260604_0003656024",
-          "publishedAt": "2026-06-04T13:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "손태진, 심수봉·빌리 시윤→국악 인간문화재···성대 DNA 증명('신상출시 편스토랑')[순간포착]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/06/04/MRSWEOJYMZSGIMZVHEZTKYLFGM/",
-        "publishedAt": "2026-06-04T13:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-04T13:00:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "심수봉",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/06/04/MRSWEOJYMZSGIMZVHEZTKYLFGM/",
-      "rank": 8
-    },
-    {
-      "id": "2b795b417e60d706",
-      "issueKey": "심우준",
-      "issueTitle": "심우준",
-      "trendTitle": "심우준",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[사진]심우준, 1루 주자 포스아웃 시키고 1루 송구",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/GA4DGOJQHA2TGZLFHA2WGYZVGY/",
-          "publishedAt": "2026-06-04T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고의낙구? 실수? 한화 50억 유격수 미스터리, 왜 1루주자 양의지→안재석으로 바꿨을까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Q1GqB72uSA?f=p",
-          "publishedAt": "2026-06-04T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[사진]연장 10회 1사에서 안타 뽑아내는 한화 심우준",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/06/03/202606032005777258O",
-          "publishedAt": "2026-06-04T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[사진]심우준, 1루 주자 포스아웃 시키고 1루 송구",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/GA4DGOJQHA2TGZLFHA2WGYZVGY/",
-        "publishedAt": "2026-06-04T12:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-04T12:50:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "심우준",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/GA4DGOJQHA2TGZLFHA2WGYZVGY/",
-      "rank": 9
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "나흘간 뭐하나",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6827833_37004.html",
+      "rank": 10
     }
   ],
   "history": [
@@ -595,6 +642,52 @@
       "title": "유강남",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260604060153307"
+    },
+    {
+      "id": "63bd0381944fae55",
+      "issueKey": "나흘간 뭐하나",
+      "issueTitle": "나흘간 뭐하나",
+      "trendTitle": "나흘간 뭐하나",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "젠슨 황 내일 전용기로 입국‥나흘간 뭐하나, 삼겹살에 시구까지",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6827833_37004.html",
+          "publishedAt": "2026-06-04T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"우리도 깐부\" 최태원, TSMC 손 잡는다",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/06/05/2026060419373514270",
+          "publishedAt": "2026-06-04T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "대만에서 회동한 최태원 SK그룹 회장과 웨이저자 TSMC 회장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260604079900003",
+          "publishedAt": "2026-06-04T14:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "젠슨 황 내일 전용기로 입국‥나흘간 뭐하나, 삼겹살에 시구까지",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6827833_37004.html",
+        "publishedAt": "2026-06-04T14:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T14:10:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "나흘간 뭐하나",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6827833_37004.html"
     },
     {
       "id": "efe01a310895c2d6",
@@ -919,50 +1012,50 @@
       "url": "https://v.daum.net/v/20260601153419779"
     },
     {
-      "id": "7753b2418f4bf05e",
-      "issueKey": "비트코인 시세",
-      "issueTitle": "비트코인 시세",
-      "trendTitle": "비트코인 시세",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "a4215a3126661d52",
+      "issueKey": "커피",
+      "issueTitle": "커피",
+      "trendTitle": "커피",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[코인시세] 비트코인 7만1천 달러선 급락…대규모 매도에 투자심리 냉각",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260602094019EJr",
-          "publishedAt": "2026-06-02T14:30:00.000Z",
+          "title": "커피 2천 원도 무너졌다…선거 끝난 6월, 외식물가 줄인상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260604132501935",
+          "publishedAt": "2026-06-04T18:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[속보] 비트코인, 두달 만에 7만달러 붕괴…'큰손'도 팔았다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602181315975",
-          "publishedAt": "2026-06-02T14:30:00.000Z",
+          "title": "안 오르는 게 없네…식음료 프랜차이즈 줄줄이 가격 인상(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260604070951030",
+          "publishedAt": "2026-06-04T18:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "비트코인, 1억400만원선…알트코인 상대적 강세",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260602_0003652778",
-          "publishedAt": "2026-06-02T14:30:00.000Z",
+          "title": "더본코리아, 9일부터 산하 브랜드 11곳 메뉴 139개 가격 평균 11.08% 인상",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=439268",
+          "publishedAt": "2026-06-04T18:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "비트코인 시세",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260602094019EJr",
-        "publishedAt": "2026-06-02T14:30:00.000Z",
+        "title": "커피 2천 원도 무너졌다…선거 끝난 6월, 외식물가 줄인상",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260604132501935",
+        "publishedAt": "2026-06-04T18:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-02T14:30:00.000Z",
-      "firstSeenAt": "2026-06-02T16:25:55.240Z",
-      "lastSeenAt": "2026-06-02T16:25:55.240Z",
-      "title": "비트코인 시세",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260602094019EJr"
+      "publishedAt": "2026-06-04T18:40:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "커피",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260604132501935"
     },
     {
       "id": "7aec1b1fd3c2612d",
@@ -1701,6 +1794,98 @@
       "url": "https://www.kyeonggi.com/article/20260602580462"
     },
     {
+      "id": "1ee258289f50d2cd",
+      "issueKey": "쿠와키 리무",
+      "issueTitle": "쿠와키 리무",
+      "trendTitle": "쿠와키 리무",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "고레에다 히로카즈 감독 내한 기자간담회",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260604256600013",
+          "publishedAt": "2026-06-04T17:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "죽은 아들 대신 입양한 AI로봇이 “나는 누구냐” 묻는다면…",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260605004218423",
+          "publishedAt": "2026-06-04T17:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[현장포토] \"일본의 미래\"...쿠와키 리무, 사랑스러운 애교",
+          "source": "디스패치",
+          "url": "https://www.dispatch.co.kr/2343667",
+          "publishedAt": "2026-06-04T17:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[현장포토] \"일본의 미래\"...쿠와키 리무, 사랑스러운 애교",
+        "source": "디스패치",
+        "url": "https://www.dispatch.co.kr/2343667",
+        "publishedAt": "2026-06-04T17:30:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-06-04T17:30:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "쿠와키 리무",
+      "source": "디스패치",
+      "url": "https://www.dispatch.co.kr/2343667"
+    },
+    {
+      "id": "690286f79be1fafe",
+      "issueKey": "퀀티넘",
+      "issueTitle": "퀀티넘",
+      "trendTitle": "퀀티넘",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "양자컴퓨팅 대장주 노리는 퀀티넘…IPO 흥행, 오늘 밤 나스닥 상장",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/06/04/2026060412294629682",
+          "publishedAt": "2026-06-04T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Quantinuum, 나스닥 데뷔와 함께 주가 급등…기업가치 176억 달러 돌파 By Investing.com",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-1972970",
+          "publishedAt": "2026-06-04T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "퀀티넘, 증액된 기업공개 가격 발표",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260604181002",
+          "publishedAt": "2026-06-04T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "양자컴퓨팅 대장주 노리는 퀀티넘…IPO 흥행, 오늘 밤 나스닥 상장",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/world/2026/06/04/2026060412294629682",
+        "publishedAt": "2026-06-04T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-04T17:00:00.000Z",
+      "firstSeenAt": "2026-06-04T20:06:35.157Z",
+      "lastSeenAt": "2026-06-04T20:06:35.157Z",
+      "title": "퀀티넘",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/world/2026/06/04/2026060412294629682"
+    },
+    {
       "id": "a332cf244afbad2c",
       "issueKey": "원자력 발전소",
       "issueTitle": "원자력 발전소",
@@ -2159,144 +2344,6 @@
       "title": "전은수",
       "source": "서울신문",
       "url": "https://www.seoul.co.kr/news/politics/local-election2026/2026/06/04/20260604016003"
-    },
-    {
-      "id": "6286783ee2dc2582",
-      "issueKey": "ssg",
-      "issueTitle": "ssg",
-      "trendTitle": "ssg",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Kiwoom Ends Eight-Game Losing Streak, Manager Seol: 'Home Run Over Walk'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/03/YLUW4E6P2BDDZA2QPT3YMLDSPU/",
-          "publishedAt": "2026-06-03T09:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "SSG Landers Manager Hopes New Players End Streak",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/03/I4UTNEKWS5BD5NA33YYHQ3JN4I/",
-          "publishedAt": "2026-06-03T09:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "SSG's 12-Game Skid Meets Kiwoom's 8-Game Slide in Showdown",
-          "source": "Seoul Economic Daily",
-          "url": "https://en.sedaily.com/sports/2026/06/02/ssgs-12-game-skid-meets-kiwooms-8-game-slide-in-showdown",
-          "publishedAt": "2026-06-03T09:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "SSG Landers Manager Hopes New Players End Streak",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/06/03/I4UTNEKWS5BD5NA33YYHQ3JN4I/",
-        "publishedAt": "2026-06-03T09:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-03T09:40:00.000Z",
-      "firstSeenAt": "2026-06-03T11:00:09.491Z",
-      "lastSeenAt": "2026-06-03T11:00:09.491Z",
-      "title": "ssg",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/english/sports-en/2026/06/03/I4UTNEKWS5BD5NA33YYHQ3JN4I/"
-    },
-    {
-      "id": "d2a4e45a469d190f",
-      "issueKey": "엔비디아",
-      "issueTitle": "엔비디아",
-      "trendTitle": "엔비디아",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "엔비디아 '휴머노이드 동맹'에 韓 기업 누가 합류할까",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417872",
-          "publishedAt": "2026-06-02T21:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "엔비디아, 휴머노이드 연구용 표준 모델 공개",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260602000407",
-          "publishedAt": "2026-06-02T21:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "요즘 로봇 투자 난리인데…젠슨황, 중국 ‘이 기업’과 손잡았다고?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260602140604811",
-          "publishedAt": "2026-06-02T21:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "엔비디아 '휴머노이드 동맹'에 韓 기업 누가 합류할까",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417872",
-        "publishedAt": "2026-06-02T21:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-02T21:50:00.000Z",
-      "firstSeenAt": "2026-06-02T23:02:54.003Z",
-      "lastSeenAt": "2026-06-02T23:02:54.003Z",
-      "title": "엔비디아",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4417872"
-    },
-    {
-      "id": "640cf8e4da815859",
-      "issueKey": "크로아티아 대 벨기에",
-      "issueTitle": "크로아티아 대 벨기에",
-      "trendTitle": "크로아티아 대 벨기에",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "How to watch today's Croatia vs Belgium Friendlies game: Live stream, TV channel, and start time",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-croatia-v-belgium/blte072a7841b164c78",
-          "publishedAt": "2026-06-02T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Licensable picture: PXL_BEL press conference",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/pxlbel-press-conference/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVNJUEEwMDBZVlY2UEI",
-          "publishedAt": "2026-06-02T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Tuesday's 2026 World Cup warm-up predictions and previews including Croatia vs. Belgium",
-          "source": "Sports Mole",
-          "url": "https://www.sportsmole.co.uk/football/canada/feature/modric-vs-de-bruyne-tuesdays-world-cup-warm-up-predictions-and-previews_598497.html",
-          "publishedAt": "2026-06-02T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "크로아티아 대 벨기에",
-        "source": "Goal.com",
-        "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-croatia-v-belgium/blte072a7841b164c78",
-        "publishedAt": "2026-06-02T15:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-02T15:10:00.000Z",
-      "firstSeenAt": "2026-06-02T16:25:55.240Z",
-      "lastSeenAt": "2026-06-02T16:25:55.240Z",
-      "title": "크로아티아 대 벨기에",
-      "source": "Goal.com",
-      "url": "https://www.goal.com/en-us/news/live-stream-online-tv-where-to-watch-croatia-v-belgium/blte072a7841b164c78"
     }
   ]
 }
