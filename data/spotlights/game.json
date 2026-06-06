@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-06T19:23:39.419Z",
+  "lastUpdatedAt": "2026-06-06T22:02:29.198Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -35,14 +35,9 @@
       "sourceUrl": "https://bbs.ruliweb.com/best",
       "items": [
         {
-          "title": "6월에 출시되는 PC·모바일 게임 목록",
-          "url": "https://bbs.ruliweb.com/news/read/225181",
-          "meta": "댓글 20"
-        },
-        {
           "title": "엔비디아, 'RTX 스파크'로 개인용 AI PC 시대 연다",
           "url": "https://bbs.ruliweb.com/news/read/225241",
-          "meta": "댓글 34"
+          "meta": "댓글 35"
         },
         {
           "title": "코모도, ‘스팀 덱 OLED’ 가격 재차 인상",
@@ -58,6 +53,11 @@
           "title": "완전 패키지, 스팀으로 다시 선보이는 '드래곤소드'의 첫 모습은?",
           "url": "https://bbs.ruliweb.com/news/read/225425",
           "meta": "댓글 21"
+        },
+        {
+          "title": "AMD, 컴퓨텍스에서 게이밍·AI·상업용 & 전문가용에 대한 솔루션 제시",
+          "url": "https://bbs.ruliweb.com/news/read/225192",
+          "meta": "댓글 8"
         }
       ]
     },
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "김대호 감독이 좋은 경기력을 판단하는 기준",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317191",
-          "meta": "리그 오브 레전드 · 5시간 전"
+          "title": "7월 17일, '스카이: 빛의 아이들'에 반 고흐가 온다",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317203",
+          "meta": "스카이: 빛의 아이들 · 2시간 전"
         },
         {
-          "title": "0:3 패배한 한진 브리온 김상수 감독 \"승리 계획이 부족했다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317190",
-          "meta": "리그 오브 레전드 · 5시간 전"
+          "title": "포스트 아포칼립스 기차 익스트랙션 '엔진폴', 8일 플레이테스트 진행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317202",
+          "meta": "2시간 전"
         },
         {
-          "title": "관록이 더해진 파이 첸 등장, '버추어 파이터 크로스로드' 2027년 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317179",
-          "meta": "버추어 파이터 크로스로드 · 18시간 전"
+          "title": "10년 VR 좀비 시리즈의 변신! 3인칭 시점의 '애리조나 선샤인'",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317201",
+          "meta": "애리조나 선샤인 · 2시간 전"
         },
         {
-          "title": "시놀로지, 컴퓨텍스 2026서 GPU NAS 및 AI 추론 강화 운영체제 'DSM' 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317166",
-          "meta": "2026-06-05"
+          "title": "펭귄 시선의 코즈믹 호러… 러브크래프트 원작 게임 '펭귄 콜로니'",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317198",
+          "meta": "펭귄 콜로니 · 3시간 전"
         },
         {
-          "title": "'SD건담 이터널', WEST TOWER 신규 층 추가",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317162",
-          "meta": "SD건담 G제네레이션 이터널 · 2026-06-05"
+          "title": "무민과 미이의 홍수 속 모험! '무민: 위험한 여름' 연내 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317196",
+          "meta": "무민: 위험한 여름 · 5시간 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
