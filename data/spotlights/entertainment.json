@@ -7,110 +7,385 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-06T13:44:18.458Z",
+  "lastUpdatedAt": "2026-06-06T16:05:32.245Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 9,
   "items": [
     {
-      "id": "835443ddc5c881d9",
-      "issueKey": "양민혁",
-      "issueTitle": "양민혁",
-      "trendTitle": "양민혁",
+      "id": "fec6543cf7a4022a",
+      "issueKey": "시가총액",
+      "issueTitle": "시가총액",
+      "trendTitle": "시가총액",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606153501349",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "반도체주 폭락에 환율도 급등‥'검은 월요일' 오나",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6828243_37004.html",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "뉴욕증시, 금리인상 공포에 반도체주 일제 투하…필리 10%↓",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418565",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "시가총액",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606153501349",
+        "publishedAt": "2026-06-06T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-06T13:30:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "시가총액",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260606153501349",
+      "rank": 1
+    },
+    {
+      "id": "bfea98e605f3b128",
+      "issueKey": "이재명 캠프",
+      "issueTitle": "이재명 캠프",
+      "trendTitle": "이재명 캠프",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "최휘영 문체부 장관 \"이재명 캠프·발레단 경력 없는 고령 교수 선임 뜬소문\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606213036683",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "국립발레단장에 李 사람? 단원들이 들고 일어났다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/performance-arts/2026/06/06/K2M2X3V32FF3LOCWHUCMB4LBOA/",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "강수진 후임 국립발레단장 인선 논란에…문체부 장관 “삼인성호” 고사성어 꺼냈다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20052509",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "최휘영 문체부 장관 \"이재명 캠프·발레단 경력 없는 고령 교수 선임 뜬소문\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606213036683",
+        "publishedAt": "2026-06-06T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-06T13:30:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "이재명 캠프",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260606213036683",
+      "rank": 2
+    },
+    {
+      "id": "461c1197d02daba0",
+      "issueKey": "두코바니",
+      "issueTitle": "두코바니",
+      "trendTitle": "두코바니",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "손흥민 엄중 경고 \"여기 양민혁 같은 선수 많다\" 끝내 현실로…EPL 데뷔 기약 없다→\"YANG 1군 진입? 아직 부족해, 임대 가능성\" 유력지 전망",
+          "title": "체코 원전 韓보조금 의혹 털었다…두코바니 사업 정상궤도",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260606150153999",
-          "publishedAt": "2026-06-06T12:30:00.000Z",
+          "url": "https://v.daum.net/v/20260606181251502",
+          "publishedAt": "2026-06-06T13:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"손흥민 경고 현실됐다\" 양민혁, 토트넘 미래 더 어두워졌다... 英 냉정 평가",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/06/04/G5RDAOBZME2DIMTFGRTDMZTFME/",
-          "publishedAt": "2026-06-06T12:30:00.000Z",
+          "title": "한수원, 체코 원전 역외보조금 리스크 해소…EU 심층조사 미개시(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260606042851003",
+          "publishedAt": "2026-06-06T13:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "양민혁, 토트넘 입성 후 4번째 임대 유력...\"코벤트리행은 최악의 임대, 계약 4년 남아 또 임대 보내야\"",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=687734",
-          "publishedAt": "2026-06-06T12:30:00.000Z",
+          "title": "김정관 \"체코 원전 FSR 종결, 韓 원전 경쟁력 입증한 성과\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260606_0003658884",
+          "publishedAt": "2026-06-06T13:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "손흥민 엄중 경고 \"여기 양민혁 같은 선수 많다\" 끝내 현실로…EPL 데뷔 기약 없다→\"YANG 1군 진입? 아직 부족해, 임대 가능성\" 유력지 전망",
+        "title": "체코 원전 韓보조금 의혹 털었다…두코바니 사업 정상궤도",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260606150153999",
-        "publishedAt": "2026-06-06T12:30:00.000Z",
+        "url": "https://v.daum.net/v/20260606181251502",
+        "publishedAt": "2026-06-06T13:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-06T12:30:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "양민혁",
+      "publishedAt": "2026-06-06T13:20:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "두코바니",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260606150153999",
-      "rank": 1
+      "url": "https://v.daum.net/v/20260606181251502",
+      "rank": 3
     },
     {
-      "id": "95cfb1a60ed967ea",
-      "issueKey": "결혼식",
-      "issueTitle": "결혼식",
-      "trendTitle": "결혼식",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "441baf20f2aa2d6c",
+      "issueKey": "단타야",
+      "issueTitle": "단타야",
+      "trendTitle": "단타야",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "축의금 18만원 냈는데 식은 햄버거가 전부…\"결혼식서 장사하냐\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606120802420",
-          "publishedAt": "2026-06-06T12:10:00.000Z",
+          "title": "스페이스X 올라탈 ‘원픽 ETF’…단타야? 장투야? 전략 짜줬다 [스페이스X 카운트다운⑤]",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25433276",
+          "publishedAt": "2026-06-06T13:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“친구 결혼 축의금 18만원냈는데, 식은 햄버거가 식사”…사연 올린 남성, SNS ‘와글와글’",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11593690",
-          "publishedAt": "2026-06-06T12:10:00.000Z",
+          "title": "“스페이스X 후광 제대로 탔다”···NASA ETF, 20억 달러 몰리며 5월 테마형 ETF ‘3위’",
+          "source": "Benzinga",
+          "url": "https://kr.benzinga.com/news/usa/trading/%EC%8A%A4%ED%8E%98%EC%9D%B4%EC%8A%A4x-%ED%9B%84%EA%B4%91-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%83%94%EB%8B%A4nasa-etf-20%EC%96%B5-%EB%8B%AC%EB%9F%AC-%EB%AA%B0%EB%A6%AC%EB%A9%B0-5/",
+          "publishedAt": "2026-06-06T13:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“결혼식으로 장사하냐” 축의금 18만원 냈는데 식사로 ‘패스트푸드’…분노한 대만 남성",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/2026/06/05/20260605500203",
-          "publishedAt": "2026-06-06T12:10:00.000Z",
+          "title": "[단독] 키움운용, '우주 데이터센터 ETF' 6월 중순 상장…스페이스X 편입 주목",
+          "source": "스마트투데이",
+          "url": "https://www.smarttoday.co.kr/ko-kr/articles/108024",
+          "publishedAt": "2026-06-06T13:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "축의금 18만원 냈는데 식은 햄버거가 전부…\"결혼식서 장사하냐\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606120802420",
-        "publishedAt": "2026-06-06T12:10:00.000Z",
+        "title": "스페이스X 올라탈 ‘원픽 ETF’…단타야? 장투야? 전략 짜줬다 [스페이스X 카운트다운⑤]",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25433276",
+        "publishedAt": "2026-06-06T13:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-06T12:10:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "결혼식",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260606120802420",
-      "rank": 2
+      "publishedAt": "2026-06-06T13:20:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "단타야",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25433276",
+      "rank": 4
     },
     {
-      "id": "77a405f554824b40",
-      "issueKey": "로또 1227 회 당첨 번호",
-      "issueTitle": "로또 1227 회 당첨 번호",
-      "trendTitle": "로또 1227 회 당첨 번호",
+      "id": "c3ab4ebfb693d07f",
+      "issueKey": "당찬 도전",
+      "issueTitle": "당찬 도전",
+      "trendTitle": "당찬 도전",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "19세 안드레예바, 프랑스오픈 우승…생애 첫 메이저 정상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QHFGJCWI5L",
+          "publishedAt": "2026-06-06T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "114위의 당찬 도전, 준우승도 아름다웠다…흐발린스카 프랑스 오픈 2위+상금 25억→19세 안드레예바 '생애 첫 그랜드슬램 트로피'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/p4lIay5T5l",
+          "publishedAt": "2026-06-06T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "세계 114위→프랑스오픈 결승...숙박비 걱정하던 흐발린스카의 인생 역전",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/06/06/GVSDOZTBGA3DEYRWMQ3TMMTCME/",
+          "publishedAt": "2026-06-06T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "114위의 당찬 도전, 준우승도 아름다웠다…흐발린스카 프랑스 오픈 2위+상금 25억→19세 안드레예바 '생애 첫 그랜드슬램 트로피'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/p4lIay5T5l",
+        "publishedAt": "2026-06-06T13:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-06T13:10:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "당찬 도전",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/p4lIay5T5l",
+      "rank": 5
+    },
+    {
+      "id": "589aafa6bd95672e",
+      "issueKey": "lpl",
+      "issueTitle": "lpl",
+      "trendTitle": "lpl",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 2,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "Bin fined nearly €20,000 for failing to greet fans",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/articles/bin-fined-nearly-eur20-000-for-refusing-to-greet-fans/en",
+          "publishedAt": "2026-06-06T13:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Chinese LoL league punishes one of its best top laners for not following a rule",
+          "source": "Mein-MMO",
+          "url": "https://mein-mmo.de/en/chinese-lol-league-punishes-one-of-its-best-top-laners-for-not-following-a-rule,1571217/",
+          "publishedAt": "2026-06-06T13:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "lpl",
+        "source": "Sheep Esports",
+        "url": "https://www.sheepesports.com/articles/bin-fined-nearly-eur20-000-for-refusing-to-greet-fans/en",
+        "publishedAt": "2026-06-06T13:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-06T13:00:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "lpl",
+      "source": "Sheep Esports",
+      "url": "https://www.sheepesports.com/articles/bin-fined-nearly-eur20-000-for-refusing-to-greet-fans/en",
+      "rank": 6
+    },
+    {
+      "id": "cbe408ee4116147b",
+      "issueKey": "최욱",
+      "issueTitle": "최욱",
+      "trendTitle": "최욱",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[풀영상] 2026 지방선거 충북 개표방송 - 2차",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231",
+          "publishedAt": "2026-06-06T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"접전에 또 접전\"…웨이브, 라이브 시청자 90%가 개표방송 집중",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260605_0003657623",
+          "publishedAt": "2026-06-06T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[굿모닝MBN 클로징] 더 나은 내일을 위하여",
+          "source": "매일경제",
+          "url": "https://www.mbn.co.kr/news/society/5197905",
+          "publishedAt": "2026-06-06T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "최욱",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231",
+        "publishedAt": "2026-06-06T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-06T12:50:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "최욱",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231",
+      "rank": 7
+    },
+    {
+      "id": "a37d4eb61057bf0a",
+      "issueKey": "오세훈",
+      "issueTitle": "오세훈",
+      "trendTitle": "오세훈",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606172901962",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고성국 “오세훈, 재선거 요구하라”…국힘은 ‘재선거 촉구’ 말 아껴",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1262104.html",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "서울시장 역전극 뒤엔 부동산 표심, 집값 상승 톱10중 8곳 승리",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260605/134053501/2",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고성국 “오세훈, 재선거 요구하라”…국힘은 ‘재선거 촉구’ 말 아껴",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1262104.html",
+        "publishedAt": "2026-06-06T12:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-06T12:40:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "오세훈",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1262104.html",
+      "rank": 8
+    },
+    {
+      "id": "ce65fcce46811abe",
+      "issueKey": "로또1227",
+      "issueTitle": "로또1227",
+      "trendTitle": "로또1227",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
@@ -120,319 +395,37 @@
           "title": "1227회 로또 1등 11명…당첨금 각 26억7천만원(종합)",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260606048300002",
-          "publishedAt": "2026-06-06T12:00:00.000Z",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "1인당 26억씩 받는다…로또 1등 당첨 11명",
+          "title": "1인당 26억씩 받는다…로또 1등 당첨 11명, 판매 명당은",
           "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20052513",
-          "publishedAt": "2026-06-06T12:00:00.000Z",
+          "url": "https://m.sedaily.com/amparticle/20052513",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
           "relevanceScore": 2
         },
         {
           "title": "[속보]1227회 로또 1등 1, 14, 16, 34, 41, 44…보너스 13",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/society/2026/06/06/2026060621040972808",
-          "publishedAt": "2026-06-06T12:00:00.000Z",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "로또 1227 회 당첨 번호",
+        "title": "로또1227",
         "source": "연합뉴스",
         "url": "https://www.yna.co.kr/view/AKR20260606048300002",
-        "publishedAt": "2026-06-06T12:00:00.000Z",
+        "publishedAt": "2026-06-06T12:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-06T12:00:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "로또 1227 회 당첨 번호",
+      "publishedAt": "2026-06-06T12:40:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "로또1227",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260606048300002",
-      "rank": 3
-    },
-    {
-      "id": "7560bd143a80a216",
-      "issueKey": "권상우",
-      "issueTitle": "권상우",
-      "trendTitle": "권상우",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "권상우♥손태영 17세 子, 연예인 안시킨다 했는데..키 182 모델 몸매 '父판박이' [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GE4DQMTFGE2DCN3GGMYGGYRTGA/",
-          "publishedAt": "2026-06-06T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"싸운거 아냐\"..권상우·17살 꽃미남 子, 말 한마디 안하는 어색한 관계",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606142422606",
-          "publishedAt": "2026-06-06T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "권상우 판박이 17세 아들, 벌써 아빠 넘어선 기럭지…대화없는 현실 부자(뉴저지)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260606n10056",
-          "publishedAt": "2026-06-06T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "권상우♥손태영 17세 子, 연예인 안시킨다 했는데..키 182 모델 몸매 '父판박이' [핫피플]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GE4DQMTFGE2DCN3GGMYGGYRTGA/",
-        "publishedAt": "2026-06-06T12:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-06T12:00:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "권상우",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/06/06/GE4DQMTFGE2DCN3GGMYGGYRTGA/",
-      "rank": 4
-    },
-    {
-      "id": "cc0ffde3e0555b1e",
-      "issueKey": "내일 날씨",
-      "issueTitle": "내일 날씨",
-      "trendTitle": "내일 날씨",
-      "approxTraffic": "200000+",
-      "trafficScore": 200000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "내일날씨, 주말 끝자락 비 소식…7일 밤 중부지방까지 확대",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/General-News/2026/06/202606062134083081112616b072_1",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[날씨] 내일 중부·남부 비…전국 하늘 '흐림'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606210011363",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "일요일 전국 곳곳 비 예보···낮 최고기온 29도",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606062031001",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "내일 날씨",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/General-News/2026/06/202606062134083081112616b072_1",
-        "publishedAt": "2026-06-06T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-06T11:50:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "내일 날씨",
-      "source": "글로벌이코노믹",
-      "url": "https://www.g-enews.com/article/General-News/2026/06/202606062134083081112616b072_1",
-      "rank": 5
-    },
-    {
-      "id": "aca44f9faff365fa",
-      "issueKey": "수원삼성",
-      "issueTitle": "수원삼성",
-      "trendTitle": "수원삼성",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'일류첸코 극장골' 수원, 화성에 2-1 짜릿한 역전승... '차두리호' 화성, 9경기 만에 패배 [화성 현장리뷰]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/06/06/2026060617535797403",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'대표팀 7명 차출' 이정효 \"없으면 없는 대로, 잘 훈련하고 잘 준비했다\" [화성 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tjY8Y6d8lk",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[K리그2 프리뷰]월드컵 휴식기 전 마지막 라운드, 두리볼 VS 정효볼 '빅뱅'...솔터로 돌아온 김포, 14경기만에 홈 개막전",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/06/05/GY2GMOJUMYZGKM3DGUZDIZJTGY/",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "수원삼성",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/06/06/2026060617535797403",
-        "publishedAt": "2026-06-06T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-06T11:50:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "수원삼성",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/sports/2026/06/06/2026060617535797403",
-      "rank": 6
-    },
-    {
-      "id": "b081ccaa85dcdb25",
-      "issueKey": "thời tiết ngày mai",
-      "issueTitle": "thời tiết ngày mai",
-      "trendTitle": "thời tiết ngày mai",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Từ ngày 9/6, nắng nóng chấm dứt ở Bắc Bộ và dịu dần ở khu vực Trung Bộ",
-          "source": "Tiin.vn",
-          "url": "https://tiin.vn/chuyen-muc/24/tu-ngay-9-6-nang-nong-cham-dut-o-bac-bo-va-diu-dan-o-khu-vuc-trung-bo.html",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Miền Bắc sắp mưa to 2 ngày liên tiếp, chấm dứt nắng nóng gay gắt",
-          "source": "Kenh14.vn",
-          "url": "https://kenh14.vn/mien-bac-sap-mua-to-2-ngay-lien-tiep-cham-dut-nang-nong-gay-gat-21526060619255604.chn",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Dự báo thời tiết ngày 7/6/2026: Miền Bắc nắng nóng trở lại, Trung Bộ khô nóng kéo dài",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/video-du-bao-thoi-tiet-dem-nay-va-ngay-mai-ngay-762026-khu-vuc-bac-bo-nang-nong-quay-tro-lai-trung-bo-tiep-tuc-kho-nong-keo-dai-post967486.html",
-          "publishedAt": "2026-06-06T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "thời tiết ngày mai",
-        "source": "Tiin.vn",
-        "url": "https://tiin.vn/chuyen-muc/24/tu-ngay-9-6-nang-nong-cham-dut-o-bac-bo-va-diu-dan-o-khu-vuc-trung-bo.html",
-        "publishedAt": "2026-06-06T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-06T11:50:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "thời tiết ngày mai",
-      "source": "Tiin.vn",
-      "url": "https://tiin.vn/chuyen-muc/24/tu-ngay-9-6-nang-nong-cham-dut-o-bac-bo-va-diu-dan-o-khu-vuc-trung-bo.html",
-      "rank": 7
-    },
-    {
-      "id": "38f58d09e96cff46",
-      "issueKey": "여전",
-      "issueTitle": "여전",
-      "trendTitle": "명태균",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "5선 오세훈 ‘명태균 리스크’는 여전···6개월 만에 시장직 잃을 수도",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606051638001",
-          "publishedAt": "2026-06-06T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'사법 리스크' 직면한 오세훈…명태균 \"1심 유죄 나올 것\"",
-          "source": "세상을 바꾸는 시민언론 민들레",
-          "url": "https://www.mindlenews.com/news/articleView.html?idxno=20649",
-          "publishedAt": "2026-06-06T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정치 브로커 명태균, 오세훈 시장 당선을 축하드린다...\"경거망동하지 말고 자중자애하라\"",
-          "source": "의회신문",
-          "url": "https://www.icouncil.kr/news/articleView.html?idxno=56978",
-          "publishedAt": "2026-06-06T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "5선 오세훈 ‘명태균 리스크’는 여전···6개월 만에 시장직 잃을 수도",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202606051638001",
-        "publishedAt": "2026-06-06T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-06T11:40:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "여전",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202606051638001",
-      "rank": 8
-    },
-    {
-      "id": "1399a04e0180a7f7",
-      "issueKey": "cuaca besok",
-      "issueTitle": "cuaca besok",
-      "trendTitle": "cuaca besok",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Prakiraan Cuaca Sulsel 7 Juni 2026, Waspada Angin Kencang di Wilayah Selatan",
-          "source": "RRI.co.id",
-          "url": "https://rri.co.id/makassar/regional/2473536/prakiraan-cuaca-sulsel-7-juni-2026-waspada-angin-kencang-di-wilayah-selatan",
-          "publishedAt": "2026-06-06T11:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Waspada Hujan Sedang hingga Lebat di Luwu Raya dan Toraja, Sabtu 6 Juni 2026",
-          "source": "palopopos",
-          "url": "https://palopopos.fajar.co.id/2026/06/06/waspada-hujan-sedang-hingga-lebat-di-luwu-raya-dan-toraja-sabtu-6-juni-2026/2/",
-          "publishedAt": "2026-06-06T11:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "BMKG: Sulsel Cerah Berawan Hari Ini Sabtu, 6 Juni Luwu Raya Berpotensi Diguyur Hujan Ringan - Chanel Sulsel",
-          "source": "Chanel Sulsel",
-          "url": "https://sulsel.pikiran-rakyat.com/sulsel/pr-27210253471/bmkg-sulsel-cerah-berawan-hari-ini-sabtu-6-juni-luwu-raya-berpotensi-diguyur-hujan-ringan",
-          "publishedAt": "2026-06-06T11:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "cuaca besok",
-        "source": "RRI.co.id",
-        "url": "https://rri.co.id/makassar/regional/2473536/prakiraan-cuaca-sulsel-7-juni-2026-waspada-angin-kencang-di-wilayah-selatan",
-        "publishedAt": "2026-06-06T11:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-06T11:30:00.000Z",
-      "firstSeenAt": "2026-06-06T13:44:18.458Z",
-      "lastSeenAt": "2026-06-06T13:44:18.458Z",
-      "title": "cuaca besok",
-      "source": "RRI.co.id",
-      "url": "https://rri.co.id/makassar/regional/2473536/prakiraan-cuaca-sulsel-7-juni-2026-waspada-angin-kencang-di-wilayah-selatan",
       "rank": 9
     }
   ],
@@ -484,6 +477,52 @@
       "url": "https://www.g-enews.com/article/General-News/2026/06/202606062134083081112616b072_1"
     },
     {
+      "id": "fec6543cf7a4022a",
+      "issueKey": "시가총액",
+      "issueTitle": "시가총액",
+      "trendTitle": "시가총액",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "뉴욕증시 반도체주 와르르…엔비디아 등 시총 하루새 2천조 증발",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606153501349",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "반도체주 폭락에 환율도 급등‥'검은 월요일' 오나",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6828243_37004.html",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "뉴욕증시, 금리인상 공포에 반도체주 일제 투하…필리 10%↓",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418565",
+          "publishedAt": "2026-06-06T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "시가총액",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606153501349",
+        "publishedAt": "2026-06-06T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-06T13:30:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "시가총액",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260606153501349"
+    },
+    {
       "id": "d1b16994b7c70562",
       "issueKey": "투자하기 최적",
       "issueTitle": "투자하기 최적",
@@ -528,6 +567,73 @@
       "title": "투자하기 최적",
       "source": "머니투데이",
       "url": "https://www.mt.co.kr/tech/2026/06/05/2026060514571034728"
+    },
+    {
+      "id": "a37d4eb61057bf0a",
+      "issueKey": "오세훈",
+      "issueTitle": "오세훈",
+      "trendTitle": "오세훈",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 6,
+      "relatedArticles": [
+        {
+          "title": "‘3선 성동구청장’ 내세운 정원오…정작 성동구는 ‘몰표’ 안 줬다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606172901962",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고발 4개 먹고도 다 터트렸다…‘오세훈 역전’ 숨은 공신 그 [스팟인터뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260606060219082",
+          "publishedAt": "2026-06-05T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고성국 “오세훈, 재선거 요구하라”…국힘은 ‘재선거 촉구’ 말 아껴",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1262104.html",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "집토끼도 못 잡은 정원오…민주당이 본 서울 내준 이유는",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/06/06/2026060513265439508",
+          "publishedAt": "2026-06-05T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "서울시장 역전극 뒤엔 부동산 표심, 집값 상승 톱10중 8곳 승리",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260605/134053501/2",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "[이슈]정원오, 성동구서 고작 6500표 이겼다",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11593356",
+          "publishedAt": "2026-06-05T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고발 4개 먹고도 다 터트렸다…‘오세훈 역전’ 숨은 공신 그 [스팟인터뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260606060219082",
+        "publishedAt": "2026-06-05T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-05T20:50:00.000Z",
+      "firstSeenAt": "2026-06-05T22:14:47.976Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "오세훈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260606060219082"
     },
     {
       "id": "779dce3462c34a6f",
@@ -733,52 +839,6 @@
       "title": "슈퍼 태풍",
       "source": "MBC 뉴스",
       "url": "https://imnews.imbc.com/newszoomin/newsinsight/6828172_29123.html"
-    },
-    {
-      "id": "a37d4eb61057bf0a",
-      "issueKey": "오세훈",
-      "issueTitle": "오세훈",
-      "trendTitle": "오세훈",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "고발 4개 먹고도 다 터트렸다…‘오세훈 역전’ 숨은 공신 그 [스팟인터뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260606060219082",
-          "publishedAt": "2026-06-05T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "집토끼도 못 잡은 정원오…민주당이 본 서울 내준 이유는",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/06/06/2026060513265439508",
-          "publishedAt": "2026-06-05T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[이슈]정원오, 성동구서 고작 6500표 이겼다",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11593356",
-          "publishedAt": "2026-06-05T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "고발 4개 먹고도 다 터트렸다…‘오세훈 역전’ 숨은 공신 그 [스팟인터뷰]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260606060219082",
-        "publishedAt": "2026-06-05T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-05T20:50:00.000Z",
-      "firstSeenAt": "2026-06-05T22:14:47.976Z",
-      "lastSeenAt": "2026-06-05T22:14:47.976Z",
-      "title": "오세훈",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260606060219082"
     },
     {
       "id": "b05c81d876200bc0",
@@ -1485,98 +1545,6 @@
       "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6827833_37004.html"
     },
     {
-      "id": "efe01a310895c2d6",
-      "issueKey": "젠슨 황 방한",
-      "issueTitle": "젠슨 황 방한",
-      "trendTitle": "젠슨 황 방한",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "젠슨 황의 밥상…깐부치킨 이어 '삼쏘 회동'에 쏠린 눈",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418114",
-          "publishedAt": "2026-06-04T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "젠슨 황, 내일 전용기로 방한…홍대서 '삼겹 회동'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260604231703361",
-          "publishedAt": "2026-06-04T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "젠슨 황 내일 방한…‘AI·로보틱스 동맹’ 강화부터 프로야구 시구까지 광폭 행보",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606041800001",
-          "publishedAt": "2026-06-04T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "젠슨 황 방한",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418114",
-        "publishedAt": "2026-06-04T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-04T14:10:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "젠슨 황 방한",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4418114"
-    },
-    {
-      "id": "2b795b417e60d706",
-      "issueKey": "심우준",
-      "issueTitle": "심우준",
-      "trendTitle": "심우준",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[사진]심우준, 1루 주자 포스아웃 시키고 1루 송구",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/GA4DGOJQHA2TGZLFHA2WGYZVGY/",
-          "publishedAt": "2026-06-04T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고의낙구? 실수? 한화 50억 유격수 미스터리, 왜 1루주자 양의지→안재석으로 바꿨을까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Q1GqB72uSA?f=p",
-          "publishedAt": "2026-06-04T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[사진]연장 10회 1사에서 안타 뽑아내는 한화 심우준",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/06/03/202606032005777258O",
-          "publishedAt": "2026-06-04T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[사진]심우준, 1루 주자 포스아웃 시키고 1루 송구",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/GA4DGOJQHA2TGZLFHA2WGYZVGY/",
-        "publishedAt": "2026-06-04T12:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-04T12:50:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "심우준",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/06/04/GA4DGOJQHA2TGZLFHA2WGYZVGY/"
-    },
-    {
       "id": "2846ab19fed57285",
       "issueKey": "이강인",
       "issueTitle": "이강인",
@@ -1642,6 +1610,98 @@
       "title": "이강인",
       "source": "Daum",
       "url": "https://v.daum.net/v/QJUbWFztII"
+    },
+    {
+      "id": "cbe408ee4116147b",
+      "issueKey": "최욱",
+      "issueTitle": "최욱",
+      "trendTitle": "최욱",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[풀영상] 2026 지방선거 충북 개표방송 - 2차",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231",
+          "publishedAt": "2026-06-06T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"접전에 또 접전\"…웨이브, 라이브 시청자 90%가 개표방송 집중",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260605_0003657623",
+          "publishedAt": "2026-06-06T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[굿모닝MBN 클로징] 더 나은 내일을 위하여",
+          "source": "매일경제",
+          "url": "https://www.mbn.co.kr/news/society/5197905",
+          "publishedAt": "2026-06-06T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "최욱",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231",
+        "publishedAt": "2026-06-06T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-06T12:50:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "최욱",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8577231"
+    },
+    {
+      "id": "ce65fcce46811abe",
+      "issueKey": "로또1227",
+      "issueTitle": "로또1227",
+      "trendTitle": "로또1227",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "1227회 로또 1등 11명…당첨금 각 26억7천만원(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260606048300002",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "1인당 26억씩 받는다…로또 1등 당첨 11명, 판매 명당은",
+          "source": "서울경제",
+          "url": "https://m.sedaily.com/amparticle/20052513",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[속보]1227회 로또 1등 1, 14, 16, 34, 41, 44…보너스 13",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/06/06/2026060621040972808",
+          "publishedAt": "2026-06-06T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "로또1227",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260606048300002",
+        "publishedAt": "2026-06-06T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-06T12:40:00.000Z",
+      "firstSeenAt": "2026-06-06T16:05:32.245Z",
+      "lastSeenAt": "2026-06-06T16:05:32.245Z",
+      "title": "로또1227",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260606048300002"
     },
     {
       "id": "77a405f554824b40",
@@ -2286,52 +2346,6 @@
       "title": "커피",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260604132501935"
-    },
-    {
-      "id": "7aec1b1fd3c2612d",
-      "issueKey": "공매도",
-      "issueTitle": "공매도",
-      "trendTitle": "공매도",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'불장' 환호 뒤에 \"곧 떨어진다\" 22조 베팅…공매도 몰린 종목은?",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/06/04/2026060416293667659",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "02일 코스피 시장 공매도 수량 상위 종목. LG디스플레이, 삼성전자 등 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/c-biz_bot/2026/06/04/MJRGGMRWGUZDANJYGI3WMODCMI/",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "공매도 순보유잔고 1위 코스피 한미반도체·코스닥 엔켐",
-          "source": "중기이코노미",
-          "url": "https://www.junggi.co.kr/news/articleView.html?idxno=36607",
-          "publishedAt": "2026-06-04T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'불장' 환호 뒤에 \"곧 떨어진다\" 22조 베팅…공매도 몰린 종목은?",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/06/04/2026060416293667659",
-        "publishedAt": "2026-06-04T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-04T13:50:00.000Z",
-      "firstSeenAt": "2026-06-04T15:16:10.995Z",
-      "lastSeenAt": "2026-06-04T15:16:10.995Z",
-      "title": "공매도",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/stock/2026/06/04/2026060416293667659"
     }
   ]
 }
