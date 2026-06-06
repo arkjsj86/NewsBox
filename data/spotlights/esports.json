@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-06-06T03:33:31.736Z",
+  "lastUpdatedAt": "2026-06-06T08:33:58.984Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 2 2026",
   "primaryBlockName": "Knockouts",
-  "matchCount": 5,
+  "matchCount": 4,
   "matches": [
-    {
-      "id": "115548128963037563",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-06-06T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Dplus KIA",
-          "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-        },
-        {
-          "name": "HANJIN BRION",
-          "code": "BRO",
-          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128963037569",
       "leagueKey": "lck",
@@ -135,7 +112,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 5
+      "matchCount": 4
     },
     {
       "key": "ewc",

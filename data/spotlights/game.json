@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-06T03:33:31.736Z",
+  "lastUpdatedAt": "2026-06-06T08:33:58.984Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -42,7 +42,7 @@
         {
           "title": "엔비디아, 'RTX 스파크'로 개인용 AI PC 시대 연다",
           "url": "https://bbs.ruliweb.com/news/read/225241",
-          "meta": "댓글 33"
+          "meta": "댓글 34"
         },
         {
           "title": "코모도, ‘스팀 덱 OLED’ 가격 재차 인상",
@@ -55,9 +55,9 @@
           "meta": "댓글 11"
         },
         {
-          "title": "입학식에 이어 졸업식까지, ‘명조’ 2주년 ‘띵조 페스티벌’ 현장",
-          "url": "https://bbs.ruliweb.com/news/read/225177",
-          "meta": "댓글 19"
+          "title": "완전 패키지, 스팀으로 다시 선보이는 '드래곤소드'의 첫 모습은?",
+          "url": "https://bbs.ruliweb.com/news/read/225425",
+          "meta": "댓글 21"
         }
       ]
     },
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "관록이 더해진 파이 첸 등장, '버추어 파이터 크로스로드' 2027년 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317179",
+          "meta": "버추어 파이터 크로스로드 · 10시간 전"
+        },
+        {
           "title": "시놀로지, 컴퓨텍스 2026서 GPU NAS 및 AI 추론 강화 운영체제 'DSM' 공개",
           "url": "https://www.inven.co.kr/webzine/news/?news=317166",
-          "meta": "13시간 전"
+          "meta": "2026-06-05"
         },
         {
           "title": "'SD건담 이터널', WEST TOWER 신규 층 추가",
           "url": "https://www.inven.co.kr/webzine/news/?news=317162",
-          "meta": "SD건담 G제네레이션 이터널 · 14시간 전"
+          "meta": "SD건담 G제네레이션 이터널 · 2026-06-05"
         },
         {
           "title": "드림카가 게임 속으로! 이환 「포르쉐」 콜라보 918 스파이더 시승 후기",
           "url": "https://www.inven.co.kr/webzine/news/?news=317156",
-          "meta": "이환 · 15시간 전"
+          "meta": "이환 · 2026-06-05"
         },
         {
           "title": "세가, Steam 'RGG Studio 할인' 개최",
           "url": "https://www.inven.co.kr/webzine/news/?news=317157",
-          "meta": "용과 같이 극3 / 용과 같이3 외전 다크 타이즈 · 15시간 전"
-        },
-        {
-          "title": "신규 광휘의 공방 '태초의 땅' 공략 - 성진우는 풍, 헌터는 화+암",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317155",
-          "meta": "나 혼자만 레벨업: ARISE · 15시간 전"
+          "meta": "용과 같이 극3 / 용과 같이3 외전 다크 타이즈 · 2026-06-05"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
