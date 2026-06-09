@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-06-09T03:34:18.218Z",
+  "lastUpdatedAt": "2026-06-09T09:44:35.246Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "POjibSHMGCw",
+      "title": "Unite Seoul 2026 전체 세션 공개+얼리버드 연장",
+      "url": "https://www.youtube.com/shorts/POjibSHMGCw",
+      "publishedAt": "2026-06-09T02:48:32.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/POjibSHMGCw/hqdefault.jpg"
+    },
+    {
       "id": "w0PIprM52sE",
       "title": "Made With Unity: Unity 엔진의 효율적인 워크플로로 소규모 팀의 한계를 극복해 낸 마스터 오브 피스",
       "url": "https://www.youtube.com/watch?v=w0PIprM52sE",
       "publishedAt": "2026-06-08T07:24:23.000Z",
       "thumbnailUrl": "https://i4.ytimg.com/vi/w0PIprM52sE/hqdefault.jpg"
-    },
-    {
-      "id": "9rwyI5gyVsQ",
-      "title": "Unity AI와 함께하는 TDD",
-      "url": "https://www.youtube.com/watch?v=9rwyI5gyVsQ",
-      "publishedAt": "2026-06-02T04:40:38.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/9rwyI5gyVsQ/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
