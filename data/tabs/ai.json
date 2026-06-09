@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-06-08T22:26:52.052Z",
-  "articleCount": 16,
+  "lastUpdatedAt": "2026-06-09T03:34:18.218Z",
+  "articleCount": 14,
   "articles": [
+    {
+      "id": "4c7b4d9249be2775",
+      "title": "SOOP, AI 매니저 서비스 ‘SARSA 2.0’ 베타 공개",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305164",
+      "source": "경향게임스",
+      "publishedAt": "2026-06-09T00:49:10.000Z",
+      "summary": "SOOP은 9일 스트리머와 이용자들을 위한 자사의 AI 매니저 서비스 ‘SARSA(SOOP AI Realtime Streaming Assistant) 2.0’의 베타 버전을 공개했다고 밝혔다. SARSA는 스트리머의 방송 진행 및 이용자들과의 소통을 지원하는 AI 매니저 서비스다. 방송 설정 지원부터 AI 방송 요약, 채팅 관리, 채팅 분위기 분석, 기능 추천 등 다양한 기능을 제공한다...",
+      "tab": "ai"
+    },
+    {
+      "id": "07c3658417201586",
+      "title": "방산·공공 AI 프로젝트 85% 실패하는 이유…오픈텍스트 “신뢰할 수 있는 데이터 먼저”",
+      "url": "https://www.itworld.co.kr/article/4182599/%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-85-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-06-09T00:14:04.000Z",
+      "summary": "글로벌 정보 관리 솔루션 기업 오픈텍스트(나스닥: OTEX, TSX: OTEX)가 방산·공공 분야의 AI 도입을 선도하며 주권 AI 시장에서 입지를 강화하고 있다. 오픈텍스트 최고경영자 에이만 안툰은 “전 세계 AI 프로젝트의 85%가 실패하는 이유는 근본적인 데이터 문제 때문”이라며 “신뢰할 수 있는 데이터 관리 프레임워크 없이 AI에 투자하면 기대한 결과를 얻기 어렵다”라고 강조했다...",
+      "tab": "ai"
+    },
     {
       "id": "3dc3a5eabac29157",
       "title": "미국 5월 기술업계 감원, 2024년 이후 최대…해고 원인 1위는 AI",
@@ -113,42 +131,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-06-02T00:35:01.000Z",
       "summary": "엔비디아는 전 세계 거의 모든 사람의 손에 AI 생산성을 쥐여주겠다는 비전을 품고 있다. 지난 일요일 밤, 엔비디아 RTX 스파크(Nvidia RTX Spark) 데뷔와 함께 그 여정에 새 이정표를 세웠다. RTX 스파크는 사용자·기업용 PC 시장에서 퀄컴에 도전하는 두 번째 윈도우 온 암(Windows on Arm) 프로세서다. 엔비디아는 RTX 스파크 플랫폼의 핵심인 N1 및 N1X...",
-      "tab": "ai"
-    },
-    {
-      "id": "d7cead57796eaa5f",
-      "title": "마이그레이션부터 생성형 AI까지, 기업 클라우드 프로젝트의 현주소",
-      "url": "https://www.itworld.co.kr/article/4179040/%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98%eb%b6%80%ed%84%b0-%ec%83%9d%ec%84%b1%ed%98%95-ai%ea%b9%8c%ec%a7%80-%ea%b8%b0%ec%97%85-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%ed%94%84%eb%a1%9c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-01T01:49:44.000Z",
-      "summary": "클라우드가 널리 도입된 지 15년이 지나면서 명확한 프로젝트 유형이 정착됐다. 각 유형에는 성공과 실패를 가르는 구체적인 교훈이 축적돼 있다. 지난 15년 동안 클라우드 컴퓨팅은 핵심 기반 기술로 자리매김했다. 서버를 임대하는 수단으로 시작했지만, 현재는 기본적인 인프라 전환부터 혁신적인 AI 이니셔티브에 이르기까지 모든 것을 지원하는 복잡한 생태계로 진화했다. 수년에 걸쳐 수천 건의...",
-      "tab": "ai"
-    },
-    {
-      "id": "4c33582af225ac8d",
-      "title": "선언형 MCP, AI 코딩 에이전트의 컨텍스트 문제를 풀다",
-      "url": "https://www.itworld.co.kr/article/4178019/%ec%84%a0%ec%96%b8%ed%98%95-mcp-ai-%ec%bd%94%eb%94%a9-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%ec%bb%a8%ed%85%8d%ec%8a%a4%ed%8a%b8-%eb%ac%b8%ec%a0%9c%eb%a5%bc-%ed%92%80%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-29T01:18:00.000Z",
-      "summary": "모델 컨텍스트 프로토콜(MCP)은 AI 어시스턴트를 외부 데이터, 툴, API와 연결하기 위한 개방형 프로토콜이다. 앤트로픽이 2024년 말에 처음 선보인 이후 데브옵스, 클라우드를 비롯한 다양한 분야에서 수많은 MCP 서버가 등장했다. 개발자들이 애플리케이션에 MCP 서버를 통합하고 실제 작업에서 검증을 거치면서 여러 사용 패턴도 나타나고 있다. 예를 들어 2026년 초 발행된 주플로...",
-      "tab": "ai"
-    },
-    {
-      "id": "773f3adc1f5beb59",
-      "title": "“모델보다 무거운 것들” AI 종속의 새로운 전선",
-      "url": "https://www.itworld.co.kr/article/4177998/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%ac%b4%ea%b1%b0%ec%9a%b4-%ea%b2%83%eb%93%a4-ai-%ec%a2%85%ec%86%8d%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%a0%84%ec%84%a0.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-29T01:10:00.000Z",
-      "summary": "최근 PwC는 3만 명의 자사 직원을 대상으로 앤트로픽 클로드에 대한 교육과 인증을 실시하고, 이를 기반으로 은행, 보험, 의료 분야 고객을 위한 CFO 오피스 비즈니스를 구축할 것이라고 발표했다 . 앤트로픽도 최근 파트너 네트워크에 1억 달러를 투자했고 , 오픈AI 역시 40억 달러 이상의 초기 투자를 유치해 새로운 회사인 오픈AI 디플로이먼트 컴퍼니(OpenAI Deployment...",
-      "tab": "ai"
-    },
-    {
-      "id": "4209de4f44ad3c8d",
-      "title": "3조 달러짜리 오픈AI 소송, 진짜 승자는 ‘위선’이었다",
-      "url": "https://www.itworld.co.kr/article/4177995/3%ec%a1%b0-%eb%8b%ac%eb%9f%ac%ec%a7%9c%eb%a6%ac-%ec%98%a4%ed%94%88ai-%ec%86%8c%ec%86%a1-%ec%a7%84%ec%a7%9c-%ec%8a%b9%ec%9e%90%eb%8a%94-%ec%9c%84%ec%84%a0%ec%9d%b4%ec%97%88%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-05-29T01:00:00.000Z",
-      "summary": "만약 원고와 피고 모두에게 불리한 판결이 내려져야 마땅한 소송이 있다면, 일론 머스크가 오픈AI와 마이크로소프트를 상대로 제기한 소송이 바로 그런 사례다. 세간의 이목을 집중시킨 이 법적 공방은 세계 최고 부호와 기업 가치 3조 달러 이상의 회사, 곧 1조 달러 기업공개를 앞뒀다는 회사, 그리고 인류에게 해악을 끼칠 수도 있는 기술을 개발하면서도 오로지 세상의 선(善)을 위한다고 주장하...",
       "tab": "ai"
     }
   ]
