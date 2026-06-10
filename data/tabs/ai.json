@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-06-10T03:47:26.711Z",
+  "lastUpdatedAt": "2026-06-10T10:01:23.727Z",
   "articleCount": 13,
   "articles": [
+    {
+      "id": "77f13fa851163b19",
+      "title": "“하나의 화면, 모든 인프라 가시성” eG이노베이션스, AI 기반 옵저버빌리티 비전 및 국내 사업 전략 발표",
+      "url": "https://www.itworld.co.kr/article/4183266/%ed%95%98%eb%82%98%ec%9d%98-%ed%99%94%eb%a9%b4-%eb%aa%a8%eb%93%a0-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b0%80%ec%8b%9c%ec%84%b1-eg%ec%9d%b4%eb%85%b8%eb%b2%a0%ec%9d%b4%ec%85%98%ec%8a%a4-ai-%ea%b8%b0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-06-10T05:20:08.000Z",
+      "summary": "기업의 IT 환경이 온프레미스, 멀티클라우드, 엣지 인프라로 분산되면서 모니터링 도구도 함께 증가했다. 엔터프라이즈 기업이 평균 8~10개의 모니터링 솔루션을 운영하는 가운데, 이들 도구가 분절된 채로 작동하면서 IT 운영팀의 업무 부담이 급증하는 고충이 크다. 새로운 대안으로 AI 기반의 통합 옵저버빌리티 솔루션이 부상하고 있다. 글로벌 IT 성능 모니터링 및 옵저버빌리티 기업 eG이...",
+      "tab": "ai"
+    },
     {
       "id": "07c3658417201586",
       "title": "방산·공공 AI 프로젝트 85% 실패하는 이유…오픈텍스트 “신뢰할 수 있는 데이터 먼저”",
@@ -113,15 +122,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-06-02T00:48:00.000Z",
       "summary": "글로벌 정보관리 기업 오픈텍스트(OpenText)가 OECD ‘히로시마 AI 프로세스(HAIP) 보고 프레임워크’에 참여한다고 밝혔다. HAIP는 G7이 마련한 첨단 AI의 안전한 개발·운영을 위한 자발적 행동강령 이행 체계로, 참여 기업은 AI 거버넌스·투명성·안전성·책임성 관련 활동을 공개하고 글로벌 기준에 부합하는 운영 체계를 갖출 수 있다. 에이먼 안툰 CEO는 “AI에 대한 신...",
-      "tab": "ai"
-    },
-    {
-      "id": "0a698243dcac76aa",
-      "title": "엔비디아 RTX 스파크, 에이전트형 AI PC 시대 열다",
-      "url": "https://www.itworld.co.kr/article/4179589/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-rtx-%ec%8a%a4%ed%8c%8c%ed%81%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai-pc-%ec%8b%9c%eb%8c%80-%ec%97%b4%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-02T00:35:01.000Z",
-      "summary": "엔비디아는 전 세계 거의 모든 사람의 손에 AI 생산성을 쥐여주겠다는 비전을 품고 있다. 지난 일요일 밤, 엔비디아 RTX 스파크(Nvidia RTX Spark) 데뷔와 함께 그 여정에 새 이정표를 세웠다. RTX 스파크는 사용자·기업용 PC 시장에서 퀄컴에 도전하는 두 번째 윈도우 온 암(Windows on Arm) 프로세서다. 엔비디아는 RTX 스파크 플랫폼의 핵심인 N1 및 N1X...",
       "tab": "ai"
     }
   ]
