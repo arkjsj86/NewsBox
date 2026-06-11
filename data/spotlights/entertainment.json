@@ -7,386 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-11T04:01:45.660Z",
+  "lastUpdatedAt": "2026-06-11T10:25:30.735Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 8,
+  "itemCount": 10,
   "items": [
     {
-      "id": "d3849b5f776ba83f",
-      "issueKey": "권순일",
-      "issueTitle": "권순일",
-      "trendTitle": "권순일",
+      "id": "1bc49bf8cde2146a",
+      "issueKey": "동서발전",
+      "issueTitle": "동서발전",
+      "trendTitle": "발전",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "동서발전, 제주복합 5500억 계약…계통안정·수소전환 겨냥",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=369011",
+          "publishedAt": "2026-06-11T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "동서발전·DL이앤씨, 제주 복합발전소 건설…'150㎿급 친환경 가스복합'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260611_0003665834",
+          "publishedAt": "2026-06-11T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "DL이앤씨, 상반기 플랜트 수주 1조원 돌파…플랜트·에너지 성장축",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=342113",
+          "publishedAt": "2026-06-11T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "동서발전, 제주복합 5500억 계약…계통안정·수소전환 겨냥",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=369011",
+        "publishedAt": "2026-06-11T09:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T09:20:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "동서발전",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=369011",
+      "rank": 1
+    },
+    {
+      "id": "4e80b3293c2271ef",
+      "issueKey": "받은 한화",
+      "issueTitle": "받은 한화",
+      "trendTitle": "받은 한화",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "왕옌청 차출 요청 받은 한화, AG 기간 선발 공백 우려 커지나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611160521973",
+          "publishedAt": "2026-06-11T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "대만야구협회, 한화 이글스에 왕옌청 아시안게임 파견 타진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260611113000007",
+          "publishedAt": "2026-06-11T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한화 왕옌청, '류지현호' 노시환과 대결하나…대만 AG 차출 요청",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6194978",
+          "publishedAt": "2026-06-11T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "왕옌청 차출 요청 받은 한화, AG 기간 선발 공백 우려 커지나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260611160521973",
+        "publishedAt": "2026-06-11T09:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T09:20:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "받은 한화",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260611160521973",
+      "rank": 2
+    },
+    {
+      "id": "1287365a7760138e",
+      "issueKey": "김다예",
+      "issueTitle": "김다예",
+      "trendTitle": "김다예",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "5년 만에 '공소기각' 권순일, 이제야 복장 터진 듯‥ [현장영상]",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6829415_36918.html",
-          "publishedAt": "2026-06-11T02:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[속보]‘화천대유 법률상담’ 권순일 전 대법관 1심 공소기각···“검찰 수사 개시 위법”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606111012001",
-          "publishedAt": "2026-06-11T02:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'화천대유 고문' 권순일 전 대법관, 공소기각…\"檢 위법 수사\"",
+          "title": "36㎏ 감량 김다예 \"더 이상 갈 곳 없어\" 육아 고충 토로",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260611_0003665203",
-          "publishedAt": "2026-06-11T02:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "5년 만에 '공소기각' 권순일, 이제야 복장 터진 듯‥ [현장영상]",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6829415_36918.html",
-        "publishedAt": "2026-06-11T02:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-11T02:40:00.000Z",
-      "firstSeenAt": "2026-06-11T04:01:45.660Z",
-      "lastSeenAt": "2026-06-11T04:01:45.660Z",
-      "title": "권순일",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6829415_36918.html",
-      "rank": 1
-    },
-    {
-      "id": "09fb7246623a7b8d",
-      "issueKey": "디지털",
-      "issueTitle": "디지털",
-      "trendTitle": "닌텐도 스위치",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "네오위즈 ‘P의 거짓’, 닌텐도 스위치 2 출시…”디지털·실물 패키지 순차 공개”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260610140806440",
-          "publishedAt": "2026-06-11T02:40:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260610_0003663129",
+          "publishedAt": "2026-06-11T09:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "스위치 2로 플랫폼 확대 나선 한국 액션 게임",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=342232",
-          "publishedAt": "2026-06-11T02:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "시프트업 ‘스텔라 블레이드’와 네오위즈 'P의 거짓' 닌텐도 스위치 2 출시 확정",
-          "source": "게임동아",
-          "url": "https://game.donga.com/122918/",
-          "publishedAt": "2026-06-11T02:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "네오위즈 ‘P의 거짓’, 닌텐도 스위치 2 출시…”디지털·실물 패키지 순차 공개”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260610140806440",
-        "publishedAt": "2026-06-11T02:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-11T02:40:00.000Z",
-      "firstSeenAt": "2026-06-11T04:01:45.660Z",
-      "lastSeenAt": "2026-06-11T04:01:45.660Z",
-      "title": "디지털",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260610140806440",
-      "rank": 2
-    },
-    {
-      "id": "236e588954023e61",
-      "issueKey": "정태우",
-      "issueTitle": "정태우",
-      "trendTitle": "정태우",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'승무원 퇴사' 정태우 아내, 3년 재정비 끝 새 도전…\"왕사녀\" 라이브 커머스",
+          "title": "김다예, 딸 재이 위해 놀이동산도 접수 \"서울선 더이상 갈 곳 없어\" [★해시태그]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260611082300582",
-          "publishedAt": "2026-06-11T02:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'정태우♥' 장인희 19년 근무 승무원 퇴직 후 3년만에 새 도전…\"라이브 커머스\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6193852",
-          "publishedAt": "2026-06-11T02:20:00.000Z",
+          "url": "https://v.daum.net/v/20260610051647536",
+          "publishedAt": "2026-06-11T09:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "정태우 아내, 승무원 퇴사 3년 만 라이브 커머스 데뷔 ‘왕사녀’란 이름으로",
-          "source": "뉴스엔",
-          "url": "https://m.newsen.com/news_view.php?uid=202606110859406310",
-          "publishedAt": "2026-06-11T02:20:00.000Z",
+          "title": "‘박수홍♥’ 김다예, 19개월 딸 어린이집 안 보낸다더니 “이제 서울에선 더 이상 갈 곳 없어\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260609151409448",
+          "publishedAt": "2026-06-11T09:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'승무원 퇴사' 정태우 아내, 3년 재정비 끝 새 도전…\"왕사녀\" 라이브 커머스",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611082300582",
-        "publishedAt": "2026-06-11T02:20:00.000Z",
+        "title": "36㎏ 감량 김다예 \"더 이상 갈 곳 없어\" 육아 고충 토로",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260610_0003663129",
+        "publishedAt": "2026-06-11T09:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-11T02:20:00.000Z",
-      "firstSeenAt": "2026-06-11T04:01:45.660Z",
-      "lastSeenAt": "2026-06-11T04:01:45.660Z",
-      "title": "정태우",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260611082300582",
+      "publishedAt": "2026-06-11T09:10:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "김다예",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260610_0003663129",
       "rank": 3
     },
     {
-      "id": "ab224c46f6c22e9f",
-      "issueKey": "오타니 쇼헤이",
-      "issueTitle": "오타니 쇼헤이",
-      "trendTitle": "오타니 쇼헤이",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "c72394e6b406b52f",
+      "issueKey": "장인화",
+      "issueTitle": "장인화",
+      "trendTitle": "장인화",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'다저스 불펜 사고쳤다' 오타니 102구 QS+홈런치고 7승 불발…피츠버그에 6-1 앞서다가 8-9 역전패",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611104321266",
-          "publishedAt": "2026-06-11T01:50:00.000Z",
+          "title": "장인화號 '8000억' 승부수…포스코인터, 美 가스전 투자",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202606110508i",
+          "publishedAt": "2026-06-11T09:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘아웃 카운트 1개에 눈물’ 오타니, ‘규정 이닝 실패-0점대 ERA 붕괴’",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260611/134090373/1",
-          "publishedAt": "2026-06-11T01:50:00.000Z",
+          "title": "[단독] 포스코인터, 美 가스전에 5억弗 투자 추진",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260611n30636",
+          "publishedAt": "2026-06-11T09:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'0점대 ERA 붕괴' 오타니 시즌 최다 실점-9회 추격포 분투...다저스 불펜 붕괴, 충격의 8-9 역전패 [LAD 리뷰]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260610184345329",
-          "publishedAt": "2026-06-11T01:50:00.000Z",
+          "title": "노동부, 사망사고 반복 포스코이앤씨에 \"강제수사 신속 추진\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260611087700530",
+          "publishedAt": "2026-06-11T09:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "오타니 쇼헤이",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611104321266",
-        "publishedAt": "2026-06-11T01:50:00.000Z",
+        "title": "장인화號 '8000억' 승부수…포스코인터, 美 가스전 투자",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606110508i",
+        "publishedAt": "2026-06-11T09:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-11T01:50:00.000Z",
-      "firstSeenAt": "2026-06-11T04:01:45.660Z",
-      "lastSeenAt": "2026-06-11T04:01:45.660Z",
-      "title": "오타니 쇼헤이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260611104321266",
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "장인화",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202606110508i",
       "rank": 4
     },
     {
-      "id": "a05c75e5872cc483",
-      "issueKey": "울릉도",
-      "issueTitle": "울릉도",
-      "trendTitle": "울릉도",
+      "id": "4ea20f50e422bc8a",
+      "issueKey": "박재범",
+      "issueTitle": "박재범",
+      "trendTitle": "박재범",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“알아보기도 힘들어”… 방치 속 무너진 울릉도 유적들",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611043435300",
-          "publishedAt": "2026-06-11T01:40:00.000Z",
+          "title": "박재범, 롱샷 팬들과 '들러리' 지적에 설전 \"내가 회사 사장…멤버들 존중\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6194691",
+          "publishedAt": "2026-06-11T08:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[르포]독도 찾은 전국 초중고 교사들…\"아이들과 함께 오고파\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260609_0003662052",
-          "publishedAt": "2026-06-11T01:40:00.000Z",
+          "title": "'2PM 탈퇴' 박재범 \"내가 정식 멤버로 가입할 것\"…롱샷 논란에 입장 발표 [RE:스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611152101662",
+          "publishedAt": "2026-06-11T08:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[르포]'독도는 왜 우리 땅'인가…울릉도가 들려준 독도의 역사",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/education/6192060",
-          "publishedAt": "2026-06-11T01:40:00.000Z",
+          "title": "[음악중심M] 40세 박재범, '자식' 롱샷 앞길 막는 극성父 행보",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/507911",
+          "publishedAt": "2026-06-11T08:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“알아보기도 힘들어”… 방치 속 무너진 울릉도 유적들",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260611043435300",
-        "publishedAt": "2026-06-11T01:40:00.000Z",
+        "title": "박재범, 롱샷 팬들과 '들러리' 지적에 설전 \"내가 회사 사장…멤버들 존중\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6194691",
+        "publishedAt": "2026-06-11T08:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-11T01:40:00.000Z",
-      "firstSeenAt": "2026-06-11T04:01:45.660Z",
-      "lastSeenAt": "2026-06-11T04:01:45.660Z",
-      "title": "울릉도",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260611043435300",
+      "publishedAt": "2026-06-11T08:50:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "박재범",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6194691",
       "rank": 5
     },
     {
-      "id": "cf43eafac342906f",
-      "issueKey": "경매",
-      "issueTitle": "경매",
-      "trendTitle": "경매",
+      "id": "ea7c6db315d9d27d",
+      "issueKey": "김도영",
+      "issueTitle": "김도영",
+      "trendTitle": "김도영",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "아시안게임 야구대표팀 명단 발표‥김도영·노시환 포함",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6829452_36946.html",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'강타자' 안현민은 왜 아시안게임 명단에 안 뽑혔나?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611151449382",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "코치로 AG 금메달 3개 목에 건 류지현 감독 \"목표는 우승\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6194799",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아시안게임 야구대표팀 명단 발표‥김도영·노시환 포함",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/sports/article/6829452_36946.html",
+        "publishedAt": "2026-06-11T08:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T08:40:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "김도영",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/sports/article/6829452_36946.html",
+      "rank": 6
+    },
+    {
+      "id": "37000bc74ac63b0b",
+      "issueKey": "레버리지",
+      "issueTitle": "레버리지",
+      "trendTitle": "레버리지",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"대출 갚아라\" 곳곳 날벼락...계약자들 '비명', 지산 경매 3배 폭증",
+          "title": "삼성전자 11일간 2.6% 하락에 레버리지는 10.5% 급락…무서운 '복리 효과'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260611075250821",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
+          "url": "https://v.daum.net/v/20260611180127949",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "지식산업센터 분양사기, 계약금을 돌려받고 싶다면",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=2026060921553044056cf2d78c68_12",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
+          "title": "레버리지도 마이너스, 곱버스도 손실…오락가락 증시에 개미들 멘붕",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6194974",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "전국 지식산업센터 시장 위축, 1분기 거래량 2년 전 대비 '절반' 줄어",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=439617",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
+          "title": "삼성전자·SK하이닉스 단일종목레버리지 ETF, 고점에 출시돼 개미들 출혈 더 커",
+          "source": "주간동아",
+          "url": "https://weekly.donga.com/economy/article/all/11/6262465/1",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"대출 갚아라\" 곳곳 날벼락...계약자들 '비명', 지산 경매 3배 폭증",
+        "title": "삼성전자 11일간 2.6% 하락에 레버리지는 10.5% 급락…무서운 '복리 효과'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260611075250821",
-        "publishedAt": "2026-06-11T01:30:00.000Z",
+        "url": "https://v.daum.net/v/20260611180127949",
+        "publishedAt": "2026-06-11T08:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-11T01:30:00.000Z",
-      "firstSeenAt": "2026-06-11T04:01:45.660Z",
-      "lastSeenAt": "2026-06-11T04:01:45.660Z",
-      "title": "경매",
+      "publishedAt": "2026-06-11T08:40:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "레버리지",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260611075250821",
-      "rank": 6
-    },
-    {
-      "id": "6918dd98c0285440",
-      "issueKey": "분실",
-      "issueTitle": "분실",
-      "trendTitle": "분실",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "최저임금 22% 인상, 대란은 없었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611063252395",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[단독] 경찰, '투표용지 부족' 중앙선관위 등 7곳 압수수색",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6829367_36918.html",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "선관위원장 직무대행 \"과도한 양 투표용지 인쇄시 부정선거 의혹 시달려…분실·탈취 우려도\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260611_0003665409",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "선관위원장 직무대행 \"과도한 양 투표용지 인쇄시 부정선거 의혹 시달려…분실·탈취 우려도\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260611_0003665409",
-        "publishedAt": "2026-06-11T01:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-06-11T01:30:00.000Z",
-      "firstSeenAt": "2026-06-11T04:01:45.660Z",
-      "lastSeenAt": "2026-06-11T04:01:45.660Z",
-      "title": "분실",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260611_0003665409",
+      "url": "https://v.daum.net/v/20260611180127949",
       "rank": 7
     },
     {
-      "id": "4e71f4b4073bc385",
-      "issueKey": "방공능력 확대",
-      "issueTitle": "방공능력 확대",
-      "trendTitle": "방공능력 확대",
+      "id": "ca9df95415ec63dc",
+      "issueKey": "kddx",
+      "issueTitle": "kddx",
+      "trendTitle": "kddx",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "美, 중거리 공대공 미사일 韓판매 승인…4천400억원 규모",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611021250875",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
+          "title": "Hanwha Ocean Secures KDDX Contract, Edges HD Hyundai Heavy Industries by 0.5 Points",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/06/11/GWYUB5MUOZAOFGFSJWZHW5N3GM/",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "미, 한국에 중거리 공대공 미사일 판매 승인",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202606110907554Zb",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
+          "title": "Hanwha Ocean selected as preferred bidder for KDDX program",
+          "source": "The Korea Times",
+          "url": "https://www.koreatimes.co.kr/business/companies/20260611/hanwha-ocean-selected-as-preferred-bidder-for-kddx-program",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“방공능력 확대, 침략 억제”…미국이 한국에 팔기로 한 무기의 정체",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12071217",
-          "publishedAt": "2026-06-11T01:30:00.000Z",
+          "title": "Hanwha Ocean likely to win 7.8 tln-won project to build next-generation destroyers: sources",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260611010100320",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“방공능력 확대, 침략 억제”…미국이 한국에 팔기로 한 무기의 정체",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/politics/12071217",
-        "publishedAt": "2026-06-11T01:30:00.000Z",
-        "relevanceScore": 1
+        "title": "Hanwha Ocean Secures KDDX Contract, Edges HD Hyundai Heavy Industries by 0.5 Points",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/industry-en/2026/06/11/GWYUB5MUOZAOFGFSJWZHW5N3GM/",
+        "publishedAt": "2026-06-11T08:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-06-11T01:30:00.000Z",
-      "firstSeenAt": "2026-06-11T04:01:45.660Z",
-      "lastSeenAt": "2026-06-11T04:01:45.660Z",
-      "title": "방공능력 확대",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/politics/12071217",
+      "publishedAt": "2026-06-11T08:40:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "kddx",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/english/industry-en/2026/06/11/GWYUB5MUOZAOFGFSJWZHW5N3GM/",
       "rank": 8
+    },
+    {
+      "id": "efd765c5e8a7b585",
+      "issueKey": "붉은사막",
+      "issueTitle": "붉은사막",
+      "trendTitle": "붉은사막",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "펄어비스 ‘붉은사막’, 누적 판매량 600만 돌파…美 판매 2위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611153501307",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"K-게임 새 역사\"…펄어비스 '붉은사막' 83일 만에 600만장 뚫었다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260611_0003665611",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "펄어비스 강달러가 키운 '붉은사막' 실적 효과, 크래프톤·넷마블도 고환율에 웃는다",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=439806",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "펄어비스 ‘붉은사막’, 누적 판매량 600만 돌파…美 판매 2위",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260611153501307",
+        "publishedAt": "2026-06-11T08:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T08:40:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "붉은사막",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260611153501307",
+      "rank": 9
+    },
+    {
+      "id": "a28ea8885a899dda",
+      "issueKey": "김영옥",
+      "issueTitle": "김영옥",
+      "trendTitle": "김영옥",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"환영 보여\"…김영옥, 남편상 후 심경 고백",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/11/2026061109200412267",
+          "publishedAt": "2026-06-11T08:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김영옥, 남편 사별 후 첫 심경…\"환영 보이고, 다 내 잘못 같아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611085634643",
+          "publishedAt": "2026-06-11T08:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김영옥, 남편 사별후 첫심경...“남편 환영이 보이는 것 같아”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10769323",
+          "publishedAt": "2026-06-11T08:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"환영 보여\"…김영옥, 남편상 후 심경 고백",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/06/11/2026061109200412267",
+        "publishedAt": "2026-06-11T08:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T08:20:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "김영옥",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/06/11/2026061109200412267",
+      "rank": 10
     }
   ],
   "history": [
@@ -483,6 +577,52 @@
       "url": "https://www.chosun.com/sports/baseball/2026/06/10/MJSDQNBYGIZWEYLEMRRGIN3DGM/"
     },
     {
+      "id": "ea7c6db315d9d27d",
+      "issueKey": "김도영",
+      "issueTitle": "김도영",
+      "trendTitle": "김도영",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "아시안게임 야구대표팀 명단 발표‥김도영·노시환 포함",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6829452_36946.html",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'강타자' 안현민은 왜 아시안게임 명단에 안 뽑혔나?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611151449382",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "코치로 AG 금메달 3개 목에 건 류지현 감독 \"목표는 우승\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6194799",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아시안게임 야구대표팀 명단 발표‥김도영·노시환 포함",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/sports/article/6829452_36946.html",
+        "publishedAt": "2026-06-11T08:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T08:40:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "김도영",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/sports/article/6829452_36946.html"
+    },
+    {
       "id": "57e72bd13e3ec6e9",
       "issueKey": "상장폐지",
       "issueTitle": "상장폐지",
@@ -573,52 +713,6 @@
       "title": "nasdaq",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/08/stock-market-today-live-updates.html"
-    },
-    {
-      "id": "25fa1401f9fd161e",
-      "issueKey": "라인업 복귀",
-      "issueTitle": "라인업 복귀",
-      "trendTitle": "라인업 복귀",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'4연승 도전' 한화, 강백호 드디어 선발 라인업 복귀! 오재원 3G 연속 리드오프 [오!쎈 대전]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6yo2r88Bym",
-          "publishedAt": "2026-06-09T08:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]선수단 훈련 지켜보는 김경문 감독",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/06/09/202606091553770306O",
-          "publishedAt": "2026-06-09T08:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[사진]황영묵, '깜짝이야'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260609n24258",
-          "publishedAt": "2026-06-09T08:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'4연승 도전' 한화, 강백호 드디어 선발 라인업 복귀! 오재원 3G 연속 리드오프 [오!쎈 대전]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6yo2r88Bym",
-        "publishedAt": "2026-06-09T08:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-09T08:30:00.000Z",
-      "firstSeenAt": "2026-06-09T09:44:35.246Z",
-      "lastSeenAt": "2026-06-09T09:44:35.246Z",
-      "title": "라인업 복귀",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/6yo2r88Bym"
     },
     {
       "id": "a723fe655c8e62cb",
@@ -725,52 +819,6 @@
       "title": "000660",
       "source": "Chosunbiz",
       "url": "https://biz.chosun.com/en/en-it/2026/06/09/V3TAWLIYNVGRVCM74BB3YF7SGU/"
-    },
-    {
-      "id": "a96ff06d03a8de86",
-      "issueKey": "롯데 조세진",
-      "issueTitle": "롯데 조세진",
-      "trendTitle": "롯데 조세진",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"부상 아닙니다\" 롯데 조세진, 김동혁 대신 9일 두산전 선발 라인업 투입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5F4xb33GmE",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "롯데 조세진, 데뷔 첫 홈런 쾅! → KIA 김도영, 시즌 15호 홈런 단독 선두 쾅! [광주 현장]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/06/03/MYZGIZRWGE4GIMDEGAZWCZRSMY/",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[IS 피플] 그토록 안 풀리던 롯데의 1라운더 조세진...비로소 1군 첫 홈런→변혁의 흐름 속에 터닝 포인트 찍었다",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202606030136",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"부상 아닙니다\" 롯데 조세진, 김동혁 대신 9일 두산전 선발 라인업 투입",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5F4xb33GmE",
-        "publishedAt": "2026-06-09T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-09T08:40:00.000Z",
-      "firstSeenAt": "2026-06-09T09:44:35.246Z",
-      "lastSeenAt": "2026-06-09T09:44:35.246Z",
-      "title": "롯데 조세진",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/5F4xb33GmE"
     },
     {
       "id": "ab224c46f6c22e9f",
@@ -965,6 +1013,52 @@
       "title": "이재용",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260610178200017"
+    },
+    {
+      "id": "37000bc74ac63b0b",
+      "issueKey": "레버리지",
+      "issueTitle": "레버리지",
+      "trendTitle": "레버리지",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "삼성전자 11일간 2.6% 하락에 레버리지는 10.5% 급락…무서운 '복리 효과'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611180127949",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "레버리지도 마이너스, 곱버스도 손실…오락가락 증시에 개미들 멘붕",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/general-stock/6194974",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "삼성전자·SK하이닉스 단일종목레버리지 ETF, 고점에 출시돼 개미들 출혈 더 커",
+          "source": "주간동아",
+          "url": "https://weekly.donga.com/economy/article/all/11/6262465/1",
+          "publishedAt": "2026-06-11T08:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "삼성전자 11일간 2.6% 하락에 레버리지는 10.5% 급락…무서운 '복리 효과'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260611180127949",
+        "publishedAt": "2026-06-11T08:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T08:40:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "레버리지",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260611180127949"
     },
     {
       "id": "cf43eafac342906f",
@@ -1379,98 +1473,6 @@
       "title": "뉴욕증시",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260610060748231"
-    },
-    {
-      "id": "6e89adf712dc8f28",
-      "issueKey": "삼성",
-      "issueTitle": "삼성",
-      "trendTitle": "삼성",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'올해는 다르다' 삼성, KT에 더는 약하지 않다…마법사 상대 강세 굳히고 '2위 탈환 도전'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1Nz1AKKpYu",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[프로야구전망대] 'LG-kt-삼성' 3파전 깨지나…KIA·한화, 무서운 추격전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260608028400007",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "물고 물리는 ‘먹이 사슬’…설명 불가한 KBO리그의 ‘천적 관계’",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/baseball/2330203.htm",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'올해는 다르다' 삼성, KT에 더는 약하지 않다…마법사 상대 강세 굳히고 '2위 탈환 도전'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1Nz1AKKpYu",
-        "publishedAt": "2026-06-09T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-09T08:40:00.000Z",
-      "firstSeenAt": "2026-06-09T09:44:35.246Z",
-      "lastSeenAt": "2026-06-09T09:44:35.246Z",
-      "title": "삼성",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/1Nz1AKKpYu"
-    },
-    {
-      "id": "0eb939ac396b260f",
-      "issueKey": "루키 김민준",
-      "issueTitle": "루키 김민준",
-      "trendTitle": "루키 김민준",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "SSG 루키 김민준, 어깨 부상 털고 1군 데뷔전…9일 LG전 출격",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260608_0003661008",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"왜 신인이라고 생각 안했지\" 1군 0경기 새내기를 이토록 믿다니, 김민준에 거는 남다른 기대 [잠실 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5oe1x99Uv6",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“왜 신인이라고 생각 못했지?” 감독이 착각할 정도로 남다르다, 1R 신인 데뷔전 어떨까 [오!쎈 잠실]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/06/09/202606091743774990O",
-          "publishedAt": "2026-06-09T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "SSG 루키 김민준, 어깨 부상 털고 1군 데뷔전…9일 LG전 출격",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260608_0003661008",
-        "publishedAt": "2026-06-09T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-09T08:40:00.000Z",
-      "firstSeenAt": "2026-06-09T09:44:35.246Z",
-      "lastSeenAt": "2026-06-09T09:44:35.246Z",
-      "title": "루키 김민준",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260608_0003661008"
     },
     {
       "id": "6918dd98c0285440",
@@ -1927,6 +1929,98 @@
       "title": "ionq",
       "source": "Benzinga",
       "url": "https://www.benzinga.com/trading-ideas/movers/26/06/53064695/ionq-stock-is-surging-monday-whats-driving-the-action"
+    },
+    {
+      "id": "1287365a7760138e",
+      "issueKey": "김다예",
+      "issueTitle": "김다예",
+      "trendTitle": "김다예",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "36㎏ 감량 김다예 \"더 이상 갈 곳 없어\" 육아 고충 토로",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260610_0003663129",
+          "publishedAt": "2026-06-11T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김다예, 딸 재이 위해 놀이동산도 접수 \"서울선 더이상 갈 곳 없어\" [★해시태그]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260610051647536",
+          "publishedAt": "2026-06-11T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘박수홍♥’ 김다예, 19개월 딸 어린이집 안 보낸다더니 “이제 서울에선 더 이상 갈 곳 없어\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260609151409448",
+          "publishedAt": "2026-06-11T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "36㎏ 감량 김다예 \"더 이상 갈 곳 없어\" 육아 고충 토로",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260610_0003663129",
+        "publishedAt": "2026-06-11T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T09:10:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "김다예",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260610_0003663129"
+    },
+    {
+      "id": "c72394e6b406b52f",
+      "issueKey": "장인화",
+      "issueTitle": "장인화",
+      "trendTitle": "장인화",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "장인화號 '8000억' 승부수…포스코인터, 美 가스전 투자",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202606110508i",
+          "publishedAt": "2026-06-11T09:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[단독] 포스코인터, 美 가스전에 5억弗 투자 추진",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260611n30636",
+          "publishedAt": "2026-06-11T09:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "노동부, 사망사고 반복 포스코이앤씨에 \"강제수사 신속 추진\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260611087700530",
+          "publishedAt": "2026-06-11T09:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "장인화號 '8000억' 승부수…포스코인터, 美 가스전 투자",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202606110508i",
+        "publishedAt": "2026-06-11T09:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-11T09:00:00.000Z",
+      "firstSeenAt": "2026-06-11T10:25:30.735Z",
+      "lastSeenAt": "2026-06-11T10:25:30.735Z",
+      "title": "장인화",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202606110508i"
     },
     {
       "id": "d3849b5f776ba83f",
