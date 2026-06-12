@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-06-12T04:01:40.959Z",
+  "lastUpdatedAt": "2026-06-12T10:14:24.072Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 2 2026",
   "primaryBlockName": "Knockouts",
-  "matchCount": 3,
+  "matchCount": 2,
   "matches": [
-    {
-      "id": "115548128963037575",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-06-12T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Hanwha Life Esports",
-          "code": "HLE",
-          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
-        },
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548128963037581",
       "leagueKey": "lck",
@@ -89,7 +66,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 3
+      "matchCount": 2
     },
     {
       "key": "ewc",
