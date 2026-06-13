@@ -7,57 +7,151 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-13T16:13:42.928Z",
+  "lastUpdatedAt": "2026-06-13T19:26:04.960Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "b0a0117dbd00cf2c",
-      "issueKey": "열차",
-      "issueTitle": "열차",
-      "trendTitle": "열차",
+      "id": "67c72f2a2a64c676",
+      "issueKey": "대한민국",
+      "issueTitle": "대한민국",
+      "trendTitle": "대한민국",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "청량리역선 못 탄다, 아는 사람만 타는 ‘낭만열차’",
+          "title": "“미스터 프레지던트, 축하합니다”…이탈리아서 ‘2 대 1’ 케이크 선물 받은 이 대통령",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606131619001",
+          "publishedAt": "2026-06-13T18:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전통시장에서 열린 월드컵 응원전",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260612080400053",
+          "publishedAt": "2026-06-13T18:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[문화]무관심이라더니 \"대~한민국!\"...역전승에 관심 폭발",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0106_202606132249159937_005.html",
+          "publishedAt": "2026-06-13T18:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "대한민국",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202606131619001",
+        "publishedAt": "2026-06-13T18:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-13T18:20:00.000Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
+      "title": "대한민국",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202606131619001",
+      "rank": 1
+    },
+    {
+      "id": "2400444d74e4ea5e",
+      "issueKey": "레알 마드리드",
+      "issueTitle": "레알 마드리드",
+      "trendTitle": "발롱도르",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"레알 마드리드? 하나도 안 감사합니다\" ATM, 이례적 공개 조롱...\"훌리안 2637억 제안 거절당했다\" 기습 발표에 화났다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260612000447309?f=p",
+          "url": "https://v.daum.net/v/20260611093301362",
+          "publishedAt": "2026-06-13T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[오피셜] 드디어 나왔다! 레알 마드리드, 무리뉴 감독 선임…\"계약 기간 2029년 6월까지\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260612n02734",
+          "publishedAt": "2026-06-13T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'이강인 제발 나가' 외치는 수준...PSG, '52경기 22골 31도움' 발롱도르 유력 후보 올리세 영입 총력",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=688322",
+          "publishedAt": "2026-06-13T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"레알 마드리드? 하나도 안 감사합니다\" ATM, 이례적 공개 조롱...\"훌리안 2637억 제안 거절당했다\" 기습 발표에 화났다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260611093301362",
+        "publishedAt": "2026-06-13T15:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-13T15:30:00.000Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
+      "title": "레알 마드리드",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260611093301362",
+      "rank": 2
+    },
+    {
+      "id": "6752cba191da19ef",
+      "issueKey": "신입",
+      "issueTitle": "신입",
+      "trendTitle": "신입",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "경남·대구 주민 가덕도신공항 쉽게 간다… 진주·동대구역 개량",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260610.99099002666",
           "publishedAt": "2026-06-13T15:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[특집] 아리랑 열차로 떠난 '강원도 정선 완전 유랑'",
-          "source": "여행스케치",
-          "url": "https://www.ktsketch.co.kr/news/articleView.html?idxno=8728",
+          "title": "가덕도신공항건설공단, 신입·경력직 38명 채용",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260605_0003657483",
           "publishedAt": "2026-06-13T15:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "1호선 구로역 열차서 보조배터리 추정 연기…승객 200명 하차",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260612154100004",
+          "title": "가덕도신공항건설공단, 2026년 신입·경력직 채용...\"9월 30일 합격자 발표\"",
+          "source": "건설이코노미뉴스",
+          "url": "https://www.cenews.kr/news/articleView.html?idxno=40540",
           "publishedAt": "2026-06-13T15:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "청량리역선 못 탄다, 아는 사람만 타는 ‘낭만열차’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260612000447309?f=p",
+        "title": "가덕도신공항건설공단, 신입·경력직 38명 채용",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260605_0003657483",
         "publishedAt": "2026-06-13T15:10:00.000Z",
-        "relevanceScore": 3
+        "relevanceScore": 2
       },
       "publishedAt": "2026-06-13T15:10:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
-      "title": "열차",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260612000447309?f=p",
-      "rank": 1
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
+      "title": "신입",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260605_0003657483",
+      "rank": 3
     },
     {
       "id": "3f524cdc07a11d7c",
@@ -70,41 +164,88 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Are McLaren back in the fight against Mercedes in Barcelona?",
+          "title": "Russell storms to pole in Barcelona as Leclerc crashes out",
           "source": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/are-mclaren-really-back-in-the-fight-against-mercedes-in-barcelona.6JiIZpRB9js3S1NJ1IuhfE",
+          "url": "https://www.formula1.com/en/latest/article/russell-storms-to-barcelona-catalunya-gp-pole-ahead-of-hamilton-and-antonelli-as-leclerc-crashes-out.5TO9HsowvlMjmFJBPVP3qv",
           "publishedAt": "2026-06-13T15:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "F1 drivers experiencing 'nightmare' on 'huge balloon' tyres",
-          "source": "The Race",
-          "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/",
+          "title": "F1 - Lewis Hamilton, 2nd in Barcelona Qualifying: \"We're back in the game\"",
+          "source": "https://www.autohebdof1.com/",
+          "url": "https://www.autohebdof1.com/news/f1/Lewis-Hamilton-finished-2nd-in-qualifying-in-Barcelona--%E2%80%8B%E2%80%8Bwe%27re-back-in-the-game.html",
           "publishedAt": "2026-06-13T15:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Licensable picture: Barcelona-Catalunya Grand Prix",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/barcelona-catalunya-grand-prix/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNkMwUkdZQTg",
+          "title": "George Russell on pole in Barcelona",
+          "source": "Newsroom Pirelli",
+          "url": "https://press.pirelli.com/george-russell-on-pole-in-barcelona/",
           "publishedAt": "2026-06-13T15:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "F1 drivers experiencing 'nightmare' on 'huge balloon' tyres",
-        "source": "The Race",
-        "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/",
+        "title": "F1 - Lewis Hamilton, 2nd in Barcelona Qualifying: \"We're back in the game\"",
+        "source": "https://www.autohebdof1.com/",
+        "url": "https://www.autohebdof1.com/news/f1/Lewis-Hamilton-finished-2nd-in-qualifying-in-Barcelona--%E2%80%8B%E2%80%8Bwe%27re-back-in-the-game.html",
         "publishedAt": "2026-06-13T15:10:00.000Z",
         "relevanceScore": 2
       },
       "publishedAt": "2026-06-13T15:10:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
       "title": "f1",
-      "source": "The Race",
-      "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/",
-      "rank": 2
+      "source": "https://www.autohebdof1.com/",
+      "url": "https://www.autohebdof1.com/news/f1/Lewis-Hamilton-finished-2nd-in-qualifying-in-Barcelona--%E2%80%8B%E2%80%8Bwe%27re-back-in-the-game.html",
+      "rank": 4
+    },
+    {
+      "id": "d7a16a181d6d45ca",
+      "issueKey": "정채연",
+      "issueTitle": "정채연",
+      "trendTitle": "정채연",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "아이오아이 청하, 시신경 문제 고백 \"인상 써서 오해받아\" [전참시][★밤TView]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260614005449896",
+          "publishedAt": "2026-06-13T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "재결합의 명암…아이오아이의 증명, 시크릿의 숙제 [IZE 진단]",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/12/2026061211377217278",
+          "publishedAt": "2026-06-13T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“끝이라고 생각 안 해” 아이오아이, 흥+눈물 가득한 MT 현장 (전참시)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/508059",
+          "publishedAt": "2026-06-13T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "정채연",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260614005449896",
+        "publishedAt": "2026-06-13T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-13T15:00:00.000Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
+      "title": "정채연",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260614005449896",
+      "rank": 5
     },
     {
       "id": "b2b3a4a1879c2312",
@@ -117,9 +258,9 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "IOI Reunite for 10th Anniversary MT Afterparty",
+          "title": "I.O.I's enduring friendship shines on MBC variety show",
           "source": "조선일보",
-          "url": "https://www.chosun.com/english/kpop-culture-en/2026/06/13/KH2GIMJ5MVBHNFBGHXDOUJGHFY/",
+          "url": "https://www.chosun.com/english/kpop-culture-en/2026/06/13/MOFPVB4XOBCLTAQXXAMBPDZGF4/",
           "publishedAt": "2026-06-13T15:00:00.000Z",
           "relevanceScore": 3
         },
@@ -139,19 +280,19 @@
         }
       ],
       "representativeArticle": {
-        "title": "IOI Reunite for 10th Anniversary MT Afterparty",
+        "title": "ioi",
         "source": "조선일보",
-        "url": "https://www.chosun.com/english/kpop-culture-en/2026/06/13/KH2GIMJ5MVBHNFBGHXDOUJGHFY/",
+        "url": "https://www.chosun.com/english/kpop-culture-en/2026/06/13/MOFPVB4XOBCLTAQXXAMBPDZGF4/",
         "publishedAt": "2026-06-13T15:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-13T15:00:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
       "title": "ioi",
       "source": "조선일보",
-      "url": "https://www.chosun.com/english/kpop-culture-en/2026/06/13/KH2GIMJ5MVBHNFBGHXDOUJGHFY/",
-      "rank": 3
+      "url": "https://www.chosun.com/english/kpop-culture-en/2026/06/13/MOFPVB4XOBCLTAQXXAMBPDZGF4/",
+      "rank": 6
     },
     {
       "id": "23ea5a5147891c77",
@@ -193,12 +334,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-13T14:40:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
       "title": "그릴즈",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260613072736803",
-      "rank": 4
+      "rank": 7
     },
     {
       "id": "3ec98a92577d0884",
@@ -240,59 +381,59 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-13T14:40:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
       "title": "초안산",
       "source": "서울특별시",
       "url": "https://mediahub.seoul.go.kr/archives/2018389",
-      "rank": 5
+      "rank": 8
     },
     {
       "id": "175ca2d36da36757",
       "issueKey": "기생충",
       "issueTitle": "기생충",
       "trendTitle": "기생충",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“덜 익힌 돼지고기 먹었는데”…뇌에서 기생충 발견된 50대 남성, 무슨 일? [헬시타임]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20055383",
+          "title": "'이것' 자주 먹던 30대 농부, 점점 마르더니…변에서 기생충 다량 발견",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260613n11130",
           "publishedAt": "2026-06-13T14:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "덜 익힌 베이컨 즐겨 먹었다가… 뇌 속 기생충 발견된 50대",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260611000122",
+          "title": "'살 파먹는 기생파리' 예방 위한 불임 처리 번데기들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260612_0002159251",
           "publishedAt": "2026-06-13T14:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "베이컨은 덜 익혀도 괜찮다? NO!…뇌 속에 기생충 유충 발견 사례",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611104539397",
+          "title": "미 CDC, 신세계 나선파리 발생에 비상 대응 체제 가동 - 블룸버그",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/economy-news/article-93CH-1981345",
           "publishedAt": "2026-06-13T14:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“덜 익힌 돼지고기 먹었는데”…뇌에서 기생충 발견된 50대 남성, 무슨 일? [헬시타임]",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20055383",
+        "title": "'이것' 자주 먹던 30대 농부, 점점 마르더니…변에서 기생충 다량 발견",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260613n11130",
         "publishedAt": "2026-06-13T14:10:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-13T14:10:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
       "title": "기생충",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20055383",
-      "rank": 6
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260613n11130",
+      "rank": 9
     },
     {
       "id": "773bad66b2b82e82",
@@ -305,135 +446,41 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "강릉역 이용해 단오장 찾은 관람객에 '장자마리 인형 키링' 증정",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6532521",
+          "title": "일본과 이탈리아가 2026년 파리 국제영화제(DIFF)의 \"문화\" 부문에서 두각을 나타냅니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhat-ban-va-italia-thang-hoa-trong-dem-thi-van-hoa-tai-diff-2026",
           "publishedAt": "2026-06-13T13:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[풀리니, 단오다] 뜨겁고도 시원한 단오 화합의 장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260612000722387",
+          "title": "다낭 국제불꽃축제, ‘유산’ 주제로 문화유산의 아름다움 수놓아",
+          "source": "Thông tấn xã Việt Nam",
+          "url": "https://vietnam.vnanet.vn/korean/video/%E1%84%83%E1%85%A1%E1%84%82%E1%85%A1%E1%86%BC-%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%87%E1%85%AE%E1%86%AF%E1%84%81%E1%85%A9%E1%86%BE%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A6-%E2%80%98%E1%84%8B%E1%85%B2%E1%84%89%E1%85%A1%E1%86%AB-%E1%84%8C%E1%85%AE%E1%84%8C%E1%85%A6%E1%84%85%E1%85%A9-%E1%84%86%E1%85%AE%E1%86%AB%E1%84%92%E1%85%AA%E1%84%8B%E1%85%B2%E1%84%89%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B4-%E1%84%8B%E1%85%A1%E1%84%85%E1%85%B3%E1%86%B7%E1%84%83%E1%85%A1%E1%84%8B%E1%85%AE%E1%86%B7-%E1%84%89%E1%85%AE%E1%84%82%E1%85%A9%E1%87%82%E1%84%8B%E1%85%A1-450693.html",
           "publishedAt": "2026-06-13T13:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "강릉단오제 '풀리니, 단오다' 특별전 운영…\"치유와 회복\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260612001117",
+          "title": "아시아와 유럽의 영향이 강렬하게 어우러진 공연을 기대하셔도 좋습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cho-doi-man-trinh-dien-dam-ban-sac-a-au",
           "publishedAt": "2026-06-13T13:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "불꽃놀이",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6532521",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhat-ban-va-italia-thang-hoa-trong-dem-thi-van-hoa-tai-diff-2026",
         "publishedAt": "2026-06-13T13:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-13T13:40:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
       "title": "불꽃놀이",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6532521",
-      "rank": 7
-    },
-    {
-      "id": "a6a00e54758280a6",
-      "issueKey": "의미 뒀다더니",
-      "issueTitle": "의미 뒀다더니",
-      "trendTitle": "의미 뒀다더니",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“제네시스에 속았다”…첫 출전에 의미 뒀다더니, 페라리보다 빨랐다 [카슐랭]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260613070001347",
-          "publishedAt": "2026-06-13T13:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "루크 동크볼케 르망 24시간",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260612_0002159921",
-          "publishedAt": "2026-06-13T13:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "제네시스, 르망 24시간 첫 도전…글로벌 모터 스포츠 무대 출사표",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260612025502855",
-          "publishedAt": "2026-06-13T13:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“제네시스에 속았다”…첫 출전에 의미 뒀다더니, 페라리보다 빨랐다 [카슐랭]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260613070001347",
-        "publishedAt": "2026-06-13T13:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-13T13:30:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
-      "title": "의미 뒀다더니",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260613070001347",
-      "rank": 8
-    },
-    {
-      "id": "6bb8a37b630b6736",
-      "issueKey": "wec",
-      "issueTitle": "wec",
-      "trendTitle": "wec",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "FIA WEC reveals nine-round 2027 calendar as series expands",
-          "source": "FIA WEC",
-          "url": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
-          "publishedAt": "2026-06-13T13:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Le Mans Friday Notebook",
-          "source": "Sportscar365",
-          "url": "https://sportscar365.com/lemans/wec/le-mans-friday-notebook-22/",
-          "publishedAt": "2026-06-13T13:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Endurance racing series to return to Silverstone",
-          "source": "AOL.com",
-          "url": "https://www.aol.com/articles/endurance-racing-series-return-silverstone-055814000.html",
-          "publishedAt": "2026-06-13T13:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "FIA WEC reveals nine-round 2027 calendar as series expands",
-        "source": "FIA WEC",
-        "url": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
-        "publishedAt": "2026-06-13T13:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-13T13:20:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
-      "title": "wec",
-      "source": "FIA WEC",
-      "url": "https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar-as-series-expands/13598",
-      "rank": 9
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/nhat-ban-va-italia-thang-hoa-trong-dem-thi-van-hoa-tai-diff-2026",
+      "rank": 10
     }
   ],
   "history": [
@@ -898,6 +945,73 @@
       "url": "https://www.yna.co.kr/view/AKR20260612006800087"
     },
     {
+      "id": "175ca2d36da36757",
+      "issueKey": "기생충",
+      "issueTitle": "기생충",
+      "trendTitle": "기생충",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 6,
+      "relatedArticles": [
+        {
+          "title": "“덜 익힌 돼지고기 먹었는데”…뇌에서 기생충 발견된 50대 남성, 무슨 일? [헬시타임]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20055383",
+          "publishedAt": "2026-06-13T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'이것' 자주 먹던 30대 농부, 점점 마르더니…변에서 기생충 다량 발견",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260613n11130",
+          "publishedAt": "2026-06-13T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "덜 익힌 베이컨 즐겨 먹었다가… 뇌 속 기생충 발견된 50대",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260611000122",
+          "publishedAt": "2026-06-13T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'살 파먹는 기생파리' 예방 위한 불임 처리 번데기들",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20260612_0002159251",
+          "publishedAt": "2026-06-13T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "베이컨은 덜 익혀도 괜찮다? NO!…뇌 속에 기생충 유충 발견 사례",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260611104539397",
+          "publishedAt": "2026-06-13T14:10:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "미 CDC, 신세계 나선파리 발생에 비상 대응 체제 가동 - 블룸버그",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/economy-news/article-93CH-1981345",
+          "publishedAt": "2026-06-13T14:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“덜 익힌 돼지고기 먹었는데”…뇌에서 기생충 발견된 50대 남성, 무슨 일? [헬시타임]",
+        "source": "서울경제",
+        "url": "https://www.sedaily.com/article/20055383",
+        "publishedAt": "2026-06-13T14:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-13T14:10:00.000Z",
+      "firstSeenAt": "2026-06-13T16:13:42.928Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
+      "title": "기생충",
+      "source": "서울경제",
+      "url": "https://www.sedaily.com/article/20055383"
+    },
+    {
       "id": "a6a00e54758280a6",
       "issueKey": "의미 뒀다더니",
       "issueTitle": "의미 뒀다더니",
@@ -1310,52 +1424,6 @@
       "title": "한투운용",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260611155142292"
-    },
-    {
-      "id": "175ca2d36da36757",
-      "issueKey": "기생충",
-      "issueTitle": "기생충",
-      "trendTitle": "기생충",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“덜 익힌 돼지고기 먹었는데”…뇌에서 기생충 발견된 50대 남성, 무슨 일? [헬시타임]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20055383",
-          "publishedAt": "2026-06-13T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "덜 익힌 베이컨 즐겨 먹었다가… 뇌 속 기생충 발견된 50대",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260611000122",
-          "publishedAt": "2026-06-13T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "베이컨은 덜 익혀도 괜찮다? NO!…뇌 속에 기생충 유충 발견 사례",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260611104539397",
-          "publishedAt": "2026-06-13T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“덜 익힌 돼지고기 먹었는데”…뇌에서 기생충 발견된 50대 남성, 무슨 일? [헬시타임]",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20055383",
-        "publishedAt": "2026-06-13T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-13T14:10:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
-      "title": "기생충",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20055383"
     },
     {
       "id": "10fc3c7de9f36c6d",
@@ -1818,6 +1886,73 @@
       "url": "https://www.newsis.com/view/NISX20260611_0003666019"
     },
     {
+      "id": "3f524cdc07a11d7c",
+      "issueKey": "f1",
+      "issueTitle": "f1",
+      "trendTitle": "f1",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 6,
+      "relatedArticles": [
+        {
+          "title": "Are McLaren back in the fight against Mercedes in Barcelona?",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/are-mclaren-really-back-in-the-fight-against-mercedes-in-barcelona.6JiIZpRB9js3S1NJ1IuhfE",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Russell storms to pole in Barcelona as Leclerc crashes out",
+          "source": "Formula 1",
+          "url": "https://www.formula1.com/en/latest/article/russell-storms-to-barcelona-catalunya-gp-pole-ahead-of-hamilton-and-antonelli-as-leclerc-crashes-out.5TO9HsowvlMjmFJBPVP3qv",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "F1 drivers experiencing 'nightmare' on 'huge balloon' tyres",
+          "source": "The Race",
+          "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "F1 - Lewis Hamilton, 2nd in Barcelona Qualifying: \"We're back in the game\"",
+          "source": "https://www.autohebdof1.com/",
+          "url": "https://www.autohebdof1.com/news/f1/Lewis-Hamilton-finished-2nd-in-qualifying-in-Barcelona--%E2%80%8B%E2%80%8Bwe%27re-back-in-the-game.html",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Licensable picture: Barcelona-Catalunya Grand Prix",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/barcelona-catalunya-grand-prix/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNkMwUkdZQTg",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "George Russell on pole in Barcelona",
+          "source": "Newsroom Pirelli",
+          "url": "https://press.pirelli.com/george-russell-on-pole-in-barcelona/",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "F1 drivers experiencing 'nightmare' on 'huge balloon' tyres",
+        "source": "The Race",
+        "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/",
+        "publishedAt": "2026-06-13T15:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-13T15:10:00.000Z",
+      "firstSeenAt": "2026-06-13T16:13:42.928Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
+      "title": "f1",
+      "source": "The Race",
+      "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/"
+    },
+    {
       "id": "f394bf785d358ee4",
       "issueKey": "tqqq",
       "issueTitle": "tqqq",
@@ -1885,52 +2020,6 @@
       "url": "https://247wallst.com/investing/2026/06/08/tqqq-turned-10000-into-353789-but-fridays-14-crash-shows-leverage-cuts-both-ways/"
     },
     {
-      "id": "3f524cdc07a11d7c",
-      "issueKey": "f1",
-      "issueTitle": "f1",
-      "trendTitle": "f1",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Are McLaren back in the fight against Mercedes in Barcelona?",
-          "source": "Formula 1",
-          "url": "https://www.formula1.com/en/latest/article/are-mclaren-really-back-in-the-fight-against-mercedes-in-barcelona.6JiIZpRB9js3S1NJ1IuhfE",
-          "publishedAt": "2026-06-13T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "F1 drivers experiencing 'nightmare' on 'huge balloon' tyres",
-          "source": "The Race",
-          "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/",
-          "publishedAt": "2026-06-13T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Licensable picture: Barcelona-Catalunya Grand Prix",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/barcelona-catalunya-grand-prix/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNkMwUkdZQTg",
-          "publishedAt": "2026-06-13T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "F1 drivers experiencing 'nightmare' on 'huge balloon' tyres",
-        "source": "The Race",
-        "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/",
-        "publishedAt": "2026-06-13T15:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-13T15:10:00.000Z",
-      "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
-      "title": "f1",
-      "source": "The Race",
-      "url": "https://www.the-race.com/formula-1/f1-drivers-2026-barcelona-gp-nightmare-huge-balloon-tyres/"
-    },
-    {
       "id": "23ea5a5147891c77",
       "issueKey": "그릴즈",
       "issueTitle": "그릴즈",
@@ -1971,10 +2060,56 @@
       },
       "publishedAt": "2026-06-13T14:40:00.000Z",
       "firstSeenAt": "2026-06-13T16:13:42.928Z",
-      "lastSeenAt": "2026-06-13T16:13:42.928Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
       "title": "그릴즈",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260613072736803"
+    },
+    {
+      "id": "6752cba191da19ef",
+      "issueKey": "신입",
+      "issueTitle": "신입",
+      "trendTitle": "신입",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "경남·대구 주민 가덕도신공항 쉽게 간다… 진주·동대구역 개량",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260610.99099002666",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "가덕도신공항건설공단, 신입·경력직 38명 채용",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260605_0003657483",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "가덕도신공항건설공단, 2026년 신입·경력직 채용...\"9월 30일 합격자 발표\"",
+          "source": "건설이코노미뉴스",
+          "url": "https://www.cenews.kr/news/articleView.html?idxno=40540",
+          "publishedAt": "2026-06-13T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "가덕도신공항건설공단, 신입·경력직 38명 채용",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260605_0003657483",
+        "publishedAt": "2026-06-13T15:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-13T15:10:00.000Z",
+      "firstSeenAt": "2026-06-13T19:26:04.960Z",
+      "lastSeenAt": "2026-06-13T19:26:04.960Z",
+      "title": "신입",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260605_0003657483"
     },
     {
       "id": "a5d44a6626699dff",
@@ -2251,52 +2386,6 @@
       "title": "라이언 와이스",
       "source": "서울경제",
       "url": "https://www.sedaily.com/article/20055323"
-    },
-    {
-      "id": "274ecb82cbde2598",
-      "issueKey": "추억",
-      "issueTitle": "추억",
-      "trendTitle": "넥슨",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"크아가 뭔데\" 추억·상징에도 가차 없는 넥슨…돈 안 되면 다 접는다",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/06/13/2026061214434529426",
-          "publishedAt": "2026-06-13T07:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "학생부터 성인까지 ‘이 게임’ 모르는 사람 없다는데…25년 만에 역사 속으로",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20055350",
-          "publishedAt": "2026-06-13T07:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[넥슨 다이어트]① '카트' 이어 '크아' 멈춘다…캐주얼 왕국의 재편",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FNG0e22uRx",
-          "publishedAt": "2026-06-13T07:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"크아가 뭔데\" 추억·상징에도 가차 없는 넥슨…돈 안 되면 다 접는다",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/tech/2026/06/13/2026061214434529426",
-        "publishedAt": "2026-06-13T07:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-13T07:00:00.000Z",
-      "firstSeenAt": "2026-06-13T09:17:14.875Z",
-      "lastSeenAt": "2026-06-13T09:17:14.875Z",
-      "title": "추억",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/tech/2026/06/13/2026061214434529426"
     }
   ]
 }
