@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-13T14:00:43.382Z",
+  "lastUpdatedAt": "2026-06-13T16:13:42.928Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -40,23 +40,23 @@
           "meta": "댓글 53"
         },
         {
-          "title": "한해 게임 라인업 조망, '서머 게임 페스트' 2026 종합",
-          "url": "https://bbs.ruliweb.com/news/read/225453",
-          "meta": "댓글 12"
-        },
-        {
           "title": "컴퍼니 오브 히어로즈 - 데피니티브 에디션, 발표",
           "url": "https://bbs.ruliweb.com/news/read/225492",
           "meta": "댓글 21"
         },
         {
-          "title": "㈜엔씨, 美 ‘SGF 2026’에 ‘아이온2’ 출품... 9월 글로벌 출시",
-          "url": "https://bbs.ruliweb.com/news/read/225434",
-          "meta": "댓글 15"
-        },
-        {
           "title": "넷마블 신작 ‘나 혼자만 레벨업: 카르마’, ‘애니메 엑스포 2026’ 무대 참가",
           "url": "https://bbs.ruliweb.com/news/read/225510",
+          "meta": "댓글 1"
+        },
+        {
+          "title": "㈜카카오게임즈, 슈퍼캣의 신작 MMORPG '도깨비의세계' 인게임 이미지 최초 공개",
+          "url": "https://bbs.ruliweb.com/news/read/225532",
+          "meta": "댓글 7"
+        },
+        {
+          "title": "한미마이크로닉스, 브라운더스트2 ‘공포의 꿈 팔레트’ PC 케이스 판매",
+          "url": "https://bbs.ruliweb.com/news/read/225622",
           "meta": "댓글 1"
         }
       ]
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "유상욱 감독, \"1세트 밴픽 불리했지만, 역전해 만족...되돌아볼 것\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317446",
+          "meta": "리그 오브 레전드 · 6시간 전"
+        },
+        {
+          "title": "고동빈 감독, \"상대는 어려워도 뚫었고, 우리는 쉬워도 못 막았다\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317445",
+          "meta": "리그 오브 레전드 · 7시간 전"
+        },
+        {
           "title": "'창단 첫 MSI' 한화생명e스포츠, \"1시드 진출 기뻐, 꼭 우승할 것\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=317439",
-          "meta": "리그 오브 레전드 · 20시간 전"
+          "meta": "리그 오브 레전드 · 2026-06-12"
         },
         {
           "title": "임재현 감독대행, \"한화생명전, 가장 큰 패인은 전령\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=317438",
-          "meta": "리그 오브 레전드 · 21시간 전"
+          "meta": "리그 오브 레전드 · 2026-06-12"
         },
         {
           "title": "실전을 위한 스쿼드 강화, 훈련 코치 영입(쿠폰 이벤트)",
           "url": "https://www.inven.co.kr/webzine/news/?news=317431",
           "meta": "FC 온라인 · 2026-06-12"
-        },
-        {
-          "title": "진짜 강아지가 성우로? 인디 신작 '리듬 댕댕이' 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317432",
-          "meta": "리듬 댕댕이 · 2026-06-12"
-        },
-        {
-          "title": "e스포츠 재단, EWC 2026 및 ENC 2026 '크리에이터 프로그램' 출범",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317429",
-          "meta": "2026-06-12"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "Inven HTTP 500"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
