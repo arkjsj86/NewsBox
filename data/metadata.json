@@ -3,9 +3,9 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-06-13T09:17:14.875Z",
+  "lastUpdatedAt": "2026-06-13T14:00:43.382Z",
   "tabCount": 5,
-  "totalArticleCount": 81,
+  "totalArticleCount": 84,
   "availableTabs": [
     "ai",
     "game",
@@ -25,8 +25,8 @@
     "unityVideoLimit": 2
   },
   "feedCount": 8,
-  "successfulFeedCount": 8,
-  "failedFeedCount": 0,
+  "successfulFeedCount": 7,
+  "failedFeedCount": 1,
   "successfulFeeds": [
     {
       "key": "itworld-kr",
@@ -54,11 +54,6 @@
       "itemCount": 30
     },
     {
-      "key": "sportschosun-entertainment",
-      "source": "스포츠조선 연예",
-      "itemCount": 30
-    },
-    {
       "key": "newsis-entertainment",
       "source": "뉴시스 연예",
       "itemCount": 30
@@ -69,7 +64,13 @@
       "itemCount": 30
     }
   ],
-  "failedFeeds": [],
+  "failedFeeds": [
+    {
+      "key": "sportschosun-entertainment",
+      "source": "스포츠조선 연예",
+      "error": "The operation was aborted due to timeout"
+    }
+  ],
   "spotlightCount": 4,
   "spotlights": [
     {
