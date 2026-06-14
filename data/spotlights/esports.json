@@ -3,39 +3,292 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-06-14T04:08:31.916Z",
-  "activeLeagueKey": "lck",
-  "activeLeagueLabel": "LCK",
+  "lastUpdatedAt": "2026-06-14T09:35:08.319Z",
+  "activeLeagueKey": "msi",
+  "activeLeagueLabel": "MSI",
   "title": "경기 일정",
-  "description": "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.",
-  "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
+  "description": "지금은 MSI 일정이 우선 노출되고 있으며, 경기 수가 많으면 목록 안에서 스크롤됩니다.",
+  "sourceUrl": "https://lolesports.com/en-US/leagues/msi",
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
-  "primaryTournamentName": "Split 2 2026",
-  "primaryBlockName": "Knockouts",
-  "matchCount": 1,
+  "primaryTournamentName": "2026",
+  "primaryBlockName": "Play In Knockouts",
+  "matchCount": 12,
   "matches": [
     {
-      "id": "115548128963037587",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 2 2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-06-14T06:00:00.000Z",
+      "id": "115570934355614497",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Play In Knockouts",
+      "startTime": "2026-06-28T03:00:00.000Z",
       "state": "unstarted",
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "Gen.G Esports",
-          "code": "GEN",
-          "imageUrl": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
         },
         {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
         }
       ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614503",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Play In Knockouts",
+      "startTime": "2026-06-28T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115846993721104369",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Play In Knockouts",
+      "startTime": "2026-06-29T03:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614509",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Play In Knockouts",
+      "startTime": "2026-06-29T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614521",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Play In Knockouts",
+      "startTime": "2026-06-30T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570969745329263",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Play In Knockouts",
+      "startTime": "2026-07-01T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614527",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-07-03T03:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614533",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-07-03T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614539",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-07-04T03:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614545",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-07-04T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614563",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-07-05T03:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614551",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-07-05T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
     }
   ],
   "fetchedLeagues": [
@@ -43,7 +296,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 1
+      "matchCount": 0
     },
     {
       "key": "ewc",
