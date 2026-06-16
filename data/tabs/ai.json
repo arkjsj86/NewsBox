@@ -4,16 +4,34 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-06-15T23:02:45.397Z",
-  "articleCount": 13,
+  "lastUpdatedAt": "2026-06-16T04:12:02.215Z",
+  "articleCount": 11,
   "articles": [
     {
-      "id": "c7e142afc4f80f7e",
-      "title": "넥써쓰 AI 메타버스 스테이지 크리에이터 모집",
-      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305364",
+      "id": "9aa51be91cd3715b",
+      "title": "시리 AI 개편, 유료 구독 전환의 신호탄 될까",
+      "url": "https://www.itworld.co.kr/article/4185340/%ec%8b%9c%eb%a6%ac-ai-%ea%b0%9c%ed%8e%b8-%ec%9c%a0%eb%a3%8c-%ea%b5%ac%eb%8f%85-%ec%a0%84%ed%99%98%ec%9d%98-%ec%8b%a0%ed%98%b8%ed%83%84-%eb%90%a0%ea%b9%8c.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-06-16T01:40:42.000Z",
+      "summary": "애플이 애플 인텔리전스(Apple Intelligence)에 구독 요금제를 도입할 것이라는 관측은 오래전부터 제기돼 왔다. 그런데 최근 신뢰할 만한 소식통의 새 보고서를 통해 그 가능성이 한층 높아졌다. 블룸버그 기자 마크 거먼은 이번 주말 주간 뉴스레터에서 애플의 새 시리 AI에 대한 초기 반응을 다뤘다. 거먼은 시리 AI를 두고 회사의 AI 위기를 해소하기에 “그럭저럭 충분한” 수준...",
+      "tab": "ai"
+    },
+    {
+      "id": "77a46a0760a41f94",
+      "title": "SOOP, 해외 맞춤형 콘텐츠로 글로벌 사업 확대",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305400",
       "source": "경향게임스",
-      "publishedAt": "2026-06-15T01:21:15.000Z",
-      "summary": "넥써쓰가 AI 메타버스 플랫폼 \\'STAGE(스테이지)\\'의 크리에이터를 모집한다.스테이지는 단일 AI 캐릭터와 대화를 주고받는 기존 AI 챗 서비스를 넘어, 여러 캐릭터와 장소, 관계, 사건이 유기적으로 반응하며 세계관을 형성하는 AI 메타버스 창작 플랫폼이다. 유저는 콘텐츠를 소비하는 관찰자가 아닌, 세계관 안으로 직접 들어가 이야기의 다음 장면을 만들어가는 참여자가 된다.창작 진입...",
+      "publishedAt": "2026-06-16T01:32:59.000Z",
+      "summary": "SOOP이 태국, 대만, 베트남, 서구권 등을 중심으로 글로벌 콘텐츠 사업 확대에 나섰다. SOOP은 올해 초 한국과 글로벌 플랫폼을 통합한 이후 지난 5월 열린 ‘Road to EWC’의 영어·중국어 단독 중계를 진행하며 해외 이용자를 확보했다. 또한, 기존 글로벌 플랫폼에서만 제공하던 AI 번역 자막 기능을 통합 플랫폼에 적용해 해외 이용자와 ‘페이커’ 이상혁, ‘피넛’ 한왕호 등...",
+      "tab": "ai"
+    },
+    {
+      "id": "3e9c27d75e4bf9b7",
+      "title": "개발자는 빠르게, 보안팀은 느리게…오픈텍스트, 금융권 AI 전환 시대의 애플리케이션 보안 과제 짚다",
+      "url": "https://www.itworld.co.kr/article/4185325/%ea%b0%9c%eb%b0%9c%ec%9e%90%eb%8a%94-%eb%b9%a0%eb%a5%b4%ea%b2%8c-%eb%b3%b4%ec%95%88%ed%8c%80%ec%9d%80-%eb%8a%90%eb%a6%ac%ea%b2%8c-%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b8%88%ec%9c%b5.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-06-16T01:15:00.000Z",
+      "summary": "금융위원회가 2026년 1분기 금융산업 통합 AI 가이드라인 시행을 추진하고, 금융감독원이 AI 위험관리 프레임워크(AI RMF)를 도입하면서 국내 금융권의 AI 전환이 본격적인 제도권 안으로 들어왔다. 망분리 규제 완화와 맞물려 금융사의 AI 기반 서비스 개발과 내부 코드 작성에 AI를 활용하는 사례도 빠르게 늘고 있는 상황이다. 그러나 AI 도입이 가속화될수록 간과하기 쉬운 리스크가...",
       "tab": "ai"
     },
     {
@@ -86,42 +104,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-06-10T05:20:08.000Z",
       "summary": "기업의 IT 환경이 온프레미스, 멀티클라우드, 엣지 인프라로 분산되면서 모니터링 도구도 함께 증가했다. 엔터프라이즈 기업이 평균 8~10개의 모니터링 솔루션을 운영하는 가운데, 이들 도구가 분절된 채로 작동하면서 IT 운영팀의 업무 부담이 급증하는 고충이 크다. 새로운 대안으로 AI 기반의 통합 옵저버빌리티 솔루션이 부상하고 있다. 글로벌 IT 성능 모니터링 및 옵저버빌리티 기업 eG이...",
-      "tab": "ai"
-    },
-    {
-      "id": "07c3658417201586",
-      "title": "방산·공공 AI 프로젝트 85% 실패하는 이유…오픈텍스트 “신뢰할 수 있는 데이터 먼저”",
-      "url": "https://www.itworld.co.kr/article/4182599/%eb%b0%a9%ec%82%b0%c2%b7%ea%b3%b5%ea%b3%b5-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8-85-%ec%8b%a4%ed%8c%a8%ed%95%98%eb%8a%94-%ec%9d%b4%ec%9c%a0%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-09T00:14:04.000Z",
-      "summary": "글로벌 정보 관리 솔루션 기업 오픈텍스트(나스닥: OTEX, TSX: OTEX)가 방산·공공 분야의 AI 도입을 선도하며 주권 AI 시장에서 입지를 강화하고 있다. 오픈텍스트 최고경영자 에이만 안툰은 “전 세계 AI 프로젝트의 85%가 실패하는 이유는 근본적인 데이터 문제 때문”이라며 “신뢰할 수 있는 데이터 관리 프레임워크 없이 AI에 투자하면 기대한 결과를 얻기 어렵다”라고 강조했다...",
-      "tab": "ai"
-    },
-    {
-      "id": "3dc3a5eabac29157",
-      "title": "미국 5월 기술업계 감원, 2024년 이후 최대…해고 원인 1위는 AI",
-      "url": "https://www.itworld.co.kr/article/4182072/%eb%af%b8%ea%b5%ad-5%ec%9b%94-%ea%b8%b0%ec%88%a0%ec%97%85%ea%b3%84-%ea%b0%90%ec%9b%90-2024%eb%85%84-%ec%9d%b4%ed%9b%84-%ec%b5%9c%eb%8c%80%ed%95%b4%ea%b3%a0-%ec%9b%90%ec%9d%b8-1%ec%9c%84.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-08T01:53:42.000Z",
-      "summary": "채용 컨설팅 업체 챌린저, 그레이 앤 크리스마스(Challenger, Gray & Christmas)의 조사에 따르면, 기술 기업이 2026년 5월 미국에서 3만 8,242명의 감원을 발표했다. 2024년 8월 이후 월간 기준 최대 수치다. 올해 들어 미국 테크 업계 누적 감원은 12만 3,653명으로, 2025년 같은 기간보다 66% 급증했다. 기술 부문의 감원 규모는 그다음으로 큰...",
-      "tab": "ai"
-    },
-    {
-      "id": "f43a198eab7fc403",
-      "title": "앤트로픽 “AI가 AI를 만드는 시대, 지금 속도를 늦춰야 한다”",
-      "url": "https://www.itworld.co.kr/article/4182065/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai%ea%b0%80-ai%eb%a5%bc-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%a7%80%ea%b8%88-%ec%86%8d%eb%8f%84%eb%a5%bc-%eb%8a%a6%ec%b6%b0%ec%95%bc-%ed%95%9c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-08T00:58:40.000Z",
-      "summary": "AI 개발 속도가 빨라지고 AI가 스스로를 구축할 수 있다는 가능성이 부상하면서, 기업에서는 다시금 정렬 문제가 화두로 떠오르고 있다. AI가 인류의 이익이 아닌 AI 자신의 이익을 위해 작동하는 사태를 막는 것이 핵심 과제다. 앤트로픽 수석 연구원들은 “AI가 스스로를 구축할 때(When AI builds itself)”라는 제목의 신규 블로그 게시물에서, AI가 인간의 효과적인 감독...",
-      "tab": "ai"
-    },
-    {
-      "id": "c88c2a1f52a60acf",
-      "title": "에이전트형 AI의 진짜 가격표",
-      "url": "https://www.itworld.co.kr/article/4182050/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ed%98%95-ai%ec%9d%98-%ec%a7%84%ec%a7%9c-%ea%b0%80%ea%b2%a9%ed%91%9c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-08T00:45:36.000Z",
-      "summary": "에이전트형 AI가 컨퍼런스 화제에서 실제 예산 항목으로 자리를 옮겼다. 논의가 더 흥미롭고 불편해지는 지점이 바로 여기다. 단일 프롬프트에 응답하거나, 문서를 분류하거나, 행동을 권장하거나, 요약문을 생성하는 전통적인 AI 시스템과 달리, 에이전트형 AI 시스템은 목표를 추구하도록 설계됐다. 계획을 수립하고, 툴을 호출하며, 결과를 점검하고, 실패한 단계를 재시도하며, 메모리를 참조하고...",
       "tab": "ai"
     }
   ]
