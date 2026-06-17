@@ -3,32 +3,32 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-06-17T04:11:13.660Z",
+  "lastUpdatedAt": "2026-06-17T10:57:17.463Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
     "title": "Unity Latest Release",
     "familyLabel": "Unity 6.3",
-    "version": "6000.3.17f1",
-    "releasedAt": "2026-06-04T00:00:00.000Z",
-    "releaseNotesUrl": "https://unity.com/releases/editor/whats-new/6000.3.17f1",
+    "version": "6000.3.18f1",
+    "releasedAt": "2026-06-17T00:00:00.000Z",
+    "releaseNotesUrl": "https://unity.com/releases/editor/whats-new/6000.3.18f1",
     "linkLabel": "릴리스 노트"
   },
   "videoCount": 2,
   "videos": [
+    {
+      "id": "DqhnN8Yym6c",
+      "title": "AI 시대 개발자의 필수 덕목, SOLID 디자인패턴 실전 Part.4 - 알쓸유잡 2026.06",
+      "url": "https://www.youtube.com/watch?v=DqhnN8Yym6c",
+      "publishedAt": "2026-06-15T04:46:19.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/DqhnN8Yym6c/hqdefault.jpg"
+    },
     {
       "id": "TGLKqAF-cK8",
       "title": "AI가 코드를 짜는 시대… 개발자는 끝일까? SOLID와 디자인패턴 실전 Part.3",
       "url": "https://www.youtube.com/watch?v=TGLKqAF-cK8",
       "publishedAt": "2026-06-16T05:45:33.000Z",
       "thumbnailUrl": "https://i1.ytimg.com/vi/TGLKqAF-cK8/hqdefault.jpg"
-    },
-    {
-      "id": "aSSUDKcrxZw",
-      "title": "Unite Seoul 역대급 세션 리스트 - 아직 등록 안하셨나요? 👀",
-      "url": "https://www.youtube.com/shorts/aSSUDKcrxZw",
-      "publishedAt": "2026-06-16T02:53:24.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/aSSUDKcrxZw/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -40,13 +40,13 @@
       "key": "release",
       "source": "Unity Releases",
       "ok": true,
-      "version": "6000.3.17f1"
+      "version": "6000.3.18f1"
     },
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
