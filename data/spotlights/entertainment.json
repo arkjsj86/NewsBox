@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-21T09:50:49.502Z",
+  "lastUpdatedAt": "2026-06-21T14:11:48.256Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "e5add99ada3e8ca8",
-      "issueKey": "수익률",
-      "issueTitle": "수익률",
-      "trendTitle": "수익률",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "빽가, \"8만 전자일 때 삼전 100주 매수\"... 1년만에 수익률 6~700% 대박 ('동치미')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621001400945",
-          "publishedAt": "2026-06-21T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'창업만 8번' 코요태 빽가 \"과거 선인장 가게로 떼돈 벌었다\" ('동치미') [순간포착]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/06/20/HBRWIZBYGRQWMMRZMJQTIMLDGM/",
-          "publishedAt": "2026-06-21T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "빽가, 삼성전자 투자 “지금 너무 좋다”…수익률 계산해보니 ‘374%’",
-          "source": "서울신문",
-          "url": "https://m.seoul.co.kr/news/2026/06/21/20260621500078",
-          "publishedAt": "2026-06-21T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "빽가, \"8만 전자일 때 삼전 100주 매수\"... 1년만에 수익률 6~700% 대박 ('동치미')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621001400945",
-        "publishedAt": "2026-06-21T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T08:40:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "수익률",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260621001400945",
-      "rank": 1
-    },
-    {
-      "id": "8cd1b52ffe9306e7",
-      "issueKey": "쯔양",
-      "issueTitle": "쯔양",
-      "trendTitle": "쯔양",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "쯔양 협박해 돈 갈취한 변호사…법원 \"총 7천만원 배상하라\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260621032700004",
-          "publishedAt": "2026-06-21T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "쯔양 협박해 돈 뜯은 변호사…법원 \"7310만원 배상해야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621175600086",
-          "publishedAt": "2026-06-21T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유튜버 쯔양 협박해 돈 갈취한 변호사…법원 “7천만 원 배상하라”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8591103",
-          "publishedAt": "2026-06-21T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "쯔양 협박해 돈 갈취한 변호사…법원 \"총 7천만원 배상하라\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260621032700004",
-        "publishedAt": "2026-06-21T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T08:40:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "쯔양",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260621032700004",
-      "rank": 2
-    },
-    {
-      "id": "c7d5fdca1a0b7bb8",
-      "issueKey": "장기 기증",
-      "issueTitle": "장기 기증",
-      "trendTitle": "장기 기증",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "술집에서 회사원 때려 죽인 20대 징역 6년…피해자, 7명에 장기기증하고 떠나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620151001888",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "술집서 폭행당한 청년 '뇌사' 판정…7명에 장기기증 뒤 떠나",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026062015250778173",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "술집 시비 주먹질의 비극…30대 회사원은 7명 살리고 떠났다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260619010103254",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "장기 기증",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620151001888",
-        "publishedAt": "2026-06-21T08:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T08:20:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "장기 기증",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260620151001888",
-      "rank": 3
-    },
-    {
-      "id": "d15d382530615645",
-      "issueKey": "로건",
-      "issueTitle": "로건",
-      "trendTitle": "로건",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'홈런-2루타-볼넷-단타-볼넷-단타' 이런 적 없었는데…'1.78→3.26' KIA 마무리, 처음 마주한 시련",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621091816368",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "필승조 완전체 된 날, 성영탁이 처음 무너졌다…더 주목받을 KIA의 초강력 불펜 활용법",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202606211029003",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[AI상보] '9회말 6점' KT, KIA에 10-9 대역전승...힐리어드 끝내기 포함 3안타",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260620000102",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "로건",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621091816368",
-        "publishedAt": "2026-06-21T08:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T08:20:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "로건",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260621091816368",
-      "rank": 4
-    },
-    {
-      "id": "6acebaa257d7dd60",
-      "issueKey": "인천 서구",
-      "issueTitle": "인천 서구",
-      "trendTitle": "인천 서구",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "인천 서구, 관내 4개 골프장 농약 잔류량 검사 결과 ‘양호’",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=776441",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "인천 서구, 골프장 농약 안전성 확인…잔류농약 검사 모두 기준 충족",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=706727",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "인천 서구, 관내 골프장 농약 잔류량 검사 ‘안전’… 전 시설 기준 준수",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=342912",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "인천 서구, 관내 4개 골프장 농약 잔류량 검사 결과 ‘양호’",
-        "source": "일간투데이",
-        "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=776441",
-        "publishedAt": "2026-06-21T08:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T08:20:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "인천 서구",
-      "source": "일간투데이",
-      "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=776441",
-      "rank": 5
-    },
-    {
-      "id": "364b42e2a181797d",
-      "issueKey": "ban vs aus",
-      "issueTitle": "ban vs aus",
-      "trendTitle": "ban vs aus",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Australia beats Bangladesh by 7 runs in high-scoring 2nd T20 to win series",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/australia-beats-bangladesh-7-runs-132349537.html",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Ball by Ball Commentary & Live Score - BAN vs AUS, 2nd T20I",
-          "source": "ESPNcricinfo",
-          "url": "https://www.espncricinfo.com/series/australia-in-bangladesh-2026-1532475/bangladesh-vs-australia-2nd-t20i-1532484/ball-by-ball-commentary",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Connolly leads Australia to four-wicket win over Bangladesh in T20 opener",
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260617-connolly-leads-australia-to-four-wicket-win-over-bangladesh-in-t20-opener",
-          "publishedAt": "2026-06-21T08:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Ball by Ball Commentary & Live Score - BAN vs AUS, 2nd T20I",
-        "source": "ESPNcricinfo",
-        "url": "https://www.espncricinfo.com/series/australia-in-bangladesh-2026-1532475/bangladesh-vs-australia-2nd-t20i-1532484/ball-by-ball-commentary",
-        "publishedAt": "2026-06-21T08:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-21T08:20:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "ban vs aus",
-      "source": "ESPNcricinfo",
-      "url": "https://www.espncricinfo.com/series/australia-in-bangladesh-2026-1532475/bangladesh-vs-australia-2nd-t20i-1532484/ball-by-ball-commentary",
-      "rank": 6
-    },
-    {
-      "id": "30a742b96ca549e0",
-      "issueKey": "조선",
-      "issueTitle": "조선",
-      "trendTitle": "심혜진",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'심혜진家' 유전자 대박..'친조카' 심재원 이국적 비주얼 충격 ('조선의 사랑꾼')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621094719771",
-          "publishedAt": "2026-06-21T07:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[채널예약] ‘결정사 6등급’ 판정받은 양상국, 1등급 외모 등장에 울컥?! (조선의 사랑꾼)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202606211754003",
-          "publishedAt": "2026-06-21T07:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘심혜진 조카’ 심재원, 이 미모 실화?…양상국 “내일 결혼 가능” (조선의 사랑꾼)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260621/134149779/1",
-          "publishedAt": "2026-06-21T07:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'심혜진家' 유전자 대박..'친조카' 심재원 이국적 비주얼 충격 ('조선의 사랑꾼')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621094719771",
-        "publishedAt": "2026-06-21T07:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T07:30:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "조선",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260621094719771",
-      "rank": 7
-    },
-    {
-      "id": "398dfa639dfd0db8",
-      "issueKey": "우리",
-      "issueTitle": "우리",
-      "trendTitle": "우리",
+      "id": "5c3562dad9fdb66a",
+      "issueKey": "이주명",
+      "issueTitle": "이주명",
+      "trendTitle": "강회장",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "조국, “우리가 숫자 채우기용이냐”...민주당에 평택을 공천 10대 질문 던져",
+          "title": "'신입사원 강회장' 이주명·진구, 구치소 독대…비밀 대화 내용은",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260621104540832",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
+          "url": "https://v.daum.net/v/20260621142850188",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“단일화 왜 거부했나”…與에 평택을 패배 책임 돌린 조국",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20058285",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
+          "title": "진구 경찰 체포…전혜진 계략이었다 ‘충격’ (신입사원 강회장)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260621/134151702/1",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "조국 “우리가 표결 숫자 채우기용인가”…민주당에 10가지 질문",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11597037",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
+          "title": "드라마 '신입사원 강회장' 돌풍…동명 웹툰 조회수 43배↑",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260621n11952?mid=n0105",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "조국, “우리가 숫자 채우기용이냐”...민주당에 평택을 공천 10대 질문 던져",
+        "title": "'신입사원 강회장' 이주명·진구, 구치소 독대…비밀 대화 내용은",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260621104540832",
-        "publishedAt": "2026-06-21T07:20:00.000Z",
+        "url": "https://v.daum.net/v/20260621142850188",
+        "publishedAt": "2026-06-21T13:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-21T07:20:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "우리",
+      "publishedAt": "2026-06-21T13:00:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "이주명",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260621104540832",
-      "rank": 8
+      "url": "https://v.daum.net/v/20260621142850188",
+      "rank": 1
     },
     {
-      "id": "55ee2cabf61db425",
-      "issueKey": "위증",
-      "issueTitle": "위증",
-      "trendTitle": "위증",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "민주당, '연어 술파티' 위증 판결에 \"실질은 무죄‥특검해야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6831726_36911.html",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "법무부·檢 뒤집은 국민참여재판 “연어술파티 없었다”…‘조작기소’ 특검은?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621172304297",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "與 \"이화영 위증, 항소심서 무죄날 것…특검 계속 추진\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/06/21/6QVBEJ5MCNG2VKM7XQWRJVN7AE/",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "민주당, '연어 술파티' 위증 판결에 \"실질은 무죄‥특검해야\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6831726_36911.html",
-        "publishedAt": "2026-06-21T07:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T07:20:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "위증",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6831726_36911.html",
-      "rank": 9
-    },
-    {
-      "id": "68d9492c3ce466f1",
-      "issueKey": "히우라",
-      "issueTitle": "히우라",
-      "trendTitle": "히우라",
+      "id": "0349802933dce341",
+      "issueKey": "심수봉",
+      "issueTitle": "심수봉",
+      "trendTitle": "심수봉",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[사진]히우라 '추격의 2타점 적시타'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/06/21/GBTDAMZYHE4DMYZYME3TEOJSMU/",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
+          "title": "'올해 70세' 심수봉 \"소리 못 듣는 희귀병 앓고 있어\" 심경 토로",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026061808160004554",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[ST포토] 히우라, '롯데 흔드는 집중력'",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260621n10955?mid=s01&amp;list=recent&amp;cpcd=",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
+          "title": "심수봉, 5살 딸과 생이별… \"핑클 덕분에 연락 닿아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621110522274?f=m",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[포토]'설종진 감독 축하받는' 키움 4번타자 히우라",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/06/20/2026062019104248840",
-          "publishedAt": "2026-06-21T07:20:00.000Z",
+          "title": "‘1026 사태 후유증’ 심수봉 “기타를 쳐다보기도 싫었다” (김주하의 데이앤나잇)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606211950003",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[사진]히우라 '추격의 2타점 적시타'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/06/21/GBTDAMZYHE4DMYZYME3TEOJSMU/",
-        "publishedAt": "2026-06-21T07:20:00.000Z",
+        "title": "'올해 70세' 심수봉 \"소리 못 듣는 희귀병 앓고 있어\" 심경 토로",
+        "source": "한국일보",
+        "url": "https://www.hankookilbo.com/news/article/A2026061808160004554",
+        "publishedAt": "2026-06-21T13:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-21T07:20:00.000Z",
-      "firstSeenAt": "2026-06-21T09:50:49.502Z",
-      "lastSeenAt": "2026-06-21T09:50:49.502Z",
-      "title": "히우라",
+      "publishedAt": "2026-06-21T13:00:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "심수봉",
+      "source": "한국일보",
+      "url": "https://www.hankookilbo.com/news/article/A2026061808160004554",
+      "rank": 2
+    },
+    {
+      "id": "a3faa7e8f6f6b9c1",
+      "issueKey": "구광모",
+      "issueTitle": "구광모",
+      "trendTitle": "현신균",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "구광모·젠슨 황 회동 2주 만에…LG, 엔비디아와 피지컬 AI 사업화 속도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621204402381",
+          "publishedAt": "2026-06-21T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "LG, 엔비디아와 차세대 AI 협력 논의 박차…그룹 경영진 방미",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260621043200003",
+          "publishedAt": "2026-06-21T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "엔비디아 본사 가는 현신균, RX 속도전",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12079365",
+          "publishedAt": "2026-06-21T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "구광모·젠슨 황 회동 2주 만에…LG, 엔비디아와 피지컬 AI 사업화 속도",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621204402381",
+        "publishedAt": "2026-06-21T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T12:40:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "구광모",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621204402381",
+      "rank": 3
+    },
+    {
+      "id": "426dd69d536bc432",
+      "issueKey": "고물",
+      "issueTitle": "고물",
+      "trendTitle": "고물",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "올 1학기 108만명에 국가장학금 2.2조 지원…전년보다 931억 늘어",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260619000661",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고물가 시대 '단비'…올 1학기 국가장학금 108만 명에 2조 2000억 풀렸다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260619n20352",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한국장학재단, 2학기 학자금대출 사전신청 접수",
+          "source": "경북신문",
+          "url": "https://www.kbsm.net/news/view.php?idx=522981",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고물가 시대 '단비'…올 1학기 국가장학금 108만 명에 2조 2000억 풀렸다",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260619n20352",
+        "publishedAt": "2026-06-21T12:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-21T12:30:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "고물",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260619n20352",
+      "rank": 4
+    },
+    {
+      "id": "765d05013807b9cc",
+      "issueKey": "금시세",
+      "issueTitle": "금시세",
+      "trendTitle": "금시세",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“금값 바닥, 사려면 지금 사라” 단, 전문가 알려준 반등 조건",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25438095",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "금반지 지금이라도 팔아야 할까?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BezmSnDg1V",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“언제쯤 100만원 회복할까”…금리 인상 신호에 지지부진 금값",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12077918",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "금시세",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25438095",
+        "publishedAt": "2026-06-21T12:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T12:30:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "금시세",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25438095",
+      "rank": 5
+    },
+    {
+      "id": "547bf91b219068a7",
+      "issueKey": "젤렌스키",
+      "issueTitle": "젤렌스키",
+      "trendTitle": "젤렌스키",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "폴란드 최고훈장 반납한 젤렌스키…전쟁 와중 불붙은 우크라 역사갈등",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621160106679",
+          "publishedAt": "2026-06-21T12:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "젤렌스키, '민간인 학살' 과거사 논쟁에 폴란드 최고훈장 반납",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260621025300009",
+          "publishedAt": "2026-06-21T12:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "폴란드 대통령, 젤렌스키에 수여한 폴란드 최고명예훈장 박탈 밝혀",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260620/134148527/1",
+          "publishedAt": "2026-06-21T12:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "폴란드 최고훈장 반납한 젤렌스키…전쟁 와중 불붙은 우크라 역사갈등",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621160106679",
+        "publishedAt": "2026-06-21T12:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T12:20:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "젤렌스키",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621160106679",
+      "rank": 6
+    },
+    {
+      "id": "9179b103e1e69256",
+      "issueKey": "남궁민",
+      "issueTitle": "남궁민",
+      "trendTitle": "남궁민",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "남궁민, 하루 6끼 먹고 만든 등판…17kg 증량 사진에 \"가오리 같다, 엄청 커\" 반응 이어져 (냉부)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621212904037",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"할리우드 영화처럼\"…남궁민, 진아름 향한 프러포즈 비화 공개 ('냉부해')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260621054302931",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'냉부' 이문정, 남궁민 소맥 안주 요리…박은영 신혼여행",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260621n14988?mid=e02&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "남궁민, 하루 6끼 먹고 만든 등판…17kg 증량 사진에 \"가오리 같다, 엄청 커\" 반응 이어져 (냉부)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621212904037",
+        "publishedAt": "2026-06-21T12:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T12:00:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "남궁민",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621212904037",
+      "rank": 7
+    },
+    {
+      "id": "e5ea81c046684be4",
+      "issueKey": "김창완",
+      "issueTitle": "김창완",
+      "trendTitle": "김창완",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[42회 선공개] 제가 지금 장인어른 딸과 호텔에 있습니다! 움하하하하하~ [사랑을 처방해 드립니다]",
+          "source": "대한민국 대표 공영미디어 KBS",
+          "url": "https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_LS-20260618192000-01-000_20260618_TECH002&amp;program_code=T2025-0419&amp;program_id=LS-20260618192000-01-000&amp;section_code=03&amp;broadcast_complete_yn=N&amp;section_id=26875",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[종합] '사랑을 처방해 드립니다' 김창완, 30년 만에 깨어난 기억 \"뭐에 맞은 것 같다\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260621n15605",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "헤어진 진세연·박기웅, 뜻밖의 동침…\"약속 다 못 지키고 헤어져\" ('사랑 처방') [종합]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621212118882",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[종합] '사랑을 처방해 드립니다' 김창완, 30년 만에 깨어난 기억 \"뭐에 맞은 것 같다\"",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260621n15605",
+        "publishedAt": "2026-06-21T12:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-21T12:00:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "김창완",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260621n15605",
+      "rank": 8
+    },
+    {
+      "id": "cc0ffde3e0555b1e",
+      "issueKey": "내일 날씨",
+      "issueTitle": "내일 날씨",
+      "trendTitle": "내일 날씨",
+      "approxTraffic": "200000+",
+      "trafficScore": 200000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "월요일 전국 곳곳 소나기... 수도권은 우박 조심하세요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/06/21/JNCXQJHPMJHBNJ2VK4G7CINJZU/",
+          "publishedAt": "2026-06-21T11:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "오늘의 날씨- 2026년 6월 22일",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20260622.22019006200",
+          "publishedAt": "2026-06-21T11:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[날씨] 절기 '하지' 초여름 더위…내일 내륙 요란한 소나기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260621009700038",
+          "publishedAt": "2026-06-21T11:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "내일 날씨",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/transport-environment/2026/06/21/JNCXQJHPMJHBNJ2VK4G7CINJZU/",
+        "publishedAt": "2026-06-21T11:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T11:50:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "내일 날씨",
       "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/06/21/GBTDAMZYHE4DMYZYME3TEOJSMU/",
-      "rank": 10
+      "url": "https://www.chosun.com/national/transport-environment/2026/06/21/JNCXQJHPMJHBNJ2VK4G7CINJZU/",
+      "rank": 9
     }
   ],
   "history": [
@@ -492,8 +445,15 @@
       "approxTraffic": "500000+",
       "trafficScore": 500000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 6,
       "relatedArticles": [
+        {
+          "title": "월요일 전국 곳곳 소나기... 수도권은 우박 조심하세요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/transport-environment/2026/06/21/JNCXQJHPMJHBNJ2VK4G7CINJZU/",
+          "publishedAt": "2026-06-21T11:50:00.000Z",
+          "relevanceScore": 3
+        },
         {
           "title": "주말 전국 ‘최대 50mm 폭우’…장마 현재 상황은?",
           "source": "Daum",
@@ -502,11 +462,25 @@
           "relevanceScore": 3
         },
         {
+          "title": "오늘의 날씨- 2026년 6월 22일",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20260622.22019006200",
+          "publishedAt": "2026-06-21T11:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
           "title": "전국 장대비에 강풍까지…수도권도 최대 100㎜",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026061974747",
           "publishedAt": "2026-06-19T11:50:00.000Z",
           "relevanceScore": 2
+        },
+        {
+          "title": "[날씨] 절기 '하지' 초여름 더위…내일 내륙 요란한 소나기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260621009700038",
+          "publishedAt": "2026-06-21T11:50:00.000Z",
+          "relevanceScore": 1
         },
         {
           "title": "\"주말 계획에 물 좀 끼얹겠습니다\"…전국 최대 250㎜ 쏟아진다",
@@ -518,17 +492,17 @@
       ],
       "representativeArticle": {
         "title": "내일 날씨",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260619215153584",
-        "publishedAt": "2026-06-19T11:50:00.000Z",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/transport-environment/2026/06/21/JNCXQJHPMJHBNJ2VK4G7CINJZU/",
+        "publishedAt": "2026-06-21T11:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-19T11:50:00.000Z",
+      "publishedAt": "2026-06-21T11:50:00.000Z",
       "firstSeenAt": "2026-06-19T15:18:44.214Z",
-      "lastSeenAt": "2026-06-19T15:18:44.214Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
       "title": "내일 날씨",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260619215153584"
+      "source": "조선일보",
+      "url": "https://www.chosun.com/national/transport-environment/2026/06/21/JNCXQJHPMJHBNJ2VK4G7CINJZU/"
     },
     {
       "id": "1eb7da6d56d883ca",
@@ -828,52 +802,6 @@
       "url": "https://v.daum.net/v/20260619200551894"
     },
     {
-      "id": "0541dc6d99d14aba",
-      "issueKey": "깜짝 콜업",
-      "issueTitle": "깜짝 콜업",
-      "trendTitle": "깜짝 콜업",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이범호 다 큰 그림이 있었다… 모두가 놀란 KIA 15억 타자 깜짝 콜업, 강하게 적응해라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260618184616177",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "KIA 카스트로, 복귀 2경기 만에 홈런포 손맛…시즌 3호",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260619158700007",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'10홈런 알바생' 떠나자 차갑게 식은 타선… 54일 만에 돌아온 카스트로, 구세주 될까",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202606181759542247",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이범호 다 큰 그림이 있었다… 모두가 놀란 KIA 15억 타자 깜짝 콜업, 강하게 적응해라",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260618184616177",
-        "publishedAt": "2026-06-19T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-19T08:40:00.000Z",
-      "firstSeenAt": "2026-06-19T10:26:40.717Z",
-      "lastSeenAt": "2026-06-19T10:26:40.717Z",
-      "title": "깜짝 콜업",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260618184616177"
-    },
-    {
       "id": "8b4af74dbc96d5c7",
       "issueKey": "범죄",
       "issueTitle": "범죄",
@@ -1010,98 +938,6 @@
       "title": "광주",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260620052805134"
-    },
-    {
-      "id": "265d173648f2c26e",
-      "issueKey": "삼성전",
-      "issueTitle": "삼성전",
-      "trendTitle": "삼성전",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"김성윤처럼 던져서 덕아웃 넘긴 건 처음\"…이택근도 놀란 치명적 악송구 [오!쎈 대전]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619185510840",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[AI프리뷰] 19일 대전 한화-삼성전, 연패 한화 박준영 선발등판 삼성 첫 상대",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260619000545",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[사진]실책으로 인한 선제 실점에 아쉬운 후라도 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/06/19/GFQTGMRXHE4TOMLBGNQWIMRWMY/",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[AI프리뷰] 19일 대전 한화-삼성전, 연패 한화 박준영 선발등판 삼성 첫 상대",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260619000545",
-        "publishedAt": "2026-06-19T08:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-19T08:40:00.000Z",
-      "firstSeenAt": "2026-06-19T10:26:40.717Z",
-      "lastSeenAt": "2026-06-19T10:26:40.717Z",
-      "title": "삼성전",
-      "source": "뉴스핌",
-      "url": "https://www.newspim.com/news/view/20260619000545"
-    },
-    {
-      "id": "42277ff6dc48e30c",
-      "issueKey": "폭우 쏟아진다",
-      "issueTitle": "폭우 쏟아진다",
-      "trendTitle": "폭우 쏟아진다",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "잠실야구장 폭우 쏟아진다! 방수포 설치 시작…19일 두산-LG전 우천 취소 될까→송찬의 리드오프 깜짝 출격 [잠실 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260619155917842",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]벤자민 '4승 도전' - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/06/19/G5RGIM3EGVSTCYRVMYZTIZTCGY/",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[AI프리뷰] 19일 잠실 LG-두산전, 두산 벤자민 'LG 킬러' 본능 다시 깨우나",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260619000542",
-          "publishedAt": "2026-06-19T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "잠실야구장 폭우 쏟아진다! 방수포 설치 시작…19일 두산-LG전 우천 취소 될까→송찬의 리드오프 깜짝 출격 [잠실 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260619155917842",
-        "publishedAt": "2026-06-19T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-19T08:40:00.000Z",
-      "firstSeenAt": "2026-06-19T10:26:40.717Z",
-      "lastSeenAt": "2026-06-19T10:26:40.717Z",
-      "title": "폭우 쏟아진다",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260619155917842"
     },
     {
       "id": "c7d5fdca1a0b7bb8",
@@ -1610,96 +1446,50 @@
       "url": "https://programs.sbs.co.kr/enter/realtalk/clip/88795/OC479952436"
     },
     {
-      "id": "52ec3d9fde73a46d",
-      "issueKey": "박지훈",
-      "issueTitle": "박지훈",
-      "trendTitle": "박지훈",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "5c3562dad9fdb66a",
+      "issueKey": "이주명",
+      "issueTitle": "이주명",
+      "trendTitle": "강회장",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"조작하지 마세요\" 박지훈·전소영 열애설에 '취사병' 감독 등판",
+          "title": "'신입사원 강회장' 이주명·진구, 구치소 독대…비밀 대화 내용은",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260618164153326",
-          "publishedAt": "2026-06-19T09:00:00.000Z",
+          "url": "https://v.daum.net/v/20260621142850188",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'취사병' 박지훈·전소영 열애설에… 감독 \"DM 조작\" 해명",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026061815420002186",
-          "publishedAt": "2026-06-19T09:00:00.000Z",
+          "title": "진구 경찰 체포…전혜진 계략이었다 ‘충격’ (신입사원 강회장)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260621/134151702/1",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "박지훈·전소영-이상이·한동희, SNS발 더블 열애설에…‘취사병’ 감독 “조작 마”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260619/134140979/1",
-          "publishedAt": "2026-06-19T09:00:00.000Z",
+          "title": "드라마 '신입사원 강회장' 돌풍…동명 웹툰 조회수 43배↑",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260621n11952?mid=n0105",
+          "publishedAt": "2026-06-21T13:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"조작하지 마세요\" 박지훈·전소영 열애설에 '취사병' 감독 등판",
+        "title": "'신입사원 강회장' 이주명·진구, 구치소 독대…비밀 대화 내용은",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260618164153326",
-        "publishedAt": "2026-06-19T09:00:00.000Z",
+        "url": "https://v.daum.net/v/20260621142850188",
+        "publishedAt": "2026-06-21T13:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-19T09:00:00.000Z",
-      "firstSeenAt": "2026-06-19T10:26:40.717Z",
-      "lastSeenAt": "2026-06-19T10:26:40.717Z",
-      "title": "박지훈",
+      "publishedAt": "2026-06-21T13:00:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "이주명",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260618164153326"
-    },
-    {
-      "id": "a2bcf9c8b193bf64",
-      "issueKey": "오재원",
-      "issueTitle": "오재원",
-      "trendTitle": "오재원",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[핌in창원] 주중 3연전서 필승조 부담 최소화한 NC...이호준 감독 \"위기올 때 잘 이겨내야\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260619000890",
-          "publishedAt": "2026-06-19T08:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"100승 진심으로 축하\" 박민우 이호준 감독 물세례…\"감독님 무서워서\" 구창모는 구경만",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260617145721819",
-          "publishedAt": "2026-06-19T08:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "11구 승부에 \"1번타자에게 원하는 바\" 사령탑 칭찬…오재원, 다시 리드오프 출격",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/06/17/GZSDQOJWMJRGCZJSMFTDQZBQGU/",
-          "publishedAt": "2026-06-19T08:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "11구 승부에 \"1번타자에게 원하는 바\" 사령탑 칭찬…오재원, 다시 리드오프 출격",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/06/17/GZSDQOJWMJRGCZJSMFTDQZBQGU/",
-        "publishedAt": "2026-06-19T08:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-06-19T08:50:00.000Z",
-      "firstSeenAt": "2026-06-19T10:26:40.717Z",
-      "lastSeenAt": "2026-06-19T10:26:40.717Z",
-      "title": "오재원",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/baseball/2026/06/17/GZSDQOJWMJRGCZJSMFTDQZBQGU/"
+      "url": "https://v.daum.net/v/20260621142850188"
     },
     {
       "id": "398dfa639dfd0db8",
@@ -2344,6 +2134,190 @@
       "title": "단발",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260618183200768"
+    },
+    {
+      "id": "426dd69d536bc432",
+      "issueKey": "고물",
+      "issueTitle": "고물",
+      "trendTitle": "고물",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "올 1학기 108만명에 국가장학금 2.2조 지원…전년보다 931억 늘어",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260619000661",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고물가 시대 '단비'…올 1학기 국가장학금 108만 명에 2조 2000억 풀렸다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260619n20352",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한국장학재단, 2학기 학자금대출 사전신청 접수",
+          "source": "경북신문",
+          "url": "https://www.kbsm.net/news/view.php?idx=522981",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고물가 시대 '단비'…올 1학기 국가장학금 108만 명에 2조 2000억 풀렸다",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260619n20352",
+        "publishedAt": "2026-06-21T12:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-21T12:30:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "고물",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260619n20352"
+    },
+    {
+      "id": "765d05013807b9cc",
+      "issueKey": "금시세",
+      "issueTitle": "금시세",
+      "trendTitle": "금시세",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“금값 바닥, 사려면 지금 사라” 단, 전문가 알려준 반등 조건",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25438095",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "금반지 지금이라도 팔아야 할까?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BezmSnDg1V",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“언제쯤 100만원 회복할까”…금리 인상 신호에 지지부진 금값",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12077918",
+          "publishedAt": "2026-06-21T12:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "금시세",
+        "source": "중앙일보",
+        "url": "https://www.joongang.co.kr/article/25438095",
+        "publishedAt": "2026-06-21T12:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T12:30:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "금시세",
+      "source": "중앙일보",
+      "url": "https://www.joongang.co.kr/article/25438095"
+    },
+    {
+      "id": "547bf91b219068a7",
+      "issueKey": "젤렌스키",
+      "issueTitle": "젤렌스키",
+      "trendTitle": "젤렌스키",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "폴란드 최고훈장 반납한 젤렌스키…전쟁 와중 불붙은 우크라 역사갈등",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621160106679",
+          "publishedAt": "2026-06-21T12:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "젤렌스키, '민간인 학살' 과거사 논쟁에 폴란드 최고훈장 반납",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260621025300009",
+          "publishedAt": "2026-06-21T12:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "폴란드 대통령, 젤렌스키에 수여한 폴란드 최고명예훈장 박탈 밝혀",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260620/134148527/1",
+          "publishedAt": "2026-06-21T12:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "폴란드 최고훈장 반납한 젤렌스키…전쟁 와중 불붙은 우크라 역사갈등",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621160106679",
+        "publishedAt": "2026-06-21T12:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T12:20:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "젤렌스키",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621160106679"
+    },
+    {
+      "id": "9179b103e1e69256",
+      "issueKey": "남궁민",
+      "issueTitle": "남궁민",
+      "trendTitle": "남궁민",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "남궁민, 하루 6끼 먹고 만든 등판…17kg 증량 사진에 \"가오리 같다, 엄청 커\" 반응 이어져 (냉부)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621212904037",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"할리우드 영화처럼\"…남궁민, 진아름 향한 프러포즈 비화 공개 ('냉부해')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260621054302931",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'냉부' 이문정, 남궁민 소맥 안주 요리…박은영 신혼여행",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260621n14988?mid=e02&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-06-21T12:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "남궁민, 하루 6끼 먹고 만든 등판…17kg 증량 사진에 \"가오리 같다, 엄청 커\" 반응 이어져 (냉부)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621212904037",
+        "publishedAt": "2026-06-21T12:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T12:00:00.000Z",
+      "firstSeenAt": "2026-06-21T14:11:48.256Z",
+      "lastSeenAt": "2026-06-21T14:11:48.256Z",
+      "title": "남궁민",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621212904037"
     }
   ]
 }
