@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-21T14:11:48.256Z",
+  "lastUpdatedAt": "2026-06-21T16:45:34.836Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -33,7 +33,7 @@
         {
           "title": "[NDC] 과거 IP를 되살리는 과정, '넥슨 리플레이'가 지향하는 가치는?",
           "url": "https://bbs.ruliweb.com/news/read/225951",
-          "meta": "댓글 48"
+          "meta": "댓글 51"
         },
         {
           "title": "‘명조’ 팝업부터 애니·게임 굿즈까지… 용산 전자랜드 ‘G:ET PLAY’ 현장",
@@ -41,14 +41,14 @@
           "meta": "댓글 5"
         },
         {
-          "title": "[NDC] 스킵 버튼이 있어도 누르지 않게하기, '마비노기 모바일' 강연",
-          "url": "https://bbs.ruliweb.com/news/read/225900",
-          "meta": "댓글 72"
-        },
-        {
           "title": "재고 부족 ‘스팀 컨트롤러’, 지금 주문하면 2027년",
           "url": "https://bbs.ruliweb.com/news/read/226038",
-          "meta": "댓글 38"
+          "meta": "댓글 44"
+        },
+        {
+          "title": "[NDC] 스킵 버튼이 있어도 누르지 않게하기, '마비노기 모바일' 강연",
+          "url": "https://bbs.ruliweb.com/news/read/225900",
+          "meta": "댓글 75"
         }
       ]
     },
@@ -58,28 +58,28 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "\"대역전극, 성 먹자!\" 리니지 클래식, 대망의 첫 공성전 이슈 TOP 5",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317655",
+          "meta": "리니지 클래식 · 2시간 전"
+        },
+        {
+          "title": "나인 매입 경쟁 발발! 스트리머 서버별 현황과 나인 소모 순위",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317652",
+          "meta": "솔: 인챈트 · 5시간 전"
+        },
+        {
+          "title": "거래소 시세 살펴보기, 서버별 나인 코어 거래 가격은?",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317650",
+          "meta": "솔: 인챈트 · 6시간 전"
+        },
+        {
           "title": "어떤 장비를 고를까? 30, 35레벨 희귀 상자 선택 가이드",
           "url": "https://www.inven.co.kr/webzine/news/?news=317651",
-          "meta": "솔: 인챈트 · 53분 전"
+          "meta": "솔: 인챈트 · 8시간 전"
         },
         {
           "title": "희귀 무기까지 무과금으로 가능! 30레벨까지 효율 육성 가이드",
           "url": "https://www.inven.co.kr/webzine/news/?news=317644",
-          "meta": "솔: 인챈트 · 21시간 전"
-        },
-        {
-          "title": "안정 강화 흰템으로도 가능! 솔 인챈트 초반 추천 수집 컬렉션 모음",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317646",
-          "meta": "솔: 인챈트 · 23시간 전"
-        },
-        {
-          "title": "효율적인 나인 소모와 구호의 서 사용법! 3일차 꿀팁 모음",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317645",
-          "meta": "솔: 인챈트 · 2026-06-20"
-        },
-        {
-          "title": "진행 막혔나요? 28~35레벨 필독! 추천 닥사, 잠수 사냥터 5종",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317642",
           "meta": "솔: 인챈트 · 2026-06-20"
         }
       ]
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
