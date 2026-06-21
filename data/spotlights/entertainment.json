@@ -7,86 +7,415 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-21T16:45:34.836Z",
+  "lastUpdatedAt": "2026-06-21T19:41:50.285Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "dc26cdc951e65a89",
-      "issueKey": "스페인 사우디",
-      "issueTitle": "스페인 사우디",
-      "trendTitle": "스페인 사우디",
+      "id": "7828e86d4b195798",
+      "issueKey": "베트남",
+      "issueTitle": "베트남",
+      "trendTitle": "베트남",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "베트남서 들여온 마약 20㎏ 야산에 묻어두고 나눠서 유통",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ",
+          "publishedAt": "2026-06-21T18:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "베트남서 마약 20㎏ 밀반입…야산에 묻어두고 판매한 일당 검거",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260621/134151313/1",
+          "publishedAt": "2026-06-21T18:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "야산서 찾은 실마리, 마약 조직 '검은 돈줄' 끊다",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1325579",
+          "publishedAt": "2026-06-21T18:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "베트남서 들여온 마약 20㎏ 야산에 묻어두고 나눠서 유통",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ",
+        "publishedAt": "2026-06-21T18:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T18:10:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "베트남",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ",
+      "rank": 1
+    },
+    {
+      "id": "958004721f5a6f25",
+      "issueKey": "안영미",
+      "issueTitle": "안영미",
+      "trendTitle": "안영미",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "안영미, 둘째 아들도 美서 출산?..\"순산하고 올게요\" [스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621193017601",
+          "publishedAt": "2026-06-21T17:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "안영미 “둘째 낳고 올게요”…만삭 D라인에 환한 미소 [SD셀픽]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260621/134153774/1",
+          "publishedAt": "2026-06-21T17:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"순산하고 돌아오겠다\"…안영미, 출산 휴가 간다",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/21/2026062120580684662",
+          "publishedAt": "2026-06-21T17:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "안영미, 둘째 아들도 美서 출산?..\"순산하고 올게요\" [스타이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621193017601",
+        "publishedAt": "2026-06-21T17:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T17:40:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "안영미",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621193017601",
+      "rank": 2
+    },
+    {
+      "id": "7d12ec251d5c7384",
+      "issueKey": "전자 담배",
+      "issueTitle": "전자 담배",
+      "trendTitle": "전자 담배",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"전자담배 연기 해롭다\" 비흡연자 93점vs흡연자 72점 격차 뚜렷",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621060604319",
+          "publishedAt": "2026-06-21T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“연초 끊고 전자담배로 갈아타면 폐암 사망 위험 2배”",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260620504426",
+          "publishedAt": "2026-06-21T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"전자담배 연기 해롭다\" 비흡연자 93점·흡연자 72점…격차 뚜렷",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008619874",
+          "publishedAt": "2026-06-21T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "전자 담배",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621060604319",
+        "publishedAt": "2026-06-21T17:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T17:20:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "전자 담배",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621060604319",
+      "rank": 3
+    },
+    {
+      "id": "3dde10c0e012e03f",
+      "issueKey": "중국인",
+      "issueTitle": "중국인",
+      "trendTitle": "중국인",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "라민 야말, 사우디전 출격 준비 완료…\"풀타임은 아직\"",
+          "title": "호텔 통째로 빌린 중국인들…뭐하나 봤더니 '경악'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026062190307",
+          "publishedAt": "2026-06-21T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "호찌민시 경찰은 이 지역에서 외국인과 관련된 법규 위반 행위를 단속하고 처리하기 위한 노력을 강화하고 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cong-an-tp-ho-chi-minh-tang-cuong-dau-tranh-xu-ly-vi-pham-phap-luat-lien-quan-nguoi-nuoc-ngoai-tren-dia-ban",
+          "publishedAt": "2026-06-21T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "스리랑카로 밀려드는 국제 스캠 조직 \"골든타임 얼마 남지 않았다\"",
+          "source": "kor.theasian.asia",
+          "url": "https://kor.theasian.asia/archives/407721",
+          "publishedAt": "2026-06-21T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "호텔 통째로 빌린 중국인들…뭐하나 봤더니 '경악'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026062190307",
+        "publishedAt": "2026-06-21T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T17:00:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "중국인",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026062190307",
+      "rank": 4
+    },
+    {
+      "id": "2861c4a8729aaf36",
+      "issueKey": "베리발",
+      "issueTitle": "베리발",
+      "trendTitle": "베리발",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "충격! “흥민이형 없어서 이상해요” 고백했던 베리발, 토트넘에 이적 요청…“새로운 출발 원해”",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=688959",
+          "publishedAt": "2026-06-21T16:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'월드컵이 축제긴 하네!' SON바라기 베리발, 여친과 뜨거운 키스→시선 집중",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/06/19/2026061823095552185",
+          "publishedAt": "2026-06-21T16:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'월드컵이 축제긴 하네!' SON바라기 베리발, 여친과 뜨거운 키스→시선 집중",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260619n00133",
+          "publishedAt": "2026-06-21T16:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "충격! “흥민이형 없어서 이상해요” 고백했던 베리발, 토트넘에 이적 요청…“새로운 출발 원해”",
+        "source": "인터풋볼",
+        "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=688959",
+        "publishedAt": "2026-06-21T16:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T16:40:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "베리발",
+      "source": "인터풋볼",
+      "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=688959",
+      "rank": 5
+    },
+    {
+      "id": "7e20f5e0540ac281",
+      "issueKey": "동궁",
+      "issueTitle": "동궁",
+      "trendTitle": "동궁",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "넷플릭스 칼 갈았다…'시청률 23.7%' 주역 3년 만 복귀→초호화 연출진에 기대감 치솟은 韓 드라마 ('동궁')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260620110901209",
+          "url": "https://v.daum.net/v/20260621143216285",
+          "publishedAt": "2026-06-21T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "귀신 잡는 남자, 넷플릭스 '동궁' TMI 4",
+          "source": "에스콰이어 코리아",
+          "url": "https://www.esquirekorea.co.kr/article/1904725",
+          "publishedAt": "2026-06-21T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "데뷔작부터 '시청률 14.6%'…찍는 작품마다 화제성 美쳤다는 여배우 넷플릭스 차기작 ('동궁')",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260621n04347",
+          "publishedAt": "2026-06-21T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "넷플릭스 칼 갈았다…'시청률 23.7%' 주역 3년 만 복귀→초호화 연출진에 기대감 치솟은 韓 드라마 ('동궁')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621143216285",
+        "publishedAt": "2026-06-21T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T16:00:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "동궁",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621143216285",
+      "rank": 6
+    },
+    {
+      "id": "a8c93b78e5f25669",
+      "issueKey": "호텔",
+      "issueTitle": "호텔",
+      "trendTitle": "호텔",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "아모레家 차녀 서호정씨, 21일 결혼…신라호텔서 비공개 예식",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621141239736",
+          "publishedAt": "2026-06-21T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "서경배 아모레 회장 차녀 서호정씨 오늘 결혼",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260621035200030",
+          "publishedAt": "2026-06-21T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "서경배 아모레 회장 차녀 서호정, 오늘 신라호텔서 결혼식 올린다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20058181",
+          "publishedAt": "2026-06-21T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아모레家 차녀 서호정씨, 21일 결혼…신라호텔서 비공개 예식",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621141239736",
+        "publishedAt": "2026-06-21T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T15:50:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "호텔",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621141239736",
+      "rank": 7
+    },
+    {
+      "id": "dc26cdc951e65a89",
+      "issueKey": "스페인",
+      "issueTitle": "스페인",
+      "trendTitle": "스페인 사우디",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[월드컵] 스페인, 사우디에 4-0 대승…야말 데뷔골·오야르사발 멀티골",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260622001700007",
           "publishedAt": "2026-06-21T15:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"우리 야말, 자꾸 메시와 비교하지마!\" 스페인 감독, 십대천재 보호 나섰다…지나친 기대 경계",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/06/21/HE3DMYJTHE2TGZBYHFSTSNBUGY/",
+          "title": "다시 찾은 우승후보의 위엄…스페인, 사우디에 4골 폭격, 오야르사발 ‘원맨쇼’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606220308001",
           "publishedAt": "2026-06-21T15:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "APTOPIX Saudi Arabia Spain WCup Soccer",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260622n00507?mid=n1101",
+          "title": "‘무적함대’ 스페인, 사우디아라비 4-0 격파 위용 뽐내",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10783095",
           "publishedAt": "2026-06-21T15:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "스페인 사우디",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620110901209",
+        "title": "[월드컵] 스페인, 사우디에 4-0 대승…야말 데뷔골·오야르사발 멀티골",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260622001700007",
         "publishedAt": "2026-06-21T15:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-21T15:40:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "스페인 사우디",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260620110901209",
-      "rank": 1
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "스페인",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260622001700007",
+      "rank": 8
     },
     {
       "id": "1380540de586685d",
       "issueKey": "spain vs saudi arabia",
       "issueTitle": "spain vs saudi arabia",
       "trendTitle": "spain vs saudi arabia",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Watch as Oyarzabal puts clinical Spain 3-0 up against Saudi Arabia",
+          "title": "Lamine Yamal scores first World Cup goal as Spain thrash Saudi Arabia",
           "source": "BBC",
           "url": "https://www.bbc.com/sport/football/live/c1eyg6lq5wvt",
           "publishedAt": "2026-06-21T15:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Spain vs Saudi Arabia Prediction: World Cup 2026 Match Preview",
-          "source": "Opta Analyst",
-          "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
+          "title": "Spain's Yamal, Oyarzabal Power Halftime Lead",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/22/LARED3UALFEU7FAZYPZL3TPRKU/",
           "publishedAt": "2026-06-21T15:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Saudi Arabia XI vs Spain – Predicted lineup and team news",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/saudi-arabia-xi-vs-spain-053500174.html",
+          "title": "Spain vs Saudi Arabia Prediction: World Cup 2026 Match Preview",
+          "source": "Opta Analyst",
+          "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
           "publishedAt": "2026-06-21T15:10:00.000Z",
           "relevanceScore": 1
         }
@@ -96,344 +425,62 @@
         "source": "Opta Analyst",
         "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
         "publishedAt": "2026-06-21T15:10:00.000Z",
-        "relevanceScore": 2
+        "relevanceScore": 1
       },
       "publishedAt": "2026-06-21T15:10:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
       "title": "spain vs saudi arabia",
       "source": "Opta Analyst",
       "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
-      "rank": 2
+      "rank": 9
     },
     {
-      "id": "1a3e9f249b666362",
-      "issueKey": "agi",
-      "issueTitle": "agi",
-      "trendTitle": "agi",
+      "id": "3154f950bc06dfc4",
+      "issueKey": "보유세",
+      "issueTitle": "보유세",
+      "trendTitle": "김용범",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'AGI Is Too Important'—Ben Goertzel's Crypto Bet Against OpenAI",
-          "source": "Cryptonews.net",
-          "url": "https://cryptonews.net/news/blockchain/33040040/",
+          "title": "與 “보유세·양도세 조정은 정부의 당연한 책무”…김용범 옹호",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260621/134152045/1",
           "publishedAt": "2026-06-21T15:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Why an AI company cleaned my New York City apartment for free",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cpwerjy20kyo",
+          "title": "[사설]“호황에 부동산 꿈틀할 수도”… 불안 심리부터 진정시킬 때",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621233800001",
           "publishedAt": "2026-06-21T15:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "I let robot-trainers clean my apartment for free. It was unsettling, but I got over it.",
-          "source": "Business Insider",
-          "url": "https://www.businessinsider.com/robot-trainers-clean-apartment-cook-lunch-free-shift-ai-startup-2026-6",
+          "title": "靑 “보유·양도세 조정”…종부세 올리나",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20058281",
           "publishedAt": "2026-06-21T15:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'AGI Is Too Important'—Ben Goertzel's Crypto Bet Against OpenAI",
-        "source": "Cryptonews.net",
-        "url": "https://cryptonews.net/news/blockchain/33040040/",
+        "title": "與 “보유세·양도세 조정은 정부의 당연한 책무”…김용범 옹호",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260621/134152045/1",
         "publishedAt": "2026-06-21T15:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-21T15:00:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "agi",
-      "source": "Cryptonews.net",
-      "url": "https://cryptonews.net/news/blockchain/33040040/",
-      "rank": 3
-    },
-    {
-      "id": "8e88304c1474e0e1",
-      "issueKey": "이주명",
-      "issueTitle": "이주명",
-      "trendTitle": "신입사원 강회장",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'신입사원 강회장' 이주명·진구, 구치소 독대…비밀 대화 내용은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621142850188",
-          "publishedAt": "2026-06-21T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "드라마 '신입사원 강회장' 돌풍…동명 웹툰 조회수 43배↑",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260621n11952?mid=n0105",
-          "publishedAt": "2026-06-21T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "진구 경찰 체포…전혜진 계략이었다 ‘충격’ (신입사원 강회장)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260621/134151702/1",
-          "publishedAt": "2026-06-21T14:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'신입사원 강회장' 이주명·진구, 구치소 독대…비밀 대화 내용은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621142850188",
-        "publishedAt": "2026-06-21T14:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T14:50:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "이주명",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260621142850188",
-      "rank": 4
-    },
-    {
-      "id": "449e1ff5cfd4b93e",
-      "issueKey": "양효진",
-      "issueTitle": "양효진",
-      "trendTitle": "양효진",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "양효진 떠난 수원 현대건설, 더 빨라진다…강성형 감독의 ‘새 우승 공식’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621130445398",
-          "publishedAt": "2026-06-21T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“우승은 하늘이 도와주는 것” 장은수 순항 비결은 멘탈 안정",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1658030/%E2%80%9C%EC%9A%B0%EC%8A%B9-%ED%95%98%EB%8A%98-%EB%8F%84%EC%99%80%EC%A3%BC%EB%8A%94-%EA%B2%83%E2%80%9D-%EC%9E%A5%EC%9D%80%EC%88%98-%EC%88%9C-2026",
-          "publishedAt": "2026-06-21T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "작년 신인왕 서교림, 2017년 신인왕 장은수 추격 따돌리고 인카금융 더헤븐 마스터즈 우승…시즌 2승·대상 1위 질주",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view_amp.asp?arcid=0029998943",
-          "publishedAt": "2026-06-21T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "양효진 떠난 수원 현대건설, 더 빨라진다…강성형 감독의 ‘새 우승 공식’",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621130445398",
-        "publishedAt": "2026-06-21T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T14:40:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "양효진",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260621130445398",
-      "rank": 5
-    },
-    {
-      "id": "b09b402261b046e6",
-      "issueKey": "테일러 프리츠",
-      "issueTitle": "테일러 프리츠",
-      "trendTitle": "테일러 프리츠",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Frances Tiafoe beats Taylor Fritz to win all-American Halle final",
-          "source": "ESPN",
-          "url": "https://www.espn.com/tennis/story/_/id/49135289/frances-tiafoe-beats-taylor-fritz-win-all-american-halle-final",
-          "publishedAt": "2026-06-21T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Tiafoe tops Fritz in Halle to clinch biggest title of his career",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/fritz-tiafoe-halle-2026-final",
-          "publishedAt": "2026-06-21T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "ATP 500 - Halle Open",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/atp-500-halle-open/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNNkwxNlVQRFc",
-          "publishedAt": "2026-06-21T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "테일러 프리츠",
-        "source": "ESPN",
-        "url": "https://www.espn.com/tennis/story/_/id/49135289/frances-tiafoe-beats-taylor-fritz-win-all-american-halle-final",
-        "publishedAt": "2026-06-21T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T14:10:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "테일러 프리츠",
-      "source": "ESPN",
-      "url": "https://www.espn.com/tennis/story/_/id/49135289/frances-tiafoe-beats-taylor-fritz-win-all-american-halle-final",
-      "rank": 6
-    },
-    {
-      "id": "3dfe26c597a7c130",
-      "issueKey": "김천시",
-      "issueTitle": "김천시",
-      "trendTitle": "재난",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김천시, 공장 대형 화재 대비 ‘사회재난종합훈련’ 실시",
-          "source": "꽁지환경늬우스",
-          "url": "http://www.kkongjinews.com/news/view.php?idx=244812",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김천시, 산업단지 재난대응 실전훈련 강화",
-          "source": "경북일보",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076090",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김천, 공장 대형 화재 대비 ‘사회재난종합훈련’ 실시",
-          "source": "서울일보",
-          "url": "http://www.seoulilbo.com/news/articleView.html?idxno=834594",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김천시, 공장 대형 화재 대비 ‘사회재난종합훈련’ 실시",
-        "source": "꽁지환경늬우스",
-        "url": "http://www.kkongjinews.com/news/view.php?idx=244812",
-        "publishedAt": "2026-06-21T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T13:50:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "김천시",
-      "source": "꽁지환경늬우스",
-      "url": "http://www.kkongjinews.com/news/view.php?idx=244812",
-      "rank": 7
-    },
-    {
-      "id": "374fe7a875c5d92b",
-      "issueKey": "감사패 전달받",
-      "issueTitle": "감사패 전달받",
-      "trendTitle": "감사패 전달받",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[포토타임]쓰레기장서 힐링 명소로…1만1000여본 ‘수국 천국’된 초안산 수국동산",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621133751956",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[전국]화사한 여름 수국 즐겨요...수국축제 '북적'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202606211719520309_005.html",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "월계2동 주민 감사패 전달받는 오승록 노원구청장",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260621n15406",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "월계2동 주민 감사패 전달받는 오승록 노원구청장",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260621n15406",
-        "publishedAt": "2026-06-21T13:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-06-21T13:50:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "감사패 전달받",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260621n15406",
-      "rank": 8
-    },
-    {
-      "id": "a8584a0d3cd94a05",
-      "issueKey": "고성군",
-      "issueTitle": "고성군",
-      "trendTitle": "고성군",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "고성군, 공무원 시험 대비반 운영…지역 인재 육성 지원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260622001101591",
-          "publishedAt": "2026-06-21T13:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고성군, 2026년 하반기 공무원 임용시험 대비반 수강생 모집",
-          "source": "한방통신사",
-          "url": "https://www.kbsn.kr/news/article.html?no=744964",
-          "publishedAt": "2026-06-21T13:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "고성군 하반기 공무원 임용시험 대비반 30명 모집 > 뉴스데스크",
-          "source": "MBC 강원영동",
-          "url": "https://www.mbceg.co.kr/post/137485",
-          "publishedAt": "2026-06-21T13:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "고성군, 공무원 시험 대비반 운영…지역 인재 육성 지원",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260622001101591",
-        "publishedAt": "2026-06-21T13:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T13:00:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "고성군",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260622001101591",
-      "rank": 9
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "보유세",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Politics/article/all/20260621/134152045/1",
+      "rank": 10
     }
   ],
   "history": [
@@ -800,6 +847,52 @@
       "title": "안정환",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260619200551894"
+    },
+    {
+      "id": "dc26cdc951e65a89",
+      "issueKey": "스페인",
+      "issueTitle": "스페인",
+      "trendTitle": "스페인 사우디",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[월드컵] 스페인, 사우디에 4-0 대승…야말 데뷔골·오야르사발 멀티골",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260622001700007",
+          "publishedAt": "2026-06-21T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "다시 찾은 우승후보의 위엄…스페인, 사우디에 4골 폭격, 오야르사발 ‘원맨쇼’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202606220308001",
+          "publishedAt": "2026-06-21T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘무적함대’ 스페인, 사우디아라비 4-0 격파 위용 뽐내",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10783095",
+          "publishedAt": "2026-06-21T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[월드컵] 스페인, 사우디에 4-0 대승…야말 데뷔골·오야르사발 멀티골",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260622001700007",
+        "publishedAt": "2026-06-21T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T15:40:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "스페인",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260622001700007"
     },
     {
       "id": "8b4af74dbc96d5c7",
@@ -1352,6 +1445,197 @@
       "title": "풀리식",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260618162422497"
+    },
+    {
+      "id": "1380540de586685d",
+      "issueKey": "spain vs saudi arabia",
+      "issueTitle": "spain vs saudi arabia",
+      "trendTitle": "spain vs saudi arabia",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 4,
+      "relatedArticles": [
+        {
+          "title": "Watch as Oyarzabal puts clinical Spain 3-0 up against Saudi Arabia",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c1eyg6lq5wvt",
+          "publishedAt": "2026-06-21T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Spain vs Saudi Arabia Prediction: World Cup 2026 Match Preview",
+          "source": "Opta Analyst",
+          "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
+          "publishedAt": "2026-06-21T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Spain's Yamal, Oyarzabal Power Halftime Lead",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/22/LARED3UALFEU7FAZYPZL3TPRKU/",
+          "publishedAt": "2026-06-21T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Saudi Arabia XI vs Spain – Predicted lineup and team news",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/saudi-arabia-xi-vs-spain-053500174.html",
+          "publishedAt": "2026-06-21T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Spain vs Saudi Arabia Prediction: World Cup 2026 Match Preview",
+        "source": "Opta Analyst",
+        "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
+        "publishedAt": "2026-06-21T15:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-21T15:10:00.000Z",
+      "firstSeenAt": "2026-06-21T16:45:34.836Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "spain vs saudi arabia",
+      "source": "Opta Analyst",
+      "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview"
+    },
+    {
+      "id": "7828e86d4b195798",
+      "issueKey": "베트남",
+      "issueTitle": "베트남",
+      "trendTitle": "베트남",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "베트남서 들여온 마약 20㎏ 야산에 묻어두고 나눠서 유통",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ",
+          "publishedAt": "2026-06-21T18:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "베트남서 마약 20㎏ 밀반입…야산에 묻어두고 판매한 일당 검거",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260621/134151313/1",
+          "publishedAt": "2026-06-21T18:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "야산서 찾은 실마리, 마약 조직 '검은 돈줄' 끊다",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1325579",
+          "publishedAt": "2026-06-21T18:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "베트남서 들여온 마약 20㎏ 야산에 묻어두고 나눠서 유통",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ",
+        "publishedAt": "2026-06-21T18:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T18:10:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "베트남",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ"
+    },
+    {
+      "id": "7e20f5e0540ac281",
+      "issueKey": "동궁",
+      "issueTitle": "동궁",
+      "trendTitle": "동궁",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "넷플릭스 칼 갈았다…'시청률 23.7%' 주역 3년 만 복귀→초호화 연출진에 기대감 치솟은 韓 드라마 ('동궁')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621143216285",
+          "publishedAt": "2026-06-21T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "귀신 잡는 남자, 넷플릭스 '동궁' TMI 4",
+          "source": "에스콰이어 코리아",
+          "url": "https://www.esquirekorea.co.kr/article/1904725",
+          "publishedAt": "2026-06-21T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "데뷔작부터 '시청률 14.6%'…찍는 작품마다 화제성 美쳤다는 여배우 넷플릭스 차기작 ('동궁')",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260621n04347",
+          "publishedAt": "2026-06-21T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "넷플릭스 칼 갈았다…'시청률 23.7%' 주역 3년 만 복귀→초호화 연출진에 기대감 치솟은 韓 드라마 ('동궁')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621143216285",
+        "publishedAt": "2026-06-21T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T16:00:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "동궁",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621143216285"
+    },
+    {
+      "id": "a8c93b78e5f25669",
+      "issueKey": "호텔",
+      "issueTitle": "호텔",
+      "trendTitle": "호텔",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "아모레家 차녀 서호정씨, 21일 결혼…신라호텔서 비공개 예식",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260621141239736",
+          "publishedAt": "2026-06-21T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "서경배 아모레 회장 차녀 서호정씨 오늘 결혼",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260621035200030",
+          "publishedAt": "2026-06-21T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "서경배 아모레 회장 차녀 서호정, 오늘 신라호텔서 결혼식 올린다",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20058181",
+          "publishedAt": "2026-06-21T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아모레家 차녀 서호정씨, 21일 결혼…신라호텔서 비공개 예식",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260621141239736",
+        "publishedAt": "2026-06-21T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-21T15:50:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "호텔",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260621141239736"
     },
     {
       "id": "5c3562dad9fdb66a",
@@ -2044,280 +2328,50 @@
       "url": "https://v.daum.net/v/20260618183200768"
     },
     {
-      "id": "dc26cdc951e65a89",
-      "issueKey": "스페인 사우디",
-      "issueTitle": "스페인 사우디",
-      "trendTitle": "스페인 사우디",
+      "id": "3dde10c0e012e03f",
+      "issueKey": "중국인",
+      "issueTitle": "중국인",
+      "trendTitle": "중국인",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "라민 야말, 사우디전 출격 준비 완료…\"풀타임은 아직\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260620110901209",
-          "publishedAt": "2026-06-21T15:40:00.000Z",
+          "title": "호텔 통째로 빌린 중국인들…뭐하나 봤더니 '경악'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026062190307",
+          "publishedAt": "2026-06-21T17:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"우리 야말, 자꾸 메시와 비교하지마!\" 스페인 감독, 십대천재 보호 나섰다…지나친 기대 경계",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/06/21/HE3DMYJTHE2TGZBYHFSTSNBUGY/",
-          "publishedAt": "2026-06-21T15:40:00.000Z",
+          "title": "호찌민시 경찰은 이 지역에서 외국인과 관련된 법규 위반 행위를 단속하고 처리하기 위한 노력을 강화하고 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/cong-an-tp-ho-chi-minh-tang-cuong-dau-tranh-xu-ly-vi-pham-phap-luat-lien-quan-nguoi-nuoc-ngoai-tren-dia-ban",
+          "publishedAt": "2026-06-21T17:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "APTOPIX Saudi Arabia Spain WCup Soccer",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260622n00507?mid=n1101",
-          "publishedAt": "2026-06-21T15:40:00.000Z",
+          "title": "스리랑카로 밀려드는 국제 스캠 조직 \"골든타임 얼마 남지 않았다\"",
+          "source": "kor.theasian.asia",
+          "url": "https://kor.theasian.asia/archives/407721",
+          "publishedAt": "2026-06-21T17:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "스페인 사우디",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260620110901209",
-        "publishedAt": "2026-06-21T15:40:00.000Z",
+        "title": "호텔 통째로 빌린 중국인들…뭐하나 봤더니 '경악'",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026062190307",
+        "publishedAt": "2026-06-21T17:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-21T15:40:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "스페인 사우디",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260620110901209"
-    },
-    {
-      "id": "1380540de586685d",
-      "issueKey": "spain vs saudi arabia",
-      "issueTitle": "spain vs saudi arabia",
-      "trendTitle": "spain vs saudi arabia",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Watch as Oyarzabal puts clinical Spain 3-0 up against Saudi Arabia",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c1eyg6lq5wvt",
-          "publishedAt": "2026-06-21T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Spain vs Saudi Arabia Prediction: World Cup 2026 Match Preview",
-          "source": "Opta Analyst",
-          "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
-          "publishedAt": "2026-06-21T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Saudi Arabia XI vs Spain – Predicted lineup and team news",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/saudi-arabia-xi-vs-spain-053500174.html",
-          "publishedAt": "2026-06-21T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Spain vs Saudi Arabia Prediction: World Cup 2026 Match Preview",
-        "source": "Opta Analyst",
-        "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
-        "publishedAt": "2026-06-21T15:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-21T15:10:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "spain vs saudi arabia",
-      "source": "Opta Analyst",
-      "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview"
-    },
-    {
-      "id": "3dfe26c597a7c130",
-      "issueKey": "김천시",
-      "issueTitle": "김천시",
-      "trendTitle": "재난",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김천시, 공장 대형 화재 대비 ‘사회재난종합훈련’ 실시",
-          "source": "꽁지환경늬우스",
-          "url": "http://www.kkongjinews.com/news/view.php?idx=244812",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김천시, 산업단지 재난대응 실전훈련 강화",
-          "source": "경북일보",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4076090",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김천, 공장 대형 화재 대비 ‘사회재난종합훈련’ 실시",
-          "source": "서울일보",
-          "url": "http://www.seoulilbo.com/news/articleView.html?idxno=834594",
-          "publishedAt": "2026-06-21T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김천시, 공장 대형 화재 대비 ‘사회재난종합훈련’ 실시",
-        "source": "꽁지환경늬우스",
-        "url": "http://www.kkongjinews.com/news/view.php?idx=244812",
-        "publishedAt": "2026-06-21T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T13:50:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T16:45:34.836Z",
-      "title": "김천시",
-      "source": "꽁지환경늬우스",
-      "url": "http://www.kkongjinews.com/news/view.php?idx=244812"
-    },
-    {
-      "id": "426dd69d536bc432",
-      "issueKey": "고물",
-      "issueTitle": "고물",
-      "trendTitle": "고물",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "올 1학기 108만명에 국가장학금 2.2조 지원…전년보다 931억 늘어",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260619000661",
-          "publishedAt": "2026-06-21T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고물가 시대 '단비'…올 1학기 국가장학금 108만 명에 2조 2000억 풀렸다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260619n20352",
-          "publishedAt": "2026-06-21T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "한국장학재단, 2학기 학자금대출 사전신청 접수",
-          "source": "경북신문",
-          "url": "https://www.kbsm.net/news/view.php?idx=522981",
-          "publishedAt": "2026-06-21T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "고물가 시대 '단비'…올 1학기 국가장학금 108만 명에 2조 2000억 풀렸다",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260619n20352",
-        "publishedAt": "2026-06-21T12:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-21T12:30:00.000Z",
-      "firstSeenAt": "2026-06-21T14:11:48.256Z",
-      "lastSeenAt": "2026-06-21T14:11:48.256Z",
-      "title": "고물",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260619n20352"
-    },
-    {
-      "id": "765d05013807b9cc",
-      "issueKey": "금시세",
-      "issueTitle": "금시세",
-      "trendTitle": "금시세",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“금값 바닥, 사려면 지금 사라” 단, 전문가 알려준 반등 조건",
-          "source": "중앙일보",
-          "url": "https://www.joongang.co.kr/article/25438095",
-          "publishedAt": "2026-06-21T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "금반지 지금이라도 팔아야 할까?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BezmSnDg1V",
-          "publishedAt": "2026-06-21T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“언제쯤 100만원 회복할까”…금리 인상 신호에 지지부진 금값",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12077918",
-          "publishedAt": "2026-06-21T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "금시세",
-        "source": "중앙일보",
-        "url": "https://www.joongang.co.kr/article/25438095",
-        "publishedAt": "2026-06-21T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T12:30:00.000Z",
-      "firstSeenAt": "2026-06-21T14:11:48.256Z",
-      "lastSeenAt": "2026-06-21T14:11:48.256Z",
-      "title": "금시세",
-      "source": "중앙일보",
-      "url": "https://www.joongang.co.kr/article/25438095"
-    },
-    {
-      "id": "547bf91b219068a7",
-      "issueKey": "젤렌스키",
-      "issueTitle": "젤렌스키",
-      "trendTitle": "젤렌스키",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "폴란드 최고훈장 반납한 젤렌스키…전쟁 와중 불붙은 우크라 역사갈등",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621160106679",
-          "publishedAt": "2026-06-21T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "젤렌스키, '민간인 학살' 과거사 논쟁에 폴란드 최고훈장 반납",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260621025300009",
-          "publishedAt": "2026-06-21T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "폴란드 대통령, 젤렌스키에 수여한 폴란드 최고명예훈장 박탈 밝혀",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260620/134148527/1",
-          "publishedAt": "2026-06-21T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "폴란드 최고훈장 반납한 젤렌스키…전쟁 와중 불붙은 우크라 역사갈등",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621160106679",
-        "publishedAt": "2026-06-21T12:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T12:20:00.000Z",
-      "firstSeenAt": "2026-06-21T14:11:48.256Z",
-      "lastSeenAt": "2026-06-21T14:11:48.256Z",
-      "title": "젤렌스키",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260621160106679"
+      "publishedAt": "2026-06-21T17:00:00.000Z",
+      "firstSeenAt": "2026-06-21T19:41:50.285Z",
+      "lastSeenAt": "2026-06-21T19:41:50.285Z",
+      "title": "중국인",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026062190307"
     }
   ]
 }
