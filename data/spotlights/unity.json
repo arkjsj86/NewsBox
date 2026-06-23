@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-06-23T03:36:53.043Z",
+  "lastUpdatedAt": "2026-06-23T09:39:40.936Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "9US_V3nk9eY",
+      "title": "Unite Seoul 2026 참가 등록 이벤트 – 팀, 친구와 함께 즐기세요!",
+      "url": "https://www.youtube.com/shorts/9US_V3nk9eY",
+      "publishedAt": "2026-06-23T03:02:05.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/9US_V3nk9eY/hqdefault.jpg"
+    },
+    {
       "id": "rnAEwFu3cbM",
       "title": "툰 렌더링 기법 및 Unity 6.5 릴리즈 소개 - 유니티 라이브 2026.06",
       "url": "https://www.youtube.com/watch?v=rnAEwFu3cbM",
       "publishedAt": "2026-06-19T03:09:51.000Z",
       "thumbnailUrl": "https://i3.ytimg.com/vi/rnAEwFu3cbM/hqdefault.jpg"
-    },
-    {
-      "id": "FMPxQqhvNfo",
-      "title": "Unite Seoul 2026에서 가장 가까이 만나는 Unity AI",
-      "url": "https://www.youtube.com/shorts/FMPxQqhvNfo",
-      "publishedAt": "2026-06-19T02:55:12.000Z",
-      "thumbnailUrl": "https://i3.ytimg.com/vi/FMPxQqhvNfo/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
