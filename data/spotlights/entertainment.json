@@ -7,65 +7,206 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-23T17:17:39.814Z",
+  "lastUpdatedAt": "2026-06-23T20:06:01.254Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
+    {
+      "id": "ed820584853988d9",
+      "issueKey": "페페",
+      "issueTitle": "페페",
+      "trendTitle": "페페",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Why Pepe isn’t playing at the 2026 World Cup with Portugal",
+          "source": "Bolavip US",
+          "url": "https://bolavip.com/en/world-cup/why-pepe-isnt-playing-at-the-world-cup-with-portugal",
+          "publishedAt": "2026-06-23T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Why is Pepe not playing in Portugal vs DR Congo in FIFA World Cup 2026?",
+          "source": "Sportstar",
+          "url": "https://sportstar.thehindu.com/football/fifa-world-cup/why-is-pepe-not-playing-for-portugal-vs-dr-congo-fifa-world-cup-2026-news/article71115103.ece",
+          "publishedAt": "2026-06-23T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "António Silva on Portugal: “If Pepe made my mistake, he’d avoid this”",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/fr/news/antonio-silva-on-portugal-if-pepe-made-my-mistake-hed-avoid-this-43046538",
+          "publishedAt": "2026-06-23T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "페페",
+        "source": "Bolavip US",
+        "url": "https://bolavip.com/en/world-cup/why-pepe-isnt-playing-at-the-world-cup-with-portugal",
+        "publishedAt": "2026-06-23T17:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-23T17:20:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "페페",
+      "source": "Bolavip US",
+      "url": "https://bolavip.com/en/world-cup/why-pepe-isnt-playing-at-the-world-cup-with-portugal",
+      "rank": 1
+    },
+    {
+      "id": "9c239b5d44c44e08",
+      "issueKey": "португалия узбекистан",
+      "issueTitle": "португалия – узбекистан",
+      "trendTitle": "португалия – узбекистан",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Гол Криштиану Роналду. Португалия - Узбекистан. 1:0 (видео). Чемпионат мира-2026. Футбол",
+          "source": "Sportbox",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2338164_clip_Gol_Krishtianu_Ronaldu_Portugalija___Uzbekistan_10_video_Chempionat_mira_2026_Futbol",
+          "publishedAt": "2026-06-23T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "LIVE: в матче ЧМ-2026 Португалия обыгрывает Узбекистан со счетом 2:0",
+          "source": "ERR",
+          "url": "https://rus.err.ee/1610061737/live-v-matche-chm-2026-portugalija-obygryvaet-uzbekistan-so-schetom-2-0",
+          "publishedAt": "2026-06-23T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Криштиану Роналду установил рекорд всех времен. Месси сможет повторить его только в 2030 году",
+          "source": "sport-express.net",
+          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/reviews/krishtianu-ronaldu-pervym-v-istorii-zabil-na-shesti-chempionatah-mira-po-futbolu-statistika-golov-portugalskogo-forvarda-2433522/",
+          "publishedAt": "2026-06-23T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "португалия – узбекистан",
+        "source": "Sportbox",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2338164_clip_Gol_Krishtianu_Ronaldu_Portugalija___Uzbekistan_10_video_Chempionat_mira_2026_Futbol",
+        "publishedAt": "2026-06-23T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-23T17:00:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "португалия – узбекистан",
+      "source": "Sportbox",
+      "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2338164_clip_Gol_Krishtianu_Ronaldu_Portugalija___Uzbekistan_10_video_Chempionat_mira_2026_Futbol",
+      "rank": 2
+    },
+    {
+      "id": "d2bedd2fd67c22d2",
+      "issueKey": "bồ đào nha đấu với uzbekistan",
+      "issueTitle": "bồ đào nha đấu với uzbekistan",
+      "trendTitle": "bồ đào nha đấu với uzbekistan",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Ronaldo phá hai kỷ lục World Cup của Messi",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/ronaldo-pha-hai-ky-luc-world-cup-cua-messi-5089177.html",
+          "publishedAt": "2026-06-23T16:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Bồ Đào Nha 5-0 Uzbekistan: Đẳng cấp của Leao",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/bo-dao-nha-5-0-uzbekistan-dang-cap-cua-leao-d884223.html",
+          "publishedAt": "2026-06-23T16:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Ronaldo chớp thời cơ mở tỷ số cho Bồ Đào Nha",
+          "source": "Znews",
+          "url": "https://znews.vn/video-ronaldo-chop-thoi-co-mo-ty-so-cho-bo-dao-nha-post1662520.html",
+          "publishedAt": "2026-06-23T16:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "bồ đào nha đấu với uzbekistan",
+        "source": "VnExpress",
+        "url": "https://vnexpress.net/ronaldo-pha-hai-ky-luc-world-cup-cua-messi-5089177.html",
+        "publishedAt": "2026-06-23T16:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-23T16:40:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "bồ đào nha đấu với uzbekistan",
+      "source": "VnExpress",
+      "url": "https://vnexpress.net/ronaldo-pha-hai-ky-luc-world-cup-cua-messi-5089177.html",
+      "rank": 3
+    },
     {
       "id": "8906275c490c2e71",
       "issueKey": "호날두",
       "issueTitle": "호날두",
       "trendTitle": "호날두",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[월드컵] '메시 펄펄 나는데'…호날두, 우즈베크전 선발 출전 '안갯속'",
+          "title": "[월드컵] 2006년에도, 2026년에도…41세 호날두, 6개 대회 득점 '새 역사'",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260623099000007",
+          "url": "https://www.yna.co.kr/view/AKR20260624005600007",
           "publishedAt": "2026-06-23T16:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "호날두는 입도 뻥끗 안 했는데···호날두 ‘SNS 가짜뉴스’가 집어삼킨 포르투갈 대표팀",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6pY1jRjJlz",
+          "title": "‘멀티골’ 호날두, 월드컵 최초 6개 대회 연속 득점 기록…포르투갈 대승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8593383",
           "publishedAt": "2026-06-23T16:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[영상] 메시 음바페 홀란 등 ‘월클’ 골 폭풍…다음 차례는 호날두?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8592804",
+          "title": "호날두, 마침내 터졌다! 우즈벡전 선제골 작렬!...사상 첫 6개 대회 연속 골맛 '대기록'까지[속보]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/06/24/GA3DSZDFMNQTOYJUME2DKNLCMY/",
           "publishedAt": "2026-06-23T16:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[월드컵] '메시 펄펄 나는데'…호날두, 우즈베크전 선발 출전 '안갯속'",
+        "title": "[월드컵] 2006년에도, 2026년에도…41세 호날두, 6개 대회 득점 '새 역사'",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260623099000007",
+        "url": "https://www.yna.co.kr/view/AKR20260624005600007",
         "publishedAt": "2026-06-23T16:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-23T16:00:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
       "title": "호날두",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260623099000007",
-      "rank": 1
+      "url": "https://www.yna.co.kr/view/AKR20260624005600007",
+      "rank": 4
     },
     {
       "id": "f2713b4b923b4a2b",
       "issueKey": "portugal vs uzbekistan",
       "issueTitle": "portugal vs uzbekistan",
       "trendTitle": "portugal vs uzbekistan",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -77,16 +218,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "Portugal vs Uzbekistan: World Cup 2026 Match Preview",
-          "source": "Opta Analyst",
-          "url": "https://theanalyst.com/articles/portugal-vs-uzbekistan-prediction-world-cup-2026-match-preview",
+          "title": "Cristiano Ronaldo Scores Two, Makes World Cup History",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/24/HAXVHWM66NAXTDXP3MPWPPDBWE/",
           "publishedAt": "2026-06-23T16:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Portugal National Football Team vs Uzbekistan National Football Team Live Score Updates: Confirmed Lineups, Match Time, and Where To Watch Guide",
-          "source": "https://cupofnations2025.com/",
-          "url": "https://cupofnations2025.com/portugal-national-football-team-vs-uzbekistan-national-football-team-scores/",
+          "title": "Portugal 5-0 Uzbekistan: World Cup 2026 – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jun/23/portugal-v-uzbekistan-world-cup-2026-live",
           "publishedAt": "2026-06-23T16:00:00.000Z",
           "relevanceScore": 1
         }
@@ -99,20 +240,20 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-23T16:00:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
       "title": "portugal vs uzbekistan",
       "source": "BBC",
       "url": "https://www.bbc.com/sport/football/live/c5yzkp5727rt",
-      "rank": 2
+      "rank": 5
     },
     {
       "id": "f03bbcc32c0f84fd",
       "issueKey": "재시",
       "issueTitle": "재시",
       "trendTitle": "재시",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -125,8 +266,8 @@
         },
         {
           "title": "이동국 딸 재시, '슈돌' 시절 싹 잊겠네..여리여리 '폭풍성장' 눈길",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260623030137170",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623190152440?f=p",
           "publishedAt": "2026-06-23T15:40:00.000Z",
           "relevanceScore": 2
         },
@@ -146,106 +287,153 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-23T15:40:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
       "title": "재시",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260623_0003679675",
-      "rank": 3
+      "rank": 6
     },
     {
-      "id": "104432c30261dcfd",
-      "issueKey": "박우열",
-      "issueTitle": "박우열",
-      "trendTitle": "박우열",
+      "id": "f61b0fbb77187a58",
+      "issueKey": "김정관",
+      "issueTitle": "김정관",
+      "trendTitle": "김정관",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"도파민 터져\" 박우열과 데이트 한 정규리 도발에 강유경 답답 심경 토로('하트시그널')",
+          "title": "김정관 \"새 반도체 단지 필요…기존 투자만으로 안돼\"(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260623223031348",
+          "url": "https://v.daum.net/v/qZ8Spbx2ZG",
           "publishedAt": "2026-06-23T15:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[종합] '하트시그널5' 진실게임…박우열·강유경, 정규리 도발에도 굳건",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260624n00444",
+          "title": "“영업익, 노사만의 성과 아냐”… 이사회 의결 등 법제화 나서",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260624/134169886/2",
           "publishedAt": "2026-06-23T15:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘하트시그널5’ 정준현 직진 선언, 강유경 향한 한마디에 러브라인 뒤집히나",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=430071",
+          "title": "산업장관 \"성과급, 노동쟁의 대상 아냐…이익 배분서 투자자 소외\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4421340",
           "publishedAt": "2026-06-23T15:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"도파민 터져\" 박우열과 데이트 한 정규리 도발에 강유경 답답 심경 토로('하트시그널')",
+        "title": "김정관 \"새 반도체 단지 필요…기존 투자만으로 안돼\"(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260623223031348",
+        "url": "https://v.daum.net/v/qZ8Spbx2ZG",
         "publishedAt": "2026-06-23T15:20:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-23T15:20:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
-      "title": "박우열",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "김정관",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260623223031348",
-      "rank": 4
+      "url": "https://v.daum.net/v/qZ8Spbx2ZG",
+      "rank": 7
     },
     {
-      "id": "98650ed31c07ec02",
-      "issueKey": "스킨 공개",
-      "issueTitle": "스킨 공개",
-      "trendTitle": "스킨 공개",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "f9111aa6493dd222",
+      "issueKey": "최소윤",
+      "issueTitle": "최소윤",
+      "trendTitle": "최소윤",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "라이엇, 롤드컵 T1 우승 스킨 공개, 승천한 전사들이 메인 콘셉트",
-          "source": "게임뷰",
-          "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=58894",
+          "title": "'하시5' 최소윤, '연하남' 김서원에 '심쿵'…\"얘가 이렇게 잘생겼었나\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623114905574",
+          "publishedAt": "2026-06-23T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘하시5’ 김서원 “지금 내 맘 가장 아프게 하는 사람은 소윤누나”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606231556003",
+          "publishedAt": "2026-06-23T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“우리 1등 하겠다\"… ‘하트시그널5’ 김서원, 정규리에 볼링 밀착 코칭",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16108369",
+          "publishedAt": "2026-06-23T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'하시5' 최소윤, '연하남' 김서원에 '심쿵'…\"얘가 이렇게 잘생겼었나\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260623114905574",
+        "publishedAt": "2026-06-23T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-23T15:20:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "최소윤",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260623114905574",
+      "rank": 8
+    },
+    {
+      "id": "3fd92c538a57d955",
+      "issueKey": "라이엇",
+      "issueTitle": "라이엇",
+      "trendTitle": "라이엇",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "T1 2025 롤드컵 우승 스킨 전격 공개… 톰 코치 와드까지 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623230117653",
           "publishedAt": "2026-06-23T14:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "T1의 역사적인 월즈 3연속 우승 금자탑, 스킨에 담았다",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/it/12081312",
+          "title": "\"완벽해질 때까지 멈추지 않았다\" 라이엇의 T1 월즈 우승스킨 개발기",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260623n35766",
           "publishedAt": "2026-06-23T14:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'GOAT'의 선택…'페이커' 갈리오 스킨에 담긴 T1 왕조의 기억 [SS시선집중]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260623n35760",
+          "title": "‘GOAT’의 선택…‘페이커’ 갈리오 스킨에 담긴 T1 왕조의 기억 [SS시선집중]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1618124",
           "publishedAt": "2026-06-23T14:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "라이엇, 롤드컵 T1 우승 스킨 공개, 승천한 전사들이 메인 콘셉트",
-        "source": "게임뷰",
-        "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=58894",
+        "title": "\"완벽해질 때까지 멈추지 않았다\" 라이엇의 T1 월즈 우승스킨 개발기",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260623n35766",
         "publishedAt": "2026-06-23T14:40:00.000Z",
-        "relevanceScore": 3
+        "relevanceScore": 2
       },
       "publishedAt": "2026-06-23T14:40:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
-      "title": "스킨 공개",
-      "source": "게임뷰",
-      "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=58894",
-      "rank": 5
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "라이엇",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260623n35766",
+      "rank": 9
     },
     {
       "id": "f06d631e47a5c6b7",
@@ -258,182 +446,41 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "오래 살고 싶다면 유산소만 하지 마라…주 90분 근력운동의 힘 [노화설계]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GWSy939U0v?f=p",
-          "publishedAt": "2026-06-23T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
           "title": "\"하루 20분만 투자하면…\" 사망위험 낮추는 '놀라운 효과'",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/2026062210697",
           "publishedAt": "2026-06-23T14:10:00.000Z",
-          "relevanceScore": 2
+          "relevanceScore": 3
         },
         {
           "title": "“헬스장 매일 갈수록 손해다?”…중년 근력 운동의 진짜 적정량은 [헬시타임]",
           "source": "서울경제",
           "url": "https://www.sedaily.com/article/20059255",
           "publishedAt": "2026-06-23T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "치매로 고생하고 싶지 않다면… ‘매주 한 시간 반’ 근력 운동을",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/06/23/2026062302157.html",
+          "publishedAt": "2026-06-23T14:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "근력 트레이닝",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/GWSy939U0v?f=p",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026062210697",
         "publishedAt": "2026-06-23T14:10:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-23T14:10:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
       "title": "근력 트레이닝",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/GWSy939U0v?f=p",
-      "rank": 6
-    },
-    {
-      "id": "b00089cdce7544de",
-      "issueKey": "류혜영",
-      "issueTitle": "류혜영",
-      "trendTitle": "류혜영",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'나혼산' 분당 최고 7% 시청률 찍었다…'응팔' 류혜영, 인생 암흑기 고백에 2주 연속 정상 차지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5RFQsxaeGH",
-          "publishedAt": "2026-06-23T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "MBC '나 혼자 산다' 주간 2054 시청률 예능 1위 \"2주 연속 정상\"",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/509051",
-          "publishedAt": "2026-06-23T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "연예인 집자랑·플렉스 뺐더니 ‘나혼산’ 시청률 7% UP",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202606200923013",
-          "publishedAt": "2026-06-23T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'나혼산' 분당 최고 7% 시청률 찍었다…'응팔' 류혜영, 인생 암흑기 고백에 2주 연속 정상 차지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5RFQsxaeGH",
-        "publishedAt": "2026-06-23T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-23T13:50:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
-      "title": "류혜영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/5RFQsxaeGH",
-      "rank": 7
-    },
-    {
-      "id": "423826cd684030c5",
-      "issueKey": "채원아",
-      "issueTitle": "채원아",
-      "trendTitle": "채원아",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“잘 가, 채원아”…눈물바다 된 추모식",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/47Db7MNdyA?f=p",
-          "publishedAt": "2026-06-23T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "잊지 않겠습니다",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260623_0021332313",
-          "publishedAt": "2026-06-23T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"교실 뒤를 돌아보면 네 빈자리만 보여\"…이채원 양 49재 추모식 눈물",
-          "source": "조선일보",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=52778",
-          "publishedAt": "2026-06-23T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“잘 가, 채원아”…눈물바다 된 추모식",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/47Db7MNdyA?f=p",
-        "publishedAt": "2026-06-23T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-23T13:40:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
-      "title": "채원아",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/47Db7MNdyA?f=p",
-      "rank": 8
-    },
-    {
-      "id": "79a87646c4835dab",
-      "issueKey": "신문선",
-      "issueTitle": "신문선",
-      "trendTitle": "신문선",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "대한민국 3차전은 언제나 드라마였다…\"반드시 승리\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12304655",
-          "publishedAt": "2026-06-23T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "비공개 훈련서 '세트피스' 연마…\"비길 생각 없다\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008624277",
-          "publishedAt": "2026-06-23T13:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘아프리카 속도전’ 또 휘말리지 말고…‘뒤’를 조심하라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260623202521238",
-          "publishedAt": "2026-06-23T13:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "신문선",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12304655",
-        "publishedAt": "2026-06-23T13:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-23T13:10:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
-      "title": "신문선",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12304655",
-      "rank": 9
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026062210697",
+      "rank": 10
     }
   ],
   "history": [
@@ -620,6 +667,73 @@
       "title": "삼성",
       "source": "Chosunbiz",
       "url": "https://biz.chosun.com/stock/stock_general/2026/06/22/5FTMD3CQLZECTGN2JWJUWEY7PE/"
+    },
+    {
+      "id": "8906275c490c2e71",
+      "issueKey": "호날두",
+      "issueTitle": "호날두",
+      "trendTitle": "호날두",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 6,
+      "relatedArticles": [
+        {
+          "title": "[월드컵] '메시 펄펄 나는데'…호날두, 우즈베크전 선발 출전 '안갯속'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260623099000007",
+          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[월드컵] 2006년에도, 2026년에도…41세 호날두, 6개 대회 득점 '새 역사'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260624005600007",
+          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "호날두는 입도 뻥끗 안 했는데···호날두 ‘SNS 가짜뉴스’가 집어삼킨 포르투갈 대표팀",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6pY1jRjJlz",
+          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘멀티골’ 호날두, 월드컵 최초 6개 대회 연속 득점 기록…포르투갈 대승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8593383",
+          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[영상] 메시 음바페 홀란 등 ‘월클’ 골 폭풍…다음 차례는 호날두?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8592804",
+          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "호날두, 마침내 터졌다! 우즈벡전 선제골 작렬!...사상 첫 6개 대회 연속 골맛 '대기록'까지[속보]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/06/24/GA3DSZDFMNQTOYJUME2DKNLCMY/",
+          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[월드컵] '메시 펄펄 나는데'…호날두, 우즈베크전 선발 출전 '안갯속'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260623099000007",
+        "publishedAt": "2026-06-23T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-23T16:00:00.000Z",
+      "firstSeenAt": "2026-06-23T17:17:39.814Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "호날두",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260623099000007"
     },
     {
       "id": "779dce3462c34a6f",
@@ -1057,96 +1171,64 @@
       "url": "https://imnews.imbc.com/news/2026/econo/article/6831586_36932.html"
     },
     {
-      "id": "dc26cdc951e65a89",
-      "issueKey": "스페인",
-      "issueTitle": "스페인",
-      "trendTitle": "스페인 사우디",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[월드컵] 스페인, 사우디에 4-0 대승…야말 데뷔골·오야르사발 멀티골",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260622001700007",
-          "publishedAt": "2026-06-21T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "다시 찾은 우승후보의 위엄…스페인, 사우디에 4골 폭격, 오야르사발 ‘원맨쇼’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606220308001",
-          "publishedAt": "2026-06-21T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘무적함대’ 스페인, 사우디아라비 4-0 격파 위용 뽐내",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10783095",
-          "publishedAt": "2026-06-21T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[월드컵] 스페인, 사우디에 4-0 대승…야말 데뷔골·오야르사발 멀티골",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260622001700007",
-        "publishedAt": "2026-06-21T15:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T15:40:00.000Z",
-      "firstSeenAt": "2026-06-21T19:41:50.285Z",
-      "lastSeenAt": "2026-06-21T19:41:50.285Z",
-      "title": "스페인",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260622001700007"
-    },
-    {
-      "id": "8906275c490c2e71",
-      "issueKey": "호날두",
-      "issueTitle": "호날두",
-      "trendTitle": "호날두",
+      "id": "f2713b4b923b4a2b",
+      "issueKey": "portugal vs uzbekistan",
+      "issueTitle": "portugal vs uzbekistan",
+      "trendTitle": "portugal vs uzbekistan",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "relatedArticles": [
         {
-          "title": "[월드컵] '메시 펄펄 나는데'…호날두, 우즈베크전 선발 출전 '안갯속'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260623099000007",
+          "title": "Portugal vs Uzbekistan LIVE: FIFA World Cup Group K score, team news, prediction, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c5yzkp5727rt",
           "publishedAt": "2026-06-23T16:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "호날두는 입도 뻥끗 안 했는데···호날두 ‘SNS 가짜뉴스’가 집어삼킨 포르투갈 대표팀",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6pY1jRjJlz",
+          "title": "Portugal vs Uzbekistan: World Cup 2026 Match Preview",
+          "source": "Opta Analyst",
+          "url": "https://theanalyst.com/articles/portugal-vs-uzbekistan-prediction-world-cup-2026-match-preview",
           "publishedAt": "2026-06-23T16:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[영상] 메시 음바페 홀란 등 ‘월클’ 골 폭풍…다음 차례는 호날두?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8592804",
+          "title": "Cristiano Ronaldo Scores Two, Makes World Cup History",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/06/24/HAXVHWM66NAXTDXP3MPWPPDBWE/",
+          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Portugal National Football Team vs Uzbekistan National Football Team Live Score Updates: Confirmed Lineups, Match Time, and Where To Watch Guide",
+          "source": "https://cupofnations2025.com/",
+          "url": "https://cupofnations2025.com/portugal-national-football-team-vs-uzbekistan-national-football-team-scores/",
+          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "Portugal 5-0 Uzbekistan: World Cup 2026 – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/jun/23/portugal-v-uzbekistan-world-cup-2026-live",
           "publishedAt": "2026-06-23T16:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[월드컵] '메시 펄펄 나는데'…호날두, 우즈베크전 선발 출전 '안갯속'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260623099000007",
+        "title": "Portugal vs Uzbekistan LIVE: FIFA World Cup Group K score, team news, prediction, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c5yzkp5727rt",
         "publishedAt": "2026-06-23T16:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-23T16:00:00.000Z",
       "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
-      "title": "호날두",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260623099000007"
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "portugal vs uzbekistan",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/c5yzkp5727rt"
     },
     {
       "id": "2b763f91722c8324",
@@ -1609,103 +1691,96 @@
       "url": "https://v.daum.net/v/20260622052430461"
     },
     {
-      "id": "1380540de586685d",
-      "issueKey": "spain vs saudi arabia",
-      "issueTitle": "spain vs saudi arabia",
-      "trendTitle": "spain vs saudi arabia",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 4,
-      "relatedArticles": [
-        {
-          "title": "Watch as Oyarzabal puts clinical Spain 3-0 up against Saudi Arabia",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c1eyg6lq5wvt",
-          "publishedAt": "2026-06-21T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Spain vs Saudi Arabia Prediction: World Cup 2026 Match Preview",
-          "source": "Opta Analyst",
-          "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
-          "publishedAt": "2026-06-21T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Spain's Yamal, Oyarzabal Power Halftime Lead",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/06/22/LARED3UALFEU7FAZYPZL3TPRKU/",
-          "publishedAt": "2026-06-21T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Saudi Arabia XI vs Spain – Predicted lineup and team news",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/saudi-arabia-xi-vs-spain-053500174.html",
-          "publishedAt": "2026-06-21T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Spain vs Saudi Arabia Prediction: World Cup 2026 Match Preview",
-        "source": "Opta Analyst",
-        "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview",
-        "publishedAt": "2026-06-21T15:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-21T15:10:00.000Z",
-      "firstSeenAt": "2026-06-21T16:45:34.836Z",
-      "lastSeenAt": "2026-06-21T19:41:50.285Z",
-      "title": "spain vs saudi arabia",
-      "source": "Opta Analyst",
-      "url": "https://theanalyst.com/articles/spain-vs-saudi-arabia-prediction-world-cup-2026-match-preview"
-    },
-    {
-      "id": "f2713b4b923b4a2b",
-      "issueKey": "portugal vs uzbekistan",
-      "issueTitle": "portugal vs uzbekistan",
-      "trendTitle": "portugal vs uzbekistan",
+      "id": "d2bedd2fd67c22d2",
+      "issueKey": "bồ đào nha đấu với uzbekistan",
+      "issueTitle": "bồ đào nha đấu với uzbekistan",
+      "trendTitle": "bồ đào nha đấu với uzbekistan",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Portugal vs Uzbekistan LIVE: FIFA World Cup Group K score, team news, prediction, commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c5yzkp5727rt",
-          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "title": "Ronaldo phá hai kỷ lục World Cup của Messi",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/ronaldo-pha-hai-ky-luc-world-cup-cua-messi-5089177.html",
+          "publishedAt": "2026-06-23T16:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Portugal vs Uzbekistan: World Cup 2026 Match Preview",
-          "source": "Opta Analyst",
-          "url": "https://theanalyst.com/articles/portugal-vs-uzbekistan-prediction-world-cup-2026-match-preview",
-          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "title": "Bồ Đào Nha 5-0 Uzbekistan: Đẳng cấp của Leao",
+          "source": "yeuthethao.net.vn",
+          "url": "https://yeuthethao.net.vn/bo-dao-nha-5-0-uzbekistan-dang-cap-cua-leao-d884223.html",
+          "publishedAt": "2026-06-23T16:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Portugal National Football Team vs Uzbekistan National Football Team Live Score Updates: Confirmed Lineups, Match Time, and Where To Watch Guide",
-          "source": "https://cupofnations2025.com/",
-          "url": "https://cupofnations2025.com/portugal-national-football-team-vs-uzbekistan-national-football-team-scores/",
-          "publishedAt": "2026-06-23T16:00:00.000Z",
+          "title": "Ronaldo chớp thời cơ mở tỷ số cho Bồ Đào Nha",
+          "source": "Znews",
+          "url": "https://znews.vn/video-ronaldo-chop-thoi-co-mo-ty-so-cho-bo-dao-nha-post1662520.html",
+          "publishedAt": "2026-06-23T16:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Portugal vs Uzbekistan LIVE: FIFA World Cup Group K score, team news, prediction, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c5yzkp5727rt",
-        "publishedAt": "2026-06-23T16:00:00.000Z",
+        "title": "bồ đào nha đấu với uzbekistan",
+        "source": "VnExpress",
+        "url": "https://vnexpress.net/ronaldo-pha-hai-ky-luc-world-cup-cua-messi-5089177.html",
+        "publishedAt": "2026-06-23T16:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-06-23T16:00:00.000Z",
-      "firstSeenAt": "2026-06-23T17:17:39.814Z",
-      "lastSeenAt": "2026-06-23T17:17:39.814Z",
-      "title": "portugal vs uzbekistan",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/c5yzkp5727rt"
+      "publishedAt": "2026-06-23T16:40:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "bồ đào nha đấu với uzbekistan",
+      "source": "VnExpress",
+      "url": "https://vnexpress.net/ronaldo-pha-hai-ky-luc-world-cup-cua-messi-5089177.html"
+    },
+    {
+      "id": "3fd92c538a57d955",
+      "issueKey": "라이엇",
+      "issueTitle": "라이엇",
+      "trendTitle": "라이엇",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "T1 2025 롤드컵 우승 스킨 전격 공개… 톰 코치 와드까지 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623230117653",
+          "publishedAt": "2026-06-23T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"완벽해질 때까지 멈추지 않았다\" 라이엇의 T1 월즈 우승스킨 개발기",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260623n35766",
+          "publishedAt": "2026-06-23T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘GOAT’의 선택…‘페이커’ 갈리오 스킨에 담긴 T1 왕조의 기억 [SS시선집중]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1618124",
+          "publishedAt": "2026-06-23T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"완벽해질 때까지 멈추지 않았다\" 라이엇의 T1 월즈 우승스킨 개발기",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260623n35766",
+        "publishedAt": "2026-06-23T14:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-06-23T14:40:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "라이엇",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260623n35766"
     },
     {
       "id": "4672f82cf450083f",
@@ -2122,144 +2197,6 @@
       "url": "https://v.daum.net/v/B0RahgmjoV"
     },
     {
-      "id": "7828e86d4b195798",
-      "issueKey": "베트남",
-      "issueTitle": "베트남",
-      "trendTitle": "베트남",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "베트남서 들여온 마약 20㎏ 야산에 묻어두고 나눠서 유통",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ",
-          "publishedAt": "2026-06-21T18:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "베트남서 마약 20㎏ 밀반입…야산에 묻어두고 판매한 일당 검거",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260621/134151313/1",
-          "publishedAt": "2026-06-21T18:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "야산서 찾은 실마리, 마약 조직 '검은 돈줄' 끊다",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1325579",
-          "publishedAt": "2026-06-21T18:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "베트남서 들여온 마약 20㎏ 야산에 묻어두고 나눠서 유통",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ",
-        "publishedAt": "2026-06-21T18:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T18:10:00.000Z",
-      "firstSeenAt": "2026-06-21T19:41:50.285Z",
-      "lastSeenAt": "2026-06-21T19:41:50.285Z",
-      "title": "베트남",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260621102621gLJ"
-    },
-    {
-      "id": "7e20f5e0540ac281",
-      "issueKey": "동궁",
-      "issueTitle": "동궁",
-      "trendTitle": "동궁",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "넷플릭스 칼 갈았다…'시청률 23.7%' 주역 3년 만 복귀→초호화 연출진에 기대감 치솟은 韓 드라마 ('동궁')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621143216285",
-          "publishedAt": "2026-06-21T16:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "귀신 잡는 남자, 넷플릭스 '동궁' TMI 4",
-          "source": "에스콰이어 코리아",
-          "url": "https://www.esquirekorea.co.kr/article/1904725",
-          "publishedAt": "2026-06-21T16:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "데뷔작부터 '시청률 14.6%'…찍는 작품마다 화제성 美쳤다는 여배우 넷플릭스 차기작 ('동궁')",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260621n04347",
-          "publishedAt": "2026-06-21T16:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "넷플릭스 칼 갈았다…'시청률 23.7%' 주역 3년 만 복귀→초호화 연출진에 기대감 치솟은 韓 드라마 ('동궁')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621143216285",
-        "publishedAt": "2026-06-21T16:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T16:00:00.000Z",
-      "firstSeenAt": "2026-06-21T19:41:50.285Z",
-      "lastSeenAt": "2026-06-21T19:41:50.285Z",
-      "title": "동궁",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260621143216285"
-    },
-    {
-      "id": "a8c93b78e5f25669",
-      "issueKey": "호텔",
-      "issueTitle": "호텔",
-      "trendTitle": "호텔",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "아모레家 차녀 서호정씨, 21일 결혼…신라호텔서 비공개 예식",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260621141239736",
-          "publishedAt": "2026-06-21T15:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서경배 아모레 회장 차녀 서호정씨 오늘 결혼",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260621035200030",
-          "publishedAt": "2026-06-21T15:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서경배 아모레 회장 차녀 서호정, 오늘 신라호텔서 결혼식 올린다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20058181",
-          "publishedAt": "2026-06-21T15:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아모레家 차녀 서호정씨, 21일 결혼…신라호텔서 비공개 예식",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260621141239736",
-        "publishedAt": "2026-06-21T15:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-21T15:50:00.000Z",
-      "firstSeenAt": "2026-06-21T19:41:50.285Z",
-      "lastSeenAt": "2026-06-21T19:41:50.285Z",
-      "title": "호텔",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260621141239736"
-    },
-    {
       "id": "98650ed31c07ec02",
       "issueKey": "스킨 공개",
       "issueTitle": "스킨 공개",
@@ -2304,6 +2241,144 @@
       "title": "스킨 공개",
       "source": "게임뷰",
       "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=58894"
+    },
+    {
+      "id": "9c239b5d44c44e08",
+      "issueKey": "португалия узбекистан",
+      "issueTitle": "португалия – узбекистан",
+      "trendTitle": "португалия – узбекистан",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Гол Криштиану Роналду. Португалия - Узбекистан. 1:0 (видео). Чемпионат мира-2026. Футбол",
+          "source": "Sportbox",
+          "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2338164_clip_Gol_Krishtianu_Ronaldu_Portugalija___Uzbekistan_10_video_Chempionat_mira_2026_Futbol",
+          "publishedAt": "2026-06-23T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "LIVE: в матче ЧМ-2026 Португалия обыгрывает Узбекистан со счетом 2:0",
+          "source": "ERR",
+          "url": "https://rus.err.ee/1610061737/live-v-matche-chm-2026-portugalija-obygryvaet-uzbekistan-so-schetom-2-0",
+          "publishedAt": "2026-06-23T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Криштиану Роналду установил рекорд всех времен. Месси сможет повторить его только в 2030 году",
+          "source": "sport-express.net",
+          "url": "https://www.sport-express.net/football/world/chempionat-mira-2026/reviews/krishtianu-ronaldu-pervym-v-istorii-zabil-na-shesti-chempionatah-mira-po-futbolu-statistika-golov-portugalskogo-forvarda-2433522/",
+          "publishedAt": "2026-06-23T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "португалия – узбекистан",
+        "source": "Sportbox",
+        "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2338164_clip_Gol_Krishtianu_Ronaldu_Portugalija___Uzbekistan_10_video_Chempionat_mira_2026_Futbol",
+        "publishedAt": "2026-06-23T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-23T17:00:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "португалия – узбекистан",
+      "source": "Sportbox",
+      "url": "https://news.sportbox.ru/Vidy_sporta/Futbol/world_cup/spbvideo_NI2338164_clip_Gol_Krishtianu_Ronaldu_Portugalija___Uzbekistan_10_video_Chempionat_mira_2026_Futbol"
+    },
+    {
+      "id": "f03bbcc32c0f84fd",
+      "issueKey": "재시",
+      "issueTitle": "재시",
+      "trendTitle": "재시",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'슈돌' 그 소녀 맞나…이동국 딸 재시, 연예인급 비주얼 자랑",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260623_0003679675",
+          "publishedAt": "2026-06-23T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이동국 딸 재시, '슈돌' 시절 싹 잊겠네..여리여리 '폭풍성장' 눈길",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260623190152440?f=p",
+          "publishedAt": "2026-06-23T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'이동국 딸' 재시, 편안한 차림에도 돋보인 비주얼…모델 같은 비율[셀럽샷]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260623n14076?mid=e01&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-06-23T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'슈돌' 그 소녀 맞나…이동국 딸 재시, 연예인급 비주얼 자랑",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260623_0003679675",
+        "publishedAt": "2026-06-23T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-23T15:40:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "재시",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260623_0003679675"
+    },
+    {
+      "id": "f06d631e47a5c6b7",
+      "issueKey": "근력 트레이닝",
+      "issueTitle": "근력 트레이닝",
+      "trendTitle": "근력 트레이닝",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"하루 20분만 투자하면…\" 사망위험 낮추는 '놀라운 효과'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026062210697",
+          "publishedAt": "2026-06-23T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“헬스장 매일 갈수록 손해다?”…중년 근력 운동의 진짜 적정량은 [헬시타임]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20059255",
+          "publishedAt": "2026-06-23T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "치매로 고생하고 싶지 않다면… ‘매주 한 시간 반’ 근력 운동을",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/06/23/2026062302157.html",
+          "publishedAt": "2026-06-23T14:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "근력 트레이닝",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026062210697",
+        "publishedAt": "2026-06-23T14:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-23T14:10:00.000Z",
+      "firstSeenAt": "2026-06-23T20:06:01.254Z",
+      "lastSeenAt": "2026-06-23T20:06:01.254Z",
+      "title": "근력 트레이닝",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026062210697"
     }
   ]
 }
