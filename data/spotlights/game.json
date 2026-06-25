@@ -3,20 +3,29 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-25T14:33:57.392Z",
+  "lastUpdatedAt": "2026-06-25T17:11:42.484Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
-  "itemCount": 1,
+  "itemCount": 2,
   "offers": [
     {
-      "id": "aee7ec395d054078a48d867849e2a550",
-      "title": "ROBOBEAT",
-      "seller": "Kwalee",
-      "url": "https://store.epicgames.com/ko/p/robobeat-5f084b",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/91105717b53044ed8e384e5fada71db8/robobeat-15z8d.png",
+      "id": "4ec50a302f1449b3bf706a199c333ab8",
+      "title": "RollerCoaster Tycoon 3 Complete Edition",
+      "seller": "Atari",
+      "url": "https://store.epicgames.com/ko/p/rollercoaster-tycoon-3-complete-edition",
+      "imageUrl": "https://cdn1.epicgames.com/f01b3e0178d448f0b93911e292d8e614/offer/EGS_RollerCoasterTycoon3CompleteEdition_FrontierDevelopments_S6-1200x1600-591ca93f3bee7bc55a90b77ccc36eb84.jpg",
       "originalPriceLabel": "₩20,500",
-      "freeUntil": "2026-06-25T15:00:00.000Z"
+      "freeUntil": "2026-07-02T15:00:00.000Z"
+    },
+    {
+      "id": "bbccf66ad70e492d812e031e17f93b9d",
+      "title": "Voidwrought",
+      "seller": "Kwalee",
+      "url": "https://store.epicgames.com/ko/p/voidwrought-ce8f4b",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/ae3f962fab4d42eba2dbefa4a1e76ff6/voidwrought-9gwxt.png",
+      "originalPriceLabel": "₩20,400",
+      "freeUntil": "2026-07-02T15:00:00.000Z"
     }
   ],
   "issues": {
@@ -90,19 +99,13 @@
       "key": "epic-free-games",
       "source": "Epic Games Store",
       "ok": true,
-      "itemCount": 1
+      "itemCount": 2
     },
     {
-      "key": "ruliweb-issues",
-      "source": "Ruliweb BEST 뉴스",
-      "ok": true,
-      "itemCount": 5
-    },
-    {
-      "key": "inven-issues",
-      "source": "Inven 주요뉴스",
-      "ok": true,
-      "itemCount": 5
+      "key": "game-issues",
+      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
+      "ok": false,
+      "error": "fetch failed"
     }
   ]
 }
