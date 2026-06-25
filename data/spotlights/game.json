@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-25T09:21:59.642Z",
+  "lastUpdatedAt": "2026-06-25T14:33:57.392Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -33,12 +33,7 @@
         {
           "title": "밸브, ‘스팀 머신’ 모델 별 해외 가격 공식 발표",
           "url": "https://bbs.ruliweb.com/news/read/226107",
-          "meta": "댓글 119"
-        },
-        {
-          "title": "[NDC] 과거 IP를 되살리는 과정, '넥슨 리플레이'가 지향하는 가치는?",
-          "url": "https://bbs.ruliweb.com/news/read/225951",
-          "meta": "댓글 61"
+          "meta": "댓글 123"
         },
         {
           "title": "'마비노기 모바일' 판 대격변, 시즌2 빅 캠파 라이브 쇼케이스",
@@ -49,6 +44,11 @@
           "title": "로스트아크, 올여름은 더 가볍게 더 깊이 있게",
           "url": "https://bbs.ruliweb.com/news/read/226042",
           "meta": "댓글 56"
+        },
+        {
+          "title": "넷마블 ‘SOL: enchant(솔: 인챈트)’, 출시 하루도 채 되지 않아 양대마켓 매출 1위 기록",
+          "url": "https://bbs.ruliweb.com/news/read/226003",
+          "meta": "댓글 22"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "C9과 FLY 한국 찾는다, SOOP LoL 인비테이셔널 26일 개최",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317810",
-          "meta": "리그 오브 레전드 · 25분 전"
+          "title": "오르카 등장! 무한의 탑 확장과 각성 조건 완화도 적용",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317804",
+          "meta": "세븐나이츠 리버스 · 5시간 전"
         },
         {
-          "title": "이번에는 축구다, 큐리에이트 '판타지스타 아스카' 스위치판 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317809",
-          "meta": "32분 전"
+          "title": "'태산군주' - 28년 군주 외길 인생, 크리스터의 2성 성주로",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317831",
+          "meta": "리니지 클래식 · 6시간 전"
         },
         {
-          "title": "'소울 스트라이크', 신규 성장 콘텐츠로 전력 더 강화하자",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317807",
-          "meta": "소울 스트라이크 · 38분 전"
+          "title": "룰렛으로 만드는 빌딩 로그라이크, '빙글빙글' 스팀 발매",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317836",
+          "meta": "빙글빙글 · 6시간 전"
         },
         {
-          "title": "리니지 리마스터, '무한 나선: 정복자의 첨탑' 사전예약 진행",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317806",
-          "meta": "리니지 리마스터 · 45분 전"
+          "title": "블레이드&소울 레볼루션, 첫 신화 던전 '맹독의 화원' 등장",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317835",
+          "meta": "블레이드&소울 레볼루션 · 6시간 전"
         },
         {
-          "title": "죽음이 구원, 다크 판타지 방치 게임 '블라이트 워: 사후 처리국' 사전예약",
-          "url": "https://www.inven.co.kr/webzine/news/?news=317805",
-          "meta": "47분 전"
+          "title": "먹으면서 강해지는 협동 로그라이크 '페블 나이츠', 스팀 여름 할인 참가",
+          "url": "https://www.inven.co.kr/webzine/news/?news=317834",
+          "meta": "페블 나이츠 · 6시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
