@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-06-24T22:18:04.600Z",
-  "articleCount": 14,
+  "lastUpdatedAt": "2026-06-25T03:36:49.306Z",
+  "articleCount": 13,
   "articles": [
+    {
+      "id": "1e1ba89e3e408617",
+      "title": "‘안전 판정’ 받은 AI 에이전트 스킬의 배신…정적 스캔 한계 드러나",
+      "url": "https://www.itworld.co.kr/article/4189141/%ec%95%88%ec%a0%84-%ed%8c%90%ec%a0%95-%eb%b0%9b%ec%9d%80-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ed%82%ac%ec%9d%98-%eb%b0%b0%ec%8b%a0%ec%a0%95%ec%a0%81-%ec%8a%a4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-06-24T23:48:03.000Z",
+      "summary": "보안 검사를 통과한 가짜 AI 에이전트 스킬이 인스타그램을 통해 2만6,000명 이상의 사용자에게 배포된 것으로 나타났다. 이번 사례는 기업이 AI 기반 도구에 의존하는 환경에서 새로운 보안 위험을 보여준다고 AIR는 설명했다. AIR에 따르면 일부 에이전트는 기업 계정과 연결돼 있었다. 또한 유사한 공격이 실제로 이뤄졌다면 개인 대화 내용과 내부 시스템이 노출될 수도 있었다고 지적했다...",
+      "tab": "ai"
+    },
     {
       "id": "b7afb23b50c084b3",
       "title": "“안보가 아닌 복종 요구”…트럼프 vs. 앤트로픽의 AI 주도권 전쟁",
@@ -113,24 +122,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-06-18T00:36:47.000Z",
       "summary": "많은 기업에서 데이터 웨어하우스, 데이터 레이크, 서비스형 소프트웨어(SaaS) 플랫폼, 클라우드 드라이브, 데이터센터 전반에 데이터가 분산돼 있다. 데이터 패브릭은 기업이 데이터 접근을 중앙화하고 통제할 수 있도록 지원하며, 데이터 과학자나 시민 데이터 애널리스트 같은 사용자가 신뢰할 수 있는 관리형 데이터 소스를 쉽게 찾아 활용하도록 돕는다. 데이터 패브릭, 데이터 메시, 분산 데이...",
-      "tab": "ai"
-    },
-    {
-      "id": "c235f67bac2b3dd4",
-      "title": "시리 AI 베타 첫 주 사용기 : 놀랍고도 아쉬운 애플 인텔리전스",
-      "url": "https://www.itworld.co.kr/article/4186489/%ec%8b%9c%eb%a6%ac-ai-%eb%b2%a0%ed%83%80-%ec%b2%ab-%ec%a3%bc-%ec%82%ac%ec%9a%a9%ea%b8%b0-%eb%86%80%eb%9e%8d%ea%b3%a0%eb%8f%84-%ec%95%84%ec%89%ac%ec%9a%b4-%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-17T23:50:46.000Z",
-      "summary": "iOS 27의 주요 신기능은 시리 AI와, 시리 AI를 기반으로 하는 더 넓은 범주의 애플 인텔리전스 기능이다. 올가을 비교적 최신 기기부터 순차 적용될 예정으로, 새로운 기반 모델, 새로운 클라우드 처리 방식, 새로운 음성, 새로운 지식 데이터베이스, 새로운 양방향 대화 기능까지 시리를 처음부터 완전히 다시 설계한 결과물이다. 애플은 6월 8일 첫 번째 개발자 베타를 공개하고, 새로운...",
-      "tab": "ai"
-    },
-    {
-      "id": "a16a07ac95a3e338",
-      "title": "AI, 클라우드 밖으로 나오다…엔비디아의 새로운 도전",
-      "url": "https://www.itworld.co.kr/article/4186486/ai-%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-%eb%b0%96%ec%9c%bc%eb%a1%9c-%eb%82%98%ec%98%a4%eb%8b%a4-%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%eb%8f%84%ec%a0%84.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-17T23:32:47.000Z",
-      "summary": "엔비디아(NVIDIA)의 신제품 RTX 스파크는 최근 몇 년간 나온 퍼스널 컴퓨팅 발표 중 가장 주목할 만한 소식이다. 단순히 새로운 PC 플랫폼이 아니라, AI 시대에 개인용 컴퓨터의 역할을 재정의하려는 시도이기 때문이다. 2026년 컴퓨텍스 행사에서 공개된 RTX 스파크는 슬림형 윈도우 노트북과 소형 데스크톱을 위한 엔비디아의 새로운 플랫폼으로, Arm 기반 CPU와 블랙웰 기반 R...",
       "tab": "ai"
     }
   ]
