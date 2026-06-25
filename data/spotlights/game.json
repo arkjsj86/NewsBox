@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-25T17:11:42.484Z",
+  "lastUpdatedAt": "2026-06-25T20:00:57.397Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -37,7 +37,7 @@
         {
           "title": "재고 부족 ‘스팀 컨트롤러’, 지금 주문하면 2027년",
           "url": "https://bbs.ruliweb.com/news/read/226038",
-          "meta": "댓글 58"
+          "meta": "댓글 59"
         },
         {
           "title": "밸브, ‘스팀 머신’ 모델 별 해외 가격 공식 발표",
@@ -47,7 +47,7 @@
         {
           "title": "'마비노기 모바일' 판 대격변, 시즌2 빅 캠파 라이브 쇼케이스",
           "url": "https://bbs.ruliweb.com/news/read/226036",
-          "meta": "댓글 65"
+          "meta": "댓글 66"
         },
         {
           "title": "로스트아크, 올여름은 더 가볍게 더 깊이 있게",
@@ -69,27 +69,27 @@
         {
           "title": "오르카 등장! 무한의 탑 확장과 각성 조건 완화도 적용",
           "url": "https://www.inven.co.kr/webzine/news/?news=317804",
-          "meta": "세븐나이츠 리버스 · 5시간 전"
+          "meta": "세븐나이츠 리버스 · 10시간 전"
         },
         {
           "title": "'태산군주' - 28년 군주 외길 인생, 크리스터의 2성 성주로",
           "url": "https://www.inven.co.kr/webzine/news/?news=317831",
-          "meta": "리니지 클래식 · 6시간 전"
+          "meta": "리니지 클래식 · 11시간 전"
         },
         {
           "title": "룰렛으로 만드는 빌딩 로그라이크, '빙글빙글' 스팀 발매",
           "url": "https://www.inven.co.kr/webzine/news/?news=317836",
-          "meta": "빙글빙글 · 6시간 전"
+          "meta": "빙글빙글 · 12시간 전"
         },
         {
           "title": "블레이드&소울 레볼루션, 첫 신화 던전 '맹독의 화원' 등장",
           "url": "https://www.inven.co.kr/webzine/news/?news=317835",
-          "meta": "블레이드&소울 레볼루션 · 6시간 전"
+          "meta": "블레이드&소울 레볼루션 · 12시간 전"
         },
         {
           "title": "먹으면서 강해지는 협동 로그라이크 '페블 나이츠', 스팀 여름 할인 참가",
           "url": "https://www.inven.co.kr/webzine/news/?news=317834",
-          "meta": "페블 나이츠 · 6시간 전"
+          "meta": "페블 나이츠 · 12시간 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
