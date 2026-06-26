@@ -7,57 +7,339 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-06-26T14:25:13.891Z",
+  "lastUpdatedAt": "2026-06-26T17:00:32.247Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "3079e5dfde7ef7c7",
-      "issueKey": "hyundai avante",
-      "issueTitle": "hyundai avante",
-      "trendTitle": "hyundai avante",
+      "id": "b7e1a222b089d73a",
+      "issueKey": "박지현",
+      "issueTitle": "박지현",
+      "trendTitle": "박지현",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Redesigned 2027 Hyundai Elantra Sedan Unveiled",
-          "source": "Kelley Blue Book",
-          "url": "https://www.kbb.com/car-news/redesigned-2027-hyundai-elantra-sedan-unveiled/",
+          "title": "'나혼산' 박지현, 코쿤 손길에 패션 180도 변신? \"연예인 같아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626143235739",
+          "publishedAt": "2026-06-26T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'나 혼자 산다' 박지현, 한남동 빈티지 숍 방문…스타일 변신",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260626n31365?mid=e0600&amp;isq=7377",
+          "publishedAt": "2026-06-26T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'나혼산' 박지현, 코쿤에 패션 도움 요청…기안84 질투심 폭발",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6209956",
+          "publishedAt": "2026-06-26T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'나혼산' 박지현, 코쿤 손길에 패션 180도 변신? \"연예인 같아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260626143235739",
+        "publishedAt": "2026-06-26T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-26T15:50:00.000Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
+      "title": "박지현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260626143235739",
+      "rank": 1
+    },
+    {
+      "id": "72dce5615c37f7cb",
+      "issueKey": "김연아",
+      "issueTitle": "김연아",
+      "trendTitle": "김연아",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김연아 “♥고우림과 어떻게하면 오래 좋은 관계 이어갈지 고민”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606261644003",
+          "publishedAt": "2026-06-26T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김연아, 결혼 후 더 깊어진 여유…“서로 배려하며 살아가” [화보]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626163051393",
+          "publishedAt": "2026-06-26T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김연아, 강철 멘탈 비결 \"나만의 목표 잡아, 늘 100% 확신 없었다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/06/26/G44DOZLGG5QWGZLGMFSTAYRVMU/",
+          "publishedAt": "2026-06-26T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김연아 “♥고우림과 어떻게하면 오래 좋은 관계 이어갈지 고민”",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202606261644003",
+        "publishedAt": "2026-06-26T14:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-26T14:50:00.000Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
+      "title": "김연아",
+      "source": "스포츠경향",
+      "url": "https://sports.khan.co.kr/article/202606261644003",
+      "rank": 2
+    },
+    {
+      "id": "655eab9f02534cf0",
+      "issueKey": "백화점",
+      "issueTitle": "백화점",
+      "trendTitle": "백화점",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "마트도 백화점도 '반값'…주말 할인대전 열린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626181801900",
+          "publishedAt": "2026-06-26T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "신세계면세점, 여름 맞아 최대 65% 할인 행사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260626080300030",
+          "publishedAt": "2026-06-26T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "폭염보다 빨라진 소비…백화점 여름 세일, '할인'에서 '체험'으로 진화",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=343464",
+          "publishedAt": "2026-06-26T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "마트도 백화점도 '반값'…주말 할인대전 열린다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260626181801900",
+        "publishedAt": "2026-06-26T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-26T14:40:00.000Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
+      "title": "백화점",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260626181801900",
+      "rank": 3
+    },
+    {
+      "id": "5496a40a1ea88466",
+      "issueKey": "고준희",
+      "issueTitle": "고준희",
+      "trendTitle": "고준희",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'귀한가족' 고준희, 94년생 펀드매니저와 맞선…부모님도 직관",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qB1SbxaeXN?f=p",
+          "publishedAt": "2026-06-26T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"기회가 되면 또 뵐 수 있을까요?\"... 고준희의 첫 맞선, 애프터 성사될까",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1165888",
+          "publishedAt": "2026-06-26T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "고준희, 12세 연하男과 맞선…\"20대 중반부터 결혼 생각\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260624_0003681060",
+          "publishedAt": "2026-06-26T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'귀한가족' 고준희, 94년생 펀드매니저와 맞선…부모님도 직관",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qB1SbxaeXN?f=p",
+        "publishedAt": "2026-06-26T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-26T14:40:00.000Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
+      "title": "고준희",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/qB1SbxaeXN?f=p",
+      "rank": 4
+    },
+    {
+      "id": "d43281e65db7ec7c",
+      "issueKey": "사우디 아람코",
+      "issueTitle": "사우디 아람코",
+      "trendTitle": "사우디 아람코",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "(단독)사우디 아람코, 정부에 석유 최고가격제 항의",
+          "source": "뉴스토마토",
+          "url": "https://www.newstomato.com/ReadNews.aspx?no=1305327",
+          "publishedAt": "2026-06-26T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "(설명자료)사우디 아람코는 석유 최고가격제와 관련하여 정부에 항의를 한 바 없습니다",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148967226",
+          "publishedAt": "2026-06-26T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"사우디, 걸프 해역 항구서 3개월만에 원유 선적 시작\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626173303501",
+          "publishedAt": "2026-06-26T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "(단독)사우디 아람코, 정부에 석유 최고가격제 항의",
+        "source": "뉴스토마토",
+        "url": "https://www.newstomato.com/ReadNews.aspx?no=1305327",
+        "publishedAt": "2026-06-26T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-26T13:50:00.000Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
+      "title": "사우디 아람코",
+      "source": "뉴스토마토",
+      "url": "https://www.newstomato.com/ReadNews.aspx?no=1305327",
+      "rank": 5
+    },
+    {
+      "id": "4ef458dc5a66c8f3",
+      "issueKey": "신하균",
+      "issueTitle": "신하균",
+      "trendTitle": "오십프로",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "신하균, 10년 전 영선도 임무 끝낼까…'오십프로' 최종 결전 예고",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/509501",
+          "publishedAt": "2026-06-26T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "신하균·오정세·허성태, 드디어 손잡았다…‘오십프로’ 최종회 앞두고 대반격",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260625/134180260/1",
+          "publishedAt": "2026-06-26T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'오십프로' 신하균-오정세-허성태-이학주, 마지막 공조 \"김상경 무너뜨려라\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/06/26/2026062615197218991",
+          "publishedAt": "2026-06-26T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "신하균, 10년 전 영선도 임무 끝낼까…'오십프로' 최종 결전 예고",
+        "source": "iMBC 연예",
+        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/509501",
+        "publishedAt": "2026-06-26T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-26T13:50:00.000Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
+      "title": "신하균",
+      "source": "iMBC 연예",
+      "url": "https://enews.imbc.com/News/RetrieveNewsInfo/509501",
+      "rank": 6
+    },
+    {
+      "id": "3079e5dfde7ef7c7",
+      "issueKey": "hyundai avante",
+      "issueTitle": "hyundai avante",
+      "trendTitle": "hyundai avante",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Revealed: New Hyundai Elantra Is A Giant Leap Into The Future",
+          "source": "CarBuzz",
+          "url": "https://carbuzz.com/reveal-2027-hyundai-elantra-sedan/",
           "publishedAt": "2026-06-26T13:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Hyundai’s New Elantra Just Got Bigger Than A Honda Civic",
-          "source": "Autoblog",
-          "url": "https://www.autoblog.com/news/hyundais-new-elantra-just-got-bigger-than-a-honda-civic",
+          "title": "The 2027 Elantra displayed sharp, jagged looks at its launch in South Korea this week.",
+          "source": "Car and Driver",
+          "url": "https://www.caranddriver.com/news/a71744149/2027-hyundai-elantra-revealed-korea/",
           "publishedAt": "2026-06-26T13:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "2027 Hyundai Elantra gets major makeover",
-          "source": "Automotive News",
-          "url": "https://www.autonews.com/hyundai/an-next-gen-elantra-takes-shape-0625/",
+          "title": "Redesigned 2027 Hyundai Elantra Sedan Unveiled",
+          "source": "Kelley Blue Book",
+          "url": "https://www.kbb.com/car-news/redesigned-2027-hyundai-elantra-sedan-unveiled/",
           "publishedAt": "2026-06-26T13:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "hyundai avante",
-        "source": "Kelley Blue Book",
-        "url": "https://www.kbb.com/car-news/redesigned-2027-hyundai-elantra-sedan-unveiled/",
+        "source": "CarBuzz",
+        "url": "https://carbuzz.com/reveal-2027-hyundai-elantra-sedan/",
         "publishedAt": "2026-06-26T13:10:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-26T13:10:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
       "title": "hyundai avante",
-      "source": "Kelley Blue Book",
-      "url": "https://www.kbb.com/car-news/redesigned-2027-hyundai-elantra-sedan-unveiled/",
-      "rank": 1
+      "source": "CarBuzz",
+      "url": "https://carbuzz.com/reveal-2027-hyundai-elantra-sedan/",
+      "rank": 7
     },
     {
       "id": "a4215a3126661d52",
@@ -77,16 +359,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "Scientists Turn Wet Coffee Grounds Into Coal-Like Fuel in Just 90 Seconds",
-          "source": "ZME Science",
-          "url": "https://www.zmescience.com/ecology/scientists-turn-wet-coffee-grounds-into-coal-like-fuel-in-just-90-seconds/",
+          "title": "South Korean researchers just turned wet coffee grounds into a coal-grade fuel in 90 seconds without ever drying them, using a plasma flame to flash the trapped water into thousands of tiny explosions that blow each ground open and leave behind carbon as",
+          "source": "Autonocion.com",
+          "url": "https://www.autonocion.com/us/coffee-south-korean-lab-wood-pellets-biofuel/",
           "publishedAt": "2026-06-26T13:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "South Korean researchers just turned wet coffee grounds into a coal-grade fuel in 90 seconds without ever drying them, using a plasma flame to flash the trapped water into thousands of tiny explosions that blow each ground open and leave behind carbon as",
-          "source": "Autonocion.com",
-          "url": "https://www.autonocion.com/us/coffee-south-korean-lab-wood-pellets-biofuel/",
+          "title": "Scientists Say New Method Turns Coffee Grounds Into High-Potency Renewable Fuel",
+          "source": "Futurism",
+          "url": "https://futurism.com/science-energy/scientists-new-method-coffee-grounds-renewable-energy",
           "publishedAt": "2026-06-26T13:00:00.000Z",
           "relevanceScore": 1
         }
@@ -99,12 +381,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-26T13:00:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
       "title": "커피",
       "source": "Crude Oil Prices Today | OilPrice.com",
       "url": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html",
-      "rank": 2
+      "rank": 8
     },
     {
       "id": "d2267859223749ed",
@@ -146,12 +428,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-26T12:50:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
       "title": "맥그리거",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260626093502121",
-      "rank": 3
+      "rank": 9
     },
     {
       "id": "00924c86a09124de",
@@ -164,322 +446,40 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Live - India and Ireland face off in Belfast",
-          "source": "Cricinfo",
-          "url": "https://www.espncricinfo.com/series/india-in-ireland-2026-1528532/ireland-vs-india-1st-t20i-1528548/live-match-blog",
+          "title": "Ireland v India: Irish stun world champions in T20 opener at Stormont",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/cwy0k47k3wno",
           "publishedAt": "2026-06-26T12:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'We Treat Them All The Same': Ireland's Calitz Downplays Talk Of Special Plans For Sooryavanshi",
-          "source": "Mena FN",
-          "url": "https://menafn.com/1111314715/We-Treat-Them-All-The-Same-Irelands-Calitz-Downplays-Talk-Of-Special-Plans-For-Sooryavanshi",
+          "title": "Ball by Ball Commentary & Live Score - IRE vs IND, 1st T20I",
+          "source": "Cricinfo",
+          "url": "https://www.espncricinfo.com/series/india-in-ireland-2026-1528532/ireland-vs-india-1st-t20i-1528548/ball-by-ball-commentary",
           "publishedAt": "2026-06-26T12:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Stormont Cricket Ground pitch report: T20I records and average scores in Belfast ahead of India vs Ireland",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/stormont-cricket-ground-pitch-report-023001486.html",
+          "title": "IND vs IRE: Harshit Rana shines with three wickets to make an instant impact",
+          "source": "Revsportz",
+          "url": "https://revsportz.in/ind-vs-ire-harshit-rana-shines-with-three-wickets-to-make-an-instant-impact/?amp=1",
           "publishedAt": "2026-06-26T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "ireland vs india",
-        "source": "Cricinfo",
-        "url": "https://www.espncricinfo.com/series/india-in-ireland-2026-1528532/ireland-vs-india-1st-t20i-1528548/live-match-blog",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/cricket/articles/cwy0k47k3wno",
         "publishedAt": "2026-06-26T12:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-06-26T12:40:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
       "title": "ireland vs india",
-      "source": "Cricinfo",
-      "url": "https://www.espncricinfo.com/series/india-in-ireland-2026-1528532/ireland-vs-india-1st-t20i-1528548/live-match-blog",
-      "rank": 4
-    },
-    {
-      "id": "241873e69979a454",
-      "issueKey": "유시민",
-      "issueTitle": "유시민",
-      "trendTitle": "유시민",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"이재명 대통령, 올바른 길 안 가고 있다\"…'어용지식인' 유시민의 선전포고?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626105948272",
-          "publishedAt": "2026-06-26T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "정청래는 정부 들이받고 유시민·김어준은 李 공격 … '문조털래유의 난'에 與 갈등 폭발",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/06/26/2026062600100.html",
-          "publishedAt": "2026-06-26T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유시민, 다스뵈이다에서 이잼 언급? 녹화 뒷이야기, 카더라로 들어보니~ (20260625 목요일 클립) 조계원 신인규 이유진",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/video/article/202606252000011",
-          "publishedAt": "2026-06-26T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"이재명 대통령, 올바른 길 안 가고 있다\"…'어용지식인' 유시민의 선전포고?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260626105948272",
-        "publishedAt": "2026-06-26T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-26T11:50:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
-      "title": "유시민",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260626105948272",
-      "rank": 5
-    },
-    {
-      "id": "32a5758345a9e53c",
-      "issueKey": "김무열",
-      "issueTitle": "김무열",
-      "trendTitle": "김무열",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김무열 “‘참교육’ 글로벌 1위 소식에 울컥”…윤승아와 부둥켜안고 오열",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260626/134189095/2",
-          "publishedAt": "2026-06-26T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'중증외상센터' 천장미가 '참교육' 최가윤으로…하영, 강렬한 활약",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626115942009",
-          "publishedAt": "2026-06-26T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김무열 \"'참교육' 글로벌 1위 소식에 윤승아 안고 오열\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260626_0003685527",
-          "publishedAt": "2026-06-26T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김무열 “‘참교육’ 글로벌 1위 소식에 울컥”…윤승아와 부둥켜안고 오열",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20260626/134189095/2",
-        "publishedAt": "2026-06-26T10:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-26T10:50:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
-      "title": "김무열",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Culture/article/all/20260626/134189095/2",
-      "rank": 6
-    },
-    {
-      "id": "bdf77fdfd5a34907",
-      "issueKey": "현대 아이오닉",
-      "issueTitle": "현대 아이오닉",
-      "trendTitle": "현대 아이오닉",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"아이오닉 살 돈으로 이걸\" 고성능과 편의까지 다 잡은 풀옵션급이라는 세단의 정체",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Ku9aU39U7G",
-          "publishedAt": "2026-06-26T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"중국차라 욕하던 아빠들도 결국\"... 역대급 가성비에 오너 ‘평점 9.7’점 찍어버린 패밀리카",
-          "source": "토픽트리",
-          "url": "https://topictree.co.kr/automobiles/news/byd-sealion-7-korea-owner-satisfaction/",
-          "publishedAt": "2026-06-26T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "2027년형 BYD 덴자 N8L은 11억 VND가 넘는 가격부터 시작하며, 과도한 연료 소비 없이 한 번 충전으로 430km를 주행할 수 있습니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/byd-denza-n8l-2027-tu-hon-1-1-ty-dong-chay-430km-khong-an-xang",
-          "publishedAt": "2026-06-26T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "현대 아이오닉",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Ku9aU39U7G",
-        "publishedAt": "2026-06-26T10:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-26T10:50:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
-      "title": "현대 아이오닉",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/Ku9aU39U7G",
-      "rank": 7
-    },
-    {
-      "id": "5b734b039e0c2bf4",
-      "issueKey": "국세청 사무관",
-      "issueTitle": "국세청 사무관",
-      "trendTitle": "국세청 사무관",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "용인세무서, 개인 정보 수만 건 외부 유출…직원이 전임자에 송부",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260625155717130",
-          "publishedAt": "2026-06-26T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "납세자 정보 대량 유출한 국세청 사무관, 6월 25일 직위해제",
-          "source": "Daily NTN",
-          "url": "https://www.intn.co.kr/news/articleView.html?idxno=2051538",
-          "publishedAt": "2026-06-26T10:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "작년 탄핵정국 때 세무서에서 납세자정보 8만여건 유출됐다",
-          "source": "한국세정신문",
-          "url": "https://www.taxtimes.co.kr/news/article.html?no=275652",
-          "publishedAt": "2026-06-26T10:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "납세자 정보 대량 유출한 국세청 사무관, 6월 25일 직위해제",
-        "source": "Daily NTN",
-        "url": "https://www.intn.co.kr/news/articleView.html?idxno=2051538",
-        "publishedAt": "2026-06-26T10:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-26T10:40:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
-      "title": "국세청 사무관",
-      "source": "Daily NTN",
-      "url": "https://www.intn.co.kr/news/articleView.html?idxno=2051538",
-      "rank": 8
-    },
-    {
-      "id": "77624a0702be9f09",
-      "issueKey": "김부장",
-      "issueTitle": "김부장",
-      "trendTitle": "김부장",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "액션 부성 담은 '소간지' 소지섭",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626154139448",
-          "publishedAt": "2026-06-26T09:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "포즈 취하는 손나은",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260625210700013",
-          "publishedAt": "2026-06-26T09:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "거제 명소 담긴 SBS 새 금토드라마 '김부장', 26일 첫 방영",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260626_0003685114",
-          "publishedAt": "2026-06-26T09:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "거제 명소 담긴 SBS 새 금토드라마 '김부장', 26일 첫 방영",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260626_0003685114",
-        "publishedAt": "2026-06-26T09:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-06-26T09:40:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
-      "title": "김부장",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260626_0003685114",
-      "rank": 9
-    },
-    {
-      "id": "0bd32e5978c05255",
-      "issueKey": "박건우도",
-      "issueTitle": "박건우도",
-      "trendTitle": "박건우도",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "NC, '前 홈런왕' 맷 데이비슨 방출…오늘 홈경기서 고별전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260626161902027",
-          "publishedAt": "2026-06-26T09:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'이렇게 슬픈 승리는 처음 본다' 박건우도, 박민우도, 데이비슨도 울었다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/06/26/GAYDSMBWGNRDOYLDMI3WENBXGA/",
-          "publishedAt": "2026-06-26T09:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "NC, 2024년 홈런왕 데이비슨 방출…새 외국인 선수 영입 추진",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260626126500007",
-          "publishedAt": "2026-06-26T09:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'이렇게 슬픈 승리는 처음 본다' 박건우도, 박민우도, 데이비슨도 울었다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/06/26/GAYDSMBWGNRDOYLDMI3WENBXGA/",
-        "publishedAt": "2026-06-26T09:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-06-26T09:40:00.000Z",
-      "firstSeenAt": "2026-06-26T14:25:13.891Z",
-      "lastSeenAt": "2026-06-26T14:25:13.891Z",
-      "title": "박건우도",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/baseball/2026/06/26/GAYDSMBWGNRDOYLDMI3WENBXGA/",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/cricket/articles/cwy0k47k3wno",
       "rank": 10
     }
   ],
@@ -575,52 +575,6 @@
       "title": "내일 날씨",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260625000709541"
-    },
-    {
-      "id": "cc0ffde3e0555b1e",
-      "issueKey": "돌풍",
-      "issueTitle": "돌풍",
-      "trendTitle": "내일 날씨",
-      "approxTraffic": "200000+",
-      "trafficScore": 200000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[날씨] 내일 오후부터 '요란한 소나기'‥돌풍·벼락·우박 유의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260624210303933",
-          "publishedAt": "2026-06-24T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서울 낮 30도 초여름 더위···남부·제주엔 비",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202606240724001",
-          "publishedAt": "2026-06-24T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "25일 낮 최고 28도 덥지만… 오후부터 전국 세찬 소나기 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/06/24/JN3T2M473BBAJHFXCLZ37YZBV4/",
-          "publishedAt": "2026-06-24T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[날씨] 내일 오후부터 '요란한 소나기'‥돌풍·벼락·우박 유의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260624210303933",
-        "publishedAt": "2026-06-24T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-24T11:50:00.000Z",
-      "firstSeenAt": "2026-06-24T14:31:01.626Z",
-      "lastSeenAt": "2026-06-24T14:31:01.626Z",
-      "title": "돌풍",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260624210303933"
     },
     {
       "id": "da6b9174cdf15e47",
@@ -1624,52 +1578,6 @@
       "url": "https://www.newspim.com/news/view/20260624001154"
     },
     {
-      "id": "aa134b17a3a29fb6",
-      "issueKey": "weather tomorrow",
-      "issueTitle": "weather tomorrow",
-      "trendTitle": "weather tomorrow",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Rare overnight storms expected Tuesday into Wednesday",
-          "source": "KUSA.com",
-          "url": "https://www.9news.com/article/weather/weather-impact/severe-storms-tuesday-weather-impact/73-4d48fc2b-65a8-4f73-a7d6-8d3057914471",
-          "publishedAt": "2026-06-24T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Denver weather: Pinpoint Weather Alert Day for strong to severe storms Tuesday night",
-          "source": "KDVR",
-          "url": "https://kdvr.com/weather/weather-forecast/denver-weather-pinpoint-weather-alert-day-for-strong-to-severe-storms-tuesday-night/",
-          "publishedAt": "2026-06-24T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Very large hail possible in Colorado as severe storms threaten Front Range, Eastern Plains",
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/colorado/news/very-large-hail-possible-colorado-severe-storms-front-range-eastern-plains/",
-          "publishedAt": "2026-06-24T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "weather tomorrow",
-        "source": "KUSA.com",
-        "url": "https://www.9news.com/article/weather/weather-impact/severe-storms-tuesday-weather-impact/73-4d48fc2b-65a8-4f73-a7d6-8d3057914471",
-        "publishedAt": "2026-06-24T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-06-24T11:40:00.000Z",
-      "firstSeenAt": "2026-06-24T14:31:01.626Z",
-      "lastSeenAt": "2026-06-24T14:31:01.626Z",
-      "title": "weather tomorrow",
-      "source": "KUSA.com",
-      "url": "https://www.9news.com/article/weather/weather-impact/severe-storms-tuesday-weather-impact/73-4d48fc2b-65a8-4f73-a7d6-8d3057914471"
-    },
-    {
       "id": "50dfaa50d8dba40c",
       "issueKey": "000660",
       "issueTitle": "000660",
@@ -1820,6 +1728,52 @@
       "title": "함은정",
       "source": "iMBC 연예",
       "url": "https://enews.imbc.com/News/RetrieveNewsInfo/509345"
+    },
+    {
+      "id": "72dce5615c37f7cb",
+      "issueKey": "김연아",
+      "issueTitle": "김연아",
+      "trendTitle": "김연아",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김연아 “♥고우림과 어떻게하면 오래 좋은 관계 이어갈지 고민”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202606261644003",
+          "publishedAt": "2026-06-26T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김연아, 결혼 후 더 깊어진 여유…“서로 배려하며 살아가” [화보]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260626163051393",
+          "publishedAt": "2026-06-26T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김연아, 강철 멘탈 비결 \"나만의 목표 잡아, 늘 100% 확신 없었다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/06/26/G44DOZLGG5QWGZLGMFSTAYRVMU/",
+          "publishedAt": "2026-06-26T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김연아 “♥고우림과 어떻게하면 오래 좋은 관계 이어갈지 고민”",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202606261644003",
+        "publishedAt": "2026-06-26T14:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-26T14:50:00.000Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
+      "title": "김연아",
+      "source": "스포츠경향",
+      "url": "https://sports.khan.co.kr/article/202606261644003"
     },
     {
       "id": "32a5758345a9e53c",
@@ -2372,6 +2326,52 @@
       "title": "fotmob",
       "source": "The Mirror",
       "url": "https://www.mirror.co.uk/sport/football/news/lionel-messi-argentina-retirement-olympics-37344017"
+    },
+    {
+      "id": "a4215a3126661d52",
+      "issueKey": "커피",
+      "issueTitle": "커피",
+      "trendTitle": "커피",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Why Wet Coffee Grounds Might Be The Next Waste-To-Energy Goldmine",
+          "source": "Crude Oil Prices Today | OilPrice.com",
+          "url": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html",
+          "publishedAt": "2026-06-26T13:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "South Korean researchers just turned wet coffee grounds into a coal-grade fuel in 90 seconds without ever drying them, using a plasma flame to flash the trapped water into thousands of tiny explosions that blow each ground open and leave behind carbon as",
+          "source": "Autonocion.com",
+          "url": "https://www.autonocion.com/us/coffee-south-korean-lab-wood-pellets-biofuel/",
+          "publishedAt": "2026-06-26T13:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Scientists Say New Method Turns Coffee Grounds Into High-Potency Renewable Fuel",
+          "source": "Futurism",
+          "url": "https://futurism.com/science-energy/scientists-new-method-coffee-grounds-renewable-energy",
+          "publishedAt": "2026-06-26T13:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "커피",
+        "source": "Crude Oil Prices Today | OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html",
+        "publishedAt": "2026-06-26T13:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-06-26T13:00:00.000Z",
+      "firstSeenAt": "2026-06-26T17:00:32.247Z",
+      "lastSeenAt": "2026-06-26T17:00:32.247Z",
+      "title": "커피",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Why-Wet-Coffee-Grounds-Might-Be-The-Next-Waste-To-Energy-Goldmine.html"
     }
   ]
 }
