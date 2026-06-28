@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-06-28T19:20:16.837Z",
+  "lastUpdatedAt": "2026-06-28T22:02:05.998Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -47,7 +47,7 @@
         {
           "title": "에픽세븐·카오스 제로 나이트메어, 팝업 스토어 현장",
           "url": "https://bbs.ruliweb.com/news/read/226317",
-          "meta": "댓글 13"
+          "meta": "댓글 12"
         },
         {
           "title": "㈜엔씨 ‘아스트라에 오라티오’, 캐릭터 PV 지난 23일(화) 공개",
@@ -57,7 +57,7 @@
         {
           "title": "여름엔 아르카나 각성, 가을엔 이터니티 알파 - 마비노기 22주년 판타지 파티",
           "url": "https://bbs.ruliweb.com/news/read/226338",
-          "meta": "댓글 25"
+          "meta": "댓글 22"
         }
       ]
     },
@@ -69,27 +69,27 @@
         {
           "title": "3성 통일 속 치열한 전투! 6월 28일(일) 2차 공성전 이슈 TOP4",
           "url": "https://www.inven.co.kr/webzine/news/?news=317903",
-          "meta": "리니지 클래식 · 1시간 전"
+          "meta": "리니지 클래식 · 7시간 전"
         },
         {
           "title": "MVP '스파킹', \"더 많은 별로 브라질의 하늘을 채우겠다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=317902",
-          "meta": "PUBG: 배틀그라운드 · 2시간 전"
+          "meta": "PUBG: 배틀그라운드 · 7시간 전"
         },
         {
           "title": "준우승 대한민국 김성민 감독, \"20점 큰 차이긴 했지만, 너무 아쉽다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=317901",
-          "meta": "PUBG: 배틀그라운드 · 2시간 전"
+          "meta": "PUBG: 배틀그라운드 · 8시간 전"
         },
         {
           "title": "프랑스의 자존심 KC, 3:0으로 DCG 격파하고 플레이인 승자조 진출",
           "url": "https://www.inven.co.kr/webzine/news/?news=317898",
-          "meta": "리그 오브 레전드 · 8시간 전"
+          "meta": "리그 오브 레전드 · 13시간 전"
         },
         {
           "title": "우승 차지한 유창호 \"전남 e스포츠협회에 정말 감사해\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=317897",
-          "meta": "EA스포츠 FC 모바일 · 10시간 전"
+          "meta": "EA스포츠 FC 모바일 · 16시간 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
