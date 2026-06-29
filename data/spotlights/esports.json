@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-06-29T03:58:38.126Z",
+  "lastUpdatedAt": "2026-06-29T11:00:22.016Z",
   "activeLeagueKey": "msi",
   "activeLeagueLabel": "MSI",
   "title": "경기 일정",
@@ -15,29 +15,6 @@
   "matchCount": 12,
   "matches": [
     {
-      "id": "115846993721104369",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Play In Knockouts",
-      "startTime": "2026-06-29T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Team Liquid Alienware",
-          "code": "TLAW",
-          "imageUrl": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
-        },
-        {
-          "name": "Relove Deep Cross Gaming",
-          "code": "DCG",
-          "imageUrl": "http://static.lolesports.com/teams/1773832146741_LCP_DCG_Full_W.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
-    },
-    {
       "id": "115570934355614521",
       "leagueKey": "msi",
       "leagueLabel": "MSI",
@@ -48,14 +25,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Team Liquid Alienware",
+          "code": "TLAW",
+          "imageUrl": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Karmine Corp",
+          "code": "KC",
+          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
@@ -76,9 +53,9 @@
           "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "T1",
+          "code": "T1",
+          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
@@ -289,6 +266,29 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+    },
+    {
+      "id": "115570934355614587",
+      "leagueKey": "msi",
+      "leagueLabel": "MSI",
+      "tournamentName": "2026",
+      "blockName": "Knockouts",
+      "startTime": "2026-07-08T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
     }
   ],
   "fetchedLeagues": [
@@ -308,7 +308,7 @@
       "key": "msi",
       "label": "MSI",
       "ok": true,
-      "matchCount": 17
+      "matchCount": 16
     },
     {
       "key": "worlds",
