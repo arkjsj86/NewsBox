@@ -3,7 +3,7 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-07-01T19:56:35.427Z",
+  "lastUpdatedAt": "2026-07-01T22:17:12.107Z",
   "tabCount": 5,
   "totalArticleCount": 79,
   "availableTabs": [
@@ -25,8 +25,8 @@
     "unityVideoLimit": 2
   },
   "feedCount": 8,
-  "successfulFeedCount": 8,
-  "failedFeedCount": 0,
+  "successfulFeedCount": 7,
+  "failedFeedCount": 1,
   "successfulFeeds": [
     {
       "key": "itworld-kr",
@@ -62,14 +62,15 @@
       "key": "newsis-entertainment",
       "source": "뉴시스 연예",
       "itemCount": 30
-    },
+    }
+  ],
+  "failedFeeds": [
     {
       "key": "sportsdonga-entertainment",
       "source": "스포츠동아 엔터테인먼트",
-      "itemCount": 30
+      "error": "fetch failed"
     }
   ],
-  "failedFeeds": [],
   "spotlightCount": 4,
   "spotlights": [
     {
