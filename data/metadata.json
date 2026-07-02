@@ -3,7 +3,7 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-07-01T22:17:12.107Z",
+  "lastUpdatedAt": "2026-07-02T03:37:59.713Z",
   "tabCount": 5,
   "totalArticleCount": 79,
   "availableTabs": [
@@ -25,13 +25,13 @@
     "unityVideoLimit": 2
   },
   "feedCount": 8,
-  "successfulFeedCount": 7,
-  "failedFeedCount": 1,
+  "successfulFeedCount": 8,
+  "failedFeedCount": 0,
   "successfulFeeds": [
     {
       "key": "itworld-kr",
       "source": "ITWorld Korea",
-      "itemCount": 11
+      "itemCount": 10
     },
     {
       "key": "etnews-games",
@@ -62,21 +62,20 @@
       "key": "newsis-entertainment",
       "source": "뉴시스 연예",
       "itemCount": 30
-    }
-  ],
-  "failedFeeds": [
+    },
     {
       "key": "sportsdonga-entertainment",
       "source": "스포츠동아 엔터테인먼트",
-      "error": "fetch failed"
+      "itemCount": 30
     }
   ],
+  "failedFeeds": [],
   "spotlightCount": 4,
   "spotlights": [
     {
       "key": "entertainment",
       "source": "Google Trends",
-      "itemCount": 10
+      "itemCount": 9
     },
     {
       "key": "esports",
@@ -94,7 +93,7 @@
     {
       "key": "unity",
       "source": "Unity Releases + Unity Korea YouTube",
-      "version": "6000.3.18f1",
+      "version": "6000.3.19f1",
       "videoCount": 2
     }
   ]

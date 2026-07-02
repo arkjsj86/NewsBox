@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-07-01T22:17:12.107Z",
+  "lastUpdatedAt": "2026-07-02T03:37:59.713Z",
   "articleCount": 12,
   "articles": [
+    {
+      "id": "aab66c356ff46986",
+      "title": "NHN두레이-오스템임플란트 맞손 올인원 협업 도구 지원사격",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=305995",
+      "source": "경향게임스",
+      "publishedAt": "2026-07-02T02:01:58.000Z",
+      "summary": "엔에이치엔 두레이는 글로벌 치과기업 오스템임플란트에 올인원 AI 협업 도구 ‘두레이’를 오픈했다. 오스템임플란트는 아시아·태평양 1위, 세계 3위 규모의 국내 대표 임플란트 및 치과용 종합 솔루션 기업이다. 전 세계 30개국 34개 현지 법인에서 6천여 명의 임직원이 근무하고 있다.NHN두레이는 지난 5월부터 프로젝트, 메일, 전자결재, 메신저, 포털 등 두레이가 제공하는 모든 협업 서...",
+      "tab": "ai"
+    },
+    {
+      "id": "852a0322d3f6e31d",
+      "title": "미국 AI 차단 카드 꺼내자, EU ‘기술 주권’ 논의 급물살",
+      "url": "https://www.itworld.co.kr/article/4191912/%eb%af%b8%ea%b5%ad-ai-%ec%b0%a8%eb%8b%a8-%ec%b9%b4%eb%93%9c-%ea%ba%bc%eb%82%b4%ec%9e%90-eu-%ea%b8%b0%ec%88%a0-%ec%a3%bc%ea%b6%8c-%eb%85%bc%ec%9d%98-%ea%b8%89%eb%ac%bc%ec%82%b4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-07-02T01:20:07.000Z",
+      "summary": "AI 대기업들의 기업공개(IPO) 경쟁이 달아오르던 6월, 미국이 전격적으로 ‘블로킹 카드’를 꺼내 앤트로픽의 최신 모델을 무력화했다. 트럼프 행정부는 국가 안보를 이유로 비미국 시민(미국 내 거주자 포함)이 앤트로픽이 막 공개한 최첨단 모델에 접근하지 못하도록 강제했다. 같은 조치가 오픈AI에도 적용될 수 있다는 관측이 나온다. 6월 최대 기술 분야 뉴스 중 하나였다. AI 대기업의...",
+      "tab": "ai"
+    },
     {
       "id": "d8810882be322973",
       "title": "RAM 위기 속 애플, 가격·납기 이중고",
@@ -95,24 +113,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-06-26T01:05:55.000Z",
       "summary": "지난 1년 동안 기업 AI 생태계에는 막대한 역량이 추가됐지만 합의는 전혀 이뤄지지 않았다. 이제 개발자는 다양한 툴셋을 사용해 AI 에이전트를 구축할 수 있다. 오픈AI 프레임워크, 앤트로픽 클로드(Claude) 툴, 랭체인(LangChain), 랭그래프(LangGraph), 크루AI(CrewAI), 마이크로소프트 오토젠(AutoGen)도 있고 그 외의 여러 대안도 계속 늘어나는 중이...",
-      "tab": "ai"
-    },
-    {
-      "id": "1e1ba89e3e408617",
-      "title": "‘안전 판정’ 받은 AI 에이전트 스킬의 배신…정적 스캔 한계 드러나",
-      "url": "https://www.itworld.co.kr/article/4189141/%ec%95%88%ec%a0%84-%ed%8c%90%ec%a0%95-%eb%b0%9b%ec%9d%80-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ed%82%ac%ec%9d%98-%eb%b0%b0%ec%8b%a0%ec%a0%95%ec%a0%81-%ec%8a%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-24T23:48:03.000Z",
-      "summary": "보안 검사를 통과한 가짜 AI 에이전트 스킬이 인스타그램을 통해 2만6,000명 이상의 사용자에게 배포된 것으로 나타났다. 이번 사례는 기업이 AI 기반 도구에 의존하는 환경에서 새로운 보안 위험을 보여준다고 AIR는 설명했다. AIR에 따르면 일부 에이전트는 기업 계정과 연결돼 있었다. 또한 유사한 공격이 실제로 이뤄졌다면 개인 대화 내용과 내부 시스템이 노출될 수도 있었다고 지적했다...",
-      "tab": "ai"
-    },
-    {
-      "id": "b7afb23b50c084b3",
-      "title": "“안보가 아닌 복종 요구”…트럼프 vs. 앤트로픽의 AI 주도권 전쟁",
-      "url": "https://www.itworld.co.kr/article/4188660/%ec%95%88%eb%b3%b4%ea%b0%80-%ec%95%84%eb%8b%8c-%eb%b3%b5%ec%a2%85-%ec%9a%94%ea%b5%ac%ed%8a%b8%eb%9f%bc%ed%94%84-vs-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%a3%bc%eb%8f%84%ea%b6%8c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-06-24T02:36:14.000Z",
-      "summary": "앤트로픽은 최고의 전성기를 누리고 있었다. 대규모 언어 모델 미토스 5는 업계의 뜨거운 기대를 한 몸에 받았다. (소문을 믿는다면, 다소 두려움을 자아낼 만한 수준이기도 했다.) 앤트로픽 CEO 다리오 아모데이조차 미토스가 “취약점과 침해 사고를 대폭 늘릴 것”이라고 인정했다—아니, 자랑이었을까? 하지만 그 두려움과 함께, 전례 없는 AI 역량에 대한 기대도 커졌다. 그러다 갑자기 상황...",
       "tab": "ai"
     }
   ]
