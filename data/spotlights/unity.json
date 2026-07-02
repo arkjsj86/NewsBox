@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-07-02T03:37:59.713Z",
+  "lastUpdatedAt": "2026-07-02T08:56:49.235Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "ZS0Bc17QlZE",
+      "title": "Unite Seoul 2026 X 조코딩 구독자 특별 이벤트",
+      "url": "https://www.youtube.com/shorts/ZS0Bc17QlZE",
+      "publishedAt": "2026-07-02T08:34:54.000Z",
+      "thumbnailUrl": "https://i3.ytimg.com/vi/ZS0Bc17QlZE/hqdefault.jpg"
+    },
+    {
       "id": "uxnnMPNqoMQ",
       "title": "Unity Summer Challenge – Unity AI와 게임을 만들어 보세요!",
       "url": "https://www.youtube.com/shorts/uxnnMPNqoMQ",
       "publishedAt": "2026-07-01T05:56:33.000Z",
       "thumbnailUrl": "https://i2.ytimg.com/vi/uxnnMPNqoMQ/hqdefault.jpg"
-    },
-    {
-      "id": "LNfgaEo_MZo",
-      "title": "글로벌 스케일 개발 컨퍼런스, Unite Seoul 2026에 초대합니다!",
-      "url": "https://www.youtube.com/shorts/LNfgaEo_MZo",
-      "publishedAt": "2026-07-01T01:25:11.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/LNfgaEo_MZo/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -39,14 +39,14 @@
     {
       "key": "release",
       "source": "Unity Releases",
-      "ok": true,
-      "version": "6000.3.19f1"
+      "ok": false,
+      "error": "HTTP 404"
     },
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }

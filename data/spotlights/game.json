@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-02T03:37:59.713Z",
+  "lastUpdatedAt": "2026-07-02T08:56:49.235Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -37,7 +37,12 @@
         {
           "title": "SNK, 용호의 권 외전 리마스터…‘아트 오브 파이팅 용호의 권 외전 R’ 발표",
           "url": "https://bbs.ruliweb.com/news/read/226357",
-          "meta": "댓글 92"
+          "meta": "댓글 93"
+        },
+        {
+          "title": "7월에 출시되는 PC·모바일 게임 목록",
+          "url": "https://bbs.ruliweb.com/news/read/226445",
+          "meta": "댓글 13"
         },
         {
           "title": "에픽세븐·카오스 제로 나이트메어, 팝업 스토어 현장",
@@ -45,19 +50,14 @@
           "meta": "댓글 21"
         },
         {
-          "title": "7월에 출시되는 PC·모바일 게임 목록",
-          "url": "https://bbs.ruliweb.com/news/read/226445",
-          "meta": "댓글 11"
-        },
-        {
           "title": "여름엔 아르카나 각성, 가을엔 이터니티 알파 - 마비노기 22주년 판타지 파티",
           "url": "https://bbs.ruliweb.com/news/read/226338",
-          "meta": "댓글 37"
+          "meta": "댓글 38"
         },
         {
           "title": "보완은 해야겠지만 방향성은 명확하다 - '프로젝트 제타' 글로벌 테스트 체험기",
           "url": "https://bbs.ruliweb.com/news/read/226402",
-          "meta": "댓글 8"
+          "meta": "댓글 10"
         }
       ]
     },
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "진짜는 이제부터! T1 VS BLG 등, 7/3 브라켓 스테이지 시작",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318043",
-          "meta": "리그 오브 레전드 · 9시간 전"
+          "title": "컴투스홀딩스, 추론형 모바일 퍼즐 게임 '컬러스위퍼' 글로벌 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318078",
+          "meta": "컬러스위퍼 · 39분 전"
         },
         {
-          "title": "T1 '도란' \"LCK 혼내준다는 '빈'? 버릇 고쳐주겠다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318042",
-          "meta": "리그 오브 레전드 · 9시간 전"
+          "title": "빌리빌리 게임, ‘삼국지: 천하결전’ 2일 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318077",
+          "meta": "삼국지: 천하결전 · 41분 전"
         },
         {
-          "title": "팀 리퀴드 '모건' \"국제전 T1, 확실히 기세가 달라\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318041",
-          "meta": "리그 오브 레전드 · 9시간 전"
+          "title": "신의 탑으로 성장 가속, 업데이트 반응은?",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318029",
+          "meta": "솔: 인챈트 · 2시간 전"
         },
         {
-          "title": "위기를 구해낸 '도란'의 제이스, T1 2:0으로 앞서가",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318038",
-          "meta": "리그 오브 레전드 · 10시간 전"
+          "title": "\"메모리를 칩 안에 쏙\" AMD, 2세대 Versal 프리미엄 MoP SoC 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318071",
+          "meta": "3시간 전"
         },
         {
-          "title": "T1, 27분 만의 승리... TLAW 상대로 1:0 리드",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318036",
-          "meta": "리그 오브 레전드 · 11시간 전"
+          "title": "에이수스 ROG의 평판형 게이밍 헤드셋 'ROG 키타라' 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318068",
+          "meta": "5시간 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
