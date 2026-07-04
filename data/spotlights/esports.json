@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-07-04T10:53:49.167Z",
+  "lastUpdatedAt": "2026-07-04T13:26:37.682Z",
   "activeLeagueKey": "msi",
   "activeLeagueLabel": "MSI",
   "title": "경기 일정",
@@ -71,14 +71,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "LYON",
-          "code": "LYON",
-          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-        },
-        {
           "name": "BILIBILI GAMING",
           "code": "BLG",
           "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+        },
+        {
+          "name": "LYON",
+          "code": "LYON",
+          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
@@ -94,14 +94,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "FURIA",
-          "code": "FUR",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
-        },
-        {
           "name": "T1",
           "code": "T1",
           "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+        },
+        {
+          "name": "FURIA",
+          "code": "FUR",
+          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
