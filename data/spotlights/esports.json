@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-07-04T02:57:03.507Z",
+  "lastUpdatedAt": "2026-07-04T06:24:13.190Z",
   "activeLeagueKey": "msi",
   "activeLeagueLabel": "MSI",
   "title": "경기 일정",
@@ -12,54 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Knockouts",
-  "matchCount": 12,
+  "matchCount": 10,
   "matches": [
-    {
-      "id": "115570934355614533",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-07-04T03:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "LYON",
-          "code": "LYON",
-          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-        },
-        {
-          "name": "FURIA",
-          "code": "FUR",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
-    },
-    {
-      "id": "115570934355614527",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-07-04T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "BILIBILI GAMING",
-          "code": "BLG",
-          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-        },
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
-    },
     {
       "id": "115570934355614569",
       "leagueKey": "msi",
@@ -308,7 +262,7 @@
       "key": "msi",
       "label": "MSI",
       "ok": true,
-      "matchCount": 12
+      "matchCount": 10
     },
     {
       "key": "worlds",
