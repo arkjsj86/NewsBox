@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-05T03:27:24.365Z",
+  "lastUpdatedAt": "2026-07-05T08:52:56.773Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,12 +28,12 @@
         {
           "title": "SNK, 용호의 권 외전 리마스터…‘아트 오브 파이팅 용호의 권 외전 R’ 발표",
           "url": "https://bbs.ruliweb.com/news/read/226357",
-          "meta": "댓글 107"
+          "meta": "댓글 108"
         },
         {
           "title": "7월에 출시되는 PC·모바일 게임 목록",
           "url": "https://bbs.ruliweb.com/news/read/226445",
-          "meta": "댓글 19"
+          "meta": "댓글 21"
         },
         {
           "title": "보완은 해야겠지만 방향성은 명확하다 - '프로젝트 제타' 글로벌 테스트 체험기",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "전장의 지배자 '제카' 사일러스, HLE 2:0으로 순항중",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318136",
+          "meta": "리그 오브 레전드 · 41분 전"
+        },
+        {
+          "title": "한화생명, G2 상대로 중심 잃지 않고 1세트 선취",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318134",
+          "meta": "리그 오브 레전드 · 1시간 전"
+        },
+        {
+          "title": "LPL 2시드의 광탈... TSW, TES 3:1로 격파",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318133",
+          "meta": "리그 오브 레전드 · 2시간 전"
+        },
+        {
           "title": "T1 잡은 '바이퍼' \"한화생명과 붙고 싶다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=318132",
-          "meta": "리그 오브 레전드 · 11시간 전"
+          "meta": "리그 오브 레전드 · 22시간 전"
         },
         {
           "title": "파이크와 혼연일체 '케리아', T1 2:2 승부는 원점으로",
           "url": "https://www.inven.co.kr/webzine/news/?news=318130",
-          "meta": "리그 오브 레전드 · 12시간 전"
-        },
-        {
-          "title": "BLG의 숨막히는 운영... T1에 2:1 역전",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318129",
-          "meta": "리그 오브 레전드 · 13시간 전"
-        },
-        {
-          "title": "외출복 시스템도 추가, '카제나' 애니메 엑스포에서 시즌4 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318128",
-          "meta": "카오스 제로 나이트메어 · 13시간 전"
-        },
-        {
-          "title": "방심할 수 없는 LPL 1시드 BLG, T1에 2세트 따내며 1:1 동점",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318127",
-          "meta": "리그 오브 레전드 · 14시간 전"
+          "meta": "리그 오브 레전드 · 23시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
