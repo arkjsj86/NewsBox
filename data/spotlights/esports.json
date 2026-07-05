@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-07-04T21:58:10.781Z",
+  "lastUpdatedAt": "2026-07-05T03:27:24.365Z",
   "activeLeagueKey": "msi",
   "activeLeagueLabel": "MSI",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Knockouts",
-  "matchCount": 10,
+  "matchCount": 9,
   "matches": [
-    {
-      "id": "115570934355614569",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-07-05T03:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Team Secret Whales",
-          "code": "TSW",
-          "imageUrl": "http://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
-        },
-        {
-          "name": "TOP ESPORTS",
-          "code": "TES",
-          "imageUrl": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
-    },
     {
       "id": "115570934355614557",
       "leagueKey": "msi",
@@ -262,7 +239,7 @@
       "key": "msi",
       "label": "MSI",
       "ok": true,
-      "matchCount": 10
+      "matchCount": 9
     },
     {
       "key": "worlds",
