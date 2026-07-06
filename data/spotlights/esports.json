@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-07-06T03:35:03.919Z",
+  "lastUpdatedAt": "2026-07-06T10:22:22.651Z",
   "activeLeagueKey": "msi",
   "activeLeagueLabel": "MSI",
   "title": "경기 일정",
@@ -12,27 +12,27 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Knockouts",
-  "matchCount": 7,
+  "matchCount": 6,
   "matches": [
     {
-      "id": "115570934355614563",
+      "id": "115570934355614587",
       "leagueKey": "msi",
       "leagueLabel": "MSI",
       "tournamentName": "2026",
       "blockName": "Knockouts",
-      "startTime": "2026-07-06T08:00:00.000Z",
+      "startTime": "2026-07-08T03:00:00.000Z",
       "state": "unstarted",
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+          "name": "LYON",
+          "code": "LYON",
+          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
         },
         {
-          "name": "FURIA",
-          "code": "FUR",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
+          "name": "Team Secret Whales",
+          "code": "TSW",
+          "imageUrl": "http://static.lolesports.com/teams/1774598000328_White_EyeText_600p.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
@@ -43,42 +43,19 @@
       "leagueLabel": "MSI",
       "tournamentName": "2026",
       "blockName": "Knockouts",
-      "startTime": "2026-07-08T03:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
-    },
-    {
-      "id": "115570934355614587",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Knockouts",
       "startTime": "2026-07-08T08:00:00.000Z",
       "state": "unstarted",
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "G2 Esports",
+          "code": "G2",
+          "imageUrl": "http://static.lolesports.com/teams/G2-FullonDark.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "T1",
+          "code": "T1",
+          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
@@ -94,14 +71,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
           "name": "Hanwha Life Esports",
           "code": "HLE",
           "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+        },
+        {
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
@@ -193,7 +170,7 @@
       "key": "msi",
       "label": "MSI",
       "ok": true,
-      "matchCount": 7
+      "matchCount": 6
     },
     {
       "key": "worlds",
