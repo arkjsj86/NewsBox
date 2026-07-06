@@ -7,65 +7,253 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-06T19:57:31.990Z",
+  "lastUpdatedAt": "2026-07-06T22:13:15.273Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "06f1a0e00c7c690f",
-      "issueKey": "노화",
-      "issueTitle": "노화",
-      "trendTitle": "노화",
+      "id": "01476ae09c455d22",
+      "issueKey": "이상미",
+      "issueTitle": "이상미",
+      "trendTitle": "이상미",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "오지헌, 父와 썸탄 이상미에 “엄마로 모실 준비가 돼”(조선의 사랑꾼)[순간포착]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707054216014",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘안면거상’ 심형래, 이상미에 호감 느꼈다..시선 고정 “계속 보고 있어”(조선의 사랑꾼)[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/06/MY4TONDFMIZGGMTGMQZDKMLEGY/",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이혼 심형래, 64세 싱글 이상미에 \"결혼 안 했냐\" 급호감…사각관계 터졌다 (사랑꾼)",
+          "source": "네이트 뉴스",
+          "url": "https://news.nate.com/view/20260706n35315",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "오지헌, 父와 썸탄 이상미에 “엄마로 모실 준비가 돼”(조선의 사랑꾼)[순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260707054216014",
+        "publishedAt": "2026-07-06T21:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-06T21:10:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "이상미",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260707054216014",
+      "rank": 1
+    },
+    {
+      "id": "ee488a636544e5f4",
+      "issueKey": "농구",
+      "issueTitle": "농구",
+      "trendTitle": "농구",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "벼랑 끝서 연패 끊고 첫 승 거둔 마줄스 감독 \"기다려줘서 감사\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260706156700007",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[현장 인터뷰] \"일본엔 지기 싫었다\" 한일전 파워 덩크 꽂은 다니엘... 사령탑도 극찬한 '그레이트 가이'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/07/2026070618412140690",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "농구대표팀, 일본에 81-79 승리‥월드컵 예선 2라운드행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6835445_36946.html",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "농구대표팀, 일본에 81-79 승리‥월드컵 예선 2라운드행",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/sports/article/6835445_36946.html",
+        "publishedAt": "2026-07-06T21:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-06T21:10:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "농구",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/sports/article/6835445_36946.html",
+      "rank": 2
+    },
+    {
+      "id": "dd23d01b4a717e33",
+      "issueKey": "한국형 우븐시티",
+      "issueTitle": "한국형 우븐시티",
+      "trendTitle": "한국형 우븐시티",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"외국어 더 배워야 하나\"…놀라운 연구 결과 나왔다",
+          "title": "[발언대]3대 메가프로젝트 투자의 성공을 위한 공간전략",
           "source": "Daum",
-          "url": "https://v.daum.net/v/bJnU9lqF3t",
-          "publishedAt": "2026-07-06T18:40:00.000Z",
+          "url": "https://v.daum.net/v/20260706140902900",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "외국어 능력자 뇌가 더 젊다?…“4개 언어 하면 13년 젊어져”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8603156",
-          "publishedAt": "2026-07-06T18:40:00.000Z",
+          "title": "[사설] 한국형 우븐시티, 전국으로 확산돼야",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/opinion/2026/07/07/2026070614550252058",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"외국어 배우면 뇌 젊어진다\"...4개 국어 쓰면 노화 '13년' 지연",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202607061615339744",
-          "publishedAt": "2026-07-06T18:40:00.000Z",
+          "title": "[청론직설] “정부 전략이 국가경쟁력 좌우…‘3대 메가’에 과감한 규제 혁파를”",
+          "source": "서울경제신문",
+          "url": "https://www.sedaily.com/article/20064362",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"외국어 배우면 뇌 젊어진다\"...4개 국어 쓰면 노화 '13년' 지연",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0104_202607061615339744",
-        "publishedAt": "2026-07-06T18:40:00.000Z",
-        "relevanceScore": 1
+        "title": "[사설] 한국형 우븐시티, 전국으로 확산돼야",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/opinion/2026/07/07/2026070614550252058",
+        "publishedAt": "2026-07-06T21:00:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-07-06T18:40:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "노화",
-      "source": "YTN",
-      "url": "https://www.ytn.co.kr/_ln/0104_202607061615339744",
-      "rank": 1
+      "publishedAt": "2026-07-06T21:00:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "한국형 우븐시티",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/opinion/2026/07/07/2026070614550252058",
+      "rank": 3
     },
     {
-      "id": "3ddaded8744ef703",
+      "id": "2ec78f39c1326e19",
+      "issueKey": "윔블던",
+      "issueTitle": "윔블던",
+      "trendTitle": "윔블던",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "필리핀 21세 이알라… 윔블던의 신데렐라",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260706/134240315/2",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "디펜딩 챔피언 시비옹테크·2위 리바키나, 윔블던 조기 탈락",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260705013400007",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/",
+        "publishedAt": "2026-07-06T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-06T21:00:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "윔블던",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/",
+      "rank": 4
+    },
+    {
+      "id": "a93c73c07eaca95e",
+      "issueKey": "오은영",
+      "issueTitle": "오은영",
+      "trendTitle": "오은영",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "오은영, 살 빼더니 딴 사람 됐다…얼굴 반쪽 된 근황, 소유진도 \"아름다운 박사님\" 인정 [★해시태그]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260706102751321",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'백종원♥' 소유진, 다이어트 성공 오은영과 자매 같은 투샷 \"아름다운 박사님\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260706n11999",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘60세’ 오은영, 얼굴 반쪽 맞네…“2.5은영”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12091766",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "오은영, 살 빼더니 딴 사람 됐다…얼굴 반쪽 된 근황, 소유진도 \"아름다운 박사님\" 인정 [★해시태그]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260706102751321",
+        "publishedAt": "2026-07-06T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-06T21:00:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "오은영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260706102751321",
+      "rank": 5
+    },
+    {
+      "id": "4eaf3f9af4f9ea96",
       "issueKey": "프랑스",
       "issueTitle": "프랑스",
-      "trendTitle": "프랑스",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "trendTitle": "월드컵 대진",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -73,21 +261,21 @@
           "title": "'우승 0순위' 프랑스·모로코 8강 선착… 타짜들만 남은 16강, 아시아는 '전멸' [2026 월드컵]",
           "source": "Daum",
           "url": "https://v.daum.net/v/YUG3GMOcon",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
           "title": "[월드컵] 완성된 16강 대진…스페인-포르투갈·브라질-노르웨이 등 빅매치",
           "source": "韓聯社",
           "url": "https://cb.yna.co.kr/gate/big5/cn.yna.co.kr/view/AKR20260704025900007",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
           "title": "8강 대진 확정 언제?⋯남은 일정·대진 총정리 [북중미 월드컵]",
           "source": "이투데이",
           "url": "https://www.etoday.co.kr/news/view/2600686",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
@@ -95,391 +283,203 @@
         "title": "'우승 0순위' 프랑스·모로코 8강 선착… 타짜들만 남은 16강, 아시아는 '전멸' [2026 월드컵]",
         "source": "Daum",
         "url": "https://v.daum.net/v/YUG3GMOcon",
-        "publishedAt": "2026-07-06T18:00:00.000Z",
+        "publishedAt": "2026-07-06T21:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-06T18:00:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
+      "publishedAt": "2026-07-06T21:00:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
       "title": "프랑스",
       "source": "Daum",
       "url": "https://v.daum.net/v/YUG3GMOcon",
-      "rank": 2
+      "rank": 6
     },
     {
-      "id": "828fa84aff98134a",
-      "issueKey": "portugal vs spain",
-      "issueTitle": "portugal vs spain",
-      "trendTitle": "portugal vs spain",
+      "id": "afbb411c2c9e3884",
+      "issueKey": "광장",
+      "issueTitle": "광장",
+      "trendTitle": "광장",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "정부, 호남 반도체 산업단지 '광주 군공항 부지'에 조성키로",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967685",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[뉴스광장 헤드라인]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8603760",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전재수 “동남권투자공사 2028년까지 설립 완료”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20260707.22001001761",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[뉴스광장 헤드라인]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8603760",
+        "publishedAt": "2026-07-06T21:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-06T21:00:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "광장",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8603760",
+      "rank": 7
+    },
+    {
+      "id": "a65ebfaa297632f1",
+      "issueKey": "맞은 베네수",
+      "issueTitle": "맞은 베네수",
+      "trendTitle": "맞은 베네수",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Portugal vs Spain LIVE: Watch World Cup 2026 last 16 stream, score, commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cze9xg6480gt",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Portugal vs Spain Prediction: World Cup 2026 Match Preview",
-          "source": "Opta Analyst",
-          "url": "https://theanalyst.com/articles/portugal-vs-spain-prediction-world-cup-2026-match-preview",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "World Cup 2026 Tips Today: WhoScored's Best Bets for Day 25",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/articles/3x-E4lXuuEigpzr3JSfh1g/show/world-cup-2026-tips-today-whoscoreds-best-bets-for-day-25",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Portugal vs Spain LIVE: Watch World Cup 2026 last 16 stream, score, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cze9xg6480gt",
-        "publishedAt": "2026-07-06T18:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-06T18:00:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "portugal vs spain",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cze9xg6480gt",
-      "rank": 3
-    },
-    {
-      "id": "8c390d37f0708284",
-      "issueKey": "교도관",
-      "issueTitle": "교도관",
-      "trendTitle": "교도관",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "뇌물 받고 편의 봐준 혐의로 재판받던 대전 교도관 숨진 채 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260706132800063",
-          "publishedAt": "2026-07-06T16:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[단독] ‘뇌물수수 혐의’ 교도소 교감, 선고 앞두고 숨진 채 발견",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12091146",
-          "publishedAt": "2026-07-06T16:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "뇌물 받고 편의 봐준 혐의로 재판받던 대전 교도관 숨진 채 발견",
+          "title": "강진 후 11일 버텼다‥어린이 등 4명 극적 구조",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260706171532493",
-          "publishedAt": "2026-07-06T16:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "뇌물 받고 편의 봐준 혐의로 재판받던 대전 교도관 숨진 채 발견",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260706132800063",
-        "publishedAt": "2026-07-06T16:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-06T16:00:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "교도관",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260706132800063",
-      "rank": 4
-    },
-    {
-      "id": "2846ab19fed57285",
-      "issueKey": "이강인",
-      "issueTitle": "이강인",
-      "trendTitle": "이강인",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"이강인, 이적료 700억원에 AT 마드리드행 합의\" 보도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260706157000007",
-          "publishedAt": "2026-07-06T15:10:00.000Z",
+          "url": "https://v.daum.net/v/20260707062514700",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘골든 보이’ 이강인, 손흥민 넘고 ‘韓 축구 이적료 랭킹’ 경신 유력 “개인 합의 완료→3500만 유로 분할 ...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607060725003",
-          "publishedAt": "2026-07-06T15:10:00.000Z",
+          "title": "잔해 속 11일 버텼다...엄마 품에 안겨 '기적의 생환'",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202607070615067186&amp;s_mcd=0104",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'대한민국 월드컵 에이스' 이강인, 아틀레티코 마드리드 이적 마무리 단계...로마노 컨펌 \"곧 이적 완료\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706113200075?f=p",
-          "publishedAt": "2026-07-06T15:10:00.000Z",
+          "title": "폐허 속 독립기념일 맞은 베네수, 사망자 3340여명으로",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607062102015",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"이강인, 이적료 700억원에 AT 마드리드행 합의\" 보도",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260706157000007",
-        "publishedAt": "2026-07-06T15:10:00.000Z",
-        "relevanceScore": 3
+        "title": "폐허 속 독립기념일 맞은 베네수, 사망자 3340여명으로",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607062102015",
+        "publishedAt": "2026-07-06T20:50:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-07-06T15:10:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "이강인",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260706157000007",
-      "rank": 5
+      "publishedAt": "2026-07-06T20:50:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "맞은 베네수",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202607062102015",
+      "rank": 8
     },
     {
-      "id": "3bc6235e1d18162f",
-      "issueKey": "오늘",
-      "issueTitle": "오늘",
-      "trendTitle": "오늘",
+      "id": "3f27e91f2d9ccefd",
+      "issueKey": "서울날씨",
+      "issueTitle": "서울날씨",
+      "trendTitle": "서울날씨",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[오늘의 운세] 7월 7일 화요일 (음력 5월 23일 壬午)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/07/06/4LMD4GLHERFO7I5PIVGIVJEJT4/",
-          "publishedAt": "2026-07-06T15:10:00.000Z",
+          "title": "전국 장맛비…'최고기온 34도' 무더위도 계속",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707053154927",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[오늘의 운세] 2026년 07월 06일 띠별 운세",
+          "title": "[날씨] 출근길 중부 곳곳 강한 비...무더위 속 오후 소나기",
           "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202607060000000001&amp;s_mcd=0121",
-          "publishedAt": "2026-07-06T15:10:00.000Z",
+          "url": "https://www.ytn.co.kr/_ln/0108_202607070651341944",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[오늘의 운세] 7월 6일 월요일 (음력 5월 22일) 띠별 운세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706000120559",
-          "publishedAt": "2026-07-06T15:10:00.000Z",
+          "title": "[출근길 날씨] 출근길, 중부 강한 비…오후엔 폭염 속 소나기",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8603759",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[오늘의 운세] 7월 7일 화요일 (음력 5월 23일 壬午)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/07/06/4LMD4GLHERFO7I5PIVGIVJEJT4/",
-        "publishedAt": "2026-07-06T15:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-06T15:10:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "오늘",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/07/06/4LMD4GLHERFO7I5PIVGIVJEJT4/",
-      "rank": 6
-    },
-    {
-      "id": "4cf1497f9d768dbc",
-      "issueKey": "이루",
-      "issueTitle": "이루",
-      "trendTitle": "이루",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'태진아子' 이루, 치매 母 위해 '까만 안경' 열창…강수지 \"가슴 뭉클\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070703003063986",
-          "publishedAt": "2026-07-06T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘음주운전·바꿔치기’ 이루 복귀? 태진아 합동 무대에 ‘싸늘’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607061502003",
-          "publishedAt": "2026-07-06T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘음주운전·운전자 바꿔치기’ 이루, 방송 컴백?…父 태진아와 합동 무대",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10799372",
-          "publishedAt": "2026-07-06T14:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'태진아子' 이루, 치매 母 위해 '까만 안경' 열창…강수지 \"가슴 뭉클\"",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070703003063986",
-        "publishedAt": "2026-07-06T14:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-06T14:50:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "이루",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070703003063986",
-      "rank": 7
-    },
-    {
-      "id": "955274ff0b86512b",
-      "issueKey": "북한군",
-      "issueTitle": "북한군",
-      "trendTitle": "북한군",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"북한군이 5·18 주도\" 유튜브 방송하면‥내일부터 최대 10억 원 과징금",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6835397_37004.html",
-          "publishedAt": "2026-07-06T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "오늘부터 허위-조작정보 고의 유통땐 최대 5배 손배",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260707043230249",
-          "publishedAt": "2026-07-06T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "진보단체도 반대하는 ‘개정 정통망법’…野 “입틀막법 개정할 것”",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260706020039649",
-          "publishedAt": "2026-07-06T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"북한군이 5·18 주도\" 유튜브 방송하면‥내일부터 최대 10억 원 과징금",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6835397_37004.html",
-        "publishedAt": "2026-07-06T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-06T14:40:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "북한군",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6835397_37004.html",
-      "rank": 8
-    },
-    {
-      "id": "30862bac163bb5fd",
-      "issueKey": "이희구",
-      "issueTitle": "이희구",
-      "trendTitle": "이희구",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"엄마 손에 이끌려 유흥업소 다녀…\" 이희구 눈물의 가정사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706145110044",
-          "publishedAt": "2026-07-06T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "딸 데리고 유흥업소 전전, '접대 부탁'까지 한 엄마...개그우먼, 눈물 고백",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/06/2026070619070337497",
-          "publishedAt": "2026-07-06T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "미녀 개그우먼, 母 외도로 유흥업소에 방치 \"접대 위해 부르기도\"(당신이 아픈 사이)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260706n29667",
-          "publishedAt": "2026-07-06T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"엄마 손에 이끌려 유흥업소 다녀…\" 이희구 눈물의 가정사",
+        "title": "서울날씨",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260706145110044",
-        "publishedAt": "2026-07-06T14:10:00.000Z",
+        "url": "https://v.daum.net/v/20260707053154927",
+        "publishedAt": "2026-07-06T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-06T14:10:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "이희구",
+      "publishedAt": "2026-07-06T20:50:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "서울날씨",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260706145110044",
+      "url": "https://v.daum.net/v/20260707053154927",
       "rank": 9
     },
     {
-      "id": "8d8439e1b9ba4d9e",
-      "issueKey": "małgorzata tomaszewska wśród prowadzących projekt city w tvn style",
-      "issueTitle": "Małgorzata Tomaszewska wśród prowadzących \"Projekt City\" w TVN Style",
-      "trendTitle": "Małgorzata Tomaszewska wśród prowadzących \"Projekt City\" w TVN Style",
+      "id": "cf139facee458a78",
+      "issueKey": "이임생",
+      "issueTitle": "이임생",
+      "trendTitle": "이임생",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Małgorzata Tomaszewska wśród prowadzących \"Projekt City\" w TVN Style",
-          "source": "Press.pl",
-          "url": "https://www.press.pl/tresc/93944,malgorzata-tomaszewska-wsrod-prowadzacych-_projekt-city_-w-tvn-style",
-          "publishedAt": "2026-07-06T13:40:00.000Z",
+          "title": "[오피셜] \"내 판단으로 홍명보 선임\" 韓 축구 망친 주범 평가 이임생, 기술 디렉터로 캄보디아 클럽팀 취업",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2zDq4JlwWS",
+          "publishedAt": "2026-07-06T20:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Program tv dla Saga \"Zmierzch\": Przed świtem. Część 2",
-          "source": "Pilot WP",
-          "url": "https://pilot.wp.pl/program-tv/film/saga-zmierzch-przed-switem-czesc-2-a65d843b182d0cfbba9eb4c104b01e8e",
-          "publishedAt": "2026-07-06T13:40:00.000Z",
+          "title": "’홍명보 선임’ 주도 이임생, 캄보디아 프로팀으로",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260706232856xL7",
+          "publishedAt": "2026-07-06T20:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"Księżyc w nowiu\" wieczorem na TVN. Miliony widzów i rekordowe wpływy",
-          "source": "Kultura Onet",
-          "url": "https://kultura.onet.pl/film/wiadomosci/ksiezyc-w-nowiu-w-tvn-druga-czesc-sagi-zmierzch-wraca-na-ekrany/hetym8r",
-          "publishedAt": "2026-07-06T13:40:00.000Z",
+          "title": "이임생 전 축협 기술총괄이사, 캄보디아 프로팀 테크니컬 디렉터 부임",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6835428_36946.html",
+          "publishedAt": "2026-07-06T20:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Małgorzata Tomaszewska wśród prowadzących \"Projekt City\" w TVN Style",
-        "source": "Press.pl",
-        "url": "https://www.press.pl/tresc/93944,malgorzata-tomaszewska-wsrod-prowadzacych-_projekt-city_-w-tvn-style",
-        "publishedAt": "2026-07-06T13:40:00.000Z",
+        "title": "[오피셜] \"내 판단으로 홍명보 선임\" 韓 축구 망친 주범 평가 이임생, 기술 디렉터로 캄보디아 클럽팀 취업",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2zDq4JlwWS",
+        "publishedAt": "2026-07-06T20:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-06T13:40:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "Małgorzata Tomaszewska wśród prowadzących \"Projekt City\" w TVN Style",
-      "source": "Press.pl",
-      "url": "https://www.press.pl/tresc/93944,malgorzata-tomaszewska-wsrod-prowadzacych-_projekt-city_-w-tvn-style",
+      "publishedAt": "2026-07-06T20:40:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "이임생",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/2zDq4JlwWS",
       "rank": 10
     }
   ],
@@ -529,59 +529,6 @@
       "title": "온도",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260705170710713"
-    },
-    {
-      "id": "9b656e88293529b4",
-      "issueKey": "포르투갈",
-      "issueTitle": "포르투갈",
-      "trendTitle": "포르투갈",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 4,
-      "relatedArticles": [
-        {
-          "title": "월드컵 16강 누구누구?…유럽 7개국 ‘강세’ 아시아 ‘전멸’ [지금뉴스]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260704154953469",
-          "publishedAt": "2026-07-04T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[월드컵] 완성된 16강 대진…스페인-포르투갈·브라질-노르웨이 등 빅매치",
-          "source": "韓聯社",
-          "url": "https://cb.yna.co.kr/gate/big5/m-cn.yna.co.kr/view/AKR20260704025900007?section=news",
-          "publishedAt": "2026-07-04T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "2026 북중미월드컵 16강, 이제 진짜 월드컵이 시작...전통 강호의 안정감, 다크호스의 반란? 16강전 및 8강 예측",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/hong/weekly/contents/260704211211881wu",
-          "publishedAt": "2026-07-04T15:00:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "유럽7 남미4 북중미3 아프리카2… 월드컵 16강 돌입",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030063034",
-          "publishedAt": "2026-07-04T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[월드컵] 완성된 16강 대진…스페인-포르투갈·브라질-노르웨이 등 빅매치",
-        "source": "韓聯社",
-        "url": "https://cb.yna.co.kr/gate/big5/m-cn.yna.co.kr/view/AKR20260704025900007?section=news",
-        "publishedAt": "2026-07-04T15:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-04T15:00:00.000Z",
-      "firstSeenAt": "2026-07-04T19:13:37.541Z",
-      "lastSeenAt": "2026-07-04T21:58:10.781Z",
-      "title": "포르투갈",
-      "source": "韓聯社",
-      "url": "https://cb.yna.co.kr/gate/big5/m-cn.yna.co.kr/view/AKR20260704025900007?section=news"
     },
     {
       "id": "87f51d71894db03d",
@@ -725,7 +672,7 @@
       "id": "3ddaded8744ef703",
       "issueKey": "프랑스",
       "issueTitle": "프랑스",
-      "trendTitle": "프랑스",
+      "trendTitle": "월드컵 대진",
       "approxTraffic": "10000+",
       "trafficScore": 10000,
       "relevanceScore": 3,
@@ -735,21 +682,21 @@
           "title": "'우승 0순위' 프랑스·모로코 8강 선착… 타짜들만 남은 16강, 아시아는 '전멸' [2026 월드컵]",
           "source": "Daum",
           "url": "https://v.daum.net/v/YUG3GMOcon",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
           "title": "[월드컵] 완성된 16강 대진…스페인-포르투갈·브라질-노르웨이 등 빅매치",
           "source": "韓聯社",
           "url": "https://cb.yna.co.kr/gate/big5/cn.yna.co.kr/view/AKR20260704025900007",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
           "title": "8강 대진 확정 언제?⋯남은 일정·대진 총정리 [북중미 월드컵]",
           "source": "이투데이",
           "url": "https://www.etoday.co.kr/news/view/2600686",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
@@ -757,12 +704,12 @@
         "title": "'우승 0순위' 프랑스·모로코 8강 선착… 타짜들만 남은 16강, 아시아는 '전멸' [2026 월드컵]",
         "source": "Daum",
         "url": "https://v.daum.net/v/YUG3GMOcon",
-        "publishedAt": "2026-07-06T18:00:00.000Z",
+        "publishedAt": "2026-07-06T21:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-06T18:00:00.000Z",
+      "publishedAt": "2026-07-06T21:00:00.000Z",
       "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
       "title": "프랑스",
       "source": "Daum",
       "url": "https://v.daum.net/v/YUG3GMOcon"
@@ -1695,71 +1642,50 @@
       "url": "https://v.daum.net/v/20260704014246175?x_trkm=t"
     },
     {
-      "id": "beae82746132015f",
-      "issueKey": "캐나다",
-      "issueTitle": "캐나다",
-      "trendTitle": "캐나다",
+      "id": "cf139facee458a78",
+      "issueKey": "이임생",
+      "issueTitle": "이임생",
+      "trendTitle": "이임생",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
-      "articleCount": 6,
+      "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "캐나다 잠수함 수주전 발표 '임박'…북미 통상 전략 분수령",
+          "title": "[오피셜] \"내 판단으로 홍명보 선임\" 韓 축구 망친 주범 평가 이임생, 기술 디렉터로 캄보디아 클럽팀 취업",
           "source": "Daum",
-          "url": "https://v.daum.net/v/WYngpbaer9",
-          "publishedAt": "2026-07-04T17:40:00.000Z",
+          "url": "https://v.daum.net/v/2zDq4JlwWS",
+          "publishedAt": "2026-07-06T20:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "독일, 캐나다잠수함 수주 낙관… 한국과 경쟁서 유리하다 주장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260704094755728",
-          "publishedAt": "2026-07-04T17:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[월드컵 전반 리뷰]'충격, 예상과 완전 달랐다' 캐나다, 모로코와 0-0..'캐나다 전방 압박에 모로코 당황했다'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/07/05/GM3TINBVGE3TAZBQGEYWEMRXME/",
-          "publishedAt": "2026-07-04T16:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "韓 한화오션 vs 獨 TKMS…60조원 캐나다 잠수함 수주전, 독일 “우리가 유리”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11600281",
-          "publishedAt": "2026-07-04T17:40:00.000Z",
+          "title": "’홍명보 선임’ 주도 이임생, 캄보디아 프로팀으로",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260706232856xL7",
+          "publishedAt": "2026-07-06T20:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "태평양 건넌 도산안창호함 K-잠수함 원해작전 시대 열다",
-          "source": "K-공감",
-          "url": "https://gonggam.korea.kr/newsContentView.es?mid=a12603000000&amp;section_id=NCCD_PUBLISH&amp;news_id=918d8a64-ee1b-4cbd-bdb3-a161ed862075",
-          "publishedAt": "2026-07-04T17:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[AI프리뷰] 월드컵 16강 5일 캐나다-모로코전, 개최국 상대로 돌풍 노리는 모로코",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260704000053",
-          "publishedAt": "2026-07-04T16:10:00.000Z",
-          "relevanceScore": 2
+          "title": "이임생 전 축협 기술총괄이사, 캄보디아 프로팀 테크니컬 디렉터 부임",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6835428_36946.html",
+          "publishedAt": "2026-07-06T20:40:00.000Z",
+          "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "캐나다 잠수함 수주전 발표 '임박'…북미 통상 전략 분수령",
+        "title": "[오피셜] \"내 판단으로 홍명보 선임\" 韓 축구 망친 주범 평가 이임생, 기술 디렉터로 캄보디아 클럽팀 취업",
         "source": "Daum",
-        "url": "https://v.daum.net/v/WYngpbaer9",
-        "publishedAt": "2026-07-04T17:40:00.000Z",
+        "url": "https://v.daum.net/v/2zDq4JlwWS",
+        "publishedAt": "2026-07-06T20:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-04T17:40:00.000Z",
-      "firstSeenAt": "2026-07-04T19:13:37.541Z",
-      "lastSeenAt": "2026-07-04T21:58:10.781Z",
-      "title": "캐나다",
+      "publishedAt": "2026-07-06T20:40:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "이임생",
       "source": "Daum",
-      "url": "https://v.daum.net/v/WYngpbaer9"
+      "url": "https://v.daum.net/v/2zDq4JlwWS"
     },
     {
       "id": "2846ab19fed57285",
@@ -2222,142 +2148,188 @@
       "url": "https://v.daum.net/v/20260705153355779"
     },
     {
-      "id": "5922672017137bce",
-      "issueKey": "캐나다 모로코",
-      "issueTitle": "캐나다 모로코",
-      "trendTitle": "캐나다 모로코",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "afbb411c2c9e3884",
+      "issueKey": "광장",
+      "issueTitle": "광장",
+      "trendTitle": "광장",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[월드컵 전적] 모로코 3-0 캐나다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260705002800007",
-          "publishedAt": "2026-07-04T16:40:00.000Z",
+          "title": "정부, 호남 반도체 산업단지 '광주 군공항 부지'에 조성키로",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967685",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘아틀라스의 사자’ 모로코, 개최국 캐나다 잡고 2대회 연속 8강 기염",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_special/2026/07/05/BNMV43A4Y5COFPO7NXHEVT3XAQ/",
-          "publishedAt": "2026-07-04T16:40:00.000Z",
+          "title": "[뉴스광장 헤드라인]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8603760",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "캐나다 돌풍 휴스턴서 끝났다... 모로코 3-0 완승, 2022 4강 신화 다시 달린다",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/05/202607050416776200O",
-          "publishedAt": "2026-07-04T16:40:00.000Z",
+          "title": "전재수 “동남권투자공사 2028년까지 설립 완료”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20260707.22001001761",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "캐나다 모로코",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705002800007",
-        "publishedAt": "2026-07-04T16:40:00.000Z",
-        "relevanceScore": 3
+        "title": "[뉴스광장 헤드라인]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8603760",
+        "publishedAt": "2026-07-06T21:00:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-07-04T16:40:00.000Z",
-      "firstSeenAt": "2026-07-04T21:58:10.781Z",
-      "lastSeenAt": "2026-07-04T21:58:10.781Z",
-      "title": "캐나다 모로코",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260705002800007"
+      "publishedAt": "2026-07-06T21:00:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "광장",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8603760"
     },
     {
-      "id": "828fa84aff98134a",
-      "issueKey": "portugal vs spain",
-      "issueTitle": "portugal vs spain",
-      "trendTitle": "portugal vs spain",
+      "id": "01476ae09c455d22",
+      "issueKey": "이상미",
+      "issueTitle": "이상미",
+      "trendTitle": "이상미",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Portugal vs Spain LIVE: Watch World Cup 2026 last 16 stream, score, commentary & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cze9xg6480gt",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Portugal vs Spain Prediction: World Cup 2026 Match Preview",
-          "source": "Opta Analyst",
-          "url": "https://theanalyst.com/articles/portugal-vs-spain-prediction-world-cup-2026-match-preview",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "World Cup 2026 Tips Today: WhoScored's Best Bets for Day 25",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/articles/3x-E4lXuuEigpzr3JSfh1g/show/world-cup-2026-tips-today-whoscoreds-best-bets-for-day-25",
-          "publishedAt": "2026-07-06T18:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Portugal vs Spain LIVE: Watch World Cup 2026 last 16 stream, score, commentary & updates",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cze9xg6480gt",
-        "publishedAt": "2026-07-06T18:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-06T18:00:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "portugal vs spain",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cze9xg6480gt"
-    },
-    {
-      "id": "8c390d37f0708284",
-      "issueKey": "교도관",
-      "issueTitle": "교도관",
-      "trendTitle": "교도관",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "뇌물 받고 편의 봐준 혐의로 재판받던 대전 교도관 숨진 채 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260706132800063",
-          "publishedAt": "2026-07-06T16:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[단독] ‘뇌물수수 혐의’ 교도소 교감, 선고 앞두고 숨진 채 발견",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12091146",
-          "publishedAt": "2026-07-06T16:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "뇌물 받고 편의 봐준 혐의로 재판받던 대전 교도관 숨진 채 발견",
+          "title": "오지헌, 父와 썸탄 이상미에 “엄마로 모실 준비가 돼”(조선의 사랑꾼)[순간포착]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260706171532493",
-          "publishedAt": "2026-07-06T16:00:00.000Z",
+          "url": "https://v.daum.net/v/20260707054216014",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘안면거상’ 심형래, 이상미에 호감 느꼈다..시선 고정 “계속 보고 있어”(조선의 사랑꾼)[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/06/MY4TONDFMIZGGMTGMQZDKMLEGY/",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이혼 심형래, 64세 싱글 이상미에 \"결혼 안 했냐\" 급호감…사각관계 터졌다 (사랑꾼)",
+          "source": "네이트 뉴스",
+          "url": "https://news.nate.com/view/20260706n35315",
+          "publishedAt": "2026-07-06T21:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "뇌물 받고 편의 봐준 혐의로 재판받던 대전 교도관 숨진 채 발견",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260706132800063",
-        "publishedAt": "2026-07-06T16:00:00.000Z",
+        "title": "오지헌, 父와 썸탄 이상미에 “엄마로 모실 준비가 돼”(조선의 사랑꾼)[순간포착]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260707054216014",
+        "publishedAt": "2026-07-06T21:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-06T16:00:00.000Z",
-      "firstSeenAt": "2026-07-06T19:57:31.990Z",
-      "lastSeenAt": "2026-07-06T19:57:31.990Z",
-      "title": "교도관",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260706132800063"
+      "publishedAt": "2026-07-06T21:10:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "이상미",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260707054216014"
+    },
+    {
+      "id": "2ec78f39c1326e19",
+      "issueKey": "윔블던",
+      "issueTitle": "윔블던",
+      "trendTitle": "윔블던",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "필리핀 21세 이알라… 윔블던의 신데렐라",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260706/134240315/2",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "디펜딩 챔피언 시비옹테크·2위 리바키나, 윔블던 조기 탈락",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260705013400007",
+          "publishedAt": "2026-07-06T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘필리핀 샤라포바’ 윔블던을 홀리다",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/",
+        "publishedAt": "2026-07-06T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-06T21:00:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "윔블던",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/international/international_general/2026/07/06/4I5LVCQPNRE47LQLK72WNDHY7U/"
+    },
+    {
+      "id": "a65ebfaa297632f1",
+      "issueKey": "맞은 베네수",
+      "issueTitle": "맞은 베네수",
+      "trendTitle": "맞은 베네수",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "강진 후 11일 버텼다‥어린이 등 4명 극적 구조",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707062514700",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "잔해 속 11일 버텼다...엄마 품에 안겨 '기적의 생환'",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202607070615067186&amp;s_mcd=0104",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "폐허 속 독립기념일 맞은 베네수, 사망자 3340여명으로",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607062102015",
+          "publishedAt": "2026-07-06T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "폐허 속 독립기념일 맞은 베네수, 사망자 3340여명으로",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607062102015",
+        "publishedAt": "2026-07-06T20:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-06T20:50:00.000Z",
+      "firstSeenAt": "2026-07-06T22:13:15.273Z",
+      "lastSeenAt": "2026-07-06T22:13:15.273Z",
+      "title": "맞은 베네수",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202607062102015"
     }
   ]
 }
