@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-07-05T22:01:47.405Z",
+  "lastUpdatedAt": "2026-07-06T03:35:03.919Z",
   "activeLeagueKey": "msi",
   "activeLeagueLabel": "MSI",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Knockouts",
-  "matchCount": 8,
+  "matchCount": 7,
   "matches": [
-    {
-      "id": "115570934355614551",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-07-06T03:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "BILIBILI GAMING",
-          "code": "BLG",
-          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-        },
-        {
-          "name": "LYON",
-          "code": "LYON",
-          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
-    },
     {
       "id": "115570934355614563",
       "leagueKey": "msi",
@@ -216,7 +193,7 @@
       "key": "msi",
       "label": "MSI",
       "ok": true,
-      "matchCount": 8
+      "matchCount": 7
     },
     {
       "key": "worlds",

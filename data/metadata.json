@@ -3,9 +3,9 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-07-05T22:01:47.405Z",
+  "lastUpdatedAt": "2026-07-06T03:35:03.919Z",
   "tabCount": 5,
-  "totalArticleCount": 74,
+  "totalArticleCount": 78,
   "availableTabs": [
     "ai",
     "game",
@@ -25,13 +25,18 @@
     "unityVideoLimit": 2
   },
   "feedCount": 8,
-  "successfulFeedCount": 7,
-  "failedFeedCount": 1,
+  "successfulFeedCount": 8,
+  "failedFeedCount": 0,
   "successfulFeeds": [
     {
       "key": "itworld-kr",
       "source": "ITWorld Korea",
-      "itemCount": 11
+      "itemCount": 12
+    },
+    {
+      "key": "etnews-games",
+      "source": "전자신문 게임",
+      "itemCount": 30
     },
     {
       "key": "gameinsight-all",
@@ -46,7 +51,7 @@
     {
       "key": "khgames-all",
       "source": "경향게임스",
-      "itemCount": 28
+      "itemCount": 30
     },
     {
       "key": "sportschosun-entertainment",
@@ -64,13 +69,7 @@
       "itemCount": 30
     }
   ],
-  "failedFeeds": [
-    {
-      "key": "etnews-games",
-      "source": "전자신문 게임",
-      "error": "fetch failed"
-    }
-  ],
+  "failedFeeds": [],
   "spotlightCount": 4,
   "spotlights": [
     {
@@ -83,7 +82,7 @@
       "source": "LoL Esports",
       "activeLeagueKey": "msi",
       "activeLeagueLabel": "MSI",
-      "matchCount": 8
+      "matchCount": 7
     },
     {
       "key": "game",
