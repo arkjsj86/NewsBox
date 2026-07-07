@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-07-07T03:26:01.235Z",
+  "lastUpdatedAt": "2026-07-07T09:41:20.222Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "kbsn1-UdV-0",
+      "title": "Unity AI로 프로젝트 만들기, 이렇게 따라해 보세요!",
+      "url": "https://www.youtube.com/watch?v=kbsn1-UdV-0",
+      "publishedAt": "2026-07-07T09:01:26.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/kbsn1-UdV-0/hqdefault.jpg"
+    },
+    {
       "id": "044xzQlogno",
       "title": "툰 렌더링 기법 이해하기 쉽게 소개해 드립니다!",
       "url": "https://www.youtube.com/watch?v=044xzQlogno",
       "publishedAt": "2026-07-06T07:00:28.000Z",
       "thumbnailUrl": "https://i1.ytimg.com/vi/044xzQlogno/hqdefault.jpg"
-    },
-    {
-      "id": "kTs-6_D11Y0",
-      "title": "Unite Seoul 2026 역대급 글로벌 키노트 라인업 대공개 (특별 이벤트까지🔥)",
-      "url": "https://www.youtube.com/shorts/kTs-6_D11Y0",
-      "publishedAt": "2026-07-06T03:37:27.000Z",
-      "thumbnailUrl": "https://i4.ytimg.com/vi/kTs-6_D11Y0/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
