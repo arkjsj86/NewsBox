@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-07T19:55:06.500Z",
+  "lastUpdatedAt": "2026-07-07T22:10:34.750Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "4369c6b568cd6073",
-      "issueKey": "월드컵 대진표",
-      "issueTitle": "월드컵 대진표",
-      "trendTitle": "월드컵 대진표",
+      "id": "886b4a4071058cba",
+      "issueKey": "spcx",
+      "issueTitle": "spcx",
+      "trendTitle": "spcx",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SpaceX stock drops despite flood of bullish Wall Street ratings",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-drops-despite-flood-of-bullish-wall-street-ratings-153809443.html",
+          "publishedAt": "2026-07-07T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "SpaceX lands bullish ratings from Morgan Stanley and Goldman Sachs (SPCX:NASDAQ)",
+          "source": "Seeking Alpha",
+          "url": "https://seekingalpha.com/news/4611831-morgan-stanley-buys-into-spacexs-ai-future-with-new-overweight-rating",
+          "publishedAt": "2026-07-07T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "William Blair initiates SpaceX stock coverage citing AI push",
+          "source": "Investing.com",
+          "url": "https://www.investing.com/news/analyst-ratings/william-blair-initiates-spacex-stock-coverage-citing-ai-push-93CH-4778533",
+          "publishedAt": "2026-07-07T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "SpaceX lands bullish ratings from Morgan Stanley and Goldman Sachs (SPCX:NASDAQ)",
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4611831-morgan-stanley-buys-into-spacexs-ai-future-with-new-overweight-rating",
+        "publishedAt": "2026-07-07T20:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-07T20:50:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "spcx",
+      "source": "Seeking Alpha",
+      "url": "https://seekingalpha.com/news/4611831-morgan-stanley-buys-into-spacexs-ai-future-with-new-overweight-rating",
+      "rank": 1
+    },
+    {
+      "id": "55a265db314fe6c1",
+      "issueKey": "투표용지",
+      "issueTitle": "투표용지",
+      "trendTitle": "투표용지",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "잠실 247만장 투표함 여나… 여야, 재검표 합의 수순",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/07/08/A45JWLLPKVCPFB5O3U3XTSCI3I/",
+          "publishedAt": "2026-07-07T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'올공' 247만 투표지 공개 검증…\"여야 협의 추진\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708064505741",
+          "publishedAt": "2026-07-07T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "국조특위, 중앙·서울선관위 현장조사서 \"보고체계 엉망\" 질타(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260707090051001",
+          "publishedAt": "2026-07-07T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "투표용지",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/assembly/2026/07/08/A45JWLLPKVCPFB5O3U3XTSCI3I/",
+        "publishedAt": "2026-07-07T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-07T20:40:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "투표용지",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/politics/assembly/2026/07/08/A45JWLLPKVCPFB5O3U3XTSCI3I/",
+      "rank": 2
+    },
+    {
+      "id": "1582cdc13bad8669",
+      "issueKey": "조코비치",
+      "issueTitle": "조코비치",
+      "trendTitle": "노바크 조코비치",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"하늘까지 돕는 리오넬 메시 2연패\" 슈퍼컴퓨터가 선택한 우승확률 1위 프랑스, 2위 스페인. 한 팀은 4강에서 제거된다",
+          "title": "조코비치, 윔블던 통산 105승...‘황제' 페더러와 타이 기록 세우며 16강 올라",
           "source": "조선일보",
-          "url": "https://www.chosun.com/sports/football/2026/07/07/GVSDAMRXGYYDEY3DMQYDMNBVHA/",
-          "publishedAt": "2026-07-07T18:20:00.000Z",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/04/CUGJVL4KXVGHXMNCGL3SETNQOE/",
+          "publishedAt": "2026-07-07T20:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[2026 북중미월드컵]월드컵 일정",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260707n01238",
-          "publishedAt": "2026-07-07T18:20:00.000Z",
+          "title": "조코비치, 윔블던 男단식 ‘106번째 승’ 역대 최다",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11600507",
+          "publishedAt": "2026-07-07T20:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "8강 진출 국가 FIFA 랭킹 '반전'⋯톱10 강호들 탈락 [북중미 월드컵]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2601026",
-          "publishedAt": "2026-07-07T18:20:00.000Z",
+          "title": "17번째 윔블던 8강, 그리고 106승… 조코비치는 또 역사를 썼다",
+          "source": "테니스피플",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=18931",
+          "publishedAt": "2026-07-07T20:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "월드컵 대진표",
+        "title": "조코비치, 윔블던 통산 105승...‘황제' 페더러와 타이 기록 세우며 16강 올라",
         "source": "조선일보",
-        "url": "https://www.chosun.com/sports/football/2026/07/07/GVSDAMRXGYYDEY3DMQYDMNBVHA/",
-        "publishedAt": "2026-07-07T18:20:00.000Z",
+        "url": "https://www.chosun.com/sports/sports_general/2026/07/04/CUGJVL4KXVGHXMNCGL3SETNQOE/",
+        "publishedAt": "2026-07-07T20:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-07T18:20:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "월드컵 대진표",
+      "publishedAt": "2026-07-07T20:20:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "조코비치",
       "source": "조선일보",
-      "url": "https://www.chosun.com/sports/football/2026/07/07/GVSDAMRXGYYDEY3DMQYDMNBVHA/",
-      "rank": 1
-    },
-    {
-      "id": "b3774508f48b44da",
-      "issueKey": "2026 fifa world cup final date",
-      "issueTitle": "2026 fifa world cup final date",
-      "trendTitle": "2026 fifa world cup final date",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "The Best Matches Of The 2026 World Cup: The Top 5 After Argentina vs. Egypt",
-          "source": "FOX Sports",
-          "url": "https://www.foxsports.com/stories/soccer/best-matches-2026-world-cup",
-          "publishedAt": "2026-07-07T18:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Ronaldo’s final bow? One of the worst: Ranking every match at the 2026 World Cup - The Athletic",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/athletic/7370101/2026/07/07/world-cup-2026-matches-ranked/",
-          "publishedAt": "2026-07-07T18:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Messi, Argentina ride VAR drama to complete epic comeback vs. Egypt",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49298199/argentina-lionel-messi-world-cup-round-16-egypt-var-mohamed-salah",
-          "publishedAt": "2026-07-07T18:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "2026 fifa world cup final date",
-        "source": "FOX Sports",
-        "url": "https://www.foxsports.com/stories/soccer/best-matches-2026-world-cup",
-        "publishedAt": "2026-07-07T18:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-07T18:10:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "2026 fifa world cup final date",
-      "source": "FOX Sports",
-      "url": "https://www.foxsports.com/stories/soccer/best-matches-2026-world-cup",
-      "rank": 2
-    },
-    {
-      "id": "5480f08f35968440",
-      "issueKey": "goat",
-      "issueTitle": "goat",
-      "trendTitle": "goat",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "2026 WCJR Team Roping: Schedule, Divisions and How to Enter",
-          "source": "The Team Roping Journal",
-          "url": "https://teamropingjournal.com/news/2026-wcjr-team-roping-schedule-divisions-and-how-to-enter/",
-          "publishedAt": "2026-07-07T18:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "2026 WCJR Breakaway Roping & Goat Tying: Schedule, Divisions and How to Enter",
-          "source": "The Breakaway Roping Journal",
-          "url": "https://breakawayropingjournal.com/news/2026-wcjr-breakaway-roping-goat-tying-schedule-divisions-and-how-to-enter/",
-          "publishedAt": "2026-07-07T18:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Messi, Argentina ride VAR drama to complete epic comeback vs. Egypt",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49298199/argentina-lionel-messi-world-cup-round-16-egypt-var-mohamed-salah",
-          "publishedAt": "2026-07-07T18:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "2026 WCJR Breakaway Roping & Goat Tying: Schedule, Divisions and How to Enter",
-        "source": "The Breakaway Roping Journal",
-        "url": "https://breakawayropingjournal.com/news/2026-wcjr-breakaway-roping-goat-tying-schedule-divisions-and-how-to-enter/",
-        "publishedAt": "2026-07-07T18:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-07T18:10:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "goat",
-      "source": "The Breakaway Roping Journal",
-      "url": "https://breakawayropingjournal.com/news/2026-wcjr-breakaway-roping-goat-tying-schedule-divisions-and-how-to-enter/",
+      "url": "https://www.chosun.com/sports/sports_general/2026/07/04/CUGJVL4KXVGHXMNCGL3SETNQOE/",
       "rank": 3
     },
     {
-      "id": "97ae15dee97f94b6",
-      "issueKey": "콜롬비아",
-      "issueTitle": "콜롬비아",
-      "trendTitle": "콜롬비아",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "a3e596bb03b38960",
+      "issueKey": "달러",
+      "issueTitle": "달러",
+      "trendTitle": "달러",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[AI프리뷰] 월드컵 8일 16강 스위스-콜롬비아전, 8강행 막차 누가 탑승하나",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260707001238",
-          "publishedAt": "2026-07-07T18:00:00.000Z",
+          "title": "'24시간 거래' 환율, 롤러코스피에도 안정세 유지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708050318036",
+          "publishedAt": "2026-07-07T20:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "8강 대진표 마지막 주인공 누구?⋯'이 나라' 예상 [북중미 월드컵]",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2601218",
-          "publishedAt": "2026-07-07T18:00:00.000Z",
+          "title": "[금융현미경]새벽에도 원·달러 거래된다는데…남은 과제는",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026070713372792956",
+          "publishedAt": "2026-07-07T20:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'88년 만에 토너먼트 첫 승' 괴물 신예 새 역사 썼다…20세 FW 만잠비 미친 드리블+엠볼로 골→스위스, 알제리 2-0 완파 '16강행'",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2167762",
-          "publishedAt": "2026-07-07T18:00:00.000Z",
+          "title": "고환율 속 외환시장 24시간 개방...부작용 없나?",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202607071106436180",
+          "publishedAt": "2026-07-07T20:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[AI프리뷰] 월드컵 8일 16강 스위스-콜롬비아전, 8강행 막차 누가 탑승하나",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260707001238",
-        "publishedAt": "2026-07-07T18:00:00.000Z",
-        "relevanceScore": 3
+        "title": "[금융현미경]새벽에도 원·달러 거래된다는데…남은 과제는",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/article/2026070713372792956",
+        "publishedAt": "2026-07-07T20:10:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-07-07T18:00:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "콜롬비아",
-      "source": "뉴스핌",
-      "url": "https://www.newspim.com/news/view/20260707001238",
+      "publishedAt": "2026-07-07T20:10:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "달러",
+      "source": "아시아경제",
+      "url": "https://www.asiae.co.kr/article/2026070713372792956",
       "rank": 4
     },
     {
-      "id": "2300726eeb781e7f",
-      "issueKey": "lịch world cup 2026",
-      "issueTitle": "lịch world cup 2026",
-      "trendTitle": "lịch world cup 2026",
+      "id": "f0dca443406e4413",
+      "issueKey": "농민",
+      "issueTitle": "농민",
+      "trendTitle": "농민",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Xác định 6 đội giành vé đi tiếp và 3 cặp đấu ở tứ kết World Cup 2026",
-          "source": "Báo Dân trí",
-          "url": "https://dantri.com.vn/the-thao/xac-dinh-6-doi-gianh-ve-di-tiep-va-3-cap-dau-o-tu-ket-world-cup-2026-20260707095710196.htm",
-          "publishedAt": "2026-07-07T18:00:00.000Z",
+          "title": "[르포]“양파 한망에 650원이라니, 팔수록 빚더미”···시민과 함께한 ‘7.7 전국농민대회’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607071645001",
+          "publishedAt": "2026-07-07T20:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Lịch thi đấu World Cup 2026 ngày 8.7: Messi và đồng đội phô diễn sức mạnh",
-          "source": "Báo Văn Hóa",
-          "url": "https://baovanhoa.vn/the-thao/lich-thi-dau-world-cup-2026-ngay-87-messi-va-dong-doi-pho-dien-suc-manh-243712.html",
-          "publishedAt": "2026-07-07T18:00:00.000Z",
+          "title": "내달 27일부터 농산물 가격 하락분 지원…'가격안정제' 시행",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260707144700030",
+          "publishedAt": "2026-07-07T20:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Xác định 8 đội vào tứ kết World Cup 2026: Cập nhật danh sách mới nhất",
-          "source": "Phụ nữ & Pháp luật",
-          "url": "https://phunuphapluat.nguoiduatin.vn/xac-dinh-8-doi-vao-tu-ket-world-cup-2026-cap-nhat-danh-sach-moi-nhat-a636707.html",
-          "publishedAt": "2026-07-07T18:00:00.000Z",
+          "title": "오이 200원·방울토마토 1000원… 광화문서 ‘땡처리’ 장터 열린 까닭 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/07/07/WNTMZSHITREIFEPX6OOT244724/",
+          "publishedAt": "2026-07-07T20:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "lịch world cup 2026",
-        "source": "Báo Dân trí",
-        "url": "https://dantri.com.vn/the-thao/xac-dinh-6-doi-gianh-ve-di-tiep-va-3-cap-dau-o-tu-ket-world-cup-2026-20260707095710196.htm",
-        "publishedAt": "2026-07-07T18:00:00.000Z",
+        "title": "[르포]“양파 한망에 650원이라니, 팔수록 빚더미”···시민과 함께한 ‘7.7 전국농민대회’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607071645001",
+        "publishedAt": "2026-07-07T20:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-07T18:00:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "lịch world cup 2026",
-      "source": "Báo Dân trí",
-      "url": "https://dantri.com.vn/the-thao/xac-dinh-6-doi-gianh-ve-di-tiep-va-3-cap-dau-o-tu-ket-world-cup-2026-20260707095710196.htm",
+      "publishedAt": "2026-07-07T20:00:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "농민",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202607071645001",
       "rank": 5
     },
     {
-      "id": "3731b75cd8e37b6f",
-      "issueKey": "อาร เจนต นา พบ อ ย ปต",
-      "issueTitle": "อาร์เจนตินา พบ อียิปต์",
-      "trendTitle": "อาร์เจนตินา พบ อียิปต์",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "อาร์เจนตินา-อียิปต์ ถ่ายทอดสดบนมือถือ ดูยังไงถึงจะชมแมตช์นี้ได้?",
-          "source": "Sortir à Paris",
-          "url": "https://www.sortiraparis.com/th/khaw/ni-paris/articles/348715-xarcentina-phb-xiyipt-thaythxd-sd-thang-mux-thux-ca-du-maetch-ni-yang-ngi",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "นิสัยแย่ๆ ของเมสซีเวลายิงจุดโทษ",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/thoi-quen-tai-hai-cua-messi-tren-cham-phat-den",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "ชี้ 4 ตัวเต็งบอลน่าเชียร์ 7 ก.ค. 69 : ทีเด็ดบอลวันนี้ เมสซี่นำอาร์เจนตินาลุ้นเฮ, ดีอาซพร้อมทำแสบสวิตเซอร์แลนด์",
-          "source": "Siamsport",
-          "url": "https://www.siamsport.co.th/football-international/national-team/106330/",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "อาร์เจนตินา พบ อียิปต์",
-        "source": "Sortir à Paris",
-        "url": "https://www.sortiraparis.com/th/khaw/ni-paris/articles/348715-xarcentina-phb-xiyipt-thaythxd-sd-thang-mux-thux-ca-du-maetch-ni-yang-ngi",
-        "publishedAt": "2026-07-07T17:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-07T17:50:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "อาร์เจนตินา พบ อียิปต์",
-      "source": "Sortir à Paris",
-      "url": "https://www.sortiraparis.com/th/khaw/ni-paris/articles/348715-xarcentina-phb-xiyipt-thaythxd-sd-thang-mux-thux-ca-du-maetch-ni-yang-ngi",
-      "rank": 6
-    },
-    {
-      "id": "bbe596b08571fd92",
-      "issueKey": "로메로",
-      "issueTitle": "로메로",
-      "trendTitle": "로메로",
+      "id": "c8bc56d6d554a84d",
+      "issueKey": "체중 증가",
+      "issueTitle": "체중 증가",
+      "trendTitle": "체중 증가",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'신의 도전'은 계속된다…메시, 최초 '9경기 연속골' 조준[월드컵]",
+          "title": "매일 80분씩 덜 잤더니…'놀라운' 신체 변화",
           "source": "Daum",
-          "url": "https://v.daum.net/v/xFQppZ6bH1",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
+          "url": "https://v.daum.net/v/43ipMeCEUu",
+          "publishedAt": "2026-07-07T20:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "각양각색 골잡이들, 저마다의 특장점이 있다!",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8604138",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
+          "title": "취침 늦추고 80분 덜 잤더니…\"살 찌고 허리둘레 늘어\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008645306",
+          "publishedAt": "2026-07-07T20:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "득점왕 경쟁 혼란 불러온 홀란...월드컵 신기록 나올까? [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202607070859326313",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
+          "title": "＂잠 80분 덜 자면 6주만에 체중 0.45㎏↑…허리둘레도 늘어＂",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065584037763275",
+          "publishedAt": "2026-07-07T20:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "로메로",
+        "title": "체중 증가",
         "source": "Daum",
-        "url": "https://v.daum.net/v/xFQppZ6bH1",
-        "publishedAt": "2026-07-07T17:50:00.000Z",
+        "url": "https://v.daum.net/v/43ipMeCEUu",
+        "publishedAt": "2026-07-07T20:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-07T17:50:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "로메로",
+      "publishedAt": "2026-07-07T20:00:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "체중 증가",
       "source": "Daum",
-      "url": "https://v.daum.net/v/xFQppZ6bH1",
-      "rank": 7
+      "url": "https://v.daum.net/v/43ipMeCEUu",
+      "rank": 6
     },
     {
-      "id": "8ac87032b24f1923",
-      "issueKey": "世界杯",
-      "issueTitle": "世界杯",
-      "trendTitle": "世界杯",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "d343231110081b06",
+      "issueKey": "홍명보",
+      "issueTitle": "홍명보",
+      "trendTitle": "홍명보",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "【美加墨世界杯】梅西再写多项史上第1纪录！ 媒体却忧：16强恐提前打包回家……",
-          "source": "马来西亚东方日报",
-          "url": "https://www.orientaldaily.com.my/news/sports/2026/07/04/830331",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
+          "title": "‘집행부 첫 사표’ 박항서 전 부회장 “나름 최선 다했다고 생각…내부 문제는 노코멘트”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707171351627",
+          "publishedAt": "2026-07-07T19:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "怎么吹？梅西连续11场比赛直接参与进球，进攻端势不可挡",
-          "source": "直播吧",
-          "url": "https://news.zhibo8.com/zuqiu/2026-07-08/6a4d427e6603cnative.htm",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
+          "title": "박항서 축구협회 부회장 사퇴…집행부 중 유일",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260707051036BiW",
+          "publishedAt": "2026-07-07T19:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "阿根廷超精妙配合!梅西停射一气呵成，媒体人集体狂赞： 天才之作",
-          "source": "MSN",
-          "url": "https://www.msn.com/zh-cn/news/other/%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%B6%85%E7%B2%BE%E5%A6%99%E9%85%8D%E5%90%88%E6%A2%85%E8%A5%BF%E5%81%9C%E5%B0%84%E4%B8%80%E6%B0%94%E5%91%B5%E6%88%90-%E5%AA%92%E4%BD%93%E4%BA%BA%E9%9B%86%E4%BD%93%E7%8B%82%E8%B5%9E-%E5%A4%A9%E6%89%8D%E4%B9%8B%E4%BD%9C/ar-AA27a42X",
-          "publishedAt": "2026-07-07T17:50:00.000Z",
+          "title": "홍명보·정몽규 모두 떠난 축구협회...혁신위 고민은?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202607071245364498",
+          "publishedAt": "2026-07-07T19:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "【美加墨世界杯】梅西再写多项史上第1纪录！ 媒体却忧：16强恐提前打包回家……",
-        "source": "马来西亚东方日报",
-        "url": "https://www.orientaldaily.com.my/news/sports/2026/07/04/830331",
-        "publishedAt": "2026-07-07T17:50:00.000Z",
-        "relevanceScore": 3
+        "title": "홍명보·정몽규 모두 떠난 축구협회...혁신위 고민은?",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0107_202607071245364498",
+        "publishedAt": "2026-07-07T19:50:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-07-07T17:50:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "世界杯",
-      "source": "马来西亚东方日报",
-      "url": "https://www.orientaldaily.com.my/news/sports/2026/07/04/830331",
-      "rank": 8
+      "publishedAt": "2026-07-07T19:50:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "홍명보",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0107_202607071245364498",
+      "rank": 7
     },
     {
-      "id": "8bbedbc17e5e72d8",
-      "issueKey": "김태효",
-      "issueTitle": "김태효",
-      "trendTitle": "김태효",
+      "id": "6e14ce236197fa8e",
+      "issueKey": "switzerland vs colombia",
+      "issueTitle": "switzerland vs colombia",
+      "trendTitle": "switzerland vs colombia",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "종합특검, ‘계엄 정당화 메시지’ 김태효 구속영장",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260708/134255392/2",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "Switzerland vs Colombia LIVE: FIFA World Cup 2026 last 16 score, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[단독]\"윤석열 미친 줄\" 김태효 구속영장 청구...계엄 정당화 메시지 전파 혐의",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12307099",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "Live: Messi leads incredible Argentina comeback against Egypt, Switzerland faces Colombia",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-07-08/world-cup-live-blog-argentina-vs-egypt-switzerland-vs-colombia/106889234",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "2차 종합특검, '우방국에 계엄 정당화 메시지' 김태효 구속영장 청구",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6835732_36918.html",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "Switzerland fear 'huge issue' as Manzambi, 2 others leave training",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49290967/switzerland-johan-manzambi-injury-colombia-2006-world-cup",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "종합특검, ‘계엄 정당화 메시지’ 김태효 구속영장",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260708/134255392/2",
-        "publishedAt": "2026-07-07T17:40:00.000Z",
+        "title": "Switzerland vs Colombia LIVE: FIFA World Cup 2026 last 16 score, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t",
+        "publishedAt": "2026-07-07T19:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-07T17:40:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "김태효",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Society/article/all/20260708/134255392/2",
-      "rank": 9
+      "publishedAt": "2026-07-07T19:40:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "switzerland vs colombia",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t",
+      "rank": 8
     },
     {
-      "id": "9f3ec55411448933",
-      "issueKey": "유시춘",
-      "issueTitle": "유시춘",
-      "trendTitle": "유시춘",
+      "id": "89b297beb0bdee5f",
+      "issueKey": "디에고 시메오네",
+      "issueTitle": "디에고 시메오네",
+      "trendTitle": "디에고 시메오네",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'법카 1960만원 유용 혐의' 유시춘 EBS 이사장…징역 1년 구형",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/gyeonggi/6218990",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "이강인 ‘다시 스페인’ 끈질긴 구애해 온 AT 마드리드로···연봉 100억원에 이적 확정",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607071717001",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "검찰, '법카 1960만원 유용 혐의' 유시춘 EBS 이사장에 '징역 1년' 구형",
-          "source": "프리진뉴스",
-          "url": "https://www.freezinenews.com/news/articleView.html?idxno=27639",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "이강인 스페인 무대 복귀 유력‥'아틀레티코 마드리드행 임박'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6835720_37004.html",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "유시민 누나 유시춘 EBS 이사장…'법인카드 사적 유용' 징역 1년 구형",
-          "source": "주간조선",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53241",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "\"이강인, 이적료 700억원에 AT 마드리드행 합의\" 보도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260706157000007",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'법카 1960만원 유용 혐의' 유시춘 EBS 이사장…징역 1년 구형",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/gyeonggi/6218990",
-        "publishedAt": "2026-07-07T17:40:00.000Z",
+        "title": "디에고 시메오네",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607071717001",
+        "publishedAt": "2026-07-07T19:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-07T17:40:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "유시춘",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/local/gyeonggi/6218990",
+      "publishedAt": "2026-07-07T19:40:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "디에고 시메오네",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202607071717001",
+      "rank": 9
+    },
+    {
+      "id": "803a15c15243ab9c",
+      "issueKey": "카르 다노",
+      "issueTitle": "카르 다노",
+      "trendTitle": "카르 다노",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "카르다노 31% 반등…2028년까지 7400% 상승 여지 열렸다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260707n10645",
+          "publishedAt": "2026-07-07T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "카르다노(ADA) 31% 폭등 후 숨고르기…미결제 약정 급증에 추가 상승 기대감",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/246251",
+          "publishedAt": "2026-07-07T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "찰스 호스킨슨 \"카르다노, 레이오스 통해 XRPL 수준 성능 낼 것\"",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681517",
+          "publishedAt": "2026-07-07T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "카르 다노",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260707n10645",
+        "publishedAt": "2026-07-07T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-07T19:30:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "카르 다노",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260707n10645",
       "rank": 10
     }
   ],
@@ -757,6 +757,52 @@
       "url": "https://www.chosun.com/sports/football/2026/07/07/GVSDAMRXGYYDEY3DMQYDMNBVHA/"
     },
     {
+      "id": "d343231110081b06",
+      "issueKey": "홍명보",
+      "issueTitle": "홍명보",
+      "trendTitle": "홍명보",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘집행부 첫 사표’ 박항서 전 부회장 “나름 최선 다했다고 생각…내부 문제는 노코멘트”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260707171351627",
+          "publishedAt": "2026-07-07T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "박항서 축구협회 부회장 사퇴…집행부 중 유일",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260707051036BiW",
+          "publishedAt": "2026-07-07T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "홍명보·정몽규 모두 떠난 축구협회...혁신위 고민은?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0107_202607071245364498",
+          "publishedAt": "2026-07-07T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "홍명보·정몽규 모두 떠난 축구협회...혁신위 고민은?",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0107_202607071245364498",
+        "publishedAt": "2026-07-07T19:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-07T19:50:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "홍명보",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0107_202607071245364498"
+    },
+    {
       "id": "1ea5c356f65344cf",
       "issueKey": "바다",
       "issueTitle": "바다",
@@ -939,52 +985,6 @@
       "title": "태풍 바비",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260706145705305"
-    },
-    {
-      "id": "7f916f91b7e81840",
-      "issueKey": "롯데 자이언츠",
-      "issueTitle": "롯데 자이언츠",
-      "trendTitle": "롯데 자이언츠",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'김현수 결승 투런포' kt, 롯데 꺾고 3연패 탈출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260705046100007",
-          "publishedAt": "2026-07-05T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"8회에 쓰겠다\" 이강철 감독 신뢰→韓 데뷔 '40경기 만에' 드디어 첫 승 따냈다!…\"매 이닝 무실점이 내 임무\" 다짐 [수원 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706012551451",
-          "publishedAt": "2026-07-05T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"아무렇지 않은척\" 데뷔 19년차, 50억 FA가 강조한 베테랑의 자세…\"이젠 끌려가는 신세\" [인터뷰]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/07/06/MEYTQMDDHBTDGMDEGAZTGNZWHA/",
-          "publishedAt": "2026-07-05T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "롯데 자이언츠",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260705046100007",
-        "publishedAt": "2026-07-05T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-05T20:40:00.000Z",
-      "firstSeenAt": "2026-07-05T22:01:47.405Z",
-      "lastSeenAt": "2026-07-05T22:01:47.405Z",
-      "title": "롯데 자이언츠",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260705046100007"
     },
     {
       "id": "3e8652007c27b07f",
@@ -1399,6 +1399,98 @@
       "title": "최저 임금 위원회",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260707215742195"
+    },
+    {
+      "id": "1582cdc13bad8669",
+      "issueKey": "조코비치",
+      "issueTitle": "조코비치",
+      "trendTitle": "노바크 조코비치",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "조코비치, 윔블던 통산 105승...‘황제' 페더러와 타이 기록 세우며 16강 올라",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/04/CUGJVL4KXVGHXMNCGL3SETNQOE/",
+          "publishedAt": "2026-07-07T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "조코비치, 윔블던 男단식 ‘106번째 승’ 역대 최다",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11600507",
+          "publishedAt": "2026-07-07T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "17번째 윔블던 8강, 그리고 106승… 조코비치는 또 역사를 썼다",
+          "source": "테니스피플",
+          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=18931",
+          "publishedAt": "2026-07-07T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "조코비치, 윔블던 통산 105승...‘황제' 페더러와 타이 기록 세우며 16강 올라",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/07/04/CUGJVL4KXVGHXMNCGL3SETNQOE/",
+        "publishedAt": "2026-07-07T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-07T20:20:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "조코비치",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_general/2026/07/04/CUGJVL4KXVGHXMNCGL3SETNQOE/"
+    },
+    {
+      "id": "803a15c15243ab9c",
+      "issueKey": "카르 다노",
+      "issueTitle": "카르 다노",
+      "trendTitle": "카르 다노",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "카르다노 31% 반등…2028년까지 7400% 상승 여지 열렸다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260707n10645",
+          "publishedAt": "2026-07-07T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "카르다노(ADA) 31% 폭등 후 숨고르기…미결제 약정 급증에 추가 상승 기대감",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/246251",
+          "publishedAt": "2026-07-07T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "찰스 호스킨슨 \"카르다노, 레이오스 통해 XRPL 수준 성능 낼 것\"",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=681517",
+          "publishedAt": "2026-07-07T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "카르 다노",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260707n10645",
+        "publishedAt": "2026-07-07T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-07T19:30:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "카르 다노",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260707n10645"
     },
     {
       "id": "4369c6b568cd6073",
@@ -2229,142 +2321,50 @@
       "url": "https://news.nate.com/view/20260707n00172"
     },
     {
-      "id": "8bbedbc17e5e72d8",
-      "issueKey": "김태효",
-      "issueTitle": "김태효",
-      "trendTitle": "김태효",
+      "id": "6e14ce236197fa8e",
+      "issueKey": "switzerland vs colombia",
+      "issueTitle": "switzerland vs colombia",
+      "trendTitle": "switzerland vs colombia",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "종합특검, ‘계엄 정당화 메시지’ 김태효 구속영장",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260708/134255392/2",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "Switzerland vs Colombia LIVE: FIFA World Cup 2026 last 16 score, commentary & updates",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[단독]\"윤석열 미친 줄\" 김태효 구속영장 청구...계엄 정당화 메시지 전파 혐의",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12307099",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "Live: Messi leads incredible Argentina comeback against Egypt, Switzerland faces Colombia",
+          "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://www.abc.net.au/news/2026-07-08/world-cup-live-blog-argentina-vs-egypt-switzerland-vs-colombia/106889234",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "2차 종합특검, '우방국에 계엄 정당화 메시지' 김태효 구속영장 청구",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6835732_36918.html",
-          "publishedAt": "2026-07-07T17:40:00.000Z",
+          "title": "Switzerland fear 'huge issue' as Manzambi, 2 others leave training",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49290967/switzerland-johan-manzambi-injury-colombia-2006-world-cup",
+          "publishedAt": "2026-07-07T19:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "종합특검, ‘계엄 정당화 메시지’ 김태효 구속영장",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260708/134255392/2",
-        "publishedAt": "2026-07-07T17:40:00.000Z",
+        "title": "Switzerland vs Colombia LIVE: FIFA World Cup 2026 last 16 score, commentary & updates",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t",
+        "publishedAt": "2026-07-07T19:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-07T17:40:00.000Z",
-      "firstSeenAt": "2026-07-07T19:55:06.500Z",
-      "lastSeenAt": "2026-07-07T19:55:06.500Z",
-      "title": "김태효",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Society/article/all/20260708/134255392/2"
-    },
-    {
-      "id": "5934dffae119f9ee",
-      "issueKey": "argentina vs egypt",
-      "issueTitle": "argentina vs egypt",
-      "trendTitle": "argentina vs egypt",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Yasser Ibrahim Powers Home Header to Put Egypt Ahead of Argentina | 2026 FIFA World Cup",
-          "source": "FOX Sports",
-          "url": "https://www.foxsports.com/watch/fmc-v440xmqjmfsoi30f",
-          "publishedAt": "2026-07-07T15:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Argentina vs. Egypt score: Live World Cup updates as Lionel Messi and Mohamed Salah go head-to-head",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/soccer/news/argentina-egypt-live-updates-world-cup-2026-score-result/live/",
-          "publishedAt": "2026-07-07T15:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Argentina vs Egypt LIVE: FIFA World Cup 2026 round of 16",
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026",
-          "publishedAt": "2026-07-07T15:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Argentina vs Egypt LIVE: FIFA World Cup 2026 round of 16",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026",
-        "publishedAt": "2026-07-07T15:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-07T15:50:00.000Z",
-      "firstSeenAt": "2026-07-07T17:13:27.597Z",
-      "lastSeenAt": "2026-07-07T17:13:27.597Z",
-      "title": "argentina vs egypt",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/7/7/argentina-vs-egypt-live-fifa-world-cup-2026"
-    },
-    {
-      "id": "d0ff71d876f92b36",
-      "issueKey": "사기",
-      "issueTitle": "사기",
-      "trendTitle": "사기",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "검찰, '14억 코인 투자 사기' 태영호 전 의원 장남에게 징역 5년 구형",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6835621_36918.html",
-          "publishedAt": "2026-07-07T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'14억원 가상자산 사기' 태영호 前의원 장남에 징역 5년 구형",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260707107100004",
-          "publishedAt": "2026-07-07T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"우리 아빠 의원인데\"…14억 사기 태영호 전 의원 장남, 징역 5년 구형",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/07/2026070716074294300",
-          "publishedAt": "2026-07-07T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "검찰, '14억 코인 투자 사기' 태영호 전 의원 장남에게 징역 5년 구형",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6835621_36918.html",
-        "publishedAt": "2026-07-07T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-07T12:40:00.000Z",
-      "firstSeenAt": "2026-07-07T14:34:21.627Z",
-      "lastSeenAt": "2026-07-07T14:34:21.627Z",
-      "title": "사기",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6835621_36918.html"
+      "publishedAt": "2026-07-07T19:40:00.000Z",
+      "firstSeenAt": "2026-07-07T22:10:34.750Z",
+      "lastSeenAt": "2026-07-07T22:10:34.750Z",
+      "title": "switzerland vs colombia",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/cx2vrg8gzr1t"
     }
   ]
 }
