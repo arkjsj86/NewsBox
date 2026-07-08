@@ -7,11 +7,434 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-08T16:39:02.677Z",
+  "lastUpdatedAt": "2026-07-08T19:25:08.445Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
+    {
+      "id": "2b072bba332c34af",
+      "issueKey": "호우",
+      "issueTitle": "호우",
+      "trendTitle": "광주날씨",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "전남광주 영광낙월면에 호우·강풍주의보",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708097500527",
+          "publishedAt": "2026-07-08T17:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전남광주 올여름 첫 열대야…지난해보다 16일 늦어",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/b4AhCDtWXg",
+          "publishedAt": "2026-07-08T17:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[오늘의 날씨] 전남광주(8일, 수)…낮 기온 올라 덥고 많은 비",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/gwangju-jeonnam/6220791",
+          "publishedAt": "2026-07-08T17:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "전남광주 영광낙월면에 호우·강풍주의보",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260708097500527",
+        "publishedAt": "2026-07-08T17:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-08T17:50:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "호우",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260708097500527",
+      "rank": 1
+    },
+    {
+      "id": "c678a3bb8ff6c2c0",
+      "issueKey": "품는다",
+      "issueTitle": "안드레이 산투스",
+      "trendTitle": "안드레이 산투스",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"캐릭 밑에서 기량이 폭발할 수 있는 미드필더다\"…英 매체 맨유에 본머스 핵심 미드필더 적극 추천",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QoXKahztIh",
+          "publishedAt": "2026-07-08T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "맨유, 약 1,009억에 ‘신형 산소탱크’ 품는다···브라질이 기대하는 전진성 뛰어난 22세 미드필더 안드레이 산투스",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/sports/12093896",
+          "publishedAt": "2026-07-08T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'맨유서 살아남는 건 쉽지 않아, 기준 맞는 기량 뽐내야' OT 입성 유력 에데르송 향해 에브라 조언",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260709n00842",
+          "publishedAt": "2026-07-08T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "맨유, 약 1,009억에 ‘신형 산소탱크’ 품는다···브라질이 기대하는 전진성 뛰어난 22세 미드필더 안드레이 산투스",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/sports/12093896",
+        "publishedAt": "2026-07-08T17:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-08T17:20:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "안드레이 산투스",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/sports/12093896",
+      "rank": 2
+    },
+    {
+      "id": "d2267859223749ed",
+      "issueKey": "맥그리거",
+      "issueTitle": "맥그리거",
+      "trendTitle": "맥그리거",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“내가 UFC 베스트 복서야” 맥그리거에게 던진 할로웨이의 한마디",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7pDl6spXDu",
+          "publishedAt": "2026-07-08T17:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“맥그리거의 왼손 한방”…애스피널 경기 예측",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10800157",
+          "publishedAt": "2026-07-08T17:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“난 두 손 내려도 넌 못 맞춘다” vs “하와이식으로 두들겨 패주겠다”…맥그리거 5년 만의 복귀전, 약세 평가 속 예상 뒤집을까?",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=689967",
+          "publishedAt": "2026-07-08T17:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“내가 UFC 베스트 복서야” 맥그리거에게 던진 할로웨이의 한마디",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/7pDl6spXDu",
+        "publishedAt": "2026-07-08T17:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-08T17:10:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "맥그리거",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/7pDl6spXDu",
+      "rank": 3
+    },
+    {
+      "id": "257aa0f415f42296",
+      "issueKey": "창원",
+      "issueTitle": "창원",
+      "trendTitle": "부산 날씨",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "창원·하동북부에 폭염주의보…김해 등 10곳 폭염주의보 유지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708062700527",
+          "publishedAt": "2026-07-08T16:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "오늘의 날씨- 2026년 7월 9일",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&amp;key=20260709.22016002566",
+          "publishedAt": "2026-07-08T16:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"덥다, 더워!\" 부울경 무더위 지속…경남에는 열대야도 관측",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708154006278",
+          "publishedAt": "2026-07-08T16:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "창원·하동북부에 폭염주의보…김해 등 10곳 폭염주의보 유지",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260708062700527",
+        "publishedAt": "2026-07-08T16:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-08T16:50:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "창원",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260708062700527",
+      "rank": 4
+    },
+    {
+      "id": "63cf4b2d2f5fb790",
+      "issueKey": "아서 페리",
+      "issueTitle": "아서 페리",
+      "trendTitle": "아서 페리",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "월드컵 못간 이탈리아, 테니스는 잘나가",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260708/134254753/2",
+          "publishedAt": "2026-07-08T16:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'세계 114위' 페리, 디미트로프 꺾고 윔블던 테니스 8강 진출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260707032900007",
+          "publishedAt": "2026-07-08T16:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "코볼리, 윔블던 8강 진출...호주오픈 충격패 설욕 기회 잡았다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BanHOk5T57",
+          "publishedAt": "2026-07-08T16:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아서 페리",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20260708/134254753/2",
+        "publishedAt": "2026-07-08T16:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-08T16:20:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "아서 페리",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Sports/article/all/20260708/134254753/2",
+      "rank": 5
+    },
+    {
+      "id": "045b8dcb88ae129c",
+      "issueKey": "티비",
+      "issueTitle": "티비",
+      "trendTitle": "티비",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Emmy Nominees 2026: The Complete List",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
+          "publishedAt": "2026-07-08T16:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Emmy Nominations 2026: Biggest Snubs and Surprises",
+          "source": "Rolling Stone",
+          "url": "https://www.rollingstone.com/tv-movies/tv-movie-features/emmy-nominations-2026-snubs-surprises-1235590535/",
+          "publishedAt": "2026-07-08T16:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Primetime Emmy Awards 2026: See the full list of nominees",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/07/08/entertainment/emmy-award-nominations-2026",
+          "publishedAt": "2026-07-08T16:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "티비",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
+        "publishedAt": "2026-07-08T16:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-08T16:20:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "티비",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html",
+      "rank": 6
+    },
+    {
+      "id": "07ee5c3176a98523",
+      "issueKey": "트레이드",
+      "issueTitle": "트레이드",
+      "trendTitle": "트레이드",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘바람의 손자’ 이정후 트레이드 가능성 50%…소속팀 부진에 매물로 나오나",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260708/134259964/1",
+          "publishedAt": "2026-07-08T16:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“이정후 탄탄한 선수인데 스타는 아니야” 트레이드 후보구단 떴다…김하성과 운명적 재회 혹은 켈리와의 만남",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/5b92Z3RfmH",
+          "publishedAt": "2026-07-08T16:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이정후, ESPN 트레이드 후보 100명 中 7위 '이적 가능성 50%'→SF 내 압도적 1위",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/08/2026070809030171585",
+          "publishedAt": "2026-07-08T16:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘바람의 손자’ 이정후 트레이드 가능성 50%…소속팀 부진에 매물로 나오나",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20260708/134259964/1",
+        "publishedAt": "2026-07-08T16:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-08T16:10:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "트레이드",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Inter/article/all/20260708/134259964/1",
+      "rank": 7
+    },
+    {
+      "id": "2095636179a44e8e",
+      "issueKey": "프랑스 모로코",
+      "issueTitle": "프랑스 모로코",
+      "trendTitle": "프랑스 모로코",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "북중미월드컵 8강 프랑스-모로코전 프로토 승부식 80회차, 축구토토 매치 13회차 대상경기 편성",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/08/MRSWGN3DGFQWCNRWGYYDMZDFGM/",
+          "publishedAt": "2026-07-08T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "8강 포문 여는 프랑스와 모로코…승부식·기록식·축구토토 매치 등 게임 발매",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260708/134257649/1",
+          "publishedAt": "2026-07-08T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘음바페 vs 디아스’ 8강 격돌…프랑스·모로코전 스포츠토토 발매",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/toto/2341022.htm",
+          "publishedAt": "2026-07-08T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "프랑스 모로코",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/07/08/MRSWGN3DGFQWCNRWGYYDMZDFGM/",
+        "publishedAt": "2026-07-08T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-08T16:00:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "프랑스 모로코",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_general/2026/07/08/MRSWGN3DGFQWCNRWGYYDMZDFGM/",
+      "rank": 8
+    },
+    {
+      "id": "5ed50a60a6356a50",
+      "issueKey": "장윤기",
+      "issueTitle": "장윤기",
+      "trendTitle": "장윤기",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] 사건 직후 서장 주재 회의‥\"함부로 누설 마라\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836015_37004.html",
+          "publishedAt": "2026-07-08T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "검찰, 장윤기 아버지 집에서 ‘케이블 타이’ 확보…수사팀장 구속",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708213109211",
+          "publishedAt": "2026-07-08T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장윤기 사건 수사팀장 구속…유족 \"경찰이 살인마 편\" 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260708231322WfC",
+          "publishedAt": "2026-07-08T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "검찰, 장윤기 아버지 집에서 ‘케이블 타이’ 확보…수사팀장 구속",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260708213109211",
+        "publishedAt": "2026-07-08T15:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-08T15:50:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "장윤기",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260708213109211",
+      "rank": 9
+    },
     {
       "id": "b09b402261b046e6",
       "issueKey": "테일러 프리츠",
@@ -23,463 +446,40 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Watch Wimbledon: British wildcard Fery one game away from place in semi-finals",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/tennis/live/czjwnmle9p3t",
+          "title": "Alexander Zverev beats Taylor Fritz to make Wimbledon semis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/tennis/story/_/id/49307717/alexander-zverev-beats-taylor-fritz-reach-first-wimbledon-semifinal-face-arthur-fery",
           "publishedAt": "2026-07-08T15:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Wimbledon 2026: Cobolli v Fery, Fritz v Zverev; Noskova and Kostyuk power through in quarter-finals – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/jul/08/wimbledon-2026-noskova-mertens-kostyuk-paolini-fritz-zverev-cobolli-fery-quarter-finals-live?page=with:block-6a4e6eef8f08fa9e96d5d4b9",
+          "title": "Wimbledon 2026: Taylor Fritz falls in quarterfinals to Alexander Zverev",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/tennis/breaking-news/article/wimbledon-2026-taylor-fritz-falls-in-quarterfinals-to-alexander-zverev-162950179.html",
           "publishedAt": "2026-07-08T15:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "The Preview Day 10",
-          "source": "Wimbledon",
-          "url": "https://www.wimbledon.com/en_GB/news/wimbledon_2026_the_preview_day_10",
+          "title": "Wimbledon 2026 results: Alexander Zverev defeats injured Taylor Fritz to reach semi-finals and end dismal run",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/tennis/articles/cn4dneky1lgo",
           "publishedAt": "2026-07-08T15:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "테일러 프리츠",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/tennis/live/czjwnmle9p3t",
+        "source": "ESPN",
+        "url": "https://www.espn.com/tennis/story/_/id/49307717/alexander-zverev-beats-taylor-fritz-reach-first-wimbledon-semifinal-face-arthur-fery",
         "publishedAt": "2026-07-08T15:30:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-08T15:30:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
       "title": "테일러 프리츠",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/tennis/live/czjwnmle9p3t",
-      "rank": 1
-    },
-    {
-      "id": "b77c33421ac7b8b0",
-      "issueKey": "그리즈만",
-      "issueTitle": "그리즈만",
-      "trendTitle": "그리즈만",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"메시는 득점왕 하고, 음바페가 월드컵 우승하자\"… '이강인에게 자리 내준' 그리즈만, 올랜도 입단식서 밝힌 바람",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708210137717",
-          "publishedAt": "2026-07-08T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "ATM에 이강인 자리 마련하고 떠났다…'MLS 클럽 입단' 그리즈만 '손흥민의 LAFC 레전드 같은 활약 펼치고 싶다'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260708n26341",
-          "publishedAt": "2026-07-08T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"이강인 방출은 역사상 최악의 실수\" 공짜로 내보낸 韓 미드필더 603억 이적 임박…발렌시아 FIFA 연대기여금 '24억' 횡재→\"그럼에도 LEE 놓친 대가 아직도 치른다\" 현지 혹평",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708122039900",
-          "publishedAt": "2026-07-08T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"메시는 득점왕 하고, 음바페가 월드컵 우승하자\"… '이강인에게 자리 내준' 그리즈만, 올랜도 입단식서 밝힌 바람",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260708210137717",
-        "publishedAt": "2026-07-08T15:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T15:10:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "그리즈만",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260708210137717",
-      "rank": 2
-    },
-    {
-      "id": "d24e93bf93af1f39",
-      "issueKey": "대통령",
-      "issueTitle": "대통령",
-      "trendTitle": "대통령",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "군대서 모은 돈이 몇 시간 만에... 아들이 받은 기막힌 전화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260707140301088",
-          "publishedAt": "2026-07-08T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "독일 유학파 베테랑 연주자의 월급명세서...말문이 막힌다",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0003249097",
-          "publishedAt": "2026-07-08T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "李대통령, 주가조작에 경고장…“3중 그물 피할 수 없다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/F8I9E0e4W3",
-          "publishedAt": "2026-07-08T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "李대통령, 주가조작에 경고장…“3중 그물 피할 수 없다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/F8I9E0e4W3",
-        "publishedAt": "2026-07-08T14:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-08T14:30:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "대통령",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/F8I9E0e4W3",
-      "rank": 3
-    },
-    {
-      "id": "b664e47027315157",
-      "issueKey": "서인영",
-      "issueTitle": "서인영",
-      "trendTitle": "서인영",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "식품공장 2개 운영하는 서인영 父, 물려줄 딸은…“이미 유산줬다”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708215337575",
-          "publishedAt": "2026-07-08T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서인영 父, 식품 공장 대표였다…\"두 딸에 유산 안 물려줄 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260708_0003701602",
-          "publishedAt": "2026-07-08T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서인영 母, 딸 재혼 소식에 걱정⋯삼혼 발언에 경악 \"그건 안 돼\"",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2601767",
-          "publishedAt": "2026-07-08T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "식품공장 2개 운영하는 서인영 父, 물려줄 딸은…“이미 유산줬다”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260708215337575",
-        "publishedAt": "2026-07-08T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T14:00:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "서인영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260708215337575",
-      "rank": 4
-    },
-    {
-      "id": "5387bad7291bcbad",
-      "issueKey": "마르타 코스튜크",
-      "issueTitle": "마르타 코스튜크",
-      "trendTitle": "마르타 코스튜크",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "테니스 코스튜크, 크루거 꺾고 생애 첫 윔블던 8강 진출",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260706224155955",
-          "publishedAt": "2026-07-08T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'미사일 폭격으로 22명 사망→러시아 만행에 눈물 펑펑' 코스튜크, 우크라이나에 또 감동 선사…생애 첫 윔블던 4강행 \"꿈이 이뤄졌다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260709n00609",
-          "publishedAt": "2026-07-08T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“미국 상대 10전 전승” 코스튜크, 런던 윔블던서 첫 8강 진출",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16125626",
-          "publishedAt": "2026-07-08T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "마르타 코스튜크",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260706224155955",
-        "publishedAt": "2026-07-08T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T13:50:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "마르타 코스튜크",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260706224155955",
-      "rank": 5
-    },
-    {
-      "id": "548fabba018a04dd",
-      "issueKey": "리센느",
-      "issueTitle": "리센느",
-      "trendTitle": "리센느",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260707144500505",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[기자의 시각] 부모님이 졸지에 ‘일베’가 됐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708234809788",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "국민 56% \"'무섭노'는 사투리\"…2030은 78% 넘게 동의",
-          "source": "주간조선",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53257",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "리센느",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260707144500505",
-        "publishedAt": "2026-07-08T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T13:40:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "리센느",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260707144500505",
-      "rank": 6
-    },
-    {
-      "id": "711c7353adb492fa",
-      "issueKey": "페이커",
-      "issueTitle": "페이커",
-      "trendTitle": "페이커",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[사진] 류지혁, 수비 충돌로 통증 호소",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260708n37238",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]NCT 제노-재민,'훈훈한 얼굴 하트'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260708n32967",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[사진] 헤드샷 박동원 감싸는 강민호",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260708n36799",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "페이커",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260708n37238",
-        "publishedAt": "2026-07-08T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T13:40:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "페이커",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260708n37238",
-      "rank": 7
-    },
-    {
-      "id": "a926c4a9c145e86b",
-      "issueKey": "삼성중공업",
-      "issueTitle": "삼성중공업",
-      "trendTitle": "삼성중공업",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "삼성중공업, 연간 수주 5년만에 100억달러 돌파",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260708078600003",
-          "publishedAt": "2026-07-08T13:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "삼성重, 원유운반선 2척 2849억원 수주",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708113935101",
-          "publishedAt": "2026-07-08T13:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "삼성重, 원유운반선 2척 수주…5년 만 '연간 수주 100억 달러' 돌파",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=344569",
-          "publishedAt": "2026-07-08T13:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성중공업, 연간 수주 5년만에 100억달러 돌파",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708078600003",
-        "publishedAt": "2026-07-08T13:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T13:30:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "삼성중공업",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260708078600003",
-      "rank": 8
-    },
-    {
-      "id": "1cfc49f3469bac50",
-      "issueKey": "멜론 차트",
-      "issueTitle": "멜론 차트",
-      "trendTitle": "멜론 차트",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "리센느, 원이 '일베 논란' 마음고생 속 1위..눈물의 라이브 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708225409346",
-          "publishedAt": "2026-07-08T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "리센느 멜론 TOP100 1위 찍었다…오열 라이브 “꿈 같다” [종합]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260708/134263688/1",
-          "publishedAt": "2026-07-08T13:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "모두가 유재석일 필요는 없지… 툭툭 던지는 콘텐츠에 ‘야호~’",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/life/pop-culture/2026/07/07/20260707016002",
-          "publishedAt": "2026-07-08T13:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "멜론 차트",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260708225409346",
-        "publishedAt": "2026-07-08T13:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T13:10:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "멜론 차트",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260708225409346",
-      "rank": 9
-    },
-    {
-      "id": "1efd16e74ec7d800",
-      "issueKey": "이준영",
-      "issueTitle": "이준영",
-      "trendTitle": "이준영",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'유퀴즈' 이준영 \"유키스 새 멤버 합류→3주 안에 20곡 이상 숙지\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708223438135",
-          "publishedAt": "2026-07-08T13:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이준영, 음주차량 1시간 추격 끝 붙잡아…\"내 차 박아라 생각\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/08/2026070818154057491",
-          "publishedAt": "2026-07-08T13:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이준영, 아이돌 데뷔 후 '빚' 때문에 편의점 야간 알바… \"매니저와 마주치고 오열\" ('유퀴즈')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/08/MQ2DOZBSGQ3TCMJWME3WMNJXMQ/",
-          "publishedAt": "2026-07-08T13:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'유퀴즈' 이준영 \"유키스 새 멤버 합류→3주 안에 20곡 이상 숙지\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260708223438135",
-        "publishedAt": "2026-07-08T13:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T13:00:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "이준영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260708223438135",
+      "source": "ESPN",
+      "url": "https://www.espn.com/tennis/story/_/id/49307717/alexander-zverev-beats-taylor-fritz-reach-first-wimbledon-semifinal-face-arthur-fery",
       "rank": 10
     }
   ],
@@ -2289,6 +2289,52 @@
       "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6835397_37004.html"
     },
     {
+      "id": "5ed50a60a6356a50",
+      "issueKey": "장윤기",
+      "issueTitle": "장윤기",
+      "trendTitle": "장윤기",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] 사건 직후 서장 주재 회의‥\"함부로 누설 마라\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6836015_37004.html",
+          "publishedAt": "2026-07-08T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "검찰, 장윤기 아버지 집에서 ‘케이블 타이’ 확보…수사팀장 구속",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260708213109211",
+          "publishedAt": "2026-07-08T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장윤기 사건 수사팀장 구속…유족 \"경찰이 살인마 편\" 外",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260708231322WfC",
+          "publishedAt": "2026-07-08T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "검찰, 장윤기 아버지 집에서 ‘케이블 타이’ 확보…수사팀장 구속",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260708213109211",
+        "publishedAt": "2026-07-08T15:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-08T15:50:00.000Z",
+      "firstSeenAt": "2026-07-08T19:25:08.445Z",
+      "lastSeenAt": "2026-07-08T19:25:08.445Z",
+      "title": "장윤기",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260708213109211"
+    },
+    {
       "id": "b664e47027315157",
       "issueKey": "서인영",
       "issueTitle": "서인영",
@@ -2333,52 +2379,6 @@
       "title": "서인영",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260708215337575"
-    },
-    {
-      "id": "548fabba018a04dd",
-      "issueKey": "리센느",
-      "issueTitle": "리센느",
-      "trendTitle": "리센느",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[소셜＋] \"와 이리 무섭노\" 쓰면 안되나요…일베 설전에 멍드는 사투리",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260707144500505",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[기자의 시각] 부모님이 졸지에 ‘일베’가 됐다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708234809788",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "국민 56% \"'무섭노'는 사투리\"…2030은 78% 넘게 동의",
-          "source": "주간조선",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53257",
-          "publishedAt": "2026-07-08T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "리센느",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260707144500505",
-        "publishedAt": "2026-07-08T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T13:40:00.000Z",
-      "firstSeenAt": "2026-07-08T16:39:02.677Z",
-      "lastSeenAt": "2026-07-08T16:39:02.677Z",
-      "title": "리센느",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260707144500505"
     }
   ]
 }
