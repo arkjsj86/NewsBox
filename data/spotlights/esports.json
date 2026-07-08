@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-07-08T08:28:33.723Z",
+  "lastUpdatedAt": "2026-07-08T11:04:39.638Z",
   "activeLeagueKey": "msi",
   "activeLeagueLabel": "MSI",
   "title": "경기 일정",
@@ -48,14 +48,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
           "name": "LYON",
           "code": "LYON",
           "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+        },
+        {
+          "name": "G2 Esports",
+          "code": "G2",
+          "imageUrl": "http://static.lolesports.com/teams/G2-FullonDark.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
