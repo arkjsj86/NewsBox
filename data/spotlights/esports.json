@@ -3,26 +3,95 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-07-08T11:04:39.638Z",
-  "activeLeagueKey": "msi",
-  "activeLeagueLabel": "MSI",
+  "lastUpdatedAt": "2026-07-08T14:07:55.569Z",
+  "activeLeagueKey": "lck",
+  "activeLeagueLabel": "LCK",
   "title": "경기 일정",
-  "description": "지금은 MSI 일정이 우선 노출되고 있으며, 경기 수가 많으면 목록 안에서 스크롤됩니다.",
-  "sourceUrl": "https://lolesports.com/en-US/leagues/msi",
+  "description": "LCK 일정이 우선 표시되고, 리그 일정이 비는 기간에는 MSI와 Worlds 일정으로 자동 전환됩니다.",
+  "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
-  "primaryTournamentName": "2026",
-  "primaryBlockName": "Knockouts",
-  "matchCount": 4,
+  "primaryTournamentName": "Split 3 2026",
+  "primaryBlockName": "Week 10",
+  "matchCount": 12,
   "matches": [
     {
-      "id": "115570934355614575",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-07-09T08:00:00.000Z",
+      "id": "115548147900684661",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-07-29T08:00:00.000Z",
       "state": "unstarted",
-      "matchType": "Bo5",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "KIWOOM DRX",
+          "code": "DRX",
+          "imageUrl": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
+        },
+        {
+          "name": "NONGSHIM RED FORCE",
+          "code": "NS",
+          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900553461",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-07-29T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "T1",
+          "code": "T1",
+          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
+        },
+        {
+          "name": "kt Rolster",
+          "code": "KT",
+          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900684657",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-07-30T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "DN SOOPers",
+          "code": "DNS",
+          "imageUrl": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+        },
+        {
+          "name": "BNK FEARX",
+          "code": "BFX",
+          "imageUrl": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900553453",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-07-30T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
       "teams": [
         {
           "name": "Hanwha Life Esports",
@@ -30,81 +99,196 @@
           "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
         },
         {
-          "name": "BILIBILI GAMING",
-          "code": "BLG",
-          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
+          "name": "Dplus KIA",
+          "code": "DK",
+          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
         }
       ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     },
     {
-      "id": "115570934355614593",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-07-10T08:00:00.000Z",
+      "id": "115548147900553457",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-07-31T08:00:00.000Z",
       "state": "unstarted",
-      "matchType": "Bo5",
+      "matchType": "Bo3",
       "teams": [
         {
-          "name": "LYON",
-          "code": "LYON",
-          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "imageUrl": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
         },
         {
-          "name": "G2 Esports",
-          "code": "G2",
-          "imageUrl": "http://static.lolesports.com/teams/G2-FullonDark.png"
+          "name": "T1",
+          "code": "T1",
+          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
         }
       ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     },
     {
-      "id": "115570934355614599",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Knockouts",
-      "startTime": "2026-07-11T08:00:00.000Z",
+      "id": "115548147900684637",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-07-31T10:00:00.000Z",
       "state": "unstarted",
-      "matchType": "Bo5",
+      "matchType": "Bo3",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "HANJIN BRION",
+          "code": "BRO",
+          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "KIWOOM DRX",
+          "code": "DRX",
+          "imageUrl": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png"
         }
       ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     },
     {
-      "id": "115570934355614605",
-      "leagueKey": "msi",
-      "leagueLabel": "MSI",
-      "tournamentName": "2026",
-      "blockName": "Finals",
-      "startTime": "2026-07-12T06:00:00.000Z",
+      "id": "115548147900684653",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-08-01T08:00:00.000Z",
       "state": "unstarted",
-      "matchType": "Bo5",
+      "matchType": "Bo3",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "NONGSHIM RED FORCE",
+          "code": "NS",
+          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "BNK FEARX",
+          "code": "BFX",
+          "imageUrl": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
         }
       ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/msi"
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900553473",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-08-01T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "imageUrl": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+        },
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900684645",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-08-02T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "DN SOOPers",
+          "code": "DNS",
+          "imageUrl": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
+        },
+        {
+          "name": "HANJIN BRION",
+          "code": "BRO",
+          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900553449",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 10",
+      "startTime": "2026-08-02T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "kt Rolster",
+          "code": "KT",
+          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900684641",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 11",
+      "startTime": "2026-08-05T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "HANJIN BRION",
+          "code": "BRO",
+          "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+        },
+        {
+          "name": "NONGSHIM RED FORCE",
+          "code": "NS",
+          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900553445",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 11",
+      "startTime": "2026-08-05T10:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+        },
+        {
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "imageUrl": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     }
   ],
   "fetchedLeagues": [
@@ -112,7 +296,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 0
+      "matchCount": 36
     },
     {
       "key": "ewc",
