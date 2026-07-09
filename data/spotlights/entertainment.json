@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-08T22:05:42.804Z",
+  "lastUpdatedAt": "2026-07-09T03:19:44.262Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "40f5c8093251f77d",
-      "issueKey": "반도체",
-      "issueTitle": "반도체",
-      "trendTitle": "반도체",
+      "id": "79859a4dd9a659d1",
+      "issueKey": "송도동",
+      "issueTitle": "송도동",
+      "trendTitle": "송도동",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "인천 송도동 송도 SK VIEW 아파트 84㎡ 7억3000만원에 거래",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260708n31839",
+          "publishedAt": "2026-07-09T02:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "인천 송도동 호반써밋송도아파트 84㎡ 6억원에 거래 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/real_estate/aptbot/2026/07/03/G5RWGNJZMRQWCODFMJTGMMJZMM/",
+          "publishedAt": "2026-07-09T02:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "인천 송도동 송도 풍림아이원1단지아파트 84㎡ 5억9500만원에 거래",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260708n32385",
+          "publishedAt": "2026-07-09T02:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "인천 송도동 송도 SK VIEW 아파트 84㎡ 7억3000만원에 거래",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260708n31839",
+        "publishedAt": "2026-07-09T02:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-09T02:10:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "송도동",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260708n31839",
+      "rank": 1
+    },
+    {
+      "id": "e3ed8970d20fc0c9",
+      "issueKey": "폭우로 무궁화호",
+      "issueTitle": "폭우로 무궁화호",
+      "trendTitle": "폭우로 무궁화호",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "코레일 \"대전-서울 무궁화호 2대·새마을호 1대 등 6대 운행 중지\"",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260709082456Y3x",
+          "publishedAt": "2026-07-09T02:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "중부 집중호우에 동대구역 경유 열차 10여대 지연(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260709057251053",
+          "publishedAt": "2026-07-09T02:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[사회][속보] 경부일반선 부강역~서창역 폭우로 무궁화호·새마을호 운행 중단",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202607090749187602_005.html",
+          "publishedAt": "2026-07-09T02:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[사회][속보] 경부일반선 부강역~서창역 폭우로 무궁화호·새마을호 운행 중단",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_cs/_ln_0103_202607090749187602_005.html",
+        "publishedAt": "2026-07-09T02:00:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-09T02:00:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "폭우로 무궁화호",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_cs/_ln_0103_202607090749187602_005.html",
+      "rank": 2
+    },
+    {
+      "id": "70c752d984493309",
+      "issueKey": "은행원",
+      "issueTitle": "은행원",
+      "trendTitle": "은행원",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"이런 수모 겪을 바엔 차라리\"…50대 은행원 퇴직 속출하는 이유",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026070834701",
+          "publishedAt": "2026-07-09T01:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "4대 금융 이직률 엇갈려…고령화·희망퇴직에 인력 재편 가속",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/VZGvCDtWCQ",
+          "publishedAt": "2026-07-09T01:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"우리 부서 막내가 40세\"…5대 금융지주, 세대교체 멈췄다",
+          "source": "비즈워치",
+          "url": "https://news.bizwatch.co.kr/article/finance/2026/07/02/0043",
+          "publishedAt": "2026-07-09T01:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"이런 수모 겪을 바엔 차라리\"…50대 은행원 퇴직 속출하는 이유",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026070834701",
+        "publishedAt": "2026-07-09T01:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-09T01:50:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "은행원",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026070834701",
+      "rank": 3
+    },
+    {
+      "id": "ede6e8b67afa0f82",
+      "issueKey": "해커",
+      "issueTitle": "해커",
+      "trendTitle": "해커",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "AI 개발틀까지 뚫렸다…北 해킹도 확인",
+          "source": "글로벌이코노믹",
+          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607090040256828fda4f5ab74_1",
+          "publishedAt": "2026-07-09T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "보안업체 “북한 연계 추정 해커, ‘유명 개발도구 위장’ 악성코드 배포”",
+          "source": "VOA 한국어 홈페이지",
+          "url": "https://www.voakorea.com/a/lazarus-hacking-070626/8168684.html",
+          "publishedAt": "2026-07-09T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "北 ‘폴린라이더’ 캠페인, 개발자 노린 악성 패키지 108개 유포",
+          "source": "보안뉴스",
+          "url": "https://m.boannews.com/html/detail.html?tab_type=1&amp;idx=144518",
+          "publishedAt": "2026-07-09T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "보안업체 “북한 연계 추정 해커, ‘유명 개발도구 위장’ 악성코드 배포”",
+        "source": "VOA 한국어 홈페이지",
+        "url": "https://www.voakorea.com/a/lazarus-hacking-070626/8168684.html",
+        "publishedAt": "2026-07-09T01:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-09T01:40:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "해커",
+      "source": "VOA 한국어 홈페이지",
+      "url": "https://www.voakorea.com/a/lazarus-hacking-070626/8168684.html",
+      "rank": 4
+    },
+    {
+      "id": "e2493e33f5edb46b",
+      "issueKey": "grok 4 5",
+      "issueTitle": "grok 4.5",
+      "trendTitle": "grok 4.5",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Introducing Grok 4.5",
+          "source": "Grok",
+          "url": "https://x.ai/news/grok-4-5",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Spacexai and Cursor unveil joint AI model to challenge top rivals - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-it/2026/07/08/ZHEKJH4M4BBUBEJZLKX7ZYDFSU/",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Introducing Grok 4.5",
+        "source": "Grok",
+        "url": "https://x.ai/news/grok-4-5",
+        "publishedAt": "2026-07-09T01:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-09T01:10:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "grok 4.5",
+      "source": "Grok",
+      "url": "https://x.ai/news/grok-4-5",
+      "rank": 5
+    },
+    {
+      "id": "646400db9a1db3eb",
+      "issueKey": "고양시장",
+      "issueTitle": "고양시장",
+      "trendTitle": "고양시장",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[현장에서] 민선 9기 고양시 출범…'기대 반 걱정 반'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9hed2DtWtf",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고양시장 \"세계 최고 아레나 건립에 시정 역량 총동원\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708164200060",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "민경선 고양시장 “공업지역 물량 확보, 6개월 안에 승부”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260708580487",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고양시장 \"세계 최고 아레나 건립에 시정 역량 총동원\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260708164200060",
+        "publishedAt": "2026-07-09T01:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-09T01:10:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "고양시장",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260708164200060",
+      "rank": 6
+    },
+    {
+      "id": "df006112a473f12b",
+      "issueKey": "주택",
+      "issueTitle": "주택",
+      "trendTitle": "주택",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "1주택·은퇴자도 예외 없다…종부세 비율 80% 올리면 보유세 ‘10조 폭탄’",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/realestate/12093962",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[그래픽] 공정시장가액비율 확대시 주택분 보유세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260709090102569",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "종부세 따라 지방재정 출렁 …지속가능성 도마에",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01685926645512880",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "1주택·은퇴자도 예외 없다…종부세 비율 80% 올리면 보유세 ‘10조 폭탄’",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/realestate/12093962",
+        "publishedAt": "2026-07-09T01:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-09T01:10:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "주택",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/realestate/12093962",
+      "rank": 7
+    },
+    {
+      "id": "e9f428d0a02472f8",
+      "issueKey": "양의지",
+      "issueTitle": "양의지",
+      "trendTitle": "양의지",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "최강야구에서 복덩이가 왔다…'26세' 예비역 포수, 어떻게 152억 전설 후계자 됐나 \"믿고 맡겨주신 김원형 감독님 덕분\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260709n01861",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "두산, SSG 완파하고 전반기 5위 확정…곽빈 7이닝 1실점",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260708181700007",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“그 공으로 ERA 4점대? 야구 그만둬” 159km 구속 혁명 어떻게 일으켰나, 충격 쓴소리→국대 에이스 각성하다",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/09/202607090841770262O",
+          "publishedAt": "2026-07-09T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "양의지",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260709n01861",
+        "publishedAt": "2026-07-09T01:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-09T01:10:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "양의지",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260709n01861",
+      "rank": 8
+    },
+    {
+      "id": "2c22386a3a1d34c8",
+      "issueKey": "최태원",
+      "issueTitle": "최태원",
+      "trendTitle": "최태원",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[뉴욕증시] 혼조세 속 나스닥 반등…유가 급등에 에너지와 항공·크루즈 희비 엇갈려",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260709053041320",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
+          "title": "SK하이닉스 ADR, 국내 주식과 상호전환 가능해진다",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/08/2026070880088.html",
+          "publishedAt": "2026-07-09T01:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"종전 MOU 끝\" 트럼프 폭탄발언…반도체는 급반등[뉴욕마감]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/07/09/2026070906082594391",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
+          "title": "최태원, SK하이닉스 ADR 나스닥 상장 맞춰 미국행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6836137_36932.html",
+          "publishedAt": "2026-07-09T01:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "반도체주 하락 가속...SK하이닉스 美 상장이 시험대 되나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/07/08/2BVBJC35MBCRTAEMC3A6VY5XN4/",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
+          "title": "SK하이닉스 대량 환전 예고편 켜졌다…선물환 매도 출회 중",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423910",
+          "publishedAt": "2026-07-09T01:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"종전 MOU 끝\" 트럼프 폭탄발언…반도체는 급반등[뉴욕마감]",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/world/2026/07/09/2026070906082594391",
-        "publishedAt": "2026-07-08T21:00:00.000Z",
+        "title": "최태원, SK하이닉스 ADR 나스닥 상장 맞춰 미국행",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6836137_36932.html",
+        "publishedAt": "2026-07-09T01:00:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-07-08T21:00:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "반도체",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/world/2026/07/09/2026070906082594391",
-      "rank": 1
-    },
-    {
-      "id": "a5737ce7561853d7",
-      "issueKey": "즈베레프",
-      "issueTitle": "즈베레프",
-      "trendTitle": "즈베레프",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "즈베레프, 레헤츠카와 경기 통금으로 중단·순연",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260707_0002179564",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "알렉산더 즈베레프, 윔블던 16강 경기 중단",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2600846",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "즈베레프, 루아예 꺾고 남자 단식 3회전에",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260703n12008",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "즈베레프, 레헤츠카와 경기 통금으로 중단·순연",
-        "source": "뉴시스",
-        "url": "https://mobile.newsis.com/photo/NISI20260707_0002179564",
-        "publishedAt": "2026-07-08T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T21:00:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "즈베레프",
-      "source": "뉴시스",
-      "url": "https://mobile.newsis.com/photo/NISI20260707_0002179564",
-      "rank": 2
-    },
-    {
-      "id": "2f4a302bcc755075",
-      "issueKey": "옥순",
-      "issueTitle": "옥순",
-      "trendTitle": "옥순",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "옥순과 상철 위기? 드디어 광수에게 찾아온 기회 #나는솔로 SOLO EP.261ㅣSBS PLUS X ENAㅣ수요일 밤 10시 30분",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000632718",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "32기 옥순, 저돌적 상철에 \"거리를 두자\" 선언···송해나 \"할 만큼 했다\"('나는 솔로')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708230108411",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "32기 상철, 19금 사주 내용에 모두 정적 \"결혼해야 한다더라\"('나는솔로')",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112836424",
-          "publishedAt": "2026-07-08T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "옥순과 상철 위기? 드디어 광수에게 찾아온 기회 #나는솔로 SOLO EP.261ㅣSBS PLUS X ENAㅣ수요일 밤 10시 30분",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000632718",
-        "publishedAt": "2026-07-08T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T21:00:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "옥순",
-      "source": "programs.sbs.co.kr",
-      "url": "https://programs.sbs.co.kr/plus/iamsolo/clip/69611/22000632718",
-      "rank": 3
-    },
-    {
-      "id": "3fe90849dc452fb7",
-      "issueKey": "기부",
-      "issueTitle": "기부",
-      "trendTitle": "기부",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "폭염 속 이웃 떠올린 30대 공무원…100만원 기부",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708125915684",
-          "publishedAt": "2026-07-08T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "과천시청 공무원, 무더위에 지친 이웃 위해 100만원 기부",
-          "source": "일간경기",
-          "url": "https://www.1gan.co.kr/news/articleView.html?idxno=380891",
-          "publishedAt": "2026-07-08T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "과천시청 공무원, 무더위에 지친 이웃 위해 100만원 기부",
-          "source": "경기시사투데이",
-          "url": "http://www.yitoday.com/news/articleView.html?idxno=543616",
-          "publishedAt": "2026-07-08T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "폭염 속 이웃 떠올린 30대 공무원…100만원 기부",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260708125915684",
-        "publishedAt": "2026-07-08T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T20:50:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "기부",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260708125915684",
-      "rank": 4
-    },
-    {
-      "id": "79dafe371713bc99",
-      "issueKey": "사관학교 통폐합",
-      "issueTitle": "사관학교 통폐합",
-      "trendTitle": "사관학교 통폐합",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "육·해·공사 총동창회 궐기대회…\"사관학교 통합, 원점 재검토하라\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/diplomacy-defense/2026/07/08/GY2G7QCR6FGZ5K2RCNC6YZXCOY/",
-          "publishedAt": "2026-07-08T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "육해공사 총동창회 \"사관학교 통폐합·육사 이전 중단 촉구\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH2026070905331018Y",
-          "publishedAt": "2026-07-08T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘영천 3사관·서울 육사 통합’에 육사 문턱 낮아지나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260708224711292?f=p",
-          "publishedAt": "2026-07-08T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "육해공사 총동창회 \"사관학교 통폐합·육사 이전 중단 촉구\"",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH2026070905331018Y",
-        "publishedAt": "2026-07-08T20:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-08T20:40:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "사관학교 통폐합",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH2026070905331018Y",
-      "rank": 5
-    },
-    {
-      "id": "f62cdd1643b8f206",
-      "issueKey": "서울 날씨",
-      "issueTitle": "서울 날씨",
-      "trendTitle": "서울 날씨",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "호우경보 충청 200mm 세찬 장맛비‥이 시각 대전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260709061004109",
-          "publishedAt": "2026-07-08T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "충북 보은 시간당 70mm 폭우…이 시각 청주",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8605976",
-          "publishedAt": "2026-07-08T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "호남에 강한 비…대전·세종 등 충청도 호우경보",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260709060150pZS",
-          "publishedAt": "2026-07-08T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서울 날씨",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260709061004109",
-        "publishedAt": "2026-07-08T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T20:40:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "서울 날씨",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260709061004109",
-      "rank": 6
-    },
-    {
-      "id": "88918c94510afbe6",
-      "issueKey": "전새얀",
-      "issueTitle": "전새얀",
-      "trendTitle": "전새얀",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "여자배구 SOOP, 전새얀·송은채 영입해 선수층 강화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260708119500007",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "여자배구 SOOP, 창단 첫 선수 보강 이뤘다…아웃사이드 히터 전새얀+송은채 영입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/86Uv2DtWSQ",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "V리그 신생팀 SOOP, 베테랑 전새얀·신예 송은채 영입…선수층 보강",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/volleyball/6221630",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여자배구 SOOP, 전새얀·송은채 영입해 선수층 강화",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260708119500007",
-        "publishedAt": "2026-07-08T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T20:30:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "전새얀",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260708119500007",
-      "rank": 7
-    },
-    {
-      "id": "f16160e08a195706",
-      "issueKey": "돌파",
-      "issueTitle": "돌파",
-      "trendTitle": "돌파",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "연중 최저치 폭락했는데… 리플 신규 지갑 6000개 돌파, 비극의 전조인가",
-          "source": "핀포인트뉴스",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464831",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "리플(XRP) 가격 41% 급락했는데 주소는 왜 49만 개나 늘었을까?",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/246819",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "XRP 원장 v3.2.0 롤아웃 진전 중이나 교체 대상 버전에 뒤처져",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/ko/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "연중 최저치 폭락했는데… 리플 신규 지갑 6000개 돌파, 비극의 전조인가",
-        "source": "핀포인트뉴스",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464831",
-        "publishedAt": "2026-07-08T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T20:30:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "돌파",
-      "source": "핀포인트뉴스",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464831",
-      "rank": 8
-    },
-    {
-      "id": "fa3db6d9c9c0b549",
-      "issueKey": "안철수",
-      "issueTitle": "안철수",
-      "trendTitle": "안철수",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "안철수 “추경호, 한동훈 말 무시하고 당사 집결 지시한 것 아냐”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260708/134261228/1",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "계엄 때 “친위 쿠데타·내란 시도” 목소리 높인 안철수, 추경호 재판에선 “법적인 내란은 아니야” 말바꾸기",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607081758011",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "계엄 표결 방해 혐의 공판 출석하는 추경호와 증인 소환된 안철수",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260708_0021355039&amp;pID=1&amp;cID=&amp;sID=1&amp;type=photoMain&amp;idx=5",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "안철수 “추경호, 한동훈 말 무시하고 당사 집결 지시한 것 아냐”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260708/134261228/1",
-        "publishedAt": "2026-07-08T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T20:30:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "안철수",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Society/article/all/20260708/134261228/1",
+      "publishedAt": "2026-07-09T01:00:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "최태원",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/econo/article/6836137_36932.html",
       "rank": 9
     },
     {
-      "id": "d2a4e45a469d190f",
-      "issueKey": "알리바바",
-      "issueTitle": "알리바바",
-      "trendTitle": "엔비디아",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "3dde10c0e012e03f",
+      "issueKey": "중국인",
+      "issueTitle": "중국인",
+      "trendTitle": "중국인",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"中, 알리바바·바이트댄스 등에 엔비디아 H200 수입 허용 계획\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260709034250364",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
+          "title": "배에서 중국인 끝도 없이 내리더니…\"처음 보는 광경\" 깜짝",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026070834911",
+          "publishedAt": "2026-07-09T00:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "中 딥시크, 자체 AI칩 개발 나서…美 수출 제한에 ‘하드웨어 경쟁’ 본격화",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260708/134257951/1",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
+          "title": "크루즈 방한객, 첫 20만 명 돌파…제주로 절반 몰려",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0vSRtgWIpA",
+          "publishedAt": "2026-07-09T00:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "엔비디아 밀어낸 화웨이...중국 기업 \"자국산 칩 쓴다\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202607081349264842",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
+          "title": "5월 크루즈 방한객 첫 20만명 돌파…중국 관광객 회복세 견인",
+          "source": "해사신문",
+          "url": "http://www.haesanews.com/news/articleView.html?idxno=149065",
+          "publishedAt": "2026-07-09T00:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"中, 알리바바·바이트댄스 등에 엔비디아 H200 수입 허용 계획\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260709034250364",
-        "publishedAt": "2026-07-08T20:30:00.000Z",
+        "title": "배에서 중국인 끝도 없이 내리더니…\"처음 보는 광경\" 깜짝",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026070834911",
+        "publishedAt": "2026-07-09T00:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-08T20:30:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "알리바바",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260709034250364",
+      "publishedAt": "2026-07-09T00:50:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "중국인",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026070834911",
       "rank": 10
     }
   ],
@@ -801,6 +801,52 @@
       "title": "당진시",
       "source": "내외뉴스통신",
       "url": "http://www.nbnnews.co.kr/news/articleView.html?idxno=1040024"
+    },
+    {
+      "id": "2c22386a3a1d34c8",
+      "issueKey": "최태원",
+      "issueTitle": "최태원",
+      "trendTitle": "최태원",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SK하이닉스 ADR, 국내 주식과 상호전환 가능해진다",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/08/2026070880088.html",
+          "publishedAt": "2026-07-09T01:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "최태원, SK하이닉스 ADR 나스닥 상장 맞춰 미국행",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6836137_36932.html",
+          "publishedAt": "2026-07-09T01:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "SK하이닉스 대량 환전 예고편 켜졌다…선물환 매도 출회 중",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4423910",
+          "publishedAt": "2026-07-09T01:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "최태원, SK하이닉스 ADR 나스닥 상장 맞춰 미국행",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6836137_36932.html",
+        "publishedAt": "2026-07-09T01:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-09T01:00:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "최태원",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/econo/article/6836137_36932.html"
     },
     {
       "id": "40f5c8093251f77d",
@@ -1367,6 +1413,52 @@
       "title": "최저 임금 위원회",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260707215742195"
+    },
+    {
+      "id": "3dde10c0e012e03f",
+      "issueKey": "중국인",
+      "issueTitle": "중국인",
+      "trendTitle": "중국인",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "배에서 중국인 끝도 없이 내리더니…\"처음 보는 광경\" 깜짝",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026070834911",
+          "publishedAt": "2026-07-09T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "크루즈 방한객, 첫 20만 명 돌파…제주로 절반 몰려",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0vSRtgWIpA",
+          "publishedAt": "2026-07-09T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "5월 크루즈 방한객 첫 20만명 돌파…중국 관광객 회복세 견인",
+          "source": "해사신문",
+          "url": "http://www.haesanews.com/news/articleView.html?idxno=149065",
+          "publishedAt": "2026-07-09T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "배에서 중국인 끝도 없이 내리더니…\"처음 보는 광경\" 깜짝",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026070834911",
+        "publishedAt": "2026-07-09T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-09T00:50:00.000Z",
+      "firstSeenAt": "2026-07-09T03:19:44.262Z",
+      "lastSeenAt": "2026-07-09T03:19:44.262Z",
+      "title": "중국인",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026070834911"
     },
     {
       "id": "3fe90849dc452fb7",
@@ -2287,98 +2379,6 @@
       "title": "닥터 섬보이",
       "source": "머니투데이",
       "url": "https://www.mt.co.kr/entertainment/2026/07/07/2026070709037234348"
-    },
-    {
-      "id": "cf139facee458a78",
-      "issueKey": "이임생",
-      "issueTitle": "이임생",
-      "trendTitle": "이임생",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[오피셜] \"내 판단으로 홍명보 선임\" 韓 축구 망친 주범 평가 이임생, 기술 디렉터로 캄보디아 클럽팀 취업",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2zDq4JlwWS",
-          "publishedAt": "2026-07-06T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "’홍명보 선임’ 주도 이임생, 캄보디아 프로팀으로",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260706232856xL7",
-          "publishedAt": "2026-07-06T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이임생 전 축협 기술총괄이사, 캄보디아 프로팀 테크니컬 디렉터 부임",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6835428_36946.html",
-          "publishedAt": "2026-07-06T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[오피셜] \"내 판단으로 홍명보 선임\" 韓 축구 망친 주범 평가 이임생, 기술 디렉터로 캄보디아 클럽팀 취업",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/2zDq4JlwWS",
-        "publishedAt": "2026-07-06T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-06T20:40:00.000Z",
-      "firstSeenAt": "2026-07-06T22:13:15.273Z",
-      "lastSeenAt": "2026-07-06T22:13:15.273Z",
-      "title": "이임생",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/2zDq4JlwWS"
-    },
-    {
-      "id": "f16160e08a195706",
-      "issueKey": "돌파",
-      "issueTitle": "돌파",
-      "trendTitle": "돌파",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "연중 최저치 폭락했는데… 리플 신규 지갑 6000개 돌파, 비극의 전조인가",
-          "source": "핀포인트뉴스",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464831",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "리플(XRP) 가격 41% 급락했는데 주소는 왜 49만 개나 늘었을까?",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/246819",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "XRP 원장 v3.2.0 롤아웃 진전 중이나 교체 대상 버전에 뒤처져",
-          "source": "CoinDesk",
-          "url": "https://www.coindesk.com/ko/tech/2026/07/08/xrp-ledger-s-new-upgrade-is-here-but-not-everyone-s-on-board-yet",
-          "publishedAt": "2026-07-08T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "연중 최저치 폭락했는데… 리플 신규 지갑 6000개 돌파, 비극의 전조인가",
-        "source": "핀포인트뉴스",
-        "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464831",
-        "publishedAt": "2026-07-08T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-08T20:30:00.000Z",
-      "firstSeenAt": "2026-07-08T22:05:42.804Z",
-      "lastSeenAt": "2026-07-08T22:05:42.804Z",
-      "title": "돌파",
-      "source": "핀포인트뉴스",
-      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=464831"
     }
   ]
 }
