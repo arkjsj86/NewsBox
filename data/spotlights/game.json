@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-10T03:21:23.938Z",
+  "lastUpdatedAt": "2026-07-10T09:35:13.579Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "한화생명 제압한 '바이퍼', 그가 전한 승리의 뒷이야기",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318313",
-          "meta": "리그 오브 레전드 · 7시간 전"
+          "title": "법원, 엔씨가 제기한 카카오게임즈 저작권 침해 소송 기각",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318358",
+          "meta": "롬 · 2시간 전"
         },
         {
-          "title": "문도와 빅토르의 압도적 존재감...한화생명, 3세트 승리 '1:2'",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318311",
-          "meta": "리그 오브 레전드 · 12시간 전"
+          "title": "그라비티, PC MMORPG ‘라그나로크 온라인’ 유저 초청 토론회 개최",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318346",
+          "meta": "라그나로크 온라인 · 3시간 전"
         },
         {
-          "title": "비상! 한화생명e스포츠, BLG에 속수무책...0:2",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318307",
-          "meta": "리그 오브 레전드 · 13시간 전"
+          "title": "숨겨진 수집 요소? 타락의 파편 획득 방법",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318341",
+          "meta": "솔: 인챈트 · 3시간 전"
         },
         {
-          "title": "아리스 합류와 루디 각성 추가! 세나의 달 이벤트도 시작",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318285",
-          "meta": "세븐나이츠 리버스 · 14시간 전"
+          "title": "승리의 여신 니케, 더현대 서울서 2026 여름 팝업스토어 17일 오픈",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318344",
+          "meta": "승리의 여신: 니케 · 4시간 전"
         },
         {
-          "title": "'25분, 1만 5천 차' BLG, 한화생명에 1세트 압도",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318306",
-          "meta": "리그 오브 레전드 · 14시간 전"
+          "title": "디저트 감성 키보드로 여름철을! 한성컴퓨터 TFG Cloud Max 신규 색상 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318338",
+          "meta": "6시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
