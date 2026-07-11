@@ -7,18 +7,394 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-11T19:03:00.589Z",
+  "lastUpdatedAt": "2026-07-11T21:49:38.976Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "4379f9c0812ccf8f",
-      "issueKey": "한국전",
-      "issueTitle": "한국전",
-      "trendTitle": "한국전",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "9e820c811125bbbe",
+      "issueKey": "투자",
+      "issueTitle": "투자",
+      "trendTitle": "투자",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SK하닉 나스닥 잭팟 … K-개미 웃지 못하는 이유 [박진우의 개미수다]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712053127955",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260711029900008",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'TSMC ADR과는 다르다'...SKHY, 차익거래 기대감 주목",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/10/2026071080070.html",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "투자",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712053127955",
+        "publishedAt": "2026-07-11T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T20:20:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "투자",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260712053127955",
+      "rank": 1
+    },
+    {
+      "id": "2846ab19fed57285",
+      "issueKey": "이강인",
+      "issueTitle": "이강인",
+      "trendTitle": "이강인",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "홍명보호 부진과 딴판…이강인·이한범·오현규, 유럽 이적시장 '러브콜 쇄도'",
+          "source": "www.nocutnews.co.kr",
+          "url": "https://www.nocutnews.co.kr/news/6546187",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "PSG 끝까지 너무하네! 이강인 '아틀레티코 이적' 다 끝났는데 '오피셜' 막고 있다…\"다른 선수 먼저 발표하려 허락 안 해\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260711n10127",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"이강인 오자마자 대표팀?\"…ATM 팬들, 공식 발표 전부터 한숨",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710111707014",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "홍명보호 부진과 딴판…이강인·이한범·오현규, 유럽 이적시장 '러브콜 쇄도'",
+        "source": "www.nocutnews.co.kr",
+        "url": "https://www.nocutnews.co.kr/news/6546187",
+        "publishedAt": "2026-07-11T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T20:20:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "이강인",
+      "source": "www.nocutnews.co.kr",
+      "url": "https://www.nocutnews.co.kr/news/6546187",
+      "rank": 2
+    },
+    {
+      "id": "4cad0146562d7cae",
+      "issueKey": "극한 폭염",
+      "issueTitle": "극한 폭염",
+      "trendTitle": "극한 폭염",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "7월 내내 장마·8월 극한 폭염?…SNS 떠도는 예보 보니 [사실은]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710203904713",
+          "publishedAt": "2026-07-11T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“장마 끝나면 40도 폭염온다” 이게 가짜 뉴스라고?…결국 칼빼든 기상청 [세상&]",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10805621",
+          "publishedAt": "2026-07-11T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "7월까지 장마·8월엔 극한 폭염?…SNS 믿어도 되나",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008652526",
+          "publishedAt": "2026-07-11T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "7월 내내 장마·8월 극한 폭염?…SNS 떠도는 예보 보니 [사실은]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260710203904713",
+        "publishedAt": "2026-07-11T19:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T19:50:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "극한 폭염",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260710203904713",
+      "rank": 3
+    },
+    {
+      "id": "0981e88d96ecc460",
+      "issueKey": "홀란",
+      "issueTitle": "홀란",
+      "trendTitle": "홀란",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2hwXP2b0uX",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "홀란 vs 케인…내일 ‘꿈의 무대’ 8강서 세기의 골잡이 대결",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260711/134279195/1",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "케인 \"홀란 나와 다른 유형…내일 맞대결선 조용하길\"[월드컵24시]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260711_0003705264",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2hwXP2b0uX",
+        "publishedAt": "2026-07-11T19:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T19:40:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "홀란",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/2hwXP2b0uX",
+      "rank": 4
+    },
+    {
+      "id": "01b3143b55839388",
+      "issueKey": "부장",
+      "issueTitle": "부장",
+      "trendTitle": "부장",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"집 3채, 잠이 안 온다\" 악몽되나...50대 대기업 김 부장, 자산 보니 [부동산 아토즈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711150137804",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "유리 \"소녀시대 전성기 행복, 그러나 공허했다\"… 제주살이 선택한 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6pN9P1XSAo",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘나혼산’ 최고 8.9% 시청률 터졌다…장기자랑 대상은 ‘다비 이모’",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/511137",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"집 3채, 잠이 안 온다\" 악몽되나...50대 대기업 김 부장, 자산 보니 [부동산 아토즈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711150137804",
+        "publishedAt": "2026-07-11T19:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T19:40:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "부장",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260711150137804",
+      "rank": 5
+    },
+    {
+      "id": "215a587b4e88c8b3",
+      "issueKey": "세균",
+      "issueTitle": "세균",
+      "trendTitle": "세균",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html",
+          "publishedAt": "2026-07-11T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“생닭 절대로 물에 씻지 마세요”…현미경으로 보니 온갖 세균 ‘드글드글’ [헬시타임]",
+          "source": "서울경제신문",
+          "url": "https://www.sedaily.com/article/20066575",
+          "publishedAt": "2026-07-11T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“냉방병인 줄 알았는데”…세균 침투로 농 고이는 ‘축농증’ [김수연의 헬스업]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712060128137",
+          "publishedAt": "2026-07-11T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html",
+        "publishedAt": "2026-07-11T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T19:30:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "세균",
+      "source": "헬스조선",
+      "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html",
+      "rank": 6
+    },
+    {
+      "id": "4ca310908afcf4b5",
+      "issueKey": "ufc",
+      "issueTitle": "ufc",
+      "trendTitle": "ufc",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "McGregor vows to smash Holloway after sunglasses snatch at Las Vegas presser - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/07/10/ESVDKFEOUFBBFBOMO3UOF6RQCI/",
+          "publishedAt": "2026-07-11T19:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "McGregor Returns to UFC After Five Years: \"I'll Silence the Doubters\"",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/07/10/mcgregor-returns-to-ufc-after-five-years-ill-silence-the",
+          "publishedAt": "2026-07-11T19:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Fanatics Sportsbook Promo Code SIBONUS: Bet on UFC 329 and Earn Up to $100 in FanCash",
+          "source": "Sports Illustrated",
+          "url": "https://www.si.com/betting-promo/fanatics-sportsbook-promo-code-sibonus-bet-on-ufc-329-and-earn-up-to-100-in-fancash-01kx69vmv0z8",
+          "publishedAt": "2026-07-11T19:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "McGregor Returns to UFC After Five Years: \"I'll Silence the Doubters\"",
+        "source": "Seoul Economic Daily",
+        "url": "https://en.sedaily.com/sports/2026/07/10/mcgregor-returns-to-ufc-after-five-years-ill-silence-the",
+        "publishedAt": "2026-07-11T19:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-11T19:10:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "ufc",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/sports/2026/07/10/mcgregor-returns-to-ufc-after-five-years-ill-silence-the",
+      "rank": 7
+    },
+    {
+      "id": "2d0f77b1cb05d463",
+      "issueKey": "louis phạm",
+      "issueTitle": "louis phạm",
+      "trendTitle": "louis phạm",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Louis Phạm - cái tên đang được tìm kiếm rần rần là ai?",
+          "source": "Ngôi Sao VN",
+          "url": "https://ngoisao.vn/gioi-tre/hotgirl-hotboy/louis-pham--cai-ten-dang-duoc-tim-kiem-ran-ran-la-ai-d488123.html",
+          "publishedAt": "2026-07-11T18:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Louis Phạm lên tiếng ngay trong đêm về việc lộ clip nhạy cảm: \"Tôi không làm gì sai\"",
+          "source": "Kenh14.vn",
+          "url": "https://kenh14.vn/louis-pham-len-tieng-ngay-trong-dem-ve-viec-lo-clip-nhay-cam-toi-khong-lam-gi-sai-215260712013010075.chn",
+          "publishedAt": "2026-07-11T18:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Louis Phạm nhan sắc ngày càng thăng hạng, bo.dy cực s.e.x.y",
+          "source": "m.gamek.vn",
+          "url": "https://gamek.vn/louis-pham-nhan-sac-ngay-cang-thang-hang-body-cuc-sexy-178260711215401415.chn",
+          "publishedAt": "2026-07-11T18:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Louis Phạm - cái tên đang được tìm kiếm rần rần là ai?",
+        "source": "Ngôi Sao VN",
+        "url": "https://ngoisao.vn/gioi-tre/hotgirl-hotboy/louis-pham--cai-ten-dang-duoc-tim-kiem-ran-ran-la-ai-d488123.html",
+        "publishedAt": "2026-07-11T18:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T18:20:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "louis phạm",
+      "source": "Ngôi Sao VN",
+      "url": "https://ngoisao.vn/gioi-tre/hotgirl-hotboy/louis-pham--cai-ten-dang-duoc-tim-kiem-ran-ran-la-ai-d488123.html",
+      "rank": 8
+    },
+    {
+      "id": "7690bed69de30444",
+      "issueKey": "남아공 애덤스",
+      "issueTitle": "남아공 애덤스",
+      "trendTitle": "남아공 애덤스",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -30,16 +406,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "'월드컵' 한국전이 마지막 경기...남아공 25세 선수, 숨진 채 발견",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/07/11/2026071122463396369",
+          "title": "월드컵 한국전 뛰었던 남아공 애덤스, 숨진 채 발견",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/sport/worldcup2026/worldcup2026-global/2026/07/12/20260712500001",
           "publishedAt": "2026-07-11T17:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'한국전이 생애 마지막 경기' 홍명보호에게 패배 안긴 남아공 25세 선수, 안타깝게 세상 떠났다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/baseball/2026/07/12/GY4DCNZQGM3WCZRSMIYWGM3GGA/",
+          "title": "'월드컵' 한국전이 마지막 경기...남아공 25세 선수, 숨진 채 발견",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/07/11/2026071122463396369",
           "publishedAt": "2026-07-11T17:30:00.000Z",
           "relevanceScore": 1
         }
@@ -52,20 +428,20 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-11T17:30:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "한국전",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "남아공 애덤스",
       "source": "동아일보",
       "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1",
-      "rank": 1
+      "rank": 9
     },
     {
       "id": "da307b76738c7b29",
       "issueKey": "이승기",
       "issueTitle": "이승기",
       "trendTitle": "이승기",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -99,391 +475,61 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-11T17:10:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
       "title": "이승기",
       "source": "SBS 뉴스",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651796",
-      "rank": 2
-    },
-    {
-      "id": "bdcfd9ec59db3367",
-      "issueKey": "norway vs england",
-      "issueTitle": "norway vs england",
-      "trendTitle": "norway vs england",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "World Cup 2026: Risk of thunderstorms before England's quarter-final with Norway",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo",
-          "publishedAt": "2026-07-11T15:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Harry Kane says Erling Haaland 'completely different player' than me",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49329575/harry-kane-erling-haaland-completely-different-player-me",
-          "publishedAt": "2026-07-11T15:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "World Cup 2026: Norway v England buildup; Kane’s round of golf with Trump – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live",
-          "publishedAt": "2026-07-11T15:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "norway vs england",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo",
-        "publishedAt": "2026-07-11T15:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T15:50:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "norway vs england",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/articles/cx2jzl3zxpzo",
-      "rank": 3
-    },
-    {
-      "id": "ba1f40d5df057561",
-      "issueKey": "카롤리나 무초바",
-      "issueTitle": "카롤리나 무초바",
-      "trendTitle": "카롤리나 무초바",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "노스코바, 복식 파트너 무호바 꺾고 윔블던 첫 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260712001700007",
-          "publishedAt": "2026-07-11T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "올림픽 복식 동지, 윔블던 단식 결승 적으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uATcZspX75",
-          "publishedAt": "2026-07-11T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "스포츠 화제의 뉴스 I 일반",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/photoSlide/view?section=spo&amp;clstId=1182035",
-          "publishedAt": "2026-07-11T15:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "카롤리나 무초바",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260712001700007",
-        "publishedAt": "2026-07-11T15:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T15:30:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "카롤리나 무초바",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260712001700007",
-      "rank": 4
-    },
-    {
-      "id": "2b7aa6187f417ff7",
-      "issueKey": "황인범",
-      "issueTitle": "황인범",
-      "trendTitle": "황인범",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'월드컵 1골 1도움' 황인범, 포르투갈 '명문' 포르투가 관심",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8ZtiHhOcHv",
-          "publishedAt": "2026-07-11T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "韓축구 연속 이적? 이강인 이어 황인범도 ‘빅클럽 관심’…포르투갈 명문의 ‘깜짝 러브콜’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12096093",
-          "publishedAt": "2026-07-11T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "충격 전망 \"황인범, 멕시코로 갈 수도 있다\"…네덜란드 기자, 페예노르트 신임단장 이적시장 전략 비판",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-07-11/202607110100071280004436",
-          "publishedAt": "2026-07-11T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'월드컵 1골 1도움' 황인범, 포르투갈 '명문' 포르투가 관심",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/8ZtiHhOcHv",
-        "publishedAt": "2026-07-11T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T14:40:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "황인범",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/8ZtiHhOcHv",
-      "rank": 5
-    },
-    {
-      "id": "fca5c506361c6f8e",
-      "issueKey": "김이서",
-      "issueTitle": "김이서",
-      "trendTitle": "김이서",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260711n11762",
-          "publishedAt": "2026-07-11T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]올스타전 1루수로 나선 한준수 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/sports_photo/2026/07/11/G42DSODDGVSDENJXHE4GMZJXG4/",
-          "publishedAt": "2026-07-11T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "큰 아기 한준수",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260711_0021359991",
-          "publishedAt": "2026-07-11T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[ST포토] 올스타전 찾은 김이서, '육아에 전념해요'",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260711n11762",
-        "publishedAt": "2026-07-11T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T14:40:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "김이서",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260711n11762",
-      "rank": 6
-    },
-    {
-      "id": "aa05cd089d541a8e",
-      "issueKey": "jayden adams",
-      "issueTitle": "jayden adams",
-      "trendTitle": "jayden adams",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "South Africa World Cup midfielder Adams dies aged 25",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/cr47y5nvrqlo",
-          "publishedAt": "2026-07-11T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "South African Midfielder Jaden Adams Found Dead in Hotel",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/11/LS6LVGRS5FAEHK7EAI2ZGNUGUA/",
-          "publishedAt": "2026-07-11T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "South African Football In Mourning As World Cup Star Jayden Adams Dies Aged 25",
-          "source": "Soccer Laduma",
-          "url": "https://www.soccerladuma.co.za/news/local/breaking-bafana-bafana-and-mamelodi-sundowns-midfielder-jayden-adams-passes-away-at-25",
-          "publishedAt": "2026-07-11T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "South African Football In Mourning As World Cup Star Jayden Adams Dies Aged 25",
-        "source": "Soccer Laduma",
-        "url": "https://www.soccerladuma.co.za/news/local/breaking-bafana-bafana-and-mamelodi-sundowns-midfielder-jayden-adams-passes-away-at-25",
-        "publishedAt": "2026-07-11T14:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-11T14:10:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "jayden adams",
-      "source": "Soccer Laduma",
-      "url": "https://www.soccerladuma.co.za/news/local/breaking-bafana-bafana-and-mamelodi-sundowns-midfielder-jayden-adams-passes-away-at-25",
-      "rank": 7
-    },
-    {
-      "id": "f6f40d376c70f101",
-      "issueKey": "아파트 드라마",
-      "issueTitle": "아파트 드라마",
-      "trendTitle": "아파트 드라마",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'김부장' 시청률 떨어졌다…10%대 추락 위기 속 지성 등판, \"미친 존재감\" ('아파트')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711220159629",
-          "publishedAt": "2026-07-11T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "지성 \"'아파트' 보는 시각 달라져…세상의 따뜻함 전할게요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260710127300005",
-          "publishedAt": "2026-07-11T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "포차천국, JTBC 새 토일드라마 ‘아파트’ 제작 지원",
-          "source": "시선뉴스",
-          "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=242212",
-          "publishedAt": "2026-07-11T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아파트 드라마",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711220159629",
-        "publishedAt": "2026-07-11T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T14:00:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "아파트 드라마",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260711220159629",
-      "rank": 8
-    },
-    {
-      "id": "ea6e683cd089bc5c",
-      "issueKey": "김지영",
-      "issueTitle": "김지영",
-      "trendTitle": "김지영",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의 걸크러시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712011127246",
-          "publishedAt": "2026-07-11T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“딴 살림 차렸나 싶어서” 김지영, 윤경호 기강 잡는 남다른 포스 보이며 강렬한 등장♨",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/mrkim/clip/88561/OC480609843",
-          "publishedAt": "2026-07-11T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "윤경호, 아내 김지영 등판에 진땀...“딴 살림 차렸나 싶어서”",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=751151",
-          "publishedAt": "2026-07-11T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김지영 ‘김부장’ 특출로 하드캐리…윤경호 쥐락펴락한 해병대 아내의 걸크러시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712011127246",
-        "publishedAt": "2026-07-11T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T14:00:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "김지영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260712011127246",
-      "rank": 9
-    },
-    {
-      "id": "8546551bb627f4b7",
-      "issueKey": "종합특검",
-      "issueTitle": "종합특검",
-      "trendTitle": "종합특검",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[단독]종합특검, '내란 가담' 강호필 전 지작사령관 구속영장…13일 심사",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711193000494",
-          "publishedAt": "2026-07-11T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'내란 가담' 강호필 前 육군 지상작전사령관 영장…13일 심사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260711048500004",
-          "publishedAt": "2026-07-11T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "강호필 전 지상작전사령관 오는 13일 구속기로…내란 가담 혐의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260711_0003705403",
-          "publishedAt": "2026-07-11T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독]종합특검, '내란 가담' 강호필 전 지작사령관 구속영장…13일 심사",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711193000494",
-        "publishedAt": "2026-07-11T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T13:50:00.000Z",
-      "firstSeenAt": "2026-07-11T19:03:00.589Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
-      "title": "종합특검",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260711193000494",
       "rank": 10
     }
   ],
   "history": [
+    {
+      "id": "0981e88d96ecc460",
+      "issueKey": "홀란",
+      "issueTitle": "홀란",
+      "trendTitle": "홀란",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/2hwXP2b0uX",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "홀란 vs 케인…내일 ‘꿈의 무대’ 8강서 세기의 골잡이 대결",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260711/134279195/1",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "케인 \"홀란 나와 다른 유형…내일 맞대결선 조용하길\"[월드컵24시]",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260711_0003705264",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "빈틈만 보이면 그대로 '슛!'…'파괴왕' 홀란, 잉글랜드 삼키나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/2hwXP2b0uX",
+        "publishedAt": "2026-07-11T19:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T19:40:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "홀란",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/2hwXP2b0uX"
+    },
     {
       "id": "166fdcc642031593",
       "issueKey": "나영석",
@@ -575,6 +621,52 @@
       "title": "김도영",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260709220351208"
+    },
+    {
+      "id": "9e820c811125bbbe",
+      "issueKey": "투자",
+      "issueTitle": "투자",
+      "trendTitle": "투자",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SK하닉 나스닥 잭팟 … K-개미 웃지 못하는 이유 [박진우의 개미수다]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712053127955",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "SK하이닉스 나스닥 상장 흥행대박…국내 증시 온기로 이어질까",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260711029900008",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'TSMC ADR과는 다르다'...SKHY, 차익거래 기대감 주목",
+          "source": "인베스트조선",
+          "url": "https://www.investchosun.com/site/data/html_dir/2026/07/10/2026071080070.html",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "투자",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712053127955",
+        "publishedAt": "2026-07-11T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T20:20:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "투자",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260712053127955"
     },
     {
       "id": "5a98f7a1298daa14",
@@ -730,10 +822,56 @@
       },
       "publishedAt": "2026-07-11T17:10:00.000Z",
       "firstSeenAt": "2026-07-08T14:07:55.569Z",
-      "lastSeenAt": "2026-07-11T19:03:00.589Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
       "title": "이승기",
       "source": "SBS 뉴스",
       "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008651796"
+    },
+    {
+      "id": "7690bed69de30444",
+      "issueKey": "남아공 애덤스",
+      "issueTitle": "남아공 애덤스",
+      "trendTitle": "남아공 애덤스",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1",
+          "publishedAt": "2026-07-11T17:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "월드컵 한국전 뛰었던 남아공 애덤스, 숨진 채 발견",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/sport/worldcup2026/worldcup2026-global/2026/07/12/20260712500001",
+          "publishedAt": "2026-07-11T17:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'월드컵' 한국전이 마지막 경기...남아공 25세 선수, 숨진 채 발견",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/07/11/2026071122463396369",
+          "publishedAt": "2026-07-11T17:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "북중미 한국전 뛰었던 남아공 애덤스, 25세 나이로 세상 떠나",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1",
+        "publishedAt": "2026-07-11T17:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T17:30:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "남아공 애덤스",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1"
     },
     {
       "id": "55f20299ccf632c9",
@@ -1840,6 +1978,144 @@
       "url": "https://v.daum.net/v/20260710010151596"
     },
     {
+      "id": "2846ab19fed57285",
+      "issueKey": "이강인",
+      "issueTitle": "이강인",
+      "trendTitle": "이강인",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "홍명보호 부진과 딴판…이강인·이한범·오현규, 유럽 이적시장 '러브콜 쇄도'",
+          "source": "www.nocutnews.co.kr",
+          "url": "https://www.nocutnews.co.kr/news/6546187",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "PSG 끝까지 너무하네! 이강인 '아틀레티코 이적' 다 끝났는데 '오피셜' 막고 있다…\"다른 선수 먼저 발표하려 허락 안 해\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260711n10127",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"이강인 오자마자 대표팀?\"…ATM 팬들, 공식 발표 전부터 한숨",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710111707014",
+          "publishedAt": "2026-07-11T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "홍명보호 부진과 딴판…이강인·이한범·오현규, 유럽 이적시장 '러브콜 쇄도'",
+        "source": "www.nocutnews.co.kr",
+        "url": "https://www.nocutnews.co.kr/news/6546187",
+        "publishedAt": "2026-07-11T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T20:20:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "이강인",
+      "source": "www.nocutnews.co.kr",
+      "url": "https://www.nocutnews.co.kr/news/6546187"
+    },
+    {
+      "id": "01b3143b55839388",
+      "issueKey": "부장",
+      "issueTitle": "부장",
+      "trendTitle": "부장",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"집 3채, 잠이 안 온다\" 악몽되나...50대 대기업 김 부장, 자산 보니 [부동산 아토즈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711150137804",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "유리 \"소녀시대 전성기 행복, 그러나 공허했다\"… 제주살이 선택한 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6pN9P1XSAo",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘나혼산’ 최고 8.9% 시청률 터졌다…장기자랑 대상은 ‘다비 이모’",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/511137",
+          "publishedAt": "2026-07-11T19:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"집 3채, 잠이 안 온다\" 악몽되나...50대 대기업 김 부장, 자산 보니 [부동산 아토즈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711150137804",
+        "publishedAt": "2026-07-11T19:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T19:40:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "부장",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260711150137804"
+    },
+    {
+      "id": "215a587b4e88c8b3",
+      "issueKey": "세균",
+      "issueTitle": "세균",
+      "trendTitle": "세균",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html",
+          "publishedAt": "2026-07-11T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“생닭 절대로 물에 씻지 마세요”…현미경으로 보니 온갖 세균 ‘드글드글’ [헬시타임]",
+          "source": "서울경제신문",
+          "url": "https://www.sedaily.com/article/20066575",
+          "publishedAt": "2026-07-11T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“냉방병인 줄 알았는데”…세균 침투로 농 고이는 ‘축농증’ [김수연의 헬스업]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712060128137",
+          "publishedAt": "2026-07-11T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“세균 득실득실”… 만진 뒤 꼭 손 씻어야 할 ‘의외의 물건’ 3가지",
+        "source": "헬스조선",
+        "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html",
+        "publishedAt": "2026-07-11T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T19:30:00.000Z",
+      "firstSeenAt": "2026-07-11T21:49:38.976Z",
+      "lastSeenAt": "2026-07-11T21:49:38.976Z",
+      "title": "세균",
+      "source": "헬스조선",
+      "url": "https://health.chosun.com/site/data/html_dir/2026/07/10/2026071001975.html"
+    },
+    {
       "id": "8546551bb627f4b7",
       "issueKey": "종합특검",
       "issueTitle": "종합특검",
@@ -2068,282 +2344,6 @@
       "title": "항변에도",
       "source": "경향신문",
       "url": "https://www.khan.co.kr/article/202607101842011"
-    },
-    {
-      "id": "5c60519e7a30e476",
-      "issueKey": "앤트로픽",
-      "issueTitle": "앤트로픽",
-      "trendTitle": "앤트로픽",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260711002600091",
-          "publishedAt": "2026-07-11T02:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "스페이스X 인수 앞둔 '커서'…사무 AI서 앤트로픽·오픈AI와 격돌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711101203446",
-          "publishedAt": "2026-07-11T02:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "머스크 ‘반값 AI’ 승부수… ‘그록 4.5’ 공개, 앤스로픽 등 맹추격",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260709/134269907/2",
-          "publishedAt": "2026-07-11T02:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260711002600091",
-        "publishedAt": "2026-07-11T02:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T02:30:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "앤트로픽",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260711002600091"
-    },
-    {
-      "id": "14144626c072b646",
-      "issueKey": "휴전",
-      "issueTitle": "휴전",
-      "trendTitle": "휴전",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보]트럼프 “이란 대화 요청 동의, 휴전종료는 단호히 통보”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11601883",
-          "publishedAt": "2026-07-10T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "트럼프 \"이란에 휴전종료 통보\"…이란도 \"항복 없다\" 충돌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711063724016",
-          "publishedAt": "2026-07-10T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[뉴욕 금가격] 트럼프 \"이란 전쟁 휴전 끝났다\"…0.7%↓",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4424480",
-          "publishedAt": "2026-07-10T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보]트럼프 “이란 대화 요청 동의, 휴전종료는 단호히 통보”",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11601883",
-        "publishedAt": "2026-07-10T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-10T20:40:00.000Z",
-      "firstSeenAt": "2026-07-10T22:03:03.772Z",
-      "lastSeenAt": "2026-07-10T22:03:03.772Z",
-      "title": "휴전",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11601883"
-    },
-    {
-      "id": "544fc81f66caaa5f",
-      "issueKey": "야닉 시너",
-      "issueTitle": "야닉 시너",
-      "trendTitle": "야닉 시너",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "5시간 싸워 얻어낸…전설의 댄스타임",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260709000311022?f=p",
-          "publishedAt": "2026-07-10T16:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "야닉 시너-노박 조코비치, 윔블던 결승행 재격돌 언제?",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2602278",
-          "publishedAt": "2026-07-10T16:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "조코비치, 5시간 15분 혈투 끝 윔블던 4강…“나도 메시처럼 90분만 뛰었으면”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260708/134259018/1",
-          "publishedAt": "2026-07-10T16:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "야닉 시너-노박 조코비치, 윔블던 결승행 재격돌 언제?",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2602278",
-        "publishedAt": "2026-07-10T16:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-10T16:10:00.000Z",
-      "firstSeenAt": "2026-07-10T19:26:55.583Z",
-      "lastSeenAt": "2026-07-10T19:26:55.583Z",
-      "title": "야닉 시너",
-      "source": "이투데이",
-      "url": "https://www.etoday.co.kr/news/view/2602278"
-    },
-    {
-      "id": "ace324597c74e6a1",
-      "issueKey": "장영란",
-      "issueTitle": "장영란",
-      "trendTitle": "장영란",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“‘저기요 껌 안 뱉었는데요’ 했는데 뛰어내렸다”…충주 간 장영란에 생긴 일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260710100012283",
-          "publishedAt": "2026-07-10T08:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "장영란, 심해지는 악플 수위에 결국 극단적 대처",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260709_0003703005",
-          "publishedAt": "2026-07-10T08:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"사망 위험 있어\"…장영란, ♥한창 반대에도 스카이다이빙 도전 '무려 3800m'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260710n17924",
-          "publishedAt": "2026-07-10T08:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“‘저기요 껌 안 뱉었는데요’ 했는데 뛰어내렸다”…충주 간 장영란에 생긴 일",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260710100012283",
-        "publishedAt": "2026-07-10T08:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-10T08:10:00.000Z",
-      "firstSeenAt": "2026-07-10T09:35:13.579Z",
-      "lastSeenAt": "2026-07-10T09:35:13.579Z",
-      "title": "장영란",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260710100012283"
-    },
-    {
-      "id": "5911148c315b1673",
-      "issueKey": "유학생",
-      "issueTitle": "유학생",
-      "trendTitle": "유학생",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "월 300만원 '따박따박' 받는다더니…\"한국에서 살래\" 응답 폭증한 외국인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260710090051766",
-          "publishedAt": "2026-07-10T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"학업 마치고 한국 그냥 살래요\"… 외국인 유학생 5년 만에 2배 늘고 63%가 잔류 희망",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202607100812488753",
-          "publishedAt": "2026-07-10T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"졸업 후에도 한국서 살래\" 외국인 유학생 증가…월급도↑",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260708_0003701408",
-          "publishedAt": "2026-07-10T08:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"학업 마치고 한국 그냥 살래요\"… 외국인 유학생 5년 만에 2배 늘고 63%가 잔류 희망",
-        "source": "파이낸셜뉴스",
-        "url": "https://www.fnnews.com/news/202607100812488753",
-        "publishedAt": "2026-07-10T08:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-10T08:00:00.000Z",
-      "firstSeenAt": "2026-07-10T09:35:13.579Z",
-      "lastSeenAt": "2026-07-10T09:35:13.579Z",
-      "title": "유학생",
-      "source": "파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202607100812488753"
-    },
-    {
-      "id": "12e589e0769cf163",
-      "issueKey": "world cup 2026",
-      "issueTitle": "world cup 2026",
-      "trendTitle": "world cup 2026",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "France Tops Championship Odds in Quarterfinals",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/10/ZEMTZSOSB5GMRLKKWVA473HDAI/",
-          "publishedAt": "2026-07-09T21:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "The quarterfinals of the 2026 FIFA North American World Cup have been confirmed. European teams show..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/sports/12093459",
-          "publishedAt": "2026-07-09T21:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "World Cup 2026: What to expect from quarter-finals including Harry Kane, Erling Haaland, Kylian Mbappe",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/articles/c4gyyvn1yn7o",
-          "publishedAt": "2026-07-09T21:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "World Cup 2026: What to expect from quarter-finals including Harry Kane, Erling Haaland, Kylian Mbappe",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/articles/c4gyyvn1yn7o",
-        "publishedAt": "2026-07-09T21:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-09T21:10:00.000Z",
-      "firstSeenAt": "2026-07-09T22:27:18.318Z",
-      "lastSeenAt": "2026-07-09T22:27:18.318Z",
-      "title": "world cup 2026",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/articles/c4gyyvn1yn7o"
     }
   ]
 }
