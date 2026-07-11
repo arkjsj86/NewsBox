@@ -7,480 +7,386 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-11T05:41:07.201Z",
+  "lastUpdatedAt": "2026-07-11T07:56:08.928Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 8,
   "items": [
     {
-      "id": "d7a9f59697b7ff1d",
-      "issueKey": "경찰차",
-      "issueTitle": "경찰차",
-      "trendTitle": "경찰차",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "f399644c799f19d8",
+      "issueKey": "이효리",
+      "issueTitle": "이효리",
+      "trendTitle": "이효리",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"상향등을 켜더니…\" 모두가 뛰어갔다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/policy/civilView.do?newsId=148967972",
-          "publishedAt": "2026-07-11T04:30:00.000Z",
+          "title": "이효리 결국 참지 못했다…故 휘성 '안 되나요'에 눈물",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260711_0003705176",
+          "publishedAt": "2026-07-11T06:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"애가 의식이 없어요\"…상향등 쏘며 경찰차 추격한 택시",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260711_0003705101",
-          "publishedAt": "2026-07-11T04:30:00.000Z",
+          "title": "'해피투게더', 金 밤 위로 선사한 국민예능의 귀환! 최고 시청률 4.8% [종합]",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071108507271910",
+          "publishedAt": "2026-07-11T06:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "무슨 일로⋯경찰차 따라오며 상향등 '번쩍번쩍'한 택시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PSkWnZ6bCS?f=p",
-          "publishedAt": "2026-07-11T04:30:00.000Z",
+          "title": "'해피투게더' 첫방부터 터졌다…2026년 KBS 예능 최고 오프닝 스코어",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/11/GEYDCZJSGEZWIOJSMNRTKYJRHE/",
+          "publishedAt": "2026-07-11T06:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"애가 의식이 없어요\"…상향등 쏘며 경찰차 추격한 택시",
+        "title": "이효리 결국 참지 못했다…故 휘성 '안 되나요'에 눈물",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260711_0003705101",
-        "publishedAt": "2026-07-11T04:30:00.000Z",
-        "relevanceScore": 2
+        "url": "https://www.newsis.com/view/NISX20260711_0003705176",
+        "publishedAt": "2026-07-11T06:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-07-11T04:30:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "경찰차",
+      "publishedAt": "2026-07-11T06:40:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "이효리",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260711_0003705101",
+      "url": "https://www.newsis.com/view/NISX20260711_0003705176",
       "rank": 1
     },
     {
-      "id": "20335bfbde914da2",
-      "issueKey": "동탄",
-      "issueTitle": "동탄",
-      "trendTitle": "동탄",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“동탄역 근처만 폭등인데 동탄구 전체 규제”… ‘집값 소외’ 주민들 분통",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260711/134278512/1",
-          "publishedAt": "2026-07-11T04:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'반도체 머니' 수도권 부동산 열풍 여전…호남은 잠잠",
-          "source": "스트레이트뉴스",
-          "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=306838",
-          "publishedAt": "2026-07-11T04:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "집값 상승 1위 동탄 40평대가 5억대 급락, 왜? [부동산360]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711070219209",
-          "publishedAt": "2026-07-11T04:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“동탄역 근처만 폭등인데 동탄구 전체 규제”… ‘집값 소외’ 주민들 분통",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20260711/134278512/1",
-        "publishedAt": "2026-07-11T04:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T04:30:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "동탄",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Economy/article/all/20260711/134278512/1",
-      "rank": 2
-    },
-    {
-      "id": "18afbb464a7796b3",
-      "issueKey": "메가박스",
-      "issueTitle": "메가박스",
-      "trendTitle": "메가박스",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "문체부, 메가박스 회생 신청에 긴급간담회…\"영향 최소화 정책 수단 검토\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711070610265",
-          "publishedAt": "2026-07-11T04:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "최휘영 장관 “영화업계 영향 최소화할 것”…메가박스 법정관리에 긴급 간담회 소집",
-          "source": "서울경제신문",
-          "url": "https://www.sedaily.com/article/20066416",
-          "publishedAt": "2026-07-11T04:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "메가박스중앙 회생절차 관련 영화계 간담회",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8003044",
-          "publishedAt": "2026-07-11T04:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "문체부, 메가박스 회생 신청에 긴급간담회…\"영향 최소화 정책 수단 검토\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711070610265",
-        "publishedAt": "2026-07-11T04:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T04:00:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "메가박스",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260711070610265",
-      "rank": 3
-    },
-    {
-      "id": "3fc5384b3b23d500",
-      "issueKey": "유현조",
-      "issueTitle": "유현조",
-      "trendTitle": "유현조",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "유해란, 에비앙 챔피언십 2R도 공동 3위…코르다는 컷 탈락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3zjJhie4GH",
-          "publishedAt": "2026-07-11T03:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김효주·윤이나·김세영, 에비앙 둘째날 어땠나? [LPGA 메이저]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021114",
-          "publishedAt": "2026-07-11T03:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유해란, 메이저 2연패 시동…이글 폭발하며 우승 경쟁 '활활’",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1665976",
-          "publishedAt": "2026-07-11T03:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "유현조",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/3zjJhie4GH",
-        "publishedAt": "2026-07-11T03:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T03:50:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "유현조",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/3zjJhie4GH",
-      "rank": 4
-    },
-    {
-      "id": "2dcac37f773d203d",
-      "issueKey": "에데르송",
-      "issueTitle": "에데르송",
-      "trendTitle": "에데르송",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'이럴 수가' 맨체스터 유나이티드 영입 계획 꼬인다!…유리몸 레프트백 '완벽 대체자' 영입도 보류",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/3EzmHDtWO6",
-          "publishedAt": "2026-07-11T03:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'아뿔싸' 맨유, 이게 도대체 무슨 일, 이적시장 제대로 꼬였다...영입 임박했던 에데르송 메디컬 탈락",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=827709",
-          "publishedAt": "2026-07-11T03:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "에데르송 영입 철회한 맨체스터 유나이티드, 이번엔 '황희찬 동료' 노린다…울버햄튼 핵심 MF 주앙 고메스로 선회, 리버풀도 관심",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260711n05271",
-          "publishedAt": "2026-07-11T03:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'아뿔싸' 맨유, 이게 도대체 무슨 일, 이적시장 제대로 꼬였다...영입 임박했던 에데르송 메디컬 탈락",
-        "source": "SPOTV NEWS",
-        "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=827709",
-        "publishedAt": "2026-07-11T03:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-11T03:40:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "에데르송",
-      "source": "SPOTV NEWS",
-      "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=827709",
-      "rank": 5
-    },
-    {
-      "id": "ebdf6a8cfd08a324",
-      "issueKey": "초복 보양식",
-      "issueTitle": "초복 보양식",
-      "trendTitle": "복날",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[이번주뭘살까] \"여름이다\"…초복 보양식·제철 과일 장보기 할인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711070203191",
-          "publishedAt": "2026-07-11T03:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "민물장어·삼계탕이 김밥·버거로…편의점 ‘간편식 전쟁’",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260710022470839",
-          "publishedAt": "2026-07-11T03:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“외식 물가 무서운데 삼복은 다가오고”…식품·외식가, 실속·간편 보양식 대전",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12095569",
-          "publishedAt": "2026-07-11T03:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[이번주뭘살까] \"여름이다\"…초복 보양식·제철 과일 장보기 할인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260711070203191",
-        "publishedAt": "2026-07-11T03:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T03:40:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "초복 보양식",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260711070203191",
-      "rank": 6
-    },
-    {
-      "id": "e4c57fbf02680127",
-      "issueKey": "항변에도",
-      "issueTitle": "항변에도",
-      "trendTitle": "김건희",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한학자 “돈으로 권력 탐하지 않아” 항변에도···특검 “정교유착 최종 수혜자” 13년 구형",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607101842011",
-          "publishedAt": "2026-07-11T03:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대법, '도이치 주가조작' 김건희 16일 최종 선고",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6836541_36918.html",
-          "publishedAt": "2026-07-11T03:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'정교유착' 한학자 통일교 총재 징역 13년 구형…내달 31일 선고(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9HJ9JdhDtG",
-          "publishedAt": "2026-07-11T03:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한학자 “돈으로 권력 탐하지 않아” 항변에도···특검 “정교유착 최종 수혜자” 13년 구형",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607101842011",
-        "publishedAt": "2026-07-11T03:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T03:20:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "항변에도",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202607101842011",
-      "rank": 7
-    },
-    {
-      "id": "3d78f997f0de6c4f",
-      "issueKey": "정의선",
-      "issueTitle": "정의선",
-      "trendTitle": "정의선",
+      "id": "19a2f9eed79c1764",
+      "issueKey": "애플",
+      "issueTitle": "애플",
+      "trendTitle": "애플",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "제네시스 영토 넓힌다… 유럽서 액셀 밟는 정의선",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/07/10/2026070920252353563",
-          "publishedAt": "2026-07-11T03:20:00.000Z",
+          "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260711084121",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "정의선 현대차그룹 회장 '스포츠 경영' 주목…\"월드컵부터 제네시스 스코티시 오픈까지\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260710_0003704770",
-          "publishedAt": "2026-07-11T03:20:00.000Z",
+          "title": "챗GPT가 아이폰 설계 훔쳤나…파트너였던 애플·오픈AI, 이젠 법정으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711164614061",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "정의선 회장, 제네시스 협력 확대…스코틀랜드서 조지아 주지사 회동",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/PCvf0QmjwS",
-          "publishedAt": "2026-07-11T03:20:00.000Z",
+          "title": "애플, 오픈AI에 '블록버스터급' 기밀 탈취 소송",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202607111358337641",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "제네시스 영토 넓힌다… 유럽서 액셀 밟는 정의선",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/07/10/2026070920252353563",
-        "publishedAt": "2026-07-11T03:20:00.000Z",
+        "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260711084121",
+        "publishedAt": "2026-07-11T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-11T03:20:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "정의선",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/industry/2026/07/10/2026070920252353563",
-      "rank": 8
+      "publishedAt": "2026-07-11T06:20:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "애플",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260711084121",
+      "rank": 2
     },
     {
-      "id": "5c60519e7a30e476",
-      "issueKey": "앤트로픽",
-      "issueTitle": "앤트로픽",
-      "trendTitle": "앤트로픽",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260711002600091",
-          "publishedAt": "2026-07-11T02:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "스페이스X 인수 앞둔 '커서'…사무 AI서 앤트로픽·오픈AI와 격돌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711101203446",
-          "publishedAt": "2026-07-11T02:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "머스크 ‘반값 AI’ 승부수… ‘그록 4.5’ 공개, 앤스로픽 등 맹추격",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260709/134269907/2",
-          "publishedAt": "2026-07-11T02:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "다음 AI전장은 사무에이전트…앤트로픽·오픈AI·스페이스X 격돌",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260711002600091",
-        "publishedAt": "2026-07-11T02:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T02:30:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "앤트로픽",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260711002600091",
-      "rank": 9
-    },
-    {
-      "id": "2e8ddcb985ab844b",
-      "issueKey": "과천동",
-      "issueTitle": "과천동",
-      "trendTitle": "초복",
+      "id": "9d30a76fcf1d6c17",
+      "issueKey": "하재훈",
+      "issueTitle": "하재훈",
+      "trendTitle": "하재훈",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "과천동·원문동 새마을부녀회, 초복 맞이 삼계탕 580인분 나눔",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260710580255",
-          "publishedAt": "2026-07-11T02:20:00.000Z",
+          "title": "프로야구 SSG서 방출된 하재훈, 시민구단 울산서 새 출발",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260711023900007",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "대전시 서구, 취약계층 여름나기 지원 위한 온정 나눔 '릴레이'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260709100737219",
-          "publishedAt": "2026-07-11T02:20:00.000Z",
+          "title": "‘충격 방출’ 세이브왕 출신 36세 외야수, 울산이 품었다…새 둥지 찾은 하재훈 “힘과 스피드 모두 자신 있어” [공식발표]",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112837772",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "초복 앞둔 은평구 응암2동, 어르신 건강 챙긴 나눔행사",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3631012",
-          "publishedAt": "2026-07-11T02:20:00.000Z",
+          "title": "[오피셜] '26홈런 40세이브' 방출 당한 베테랑 울산행! → \"좋은 본보기 될 수 있어\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/07/11/HA4GKNRQGZRTIMJVHA4WEYZZG4/",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "과천동·원문동 새마을부녀회, 초복 맞이 삼계탕 580인분 나눔",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260710580255",
-        "publishedAt": "2026-07-11T02:20:00.000Z",
+        "title": "프로야구 SSG서 방출된 하재훈, 시민구단 울산서 새 출발",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260711023900007",
+        "publishedAt": "2026-07-11T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-11T02:20:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "과천동",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260710580255",
-      "rank": 10
+      "publishedAt": "2026-07-11T06:20:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "하재훈",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260711023900007",
+      "rank": 3
+    },
+    {
+      "id": "5e3234f9373e7e86",
+      "issueKey": "메건",
+      "issueTitle": "메건",
+      "trendTitle": "메건",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“아버지와 화해할래” 영국 해리왕자, 찰스3세 접견에 4년 만에 두 자녀 동반",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711111200227",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "英 해리왕자, 가족과 찰스3세 국왕 접견…\"관계회복 신호\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260711025700009",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "英 해리 왕자, 메건·자녀와 영국 방문…찰스 3세와 수년 만 상봉",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1666025",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "英 해리 왕자, 메건·자녀와 영국 방문…찰스 3세와 수년 만 상봉",
+        "source": "데일리안",
+        "url": "https://www.dailian.co.kr/news/view/1666025",
+        "publishedAt": "2026-07-11T06:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-11T06:10:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "메건",
+      "source": "데일리안",
+      "url": "https://www.dailian.co.kr/news/view/1666025",
+      "rank": 4
+    },
+    {
+      "id": "f123b3167d177a1b",
+      "issueKey": "민주노총",
+      "issueTitle": "민주노총",
+      "trendTitle": "민주노총",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "노란봉투법의 ‘4개 기둥’, 대법 판단에 흔들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711004642725",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "금속노조 “15일 하루 전면파업”…현대차는 13일부터 부분파업",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260710/134276396/1",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[한용현의 노동법 새겨보기] (63) 노란봉투법이 우리에게 건넨 뜻밖의 소득",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202607101421011",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "민주노총",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711004642725",
+        "publishedAt": "2026-07-11T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T06:10:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "민주노총",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260711004642725",
+      "rank": 5
+    },
+    {
+      "id": "d3e9680ca2c95a0e",
+      "issueKey": "코너 맥그리거",
+      "issueTitle": "코너 맥그리거",
+      "trendTitle": "코너 맥그리거",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"할로웨이 10초 안에 박살\" 맥그리거, '5년 만의 복귀전' 계체 통과…내일(12일) 빅매치 열린다 [UFC 329]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260711n06045",
+          "publishedAt": "2026-07-11T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "UFC 세기의 '리턴매치'…정찬성은 할로웨이 vs 김동현은 맥그리거",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710164800484",
+          "publishedAt": "2026-07-11T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"미사일처럼 박살\" 맥그리거, '익사시켜 주마\" 할러웨이 선글라스 벗겨서 획~.. 살벌했던 복귀전 기자회견",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/10/202607101205773372O",
+          "publishedAt": "2026-07-11T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "코너 맥그리거",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260711n06045",
+        "publishedAt": "2026-07-11T06:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T06:00:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "코너 맥그리거",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260711n06045",
+      "rank": 6
+    },
+    {
+      "id": "bcd89bd5f49bed80",
+      "issueKey": "도경완",
+      "issueTitle": "도경완",
+      "trendTitle": "도경완",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "장윤정 모친 논란 후…도경완, 첫 심경 고백 \"집 전체가 어두워져\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115",
+          "publishedAt": "2026-07-11T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "도경완, ♥장윤정 친모 논란 후 첫 심경…“집 전체가 어두워질 때도”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260711/134278929/1",
+          "publishedAt": "2026-07-11T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장윤정·도경완 측, 母 사기 논란에 심경 고백",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260711n08417",
+          "publishedAt": "2026-07-11T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "장윤정 모친 논란 후…도경완, 첫 심경 고백 \"집 전체가 어두워져\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115",
+        "publishedAt": "2026-07-11T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T05:50:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "도경완",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115",
+      "rank": 7
+    },
+    {
+      "id": "93a7c3a68c32ec52",
+      "issueKey": "훨훨 나는 한국 해외서도 깜짝",
+      "issueTitle": "훨훨 나는 한국...해외서도 '깜짝'",
+      "trendTitle": "훨훨 나는 한국...해외서도 '깜짝'",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "훨훨 나는 한국...해외서도 '깜짝'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/x1beizUZT3",
+          "publishedAt": "2026-07-11T05:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이동진 靑비서관 \"성장모멘텀, 일회성 아냐…물가상승 억제에 최선\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/07/10/2026071018314280844",
+          "publishedAt": "2026-07-11T05:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "IMF·ADB, 올해 한국 경제성장률 1.9%→2.6%로 상향 전망",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967871",
+          "publishedAt": "2026-07-11T05:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "훨훨 나는 한국...해외서도 '깜짝'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/x1beizUZT3",
+        "publishedAt": "2026-07-11T05:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T05:40:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "훨훨 나는 한국...해외서도 '깜짝'",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/x1beizUZT3",
+      "rank": 8
     }
   ],
   "history": [
@@ -688,6 +594,52 @@
       "title": "이승기",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260710110154296"
+    },
+    {
+      "id": "f399644c799f19d8",
+      "issueKey": "이효리",
+      "issueTitle": "이효리",
+      "trendTitle": "이효리",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이효리 결국 참지 못했다…故 휘성 '안 되나요'에 눈물",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260711_0003705176",
+          "publishedAt": "2026-07-11T06:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'해피투게더', 金 밤 위로 선사한 국민예능의 귀환! 최고 시청률 4.8% [종합]",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071108507271910",
+          "publishedAt": "2026-07-11T06:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'해피투게더' 첫방부터 터졌다…2026년 KBS 예능 최고 오프닝 스코어",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/11/GEYDCZJSGEZWIOJSMNRTKYJRHE/",
+          "publishedAt": "2026-07-11T06:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이효리 결국 참지 못했다…故 휘성 '안 되나요'에 눈물",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260711_0003705176",
+        "publishedAt": "2026-07-11T06:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T06:40:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "이효리",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260711_0003705176"
     },
     {
       "id": "b68afd3397f52eac",
@@ -964,6 +916,144 @@
       "title": "박정수",
       "source": "스포츠서울",
       "url": "https://www.sportsseoul.com/news/read/1621434"
+    },
+    {
+      "id": "19a2f9eed79c1764",
+      "issueKey": "애플",
+      "issueTitle": "애플",
+      "trendTitle": "애플",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260711084121",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "챗GPT가 아이폰 설계 훔쳤나…파트너였던 애플·오픈AI, 이젠 법정으로",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711164614061",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "애플, 오픈AI에 '블록버스터급' 기밀 탈취 소송",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202607111358337641",
+          "publishedAt": "2026-07-11T06:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260711084121",
+        "publishedAt": "2026-07-11T06:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T06:20:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "애플",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260711084121"
+    },
+    {
+      "id": "d3e9680ca2c95a0e",
+      "issueKey": "코너 맥그리거",
+      "issueTitle": "코너 맥그리거",
+      "trendTitle": "코너 맥그리거",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"할로웨이 10초 안에 박살\" 맥그리거, '5년 만의 복귀전' 계체 통과…내일(12일) 빅매치 열린다 [UFC 329]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260711n06045",
+          "publishedAt": "2026-07-11T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "UFC 세기의 '리턴매치'…정찬성은 할로웨이 vs 김동현은 맥그리거",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260710164800484",
+          "publishedAt": "2026-07-11T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"미사일처럼 박살\" 맥그리거, '익사시켜 주마\" 할러웨이 선글라스 벗겨서 획~.. 살벌했던 복귀전 기자회견",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/10/202607101205773372O",
+          "publishedAt": "2026-07-11T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "코너 맥그리거",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260711n06045",
+        "publishedAt": "2026-07-11T06:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T06:00:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "코너 맥그리거",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260711n06045"
+    },
+    {
+      "id": "bcd89bd5f49bed80",
+      "issueKey": "도경완",
+      "issueTitle": "도경완",
+      "trendTitle": "도경완",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "장윤정 모친 논란 후…도경완, 첫 심경 고백 \"집 전체가 어두워져\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115",
+          "publishedAt": "2026-07-11T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "도경완, ♥장윤정 친모 논란 후 첫 심경…“집 전체가 어두워질 때도”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260711/134278929/1",
+          "publishedAt": "2026-07-11T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장윤정·도경완 측, 母 사기 논란에 심경 고백",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260711n08417",
+          "publishedAt": "2026-07-11T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "장윤정 모친 논란 후…도경완, 첫 심경 고백 \"집 전체가 어두워져\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115",
+        "publishedAt": "2026-07-11T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T05:50:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "도경완",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115"
     },
     {
       "id": "3d78f997f0de6c4f",
@@ -1656,6 +1746,98 @@
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8606358"
     },
     {
+      "id": "5e3234f9373e7e86",
+      "issueKey": "메건",
+      "issueTitle": "메건",
+      "trendTitle": "메건",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“아버지와 화해할래” 영국 해리왕자, 찰스3세 접견에 4년 만에 두 자녀 동반",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711111200227",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "英 해리왕자, 가족과 찰스3세 국왕 접견…\"관계회복 신호\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260711025700009",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "英 해리 왕자, 메건·자녀와 영국 방문…찰스 3세와 수년 만 상봉",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1666025",
+          "publishedAt": "2026-07-11T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "英 해리 왕자, 메건·자녀와 영국 방문…찰스 3세와 수년 만 상봉",
+        "source": "데일리안",
+        "url": "https://www.dailian.co.kr/news/view/1666025",
+        "publishedAt": "2026-07-11T06:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-11T06:10:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "메건",
+      "source": "데일리안",
+      "url": "https://www.dailian.co.kr/news/view/1666025"
+    },
+    {
+      "id": "93a7c3a68c32ec52",
+      "issueKey": "훨훨 나는 한국 해외서도 깜짝",
+      "issueTitle": "훨훨 나는 한국...해외서도 '깜짝'",
+      "trendTitle": "훨훨 나는 한국...해외서도 '깜짝'",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "훨훨 나는 한국...해외서도 '깜짝'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/x1beizUZT3",
+          "publishedAt": "2026-07-11T05:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이동진 靑비서관 \"성장모멘텀, 일회성 아냐…물가상승 억제에 최선\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/07/10/2026071018314280844",
+          "publishedAt": "2026-07-11T05:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "IMF·ADB, 올해 한국 경제성장률 1.9%→2.6%로 상향 전망",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148967871",
+          "publishedAt": "2026-07-11T05:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "훨훨 나는 한국...해외서도 '깜짝'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/x1beizUZT3",
+        "publishedAt": "2026-07-11T05:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-11T05:40:00.000Z",
+      "firstSeenAt": "2026-07-11T07:56:08.928Z",
+      "lastSeenAt": "2026-07-11T07:56:08.928Z",
+      "title": "훨훨 나는 한국...해외서도 '깜짝'",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/x1beizUZT3"
+    },
+    {
       "id": "e4c57fbf02680127",
       "issueKey": "항변에도",
       "issueTitle": "항변에도",
@@ -2068,289 +2250,6 @@
       "title": "남부 부셰르",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260710004100079"
-    },
-    {
-      "id": "e37b166dfa2f41b1",
-      "issueKey": "박나래",
-      "issueTitle": "박나래",
-      "trendTitle": "박나래",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 4,
-      "relatedArticles": [
-        {
-          "title": "‘박나래, 매니저에 갑질한 것 맞다’ 판단···경찰 수사 7개월 만에 검찰 송치",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607102047001",
-          "publishedAt": "2026-07-10T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "경찰, '매니저 갑질·폭행 의혹' 박나래 7개월 만에 불구속 송치",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260710_0003704964",
-          "publishedAt": "2026-07-10T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'매니저 갑질' 의혹 박나래, 특수폭행 등 혐의로 검찰 송치",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260710201800420",
-          "publishedAt": "2026-07-10T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“술 마시지 않아 괴롭힘 당해”…‘박나래 갑질’ 인정된다 판단한 경찰",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260710202401505",
-          "publishedAt": "2026-07-10T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘박나래, 매니저에 갑질한 것 맞다’ 판단···경찰 수사 7개월 만에 검찰 송치",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607102047001",
-        "publishedAt": "2026-07-10T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-10T15:20:00.000Z",
-      "firstSeenAt": "2026-07-10T16:55:51.067Z",
-      "lastSeenAt": "2026-07-10T19:26:55.583Z",
-      "title": "박나래",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202607102047001"
-    },
-    {
-      "id": "2e8ddcb985ab844b",
-      "issueKey": "과천동",
-      "issueTitle": "과천동",
-      "trendTitle": "초복",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "과천동·원문동 새마을부녀회, 초복 맞이 삼계탕 580인분 나눔",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260710580255",
-          "publishedAt": "2026-07-11T02:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대전시 서구, 취약계층 여름나기 지원 위한 온정 나눔 '릴레이'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260709100737219",
-          "publishedAt": "2026-07-11T02:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "초복 앞둔 은평구 응암2동, 어르신 건강 챙긴 나눔행사",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3631012",
-          "publishedAt": "2026-07-11T02:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "과천동·원문동 새마을부녀회, 초복 맞이 삼계탕 580인분 나눔",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260710580255",
-        "publishedAt": "2026-07-11T02:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T02:20:00.000Z",
-      "firstSeenAt": "2026-07-11T05:41:07.201Z",
-      "lastSeenAt": "2026-07-11T05:41:07.201Z",
-      "title": "과천동",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260710580255"
-    },
-    {
-      "id": "534947f8bc8b94de",
-      "issueKey": "러시아",
-      "issueTitle": "러시아",
-      "trendTitle": "러시아",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "시베리아도 뚫렸다…우크라 드론 공습범위 확대에 러시아 '당혹'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/bqdaKbaeGT",
-          "publishedAt": "2026-07-11T00:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "패트리엇 면허 쥔 우크라, 러 몰아치나…석유시설 4곳 타격(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260710137851109",
-          "publishedAt": "2026-07-11T00:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "푸틴, 러시아 연료 부족 사태로 정치적 위기 직면 [PADO]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/07/11/2026071017454026589",
-          "publishedAt": "2026-07-11T00:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "시베리아도 뚫렸다…우크라 드론 공습범위 확대에 러시아 '당혹'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/bqdaKbaeGT",
-        "publishedAt": "2026-07-11T00:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T00:10:00.000Z",
-      "firstSeenAt": "2026-07-11T02:40:10.926Z",
-      "lastSeenAt": "2026-07-11T02:40:10.926Z",
-      "title": "러시아",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/bqdaKbaeGT"
-    },
-    {
-      "id": "6d2ec05af32fc193",
-      "issueKey": "남승민",
-      "issueTitle": "남승민",
-      "trendTitle": "남승민",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[TV조선] 현철 2주기 헌정 무대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260710003153244",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "남승민 “얼굴이 달라 보여” 때아닌 성형 의혹 (금타는 금요일)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260710/134274741/1",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "양지은, 남승민 향한 의혹 제기 \"얼굴이 달라 보인다…뭐 하신 거 아니죠?\" (금금) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/07/10/MRSTOM3FGVTDAZBRHE2TIYRUGM/",
-          "publishedAt": "2026-07-11T00:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "남승민 “얼굴이 달라 보여” 때아닌 성형 의혹 (금타는 금요일)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260710/134274741/1",
-        "publishedAt": "2026-07-11T00:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-11T00:00:00.000Z",
-      "firstSeenAt": "2026-07-11T02:40:10.926Z",
-      "lastSeenAt": "2026-07-11T02:40:10.926Z",
-      "title": "남승민",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260710/134274741/1"
-    },
-    {
-      "id": "886b4a4071058cba",
-      "issueKey": "spcx",
-      "issueTitle": "spcx",
-      "trendTitle": "spcx",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "SpaceX (SPCX) Stock Forecast: Grok 4.5 Launched, Blue Origin Raised $10B — What’s Holding $152?",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262021751-spacex-spcx-stock-forecast-july-10-2026-grok-45-blue-origin-tradingkey",
-          "publishedAt": "2026-07-10T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "$SpaceX (SPCX.US)$ luckily I sold at 153 yesterday[Facepalm]",
-          "source": "Moomoo",
-          "url": "https://www.moomoo.com/community/feed/spacex-spcx-us-luckily-i-sold-at-153-yesterday-116893755637766",
-          "publishedAt": "2026-07-10T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "$SpaceX (SPCX.US)$ Dang , its eazy money...🫣",
-          "source": "Moomoo",
-          "url": "https://www.moomoo.com/community/feed/spacex-spcx-us-dang-its-eazy-money-116873345565078",
-          "publishedAt": "2026-07-10T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "SpaceX (SPCX) Stock Forecast: Grok 4.5 Launched, Blue Origin Raised $10B — What’s Holding $152?",
-        "source": "TradingKey",
-        "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262021751-spacex-spcx-stock-forecast-july-10-2026-grok-45-blue-origin-tradingkey",
-        "publishedAt": "2026-07-10T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-10T21:00:00.000Z",
-      "firstSeenAt": "2026-07-10T22:03:03.772Z",
-      "lastSeenAt": "2026-07-10T22:03:03.772Z",
-      "title": "spcx",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262021751-spacex-spcx-stock-forecast-july-10-2026-grok-45-blue-origin-tradingkey"
-    },
-    {
-      "id": "c26eebe9eceae2f2",
-      "issueKey": "fifa world cup brackets",
-      "issueTitle": "fifa world cup brackets",
-      "trendTitle": "fifa world cup brackets",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Spain vs Belgium LIVE: Watch World Cup 2026 quarter-final build-up, lineups, prediction & updates",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cjwgg64ennqt",
-          "publishedAt": "2026-07-10T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Spain concedes first goal as De Ketelaere equalizes 1-1 vs Belgium - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/07/11/2K3CJMVXH5HSDPOV7EBD4IBCZM/",
-          "publishedAt": "2026-07-10T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "World Cup recap: Merino scores winner for Spain vs. Belgium to advance to last four",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49320409/world-cup-updates-spain-take-belgium-second-quarterfinal",
-          "publishedAt": "2026-07-10T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "fifa world cup brackets",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cjwgg64ennqt",
-        "publishedAt": "2026-07-10T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-10T21:00:00.000Z",
-      "firstSeenAt": "2026-07-10T22:03:03.772Z",
-      "lastSeenAt": "2026-07-10T22:03:03.772Z",
-      "title": "fifa world cup brackets",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cjwgg64ennqt"
     }
   ]
 }
