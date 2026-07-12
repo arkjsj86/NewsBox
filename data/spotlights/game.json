@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-12T06:02:01.221Z",
+  "lastUpdatedAt": "2026-07-12T10:27:47.942Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -38,17 +38,17 @@
         {
           "title": "그라비티, PC MMORPG ‘라그나로크 온라인’ 유저 초청 토론회 11일(토) 개최",
           "url": "https://bbs.ruliweb.com/news/read/226843",
-          "meta": "댓글 16"
+          "meta": "댓글 19"
+        },
+        {
+          "title": "자유도와 가벼움을 중심으로 재편, ‘던전앤파이터 모바일’ 2.0",
+          "url": "https://bbs.ruliweb.com/news/read/226851",
+          "meta": "댓글 3"
         },
         {
           "title": "그라비티, MMORPG ‘라그나로크M: Classic’ 국내 유저 간담회 ‘Fun & Fan Day’ 개최 예고",
           "url": "https://bbs.ruliweb.com/news/read/226637",
           "meta": "댓글 15"
-        },
-        {
-          "title": "넷마블, MMORPG의 성장 공식을 바꾼다…'아스달 연대기: 세 개의 세력'의 파격 도전",
-          "url": "https://bbs.ruliweb.com/news/read/226642",
-          "meta": "댓글 5"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "무너진 한화생명의 상체, 3세트 승자는 BLG",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318397",
+          "meta": "리그 오브 레전드 · 26분 전"
+        },
+        {
+          "title": "'카나비' 지운 BLG, 2세트 승리로 1:1 동점",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318396",
+          "meta": "리그 오브 레전드 · 1시간 전"
+        },
+        {
+          "title": "암베사-리 신 빛난 한화생명, BLG 상대로 선승",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318395",
+          "meta": "리그 오브 레전드 · 2시간 전"
+        },
+        {
+          "title": "추억 소환! MSI 결승 현장서 공개된 '리그 클래식', 7월 30일 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318394",
+          "meta": "리그 오브 레전드 · 3시간 전"
+        },
+        {
           "title": "'FM26' 개발자 \"UI, 바꿔야만 했던 이유\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=318391",
-          "meta": "FM26 · 50분 전"
-        },
-        {
-          "title": "빌리빌리 월드 참가한 아주르 프로밀리아, 中 3차 테스터 모집 개시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318383",
-          "meta": "아주르 프로밀리아 · 8시간 전"
-        },
-        {
-          "title": "'구마유시'의 겸손 한 스푼 얹은 자신감, \"BLG와 결승, 3:1 승리 예상\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318380",
-          "meta": "리그 오브 레전드 · 9시간 전"
-        },
-        {
-          "title": "최초의 신 선출한 솔: 인챈트, 린델5 이변 발생",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318378",
-          "meta": "솔: 인챈트 · 10시간 전"
-        },
-        {
-          "title": "벼랑 끝 한화생명, 4세트 역전승...승부는 마지막 5세트로",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318377",
-          "meta": "리그 오브 레전드 · 10시간 전"
+          "meta": "FM26 · 13시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
