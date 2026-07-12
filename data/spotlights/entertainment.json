@@ -7,65 +7,206 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-12T15:59:33.888Z",
+  "lastUpdatedAt": "2026-07-12T19:05:53.700Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
+    {
+      "id": "747fbd24c0d86f1d",
+      "issueKey": "wimbledon 2026",
+      "issueTitle": "wimbledon 2026",
+      "trendTitle": "wimbledon 2026",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Watch Wimbledon: Zverev wins first set of final against Sinner on tie-break",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/tennis/live/c747z03p2zpt",
+          "publishedAt": "2026-07-12T17:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Sinner Defeats Djokovic 3-0, Advances to Wimbledon Final",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/07/11/GDKWU4GECBHYJA2JXE3OFMT7AM/",
+          "publishedAt": "2026-07-12T17:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Licensable picture: Tennis: The Wimbledon Championships",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/tennis-the-wimbledon-championships/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjkzNzUyMTM",
+          "publishedAt": "2026-07-12T17:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "wimbledon 2026",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/tennis/live/c747z03p2zpt",
+        "publishedAt": "2026-07-12T17:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-12T17:40:00.000Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
+      "title": "wimbledon 2026",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/tennis/live/c747z03p2zpt",
+      "rank": 1
+    },
+    {
+      "id": "544fc81f66caaa5f",
+      "issueKey": "야닉 시너",
+      "issueTitle": "야닉 시너",
+      "trendTitle": "야닉 시너",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "신네르, 조코비치 완파하고 윔블던 결승행…츠베레프와 격돌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711092401816",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘결승 진출 실패’ 조코비치, ‘25번째 메이저 우승 가능성 점점 하락’",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260712/134280494/1",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘2연패 도전’ 신네르, 조코비치에 3대0 완승… 윔블던 결승행",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/11/DEOG7MBQLJEM7DDASNK4LRDYAI/",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "야닉 시너",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711092401816",
+        "publishedAt": "2026-07-12T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-12T15:50:00.000Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
+      "title": "야닉 시너",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260711092401816",
+      "rank": 2
+    },
+    {
+      "id": "83653625e4a074a6",
+      "issueKey": "안동",
+      "issueTitle": "안동",
+      "trendTitle": "안동",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "안동시, 안동·임하댐 물 활용 AI 데이터센터 유치 추진",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712154550535",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "AI 데이터센터 ‘속도’…과제는 ‘전문 인력’ 외",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8608401",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[단독] 아시아 최대 ‘동해 AIDC’ 3개 구역에 120조 투자",
+          "source": "강원도민일보",
+          "url": "https://www.kado.net/news/articleView.html?idxno=2060882",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "안동시, 안동·임하댐 물 활용 AI 데이터센터 유치 추진",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712154550535",
+        "publishedAt": "2026-07-12T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-12T15:50:00.000Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
+      "title": "안동",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260712154550535",
+      "rank": 3
+    },
     {
       "id": "6bb8a37b630b6736",
       "issueKey": "wec",
       "issueTitle": "wec",
       "trendTitle": "wec",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Sao Paulo Saturday Notebook",
+          "title": "Aitken Feared Making Hyperpole Would Be a “Challenge”",
           "source": "Sportscar365",
-          "url": "https://sportscar365.com/lemans/wec/sao-paulo-saturday-notebook-4/",
+          "url": "https://sportscar365.com/lemans/wec/aitken-feared-making-hyperpole-would-be-a-challenge/",
           "publishedAt": "2026-07-12T14:20:00.000Z",
           "relevanceScore": 3
+        },
+        {
+          "title": "LIVE – BMW in control, follow the 6 Hours of São Paulo with live text updates",
+          "source": "www.autohebdof1.com",
+          "url": "https://www.autohebdof1.com/news/endurance/Live-BMW-in-control--follow-the-6-hours-of-Sao-Paulo-in-live-text.html",
+          "publishedAt": "2026-07-12T14:20:00.000Z",
+          "relevanceScore": 2
         },
         {
           "title": "Cadillac Hertz Team JOTA targeting a strong result in São Paulo",
           "source": "Cadillac Newsroom",
           "url": "https://news.cadillac.com/newsroom.detail.html/Pages/news/us/en/2026/jul/0708-cadillac-hertz-JOTA.html",
           "publishedAt": "2026-07-12T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "2026 WEC Six Hours of Sao Paulo - Qualifying results",
-          "source": "RacingNews365",
-          "url": "https://racingnews365.com/2026-wec-six-hours-of-sao-paulo-qualifying-results",
-          "publishedAt": "2026-07-12T14:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "2026 WEC Six Hours of Sao Paulo - Qualifying results",
-        "source": "RacingNews365",
-        "url": "https://racingnews365.com/2026-wec-six-hours-of-sao-paulo-qualifying-results",
+        "title": "wec",
+        "source": "Sportscar365",
+        "url": "https://sportscar365.com/lemans/wec/aitken-feared-making-hyperpole-would-be-a-challenge/",
         "publishedAt": "2026-07-12T14:20:00.000Z",
-        "relevanceScore": 1
+        "relevanceScore": 3
       },
       "publishedAt": "2026-07-12T14:20:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
       "title": "wec",
-      "source": "RacingNews365",
-      "url": "https://racingnews365.com/2026-wec-six-hours-of-sao-paulo-qualifying-results",
-      "rank": 1
+      "source": "Sportscar365",
+      "url": "https://sportscar365.com/lemans/wec/aitken-feared-making-hyperpole-would-be-a-challenge/",
+      "rank": 4
     },
     {
       "id": "0ead8e66d4208be2",
       "issueKey": "심하은",
       "issueTitle": "심하은",
       "trendTitle": "심하은",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -99,12 +240,12 @@
         "relevanceScore": 2
       },
       "publishedAt": "2026-07-12T13:50:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
       "title": "심하은",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260712105009500",
-      "rank": 2
+      "rank": 5
     },
     {
       "id": "b96990a0f03521c6",
@@ -119,7 +260,7 @@
         {
           "title": "\"장가 안 가서 한심\"…송종호 모친, '51세' 미혼 아들 걱정 (미우새)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260712221712237",
+          "url": "https://v.daum.net/v/20260712221712237?f=p",
           "publishedAt": "2026-07-12T13:30:00.000Z",
           "relevanceScore": 3
         },
@@ -141,32 +282,32 @@
       "representativeArticle": {
         "title": "\"장가 안 가서 한심\"…송종호 모친, '51세' 미혼 아들 걱정 (미우새)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260712221712237",
+        "url": "https://v.daum.net/v/20260712221712237?f=p",
         "publishedAt": "2026-07-12T13:30:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-12T13:30:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
       "title": "송종호",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260712221712237",
-      "rank": 3
+      "url": "https://v.daum.net/v/20260712221712237?f=p",
+      "rank": 6
     },
     {
       "id": "3b4aa4db32069ebd",
       "issueKey": "졸음 운전",
       "issueTitle": "졸음 운전",
       "trendTitle": "졸음 운전",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
           "title": "7월 졸음운전 사망사고 집중…에어컨 켰다면 ‘이 버튼’ 누르세요",
           "source": "Daum",
-          "url": "https://v.daum.net/v/XF7KjoiPWf",
+          "url": "https://v.daum.net/v/20260712060224207",
           "publishedAt": "2026-07-12T12:50:00.000Z",
           "relevanceScore": 3
         },
@@ -188,17 +329,17 @@
       "representativeArticle": {
         "title": "졸음 운전",
         "source": "Daum",
-        "url": "https://v.daum.net/v/XF7KjoiPWf",
+        "url": "https://v.daum.net/v/20260712060224207",
         "publishedAt": "2026-07-12T12:50:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-12T12:50:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
       "title": "졸음 운전",
       "source": "Daum",
-      "url": "https://v.daum.net/v/XF7KjoiPWf",
-      "rank": 4
+      "url": "https://v.daum.net/v/20260712060224207",
+      "rank": 7
     },
     {
       "id": "7458cd175112c2b1",
@@ -218,16 +359,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "국가철도공단, 철도 굿즈 신제품 출시 기념 팝업스토어 개최",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=20260710175529165f4ab64559d_12",
+          "title": "코레일유통, 신규 블록 ‘레일&시티’ 시리즈 출시",
+          "source": "주간한국",
+          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173197",
           "publishedAt": "2026-07-12T12:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "코레일유통, 신규 블록 ‘레일&시티’ 시리즈 출시",
-          "source": "주간한국",
-          "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7173197",
+          "title": "에스알, 철도 기념품 3시간 만에 완판···사회적기업과 협력 ‘주목’",
+          "source": "이뉴스투데이",
+          "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2447217",
           "publishedAt": "2026-07-12T12:50:00.000Z",
           "relevanceScore": 1
         }
@@ -240,12 +381,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-12T12:50:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
       "title": "철도",
       "source": "충청매일",
       "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1087915",
-      "rank": 5
+      "rank": 8
     },
     {
       "id": "ce22c13c50cac1f4",
@@ -258,9 +399,9 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"나 집에 갈게\"...서장훈, 밖에서 절대 화장실 안 가는 '넘사벽 결벽증' ('미우새') [핫피플]",
+          "title": "'미우새' 김희철, 청결 중시 정도는…\"식당도 맛 보다 화장실 깨끗한 곳 찾아\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260712220348122",
+          "url": "https://v.daum.net/v/20260712215840094",
           "publishedAt": "2026-07-12T12:50:00.000Z",
           "relevanceScore": 3
         },
@@ -272,9 +413,9 @@
           "relevanceScore": 2
         },
         {
-          "title": "‘미우새’ 김희철, 청결 중시 정도는…“식당도 맛 보다 화장실 깨끗한 곳 찾아”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260713/134284641/1",
+          "title": "\"나 집에 갈게\"...서장훈, 밖에서 절대 화장실 안 가는 '넘사벽 결벽증' ('미우새') [핫피플] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/12/GBRDOZLBGVSDOYJUMI3TKMTDGM/",
           "publishedAt": "2026-07-12T12:50:00.000Z",
           "relevanceScore": 1
         }
@@ -287,12 +428,12 @@
         "relevanceScore": 2
       },
       "publishedAt": "2026-07-12T12:50:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
       "title": "서남용",
       "source": "programs.sbs.co.kr",
       "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480584758",
-      "rank": 6
+      "rank": 9
     },
     {
       "id": "e24bca9902e5a9e8",
@@ -305,135 +446,41 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "리보세라닙 발목 잡은 ‘제네릭 실사’…HLB도 몰랐다",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=04677286645513208",
+          "title": "HLB, 항서제약 FDA 서한 확보…\"신속히 대응전략 수립\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926",
           "publishedAt": "2026-07-12T12:40:00.000Z",
           "relevanceScore": 3
-        },
-        {
-          "title": "HLB 간암 신약, FDA 승인 위한 정식 실사도 못 받아…이유는?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711133701779",
-          "publishedAt": "2026-07-12T12:40:00.000Z",
-          "relevanceScore": 2
         },
         {
           "title": "\"이 회사 투자해도 될까?\"…'불신' 키우는 K-바이오",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260710_0003704900",
           "publishedAt": "2026-07-12T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "HLB 간암 신약, FDA 승인 위한 정식 실사도 못 받아…이유는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QZ6QsjgRSe",
+          "publishedAt": "2026-07-12T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "항서제약",
-        "source": "팜이데일리",
-        "url": "https://pharm.edaily.co.kr/news/read?newsId=04677286645513208",
+        "title": "HLB, 항서제약 FDA 서한 확보…\"신속히 대응전략 수립\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926",
         "publishedAt": "2026-07-12T12:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-12T12:40:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
       "title": "항서제약",
-      "source": "팜이데일리",
-      "url": "https://pharm.edaily.co.kr/news/read?newsId=04677286645513208",
-      "rank": 7
-    },
-    {
-      "id": "a92e1ca42236ec4b",
-      "issueKey": "안다솜",
-      "issueTitle": "안다솜",
-      "trendTitle": "안다솜",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "대치동 맹모 ‘패닉’…은마발(發) 전세대란 카운트다운 [안다솜의 家봄]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712054212999?x_trkm=t",
-          "publishedAt": "2026-07-12T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "학군지 은마냐 한강변 잠실5단지냐 [감평사의 부동산 현장진단]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12095443",
-          "publishedAt": "2026-07-12T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "같은 주에 도장 2개 — 잠실 한강변 1만 1,516가구가 움직이기 시작했다",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/plaform/bg/contents/260712214448017di",
-          "publishedAt": "2026-07-12T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대치동 맹모 ‘패닉’…은마발(發) 전세대란 카운트다운 [안다솜의 家봄]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712054212999?x_trkm=t",
-        "publishedAt": "2026-07-12T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-12T12:30:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
-      "title": "안다솜",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260712054212999?x_trkm=t",
-      "rank": 8
-    },
-    {
-      "id": "7f1d49243ee66277",
-      "issueKey": "msi",
-      "issueTitle": "msi",
-      "trendTitle": "msi",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Hanwha Lifee Sports Secures First MSI Title in Dramatic Comeback",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/12/N6VNHB3CFBCBVLTMGQSLPMU3RQ/",
-          "publishedAt": "2026-07-12T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Hanwha Life Esports wins 2026 MSI title after marathon five-game final",
-          "source": "The Korea Herald",
-          "url": "https://www.koreaherald.com/article/10806145",
-          "publishedAt": "2026-07-12T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Bilibili Gaming Sweep LYON at MSI 2026",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bilibili-gaming-sweep-lyon-msi-070158099.html",
-          "publishedAt": "2026-07-12T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Hanwha Lifee Sports Secures First MSI Title in Dramatic Comeback",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/english/sports-en/2026/07/12/N6VNHB3CFBCBVLTMGQSLPMU3RQ/",
-        "publishedAt": "2026-07-12T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-12T12:10:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
-      "title": "msi",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/english/sports-en/2026/07/12/N6VNHB3CFBCBVLTMGQSLPMU3RQ/",
-      "rank": 9
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926",
+      "rank": 10
     }
   ],
   "history": [
@@ -1708,98 +1755,6 @@
       "url": "https://www.bbc.com/sport/football/live/cjwgg64ennqt"
     },
     {
-      "id": "d2267859223749ed",
-      "issueKey": "맥그리거",
-      "issueTitle": "맥그리거",
-      "trendTitle": "맥그리거",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "UFC 세기의 '리턴매치'…정찬성은 할로웨이 vs 김동현은 맥그리거",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1XFewDtWDe",
-          "publishedAt": "2026-07-10T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"미사일처럼 박살\" 맥그리거, '익사시켜 주마\" 할러웨이 선글라스 벗겨서 획~.. 살벌했던 복귀전 기자회견",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/10/202607101205773372O",
-          "publishedAt": "2026-07-10T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "5년 만에 옥타곤 복귀하는 맥그리거 “나를 의심하는 사람이 틀렸다는 것을 증명하겠다” 12일 홀러웨이와 리턴매치",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607091609003",
-          "publishedAt": "2026-07-10T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "UFC 세기의 '리턴매치'…정찬성은 할로웨이 vs 김동현은 맥그리거",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1XFewDtWDe",
-        "publishedAt": "2026-07-10T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-10T14:40:00.000Z",
-      "firstSeenAt": "2026-07-10T16:55:51.067Z",
-      "lastSeenAt": "2026-07-10T16:55:51.067Z",
-      "title": "맥그리거",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/1XFewDtWDe"
-    },
-    {
-      "id": "2ac30bb6a5a81e1c",
-      "issueKey": "페리",
-      "issueTitle": "페리",
-      "trendTitle": "페리",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "와일드카드로 출전해 4강行…세계 114위 아서 페리 돌풍",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260709180025643",
-          "publishedAt": "2026-07-10T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘언더독’ 페리 4강 진출에…들썩이는 윔블던",
-          "source": "서울경제신문",
-          "url": "https://www.sedaily.com/article/20065844",
-          "publishedAt": "2026-07-10T13:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'114위의 반란' 페리, 코볼리 꺾고 윔블던 4강 진출",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260709_0002181772&amp;pID=1&amp;cID=&amp;sID=1&amp;type=Main&amp;idx=4",
-          "publishedAt": "2026-07-10T13:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "와일드카드로 출전해 4강行…세계 114위 아서 페리 돌풍",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260709180025643",
-        "publishedAt": "2026-07-10T13:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-10T13:10:00.000Z",
-      "firstSeenAt": "2026-07-10T16:55:51.067Z",
-      "lastSeenAt": "2026-07-10T16:55:51.067Z",
-      "title": "페리",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260709180025643"
-    },
-    {
       "id": "e24bca9902e5a9e8",
       "issueKey": "항서제약",
       "issueTitle": "항서제약",
@@ -1807,12 +1762,19 @@
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "relatedArticles": [
         {
           "title": "리보세라닙 발목 잡은 ‘제네릭 실사’…HLB도 몰랐다",
           "source": "팜이데일리",
           "url": "https://pharm.edaily.co.kr/news/read?newsId=04677286645513208",
+          "publishedAt": "2026-07-12T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "HLB, 항서제약 FDA 서한 확보…\"신속히 대응전략 수립\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926",
           "publishedAt": "2026-07-12T12:40:00.000Z",
           "relevanceScore": 3
         },
@@ -1828,22 +1790,167 @@
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260710_0003704900",
           "publishedAt": "2026-07-12T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "HLB 간암 신약, FDA 승인 위한 정식 실사도 못 받아…이유는?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QZ6QsjgRSe",
+          "publishedAt": "2026-07-12T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "항서제약",
-        "source": "팜이데일리",
-        "url": "https://pharm.edaily.co.kr/news/read?newsId=04677286645513208",
+        "title": "HLB, 항서제약 FDA 서한 확보…\"신속히 대응전략 수립\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926",
         "publishedAt": "2026-07-12T12:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-12T12:40:00.000Z",
       "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
       "title": "항서제약",
-      "source": "팜이데일리",
-      "url": "https://pharm.edaily.co.kr/news/read?newsId=04677286645513208"
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926"
+    },
+    {
+      "id": "0ead8e66d4208be2",
+      "issueKey": "심하은",
+      "issueTitle": "심하은",
+      "trendTitle": "심하은",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이천수 \"속고 있나 했다\" 딸 미적분·경제학 '만점'에 결국 인정",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260707513057",
+          "publishedAt": "2026-07-12T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘이천수 아내’ 심하은, 세계 상위 10% 딸과 LA 여행 “한 번도 속 썩인 적 없어”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712105009500",
+          "publishedAt": "2026-07-12T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이천수♥심하은 딸, 미국 UC 버클리 캠퍼스 방문…영재의 남다른 일상",
+          "source": "뉴시스",
+          "url": "https://nwww.newsis.com/view/NISX20260710_0003703653",
+          "publishedAt": "2026-07-12T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘이천수 아내’ 심하은, 세계 상위 10% 딸과 LA 여행 “한 번도 속 썩인 적 없어”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712105009500",
+        "publishedAt": "2026-07-12T13:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-12T13:50:00.000Z",
+      "firstSeenAt": "2026-07-12T15:59:33.888Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
+      "title": "심하은",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260712105009500"
+    },
+    {
+      "id": "544fc81f66caaa5f",
+      "issueKey": "야닉 시너",
+      "issueTitle": "야닉 시너",
+      "trendTitle": "야닉 시너",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "신네르, 조코비치 완파하고 윔블던 결승행…츠베레프와 격돌",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260711092401816",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘결승 진출 실패’ 조코비치, ‘25번째 메이저 우승 가능성 점점 하락’",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260712/134280494/1",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘2연패 도전’ 신네르, 조코비치에 3대0 완승… 윔블던 결승행",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/11/DEOG7MBQLJEM7DDASNK4LRDYAI/",
+          "publishedAt": "2026-07-12T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "야닉 시너",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260711092401816",
+        "publishedAt": "2026-07-12T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-12T15:50:00.000Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
+      "title": "야닉 시너",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260711092401816"
+    },
+    {
+      "id": "3b4aa4db32069ebd",
+      "issueKey": "졸음 운전",
+      "issueTitle": "졸음 운전",
+      "trendTitle": "졸음 운전",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "7월 졸음운전 사망사고 집중…에어컨 켰다면 ‘이 버튼’ 누르세요",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260712060224207",
+          "publishedAt": "2026-07-12T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고속도로 사망자 83%가 당한 '습관'…\"여름철 운전 시 '이 버튼' 확인하세요\"",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026071212260421354",
+          "publishedAt": "2026-07-12T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "폭우에 내 차 잠기면 보험금 받을까, 장마철 자동차보험 보장 내용 챙겨둬야",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=442081",
+          "publishedAt": "2026-07-12T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "졸음 운전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260712060224207",
+        "publishedAt": "2026-07-12T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-12T12:50:00.000Z",
+      "firstSeenAt": "2026-07-12T19:05:53.700Z",
+      "lastSeenAt": "2026-07-12T19:05:53.700Z",
+      "title": "졸음 운전",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260712060224207"
     },
     {
       "id": "bf00a9de60197813",
@@ -2258,52 +2365,6 @@
       "title": "이재용",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026071069186"
-    },
-    {
-      "id": "0ead8e66d4208be2",
-      "issueKey": "심하은",
-      "issueTitle": "심하은",
-      "trendTitle": "심하은",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이천수 \"속고 있나 했다\" 딸 미적분·경제학 '만점'에 결국 인정",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260707513057",
-          "publishedAt": "2026-07-12T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘이천수 아내’ 심하은, 세계 상위 10% 딸과 LA 여행 “한 번도 속 썩인 적 없어”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260712105009500",
-          "publishedAt": "2026-07-12T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이천수♥심하은 딸, 미국 UC 버클리 캠퍼스 방문…영재의 남다른 일상",
-          "source": "뉴시스",
-          "url": "https://nwww.newsis.com/view/NISX20260710_0003703653",
-          "publishedAt": "2026-07-12T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘이천수 아내’ 심하은, 세계 상위 10% 딸과 LA 여행 “한 번도 속 썩인 적 없어”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260712105009500",
-        "publishedAt": "2026-07-12T13:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-12T13:50:00.000Z",
-      "firstSeenAt": "2026-07-12T15:59:33.888Z",
-      "lastSeenAt": "2026-07-12T15:59:33.888Z",
-      "title": "심하은",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260712105009500"
     }
   ]
 }
