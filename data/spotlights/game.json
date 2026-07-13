@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-12T21:50:33.469Z",
+  "lastUpdatedAt": "2026-07-13T02:49:23.877Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -38,7 +38,7 @@
         {
           "title": "자유도와 가벼움을 중심으로 재편, ‘던전앤파이터 모바일’ 2.0",
           "url": "https://bbs.ruliweb.com/news/read/226851",
-          "meta": "댓글 6"
+          "meta": "댓글 7"
         },
         {
           "title": "그라비티, PC MMORPG ‘라그나로크 온라인’ 유저 초청 토론회 11일(토) 개최",
@@ -46,9 +46,9 @@
           "meta": "댓글 20"
         },
         {
-          "title": "그라비티, MMORPG ‘라그나로크M: Classic’ 국내 유저 간담회 ‘Fun & Fan Day’ 개최 예고",
-          "url": "https://bbs.ruliweb.com/news/read/226637",
-          "meta": "댓글 15"
+          "title": "e스포츠와 굿즈, 루미와 만남까지… ‘이터널 리턴’ 3주년 페스티벌 현장",
+          "url": "https://bbs.ruliweb.com/news/read/226858",
+          "meta": "댓글 16"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "치열한 교전 속 반왕의 역전 스토리! 4차 공성전 주요 이슈",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318402",
-          "meta": "리니지 클래식 · 9분 전"
+          "title": "BIC 2026, 최종 선정작 공개... 오늘부터 ‘얼리버드 티켓’ 예매 시작",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318415",
+          "meta": "36분 전"
         },
         {
-          "title": "우승 거머쥔 한화생명, \"한 명이라도 흔들렸다면, 무너졌을 것\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318401",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "title": "던전앤파이터 모바일, 신규 시즌 방향성 및 업데이트 마일스톤 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318414",
+          "meta": "던전앤파이터 모바일 · 38분 전"
         },
         {
-          "title": "BLG 양대인 감독의 '제우스' 극찬, \"문도 베팅, 아무나 할 수 없어\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318400",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "title": "'오딘: 발할라 라이징', 구글 플레이 매출 순위 1위 기록",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318413",
+          "meta": "오딘: 발할라 라이징 · 43분 전"
         },
         {
-          "title": "한화생명의 승리 요정 '4세트 스웨인'...5세트 간다",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318398",
-          "meta": "리그 오브 레전드 · 5시간 전"
+          "title": "명일방주: 엔드필드 반주년 기념 대규모 업데이트 ‘심연으로’ 16일 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318412",
+          "meta": "명일방주: 엔드필드 · 47분 전"
         },
         {
-          "title": "무너진 한화생명의 상체, 3세트 승자는 BLG",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318397",
-          "meta": "리그 오브 레전드 · 6시간 전"
+          "title": "데브시스터즈, ‘어반브레이크 & 토이콘 서울 2026’과 아트 컬래버레이션 전개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318411",
+          "meta": "쿠키런 · 2시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
