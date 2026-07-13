@@ -4,8 +4,8 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-07-13T12:05:51.079Z",
-  "articleCount": 14,
+  "lastUpdatedAt": "2026-07-13T17:12:11.741Z",
+  "articleCount": 10,
   "articles": [
     {
       "id": "9c1e7394db4e8e11",
@@ -71,15 +71,6 @@
       "tab": "ai"
     },
     {
-      "id": "34f9929923922cf3",
-      "title": "세일즈포스-인포마티카 합병이 바꾸는 엔터프라이즈 AI의 판도",
-      "url": "https://www.itworld.co.kr/article/4194180/%ec%84%b8%ec%9d%bc%ec%a6%88%ed%8f%ac%ec%8a%a4-%ec%9d%b8%ed%8f%ac%eb%a7%88%ed%8b%b0%ec%b9%b4-%ed%95%a9%eb%b3%91%ec%9d%b4-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%97%94%ed%84%b0%ed%94%84%eb%9d%bc%ec%9d%b4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-08T02:15:53.000Z",
-      "summary": "엔터프라이즈 기술 분야에서 AI는 단연 주목의 중심에 서 있다. 하지만 실질적인 무게 중심은 거버넌스, 데이터 소유권, 데이터 품질이 차지한다. 기업이 AI 실험 단계를 넘어 실제 운영 환경 배포로 이행하면서, 신뢰할 수 있는 컨텍스트가 AI 에이전트의 사업 가치 창출 여부를 결정짓는 핵심 변수로 부상하고 있다. 이런 변화는 세일즈포스, 마이크로소프트, 스노우플레이크(Snowflake)...",
-      "tab": "ai"
-    },
-    {
       "id": "7a42d7017ab508f9",
       "title": "크래프톤·올리브영, AI 해커톤 'Cofathon' 공동 개최",
       "url": "https://www.etnews.com/20260708000170",
@@ -104,33 +95,6 @@
       "source": "전자신문 게임",
       "publishedAt": "2026-07-08T01:01:48.000Z",
       "summary": "어드밴텍 임베디드(Embedded) 사업부는 컴퓨터 온 모듈(COM), 싱글 보드 컴퓨터(SBC), 산업용 마더보드 및 엣지 인텔리전스 시스템 등을 기반으로 디바이스의 핵심 컴퓨팅 두뇌부터 디스플레이까지 아우르는 통합 임베디드 솔루션을 제공한다. 관련 솔루션은 의료 및 헬스케어 기기, 로보틱스, AI 추론, 제조, 디지털 사이니지, 게이밍 등 다양한 엣지 컴퓨팅 및 IoT 현장에 적용되...",
-      "tab": "ai"
-    },
-    {
-      "id": "c7b57cefa3d4cdd1",
-      "title": "“문서 아닌 운영에 새겨야” AI 책임 체계를 확보하는 6가지 방법",
-      "url": "https://www.itworld.co.kr/article/4193507/%eb%ac%b8%ec%84%9c-%ec%95%84%eb%8b%8c-%ec%9a%b4%ec%98%81%ec%97%90-%ec%83%88%ea%b2%a8%ec%95%bc-ai-%ec%b1%85%ec%9e%84-%ec%b2%b4%ea%b3%84%eb%a5%bc-%ed%99%95%eb%b3%b4%ed%95%98%eb%8a%94-6%ea%b0%80.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-07T01:53:26.000Z",
-      "summary": "AI 시스템이 프로덕션 환경에 도입되어 실질적인 행동을 취하기 시작하면서, 기업은 책임 소재 파악이 훨씬 더 어려워진다는 사실을 빠르게 깨닫고 있다. 기존 엔터프라이즈 소프트웨어와 달리, AI 도구는 데이터, API, 비즈니스 워크플로와 동적으로 상호작용하면서 예측 불가능한 결과를 낳을 수 있다. 엔터프라이즈 AI 구축 및 거버넌스를 지원하는 IT 솔루션 업체 SHI 인터내셔널(SHI...",
-      "tab": "ai"
-    },
-    {
-      "id": "18260e7c8e0db270",
-      "title": "오픈텍스트, 국경을 넘지 않는 AI 설계의 원칙을 제시하다",
-      "url": "https://www.itworld.co.kr/article/4192980/%ec%98%a4%ed%94%88%ed%85%8d%ec%8a%a4%ed%8a%b8-%ea%b5%ad%ea%b2%bd%ec%9d%84-%eb%84%98%ec%a7%80-%ec%95%8a%eb%8a%94-ai-%ec%84%a4%ea%b3%84%ec%9d%98-%ec%9b%90%ec%b9%99%ec%9d%84-%ec%a0%9c%ec%8b%9c%ed%95%98.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-06T23:32:12.000Z",
-      "summary": "약 150개국이 국가 데이터 프라이버시 법을 시행 중인 가운데 AI 시스템의 운영 환경이 근본적으로 변하고 있다. EU의 AI법은 2026년 8월부터 고위험 AI 시스템에 대한 규정을 본격 적용하며, 데이터 보관 위치를 넘어 AI 추론 실행 위치, 기업 데이터의 기술적 격리 방식까지 규제 범위를 확대하고 있다. 이러한 흐름 속에서 오픈텍스트는 IT 운영팀의 핵심 과제를 진단했다. 데이터...",
-      "tab": "ai"
-    },
-    {
-      "id": "b3c22c43f3954d29",
-      "title": "평가에서 에이전트까지, AI 관찰가능성을 재점검하라",
-      "url": "https://www.itworld.co.kr/article/4192941/%ed%8f%89%ea%b0%80%ec%97%90%ec%84%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b9%8c%ec%a7%80-ai-%ea%b4%80%ec%b0%b0%ea%b0%80%eb%8a%a5%ec%84%b1%ec%9d%84-%ec%9e%ac%ec%a0%90%ea%b2%80%ed%95%98%eb%9d%bc.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-06T01:47:09.000Z",
-      "summary": "많은 기업이 앞다퉈 AI를 프로덕션 환경에 도입하면서, 기존 소프트웨어 모니터링에 활용해온 도구들이 AI 시스템에는 그대로 적용되지 않는다는 사실을 깨닫고 있다. 문제는 근본적인 데 있다. AI는 소프트웨어처럼 장애를 일으키지 않는다. 명확한 오류 코드를 던지거나 예측 가능한 실행 경로를 따르지 않는다. AI는 드리프트하고, 환각을 일으키며, 포착하기 어렵고 간헐적으로 나타나 재현조차...",
       "tab": "ai"
     }
   ]
