@@ -7,483 +7,482 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-13T06:19:21.053Z",
+  "lastUpdatedAt": "2026-07-13T12:05:51.079Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "2a75fc76bce5e6bb",
-      "issueKey": "매매",
-      "issueTitle": "매매",
-      "trendTitle": "매매",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "0573037165df9cf5",
+      "issueKey": "석유",
+      "issueTitle": "석유",
+      "trendTitle": "석유",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[속보] 코스피 7천선 무너져…8% 폭락, 서킷 브레이커 발동",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1267976.html",
-          "publishedAt": "2026-07-13T05:10:00.000Z",
+          "title": "산업부 \"7~8월 원유 도입 100% 확보…중동 리스크 제한적\"",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370245",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[속보]코스피 장중 7000선 붕괴…“국내서 SK하닉 공매도”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260713/134286909/1",
-          "publishedAt": "2026-07-13T05:10:00.000Z",
+          "title": "호르무즈 재봉쇄…당장 원유 수급 대란 없지만 ‘긴장’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607132053005",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713143150889",
-          "publishedAt": "2026-07-13T05:10:00.000Z",
+          "title": "교전 재개에 국제유가 급등...트럼프는 '황당' 주장",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202607131812364606&amp;s_mcd=0104",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "매매",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/economy/finance/1267976.html",
-        "publishedAt": "2026-07-13T05:10:00.000Z",
+        "title": "석유",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370245",
+        "publishedAt": "2026-07-13T10:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-13T05:10:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "매매",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1267976.html",
+      "publishedAt": "2026-07-13T10:50:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "석유",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=370245",
       "rank": 1
     },
     {
-      "id": "ead4f51bf6fba539",
-      "issueKey": "구속",
-      "issueTitle": "구속",
-      "trendTitle": "구속",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "대법 “구속·압수영장 ‘검사 지휘권’ 유지 필요…재판 집행지휘”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1267972.html",
-          "publishedAt": "2026-07-13T05:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[이충재의 인사이트] '특사경' 2만명은 누가 통제하나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713064237841",
-          "publishedAt": "2026-07-13T05:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "대법 \"구속·압수수색영장 '검사 지휘' 형소법 조항 유지돼야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260713055100004",
-          "publishedAt": "2026-07-13T05:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대법 “구속·압수영장 ‘검사 지휘권’ 유지 필요…재판 집행지휘”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1267972.html",
-        "publishedAt": "2026-07-13T05:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-13T05:00:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "구속",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1267972.html",
-      "rank": 2
-    },
-    {
-      "id": "727853b261296cda",
-      "issueKey": "코리아 원팀",
-      "issueTitle": "코리아 원팀",
-      "trendTitle": "코리아 원팀",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"코리아 원팀은 없었다\"…60조 캐나다 잠수함전 진짜 패인 [조철오의 방산노트]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607120024i",
-          "publishedAt": "2026-07-13T04:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"소나 음파 튕겨 지운다\"…베일벗은 獨 TKMS '212CD급' 스텔스핵심",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607130652006575e8b8a793f7_1",
-          "publishedAt": "2026-07-13T04:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"우린 빠진다\" 캐나다서 철수‥한화 손절에 현지 '술렁'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6836552_36925.html",
-          "publishedAt": "2026-07-13T04:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"코리아 원팀은 없었다\"…60조 캐나다 잠수함전 진짜 패인 [조철오의 방산노트]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607120024i",
-        "publishedAt": "2026-07-13T04:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-13T04:50:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "코리아 원팀",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202607120024i",
-      "rank": 3
-    },
-    {
-      "id": "a29b1e674f6e9192",
-      "issueKey": "오늘",
-      "issueTitle": "오늘",
-      "trendTitle": "별자리",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[오늘의 운세] 7월 13일 월요일 (음력 5월 29일 戊子)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/07/12/PTFGAWFJYVEXJBXPOW6FCV7JOM/",
-          "publishedAt": "2026-07-13T04:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[오늘의 운세] 2026년 07월 13일 별자리 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202607130000000002",
-          "publishedAt": "2026-07-13T04:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[오늘의 운세/7월 13일]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260713/134284524/2",
-          "publishedAt": "2026-07-13T04:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[오늘의 운세] 7월 13일 월요일 (음력 5월 29일 戊子)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/07/12/PTFGAWFJYVEXJBXPOW6FCV7JOM/",
-        "publishedAt": "2026-07-13T04:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-13T04:30:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "오늘",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/07/12/PTFGAWFJYVEXJBXPOW6FCV7JOM/",
-      "rank": 4
-    },
-    {
-      "id": "3d27d772c00296dc",
-      "issueKey": "긴급 체포",
-      "issueTitle": "긴급 체포",
-      "trendTitle": "긴급 체포",
+      "id": "e214044c4a12453a",
+      "issueKey": "낮엔 머드에",
+      "issueTitle": "낮엔 머드에",
+      "trendTitle": "낮엔 머드에",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "계단 내려오던 이웃 흉기로 찌른 60대 체포",
+          "title": "낮엔 머드에, 밤엔 EDM에 빠진다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607122047005",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "낮엔 머드, 밤엔 EDM···‘대천해수욕장’이 들썩인다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/plehxImjH9",
-          "publishedAt": "2026-07-13T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "인천 서해구 빌라서 ‘소음갈등’ 이웃에 흉기 휘두른 60대 남성 체포",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1767213",
-          "publishedAt": "2026-07-13T04:20:00.000Z",
+          "url": "https://v.daum.net/v/20260712101809810",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "소음 갈등에 주민에 흉기 휘두른 60대 남성 검거",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260713/134285205/1",
-          "publishedAt": "2026-07-13T04:20:00.000Z",
+          "title": "위기를 기회로 바꾼 글로벌 여름 축제 ‘보령 머드축제’ [지식용어]",
+          "source": "시선뉴스",
+          "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=242042",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "긴급 체포",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/plehxImjH9",
-        "publishedAt": "2026-07-13T04:20:00.000Z",
+        "title": "낮엔 머드에, 밤엔 EDM에 빠진다",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607122047005",
+        "publishedAt": "2026-07-13T10:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-13T04:20:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "긴급 체포",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/plehxImjH9",
-      "rank": 5
+      "publishedAt": "2026-07-13T10:50:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "낮엔 머드에",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202607122047005",
+      "rank": 2
     },
     {
-      "id": "608859dada11aeaa",
-      "issueKey": "최성국 아내",
-      "issueTitle": "최성국 아내",
-      "trendTitle": "조선의 사랑꾼",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "최성국 아내, 뮤지컬 지망생 출신 반전…역대급 고음 폭발(조선의사랑꾼)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260713/134287703/1",
-          "publishedAt": "2026-07-13T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "최성국 아내, 역대급 고음 무대…김국진 \"보통 실력자 아냐\" (사랑꾼)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/511343",
-          "publishedAt": "2026-07-13T04:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "최성국 아내, ‘조선의 사랑꾼’ 특집에서 고난도 곡 고음 무대 선보인다",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16132865",
-          "publishedAt": "2026-07-13T04:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "최성국 아내, 뮤지컬 지망생 출신 반전…역대급 고음 폭발(조선의사랑꾼)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260713/134287703/1",
-        "publishedAt": "2026-07-13T04:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-13T04:10:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "최성국 아내",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260713/134287703/1",
-      "rank": 6
-    },
-    {
-      "id": "b78877a212757eab",
-      "issueKey": "new york times",
-      "issueTitle": "new york times",
-      "trendTitle": "new york times",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Times Journalists Subpoenaed as Trump Escalates Pressure on Media - The New York Times",
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
-          "publishedAt": "2026-07-13T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Trump Issues Furious Subpoenas to NYT Reporters Who Criticized New Air Force One Security",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026071213185275269",
-          "publishedAt": "2026-07-13T04:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "The U.S. Department of Justice issued a subpoena to reporters of the New York Times (NYT) asking the..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/world/12096389",
-          "publishedAt": "2026-07-13T04:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Times Journalists Subpoenaed as Trump Escalates Pressure on Media - The New York Times",
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
-        "publishedAt": "2026-07-13T04:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-13T04:10:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "new york times",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html",
-      "rank": 7
-    },
-    {
-      "id": "6e5a317dffcdc2ab",
-      "issueKey": "소유권",
-      "issueTitle": "소유권",
-      "trendTitle": "소유권",
+      "id": "b2eb13c61b299154",
+      "issueKey": "gpt 5 6",
+      "issueTitle": "gpt-5.6",
+      "trendTitle": "gpt-5.6",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "42억에 산 땅, 돈은 못 돌려받고 소유권은 반납하라?…대법 판단은",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260713060132035",
-          "publishedAt": "2026-07-13T04:00:00.000Z",
+          "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/gpt-5-6/",
+          "publishedAt": "2026-07-13T10:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "무효된 종중 토지매매…대법 \"땅 돌려받되 귀속 매매대금도 반환\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260712026800004",
-          "publishedAt": "2026-07-13T04:00:00.000Z",
+          "title": "Axios C-Suite: 4 big AI moves",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/07/13/ai-voice-agents-chatgpt",
+          "publishedAt": "2026-07-13T10:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[판결] 무자격 회장이 판 종중 땅값, 종중으로 간 만큼은 반환해야",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=223387",
-          "publishedAt": "2026-07-13T04:00:00.000Z",
+          "title": "OpenAI, Meta, SpaceXAI Compete for More Cost-Efficient AI Models",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-12/openai-meta-spacexai-compete-for-more-cost-efficient-ai-models",
+          "publishedAt": "2026-07-13T10:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "42억에 산 땅, 돈은 못 돌려받고 소유권은 반납하라?…대법 판단은",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260713060132035",
-        "publishedAt": "2026-07-13T04:00:00.000Z",
+        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+        "source": "OpenAI",
+        "url": "https://openai.com/index/gpt-5-6/",
+        "publishedAt": "2026-07-13T10:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-13T04:00:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "소유권",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260713060132035",
-      "rank": 8
+      "publishedAt": "2026-07-13T10:40:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "gpt-5.6",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "rank": 3
     },
     {
-      "id": "196ba51dc6297cea",
-      "issueKey": "박지원",
-      "issueTitle": "박지원",
-      "trendTitle": "박지원",
+      "id": "ae7f4854c17a926e",
+      "issueKey": "토토",
+      "issueTitle": "토토",
+      "trendTitle": "토토",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "사상 첫 폭염중대경보 발효…정부, 범정부 폭염 총력대응",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968049",
+          "publishedAt": "2026-07-13T10:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[날씨] 전국 154곳 열대야주의보…오늘도 밤더위",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260713204114xqf",
+          "publishedAt": "2026-07-13T10:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "그늘도, 해가 져도 소용없다‥기온보다 무서운 '습도의 습격'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6837106_37004.html",
+          "publishedAt": "2026-07-13T10:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "토토",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968049",
+        "publishedAt": "2026-07-13T10:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T10:30:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "토토",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968049",
+      "rank": 4
+    },
+    {
+      "id": "ae7c07dfe54bf5e2",
+      "issueKey": "코스피 폭락",
+      "issueTitle": "코스피 폭락",
+      "trendTitle": "코스피 폭락",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"바닥 어디\" 7000도 내준 코스피, 줍줍 기회?…\"사라! 단\" 전문가 조언",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼전 10%·닉스 15% 빠졌다…\"계좌가 녹아내려요\" 개미들 패닉",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026071320596",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘또 블랙 먼데이’ 코스피, 9% 폭락해 7000선 반납…SK하닉 역대 최대 하락",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607131724001",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "코스피 폭락",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179",
+        "publishedAt": "2026-07-13T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T10:10:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "코스피 폭락",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179",
+      "rank": 5
+    },
+    {
+      "id": "fd6460200b3e774c",
+      "issueKey": "틸레만스",
+      "issueTitle": "틸레만스",
+      "trendTitle": "틸레만스",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "중원 보강 절실한 맨유, 벨기에 핵심멤버 틸레만스 영입 임박",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260713n31618",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'3선 초토화' 맨유 깜짝 영입 성공...에데르송 영입 좌절→틸레만스 바이아웃 700억 지불! HERE WE GO~",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=690467",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'에데르송 불발' 맨유의 차선책은 코네… 맨유 영입 명단 포함",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713143747260",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "중원 보강 절실한 맨유, 벨기에 핵심멤버 틸레만스 영입 임박",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260713n31618",
+        "publishedAt": "2026-07-13T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T10:10:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "틸레만스",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260713n31618",
+      "rank": 6
+    },
+    {
+      "id": "83d1a46f11735a14",
+      "issueKey": "전쟁",
+      "issueTitle": "전쟁",
+      "trendTitle": "전쟁",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "전쟁의 미래와 미래의 전쟁 [세상읽기]",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/opinion/column/1268081.html",
+          "publishedAt": "2026-07-13T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"멈추지 않는 이란전쟁…패트리엇·토마호크 소진에 美재고 위기\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/GW6znySrHm",
+          "publishedAt": "2026-07-13T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"북중 대비는 어떻게\"…이란전 격화에 美무기 부족 우려 재고조",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260713123900009",
+          "publishedAt": "2026-07-13T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "전쟁의 미래와 미래의 전쟁 [세상읽기]",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/opinion/column/1268081.html",
+        "publishedAt": "2026-07-13T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T10:00:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "전쟁",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/opinion/column/1268081.html",
+      "rank": 7
+    },
+    {
+      "id": "280865cc3d3f77a4",
+      "issueKey": "일본",
+      "issueTitle": "파도",
+      "trendTitle": "파도",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "국민의힘 김재원 “조국 야호!”에 웃음 터진 최고위 [이런뉴스]",
+          "title": "'폭포 역주행' 시킨 위력…태풍 '바비'에 쑥대밭 된 중국",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260713112246193",
-          "publishedAt": "2026-07-13T03:50:00.000Z",
+          "url": "https://v.daum.net/v/20260713202719277",
+          "publishedAt": "2026-07-13T09:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "박지원, “리센느 저격 아냐” 해명 조국에 “바보같은 짓…고집불통 되면 미래 없어”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260713/134287071/1",
-          "publishedAt": "2026-07-13T03:50:00.000Z",
+          "title": "'10m 파도 쾅' 200만 대피‥일본·대만 치고 '中 관통'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6837000_36925.html",
+          "publishedAt": "2026-07-13T09:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "박지원 “조국, 바보 같은 짓”…‘무섭노’ 논란에 “제발 하지 말라”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1267942.html",
-          "publishedAt": "2026-07-13T03:50:00.000Z",
+          "title": "중국 허 찌르고 소용돌이치며 한반도로...평양 '위태' [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202607131923209113",
+          "publishedAt": "2026-07-13T09:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "박지원, “리센느 저격 아냐” 해명 조국에 “바보같은 짓…고집불통 되면 미래 없어”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260713/134287071/1",
-        "publishedAt": "2026-07-13T03:50:00.000Z",
+        "title": "'10m 파도 쾅' 200만 대피‥일본·대만 치고 '中 관통'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6837000_36925.html",
+        "publishedAt": "2026-07-13T09:30:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-07-13T03:50:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "박지원",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Politics/article/all/20260713/134287071/1",
-      "rank": 9
+      "publishedAt": "2026-07-13T09:30:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "파도",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/world/article/6837000_36925.html",
+      "rank": 8
     },
     {
-      "id": "2b93747e63a5ad19",
-      "issueKey": "코스피 주가",
-      "issueTitle": "코스피 주가",
-      "trendTitle": "코스피 주가",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "4aa11385d5e83038",
+      "issueKey": "오상진",
+      "issueTitle": "오상진",
+      "trendTitle": "오상진",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "주가는 올랐는데 더 싸졌다?…코스피 공식에 어리둥절",
+          "title": "\"오상진 똑 닮은 잘생긴 아들\" 벌써 100일, 첫째 땐 몰랐던 김소영의 깨달음",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260713132700938",
-          "publishedAt": "2026-07-13T03:50:00.000Z",
+          "url": "https://v.daum.net/v/20260713130039272",
+          "publishedAt": "2026-07-13T09:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "美 블룸버그 \"세계 최고 수준 한국 주식, 여전히 ’저평가’…매력적인 투자 기회\" By The Guru",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2012625",
-          "publishedAt": "2026-07-13T03:50:00.000Z",
+          "title": "김소영♥오상진, 생후 3개월 둘째 아들 벌써부터 완성형 이목구비 '깜짝' [순간포착] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/13/MQ2DEZTFMUYTCYJQME2TSM3FGE/",
+          "publishedAt": "2026-07-13T09:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“7300선이 바닥…AI·반도체 대표주 다시 담아라” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/stock/stock_general/2026/07/13/IACJIB7QXZFIBJ5ZMH7PNY6Z7I/",
-          "publishedAt": "2026-07-13T03:50:00.000Z",
+          "title": "'70억 사업가' 김소영♥오상진, 엄마 똑 닮은 '역대급 붕어빵 비주얼' [소셜in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/511354",
+          "publishedAt": "2026-07-13T09:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "코스피 주가",
+        "title": "\"오상진 똑 닮은 잘생긴 아들\" 벌써 100일, 첫째 땐 몰랐던 김소영의 깨달음",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260713132700938",
-        "publishedAt": "2026-07-13T03:50:00.000Z",
+        "url": "https://v.daum.net/v/20260713130039272",
+        "publishedAt": "2026-07-13T09:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-13T03:50:00.000Z",
-      "firstSeenAt": "2026-07-13T06:19:21.053Z",
-      "lastSeenAt": "2026-07-13T06:19:21.053Z",
-      "title": "코스피 주가",
+      "publishedAt": "2026-07-13T09:20:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "오상진",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260713132700938",
-      "rank": 10
+      "url": "https://v.daum.net/v/20260713130039272",
+      "rank": 9
     }
   ],
   "history": [
+    {
+      "id": "ae7c07dfe54bf5e2",
+      "issueKey": "코스피 폭락",
+      "issueTitle": "코스피 폭락",
+      "trendTitle": "코스피 폭락",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"바닥 어디\" 7000도 내준 코스피, 줍줍 기회?…\"사라! 단\" 전문가 조언",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼전 10%·닉스 15% 빠졌다…\"계좌가 녹아내려요\" 개미들 패닉",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026071320596",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘또 블랙 먼데이’ 코스피, 9% 폭락해 7000선 반납…SK하닉 역대 최대 하락",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607131724001",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "코스피 폭락",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179",
+        "publishedAt": "2026-07-13T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T10:10:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "코스피 폭락",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/stock/2026/07/13/2026071315595874179"
+    },
     {
       "id": "0981e88d96ecc460",
       "issueKey": "홀란",
@@ -1104,52 +1103,6 @@
       "url": "https://v.daum.net/v/20260711153909228"
     },
     {
-      "id": "f399644c799f19d8",
-      "issueKey": "이효리",
-      "issueTitle": "이효리",
-      "trendTitle": "이효리",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이효리 결국 참지 못했다…故 휘성 '안 되나요'에 눈물",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260711_0003705176",
-          "publishedAt": "2026-07-11T06:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'해피투게더', 金 밤 위로 선사한 국민예능의 귀환! 최고 시청률 4.8% [종합]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071108507271910",
-          "publishedAt": "2026-07-11T06:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'해피투게더' 첫방부터 터졌다…2026년 KBS 예능 최고 오프닝 스코어",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/11/GEYDCZJSGEZWIOJSMNRTKYJRHE/",
-          "publishedAt": "2026-07-11T06:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이효리 결국 참지 못했다…故 휘성 '안 되나요'에 눈물",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260711_0003705176",
-        "publishedAt": "2026-07-11T06:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T06:40:00.000Z",
-      "firstSeenAt": "2026-07-11T07:56:08.928Z",
-      "lastSeenAt": "2026-07-11T07:56:08.928Z",
-      "title": "이효리",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260711_0003705176"
-    },
-    {
       "id": "7f1d49243ee66277",
       "issueKey": "msi",
       "issueTitle": "msi",
@@ -1201,6 +1154,144 @@
       "title": "msi",
       "source": "조선일보",
       "url": "https://www.chosun.com/english/sports-en/2026/07/12/N6VNHB3CFBCBVLTMGQSLPMU3RQ/"
+    },
+    {
+      "id": "0573037165df9cf5",
+      "issueKey": "석유",
+      "issueTitle": "석유",
+      "trendTitle": "석유",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "산업부 \"7~8월 원유 도입 100% 확보…중동 리스크 제한적\"",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370245",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "호르무즈 재봉쇄…당장 원유 수급 대란 없지만 ‘긴장’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607132053005",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "교전 재개에 국제유가 급등...트럼프는 '황당' 주장",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202607131812364606&amp;s_mcd=0104",
+          "publishedAt": "2026-07-13T10:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "석유",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=370245",
+        "publishedAt": "2026-07-13T10:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T10:50:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "석유",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=370245"
+    },
+    {
+      "id": "280865cc3d3f77a4",
+      "issueKey": "일본",
+      "issueTitle": "파도",
+      "trendTitle": "파도",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'폭포 역주행' 시킨 위력…태풍 '바비'에 쑥대밭 된 중국",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713202719277",
+          "publishedAt": "2026-07-13T09:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'10m 파도 쾅' 200만 대피‥일본·대만 치고 '中 관통'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6837000_36925.html",
+          "publishedAt": "2026-07-13T09:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "중국 허 찌르고 소용돌이치며 한반도로...평양 '위태' [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202607131923209113",
+          "publishedAt": "2026-07-13T09:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'10m 파도 쾅' 200만 대피‥일본·대만 치고 '中 관통'",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6837000_36925.html",
+        "publishedAt": "2026-07-13T09:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-13T09:30:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "파도",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/world/article/6837000_36925.html"
+    },
+    {
+      "id": "4aa11385d5e83038",
+      "issueKey": "오상진",
+      "issueTitle": "오상진",
+      "trendTitle": "오상진",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"오상진 똑 닮은 잘생긴 아들\" 벌써 100일, 첫째 땐 몰랐던 김소영의 깨달음",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713130039272",
+          "publishedAt": "2026-07-13T09:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김소영♥오상진, 생후 3개월 둘째 아들 벌써부터 완성형 이목구비 '깜짝' [순간포착] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/13/MQ2DEZTFMUYTCYJQME2TSM3FGE/",
+          "publishedAt": "2026-07-13T09:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'70억 사업가' 김소영♥오상진, 엄마 똑 닮은 '역대급 붕어빵 비주얼' [소셜in]",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/511354",
+          "publishedAt": "2026-07-13T09:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"오상진 똑 닮은 잘생긴 아들\" 벌써 100일, 첫째 땐 몰랐던 김소영의 깨달음",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260713130039272",
+        "publishedAt": "2026-07-13T09:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T09:20:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "오상진",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260713130039272"
     },
     {
       "id": "608859dada11aeaa",
@@ -1525,236 +1616,6 @@
       "url": "https://www.donga.com/news/Sports/article/all/20260711/134279470/1"
     },
     {
-      "id": "5e3234f9373e7e86",
-      "issueKey": "메건",
-      "issueTitle": "메건",
-      "trendTitle": "메건",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“아버지와 화해할래” 영국 해리왕자, 찰스3세 접견에 4년 만에 두 자녀 동반",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711111200227",
-          "publishedAt": "2026-07-11T09:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "英 해리왕자, 가족과 찰스3세 국왕 접견…\"관계회복 신호\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260711025700009",
-          "publishedAt": "2026-07-11T09:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "英 해리 왕자, 메건·자녀와 영국 방문…찰스 3세와 수년 만 상봉",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1666025",
-          "publishedAt": "2026-07-11T09:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "英 해리 왕자, 메건·자녀와 영국 방문…찰스 3세와 수년 만 상봉",
-        "source": "데일리안",
-        "url": "https://www.dailian.co.kr/news/view/1666025",
-        "publishedAt": "2026-07-11T09:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-11T09:00:00.000Z",
-      "firstSeenAt": "2026-07-11T07:56:08.928Z",
-      "lastSeenAt": "2026-07-11T10:14:34.023Z",
-      "title": "메건",
-      "source": "데일리안",
-      "url": "https://www.dailian.co.kr/news/view/1666025"
-    },
-    {
-      "id": "24a232d3084359e4",
-      "issueKey": "경찰서장",
-      "issueTitle": "경찰서장",
-      "trendTitle": "경찰서장",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[단독] 장윤기 수사팀원들 충격 진술‥\"'강간살인죄' 적용, 서장이 막았다\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6836716_36918.html",
-          "publishedAt": "2026-07-11T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "검·경 모두 '경찰 윗선' 수사 속도...\"전면 재수사 하자\"는 민주당",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711190529176",
-          "publishedAt": "2026-07-11T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[전국]광주경찰청 지휘부도 수사...경찰서장·과장 피의자로 입건",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0115_202607111752055268_005.html",
-          "publishedAt": "2026-07-11T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[전국]광주경찰청 지휘부도 수사...경찰서장·과장 피의자로 입건",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0115_202607111752055268_005.html",
-        "publishedAt": "2026-07-11T08:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-11T08:40:00.000Z",
-      "firstSeenAt": "2026-07-11T10:14:34.023Z",
-      "lastSeenAt": "2026-07-11T10:14:34.023Z",
-      "title": "경찰서장",
-      "source": "YTN",
-      "url": "https://www.ytn.co.kr/_cs/_ln_0115_202607111752055268_005.html"
-    },
-    {
-      "id": "19a2f9eed79c1764",
-      "issueKey": "애플",
-      "issueTitle": "애플",
-      "trendTitle": "애플",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260711084121",
-          "publishedAt": "2026-07-11T06:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "챗GPT가 아이폰 설계 훔쳤나…파트너였던 애플·오픈AI, 이젠 법정으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260711164614061",
-          "publishedAt": "2026-07-11T06:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "애플, 오픈AI에 '블록버스터급' 기밀 탈취 소송",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202607111358337641",
-          "publishedAt": "2026-07-11T06:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "애플, 오픈AI 전격 제소…\"영업비밀 훔쳤다\"",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260711084121",
-        "publishedAt": "2026-07-11T06:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T06:20:00.000Z",
-      "firstSeenAt": "2026-07-11T07:56:08.928Z",
-      "lastSeenAt": "2026-07-11T07:56:08.928Z",
-      "title": "애플",
-      "source": "지디넷코리아",
-      "url": "https://zdnet.co.kr/view/?no=20260711084121"
-    },
-    {
-      "id": "d3e9680ca2c95a0e",
-      "issueKey": "코너 맥그리거",
-      "issueTitle": "코너 맥그리거",
-      "trendTitle": "코너 맥그리거",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"할로웨이 10초 안에 박살\" 맥그리거, '5년 만의 복귀전' 계체 통과…내일(12일) 빅매치 열린다 [UFC 329]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260711n06045",
-          "publishedAt": "2026-07-11T06:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "UFC 세기의 '리턴매치'…정찬성은 할로웨이 vs 김동현은 맥그리거",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260710164800484",
-          "publishedAt": "2026-07-11T06:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"미사일처럼 박살\" 맥그리거, '익사시켜 주마\" 할러웨이 선글라스 벗겨서 획~.. 살벌했던 복귀전 기자회견",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/10/202607101205773372O",
-          "publishedAt": "2026-07-11T06:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "코너 맥그리거",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260711n06045",
-        "publishedAt": "2026-07-11T06:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T06:00:00.000Z",
-      "firstSeenAt": "2026-07-11T07:56:08.928Z",
-      "lastSeenAt": "2026-07-11T07:56:08.928Z",
-      "title": "코너 맥그리거",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260711n06045"
-    },
-    {
-      "id": "bcd89bd5f49bed80",
-      "issueKey": "도경완",
-      "issueTitle": "도경완",
-      "trendTitle": "도경완",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "장윤정 모친 논란 후…도경완, 첫 심경 고백 \"집 전체가 어두워져\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115",
-          "publishedAt": "2026-07-11T05:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "도경완, ♥장윤정 친모 논란 후 첫 심경…“집 전체가 어두워질 때도”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260711/134278929/1",
-          "publishedAt": "2026-07-11T05:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "장윤정·도경완 측, 母 사기 논란에 심경 고백",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260711n08417",
-          "publishedAt": "2026-07-11T05:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "장윤정 모친 논란 후…도경완, 첫 심경 고백 \"집 전체가 어두워져\"",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115",
-        "publishedAt": "2026-07-11T05:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-11T05:50:00.000Z",
-      "firstSeenAt": "2026-07-11T07:56:08.928Z",
-      "lastSeenAt": "2026-07-11T07:56:08.928Z",
-      "title": "도경완",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/07/11/2026071113192953115"
-    },
-    {
       "id": "544fc81f66caaa5f",
       "issueKey": "야닉 시너",
       "issueTitle": "야닉 시너",
@@ -1880,6 +1741,98 @@
       "title": "항서제약",
       "source": "머니투데이",
       "url": "https://www.mt.co.kr/stock/2026/07/12/2026071210462339926"
+    },
+    {
+      "id": "ae7f4854c17a926e",
+      "issueKey": "토토",
+      "issueTitle": "토토",
+      "trendTitle": "토토",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "사상 첫 폭염중대경보 발효…정부, 범정부 폭염 총력대응",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968049",
+          "publishedAt": "2026-07-13T10:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[날씨] 전국 154곳 열대야주의보…오늘도 밤더위",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260713204114xqf",
+          "publishedAt": "2026-07-13T10:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "그늘도, 해가 져도 소용없다‥기온보다 무서운 '습도의 습격'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6837106_37004.html",
+          "publishedAt": "2026-07-13T10:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "토토",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968049",
+        "publishedAt": "2026-07-13T10:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T10:30:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "토토",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968049"
+    },
+    {
+      "id": "fd6460200b3e774c",
+      "issueKey": "틸레만스",
+      "issueTitle": "틸레만스",
+      "trendTitle": "틸레만스",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "중원 보강 절실한 맨유, 벨기에 핵심멤버 틸레만스 영입 임박",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260713n31618",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'3선 초토화' 맨유 깜짝 영입 성공...에데르송 영입 좌절→틸레만스 바이아웃 700억 지불! HERE WE GO~",
+          "source": "인터풋볼",
+          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=690467",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'에데르송 불발' 맨유의 차선책은 코네… 맨유 영입 명단 포함",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260713143747260",
+          "publishedAt": "2026-07-13T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "중원 보강 절실한 맨유, 벨기에 핵심멤버 틸레만스 영입 임박",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260713n31618",
+        "publishedAt": "2026-07-13T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-13T10:10:00.000Z",
+      "firstSeenAt": "2026-07-13T12:05:51.079Z",
+      "lastSeenAt": "2026-07-13T12:05:51.079Z",
+      "title": "틸레만스",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260713n31618"
     },
     {
       "id": "a29b1e674f6e9192",
