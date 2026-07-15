@@ -7,18 +7,394 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-15T13:43:28.709Z",
+  "lastUpdatedAt": "2026-07-15T16:21:56.510Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
+      "id": "ed3b11f543314f06",
+      "issueKey": "높인다던 소아약",
+      "issueTitle": "높인다던 소아약",
+      "trendTitle": "높인다던 소아약",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"무늬만 우대\" 약값 높인다던 소아약·퇴장방지약 기준 '비현실적' 비판",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/07/15/2026071510513352340",
+          "publishedAt": "2026-07-15T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[기자수첩] '선(先) 인하 후(後) 보상'…앞뒤 없는 '약가 개편안'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260714132009976",
+          "publishedAt": "2026-07-15T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“R&D 투자 늘리라는데”…‘약가인하’ 시행 앞두고 불확실성 커진 제약업계",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202607140164",
+          "publishedAt": "2026-07-15T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"무늬만 우대\" 약값 높인다던 소아약·퇴장방지약 기준 '비현실적' 비판",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/thebio/2026/07/15/2026071510513352340",
+        "publishedAt": "2026-07-15T14:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T14:50:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "높인다던 소아약",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/thebio/2026/07/15/2026071510513352340",
+      "rank": 1
+    },
+    {
+      "id": "aa126725aaccd092",
+      "issueKey": "자외선 차단제",
+      "issueTitle": "자외선 차단제",
+      "trendTitle": "자외선 차단제",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“다이소 선크림 10개 중 8개가 기준 미달” 유튜버 주장에 다이소 반박 ‘진실 공방’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607151027001",
+          "publishedAt": "2026-07-15T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "다이소, 자외선차단제 논란 반박…\"국가기관 기준 재검증 추진\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/living/2026/07/15/2026071508234975529",
+          "publishedAt": "2026-07-15T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'다이소 선크림 왜 이래' 난리 난 유튜브…\"3000만원 주고 임상시험\" 'SPF 미달' 논란의 진실은[Why&Next]",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026071416403003128",
+          "publishedAt": "2026-07-15T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "자외선 차단제",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607151027001",
+        "publishedAt": "2026-07-15T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T14:40:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "자외선 차단제",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202607151027001",
+      "rank": 2
+    },
+    {
+      "id": "dc859832f555405f",
+      "issueKey": "김성령",
+      "issueTitle": "김성령",
+      "trendTitle": "김성령",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'라스' 김성령 \"하지원과 대학교 축제서 헌팅…이제 안 먹혀\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715225037828",
+          "publishedAt": "2026-07-15T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김성령, 59세 맞아?..완벽 S라인 몸매 “일주일 5일 운동” (‘라스’)[순간포착] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/15/HEYDIN3DMVTGCMZXMQ2GCMJXMU/",
+          "publishedAt": "2026-07-15T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "3월 모친상 김성령 \"연락 끊긴 유노윤호, 기사 보고 빈소 찾아와\" 의리에 감동(라스)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260715n37007",
+          "publishedAt": "2026-07-15T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'라스' 김성령 \"하지원과 대학교 축제서 헌팅…이제 안 먹혀\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715225037828",
+        "publishedAt": "2026-07-15T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T14:40:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "김성령",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260715225037828",
+      "rank": 3
+    },
+    {
+      "id": "a127ecb9bfc47da2",
+      "issueKey": "부고",
+      "issueTitle": "부고",
+      "trendTitle": "부고",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[부고]김영희 별세 外",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/People/article/all/20260715/134300215/2",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[부고] 강다영씨(삼성전자 부장) 모친상",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/15/2026071512523040459",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[부음] 조영곤(익산열린신문 대표)씨 모친상",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260714000296",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[부고]김영희 별세 外",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/People/article/all/20260715/134300215/2",
+        "publishedAt": "2026-07-15T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T13:20:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "부고",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/People/article/all/20260715/134300215/2",
+      "rank": 4
+    },
+    {
+      "id": "5b604817730cee26",
+      "issueKey": "레이더",
+      "issueTitle": "레이더",
+      "trendTitle": "레이더",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "기상레이더 관측망 확대… 홍수레이더 이관·공항 레이더 추가",
+          "source": "에너지데일리",
+          "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201424",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "라팔 F4 전투기는 적 레이더를 탐지하기 위해 특별히 설계된 새로운 '오른쪽 팔'을 갖추고 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/tiem-kich-rafale-f4-co-canh-tay-phai-moi-chuyen-san-radar-doi-phuong",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "나미브 사막 시위와 관련하여, Rafale F-4는 적의 접근을 차단하는 데 있어 F-35와 경쟁하고 있습니다.",
+          "source": "Meta-Defense",
+          "url": "https://meta-defense.fr/ko/2026/07/13/rafale-f4-namib-vol-essai/",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기상레이더 관측망 확대… 홍수레이더 이관·공항 레이더 추가",
+        "source": "에너지데일리",
+        "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201424",
+        "publishedAt": "2026-07-15T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T13:20:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "레이더",
+      "source": "에너지데일리",
+      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=201424",
+      "rank": 5
+    },
+    {
+      "id": "7d7d431e89c15761",
+      "issueKey": "캐시워크 정답",
+      "issueTitle": "캐시워크 정답",
+      "trendTitle": "캐시워크 정답",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] 캐시워크 돈버는퀴즈 정답 7월 15일",
+          "source": "BNT뉴스",
+          "url": "https://www.bntnews.co.kr/article/view/bnt202607150077",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "픽스 휴대용 초소형 녹음기 캐시워크 돈 버는 퀴즈, 정답은?",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20260715061718261",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "13일 CJ더마켓 캐시워크 돈버는퀴즈 정답 공개",
+          "source": "한스경제",
+          "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=849965",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "캐시워크 정답",
+        "source": "BNT뉴스",
+        "url": "https://www.bntnews.co.kr/article/view/bnt202607150077",
+        "publishedAt": "2026-07-15T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T13:20:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "캐시워크 정답",
+      "source": "BNT뉴스",
+      "url": "https://www.bntnews.co.kr/article/view/bnt202607150077",
+      "rank": 6
+    },
+    {
+      "id": "b63128abe65a84d2",
+      "issueKey": "택배",
+      "issueTitle": "택배",
+      "trendTitle": "택배",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "국토부, 택배 현장 편법 계약 실태 전수 점검‥\"위반 시 엄중 조치\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6837681_36932.html",
+          "publishedAt": "2026-07-15T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'쿠팡 프레시백' 업무 공방 계속…노조, 계약해지 공정위 신고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260714104300004",
+          "publishedAt": "2026-07-15T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“택배 종사자에게 ‘쉼 없는 노동 강요’ 행위 뿌리 뽑겠다”",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260715.99099004565",
+          "publishedAt": "2026-07-15T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "국토부, 택배 현장 편법 계약 실태 전수 점검‥\"위반 시 엄중 조치\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/econo/article/6837681_36932.html",
+        "publishedAt": "2026-07-15T13:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T13:10:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "택배",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/econo/article/6837681_36932.html",
+      "rank": 7
+    },
+    {
+      "id": "fff40de85a0fda4e",
+      "issueKey": "유아인",
+      "issueTitle": "유아인",
+      "trendTitle": "유아인",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "세월이 야속해…유아인·배용준 '흰머리'까지 화제, 확 달라진 스타일링 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KkSbdMPK1j",
+          "publishedAt": "2026-07-15T13:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"전과자 복귀 무대냐\"...유아인·곽도원 등장, 호프 VIP 시사회 '시끌'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/14/2026071415563649558",
+          "publishedAt": "2026-07-15T13:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'마약 집행유예' 유아인, '호프' 시사회서 포착…복귀설 '솔솔'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202607140936372645",
+          "publishedAt": "2026-07-15T13:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "세월이 야속해…유아인·배용준 '흰머리'까지 화제, 확 달라진 스타일링 [엑's 이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/KkSbdMPK1j",
+        "publishedAt": "2026-07-15T13:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T13:00:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "유아인",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/KkSbdMPK1j",
+      "rank": 8
+    },
+    {
       "id": "61dea3dcc7987dae",
       "issueKey": "법원",
       "issueTitle": "법원",
       "trendTitle": "법원",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -52,434 +428,58 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-15T12:40:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
       "title": "법원",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260715184010081",
-      "rank": 1
+      "rank": 9
     },
     {
-      "id": "aca44f9faff365fa",
-      "issueKey": "수원삼성",
-      "issueTitle": "수원삼성",
-      "trendTitle": "수원삼성",
+      "id": "714c50f6bb0d59f7",
+      "issueKey": "천안시티",
+      "issueTitle": "천안시티",
+      "trendTitle": "천안시티",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'대체 왜' 이정효 감독, 06년생 골키퍼 '스트라이커' 투입→'3부' 부산에 패배…수원, 충격 '코리아컵 2R 탈락'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260715n36386",
+          "title": "K리그2 천안시티, K3 목포에 승리…연패 탈출 성공",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260715_0003711186",
           "publishedAt": "2026-07-15T12:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[BE.현장] “회장 선거에 정신이 없나” 이정효 수원 감독, 양산 경기장 환경에 분노… “협회, 경기장 실사했나”",
-          "source": "베스트일레븐",
-          "url": "https://www.besteleven.com/news/articleView.html?idxno=309996",
+          "title": "11년 만에 울산HD와 빅매치 노린다…이랜드, 코리아컵 2R 울산시민축구단과 창단 첫 맞대결",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715152209972",
           "publishedAt": "2026-07-15T12:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'대체 왜' 이정효 감독, 06년생 골키퍼 '스트라이커' 투입→'3부' 부산에 패배... 수원, 충격 '코리아컵 2R 탈락'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/15/2026071521152580187",
+          "title": "'추춘제 변신' 코리아컵, 2라운드 K리그2 가세하며 '본격 스타트'[프리뷰]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/football/2026/07/15/MEZTOOLDGZSTMMZVMU4WEYLBMM/",
           "publishedAt": "2026-07-15T12:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "수원삼성",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260715n36386",
+        "title": "K리그2 천안시티, K3 목포에 승리…연패 탈출 성공",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260715_0003711186",
         "publishedAt": "2026-07-15T12:30:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-15T12:30:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "수원삼성",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260715n36386",
-      "rank": 2
-    },
-    {
-      "id": "c9cd14d677ae875c",
-      "issueKey": "파운드화 강세",
-      "issueTitle": "파운드화 강세",
-      "trendTitle": "파운드화 강세",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "미 6월 생산자물가 전월대비 0.3%↓…예상 밖 하락(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715222948650",
-          "publishedAt": "2026-07-15T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "파운드화 강세, 미국 CPI 둔화에 달러 전반적 약세",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/forex-news/article-2016379",
-          "publishedAt": "2026-07-15T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "미 소비자물가 상승률 둔화…연준 의장 “물가 잡을 것”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8611226",
-          "publishedAt": "2026-07-15T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "파운드화 강세, 미국 CPI 둔화에 달러 전반적 약세",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/forex-news/article-2016379",
-        "publishedAt": "2026-07-15T12:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-15T12:20:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "파운드화 강세",
-      "source": "Investing.com 한국어",
-      "url": "https://kr.investing.com/news/forex-news/article-2016379",
-      "rank": 3
-    },
-    {
-      "id": "a3cbd4cf4ebe7d6f",
-      "issueKey": "zimbabwe vs bangladesh",
-      "issueTitle": "zimbabwe vs bangladesh",
-      "trendTitle": "zimbabwe vs bangladesh",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "ZIM vs BAN Cricket Scorecard, 1st T20I at Bulawayo, July 15, 2026",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/bangladesh-in-zimbabwe-2026-1538288/zimbabwe-vs-bangladesh-1st-t20i-1538301/full-scorecard",
-          "publishedAt": "2026-07-15T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Zimbabwe, Bangladesh renew T20 rivalry at Queens Sports Club",
-          "source": "Herald.co.zw",
-          "url": "https://www.heraldonline.co.zw/zimbabwe-bangladesh-renew-t20-rivalry-at-queens-sports-club/",
-          "publishedAt": "2026-07-15T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Hridoy hopes for a fresh start in T20Is after disappointing tour",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/139549/hridoy-hopes-for-a-fresh-start-in-t20is-after-disappointing-tour-cricbuzzcom",
-          "publishedAt": "2026-07-15T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "zimbabwe vs bangladesh",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/bangladesh-in-zimbabwe-2026-1538288/zimbabwe-vs-bangladesh-1st-t20i-1538301/full-scorecard",
-        "publishedAt": "2026-07-15T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-15T12:10:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "zimbabwe vs bangladesh",
-      "source": "Cricinfo",
-      "url": "https://www.cricinfo.com/series/bangladesh-in-zimbabwe-2026-1538288/zimbabwe-vs-bangladesh-1st-t20i-1538301/full-scorecard",
-      "rank": 4
-    },
-    {
-      "id": "413920f30f7f7304",
-      "issueKey": "어쌔신 크리드",
-      "issueTitle": "어쌔신 크리드",
-      "trendTitle": "어쌔신 크리드",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "어쌔신 크리드 코드네임 헥세: 가격 공개 및 선형적 게임플레이로의 전환.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/assassin-s-creed-codename-hexe-lo-dien-gia-ban-va-buoc-chuyen-minh-sang-loi-choi-tuyen-tinh",
-          "publishedAt": "2026-07-15T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "유비소프트 파일에는 어쌔신 크리드 헥세 시즌 패스에 대한 언급이 포함되어 있습니다.",
-          "source": "GameGPU",
-          "url": "https://ko.gamegpu.com/news/igry/v-fajlakh-ubisoft-nashli-upominanie-sezonnogo-propuska-assassins-creed-hexe",
-          "publishedAt": "2026-07-15T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유출된 어쌔신 크리드 코드네임 헥세: 마녀 사냥 배경 및 주요 게임플레이 변경 사항.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/ro-ri-assassin-s-creed-codename-hexe-boi-canh-san-phu-thuy-va-thay-doi-lon-ve-loi-choi",
-          "publishedAt": "2026-07-15T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "어쌔신 크리드 코드네임 헥세: 가격 공개 및 선형적 게임플레이로의 전환.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/assassin-s-creed-codename-hexe-lo-dien-gia-ban-va-buoc-chuyen-minh-sang-loi-choi-tuyen-tinh",
-        "publishedAt": "2026-07-15T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-15T12:10:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "어쌔신 크리드",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/assassin-s-creed-codename-hexe-lo-dien-gia-ban-va-buoc-chuyen-minh-sang-loi-choi-tuyen-tinh",
-      "rank": 5
-    },
-    {
-      "id": "0fef65463b6dcae4",
-      "issueKey": "ppi",
-      "issueTitle": "ppi",
-      "trendTitle": "ppi",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Inflation Slowed to 3.5% in June, as Americans Got a Break From Gasoline Prices",
-          "source": "WSJ",
-          "url": "https://www.wsj.com/economy/cpi-inflation-report-june-2026-afb89992",
-          "publishedAt": "2026-07-15T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Wholesale prices unexpectedly declined 0.3% in June on big drop in gasoline",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/15/wholesale-inflation-june-2026-.html",
-          "publishedAt": "2026-07-15T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "US producer prices unexpectedly fall in June",
-          "source": "The Korea Times",
-          "url": "https://www.koreatimes.co.kr/amp/world/20260715/us-producer-prices-unexpectedly-fall-in-june",
-          "publishedAt": "2026-07-15T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "ppi",
-        "source": "WSJ",
-        "url": "https://www.wsj.com/economy/cpi-inflation-report-june-2026-afb89992",
-        "publishedAt": "2026-07-15T12:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-15T12:00:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "ppi",
-      "source": "WSJ",
-      "url": "https://www.wsj.com/economy/cpi-inflation-report-june-2026-afb89992",
-      "rank": 6
-    },
-    {
-      "id": "ea9df079e371295a",
-      "issueKey": "하비에르 아기레",
-      "issueTitle": "하비에르 아기레",
-      "trendTitle": "하비에르 아기레",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"대한민국, 새 감독으로 부임할 것이란 소문 돌고 있어\"...멕시코 매체, 연일 홍명보 후임 유력 후보로 아기레 언급",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fvOelCsARF",
-          "publishedAt": "2026-07-15T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"대한축구협회 개혁 작업이 관건\"…멕시코 매체 \"아기레, 韓대표팀 감독직 후보\"→이강인과 재회 주목한다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260714n25306",
-          "publishedAt": "2026-07-15T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“한국의 관심을 받고 있다”…월드컵서 홍명보호에 첫 패 안긴 아기레, 차기 사령탑 후보로 떠올랐다",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=690391",
-          "publishedAt": "2026-07-15T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "하비에르 아기레",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fvOelCsARF",
-        "publishedAt": "2026-07-15T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-15T11:50:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "하비에르 아기레",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/fvOelCsARF",
-      "rank": 7
-    },
-    {
-      "id": "6351825030155836",
-      "issueKey": "al",
-      "issueTitle": "al",
-      "trendTitle": "al",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Cease, bullpen silence NL in 15-K shutout as AL wins All-Star Game",
-          "source": "ESPN",
-          "url": "https://www.espn.com/mlb/story/_/id/49364253/cease-bullpen-silence-nl-15-k-shutout-al-wins-all-star-game",
-          "publishedAt": "2026-07-15T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "AL pitchers blank NL in MLB All-Star Game; Spain shut down France to reach World Cup final",
-          "source": "CBS Sports",
-          "url": "https://www.cbssports.com/mlb/news/al-pitchers-nl-mlb-all-star-game-spain-france-world-cup-final/",
-          "publishedAt": "2026-07-15T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "MLB All-Star Game 2026: Philly fans do more booing than cheering as festivities conclude with AL shutting out the NL",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/mlb/article/mlb-all-star-game-2026-philly-fans-do-more-booing-than-cheering-as-festivities-conclude-with-al-shutting-out-the-nl-053651447.html",
-          "publishedAt": "2026-07-15T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Cease, bullpen silence NL in 15-K shutout as AL wins All-Star Game",
-        "source": "ESPN",
-        "url": "https://www.espn.com/mlb/story/_/id/49364253/cease-bullpen-silence-nl-15-k-shutout-al-wins-all-star-game",
-        "publishedAt": "2026-07-15T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-15T11:50:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "al",
-      "source": "ESPN",
-      "url": "https://www.espn.com/mlb/story/_/id/49364253/cease-bullpen-silence-nl-15-k-shutout-al-wins-all-star-game",
-      "rank": 8
-    },
-    {
-      "id": "af4870c15b98485b",
-      "issueKey": "아버지",
-      "issueTitle": "아버지",
-      "trendTitle": "아버지",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“아들에 맞아 척추 골절” 아버지, 알고 보니 ‘뺑소니’ 숨기려 거짓말",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WI0k2bztCk",
-          "publishedAt": "2026-07-15T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“아버지! 사람부터 살려야 해요”…저수지 뛰어든 소방관 딸과 의용소방대원 아버지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715133728185",
-          "publishedAt": "2026-07-15T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "저수지에 빠진 시민 구한 ‘의용소방·소방관 父女’",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/society/2026/07/15/20260715500154",
-          "publishedAt": "2026-07-15T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“아들에 맞아 척추 골절” 아버지, 알고 보니 ‘뺑소니’ 숨기려 거짓말",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WI0k2bztCk",
-        "publishedAt": "2026-07-15T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-15T11:40:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "아버지",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/WI0k2bztCk",
-      "rank": 9
-    },
-    {
-      "id": "241873e69979a454",
-      "issueKey": "대통령이 수사",
-      "issueTitle": "대통령이 수사",
-      "trendTitle": "유시민",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "유시민 “이 대통령이 수사·기소 완전분리 원치 않아…검찰개혁 안 되는 이유”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1268435.html",
-          "publishedAt": "2026-07-15T11:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "유시민 \"李 정부, 필연적 실패의 길\"…친명계 '부글부글'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715220812440",
-          "publishedAt": "2026-07-15T11:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유시민 \"李 선택 실패로 끝날 것...민주당, 대통령 지배받으면 안 돼\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/07/15/3J7H6GMJ4BD5JF2GLWT5CZJHWI/",
-          "publishedAt": "2026-07-15T11:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "유시민 “이 대통령이 수사·기소 완전분리 원치 않아…검찰개혁 안 되는 이유”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/politics/politics_general/1268435.html",
-        "publishedAt": "2026-07-15T11:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-15T11:30:00.000Z",
-      "firstSeenAt": "2026-07-15T13:43:28.709Z",
-      "lastSeenAt": "2026-07-15T13:43:28.709Z",
-      "title": "대통령이 수사",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/politics/politics_general/1268435.html",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "천안시티",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260715_0003711186",
       "rank": 10
     }
   ],
@@ -1928,6 +1928,144 @@
       "url": "https://v.daum.net/v/20260708100319257"
     },
     {
+      "id": "ed3b11f543314f06",
+      "issueKey": "높인다던 소아약",
+      "issueTitle": "높인다던 소아약",
+      "trendTitle": "높인다던 소아약",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"무늬만 우대\" 약값 높인다던 소아약·퇴장방지약 기준 '비현실적' 비판",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/07/15/2026071510513352340",
+          "publishedAt": "2026-07-15T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[기자수첩] '선(先) 인하 후(後) 보상'…앞뒤 없는 '약가 개편안'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260714132009976",
+          "publishedAt": "2026-07-15T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“R&D 투자 늘리라는데”…‘약가인하’ 시행 앞두고 불확실성 커진 제약업계",
+          "source": "쿠키뉴스",
+          "url": "https://www.kukinews.com/article/view/kuk202607140164",
+          "publishedAt": "2026-07-15T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"무늬만 우대\" 약값 높인다던 소아약·퇴장방지약 기준 '비현실적' 비판",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/thebio/2026/07/15/2026071510513352340",
+        "publishedAt": "2026-07-15T14:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T14:50:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "높인다던 소아약",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/thebio/2026/07/15/2026071510513352340"
+    },
+    {
+      "id": "a127ecb9bfc47da2",
+      "issueKey": "부고",
+      "issueTitle": "부고",
+      "trendTitle": "부고",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[부고]김영희 별세 外",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/People/article/all/20260715/134300215/2",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[부고] 강다영씨(삼성전자 부장) 모친상",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/15/2026071512523040459",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[부음] 조영곤(익산열린신문 대표)씨 모친상",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260714000296",
+          "publishedAt": "2026-07-15T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[부고]김영희 별세 外",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/People/article/all/20260715/134300215/2",
+        "publishedAt": "2026-07-15T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T13:20:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "부고",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/People/article/all/20260715/134300215/2"
+    },
+    {
+      "id": "61dea3dcc7987dae",
+      "issueKey": "법원",
+      "issueTitle": "법원",
+      "trendTitle": "법원",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "노경필 법원행정처장 “李 대통령 선거법 대법 판결, 정무적 판단 안 해\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260715184010081",
+          "publishedAt": "2026-07-15T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "법사위 전체회의 출석한 노경필 법원행정처장",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260715137100013",
+          "publishedAt": "2026-07-15T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "노경필 신임 법원행정처장 \"외부 압력, 부담 커져‥법원 구성원 울타리 되겠다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6837268_36918.html",
+          "publishedAt": "2026-07-15T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "노경필 법원행정처장 “李 대통령 선거법 대법 판결, 정무적 판단 안 해\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260715184010081",
+        "publishedAt": "2026-07-15T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-15T12:40:00.000Z",
+      "firstSeenAt": "2026-07-15T16:21:56.510Z",
+      "lastSeenAt": "2026-07-15T16:21:56.510Z",
+      "title": "법원",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260715184010081"
+    },
+    {
       "id": "af4870c15b98485b",
       "issueKey": "아버지",
       "issueTitle": "아버지",
@@ -2248,144 +2386,6 @@
       "title": "통영시장 선거",
       "source": "KBS 뉴스",
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8609297"
-    },
-    {
-      "id": "a8c5d92bb744ac4c",
-      "issueKey": "xsmb",
-      "issueTitle": "xsmb",
-      "trendTitle": "xsmb",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Kết quả xổ số miền Trung hôm nay 14.7: Đắk Lắk, Quảng Nam",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-147-dak-lak-quang-nam-1735077.ldo",
-          "publishedAt": "2026-07-14T11:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "XSMT 15/7. Kết quả xổ số miền Trung hôm nay ngày 15/7/2026. XSMT thứ Tư ngày 15/7",
-          "source": "Bnews.vn",
-          "url": "https://bnews.vn/xsmt-15-7-ket-qua-xo-so-mien-trung-hom-nay-ngay-15-7-2026-xsmt-thu-tu-ngay-15-7/428814.html",
-          "publishedAt": "2026-07-14T11:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Xổ số miền Nam ngày 14 tháng 7: Góp tiền mua vé số, trúng đài Vũng Tàu",
-          "source": "Báo Thanh Niên",
-          "url": "https://thanhnien.vn/xo-so-mien-nam-ngay-14-thang-7-gop-tien-mua-ve-so-trung-dai-vung-tau-185260714170437548.htm",
-          "publishedAt": "2026-07-14T11:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "xsmb",
-        "source": "Laodong.vn",
-        "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-147-dak-lak-quang-nam-1735077.ldo",
-        "publishedAt": "2026-07-14T11:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-14T11:20:00.000Z",
-      "firstSeenAt": "2026-07-14T13:43:38.581Z",
-      "lastSeenAt": "2026-07-14T13:43:38.581Z",
-      "title": "xsmb",
-      "source": "Laodong.vn",
-      "url": "https://laodong.vn/kinh-doanh/ket-qua-xo-so-mien-trung-hom-nay-147-dak-lak-quang-nam-1735077.ldo"
-    },
-    {
-      "id": "916a98f0fa2a39af",
-      "issueKey": "ibm",
-      "issueTitle": "ibm",
-      "trendTitle": "ibm",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-          "publishedAt": "2026-07-14T11:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "IBM stock crashes after major warning",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/article/ibm-stock-crashes-after-major-warning-114235587.html",
-          "publishedAt": "2026-07-14T11:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Barclays: IBM capex pivot boosts firewalls as Mythos threat eats IT budgets",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/barclays-ibm-capex-pivot-boosts-firewalls-as-mythos-threat-eats-it-budgets-4791052",
-          "publishedAt": "2026-07-14T11:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "IBM shares skid more than 20% after company warns second-quarter earnings fell short of expectations",
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html",
-        "publishedAt": "2026-07-14T11:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-14T11:10:00.000Z",
-      "firstSeenAt": "2026-07-14T13:43:38.581Z",
-      "lastSeenAt": "2026-07-14T13:43:38.581Z",
-      "title": "ibm",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/07/14/ibm-warns-second-quarter-earnings-fell-short-of-expectations.html"
-    },
-    {
-      "id": "39d2f7838319f462",
-      "issueKey": "s p 500",
-      "issueTitle": "s&p 500",
-      "trendTitle": "s&p 500",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "The Rotation Trade Is Hiding a More Complicated Volatility Story",
-          "source": "Barron's",
-          "url": "https://www.barrons.com/livecoverage/stock-market-news-today-071326/card/the-rotation-trade-is-hiding-a-more-complicated-volatility-story-8MbogKNzFD5l0W4PFRTb",
-          "publishedAt": "2026-07-14T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "S&P 500: Market Imbalances Raise the Risk of a Volatility Unwind",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/analysis/sp-500-market-imbalances-raise-the-risk-of-a-volatility-unwind-200683851",
-          "publishedAt": "2026-07-14T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "VOL REPORT: Stock Dispersion Jumps as Equity Rally Broadens",
-          "source": "Traders Magazine",
-          "url": "https://www.tradersmagazine.com/vol-report/vol-report-stock-dispersion-jumps-as-the-equity-rally-broadens/",
-          "publishedAt": "2026-07-14T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "S&P 500: Market Imbalances Raise the Risk of a Volatility Unwind",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/analysis/sp-500-market-imbalances-raise-the-risk-of-a-volatility-unwind-200683851",
-        "publishedAt": "2026-07-14T09:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-14T09:10:00.000Z",
-      "firstSeenAt": "2026-07-14T10:46:08.873Z",
-      "lastSeenAt": "2026-07-14T10:46:08.873Z",
-      "title": "s&p 500",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/analysis/sp-500-market-imbalances-raise-the-risk-of-a-volatility-unwind-200683851"
     }
   ]
 }
