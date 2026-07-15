@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-15T19:10:47.054Z",
+  "lastUpdatedAt": "2026-07-15T22:00:30.060Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -43,7 +43,7 @@
         {
           "title": "e스포츠와 굿즈, 루미와 만남까지… ‘이터널 리턴’ 3주년 페스티벌 현장",
           "url": "https://bbs.ruliweb.com/news/read/226858",
-          "meta": "댓글 19"
+          "meta": "댓글 20"
         },
         {
           "title": "그라비티, PC MMORPG ‘라그나로크 온라인’ 유저 초청 토론회 11일(토) 개최",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "T1 '오너' \"호랑이 목걸이요? 나만의 상징, 팬들에게 알리고 파\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318522",
+          "meta": "리그 오브 레전드 · 6시간 전"
+        },
+        {
           "title": "위쳐3 개발진의 '더 블러드 오브 던워커', 골드행... 9월 3일 출시 이상無",
           "url": "https://www.inven.co.kr/webzine/news/?news=318527",
-          "meta": "더 블러드 오브 던워커 · 41분 전"
+          "meta": "더 블러드 오브 던워커 · 6시간 전"
         },
         {
           "title": "T1 '페이즈' 김수환 \"BLG 상대로 이번엔 이기겠다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=318525",
-          "meta": "리그 오브 레전드 · 1시간 전"
+          "meta": "리그 오브 레전드 · 7시간 전"
         },
         {
           "title": "MSI 챔피언 한화생명의 체급, 19분 만에 승리",
           "url": "https://www.inven.co.kr/webzine/news/?news=318523",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "meta": "리그 오브 레전드 · 8시간 전"
         },
         {
           "title": "젠지 '룰러' \"MSI 몫까지.. EWC에서 많은 걸 보여주고 싶어\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=318519",
-          "meta": "리그 오브 레전드 · 3시간 전"
-        },
-        {
-          "title": "디플러스 기아, LPL AL에게 패배",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318517",
-          "meta": "리그 오브 레전드 · 4시간 전"
+          "meta": "리그 오브 레전드 · 9시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
