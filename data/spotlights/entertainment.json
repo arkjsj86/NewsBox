@@ -7,18 +7,253 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-16T13:50:37.778Z",
+  "lastUpdatedAt": "2026-07-16T16:16:42.622Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 8,
+  "itemCount": 10,
   "items": [
     {
-      "id": "f15a7d5e0266f6de",
-      "issueKey": "배나라",
-      "issueTitle": "배나라",
-      "trendTitle": "배나라",
+      "id": "8281a3bf56cc54d8",
+      "issueKey": "보지",
+      "issueTitle": "보지",
+      "trendTitle": "보지",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'2026 LoL 케스파컵' 20일 개막…농심 레드포스 vs 한진 브리온 개막전 확정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tvzUJ6fzc2",
+          "publishedAt": "2026-07-16T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이번 주 디즈니+ 뭐 보지?",
+          "source": "톱클래스",
+          "url": "http://topclass.chosun.com/news/articleView.html?idxno=36536",
+          "publishedAt": "2026-07-16T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "2026 EWC 끝나면 KeSPA Cup 시작⋯경기 일정은?",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2604600",
+          "publishedAt": "2026-07-16T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이번 주 디즈니+ 뭐 보지?",
+        "source": "톱클래스",
+        "url": "http://topclass.chosun.com/news/articleView.html?idxno=36536",
+        "publishedAt": "2026-07-16T14:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-16T14:40:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "보지",
+      "source": "톱클래스",
+      "url": "http://topclass.chosun.com/news/articleView.html?idxno=36536",
+      "rank": 1
+    },
+    {
+      "id": "805a2d2e7c6e85f9",
+      "issueKey": "반품",
+      "issueTitle": "반품",
+      "trendTitle": "반품",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독]쿠팡, '무료 반품' 허들 높여…블랙 컨슈머 막는다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260716n29423",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "소비자원 \"중국 이커머스, 반품 제한·사업자 면책 약관 여전\"",
+          "source": "YTN 사이언스",
+          "url": "https://m.science.ytn.co.kr/program/view.php?s_mcd=0082&amp;key=202607161602394317",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "짝퉁 보내더니 환불 대신 포인트로?…中 플랫폼 황당",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/PTHvL1XSZn",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독]쿠팡, '무료 반품' 허들 높여…블랙 컨슈머 막는다",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260716n29423",
+        "publishedAt": "2026-07-16T14:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-16T14:10:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "반품",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260716n29423",
+      "rank": 2
+    },
+    {
+      "id": "065c0ea84217deed",
+      "issueKey": "india vs england",
+      "issueTitle": "india vs england",
+      "trendTitle": "india vs england",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "England need urgent ODI turnaround as India eye series win in Cardiff",
+          "source": "Cricinfo",
+          "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-odi-1496580/match-preview",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "India beat England by six wickets in first men’s one-day cricket international – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/jul/14/england-v-india-first-one-day-cricket-international-live?page=with%3Ablock-6a564c658f08c251661ce446",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Sophia Gardens pitch report: ODI records and average scores in Cardiff ahead of England vs India 2nd ODI",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/sophia-gardens-pitch-report-odi-023001334.html",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "india vs england",
+        "source": "Cricinfo",
+        "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-odi-1496580/match-preview",
+        "publishedAt": "2026-07-16T14:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-16T14:10:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "india vs england",
+      "source": "Cricinfo",
+      "url": "https://www.cricinfo.com/series/india-in-england-2026-1496488/england-vs-india-2nd-odi-1496580/match-preview",
+      "rank": 3
+    },
+    {
+      "id": "dada3363d90ae5af",
+      "issueKey": "밀워키",
+      "issueTitle": "밀워키",
+      "trendTitle": "밀워키",
       "approxTraffic": "100+",
       "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"예상치 못한 깜짝 트레이드\" 美도 놀랐다…밀워키, 'ML 53승 투수' 맥컬러스 주니어 품었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/WyE43GyOZb",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "MLB 밀워키, 휴스턴과 트레이드로 매컬러스 주니어 영입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260716031600007",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'우승 승부수' 밀워키, 휴스턴과 트레이드…WS 우승투수 매컬러스 영입하다",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112840385",
+          "publishedAt": "2026-07-16T14:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"예상치 못한 깜짝 트레이드\" 美도 놀랐다…밀워키, 'ML 53승 투수' 맥컬러스 주니어 품었다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/WyE43GyOZb",
+        "publishedAt": "2026-07-16T14:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-16T14:10:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "밀워키",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/WyE43GyOZb",
+      "rank": 4
+    },
+    {
+      "id": "e1eb40b67294536d",
+      "issueKey": "이동국",
+      "issueTitle": "이동국",
+      "trendTitle": "이동국",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "자식 농사 대박 났네…이동국 아들 이시안, 브라질행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716145104487",
+          "publishedAt": "2026-07-16T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이동국 아들 대박이, 유소년 축구 프로젝트 최종 12인 발탁…브라질 향한다, DNA 깜짝 [★해시태그]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260716n08349",
+          "publishedAt": "2026-07-16T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이동국 아들 ’대박이’ 브라질행...유소년 축구 프로젝트 선발",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260716172000Rg2",
+          "publishedAt": "2026-07-16T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "자식 농사 대박 났네…이동국 아들 이시안, 브라질행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716145104487",
+        "publishedAt": "2026-07-16T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-16T13:50:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "이동국",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260716145104487",
+      "rank": 5
+    },
+    {
+      "id": "383b038b4e6767fd",
+      "issueKey": "한재아",
+      "issueTitle": "한재아",
+      "trendTitle": "한재아",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -26,21 +261,21 @@
           "title": "[단독] 배나라·한재아 결혼…뮤지컬 배우 부부 탄생",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260716185825582",
-          "publishedAt": "2026-07-16T12:40:00.000Z",
+          "publishedAt": "2026-07-16T13:40:00.000Z",
           "relevanceScore": 3
         },
         {
           "title": "배나라♥한재아, 공개 열애 끝에 결혼…\"시기는 미정\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260716_0003713014",
-          "publishedAt": "2026-07-16T12:40:00.000Z",
+          "publishedAt": "2026-07-16T13:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘D.P.2’ 강렬 탈영병 배나라♥‘실력파’ 한재아, 결혼 준비 중…소속사 인정",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20260716524214",
-          "publishedAt": "2026-07-16T12:40:00.000Z",
+          "title": "배나라♥한재아, 공개 열애 끝에 결혼…\"정확한 시기는 미정\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6231031",
+          "publishedAt": "2026-07-16T13:40:00.000Z",
           "relevanceScore": 1
         }
       ],
@@ -48,345 +283,204 @@
         "title": "[단독] 배나라·한재아 결혼…뮤지컬 배우 부부 탄생",
         "source": "Daum",
         "url": "https://v.daum.net/v/20260716185825582",
-        "publishedAt": "2026-07-16T12:40:00.000Z",
+        "publishedAt": "2026-07-16T13:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-16T12:40:00.000Z",
-      "firstSeenAt": "2026-07-16T13:50:37.778Z",
-      "lastSeenAt": "2026-07-16T13:50:37.778Z",
-      "title": "배나라",
+      "publishedAt": "2026-07-16T13:40:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "한재아",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260716185825582",
-      "rank": 1
+      "rank": 6
     },
     {
-      "id": "1cd64eee31a8f88c",
-      "issueKey": "골재",
-      "issueTitle": "골재",
-      "trendTitle": "골재",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "372aa8aab0946a1e",
+      "issueKey": "김재희",
+      "issueTitle": "김재희",
+      "trendTitle": "김재희",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"웃돈 줘도 못 구해\" 결국 터질게 터졌다…광주에 무슨 일이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026071602031",
-          "publishedAt": "2026-07-16T12:30:00.000Z",
+          "title": "부활 김재희, 5년 암투병 아내와 사별…\"형과 같은 날 떠났다\" (미스트롯 포유)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716210107934",
+          "publishedAt": "2026-07-16T13:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "전남광주 레미콘 업계 출하량 감소에 골재 수급난 ‘이중고’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715180816009",
-          "publishedAt": "2026-07-16T12:30:00.000Z",
+          "title": "김재희, 가슴 아픈 가족사…5년 간병 끝 아내와 사별 \"늦둥이 딸 덕분에 버텨\" - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/07/15/MNQTMZDEMY4TSNBWMYZGEMZWME/",
+          "publishedAt": "2026-07-16T13:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"웃돈 줘도 못 구해\" 골재 품귀, 건설 공사장 줄줄이 멈출 판",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260716_0003711968",
-          "publishedAt": "2026-07-16T12:30:00.000Z",
+          "title": "부활 김재희 \"5년 간병 끝 아내 사망…늦둥이 외동딸 생각에 버텨\" (미스트롯 포유)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/511637",
+          "publishedAt": "2026-07-16T13:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "전남광주 레미콘 업계 출하량 감소에 골재 수급난 ‘이중고’",
+        "title": "부활 김재희, 5년 암투병 아내와 사별…\"형과 같은 날 떠났다\" (미스트롯 포유)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260715180816009",
-        "publishedAt": "2026-07-16T12:30:00.000Z",
+        "url": "https://v.daum.net/v/20260716210107934",
+        "publishedAt": "2026-07-16T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-16T13:30:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "김재희",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260716210107934",
+      "rank": 7
+    },
+    {
+      "id": "41372a47891896e5",
+      "issueKey": "샘킴",
+      "issueTitle": "샘킴",
+      "trendTitle": "샘킴",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘언더커버 셰프’ 권성준, 파스타 너무 잘 만든 탓에…“너 진짜 이름이 뭐야?” 정체 발각 위기",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260717002009306",
+          "publishedAt": "2026-07-16T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'언더커버' 샘킴, 잡채 만들어 극찬…\"한식 기준 높아져\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6230914",
+          "publishedAt": "2026-07-16T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "정지선, 직원식 4트 좌절→역대급 위기 봉착…명예 회복 성공할까(언더커버 셰프)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607162313003",
+          "publishedAt": "2026-07-16T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'언더커버' 샘킴, 잡채 만들어 극찬…\"한식 기준 높아져\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/broadcast-tv/6230914",
+        "publishedAt": "2026-07-16T13:10:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-07-16T12:30:00.000Z",
-      "firstSeenAt": "2026-07-16T13:50:37.778Z",
-      "lastSeenAt": "2026-07-16T13:50:37.778Z",
-      "title": "골재",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260715180816009",
-      "rank": 2
+      "publishedAt": "2026-07-16T13:10:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "샘킴",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/broadcast-tv/6230914",
+      "rank": 8
     },
     {
-      "id": "1399a04e0180a7f7",
-      "issueKey": "cuaca besok",
-      "issueTitle": "cuaca besok",
-      "trendTitle": "cuaca besok",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Prediksi Cuaca Besok di Sulawesi 17 Juli: Makassar, Palu, Mamuju, Kendari hingga Manado",
-          "source": "Headline.co.id",
-          "url": "https://www.headline.co.id/107990/prediksi-cuaca-besok-di-sulawesi-17-juli-makassar-palu-mamuju-kendari-hingga-manado/",
-          "publishedAt": "2026-07-16T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "BMKG: Sulsel Didominasi Cerah Berawan, Waspadai Angin Kencang di Wilayah Selatan",
-          "source": "RRI.co.id",
-          "url": "https://rri.co.id/makassar/regional/2572652/bmkg-sulsel-didominasi-cerah-berawan-waspadai-angin-kencang-di-wilayah-selatan",
-          "publishedAt": "2026-07-16T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Meski Kemarau Meluas, BMKG Prediksi Sulawesi Selatan Masih Diguyur Hujan",
-          "source": "Makassar Terkini",
-          "url": "https://makassar.terkini.id/meski-kemarau-meluas-bmkg-prediksi-sulawesi-selatan-masih-diguyur-hujan/",
-          "publishedAt": "2026-07-16T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Prediksi Cuaca Besok di Sulawesi 17 Juli: Makassar, Palu, Mamuju, Kendari hingga Manado",
-        "source": "Headline.co.id",
-        "url": "https://www.headline.co.id/107990/prediksi-cuaca-besok-di-sulawesi-17-juli-makassar-palu-mamuju-kendari-hingga-manado/",
-        "publishedAt": "2026-07-16T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-16T12:30:00.000Z",
-      "firstSeenAt": "2026-07-16T13:50:37.778Z",
-      "lastSeenAt": "2026-07-16T13:50:37.778Z",
-      "title": "cuaca besok",
-      "source": "Headline.co.id",
-      "url": "https://www.headline.co.id/107990/prediksi-cuaca-besok-di-sulawesi-17-juli-makassar-palu-mamuju-kendari-hingga-manado/",
-      "rank": 3
-    },
-    {
-      "id": "b64d394da739c140",
-      "issueKey": "england vs india",
-      "issueTitle": "england vs india",
-      "trendTitle": "england vs india",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Where to watch England vs India live stream, TV channel, start time and lineups for 2nd ODI",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/where-watch-england-vs-india-033002777.html",
-          "publishedAt": "2026-07-16T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "England bowl; Kishan in for unwell Rahul",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/eng-vs-ind-2nd-odi-england-bowl-kishan-in-for-unwell-rahul-1545870",
-          "publishedAt": "2026-07-16T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "England vs India, second one-day international: Cricket score, updates, video and analysis from Cardiff",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/cricket/live-blog/12123/13563977/england-vs-india-second-one-day-international-cricket-score-updates-video-and-analysis-from-cardiff",
-          "publishedAt": "2026-07-16T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Where to watch England vs India live stream, TV channel, start time and lineups for 2nd ODI",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/where-watch-england-vs-india-033002777.html",
-        "publishedAt": "2026-07-16T12:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-16T12:00:00.000Z",
-      "firstSeenAt": "2026-07-16T13:50:37.778Z",
-      "lastSeenAt": "2026-07-16T13:50:37.778Z",
-      "title": "england vs india",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/where-watch-england-vs-india-033002777.html",
-      "rank": 4
-    },
-    {
-      "id": "d443eda6c8f1f9ff",
-      "issueKey": "협박",
-      "issueTitle": "협박",
-      "trendTitle": "협박",
+      "id": "dc859832f555405f",
+      "issueKey": "김성령",
+      "issueTitle": "김성령",
+      "trendTitle": "김성령",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"장염 걸려서 응급실 다녀왔거든요?\"…전국 횟집 벌벌 떨게 한 '목소리'의 정체 [사기꾼들]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BVajA0tWjS",
-          "publishedAt": "2026-07-16T11:40:00.000Z",
+          "title": "김성령 \"주얼리 협찬만 30억…경호원 계속 따라다녀\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/celebrity/2026/07/16/25LWKK2BRFHK5NQW3ZML6OPMCQ/",
+          "publishedAt": "2026-07-16T12:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“회 먹고 급성장염” 횟집에 협박전화…넉달간 800여만원 뜯어",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260716/134310255/2",
-          "publishedAt": "2026-07-16T11:40:00.000Z",
+          "title": "김성령 아들, 길거리 캐스팅될 만했네…엄마 닮은 훈훈한 외모 ('라스')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716120215783",
+          "publishedAt": "2026-07-16T12:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"회 먹고 응급실\" 전국 횟집 울린 사기범…출소 5일 만에 또 범행",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6229209",
-          "publishedAt": "2026-07-16T11:40:00.000Z",
+          "title": "김성령 \"둘째 아들 연예계 데뷔할 뻔…서강준 통해 거절\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260716_0003711565",
+          "publishedAt": "2026-07-16T12:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“회 먹고 급성장염” 횟집에 협박전화…넉달간 800여만원 뜯어",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260716/134310255/2",
-        "publishedAt": "2026-07-16T11:40:00.000Z",
-        "relevanceScore": 2
+        "title": "김성령 \"주얼리 협찬만 30억…경호원 계속 따라다녀\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/celebrity/2026/07/16/25LWKK2BRFHK5NQW3ZML6OPMCQ/",
+        "publishedAt": "2026-07-16T12:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-07-16T11:40:00.000Z",
-      "firstSeenAt": "2026-07-16T13:50:37.778Z",
-      "lastSeenAt": "2026-07-16T13:50:37.778Z",
-      "title": "협박",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Society/article/all/20260716/134310255/2",
-      "rank": 5
+      "publishedAt": "2026-07-16T12:50:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "김성령",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/celebrity/2026/07/16/25LWKK2BRFHK5NQW3ZML6OPMCQ/",
+      "rank": 9
     },
     {
-      "id": "d9b56e6fa264d9bc",
-      "issueKey": "영주권",
-      "issueTitle": "영주권",
-      "trendTitle": "영주권",
+      "id": "f1564dca8604d330",
+      "issueKey": "김나영",
+      "issueTitle": "김나영",
+      "trendTitle": "김나영",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "돈 없으면 美 오지마라? 영주권 신청자에 최대 1.5억 보증금 검토",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260716153849836",
-          "publishedAt": "2026-07-16T11:40:00.000Z",
+          "title": "김나영, '부실 밥상' 논란 또 해명 \"우리 가족 충분히 배부르다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260716_0003711420",
+          "publishedAt": "2026-07-16T12:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "미국, 영주권 신청자에 10만달러 보증금 검토…\"재정 자립 증명해야\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02640406645515176",
-          "publishedAt": "2026-07-16T11:40:00.000Z",
+          "title": "'억까' 논란, 모두가 피로하다…'팔짱' 장원영·'부실 밥상' 김나영까지 과한 잣대 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716172148495",
+          "publishedAt": "2026-07-16T12:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "취업비자 사기 뿌리 뽑는다…불법 행위에 대대적 조사",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260714212212066",
-          "publishedAt": "2026-07-16T11:40:00.000Z",
+          "title": "‘마이큐♥’와 혼인신고 마친 김나영, 부실 밥상 논란에 해명…“음식 남으면 마음 아파”",
+          "source": "TopStarNews",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16136413",
+          "publishedAt": "2026-07-16T12:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "돈 없으면 美 오지마라? 영주권 신청자에 최대 1.5억 보증금 검토",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716153849836",
-        "publishedAt": "2026-07-16T11:40:00.000Z",
+        "title": "김나영, '부실 밥상' 논란 또 해명 \"우리 가족 충분히 배부르다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260716_0003711420",
+        "publishedAt": "2026-07-16T12:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-16T11:40:00.000Z",
-      "firstSeenAt": "2026-07-16T13:50:37.778Z",
-      "lastSeenAt": "2026-07-16T13:50:37.778Z",
-      "title": "영주권",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260716153849836",
-      "rank": 6
-    },
-    {
-      "id": "57e72bd13e3ec6e9",
-      "issueKey": "상장폐지",
-      "issueTitle": "상장폐지",
-      "trendTitle": "상장폐지",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "오전 운 띄우고 오후 전격 발표…’ETF 대책’ 뚜껑 열어보니 [뉴스더보기]",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260716185328867",
-          "publishedAt": "2026-07-16T11:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[아주경제 오늘의 뉴스 종합] 신규상장 잠정 중단, 예탁금 3000만원 상향…단일종목 레버리지 대책 나왔다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260716220013949",
-          "publishedAt": "2026-07-16T11:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "삼전닉스 레버리지 예탁금, 현금 3000만원으로 상향",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/07/16/ELYYOWDUA5C5VBZD2EJF3SYY5U/",
-          "publishedAt": "2026-07-16T11:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "상장폐지",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260716185328867",
-        "publishedAt": "2026-07-16T11:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-16T11:10:00.000Z",
-      "firstSeenAt": "2026-07-16T13:50:37.778Z",
-      "lastSeenAt": "2026-07-16T13:50:37.778Z",
-      "title": "상장폐지",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260716185328867",
-      "rank": 7
-    },
-    {
-      "id": "4ba4217efd748408",
-      "issueKey": "로리 맥길로이",
-      "issueTitle": "로리 맥길로이",
-      "trendTitle": "로리 맥길로이",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "11년 걸린 맥길로이, 6번 눈물 흘린 미컬슨의 '기록' [박호윤의 IN&OUT]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5IO7MSCEA3",
-          "publishedAt": "2026-07-16T11:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "시즌 마지막 메이저 골프 대회 디오픈 개막…한국 선수 5명 출전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260716007400007",
-          "publishedAt": "2026-07-16T11:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정비공 출신 난치병 골퍼, 메이저 디오픈 무대에",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260716043450229",
-          "publishedAt": "2026-07-16T11:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "로리 맥길로이",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/5IO7MSCEA3",
-        "publishedAt": "2026-07-16T11:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-16T11:10:00.000Z",
-      "firstSeenAt": "2026-07-16T13:50:37.778Z",
-      "lastSeenAt": "2026-07-16T13:50:37.778Z",
-      "title": "로리 맥길로이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/5IO7MSCEA3",
-      "rank": 8
+      "publishedAt": "2026-07-16T12:50:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "김나영",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260716_0003711420",
+      "rank": 10
     }
   ],
   "history": [
@@ -1679,6 +1773,52 @@
       "url": "https://www.mt.co.kr/stock/2026/07/14/2026071408500455654"
     },
     {
+      "id": "e1eb40b67294536d",
+      "issueKey": "이동국",
+      "issueTitle": "이동국",
+      "trendTitle": "이동국",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "자식 농사 대박 났네…이동국 아들 이시안, 브라질행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260716145104487",
+          "publishedAt": "2026-07-16T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이동국 아들 대박이, 유소년 축구 프로젝트 최종 12인 발탁…브라질 향한다, DNA 깜짝 [★해시태그]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260716n08349",
+          "publishedAt": "2026-07-16T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이동국 아들 ’대박이’ 브라질행...유소년 축구 프로젝트 선발",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260716172000Rg2",
+          "publishedAt": "2026-07-16T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "자식 농사 대박 났네…이동국 아들 이시안, 브라질행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260716145104487",
+        "publishedAt": "2026-07-16T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-16T13:50:00.000Z",
+      "firstSeenAt": "2026-07-16T16:16:42.622Z",
+      "lastSeenAt": "2026-07-16T16:16:42.622Z",
+      "title": "이동국",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260716145104487"
+    },
+    {
       "id": "1cd64eee31a8f88c",
       "issueKey": "골재",
       "issueTitle": "골재",
@@ -2183,52 +2323,6 @@
       "title": "아버지",
       "source": "Daum",
       "url": "https://v.daum.net/v/WI0k2bztCk"
-    },
-    {
-      "id": "2cdcbbe9534c5595",
-      "issueKey": "지연수",
-      "issueTitle": "지연수",
-      "trendTitle": "지연수",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "지연수 \"몸에 석박지 냄새 배어\"…이혼 후 생활고 고백",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260715060247379",
-          "publishedAt": "2026-07-15T06:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'이혼' 지연수, 곰탕집서 생계 \"일할 때 남자 수영복 입어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260714_0003707876",
-          "publishedAt": "2026-07-15T06:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이혼 지연수, 곰탕집 알바…“아들과 포옹 피해”, 이유는?",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260714/134299993/2",
-          "publishedAt": "2026-07-15T06:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "지연수 \"몸에 석박지 냄새 배어\"…이혼 후 생활고 고백",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260715060247379",
-        "publishedAt": "2026-07-15T06:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-15T06:40:00.000Z",
-      "firstSeenAt": "2026-07-15T08:10:09.651Z",
-      "lastSeenAt": "2026-07-15T08:10:09.651Z",
-      "title": "지연수",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260715060247379"
     }
   ]
 }
