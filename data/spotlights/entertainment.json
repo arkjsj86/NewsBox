@@ -7,39 +7,368 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-18T05:26:06.763Z",
+  "lastUpdatedAt": "2026-07-18T07:50:05.086Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
+      "id": "def28aae29facad9",
+      "issueKey": "화재",
+      "issueTitle": "화재",
+      "trendTitle": "화재",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보] 소방청, 인천 쿠팡 물류창고 화재에 국가소방동원령 발령",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6838332_36918.html",
+          "publishedAt": "2026-07-18T06:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "인천 쿠팡 물류센터서 불…“내부에 가연물 많아 진화 어려움”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8613977",
+          "publishedAt": "2026-07-18T06:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "인천 서해구 석남동 쿠팡물류센터 화재··· 대응 2단계 상향",
+          "source": "인천투데이",
+          "url": "https://www.incheontoday.com/news/articleView.html?idxno=321276",
+          "publishedAt": "2026-07-18T06:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[속보] 소방청, 인천 쿠팡 물류창고 화재에 국가소방동원령 발령",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6838332_36918.html",
+        "publishedAt": "2026-07-18T06:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T06:30:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "화재",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6838332_36918.html",
+      "rank": 1
+    },
+    {
+      "id": "4c52a19db898d399",
+      "issueKey": "유학",
+      "issueTitle": "유학",
+      "trendTitle": "유학",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“美유학 출국 앞두고 날벼락”… 韓학생-가족 등 2만5000명 비상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/BmUmSTlwuL",
+          "publishedAt": "2026-07-18T06:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“미국, 외국인 유학생 체류 기간 4년으로 제한”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8613308",
+          "publishedAt": "2026-07-18T06:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "美유학길 좁아진다… 학생비자 4년 제한",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260717/134319369/2",
+          "publishedAt": "2026-07-18T06:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“美유학 출국 앞두고 날벼락”… 韓학생-가족 등 2만5000명 비상",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/BmUmSTlwuL",
+        "publishedAt": "2026-07-18T06:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T06:20:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "유학",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/BmUmSTlwuL",
+      "rank": 2
+    },
+    {
+      "id": "feb5348f6b01c2c4",
+      "issueKey": "염승환",
+      "issueTitle": "염승환",
+      "trendTitle": "염승환",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[주간증시전망] 6800선까지 밀린 코스피…빅테크 실적이 반등 가를 분수령",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Q7c04B71SO",
+          "publishedAt": "2026-07-18T05:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"일주일 185% 폭등\" 하락장 속 개미가 띄운 기업들...전문가는 \"주의\"[김근희의 증시랩업]",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/18/2026071617470128256",
+          "publishedAt": "2026-07-18T05:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이달 약세장에도 선방한 중소형주…수익률 대형주 앞질러",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260717001000008",
+          "publishedAt": "2026-07-18T05:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "염승환",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Q7c04B71SO",
+        "publishedAt": "2026-07-18T05:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T05:20:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "염승환",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/Q7c04B71SO",
+      "rank": 3
+    },
+    {
+      "id": "d68d1bd3a7611fb2",
+      "issueKey": "파친코",
+      "issueTitle": "파친코",
+      "trendTitle": "파친코",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "전세계가 울었다…재편성에도 '시청률 4.1%' 신드롬→시즌2로 안방 극장 공략 나선 韓 드라마 ('파친코2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/U2YSNmDgZ6",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전 세계를 울린 '파친코', 시즌2로 안방극장 상륙",
+          "source": "미디어파인",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=83862",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전 세계 '극찬' 쏟아졌던 명작… 드디어 시즌2로 안방 찾아오는 tvN 드라마",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1146278",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "전세계가 울었다…재편성에도 '시청률 4.1%' 신드롬→시즌2로 안방 극장 공략 나선 韓 드라마 ('파친코2')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/U2YSNmDgZ6",
+        "publishedAt": "2026-07-18T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T04:50:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "파친코",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/U2YSNmDgZ6",
+      "rank": 4
+    },
+    {
+      "id": "779dce3462c34a6f",
+      "issueKey": "이정후",
+      "issueTitle": "이정후",
+      "trendTitle": "이정후",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이정후, 후반기 첫 경기부터 3안타 …시즌 30호 멀티 히트",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260718153327517",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "첫날 부터 3안타, '트레이드설' 비웃은 이정후의 맹폭, 美 매체 극찬과 '절대 불가론' 동시 소환",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/07/18/GAZDONTBG4YGIOJSG5RWKNLEHA/",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'와' 이정후 휴식기 보약이라도 먹었나, 39일 만에 안타-안타-안타 폭발+사구까지 완벽…SF 3연승 주역 우뚝(종합) [SF 리뷰]",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112841816",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이정후, 후반기 첫 경기부터 3안타 …시즌 30호 멀티 히트",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718153327517",
+        "publishedAt": "2026-07-18T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T04:50:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "이정후",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260718153327517",
+      "rank": 5
+    },
+    {
+      "id": "f0445872cdcaf60e",
+      "issueKey": "손흥민",
+      "issueTitle": "손흥민",
+      "trendTitle": "손흥민",
+      "approxTraffic": "100000+",
+      "trafficScore": 100000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘캡틴’ 손흥민, 월드컵 이후 소속팀 복귀 첫 경기서 1호골 폭발",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/18/HSSGDPLGSRHRLCQYL53R5S7UYA/",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "손흥민, 월드컵 이후 소속팀 첫 경기서 리그 1호골 폭발",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607181408001",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "무득점 족쇄 풀었다…홀가분해진 손흥민, 거침없는 비상 예고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260718034100007",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘캡틴’ 손흥민, 월드컵 이후 소속팀 복귀 첫 경기서 1호골 폭발",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/07/18/HSSGDPLGSRHRLCQYL53R5S7UYA/",
+        "publishedAt": "2026-07-18T04:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T04:30:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "손흥민",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_general/2026/07/18/HSSGDPLGSRHRLCQYL53R5S7UYA/",
+      "rank": 6
+    },
+    {
+      "id": "4f8c6b742e406e86",
+      "issueKey": "며느리",
+      "issueTitle": "며느리",
+      "trendTitle": "며느리",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "퇴근한 며느리 밥 차려주는 시모…\"나 괴롭히는 것\" 남편한테 따진 아내",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/women-family/6230392",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘가난한 시댁’ 수준차이 느꼈다는 며느리, 이유가…“복숭아 껍질도 안깎고 먹는다”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11603309",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"시댁에서 복숭아 껍질 안 깎고 먹어 좀 당황…집안 수준 느껴져\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260714_0003707846",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "퇴근한 며느리 밥 차려주는 시모…\"나 괴롭히는 것\" 남편한테 따진 아내",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/women-family/6230392",
+        "publishedAt": "2026-07-18T04:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T04:30:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "며느리",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/society/women-family/6230392",
+      "rank": 7
+    },
+    {
       "id": "135bc4acd89dff10",
       "issueKey": "프레디 프리먼",
       "issueTitle": "프레디 프리먼",
       "trendTitle": "프레디 프리먼",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
           "title": "\"다저스 떠나면 어쩌려고\" 프리먼 내년까지 계약 남아있는데…벌써 2년 연장 계약 주장 왜?",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260718044211735",
+          "url": "https://v.daum.net/v/96z4XvhDTC",
           "publishedAt": "2026-07-18T03:50:00.000Z",
           "relevanceScore": 3
-        },
-        {
-          "title": "'40세까지만 뛰겠다' 다저스 슈퍼스타 은퇴 계획 밝혔다…\"다저스와 새 계약? 지금은 올 시즌에만 집중할 것\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260716n14433",
-          "publishedAt": "2026-07-18T03:50:00.000Z",
-          "relevanceScore": 2
         },
         {
           "title": "다저스 MVP 타자가 직접 밝힌 은퇴 계획…\"40세까지 뛰고 싶다\"",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/sports/2026/07/16/202607161229776437O",
+          "publishedAt": "2026-07-18T03:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'40세까지만 뛰겠다' 다저스 슈퍼스타 은퇴 계획 밝혔다…\"다저스와 새 계약? 지금은 올 시즌에만 집중할 것\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260716n14433",
           "publishedAt": "2026-07-18T03:50:00.000Z",
           "relevanceScore": 1
         }
@@ -47,17 +376,17 @@
       "representativeArticle": {
         "title": "프레디 프리먼",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718044211735",
+        "url": "https://v.daum.net/v/96z4XvhDTC",
         "publishedAt": "2026-07-18T03:50:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-18T03:50:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
       "title": "프레디 프리먼",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260718044211735",
-      "rank": 1
+      "url": "https://v.daum.net/v/96z4XvhDTC",
+      "rank": 8
     },
     {
       "id": "f757c8bb78f8b739",
@@ -99,12 +428,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-18T03:40:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
       "title": "충돌",
       "source": "MBC 뉴스",
       "url": "https://imnews.imbc.com/news/2026/society/article/6838299_36918.html",
-      "rank": 2
+      "rank": 9
     },
     {
       "id": "2b7aa6187f417ff7",
@@ -117,16 +446,16 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "드디어 간다! 황인범, 명문 포르투와 3+1년 계약... \"내일 현지서 메디컬 테스트, 데뷔전은 1일 슈퍼컵\"",
+          "title": "“황인범, 85억에 포르투 간다” 페예노르트와 원칙적 합의…3년+1년 계약-일요일 메디컬",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260718080750615",
+          "url": "https://v.daum.net/v/BLRDGXYCTp",
           "publishedAt": "2026-07-18T03:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "황인범, 포르투갈 명문 포르투 입단 초읽기…“이적료 85억원 합의”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260718/134319924/1",
+          "title": "황인범, 포르투갈 명문 포르투 입단 초읽기…\"이적료 85억원 합의\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260718_0003713547",
           "publishedAt": "2026-07-18T03:40:00.000Z",
           "relevanceScore": 2
         },
@@ -139,171 +468,39 @@
         }
       ],
       "representativeArticle": {
-        "title": "드디어 간다! 황인범, 명문 포르투와 3+1년 계약... \"내일 현지서 메디컬 테스트, 데뷔전은 1일 슈퍼컵\"",
+        "title": "“황인범, 85억에 포르투 간다” 페예노르트와 원칙적 합의…3년+1년 계약-일요일 메디컬",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260718080750615",
+        "url": "https://v.daum.net/v/BLRDGXYCTp",
         "publishedAt": "2026-07-18T03:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-18T03:40:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
       "title": "황인범",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260718080750615",
-      "rank": 3
-    },
-    {
-      "id": "7baf75f51c9d0d7d",
-      "issueKey": "후보",
-      "issueTitle": "후보",
-      "trendTitle": "후보",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260717/134319258/2",
-          "publishedAt": "2026-07-18T03:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[토요와이드] 민주, 송영길·김용 출마 허용…친청계는 반발 속 묵인",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260718131928gif",
-          "publishedAt": "2026-07-18T03:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김민석·정청래·송영길에 고민정·김보미까지···민주당 당대표 ‘5파전’ 공식화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607171825001",
-          "publishedAt": "2026-07-18T03:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "與 최고위원 5명 뽑는데 14명 후보등록… 친명 10명-친청 3명",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260717/134319258/2",
-        "publishedAt": "2026-07-18T03:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-18T03:30:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
-      "title": "후보",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Politics/article/all/20260717/134319258/2",
-      "rank": 4
-    },
-    {
-      "id": "9ffd0589d628dc87",
-      "issueKey": "김시우",
-      "issueTitle": "김시우",
-      "trendTitle": "김시우",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "분위기 바뀐 임성재, 디오픈 둘째날 어땠나? [PGA 메이저]",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021192",
-          "publishedAt": "2026-07-18T03:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김시우, 디오픈 2R 공동 5위 점프…임성재는 공동 25위로 밀려나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Yx72Y31ytR",
-          "publishedAt": "2026-07-18T03:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "양지호·함정우, 생애 첫 ‘디오픈 챔피언십’ 출전 “꿈에 그리던 무대...1차 목표는 컷 통과다”",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/sbsgolf/golfnews/article/78652/G20000002458",
-          "publishedAt": "2026-07-18T03:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김시우, 디오픈 2R 공동 5위 점프…임성재는 공동 25위로 밀려나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Yx72Y31ytR",
-        "publishedAt": "2026-07-18T03:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-18T03:20:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
-      "title": "김시우",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/Yx72Y31ytR",
-      "rank": 5
-    },
-    {
-      "id": "1eb7da6d56d883ca",
-      "issueKey": "한국",
-      "issueTitle": "한국",
-      "trendTitle": "한국",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"군용선박 75~80% 한국이 건조하면 美가 구매 가능\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/industry-company/2026/07/18/WOI4MSBEGBFPBEX44PEEIEV4ZY/",
-          "publishedAt": "2026-07-18T03:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“군함 80% 한국서 만들자”는데…美, 바로 못 사는 이유 [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260717601010",
-          "publishedAt": "2026-07-18T03:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "법 개정도 어려운데…한미 조선 협력 ‘진짜 장벽은 美 노조’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260717060707003?f=p",
-          "publishedAt": "2026-07-18T03:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"군용선박 75~80% 한국이 건조하면 美가 구매 가능\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/industry-company/2026/07/18/WOI4MSBEGBFPBEX44PEEIEV4ZY/",
-        "publishedAt": "2026-07-18T03:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-18T03:10:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
-      "title": "한국",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/industry-company/2026/07/18/WOI4MSBEGBFPBEX44PEEIEV4ZY/",
-      "rank": 6
-    },
+      "url": "https://v.daum.net/v/BLRDGXYCTp",
+      "rank": 10
+    }
+  ],
+  "history": [
     {
       "id": "f0445872cdcaf60e",
       "issueKey": "손흥민",
       "issueTitle": "손흥민",
       "trendTitle": "손흥민",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "100000+",
+      "trafficScore": 100000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 6,
       "relatedArticles": [
+        {
+          "title": "‘캡틴’ 손흥민, 월드컵 이후 소속팀 복귀 첫 경기서 1호골 폭발",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/07/18/HSSGDPLGSRHRLCQYL53R5S7UYA/",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 3
+        },
         {
           "title": "손흥민, 2026년 리그 1호골 '월드컵 한풀이' 해냈다…75분 출전 맹활약→LAFC도 라이벌전 3-0 완승 [MLS 리뷰]",
           "source": "네이트",
@@ -312,11 +509,25 @@
           "relevanceScore": 3
         },
         {
+          "title": "손흥민, 월드컵 이후 소속팀 첫 경기서 리그 1호골 폭발",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607181408001",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
           "title": "손흥민, 월드컵 이후 소속팀 첫 경기서 MLS 시즌 1호골 폭발(종합)",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260718030051007",
           "publishedAt": "2026-07-18T03:00:00.000Z",
           "relevanceScore": 2
+        },
+        {
+          "title": "무득점 족쇄 풀었다…홀가분해진 손흥민, 거침없는 비상 예고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260718034100007",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 1
         },
         {
           "title": "손흥민이 돌아왔다…LA 갤럭시전서 리그 마수걸이 득점포 '쾅'(종합)",
@@ -327,163 +538,19 @@
         }
       ],
       "representativeArticle": {
-        "title": "손흥민, 2026년 리그 1호골 '월드컵 한풀이' 해냈다…75분 출전 맹활약→LAFC도 라이벌전 3-0 완승 [MLS 리뷰]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260718n05786",
-        "publishedAt": "2026-07-18T03:00:00.000Z",
+        "title": "‘캡틴’ 손흥민, 월드컵 이후 소속팀 복귀 첫 경기서 1호골 폭발",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_general/2026/07/18/HSSGDPLGSRHRLCQYL53R5S7UYA/",
+        "publishedAt": "2026-07-18T04:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-18T03:00:00.000Z",
+      "publishedAt": "2026-07-18T04:30:00.000Z",
       "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
       "title": "손흥민",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260718n05786",
-      "rank": 7
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_general/2026/07/18/HSSGDPLGSRHRLCQYL53R5S7UYA/"
     },
-    {
-      "id": "7abb6aac46c62810",
-      "issueKey": "선글라스",
-      "issueTitle": "선글라스",
-      "trendTitle": "선글라스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“명품인줄 알았더니 다이소였어”…소녀시대 유리 선글라스 품절대란",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VRLlZTlwWV",
-          "publishedAt": "2026-07-18T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"명품인 줄 알았는데 2000원?\"…유리 '다이소 선글라스' 품절 대란",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/18/2026071810581159643",
-          "publishedAt": "2026-07-18T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"명품인 줄 알았는데 1000원\"...유리 선글라스, 다이소서 품절",
-          "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/563532",
-          "publishedAt": "2026-07-18T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“명품인줄 알았더니 다이소였어”…소녀시대 유리 선글라스 품절대란",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VRLlZTlwWV",
-        "publishedAt": "2026-07-18T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-18T02:50:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
-      "title": "선글라스",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/VRLlZTlwWV",
-      "rank": 8
-    },
-    {
-      "id": "aaf9f253fd04921d",
-      "issueKey": "바꿔",
-      "issueTitle": "바꿔",
-      "trendTitle": "바꿔",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'공산화 미화' 논란 딛고 5년 기다림 마침표→'부국제' 휩쓸고 하반기 출격 알린 韓 드라마 ('스피킹 데드')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260717183209032",
-          "publishedAt": "2026-07-18T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘스피킹 데드’ 한석규X정유미X이희준 “거대한 은폐의 구조” 하반기 공개 예정 ‘영화가 좋다’",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16138534",
-          "publishedAt": "2026-07-18T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[30회 BIFAN] ‘스피킹데드’ 박신규 작가 \"中원작 설정 다 바꿔, 韓실정에 맞췄다\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12307779",
-          "publishedAt": "2026-07-18T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[30회 BIFAN] ‘스피킹데드’ 박신규 작가 \"中원작 설정 다 바꿔, 韓실정에 맞췄다\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12307779",
-        "publishedAt": "2026-07-18T02:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-18T02:50:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
-      "title": "바꿔",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12307779",
-      "rank": 9
-    },
-    {
-      "id": "3e934470b5acad72",
-      "issueKey": "성영탁",
-      "issueTitle": "성영탁",
-      "trendTitle": "성영탁",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "조상우 안도의 한숨, KIA 중요한 고민 아직 안 끝났다… 9회의 수호신은 누가 될까",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QydOTYTsTM",
-          "publishedAt": "2026-07-18T02:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[18일 프리뷰] 2연승 노리는 KIA, 네일 후반기 첫 승 성공할까",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112841719",
-          "publishedAt": "2026-07-18T02:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[AI프리뷰] 18일 인천 SSG-KIA전, 해치 SSG 후반기 반등 이끌까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260718000052",
-          "publishedAt": "2026-07-18T02:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "성영탁",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/QydOTYTsTM",
-        "publishedAt": "2026-07-18T02:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-18T02:40:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
-      "title": "성영탁",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/QydOTYTsTM",
-      "rank": 10
-    }
-  ],
-  "history": [
     {
       "id": "f12f51ad289fe787",
       "issueKey": "박지성",
@@ -552,6 +619,52 @@
       "url": "https://v.daum.net/v/ySprbex21B"
     },
     {
+      "id": "779dce3462c34a6f",
+      "issueKey": "이정후",
+      "issueTitle": "이정후",
+      "trendTitle": "이정후",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이정후, 후반기 첫 경기부터 3안타 …시즌 30호 멀티 히트",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260718153327517",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "첫날 부터 3안타, '트레이드설' 비웃은 이정후의 맹폭, 美 매체 극찬과 '절대 불가론' 동시 소환",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/07/18/GAZDONTBG4YGIOJSG5RWKNLEHA/",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'와' 이정후 휴식기 보약이라도 먹었나, 39일 만에 안타-안타-안타 폭발+사구까지 완벽…SF 3연승 주역 우뚝(종합) [SF 리뷰]",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112841816",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이정후, 후반기 첫 경기부터 3안타 …시즌 30호 멀티 히트",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260718153327517",
+        "publishedAt": "2026-07-18T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T04:50:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "이정후",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260718153327517"
+    },
+    {
       "id": "57e72bd13e3ec6e9",
       "issueKey": "상장폐지",
       "issueTitle": "상장폐지",
@@ -596,6 +709,52 @@
       "title": "상장폐지",
       "source": "연합뉴스TV",
       "url": "https://www.yonhapnewstv.co.kr/news/MYH20260716185328867"
+    },
+    {
+      "id": "d68d1bd3a7611fb2",
+      "issueKey": "파친코",
+      "issueTitle": "파친코",
+      "trendTitle": "파친코",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "전세계가 울었다…재편성에도 '시청률 4.1%' 신드롬→시즌2로 안방 극장 공략 나선 韓 드라마 ('파친코2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/U2YSNmDgZ6",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전 세계를 울린 '파친코', 시즌2로 안방극장 상륙",
+          "source": "미디어파인",
+          "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=83862",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전 세계 '극찬' 쏟아졌던 명작… 드디어 시즌2로 안방 찾아오는 tvN 드라마",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1146278",
+          "publishedAt": "2026-07-18T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "전세계가 울었다…재편성에도 '시청률 4.1%' 신드롬→시즌2로 안방 극장 공략 나선 韓 드라마 ('파친코2')",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/U2YSNmDgZ6",
+        "publishedAt": "2026-07-18T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T04:50:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "파친코",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/U2YSNmDgZ6"
     },
     {
       "id": "6e89adf712dc8f28",
@@ -828,50 +987,50 @@
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8613581"
     },
     {
-      "id": "b88ca037e1680e0e",
-      "issueKey": "하이닉스",
-      "issueTitle": "하이닉스",
-      "trendTitle": "하이닉스",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "def28aae29facad9",
+      "issueKey": "화재",
+      "issueTitle": "화재",
+      "trendTitle": "화재",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "뉴욕 증시 SK하이닉스 ADR 급락...연준 \"AI 투자는 일시적 물가 상승 요인\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202607160712426316",
-          "publishedAt": "2026-07-16T04:10:00.000Z",
+          "title": "[속보] 소방청, 인천 쿠팡 물류창고 화재에 국가소방동원령 발령",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6838332_36918.html",
+          "publishedAt": "2026-07-18T06:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "최태원 “하이닉스 인수, 모두가 반대…임직원이 옳았음을 증명”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260716/134311500/1",
-          "publishedAt": "2026-07-16T04:10:00.000Z",
+          "title": "인천 쿠팡 물류센터서 불…“내부에 가연물 많아 진화 어려움”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8613977",
+          "publishedAt": "2026-07-18T06:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"400만닉스 전망에 적금 깼는데…\" 돌연 눈높이 낮춘 증권가에 개미 분통",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026071410420000990",
-          "publishedAt": "2026-07-16T04:10:00.000Z",
+          "title": "인천 서해구 석남동 쿠팡물류센터 화재··· 대응 2단계 상향",
+          "source": "인천투데이",
+          "url": "https://www.incheontoday.com/news/articleView.html?idxno=321276",
+          "publishedAt": "2026-07-18T06:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "뉴욕 증시 SK하이닉스 ADR 급락...연준 \"AI 투자는 일시적 물가 상승 요인\"",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0104_202607160712426316",
-        "publishedAt": "2026-07-16T04:10:00.000Z",
+        "title": "[속보] 소방청, 인천 쿠팡 물류창고 화재에 국가소방동원령 발령",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6838332_36918.html",
+        "publishedAt": "2026-07-18T06:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-16T04:10:00.000Z",
-      "firstSeenAt": "2026-07-16T05:41:02.078Z",
-      "lastSeenAt": "2026-07-16T05:41:02.078Z",
-      "title": "하이닉스",
-      "source": "YTN",
-      "url": "https://www.ytn.co.kr/_ln/0104_202607160712426316"
+      "publishedAt": "2026-07-18T06:30:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "화재",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6838332_36918.html"
     },
     {
       "id": "7baf75f51c9d0d7d",
@@ -1196,52 +1355,6 @@
       "url": "https://www.newsis.com/view/NISX20260716_0003711698"
     },
     {
-      "id": "73b47d6729b4db77",
-      "issueKey": "삼성전자",
-      "issueTitle": "삼성전자",
-      "trendTitle": "삼성전자",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "블룸버그 \"中 창신메모리 상장, 삼성전자·SK하이닉스 타격 받을 수 있어\" By The Guru",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2017378",
-          "publishedAt": "2026-07-16T04:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "中 CXMT 14조 조달할듯… D램 지각변동 신호탄",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260715/134307354/2",
-          "publishedAt": "2026-07-16T04:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "中 ‘반도체 추격’에 안보 흔들리는데…과실 나누며 한가한 韓 [Focus 인사이드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QAMnLZGhC6",
-          "publishedAt": "2026-07-16T04:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "블룸버그 \"中 창신메모리 상장, 삼성전자·SK하이닉스 타격 받을 수 있어\" By The Guru",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/stock-market-news/article-2017378",
-        "publishedAt": "2026-07-16T04:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-16T04:00:00.000Z",
-      "firstSeenAt": "2026-07-16T05:41:02.078Z",
-      "lastSeenAt": "2026-07-16T05:41:02.078Z",
-      "title": "삼성전자",
-      "source": "Investing.com 한국어",
-      "url": "https://kr.investing.com/news/stock-market-news/article-2017378"
-    },
-    {
       "id": "575e2604353bf70b",
       "issueKey": "성과급",
       "issueTitle": "성과급",
@@ -1353,6 +1466,52 @@
       "title": "군함 향하",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260717057900108"
+    },
+    {
+      "id": "4f8c6b742e406e86",
+      "issueKey": "며느리",
+      "issueTitle": "며느리",
+      "trendTitle": "며느리",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "퇴근한 며느리 밥 차려주는 시모…\"나 괴롭히는 것\" 남편한테 따진 아내",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/women-family/6230392",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘가난한 시댁’ 수준차이 느꼈다는 며느리, 이유가…“복숭아 껍질도 안깎고 먹는다”",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11603309",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"시댁에서 복숭아 껍질 안 깎고 먹어 좀 당황…집안 수준 느껴져\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260714_0003707846",
+          "publishedAt": "2026-07-18T04:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "퇴근한 며느리 밥 차려주는 시모…\"나 괴롭히는 것\" 남편한테 따진 아내",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/women-family/6230392",
+        "publishedAt": "2026-07-18T04:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-18T04:30:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "며느리",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/society/women-family/6230392"
     },
     {
       "id": "1eb7da6d56d883ca",
@@ -1815,50 +1974,50 @@
       "url": "https://v.daum.net/v/20260716085951182"
     },
     {
-      "id": "667d5604b9af8fd1",
-      "issueKey": "허양임",
-      "issueTitle": "허양임",
-      "trendTitle": "허양임",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "feb5348f6b01c2c4",
+      "issueKey": "염승환",
+      "issueTitle": "염승환",
+      "trendTitle": "염승환",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "고지용 아들 승재, 병원에서 포착…벌써 이렇게 컸네",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260716_0003712156",
-          "publishedAt": "2026-07-16T02:50:00.000Z",
+          "title": "[주간증시전망] 6800선까지 밀린 코스피…빅테크 실적이 반등 가를 분수령",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Q7c04B71SO",
+          "publishedAt": "2026-07-18T05:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'고지용♥' 허양임, 폭풍성장 13살 승재 공개..확 달라진 훈남 몰라보겠어 [핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/16/GIZTEMTEME4TMOJZGJSGGMLGGI/",
-          "publishedAt": "2026-07-16T02:50:00.000Z",
+          "title": "\"일주일 185% 폭등\" 하락장 속 개미가 띄운 기업들...전문가는 \"주의\"[김근희의 증시랩업]",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/07/18/2026071617470128256",
+          "publishedAt": "2026-07-18T05:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "고지용♥허양임 아들 승재, 훈훈한 13세 근황…청소까지 척척",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6229899",
-          "publishedAt": "2026-07-16T02:50:00.000Z",
+          "title": "이달 약세장에도 선방한 중소형주…수익률 대형주 앞질러",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260717001000008",
+          "publishedAt": "2026-07-18T05:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'고지용♥' 허양임, 폭풍성장 13살 승재 공개..확 달라진 훈남 몰라보겠어 [핫피플]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/broadcast/2026/07/16/GIZTEMTEME4TMOJZGJSGGMLGGI/",
-        "publishedAt": "2026-07-16T02:50:00.000Z",
-        "relevanceScore": 2
+        "title": "염승환",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/Q7c04B71SO",
+        "publishedAt": "2026-07-18T05:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-07-16T02:50:00.000Z",
-      "firstSeenAt": "2026-07-16T05:41:02.078Z",
-      "lastSeenAt": "2026-07-16T05:41:02.078Z",
-      "title": "허양임",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/broadcast/2026/07/16/GIZTEMTEME4TMOJZGJSGGMLGGI/"
+      "publishedAt": "2026-07-18T05:20:00.000Z",
+      "firstSeenAt": "2026-07-18T07:50:05.086Z",
+      "lastSeenAt": "2026-07-18T07:50:05.086Z",
+      "title": "염승환",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/Q7c04B71SO"
     },
     {
       "id": "7abb6aac46c62810",
@@ -2227,144 +2386,6 @@
       "title": "소방",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260717140525455"
-    },
-    {
-      "id": "53f376b4d9318026",
-      "issueKey": "심유진",
-      "issueTitle": "심유진",
-      "trendTitle": "심유진",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'긴급 귀국' 안세영 없는데…천위페이는 심유진이 막는다 → 32강+16강 모두 상위 랭커 제압, 8강서 우승후보와 격돌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260716175951883",
-          "publishedAt": "2026-07-17T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "멈춰선 '배드민턴 퀸'…안세영, 발 부상으로 일본오픈 기권",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260715125900007",
-          "publishedAt": "2026-07-17T04:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "승승장구하던 '셔틀콕 여제' 안세영, 왼발 부상으로 일본오픈 기권",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6229155",
-          "publishedAt": "2026-07-17T04:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'긴급 귀국' 안세영 없는데…천위페이는 심유진이 막는다 → 32강+16강 모두 상위 랭커 제압, 8강서 우승후보와 격돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260716175951883",
-        "publishedAt": "2026-07-17T04:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-17T04:10:00.000Z",
-      "firstSeenAt": "2026-07-17T05:42:30.593Z",
-      "lastSeenAt": "2026-07-17T05:42:30.593Z",
-      "title": "심유진",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260716175951883"
-    },
-    {
-      "id": "f757c8bb78f8b739",
-      "issueKey": "충돌",
-      "issueTitle": "충돌",
-      "trendTitle": "충돌",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "빗길에 버스-승용차 충돌해 15명 중경상",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6838299_36918.html",
-          "publishedAt": "2026-07-18T03:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'새벽 물폭탄' 침수·붕괴‥빗길 사고 4명 중상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260718120111351",
-          "publishedAt": "2026-07-18T03:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "강릉서 버스, 승용차와 충돌 후 전복…6명 부상",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260718_0003713557",
-          "publishedAt": "2026-07-18T03:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "빗길에 버스-승용차 충돌해 15명 중경상",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6838299_36918.html",
-        "publishedAt": "2026-07-18T03:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-18T03:40:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
-      "title": "충돌",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6838299_36918.html"
-    },
-    {
-      "id": "f0445872cdcaf60e",
-      "issueKey": "손흥민",
-      "issueTitle": "손흥민",
-      "trendTitle": "손흥민",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "손흥민, 2026년 리그 1호골 '월드컵 한풀이' 해냈다…75분 출전 맹활약→LAFC도 라이벌전 3-0 완승 [MLS 리뷰]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260718n05786",
-          "publishedAt": "2026-07-18T03:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "손흥민, 월드컵 이후 소속팀 첫 경기서 MLS 시즌 1호골 폭발(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260718030051007",
-          "publishedAt": "2026-07-18T03:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "손흥민이 돌아왔다…LA 갤럭시전서 리그 마수걸이 득점포 '쾅'(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260718_0003713650",
-          "publishedAt": "2026-07-18T03:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "손흥민, 2026년 리그 1호골 '월드컵 한풀이' 해냈다…75분 출전 맹활약→LAFC도 라이벌전 3-0 완승 [MLS 리뷰]",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260718n05786",
-        "publishedAt": "2026-07-18T03:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-18T03:00:00.000Z",
-      "firstSeenAt": "2026-07-18T05:26:06.763Z",
-      "lastSeenAt": "2026-07-18T05:26:06.763Z",
-      "title": "손흥민",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260718n05786"
     }
   ]
 }
