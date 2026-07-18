@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-18T07:50:05.086Z",
+  "lastUpdatedAt": "2026-07-18T10:18:01.679Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -60,22 +60,22 @@
         {
           "title": "성장한 T1 '도란' \"비판은 숙명, 칭찬해 준 팬들 위해 승리할 것\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=318622",
-          "meta": "리그 오브 레전드 · 8시간 전"
+          "meta": "리그 오브 레전드 · 13시간 전"
         },
         {
           "title": "아쉬운 8강 탈락... '구마유시' \"월즈 위한 좋은 예방주사\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=318623",
-          "meta": "리그 오브 레전드 · 11시간 전"
+          "meta": "리그 오브 레전드 · 16시간 전"
         },
         {
           "title": "LPL 전멸.. T1 VS KC, 젠지 VS DK 4강 성사",
           "url": "https://www.inven.co.kr/webzine/news/?news=318621",
-          "meta": "리그 오브 레전드 · 11시간 전"
+          "meta": "리그 오브 레전드 · 16시간 전"
         },
         {
           "title": "디펜딩 챔피언 젠지, 징동 2:0 제압하며 4강 진출",
           "url": "https://www.inven.co.kr/webzine/news/?news=318618",
-          "meta": "리그 오브 레전드 · 17시간 전"
+          "meta": "리그 오브 레전드 · 21시간 전"
         },
         {
           "title": "T1 '케리아' \"우승 시 '파리 야호' 공약\"",
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
