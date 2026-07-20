@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-20T11:45:06.997Z",
+  "lastUpdatedAt": "2026-07-20T14:06:00.649Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -33,22 +33,22 @@
         {
           "title": "복각 넘어 창작 생태계로, ‘넥슨 리플레이’가 그리는 미래는?",
           "url": "https://bbs.ruliweb.com/news/read/226926",
-          "meta": "댓글 16"
+          "meta": "댓글 17"
         },
         {
           "title": "전시도 게임처럼… 13년 만에 다시 태어난 ‘넥슨뮤지엄’에 가다",
           "url": "https://bbs.ruliweb.com/news/read/227068",
-          "meta": "댓글 8"
-        },
-        {
-          "title": "아스달 연대기, 플레이가 곧 성장이 되도록…뉴 월드",
-          "url": "https://bbs.ruliweb.com/news/read/226861",
-          "meta": "댓글 3"
+          "meta": "댓글 9"
         },
         {
           "title": "스마일게이트 스토브, 지난 15일(수) 횡스크롤 액션 RPG '그랜드체이스 클래식' 출시",
           "url": "https://bbs.ruliweb.com/news/read/227016",
           "meta": "댓글 3"
+        },
+        {
+          "title": "게임을 기록하고 경험을 연결하다… ‘넥슨뮤지엄’ 인터뷰",
+          "url": "https://bbs.ruliweb.com/news/read/227060",
+          "meta": "댓글 9"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "유럽연합(EU) 집행위원회 부위원장 헤나 비르쿠넨, 게임스컴에 첫 방문",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318680",
+          "meta": "6시간 전"
+        },
+        {
+          "title": "이벤트 종료 임박, 솔: 인챈트 강화 주문서 어디에 쓸까?",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318679",
+          "meta": "솔: 인챈트 · 6시간 전"
+        },
+        {
+          "title": "패스 오브 엑자일, 신규 확장팩 ‘올플레임의 저주’ 리그 프리뷰 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318678",
+          "meta": "패스 오브 엑자일 · 7시간 전"
+        },
+        {
           "title": "CDP 찾는다면? FiiO 무선 CD 플레이어 'DM15 R2R' 출시",
           "url": "https://www.inven.co.kr/webzine/news/?news=318675",
-          "meta": "21분 전"
+          "meta": "8시간 전"
         },
         {
-          "title": "벨킨, 닌텐도 스위치2 전용 충전·보호 라인업 강화... 야외 플레이 환경 개선",
+          "title": "AMD, 게이머를 위한 합리적인 프로세서 'AMD 라이젠 7 7700X3D' 출시",
           "url": "https://www.inven.co.kr/webzine/news/?news=318673",
-          "meta": "30분 전"
-        },
-        {
-          "title": "도서관에서도 조용하게, 로지텍 'M750' 무소음 무선 마우스 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318672",
-          "meta": "35분 전"
-        },
-        {
-          "title": "엔비디아, 베라 CPU 및 루빈 GPU 4만여 개로 일본 국가 AI 팩토리 구축",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318671",
-          "meta": "40분 전"
-        },
-        {
-          "title": "넷이즈, 신작 ‘컨커러스 블레이드: 삼국’ 7월 24일 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318670",
-          "meta": "컨커러스 블레이드 · 44분 전"
+          "meta": "8시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
