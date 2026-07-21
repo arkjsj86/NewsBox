@@ -7,529 +7,483 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-21T19:22:09.589Z",
+  "lastUpdatedAt": "2026-07-21T22:02:51.850Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "9a2217e9f637600e",
-      "issueKey": "폭염 수칙",
-      "issueTitle": "폭염 수칙",
-      "trendTitle": "폭염 수칙",
+      "id": "a4215a3126661d52",
+      "issueKey": "커피",
+      "issueTitle": "커피",
+      "trendTitle": "커피",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Five Cups of Coffee a Day Is Fine for Most Adults, Heart Association Says",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/health/wellness/coffee-study-american-heart-association-ab2f6b8c",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Caffeine and Cardiovascular Disease",
+          "source": "professional.heart.org",
+          "url": "https://professional.heart.org/en/science-news/caffeine-and-cardiovascular-disease",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Here's how much coffee is safe to drink every day, research says",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/life/health-wellness/2026/07/20/how-much-coffee-safe-each-day-heart-health/90980355007/",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "커피",
+        "source": "WSJ",
+        "url": "https://www.wsj.com/health/wellness/coffee-study-american-heart-association-ab2f6b8c",
+        "publishedAt": "2026-07-21T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T21:00:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "커피",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/health/wellness/coffee-study-american-heart-association-ab2f6b8c",
+      "rank": 1
+    },
+    {
+      "id": "70e3595cd7862194",
+      "issueKey": "소유진",
+      "issueTitle": "소유진",
+      "trendTitle": "소유진",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "541m 위에서 히어로 데뷔…서울스카이에 '스파이더맨' 떴다",
+          "title": "소유진 딸, '100만 뷰' 쇼츠 장인…백종원 닮은 외모에 엄마끼 물려받아",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721090640685",
-          "publishedAt": "2026-07-21T17:50:00.000Z",
+          "url": "https://v.daum.net/v/qLaAQu0HwO",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'스파이더맨: 브랜드 뉴 데이', 팝업 첫날부터 2천명 넘었다...여의도에 뜬 '친절한 이웃'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/movie/2026/07/21/GNQTGOLBMM2TGN3CGE3WKMDBGY/",
-          "publishedAt": "2026-07-21T17:50:00.000Z",
+          "title": "[연재] 엑스포츠뉴스 '★해시태그'",
+          "source": "ZUM 뉴스",
+          "url": "https://news.zum.com/photo/58248214/106763562",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘스파이더맨’은 폭염 수칙, ‘엘사’는 폭우 예보",
-          "source": "ER 이코노믹리뷰",
-          "url": "https://www.econovill.com/news/articleView.html?idxno=745697",
-          "publishedAt": "2026-07-21T17:50:00.000Z",
+          "title": "소유진, 백종원 닮은 막내딸 공개…훌쩍 큰 근황",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260721_0003716590",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘스파이더맨’은 폭염 수칙, ‘엘사’는 폭우 예보",
-        "source": "ER 이코노믹리뷰",
-        "url": "https://www.econovill.com/news/articleView.html?idxno=745697",
-        "publishedAt": "2026-07-21T17:50:00.000Z",
-        "relevanceScore": 1
+        "title": "소유진 딸, '100만 뷰' 쇼츠 장인…백종원 닮은 외모에 엄마끼 물려받아",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qLaAQu0HwO",
+        "publishedAt": "2026-07-21T21:00:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-07-21T17:50:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "폭염 수칙",
-      "source": "ER 이코노믹리뷰",
-      "url": "https://www.econovill.com/news/articleView.html?idxno=745697",
-      "rank": 1
+      "publishedAt": "2026-07-21T21:00:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "소유진",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/qLaAQu0HwO",
+      "rank": 2
     },
     {
-      "id": "bbff9766f50dcecf",
-      "issueKey": "이자",
-      "issueTitle": "이자",
-      "trendTitle": "이자",
+      "id": "e37b166dfa2f41b1",
+      "issueKey": "박나래",
+      "issueTitle": "박나래",
+      "trendTitle": "박나래",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“폭로 안 할게요. 매출 10% 주세요”…박나래 전 매니저 구속",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139912",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "박나래 협박한 전 매니저 구속 송치…공갈미수 혐의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8616010",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"박나래는 감옥 갈 수도\" 전망한 변호사…전 매니저 구속에 \"최근 선임, 수사는 오래전부터\" [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZXR8haLxtg?f=p",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“폭로 안 할게요. 매출 10% 주세요”…박나래 전 매니저 구속",
+        "source": "국민일보",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139912",
+        "publishedAt": "2026-07-21T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T20:50:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "박나래",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139912",
+      "rank": 3
+    },
+    {
+      "id": "450474634a4fa47c",
+      "issueKey": "skhy",
+      "issueTitle": "skhy",
+      "trendTitle": "skhy",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "울산시, 시금고 예금금리 인상…\"재정건전성 강화\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721174750912",
-          "publishedAt": "2026-07-21T17:00:00.000Z",
+          "title": "SKHY: HV at 221% is running way ahead of IV",
+          "source": "Moomoo",
+          "url": "https://www.moomoo.com/community/feed/skhy-hv-at-221-is-running-way-ahead-of-iv-116956949381126",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "울산시 금고 경남은행·농협은행, 예금금리 상향 조정",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1124218",
-          "publishedAt": "2026-07-21T17:00:00.000Z",
+          "title": "AMD, Micron, SK Hynix climb as semiconductor complex attempt recovery",
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/article/amd-micron-sk-hynix-climb-as-semiconductor-complex-attempt-recovery-133110868.html",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김상욱 울산시장, ‘시금고 재정 혁신’",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139789&amp;code=61122021&amp;sid1=prj",
-          "publishedAt": "2026-07-21T17:00:00.000Z",
+          "title": "QUICK SPARK: Intel And Micron Lead Semi Stock Rebound — Expert Blames Hegde Funds For Sell Off",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/analyst-color/26/07/60590744/quick-spark-intel-and-micron-lead-semi-stock-rebound-expert-blames-hegde-funds-for-sell-off",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "이자",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721174750912",
-        "publishedAt": "2026-07-21T17:00:00.000Z",
+        "title": "SKHY: HV at 221% is running way ahead of IV",
+        "source": "Moomoo",
+        "url": "https://www.moomoo.com/community/feed/skhy-hv-at-221-is-running-way-ahead-of-iv-116956949381126",
+        "publishedAt": "2026-07-21T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-21T17:00:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "이자",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260721174750912",
-      "rank": 2
+      "publishedAt": "2026-07-21T20:50:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "skhy",
+      "source": "Moomoo",
+      "url": "https://www.moomoo.com/community/feed/skhy-hv-at-221-is-running-way-ahead-of-iv-116956949381126",
+      "rank": 4
     },
     {
-      "id": "982468122b1dd584",
-      "issueKey": "악어",
-      "issueTitle": "악어",
-      "trendTitle": "악어",
+      "id": "68176b115af10ce1",
+      "issueKey": "재건축",
+      "issueTitle": "재건축",
+      "trendTitle": "재건축",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721182100061",
-          "publishedAt": "2026-07-21T16:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[현장영상] \"AI 영상 아니었어?\"…여주 하천서 발견된 '진짜 악어'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666546",
-          "publishedAt": "2026-07-21T16:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여주 하천서 포획 악어, 국제 멸종위기종이었다…\"최대 4m까지 성장\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/21/2026072121243967000",
-          "publishedAt": "2026-07-21T16:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260721182100061",
-        "publishedAt": "2026-07-21T16:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-21T16:00:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "악어",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260721182100061",
-      "rank": 3
-    },
-    {
-      "id": "8b407f29e4b61b0d",
-      "issueKey": "품절",
-      "issueTitle": "품절",
-      "trendTitle": "품절",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
+          "title": "이 대통령, ‘17억 근저당’ 집 매각 논란에… 청와대 “사적인연 주장 사실무근, 근저당 설정 투명하게 진행”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260721082708471",
-          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "url": "https://v.daum.net/v/20260722050311105",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "품절, 품절, 품절…\"이게 1000원?\" 다이소 또 터졌다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607217304g",
-          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "title": "대출 조일 때마다 '근저당' 쑥...강남선 \"집주인 근저당, 종종 있었다\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/07/22/2026072121070520499",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[이슈프리즘] 신뢰 파는 다이소, 불신 파는 정치",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260720n35301",
-          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "title": "이 대통령 \"부동산 불법·편법\" 지적하자…\"자아비판중?\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12309424",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "품절, 품절, 품절…\"이게 1000원?\" 다이소 또 터졌다",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607217304g",
-        "publishedAt": "2026-07-21T15:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-21T15:50:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "품절",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202607217304g",
-      "rank": 4
-    },
-    {
-      "id": "c8d8589c3643da36",
-      "issueKey": "앤서니 테일러",
-      "issueTitle": "앤서니 테일러",
-      "trendTitle": "앤서니 테일러",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 가족에게 감사해\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260722n00454",
-          "publishedAt": "2026-07-21T15:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"수치스럽다\" 무리뉴 극딜에도 버텼던 앤서니 테일러, 결국 휘슬 내려놓는다…\"압박감 심했다\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-07-22/202607220100131940008393",
-          "publishedAt": "2026-07-21T15:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "손흥민이 심판에 이렇게 폭발한 적 있었나…가나전 '벤투 퇴장' 그 주심, 은퇴한다 \"엄청난 특권이었다\"",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2174577",
-          "publishedAt": "2026-07-21T15:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 가족에게 감사해\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260722n00454",
-        "publishedAt": "2026-07-21T15:50:00.000Z",
+        "title": "재건축",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260722050311105",
+        "publishedAt": "2026-07-21T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-21T15:50:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "앤서니 테일러",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260722n00454",
+      "publishedAt": "2026-07-21T20:50:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "재건축",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260722050311105",
       "rank": 5
     },
     {
-      "id": "195801820b800e67",
-      "issueKey": "흘린 이유는",
-      "issueTitle": "흘린 이유는",
-      "trendTitle": "흘린 이유는",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"부정 했는데 어쨌든 오빠\" 강유경 몰표 불구 결국 '폭스남' 박우열 선택('하시5')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721234907069?t=m&amp;x_mn=6a5f89affbddf26a833d5456",
-          "publishedAt": "2026-07-21T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'하트 시그널' 강유경이 최종선택 전 눈물 흘린 이유는?",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672",
-          "publishedAt": "2026-07-21T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "한 달 동안 가득 찬 여덟 남녀의 추억들! 이제는 보내줘야 할 시간이 왔다?!",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000541025.do",
-          "publishedAt": "2026-07-21T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'하트 시그널' 강유경이 최종선택 전 눈물 흘린 이유는?",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672",
-        "publishedAt": "2026-07-21T15:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-21T15:40:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "흘린 이유는",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672",
-      "rank": 6
-    },
-    {
-      "id": "eb1969b25ae01ddb",
-      "issueKey": "박기량",
-      "issueTitle": "박기량",
-      "trendTitle": "박기량",
+      "id": "27225d842bc7885e",
+      "issueKey": "김보형",
+      "issueTitle": "김보형",
+      "trendTitle": "김보형",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[사진]리센느 리브, 고향서 시구해요",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GM3WIYZZG43DQMDFGBSTSYZXMY/",
-          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "title": "[김보형의 뷰파인더] 보스턴다이내믹스 美 상장 '파란불현대차그룹 지배구조 개편 나서나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721080537898",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[MD포토] 김민석, '동점 적시타 해냈다!'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260721n36449",
-          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "title": "[만화경] 토이스토리와 아틀라스",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20070172",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "르센느 리브-메이 ‘야구장 나들이’ [MK포토]",
-          "source": "m.mksports.co.kr",
-          "url": "https://www.mksports.co.kr/news/entertain/12103725",
-          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "title": "거버넌스포럼 “현대차 비핵심 자산 1.7조 팔아 주주에게 돌려야”",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1124418",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "박기량",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GM3WIYZZG43DQMDFGBSTSYZXMY/",
-        "publishedAt": "2026-07-21T15:40:00.000Z",
+        "title": "[김보형의 뷰파인더] 보스턴다이내믹스 美 상장 '파란불현대차그룹 지배구조 개편 나서나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721080537898",
+        "publishedAt": "2026-07-21T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-21T15:40:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "박기량",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GM3WIYZZG43DQMDFGBSTSYZXMY/",
+      "publishedAt": "2026-07-21T20:50:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "김보형",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260721080537898",
+      "rank": 6
+    },
+    {
+      "id": "afae85ec31d2745d",
+      "issueKey": "황보라",
+      "issueTitle": "황보라",
+      "trendTitle": "황보라",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "황보라, 25개월 아들 차도로 돌진…순식간 돌발행동에 '철렁'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/zhNhgzu5OP",
+          "publishedAt": "2026-07-21T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "황보라, 차도로 뛰어가는 子..돌발 상황에 식겁 \"미아 될 뻔\"(보라이어티)[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/21/GMYGMMJQGZRGIMJUGU2TKMZVGQ/",
+          "publishedAt": "2026-07-21T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "황보라, 子 차도로 돌진…결국 경찰서 달려갔다 \"미아방지 등록\" ('보라이어티')",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026072178424",
+          "publishedAt": "2026-07-21T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "황보라, 25개월 아들 차도로 돌진…순식간 돌발행동에 '철렁'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/zhNhgzu5OP",
+        "publishedAt": "2026-07-21T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T20:40:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "황보라",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/zhNhgzu5OP",
       "rank": 7
     },
     {
-      "id": "93fe13b2fed351ab",
-      "issueKey": "정철원",
-      "issueTitle": "정철원",
-      "trendTitle": "정철원",
+      "id": "b84abb15bdec962d",
+      "issueKey": "이소희",
+      "issueTitle": "이소희",
+      "trendTitle": "이소희",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격",
+          "title": "女 복식 세계 4위 이소희-백하나, 중국 오픈 32강 힘겹게 통과…25위 장징휘-양징툰에 2-1 역전승",
           "source": "Daum",
-          "url": "https://v.daum.net/v/QS653lIkvl",
-          "publishedAt": "2026-07-21T15:30:00.000Z",
+          "url": "https://v.daum.net/v/YPMdbXYC3H",
+          "publishedAt": "2026-07-21T20:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'벌써 한 달' 전준우 1군 등록 없었다, 정철원 1군 등록...'종아리 통증' 황성빈도 사라졌다 [오!쎈 부산]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/21/202607211547779748O",
-          "publishedAt": "2026-07-21T15:30:00.000Z",
+          "title": "배드민턴: 백하나-이소희, 여자 복식 16강 진출 - BWF 중국오픈 2026",
+          "source": "Olympic Channel",
+          "url": "https://www.olympics.com/ko/news/baek-hana-lee-sohee-womens-doubles-round32-bwf-china-open-2026",
+          "publishedAt": "2026-07-21T20:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "2군 내려간지 한 달 지났다…타율 3할5푼8리 롯데 캡틴, 드디어 1군 콜업 기회 올까",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112843002",
-          "publishedAt": "2026-07-21T15:30:00.000Z",
+          "title": "韓 배드민턴 충격패, 中 기권→절호의 우승 찬스 놓쳤다…'여복 세계 3위' 백하나-이소희, 21위 美 듀오에 1-2 역전패",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260716n29745",
+          "publishedAt": "2026-07-21T20:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격",
+        "title": "女 복식 세계 4위 이소희-백하나, 중국 오픈 32강 힘겹게 통과…25위 장징휘-양징툰에 2-1 역전승",
         "source": "Daum",
-        "url": "https://v.daum.net/v/QS653lIkvl",
-        "publishedAt": "2026-07-21T15:30:00.000Z",
+        "url": "https://v.daum.net/v/YPMdbXYC3H",
+        "publishedAt": "2026-07-21T20:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-21T15:30:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "정철원",
+      "publishedAt": "2026-07-21T20:40:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "이소희",
       "source": "Daum",
-      "url": "https://v.daum.net/v/QS653lIkvl",
+      "url": "https://v.daum.net/v/YPMdbXYC3H",
       "rank": 8
     },
     {
-      "id": "18cf7e7f4add4b64",
-      "issueKey": "킬러들",
-      "issueTitle": "킬러들",
-      "trendTitle": "킬러들",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "30b056af52138061",
+      "issueKey": "주북 무관단",
+      "issueTitle": "주북 무관단",
+      "trendTitle": "주북 무관단",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "충남서 찍은 '킬러들의 쇼핑몰 2'…\"지역 상권 소비로 이어져\"",
+          "title": "[북한단신] 주북 무관단, 정전 73주년 앞두고 김정은에 꽃바구니",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721146400063",
-          "publishedAt": "2026-07-21T15:10:00.000Z",
+          "url": "https://www.yna.co.kr/view/AKR20260721164200504",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "김혜준, 진정한 '액션 퀸'으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721080550907",
-          "publishedAt": "2026-07-21T15:10:00.000Z",
+          "title": "北 \"전승세대의 충성과 전통 계승해야\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8018933",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이동욱, “‘킬러들의 쇼핑몰2’ 시즌2 차별 요소는 각 인물 고유한 액션”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8614934",
-          "publishedAt": "2026-07-21T15:10:00.000Z",
+          "title": "[포토] 전쟁노병 이야기 듣는 北 학생들",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/north/2026/07/21/20260721801002",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "충남서 찍은 '킬러들의 쇼핑몰 2'…\"지역 상권 소비로 이어져\"",
+        "title": "[북한단신] 주북 무관단, 정전 73주년 앞두고 김정은에 꽃바구니",
         "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260721146400063",
-        "publishedAt": "2026-07-21T15:10:00.000Z",
+        "url": "https://www.yna.co.kr/view/AKR20260721164200504",
+        "publishedAt": "2026-07-21T20:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-21T15:10:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "킬러들",
+      "publishedAt": "2026-07-21T20:30:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "주북 무관단",
       "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260721146400063",
+      "url": "https://www.yna.co.kr/view/AKR20260721164200504",
       "rank": 9
     },
     {
-      "id": "25893ea81f1a53bf",
-      "issueKey": "코스닥",
-      "issueTitle": "코스닥",
-      "trendTitle": "코스닥",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "169b52c3c03079aa",
+      "issueKey": "감긴 독사",
+      "issueTitle": "감긴 독사",
+      "trendTitle": "감긴 독사",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "고점 대비 40% 급락…'삼천닥' 외치다 거래 실종된 코스닥",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607217490i",
-          "publishedAt": "2026-07-21T15:00:00.000Z",
+          "title": "자전거 체인에 감긴 독사, 운전자 허벅지 물어…호주서 아찔한 사고",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260716173836Gyc",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "3000스닥은커녕 1000스닥도 요원 ‘백약이 무효’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1269291.html",
-          "publishedAt": "2026-07-21T15:00:00.000Z",
+          "title": "자전거 타다가 2m 뱀 밟은 호주 여성…허벅지 물려",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Ped2xQ8BAB?f=p",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "뒤처지는 코스닥… 글로벌 지수 수익률 4위서 38위로",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166209",
-          "publishedAt": "2026-07-21T15:00:00.000Z",
+          "title": "자전거에 밟힌 독사, 운전자 허벅지 물었다…호주서 아찔 사고",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260720/134327687/2",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "고점 대비 40% 급락…'삼천닥' 외치다 거래 실종된 코스닥",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607217490i",
-        "publishedAt": "2026-07-21T15:00:00.000Z",
+        "title": "자전거 체인에 감긴 독사, 운전자 허벅지 물어…호주서 아찔한 사고",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260716173836Gyc",
+        "publishedAt": "2026-07-21T20:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-21T15:00:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "코스닥",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202607217490i",
+      "publishedAt": "2026-07-21T20:30:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "감긴 독사",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260716173836Gyc",
       "rank": 10
     }
   ],
   "history": [
-    {
-      "id": "a81b40783692730f",
-      "issueKey": "오늘날씨",
-      "issueTitle": "오늘날씨",
-      "trendTitle": "오늘날씨",
-      "approxTraffic": "200000+",
-      "trafficScore": 200000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[날씨] 오전까지 중부 곳곳 강한 비…밤낮 가리지 않는 무더위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720054812739",
-          "publishedAt": "2026-07-19T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "오늘 충청에 최대 80mm…후반기 장맛비 주의",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8614434",
-          "publishedAt": "2026-07-19T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "수도권 최대 80㎜ 비…남부지방은 일부 소강상태",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260720003200034",
-          "publishedAt": "2026-07-19T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "오늘날씨",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720054812739",
-        "publishedAt": "2026-07-19T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-19T20:20:00.000Z",
-      "firstSeenAt": "2026-07-19T21:52:35.385Z",
-      "lastSeenAt": "2026-07-19T21:52:35.385Z",
-      "title": "오늘날씨",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260720054812739"
-    },
     {
       "id": "4062ec403262d9da",
       "issueKey": "장윤정",
@@ -761,6 +715,52 @@
       "url": "https://v.daum.net/v/9RKnaTlwhq"
     },
     {
+      "id": "169b52c3c03079aa",
+      "issueKey": "감긴 독사",
+      "issueTitle": "감긴 독사",
+      "trendTitle": "감긴 독사",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "자전거 체인에 감긴 독사, 운전자 허벅지 물어…호주서 아찔한 사고",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260716173836Gyc",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "자전거 타다가 2m 뱀 밟은 호주 여성…허벅지 물려",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/Ped2xQ8BAB?f=p",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "자전거에 밟힌 독사, 운전자 허벅지 물었다…호주서 아찔 사고",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20260720/134327687/2",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "자전거 체인에 감긴 독사, 운전자 허벅지 물어…호주서 아찔한 사고",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260716173836Gyc",
+        "publishedAt": "2026-07-21T20:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T20:30:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "감긴 독사",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260716173836Gyc"
+    },
+    {
       "id": "8b407f29e4b61b0d",
       "issueKey": "품절",
       "issueTitle": "품절",
@@ -945,50 +945,96 @@
       "url": "https://v.daum.net/v/20260720082609152"
     },
     {
-      "id": "e350d304a5d4457a",
-      "issueKey": "연금",
-      "issueTitle": "연금",
-      "trendTitle": "연금",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "e37b166dfa2f41b1",
+      "issueKey": "박나래",
+      "issueTitle": "박나래",
+      "trendTitle": "박나래",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "기초연금 지급 기준 바뀐다는데…대거 수급 탈락하나",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/rights/1268892.html",
-          "publishedAt": "2026-07-19T20:10:00.000Z",
+          "title": "“폭로 안 할게요. 매출 10% 주세요”…박나래 전 매니저 구속",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139912",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "저소득 공무원연금 수급자 기초연금 준다…2027년 시행 추진",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720061250315",
-          "publishedAt": "2026-07-19T20:10:00.000Z",
+          "title": "박나래 협박한 전 매니저 구속 송치…공갈미수 혐의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8616010",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[사설]기초연금 12년 만에 ‘대수술’… 노인빈곤율 개선에 도움 되게",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260717/134319074/2",
-          "publishedAt": "2026-07-19T20:10:00.000Z",
+          "title": "\"박나래는 감옥 갈 수도\" 전망한 변호사…전 매니저 구속에 \"최근 선임, 수사는 오래전부터\" [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/ZXR8haLxtg?f=p",
+          "publishedAt": "2026-07-21T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "기초연금 지급 기준 바뀐다는데…대거 수급 탈락하나",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/rights/1268892.html",
-        "publishedAt": "2026-07-19T20:10:00.000Z",
+        "title": "“폭로 안 할게요. 매출 10% 주세요”…박나래 전 매니저 구속",
+        "source": "국민일보",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139912",
+        "publishedAt": "2026-07-21T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-19T20:10:00.000Z",
-      "firstSeenAt": "2026-07-19T21:52:35.385Z",
-      "lastSeenAt": "2026-07-19T21:52:35.385Z",
-      "title": "연금",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/society/rights/1268892.html"
+      "publishedAt": "2026-07-21T20:50:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "박나래",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139912"
+    },
+    {
+      "id": "30b056af52138061",
+      "issueKey": "주북 무관단",
+      "issueTitle": "주북 무관단",
+      "trendTitle": "주북 무관단",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[북한단신] 주북 무관단, 정전 73주년 앞두고 김정은에 꽃바구니",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721164200504",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "北 \"전승세대의 충성과 전통 계승해야\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8018933",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[포토] 전쟁노병 이야기 듣는 北 학생들",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/politics/north/2026/07/21/20260721801002",
+          "publishedAt": "2026-07-21T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[북한단신] 주북 무관단, 정전 73주년 앞두고 김정은에 꽃바구니",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260721164200504",
+        "publishedAt": "2026-07-21T20:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T20:30:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "주북 무관단",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260721164200504"
     },
     {
       "id": "303ab0fc0525b385",
@@ -1957,50 +2003,50 @@
       "url": "https://v.daum.net/v/20260719144640555"
     },
     {
-      "id": "8192b9c3d7979923",
-      "issueKey": "우리 새끼",
-      "issueTitle": "우리 새끼",
-      "trendTitle": "우리 새끼",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "a4215a3126661d52",
+      "issueKey": "커피",
+      "issueTitle": "커피",
+      "trendTitle": "커피",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "미운 우리 새끼 : [7월 26일 예고] 린, 조진세×황치열과 함께 미식의 도시 군산에서 매운 잡채×호떡 먹방",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480775383",
-          "publishedAt": "2026-07-19T20:20:00.000Z",
+          "title": "Five Cups of Coffee a Day Is Fine for Most Adults, Heart Association Says",
+          "source": "WSJ",
+          "url": "https://www.wsj.com/health/wellness/coffee-study-american-heart-association-ab2f6b8c",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'미운 우리 새끼' 다음주 예고…린, 군산 매운잡채→치즈 호떡 맛집 투어",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260719n15963?mid=e0600&amp;isq=7377",
-          "publishedAt": "2026-07-19T20:20:00.000Z",
+          "title": "Caffeine and Cardiovascular Disease",
+          "source": "professional.heart.org",
+          "url": "https://professional.heart.org/en/science-news/caffeine-and-cardiovascular-disease",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'미운 우리 새끼' 다음주 예고…린, 군산 매운잡채→치즈 호떡 맛집 투어",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260719n15963?issue_sq=7377",
-          "publishedAt": "2026-07-19T20:20:00.000Z",
+          "title": "Here's how much coffee is safe to drink every day, research says",
+          "source": "USA Today",
+          "url": "https://www.usatoday.com/story/life/health-wellness/2026/07/20/how-much-coffee-safe-each-day-heart-health/90980355007/",
+          "publishedAt": "2026-07-21T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "미운 우리 새끼 : [7월 26일 예고] 린, 조진세×황치열과 함께 미식의 도시 군산에서 매운 잡채×호떡 먹방",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480775383",
-        "publishedAt": "2026-07-19T20:20:00.000Z",
+        "title": "커피",
+        "source": "WSJ",
+        "url": "https://www.wsj.com/health/wellness/coffee-study-american-heart-association-ab2f6b8c",
+        "publishedAt": "2026-07-21T21:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-19T20:20:00.000Z",
-      "firstSeenAt": "2026-07-19T21:52:35.385Z",
-      "lastSeenAt": "2026-07-19T21:52:35.385Z",
-      "title": "우리 새끼",
-      "source": "programs.sbs.co.kr",
-      "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480775383"
+      "publishedAt": "2026-07-21T21:00:00.000Z",
+      "firstSeenAt": "2026-07-21T22:02:51.850Z",
+      "lastSeenAt": "2026-07-21T22:02:51.850Z",
+      "title": "커피",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/health/wellness/coffee-study-american-heart-association-ab2f6b8c"
     },
     {
       "id": "fe79eb385243c6e3",
@@ -2277,52 +2323,6 @@
       "title": "외교관",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260721100700504"
-    },
-    {
-      "id": "982468122b1dd584",
-      "issueKey": "악어",
-      "issueTitle": "악어",
-      "trendTitle": "악어",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721182100061",
-          "publishedAt": "2026-07-21T16:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[현장영상] \"AI 영상 아니었어?\"…여주 하천서 발견된 '진짜 악어'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666546",
-          "publishedAt": "2026-07-21T16:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여주 하천서 포획 악어, 국제 멸종위기종이었다…\"최대 4m까지 성장\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/21/2026072121243967000",
-          "publishedAt": "2026-07-21T16:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260721182100061",
-        "publishedAt": "2026-07-21T16:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-21T16:00:00.000Z",
-      "firstSeenAt": "2026-07-21T19:22:09.589Z",
-      "lastSeenAt": "2026-07-21T19:22:09.589Z",
-      "title": "악어",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260721182100061"
     }
   ]
 }
