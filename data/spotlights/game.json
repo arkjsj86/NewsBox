@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-21T16:22:28.932Z",
+  "lastUpdatedAt": "2026-07-21T19:22:09.589Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -41,14 +41,14 @@
           "meta": "댓글 3"
         },
         {
+          "title": "더현대에 펼쳐진 여름 바다, ‘승리의 여신: 니케’ 여름 팝업스토어",
+          "url": "https://bbs.ruliweb.com/news/read/227148",
+          "meta": "댓글 9"
+        },
+        {
           "title": "공연장에 울려 퍼진 ‘풀 버스트’, 니케 밴드 라이브 현장",
           "url": "https://bbs.ruliweb.com/news/read/227092",
           "meta": "댓글 3"
-        },
-        {
-          "title": "그라비티, MMORPG 신작 ‘라그나로크M: Classic’ 오늘(16일) 국내 정식 론칭",
-          "url": "https://bbs.ruliweb.com/news/read/227047",
-          "meta": "댓글 11"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "3승 농심, 결선 진출 확정...2군 올린 T1-한화생명 2승 달성",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318728",
+          "meta": "리그 오브 레전드 · 4시간 전"
+        },
+        {
           "title": "포르투갈 무역투자청, 펄어비스 방문...\"긍정적 진전 기대\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=318726",
-          "meta": "5분 전"
+          "meta": "6시간 전"
         },
         {
           "title": "서버 이전, 펫 자동 줍기 등 아이온2 7/21(화) 라이브 요약",
           "url": "https://www.inven.co.kr/webzine/news/?news=318720",
-          "meta": "아이온2 · 2시간 전"
+          "meta": "아이온2 · 8시간 전"
         },
         {
           "title": "무게가 부담스럽다면? 무한 물약 패키지 효율 알아보기",
           "url": "https://www.inven.co.kr/webzine/news/?news=318710",
-          "meta": "솔: 인챈트 · 6시간 전"
+          "meta": "솔: 인챈트 · 11시간 전"
         },
         {
           "title": "넷마블 '페이트/그랜드 오더', '포흐욜라의 크리스마스 이브' 이벤트 오픈",
           "url": "https://www.inven.co.kr/webzine/news/?news=318709",
-          "meta": "페이트/그랜드 오더 · 8시간 전"
-        },
-        {
-          "title": "넥슨, '블루 아카이브' 이벤트 스토리 '키보토스 미확인 미스테리' 업데이트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318708",
-          "meta": "블루 아카이브 · 8시간 전"
+          "meta": "페이트/그랜드 오더 · 13시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }

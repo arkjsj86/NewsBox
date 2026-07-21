@@ -7,65 +7,394 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-21T16:22:28.932Z",
+  "lastUpdatedAt": "2026-07-21T19:22:09.589Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "fe79eb385243c6e3",
-      "issueKey": "다이소",
-      "issueTitle": "다이소",
-      "trendTitle": "다이소",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "9a2217e9f637600e",
+      "issueKey": "폭염 수칙",
+      "issueTitle": "폭염 수칙",
+      "trendTitle": "폭염 수칙",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "541m 위에서 히어로 데뷔…서울스카이에 '스파이더맨' 떴다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721090640685",
+          "publishedAt": "2026-07-21T17:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'스파이더맨: 브랜드 뉴 데이', 팝업 첫날부터 2천명 넘었다...여의도에 뜬 '친절한 이웃'",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/movie/2026/07/21/GNQTGOLBMM2TGN3CGE3WKMDBGY/",
+          "publishedAt": "2026-07-21T17:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘스파이더맨’은 폭염 수칙, ‘엘사’는 폭우 예보",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=745697",
+          "publishedAt": "2026-07-21T17:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘스파이더맨’은 폭염 수칙, ‘엘사’는 폭우 예보",
+        "source": "ER 이코노믹리뷰",
+        "url": "https://www.econovill.com/news/articleView.html?idxno=745697",
+        "publishedAt": "2026-07-21T17:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-21T17:50:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "폭염 수칙",
+      "source": "ER 이코노믹리뷰",
+      "url": "https://www.econovill.com/news/articleView.html?idxno=745697",
+      "rank": 1
+    },
+    {
+      "id": "bbff9766f50dcecf",
+      "issueKey": "이자",
+      "issueTitle": "이자",
+      "trendTitle": "이자",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "울산시, 시금고 예금금리 인상…\"재정건전성 강화\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721174750912",
+          "publishedAt": "2026-07-21T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "울산시 금고 경남은행·농협은행, 예금금리 상향 조정",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1124218",
+          "publishedAt": "2026-07-21T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김상욱 울산시장, ‘시금고 재정 혁신’",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030139789&amp;code=61122021&amp;sid1=prj",
+          "publishedAt": "2026-07-21T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이자",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260721174750912",
+        "publishedAt": "2026-07-21T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T17:00:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "이자",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260721174750912",
+      "rank": 2
+    },
+    {
+      "id": "982468122b1dd584",
+      "issueKey": "악어",
+      "issueTitle": "악어",
+      "trendTitle": "악어",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721182100061",
+          "publishedAt": "2026-07-21T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[현장영상] \"AI 영상 아니었어?\"…여주 하천서 발견된 '진짜 악어'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666546",
+          "publishedAt": "2026-07-21T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "여주 하천서 포획 악어, 국제 멸종위기종이었다…\"최대 4m까지 성장\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/21/2026072121243967000",
+          "publishedAt": "2026-07-21T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260721182100061",
+        "publishedAt": "2026-07-21T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T16:00:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "악어",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260721182100061",
+      "rank": 3
+    },
+    {
+      "id": "8b407f29e4b61b0d",
+      "issueKey": "품절",
+      "issueTitle": "품절",
+      "trendTitle": "품절",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
           "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
           "source": "Daum",
-          "url": "https://v.daum.net/v/bgWoMx6b5W",
-          "publishedAt": "2026-07-21T15:10:00.000Z",
+          "url": "https://v.daum.net/v/20260721082708471",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
           "relevanceScore": 3
         },
         {
           "title": "품절, 품절, 품절…\"이게 1000원?\" 다이소 또 터졌다",
           "source": "한국경제",
           "url": "https://www.hankyung.com/article/202607217304g",
-          "publishedAt": "2026-07-21T15:10:00.000Z",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
           "relevanceScore": 2
         },
         {
           "title": "[이슈프리즘] 신뢰 파는 다이소, 불신 파는 정치",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260720n35301",
-          "publishedAt": "2026-07-21T15:10:00.000Z",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/bgWoMx6b5W",
-        "publishedAt": "2026-07-21T15:10:00.000Z",
+        "title": "품절, 품절, 품절…\"이게 1000원?\" 다이소 또 터졌다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607217304g",
+        "publishedAt": "2026-07-21T15:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-21T15:50:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "품절",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202607217304g",
+      "rank": 4
+    },
+    {
+      "id": "c8d8589c3643da36",
+      "issueKey": "앤서니 테일러",
+      "issueTitle": "앤서니 테일러",
+      "trendTitle": "앤서니 테일러",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 가족에게 감사해\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260722n00454",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"수치스럽다\" 무리뉴 극딜에도 버텼던 앤서니 테일러, 결국 휘슬 내려놓는다…\"압박감 심했다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-07-22/202607220100131940008393",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "손흥민이 심판에 이렇게 폭발한 적 있었나…가나전 '벤투 퇴장' 그 주심, 은퇴한다 \"엄청난 특권이었다\"",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2174577",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[오피셜] '2022 WC 가나전 코너킥 없이 끝→벤투 퇴장' 앤서니 테일러 심판 은퇴 발표…\"압박감 심했어, 도와준 동료들과 가족에게 감사해\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260722n00454",
+        "publishedAt": "2026-07-21T15:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-21T15:10:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
-      "title": "다이소",
+      "publishedAt": "2026-07-21T15:50:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "앤서니 테일러",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260722n00454",
+      "rank": 5
+    },
+    {
+      "id": "195801820b800e67",
+      "issueKey": "흘린 이유는",
+      "issueTitle": "흘린 이유는",
+      "trendTitle": "흘린 이유는",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"부정 했는데 어쨌든 오빠\" 강유경 몰표 불구 결국 '폭스남' 박우열 선택('하시5')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721234907069?t=m&amp;x_mn=6a5f89affbddf26a833d5456",
+          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'하트 시그널' 강유경이 최종선택 전 눈물 흘린 이유는?",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672",
+          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한 달 동안 가득 찬 여덟 남녀의 추억들! 이제는 보내줘야 할 시간이 왔다?!",
+          "source": "채널A",
+          "url": "https://ichannela.com/program/clip/000000541025.do",
+          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'하트 시그널' 강유경이 최종선택 전 눈물 흘린 이유는?",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672",
+        "publishedAt": "2026-07-21T15:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-21T15:40:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "흘린 이유는",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/07/21/2026072108467277672",
+      "rank": 6
+    },
+    {
+      "id": "eb1969b25ae01ddb",
+      "issueKey": "박기량",
+      "issueTitle": "박기량",
+      "trendTitle": "박기량",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[사진]리센느 리브, 고향서 시구해요",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GM3WIYZZG43DQMDFGBSTSYZXMY/",
+          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[MD포토] 김민석, '동점 적시타 해냈다!'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260721n36449",
+          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "르센느 리브-메이 ‘야구장 나들이’ [MK포토]",
+          "source": "m.mksports.co.kr",
+          "url": "https://www.mksports.co.kr/news/entertain/12103725",
+          "publishedAt": "2026-07-21T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박기량",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GM3WIYZZG43DQMDFGBSTSYZXMY/",
+        "publishedAt": "2026-07-21T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T15:40:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "박기량",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/07/21/GM3WIYZZG43DQMDFGBSTSYZXMY/",
+      "rank": 7
+    },
+    {
+      "id": "93fe13b2fed351ab",
+      "issueKey": "정철원",
+      "issueTitle": "정철원",
+      "trendTitle": "정철원",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QS653lIkvl",
+          "publishedAt": "2026-07-21T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'벌써 한 달' 전준우 1군 등록 없었다, 정철원 1군 등록...'종아리 통증' 황성빈도 사라졌다 [오!쎈 부산]",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/21/202607211547779748O",
+          "publishedAt": "2026-07-21T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "2군 내려간지 한 달 지났다…타율 3할5푼8리 롯데 캡틴, 드디어 1군 콜업 기회 올까",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112843002",
+          "publishedAt": "2026-07-21T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'재정비 마쳤다' 롯데 정철원 전격 콜업…황성빈 결장→한태양 리드오프, 윤동희 중견수 출격",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/QS653lIkvl",
+        "publishedAt": "2026-07-21T15:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T15:30:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "정철원",
       "source": "Daum",
-      "url": "https://v.daum.net/v/bgWoMx6b5W",
-      "rank": 1
+      "url": "https://v.daum.net/v/QS653lIkvl",
+      "rank": 8
     },
     {
       "id": "18cf7e7f4add4b64",
       "issueKey": "킬러들",
       "issueTitle": "킬러들",
       "trendTitle": "킬러들",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -99,20 +428,20 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-21T15:10:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
       "title": "킬러들",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260721146400063",
-      "rank": 2
+      "rank": 9
     },
     {
       "id": "25893ea81f1a53bf",
       "issueKey": "코스닥",
       "issueTitle": "코스닥",
       "trendTitle": "코스닥",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -146,333 +475,11 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-21T15:00:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
       "title": "코스닥",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/202607217490i",
-      "rank": 3
-    },
-    {
-      "id": "483ea7a72ea41edb",
-      "issueKey": "로켓 잔해",
-      "issueTitle": "로켓 잔해",
-      "trendTitle": "로켓 잔해",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"8월 초 달 표면서 TNT 3톤 폭발\"…스페이스X 로켓 잔해, 8월에 달 충돌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721154937427",
-          "publishedAt": "2026-07-21T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "MDA 스페이스, ESA 아르고노트 달 착륙 센서 공급",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/company-news/article-93CH-2023296",
-          "publishedAt": "2026-07-21T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "뉴욕증시, 반도체주 저가 매수에 상승 출발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721231200806",
-          "publishedAt": "2026-07-21T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"8월 초 달 표면서 TNT 3톤 폭발\"…스페이스X 로켓 잔해, 8월에 달 충돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721154937427",
-        "publishedAt": "2026-07-21T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-21T14:30:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
-      "title": "로켓 잔해",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260721154937427",
-      "rank": 4
-    },
-    {
-      "id": "a3a37d9cdcb2c30c",
-      "issueKey": "우크라전",
-      "issueTitle": "우크라전",
-      "trendTitle": "시리아",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "지중해서 사라진 러 군함…\"우크라전·시리아 정권 교체 영향\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/QLesQu0H52",
-          "publishedAt": "2026-07-21T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "지중해에서 사라진 러시아 해군… 13년 만의 공백에 글로벌 물류망 비상",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607191615311267fbbec65dfb_1",
-          "publishedAt": "2026-07-21T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서방은 러시아를 위해 마지막이자 가장 위험한 함정을 설치했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/phuong-tay-da-giang-bay-cuoi-cung-nguy-hiem-nhat-cho-nga",
-          "publishedAt": "2026-07-21T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "지중해서 사라진 러 군함…\"우크라전·시리아 정권 교체 영향\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/QLesQu0H52",
-        "publishedAt": "2026-07-21T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-21T14:10:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
-      "title": "우크라전",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/QLesQu0H52",
-      "rank": 5
-    },
-    {
-      "id": "12c8574eec19f188",
-      "issueKey": "관세",
-      "issueTitle": "관세",
-      "trendTitle": "관세",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "트럼프, 캐나다에 50% '관세폭탄'‥30일 후 발효",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6838934_36925.html",
-          "publishedAt": "2026-07-21T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[W 언박싱] 100년 전 법 꺼내 ‘50% 관세 폭탄’…산불 관세?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8616605&amp;ref=A",
-          "publishedAt": "2026-07-21T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"산불 연기 미국으로 넘어오잖아\"...은혜를 관세로 갚은 미국에 '발칵' [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202607211319524862",
-          "publishedAt": "2026-07-21T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "트럼프, 캐나다에 50% '관세폭탄'‥30일 후 발효",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6838934_36925.html",
-        "publishedAt": "2026-07-21T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-21T14:00:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
-      "title": "관세",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6838934_36925.html",
-      "rank": 6
-    },
-    {
-      "id": "41131b63bb36402e",
-      "issueKey": "디아지오",
-      "issueTitle": "디아지오",
-      "trendTitle": "디아지오",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "[단독]위스키 시장 불황에…디아지오코리아, 2년 만에 희망퇴직 단행",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721160929515",
-          "publishedAt": "2026-07-21T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "디아지오코리아, 2년 만에 또 희망퇴직…위스키 불황 직격탄",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20070173",
-          "publishedAt": "2026-07-21T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독]위스키 시장 불황에…디아지오코리아, 2년 만에 희망퇴직 단행",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260721160929515",
-        "publishedAt": "2026-07-21T14:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-21T14:00:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
-      "title": "디아지오",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260721160929515",
-      "rank": 7
-    },
-    {
-      "id": "77314dd095328ac3",
-      "issueKey": "천록담",
-      "issueTitle": "천록담",
-      "trendTitle": "천록담",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“아내는 단골 목욕탕 막내딸, 종이 ‘띵’ 울려” 제주도 가서 인생 바뀐 가수",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10814978",
-          "publishedAt": "2026-07-21T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "천록담, 미모의 아내 결혼식 사진 공개 \"단골목욕탕 막내딸, 덕분에 신장암 발견\"(아침마당)",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260721n06857",
-          "publishedAt": "2026-07-21T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘미스터트롯3’ 천록담, 아내 덕분에 신장 암 발견한 이유?…“운이 좋았다”",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16141444",
-          "publishedAt": "2026-07-21T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "천록담, 미모의 아내 결혼식 사진 공개 \"단골목욕탕 막내딸, 덕분에 신장암 발견\"(아침마당)",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260721n06857",
-        "publishedAt": "2026-07-21T14:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-21T14:00:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
-      "title": "천록담",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260721n06857",
-      "rank": 8
-    },
-    {
-      "id": "e43c68b2a4e423e4",
-      "issueKey": "선관위 국조특위",
-      "issueTitle": "선관위 국조특위",
-      "trendTitle": "국민의힘",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "선관위 국조특위ㆍ선관위 개혁특위 연석회의에서 발언하는 장동혁 대표",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260721067500013",
-          "publishedAt": "2026-07-21T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'선관위 특검' 전격 합의...원 구성도 급물살",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202607220024086992",
-          "publishedAt": "2026-07-21T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여야, 투표용지 부족 사태 등 선거관리 부실 사태 특검 임명 합의문 서명",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260721_0021371968",
-          "publishedAt": "2026-07-21T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "선관위 국조특위ㆍ선관위 개혁특위 연석회의에서 발언하는 장동혁 대표",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260721067500013",
-        "publishedAt": "2026-07-21T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-21T13:40:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
-      "title": "선관위 국조특위",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/PYH20260721067500013",
-      "rank": 9
-    },
-    {
-      "id": "303ab0fc0525b385",
-      "issueKey": "빌라",
-      "issueTitle": "빌라",
-      "trendTitle": "빌라",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/realestate/12103526",
-          "publishedAt": "2026-07-21T13:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“빌라라도 사자”… 아파트 포기한 청년들, 강남 빌라촌으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pkpaRp3GhW",
-          "publishedAt": "2026-07-21T13:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“신축 못 살바엔”...영끌 막히자 ‘몸테크족’ 몰려간 곳",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202607210339",
-          "publishedAt": "2026-07-21T13:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“낡은 빌라 1채로 10배 먹었다” … ‘일확천금’ 재개발 투자의 모든 것",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/realestate/12103526",
-        "publishedAt": "2026-07-21T13:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-21T13:30:00.000Z",
-      "firstSeenAt": "2026-07-21T16:22:28.932Z",
-      "lastSeenAt": "2026-07-21T16:22:28.932Z",
-      "title": "빌라",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/realestate/12103526",
       "rank": 10
     }
   ],
@@ -752,6 +759,52 @@
       "title": "기초 연금법",
       "source": "Daum",
       "url": "https://v.daum.net/v/9RKnaTlwhq"
+    },
+    {
+      "id": "8b407f29e4b61b0d",
+      "issueKey": "품절",
+      "issueTitle": "품절",
+      "trendTitle": "품절",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"운동 후 한 잔도 1000원\"…다이소 또 가격파괴",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721082708471",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "품절, 품절, 품절…\"이게 1000원?\" 다이소 또 터졌다",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607217304g",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[이슈프리즘] 신뢰 파는 다이소, 불신 파는 정치",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260720n35301",
+          "publishedAt": "2026-07-21T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "품절, 품절, 품절…\"이게 1000원?\" 다이소 또 터졌다",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607217304g",
+        "publishedAt": "2026-07-21T15:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-21T15:50:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "품절",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202607217304g"
     },
     {
       "id": "59dd0bd7778bf833",
@@ -1950,98 +2003,6 @@
       "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480775383"
     },
     {
-      "id": "1d8cb716e498155f",
-      "issueKey": "ewc",
-      "issueTitle": "ewc",
-      "trendTitle": "ewc",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "DK's Narrative Complete: Crowned 2026 Champions",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/23927/dks-narrative-complete-crowned-2026-champions",
-          "publishedAt": "2026-07-19T16:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Dplus vs Karmine Corp: Best betting odds, picks for Esports World Cup 2026 grand final",
-          "source": "WIN.GG",
-          "url": "https://win.gg/dplus-vs-karmine-corp-best-betting-odds-picks-for-esports-world-cup-2026-grand-final/",
-          "publishedAt": "2026-07-19T16:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "T1 vs Gen.G and KC vs Dplus at LoL EWC 2026: Finals at the tournament of big upsets",
-          "source": "Esports.gg",
-          "url": "https://esports.gg/news/league-of-legends/lol-ewc-2026-winners-overview/",
-          "publishedAt": "2026-07-19T16:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "T1 vs Gen.G and KC vs Dplus at LoL EWC 2026: Finals at the tournament of big upsets",
-        "source": "Esports.gg",
-        "url": "https://esports.gg/news/league-of-legends/lol-ewc-2026-winners-overview/",
-        "publishedAt": "2026-07-19T16:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-19T16:30:00.000Z",
-      "firstSeenAt": "2026-07-19T19:06:21.579Z",
-      "lastSeenAt": "2026-07-19T19:06:21.579Z",
-      "title": "ewc",
-      "source": "Esports.gg",
-      "url": "https://esports.gg/news/league-of-legends/lol-ewc-2026-winners-overview/"
-    },
-    {
-      "id": "a17d43aed4e1b315",
-      "issueKey": "서승재",
-      "issueTitle": "서승재",
-      "trendTitle": "공희용",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "배드민턴 세계 1위 서승재·김원호 일본오픈 준우승…2연패 무산",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260719175755915",
-          "publishedAt": "2026-07-19T15:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "다시 뭉친 '황금 듀오'‥'듀스 10번 접전 우승'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6838471_37004.html",
-          "publishedAt": "2026-07-19T15:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "배드민턴 공희용·김혜정, 1시간 39분 혈투 끝 일본 오픈 제패",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/07/19/3GVBT2BIJ5CHHN5DAL4LRQUX6Q/",
-          "publishedAt": "2026-07-19T15:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "배드민턴 세계 1위 서승재·김원호 일본오픈 준우승…2연패 무산",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260719175755915",
-        "publishedAt": "2026-07-19T15:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-19T15:50:00.000Z",
-      "firstSeenAt": "2026-07-19T19:06:21.579Z",
-      "lastSeenAt": "2026-07-19T19:06:21.579Z",
-      "title": "서승재",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260719175755915"
-    },
-    {
       "id": "fe79eb385243c6e3",
       "issueKey": "다이소",
       "issueTitle": "다이소",
@@ -2316,6 +2277,52 @@
       "title": "외교관",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260721100700504"
+    },
+    {
+      "id": "982468122b1dd584",
+      "issueKey": "악어",
+      "issueTitle": "악어",
+      "trendTitle": "악어",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260721182100061",
+          "publishedAt": "2026-07-21T16:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[현장영상] \"AI 영상 아니었어?\"…여주 하천서 발견된 '진짜 악어'",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008666546",
+          "publishedAt": "2026-07-21T16:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "여주 하천서 포획 악어, 국제 멸종위기종이었다…\"최대 4m까지 성장\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/07/21/2026072121243967000",
+          "publishedAt": "2026-07-21T16:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "여주 소양천서 잡힌 악어는 국제 멸종위기종 '샴악어'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260721182100061",
+        "publishedAt": "2026-07-21T16:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-21T16:00:00.000Z",
+      "firstSeenAt": "2026-07-21T19:22:09.589Z",
+      "lastSeenAt": "2026-07-21T19:22:09.589Z",
+      "title": "악어",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260721182100061"
     }
   ]
 }
