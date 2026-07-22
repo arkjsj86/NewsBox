@@ -7,473 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-22T11:09:41.114Z",
+  "lastUpdatedAt": "2026-07-22T13:54:04.135Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "678981876a166c54",
-      "issueKey": "new zealand vs west indies",
-      "issueTitle": "new zealand vs west indies",
-      "trendTitle": "new zealand vs west indies",
+      "id": "451213144a592a53",
+      "issueKey": "미국 국방부",
+      "issueTitle": "미국 국방부",
+      "trendTitle": "미국 국방부",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "미사일 부족 모르고 이란전 재개했나…미 국방부가 백악관에 숨겼다?",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1269493.html",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "트럼프, 초강경 확전 경고...미군 '실탄 고갈' 딜레마",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202607222159191599",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“끝까지 공격” 외친 미국… 이란전 길어지자 드러난 ‘무기고 압박’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721103003917",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "미국 국방부",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/international/arabafrica/1269493.html",
+        "publishedAt": "2026-07-22T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-22T12:50:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "미국 국방부",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/international/arabafrica/1269493.html",
+      "rank": 1
+    },
+    {
+      "id": "bbb3ac0eba8ed355",
+      "issueKey": "기성용",
+      "issueTitle": "기성용",
+      "trendTitle": "기성용",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'유퀴즈' 김강우 \"기성용·한혜진 결혼 반대?…나이 차이 걱정했다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722222548921",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "기성용, 한혜진 집안의 유일 30대 \"모두 요양원 부탁하더라\"('유퀴즈') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/22/MY4GCYZXMQ2GIOJZMY2DQYRUMQ/",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장모님 최애 사위는 기성용...김강우, 22년째 처가식구들과 김장해",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=753528",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'유퀴즈' 김강우 \"기성용·한혜진 결혼 반대?…나이 차이 걱정했다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260722222548921",
+        "publishedAt": "2026-07-22T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-22T12:50:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "기성용",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260722222548921",
+      "rank": 2
+    },
+    {
+      "id": "709ebad4fa2bac0a",
+      "issueKey": "삼성닷컴",
+      "issueTitle": "삼성닷컴",
+      "trendTitle": "삼성닷컴",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "삼성, ‘주름’ 사라진 갤럭시 Z 폴드8 공개... “만지지 않으면 주름 있는지 모를 정도”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/22/KXTNNA3FGFHFJPSIEIM6SDKWYM/",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z 폴드8 울트라·폴드8·플립8 등 폴더블 3종 라인업으로 확대",
+          "source": "Samsung Global Newsroom",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-z-%ED%8F%B4%EB%93%9C8-%EC%9A%B8%ED%8A%B8%EB%9D%BC%C2%B7%ED%8F%B4%EB%93%9C8%C2%B7%ED%94%8C%EB%A6%BD8-%EB%93%B1-%ED%8F%B4%EB%8D%94",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "일반 안경과 디자인 차이 없네···삼성, 첫 AI 안경 ‘인텔리전트 아이웨어’ 공개",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607222200001",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "삼성닷컴",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/tech_it/2026/07/22/KXTNNA3FGFHFJPSIEIM6SDKWYM/",
+        "publishedAt": "2026-07-22T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-22T12:40:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "삼성닷컴",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/tech_it/2026/07/22/KXTNNA3FGFHFJPSIEIM6SDKWYM/",
+      "rank": 3
+    },
+    {
+      "id": "2e998014f81e2dec",
+      "issueKey": "출동해 제압",
+      "issueTitle": "출동해 제압",
+      "trendTitle": "타정총",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "West Indies bowl first and pick Hetmyer in the bid for consolation win",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/west-indies-vs-new-zealand-5th-odi-bowl-first-and-pick-shimron-hetmyer-in-the-bid-for-consolation-win-1546951",
-          "publishedAt": "2026-07-22T10:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Stand-out Blackcaps spinner Lennox thrives in West Indies",
-          "source": "Sport Nation",
-          "url": "https://sportnation.nz/article/stand-out-blackcaps-spinner-lennox-thrives-in-west-indies",
-          "publishedAt": "2026-07-22T10:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Santner's calm under fire lifts New Zealand to series victory despite Motie's five-for",
-          "source": "Caribbean National Weekly",
-          "url": "https://www.caribbeannationalweekly.com/posts/santners-calm-under-fire-lifts-new-zealand-to-series-victory-despite-moties-five-for",
-          "publishedAt": "2026-07-22T10:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "new zealand vs west indies",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/story/west-indies-vs-new-zealand-5th-odi-bowl-first-and-pick-shimron-hetmyer-in-the-bid-for-consolation-win-1546951",
-        "publishedAt": "2026-07-22T10:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-22T10:00:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "new zealand vs west indies",
-      "source": "Cricinfo",
-      "url": "https://www.cricinfo.com/story/west-indies-vs-new-zealand-5th-odi-bowl-first-and-pick-shimron-hetmyer-in-the-bid-for-consolation-win-1546951",
-      "rank": 1
-    },
-    {
-      "id": "c098650dbe8de2a3",
-      "issueKey": "hanwha vs kia",
-      "issueTitle": "hanwha vs kia",
-      "trendTitle": "hanwha vs kia",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Park Jae-hyun hits 10th homer and reaches 10-10 milestone as Kia closes in on third place - CHOSUNBIZ",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/en/en-sports/2026/07/22/7UI6SMSFT5DHXLOW7755RNGNQI/",
-          "publishedAt": "2026-07-22T09:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Park Jae-hyun Hits 10th, Eyes 10-10 Milestone",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/22/RQGHAKK7NZG3DNYLGPDG3SMHUM/",
-          "publishedAt": "2026-07-22T09:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "14 Hits, 3 Runs: Hanwha Eagles Lose to KIA Tigers",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/sports-en/2026/07/22/BIFDTEPU7BBF5IS7YYN2H5OF4M/",
-          "publishedAt": "2026-07-22T09:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "hanwha vs kia",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/en/en-sports/2026/07/22/7UI6SMSFT5DHXLOW7755RNGNQI/",
-        "publishedAt": "2026-07-22T09:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-22T09:50:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "hanwha vs kia",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/en/en-sports/2026/07/22/7UI6SMSFT5DHXLOW7755RNGNQI/",
-      "rank": 2
-    },
-    {
-      "id": "4daeb6c1358e3b44",
-      "issueKey": "소유",
-      "issueTitle": "소유",
-      "trendTitle": "소유",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "소유·홍현희 믿고 샀는데···허위광고 줄적발",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607221437003",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[단독]소유 다이어트, 홍현희 마사지기...연예인 앞세운 건강제품 믿을 수 있나?",
+          "title": "부산 주택가서 공사용 '타정총' 난사‥경찰특공대 출동해 제압·체포",
           "source": "Daum",
-          "url": "https://v.daum.net/v/zOcH69b0Y6",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "소유·홍현희 등 유명 연예인 앞세운 건강제품들…식약처, \"과장 광고\" 판단",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/welfare-medical/6235755",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "소유·홍현희 믿고 샀는데···허위광고 줄적발",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202607221437003",
-        "publishedAt": "2026-07-22T09:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-22T09:40:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "소유",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202607221437003",
-      "rank": 3
-    },
-    {
-      "id": "8670be092f7458e4",
-      "issueKey": "선두 서울",
-      "issueTitle": "선두 서울",
-      "trendTitle": "선두 서울",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "빡빡한 일정에 한숨…서울 김기동 감독 \"이래서 추춘제 얘기하나봐\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260722_0003719330",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
+          "url": "https://v.daum.net/v/20260722203715758",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[그래도 K리그] ‘김기동 축구’ 3년의 결실…선두 서울, 포항 넘어 우승길 '재촉'?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721000223301",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
+          "title": "부산 주택가에서 타정총 발사한 50대 현행범 체포",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8617178",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "서울에 돌아온 기성용? 박태하 포항 감독 \"좋은 추억도 아닌데…어린 애도 아니고 굳이 얘기 꺼내야 하나\" [현장인터뷰]",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260722n32946",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
+          "title": "부산 주택가서 50대 ‘전동 못총’ 난동...경찰특공대 투입해 체포",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/07/22/UNDKBXVYRJFKJACDBSM4LYXUF4/",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[그래도 K리그] ‘김기동 축구’ 3년의 결실…선두 서울, 포항 넘어 우승길 '재촉'?",
+        "title": "부산 주택가서 공사용 '타정총' 난사‥경찰특공대 출동해 제압·체포",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260721000223301",
-        "publishedAt": "2026-07-22T09:40:00.000Z",
-        "relevanceScore": 2
+        "url": "https://v.daum.net/v/20260722203715758",
+        "publishedAt": "2026-07-22T12:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-07-22T09:40:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "선두 서울",
+      "publishedAt": "2026-07-22T12:40:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "출동해 제압",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260721000223301",
+      "url": "https://v.daum.net/v/20260722203715758",
       "rank": 4
     },
     {
-      "id": "c1d8da88be004cdf",
-      "issueKey": "경기 예측",
-      "issueTitle": "경기 예측",
-      "trendTitle": "경기 예측",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "노팅엄 포레스트 vs 블랙번 경기 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-blackburn-doi-hinh-du-kien",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "노팅엄 포레스트 vs 블랙번: 스트리밍 링크, 라인업 및 경기 예측",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nottingham-forest-vs-blackburn-link-xem-doi-hinh-va-du-doan",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "노팅엄 포레스트 vs 블랙번 경기 예측: 예상 라인업",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-blackburn-doi-hinh-du-kien",
-        "publishedAt": "2026-07-22T09:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-22T09:40:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "경기 예측",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-nottingham-forest-vs-blackburn-doi-hinh-du-kien",
-      "rank": 5
-    },
-    {
-      "id": "f3c205684f10ac4f",
-      "issueKey": "감독의 경계",
-      "issueTitle": "감독의 경계",
-      "trendTitle": "감독의 경계",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "차곡차곡 승점 쌓는 광주FC, 김천 상대로 후반기 첫 승 노린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260721165238442",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[현장목소리] '94일만에 복귀' 광주FC 베테랑 공격수 신창무, \"빨리 돌아오고 싶었다, 현재 몸 상태는 60%\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260722n31873",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“광주가 완전히 달라졌어” 김천 주승진 감독의 경계···“상대 공격과 수비 구조 변화 집중 분석” [MK광주]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12104781",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“광주가 완전히 달라졌어” 김천 주승진 감독의 경계···“상대 공격과 수비 구조 변화 집중 분석” [MK광주]",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/sports/12104781",
-        "publishedAt": "2026-07-22T09:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-22T09:40:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "감독의 경계",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/sports/12104781",
-      "rank": 6
-    },
-    {
-      "id": "c822230539ef111f",
-      "issueKey": "고우석",
-      "issueTitle": "고우석",
-      "trendTitle": "고우석",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'충격의 테스트 종료?' 이제는 LG 복귀인가 \"고우석 갑작스럽게 끝나…새 투수 찾는다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/GA4DANRVHAZTAOJXHE3TCOJYMI/",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이틀 연속 등판한 MLB 고우석, 홈런 등 장타 4개 맞고 3실점(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260721066951007",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "미네소타 고우석, 홈런 등 장타 4개로 3실점‥마이너리그행 거론",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6838885_36946.html",
-          "publishedAt": "2026-07-22T09:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'충격의 테스트 종료?' 이제는 LG 복귀인가 \"고우석 갑작스럽게 끝나…새 투수 찾는다\"",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/GA4DANRVHAZTAOJXHE3TCOJYMI/",
-        "publishedAt": "2026-07-22T09:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-22T09:40:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "고우석",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-baseball/2026/07/22/GA4DANRVHAZTAOJXHE3TCOJYMI/",
-      "rank": 7
-    },
-    {
-      "id": "30f24c9abfcdb061",
-      "issueKey": "미스터 비스트",
-      "issueTitle": "미스터 비스트",
-      "trendTitle": "미스터 비스트",
+      "id": "89de55884ce6e0a0",
+      "issueKey": "지민",
+      "issueTitle": "지민",
+      "trendTitle": "지민",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘세계 1위 유튜버’ 미스터비스트 결혼…‘외도 시 73억’ 초고액 계약 화제",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607221100003",
-          "publishedAt": "2026-07-22T09:30:00.000Z",
+          "title": "호나우두 본 제이홉 ‘깜짝’…BTS 만난 유튜버, 3억뷰 터졌다",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12309458",
+          "publishedAt": "2026-07-22T12:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'5억 구독' 미스터 비스트, 초호화 섬 결혼식 “일주일 파티”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722184152031",
-          "publishedAt": "2026-07-22T09:30:00.000Z",
+          "title": "월드컵 무대 찢은 68세 마돈나, 새 앨범도 빌보드 정상에",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Culture/article/all/20260722/134344465/1",
+          "publishedAt": "2026-07-22T12:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "한 달에 340억 버는 남자…아내에게 \"바람 피면 '73억' 지급\"",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026072215344403474",
-          "publishedAt": "2026-07-22T09:30:00.000Z",
+          "title": "월드컵 하프 타임 쇼 노래 인기...'다이너마이트' 스트리밍 13%↑",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202607220615398889&amp;s_mcd=0104",
+          "publishedAt": "2026-07-22T12:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'5억 구독' 미스터 비스트, 초호화 섬 결혼식 “일주일 파티”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260722184152031",
-        "publishedAt": "2026-07-22T09:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-22T09:30:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "미스터 비스트",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260722184152031",
-      "rank": 8
-    },
-    {
-      "id": "5a7c795afe21c2ed",
-      "issueKey": "칠레",
-      "issueTitle": "칠레",
-      "trendTitle": "칠레",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'아미' 분노에 놀란 칠레 정부…BTS 국립경기장 공연 승인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260722152928082",
-          "publishedAt": "2026-07-22T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "방탄소년단, 10월 칠레 국립경기장서 공연한다…현지 정부 승인",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260722_0003718728",
-          "publishedAt": "2026-07-22T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "BTS, 칠레 국립경기장서 ‘아미’ 만난다… 한국 가수 첫 콘서트",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10816428",
-          "publishedAt": "2026-07-22T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'아미' 분노에 놀란 칠레 정부…BTS 국립경기장 공연 승인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260722152928082",
-        "publishedAt": "2026-07-22T09:20:00.000Z",
+        "title": "지민",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12309458",
+        "publishedAt": "2026-07-22T12:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-22T09:20:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "칠레",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260722152928082",
-      "rank": 9
+      "publishedAt": "2026-07-22T12:30:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "지민",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12309458",
+      "rank": 5
     },
     {
-      "id": "2846ab19fed57285",
-      "issueKey": "이강인",
-      "issueTitle": "이강인",
-      "trendTitle": "이강인",
+      "id": "89b297beb0bdee5f",
+      "issueKey": "디에고 시메오네",
+      "issueTitle": "디에고 시메오네",
+      "trendTitle": "디에고 시메오네",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'이게 무슨 일' 이강인 아직도 한국에?…'테니스 레전드' 이형택 딸과 투샷 공개→아틀레티코 발표 대체 언제 나오나",
+          "title": "‘초비상’ 이강인 ‘이적 후 방치’ 최악의 시나리오 나오나 “아르헨티나 대표팀 ‘새 감독’으로 시메오네 원해”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260722161609707",
-          "publishedAt": "2026-07-22T09:20:00.000Z",
+          "url": "https://v.daum.net/v/20260722160528165",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
           "relevanceScore": 3
         },
         {
           "title": "이럴 수가, 이강인 \"마드리드 도착+계약 임박\"이라더니 아직 한국이다? 국내서 깜짝 포착…AT마드리드 이적 발표 지연? 문제는 PSG 서류 탓",
           "source": "네이트",
           "url": "https://sports.news.nate.com/view/20260722n00156",
-          "publishedAt": "2026-07-22T09:20:00.000Z",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘초비상’ 이강인 ‘이적 후 방치’ 최악의 시나리오 나오나 “아르헨티나 대표팀 ‘새 감독’으로 시메오네 원해”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202607221604003",
-          "publishedAt": "2026-07-22T09:20:00.000Z",
+          "title": "'92.7%' 세계 7위 이강인, 그리즈만 후계자 평가가 괜한 말 아니다",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112843395",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'이게 무슨 일' 이강인 아직도 한국에?…'테니스 레전드' 이형택 딸과 투샷 공개→아틀레티코 발표 대체 언제 나오나",
+        "title": "디에고 시메오네",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260722161609707",
-        "publishedAt": "2026-07-22T09:20:00.000Z",
+        "url": "https://v.daum.net/v/20260722160528165",
+        "publishedAt": "2026-07-22T12:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-22T09:20:00.000Z",
-      "firstSeenAt": "2026-07-22T11:09:41.114Z",
-      "lastSeenAt": "2026-07-22T11:09:41.114Z",
-      "title": "이강인",
+      "publishedAt": "2026-07-22T12:20:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "디에고 시메오네",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260722161609707",
-      "rank": 10
+      "url": "https://v.daum.net/v/20260722160528165",
+      "rank": 6
+    },
+    {
+      "id": "bd7bcd31a9978554",
+      "issueKey": "최초 월드컵",
+      "issueTitle": "최초 월드컵",
+      "trendTitle": "최초 월드컵",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "정호연도, 이재도 하이힐 없었다…월드컵 TPO 반영한 세심한 '배려' [MD이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721163050511",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "루이 비통, 2026 FIFA 월드컵 결승전서 트로피 트렁크와 함께 FIFA 월드컵 트로피 공개",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202607220529003",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "정호연, 韓 배우 최초 월드컵 결승 무대 등장…왜?",
+          "source": "TV조선뉴스",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090075.html",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "정호연, 韓 배우 최초 월드컵 결승 무대 등장…왜?",
+        "source": "TV조선뉴스",
+        "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090075.html",
+        "publishedAt": "2026-07-22T12:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-22T12:20:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "최초 월드컵",
+      "source": "TV조선뉴스",
+      "url": "https://news.tvchosun.com/site/data/html_dir/2026/07/20/2026072090075.html",
+      "rank": 7
+    },
+    {
+      "id": "3cca6ea5f0fbda34",
+      "issueKey": "전준우",
+      "issueTitle": "전준우",
+      "trendTitle": "전준우",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"호영이가 너무 못하네…\" 롯데 트레이드 복덩이 부진이 앞당긴 캡틴의 복귀…황성빈 대주자 출격 가능",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/72jcs64qCb",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "프로야구 롯데 베테랑 전준우, 33일 만에 1군 복귀",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260722132400007",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "롯데 전준우, 33일 만에 1군 복귀…SSG전 선발 출격",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260722_0003719300",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "프로야구 롯데 베테랑 전준우, 33일 만에 1군 복귀",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260722132400007",
+        "publishedAt": "2026-07-22T12:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-22T12:20:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "전준우",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260722132400007",
+      "rank": 8
+    },
+    {
+      "id": "c538324ebc8db418",
+      "issueKey": "까지",
+      "issueTitle": "까지",
+      "trendTitle": "까지",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'아형'에 '이숙캠'까지, 하루 전 \"결방합니다\"…JTBC 방송 파행 '우려'[이슈S]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722154507995",
+          "publishedAt": "2026-07-22T12:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "JTBC‘이혼숙려캠프’, 23일 또 결방...“30일 방송 예정”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10816802",
+          "publishedAt": "2026-07-22T12:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "JTBC ‘이숙캠’ 월드컵 끝났는데 긴급 휴방..재정난 우려 확산 [Oh!쎈 이슈]",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112844421",
+          "publishedAt": "2026-07-22T12:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'아형'에 '이숙캠'까지, 하루 전 \"결방합니다\"…JTBC 방송 파행 '우려'[이슈S]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260722154507995",
+        "publishedAt": "2026-07-22T12:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-22T12:10:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "까지",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260722154507995",
+      "rank": 9
     }
   ],
   "history": [
@@ -616,6 +576,52 @@
       "url": "https://v.daum.net/v/20260720170451388"
     },
     {
+      "id": "709ebad4fa2bac0a",
+      "issueKey": "삼성닷컴",
+      "issueTitle": "삼성닷컴",
+      "trendTitle": "삼성닷컴",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "삼성, ‘주름’ 사라진 갤럭시 Z 폴드8 공개... “만지지 않으면 주름 있는지 모를 정도”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/tech_it/2026/07/22/KXTNNA3FGFHFJPSIEIM6SDKWYM/",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼성전자, 갤럭시 Z 폴드8 울트라·폴드8·플립8 등 폴더블 3종 라인업으로 확대",
+          "source": "Samsung Global Newsroom",
+          "url": "https://news.samsung.com/kr/%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EA%B0%A4%EB%9F%AD%EC%8B%9C-z-%ED%8F%B4%EB%93%9C8-%EC%9A%B8%ED%8A%B8%EB%9D%BC%C2%B7%ED%8F%B4%EB%93%9C8%C2%B7%ED%94%8C%EB%A6%BD8-%EB%93%B1-%ED%8F%B4%EB%8D%94",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "일반 안경과 디자인 차이 없네···삼성, 첫 AI 안경 ‘인텔리전트 아이웨어’ 공개",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607222200001",
+          "publishedAt": "2026-07-22T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "삼성닷컴",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/tech_it/2026/07/22/KXTNNA3FGFHFJPSIEIM6SDKWYM/",
+        "publishedAt": "2026-07-22T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-22T12:40:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "삼성닷컴",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/tech_it/2026/07/22/KXTNNA3FGFHFJPSIEIM6SDKWYM/"
+    },
+    {
       "id": "ed7985d7a3e901bc",
       "issueKey": "삼전 닉스",
       "issueTitle": "삼전 닉스",
@@ -708,50 +714,50 @@
       "url": "https://v.daum.net/v/20260720223320578"
     },
     {
-      "id": "ce375d1157b28a88",
-      "issueKey": "기초 연금법",
-      "issueTitle": "기초 연금법",
-      "trendTitle": "기초 연금법",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "89b297beb0bdee5f",
+      "issueKey": "디에고 시메오네",
+      "issueTitle": "디에고 시메오네",
+      "trendTitle": "디에고 시메오네",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"공무원연금 받아도 기초연금 준다\"…정부, 저소득 수급자 지급 추진",
+          "title": "‘초비상’ 이강인 ‘이적 후 방치’ 최악의 시나리오 나오나 “아르헨티나 대표팀 ‘새 감독’으로 시메오네 원해”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/9RKnaTlwhq",
-          "publishedAt": "2026-07-20T10:30:00.000Z",
+          "url": "https://v.daum.net/v/20260722160528165",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "기준 중위소득 결정 위한 중생보위 개최...소득통계 보완 검토",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/07/20/2026072009472080640",
-          "publishedAt": "2026-07-20T10:30:00.000Z",
+          "title": "이럴 수가, 이강인 \"마드리드 도착+계약 임박\"이라더니 아직 한국이다? 국내서 깜짝 포착…AT마드리드 이적 발표 지연? 문제는 PSG 서류 탓",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260722n00156",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "정부 복지사업 '잣대' 기준중위소득 새 산정방식 이달 말 결정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260720039600530",
-          "publishedAt": "2026-07-20T10:30:00.000Z",
+          "title": "'92.7%' 세계 7위 이강인, 그리즈만 후계자 평가가 괜한 말 아니다",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112843395",
+          "publishedAt": "2026-07-22T12:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "기초 연금법",
+        "title": "디에고 시메오네",
         "source": "Daum",
-        "url": "https://v.daum.net/v/9RKnaTlwhq",
-        "publishedAt": "2026-07-20T10:30:00.000Z",
+        "url": "https://v.daum.net/v/20260722160528165",
+        "publishedAt": "2026-07-22T12:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-20T10:30:00.000Z",
-      "firstSeenAt": "2026-07-20T11:45:06.997Z",
-      "lastSeenAt": "2026-07-20T11:45:06.997Z",
-      "title": "기초 연금법",
+      "publishedAt": "2026-07-22T12:20:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "디에고 시메오네",
       "source": "Daum",
-      "url": "https://v.daum.net/v/9RKnaTlwhq"
+      "url": "https://v.daum.net/v/20260722160528165"
     },
     {
       "id": "2846ab19fed57285",
@@ -1120,52 +1126,6 @@
       "title": "관광객",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260721043951658"
-    },
-    {
-      "id": "3021b6f8030fcdf7",
-      "issueKey": "샤넬",
-      "issueTitle": "샤넬",
-      "trendTitle": "토트백",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"마트서 보이면 바로 사야\" 난리나더니…샤넬·에르메스보다 구하기 어렵다는 가방 정체",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720092752510",
-          "publishedAt": "2026-07-20T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'4000원짜리 가방' 뭐길래…나오자마자 '완판' 대란 났다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026071928881",
-          "publishedAt": "2026-07-20T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“되팔면 수백배 이득”…새벽부터 줄 서게 만드는 '3달러짜리 미니 가방'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260720000160",
-          "publishedAt": "2026-07-20T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"마트서 보이면 바로 사야\" 난리나더니…샤넬·에르메스보다 구하기 어렵다는 가방 정체",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260720092752510",
-        "publishedAt": "2026-07-20T09:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-20T09:20:00.000Z",
-      "firstSeenAt": "2026-07-20T11:45:06.997Z",
-      "lastSeenAt": "2026-07-20T11:45:06.997Z",
-      "title": "샤넬",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260720092752510"
     },
     {
       "id": "c822230539ef111f",
@@ -2247,96 +2207,96 @@
       "url": "https://v.daum.net/v/qh2kqLJ6AQ"
     },
     {
-      "id": "7c3bf7bf31cbc94c",
-      "issueKey": "로봇 수백대",
-      "issueTitle": "로봇 수백대",
-      "trendTitle": "로봇",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "451213144a592a53",
+      "issueKey": "미국 국방부",
+      "issueTitle": "미국 국방부",
+      "trendTitle": "미국 국방부",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "인천 쿠팡물류센터 5층에 ‘리튬 배터리’ 로봇 수백대···“불 번지면 건물 전체 연소”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607201444001",
-          "publishedAt": "2026-07-20T10:20:00.000Z",
+          "title": "미사일 부족 모르고 이란전 재개했나…미 국방부가 백악관에 숨겼다?",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/arabafrica/1269493.html",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "국토부 \"물류시설 화재안전 관리체계 전면 개선\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720203412935",
-          "publishedAt": "2026-07-20T10:20:00.000Z",
+          "title": "트럼프, 초강경 확전 경고...미군 '실탄 고갈' 딜레마",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202607222159191599",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'붕괴 위험'에 긴급 대피령‥불 언제 꺼질까",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6838708_37004.html?xtr_cate=LK&amp;xtr_ref=r11&amp;xtr_kw=N&amp;xtr_area=k&amp;xtr_cp=c4",
-          "publishedAt": "2026-07-20T10:20:00.000Z",
+          "title": "“끝까지 공격” 외친 미국… 이란전 길어지자 드러난 ‘무기고 압박’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260721103003917",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "인천 쿠팡물류센터 5층에 ‘리튬 배터리’ 로봇 수백대···“불 번지면 건물 전체 연소”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607201444001",
-        "publishedAt": "2026-07-20T10:20:00.000Z",
+        "title": "미국 국방부",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/international/arabafrica/1269493.html",
+        "publishedAt": "2026-07-22T12:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-20T10:20:00.000Z",
-      "firstSeenAt": "2026-07-20T11:45:06.997Z",
-      "lastSeenAt": "2026-07-20T11:45:06.997Z",
-      "title": "로봇 수백대",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202607201444001"
+      "publishedAt": "2026-07-22T12:50:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "미국 국방부",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/international/arabafrica/1269493.html"
     },
     {
-      "id": "2a7cbfbd149260ae",
-      "issueKey": "hd현대중공업 울산조선소",
-      "issueTitle": "hd현대중공업 울산조선소",
-      "trendTitle": "hd현대중공업 울산조선소",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "bbb3ac0eba8ed355",
+      "issueKey": "기성용",
+      "issueTitle": "기성용",
+      "trendTitle": "기성용",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "HD현대중 조선소 26살 참변…60cm 잘못 설치한 안전장치 ‘있으나 마나’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/yeongnam/1269000.html",
-          "publishedAt": "2026-07-20T10:10:00.000Z",
+          "title": "'유퀴즈' 김강우 \"기성용·한혜진 결혼 반대?…나이 차이 걱정했다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260722222548921",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "HD현대중공업, 21일 전 공장 생산 중단…중대사고 근절 특별안전교육",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260720162248618",
-          "publishedAt": "2026-07-20T10:10:00.000Z",
+          "title": "기성용, 한혜진 집안의 유일 30대 \"모두 요양원 부탁하더라\"('유퀴즈') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/22/MY4GCYZXMQ2GIOJZMY2DQYRUMQ/",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "울산 조선소 20대 이주노동자 끼임사…노조 “명백한 기업 살인”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607201500001",
-          "publishedAt": "2026-07-20T10:10:00.000Z",
+          "title": "장모님 최애 사위는 기성용...김강우, 22년째 처가식구들과 김장해",
+          "source": "싱글리스트",
+          "url": "https://www.slist.kr/news/articleView.html?idxno=753528",
+          "publishedAt": "2026-07-22T12:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "hd현대중공업 울산조선소",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/area/yeongnam/1269000.html",
-        "publishedAt": "2026-07-20T10:10:00.000Z",
+        "title": "'유퀴즈' 김강우 \"기성용·한혜진 결혼 반대?…나이 차이 걱정했다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260722222548921",
+        "publishedAt": "2026-07-22T12:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-20T10:10:00.000Z",
-      "firstSeenAt": "2026-07-20T11:45:06.997Z",
-      "lastSeenAt": "2026-07-20T11:45:06.997Z",
-      "title": "hd현대중공업 울산조선소",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/area/yeongnam/1269000.html"
+      "publishedAt": "2026-07-22T12:50:00.000Z",
+      "firstSeenAt": "2026-07-22T13:54:04.135Z",
+      "lastSeenAt": "2026-07-22T13:54:04.135Z",
+      "title": "기성용",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260722222548921"
     }
   ]
 }
