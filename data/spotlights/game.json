@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-23T14:00:02.661Z",
+  "lastUpdatedAt": "2026-07-23T16:25:34.603Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -60,27 +60,27 @@
         {
           "title": "공격형 선란 합류! 연희 밸런스 조정과 신규 이벤트까지",
           "url": "https://www.inven.co.kr/webzine/news/?news=318809",
-          "meta": "세븐나이츠 리버스 · 6시간 전"
+          "meta": "세븐나이츠 리버스 · 8시간 전"
         },
         {
           "title": "스튜디오비사이드 '스타세이비어', 여름맞이 대규모 업데이트",
           "url": "https://www.inven.co.kr/webzine/news/?news=318827",
-          "meta": "스타세이비어 · 6시간 전"
+          "meta": "스타세이비어 · 8시간 전"
         },
         {
           "title": "CotW, 시즌3 개막 및 '릭 스트라우드' 배포 개시",
           "url": "https://www.inven.co.kr/webzine/news/?news=318826",
-          "meta": "아랑전설 시티 오브 더 울브스 · 6시간 전"
+          "meta": "아랑전설 시티 오브 더 울브스 · 8시간 전"
         },
         {
           "title": "서버 이전 개시! 격전 중인 주요 서버는 어디일까?",
           "url": "https://www.inven.co.kr/webzine/news/?news=318821",
-          "meta": "리니지 클래식 · 7시간 전"
+          "meta": "리니지 클래식 · 9시간 전"
         },
         {
           "title": "신규 6차 스킬 추가! 7/23(목) 패치 변경점 및 핵심 요약",
           "url": "https://www.inven.co.kr/webzine/news/?news=318823",
-          "meta": "메이플스토리 · 7시간 전"
+          "meta": "메이플스토리 · 9시간 전"
         }
       ]
     }
@@ -89,8 +89,8 @@
     {
       "key": "epic-free-games",
       "source": "Epic Games Store",
-      "ok": true,
-      "itemCount": 1
+      "ok": false,
+      "error": "Epic free games payload did not contain active free games."
     },
     {
       "key": "ruliweb-issues",
