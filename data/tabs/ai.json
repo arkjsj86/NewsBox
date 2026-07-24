@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-07-23T22:03:03.112Z",
+  "lastUpdatedAt": "2026-07-24T02:40:56.924Z",
   "articleCount": 15,
   "articles": [
+    {
+      "id": "1db4c27a0b34ff02",
+      "title": "“어떻게 만들고 어떻게 관리할 것인가” 데이터 제품 개발의 성패를 가르는 5가지 핵심 질문",
+      "url": "https://www.itworld.co.kr/article/4199156/%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%93%a4%ea%b3%a0-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a0%9c%ed%92%88-%ea%b0%9c.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-07-24T01:07:00.000Z",
+      "summary": "데이터 제품은 제공 속도를 높이고 데이터 자산을 재사용하고 위험을 줄이고 비용을 관리하기 위한 좋은 방법이다. 또한 표준화된 데이터 제품은 분석과 AI 역량을 개선하는 데도 도움이 될 수 있다. 데이터 제품은 원시 데이터 세트, 데이터 웨어하우스 뷰, 데이터 레이크 논리 뷰를 결합하고 사용해 분석 및 AI 역량을 제공하는 방법을 표준화하는 데 도움이 된다. 데이터 제품을 개발하면 사람과...",
+      "tab": "ai"
+    },
+    {
+      "id": "cb38ac956c367ee7",
+      "title": "AI 모델 선택에 매몰되면 안 되는 이유",
+      "url": "https://www.itworld.co.kr/article/4199733/ai-%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ec%97%90-%eb%a7%a4%eb%aa%b0%eb%90%98%eb%a9%b4-%ec%95%88-%eb%90%98%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-07-24T00:42:54.000Z",
+      "summary": "지난 한 주 동안 매일 LLM 모델 선택 화면을 노려보면서 어떤 모델을 선택하는 것이 좋을지 고민했다. 아마 다른 많은 이들이 마찬가지일 것이다. 오픈AI가 GPT-5.6 솔(Sol), 테라, 루나를 출시했다. 솔은 최상위 모델이고 테라는 솔의 지능 대부분을 보다 저렴한 비용으로 제공하며, 루나는 거기서 한 단계 더 저렴한 모델이다. 앤트로픽은 6월 말 클로드 소넷 5를, 그 전달에는...",
+      "tab": "ai"
+    },
     {
       "id": "ea7ccf1ba0ac4daf",
       "title": "“AI가 뒤집은 규모의 법칙” 소규모 컨설팅 업체가 대형사를 이길 수 있는 이유",
@@ -122,24 +140,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-07-16T07:57:23.000Z",
       "summary": "AI 시대 보안 운영의 판이 바뀌고 있다. 공격자가 AI로 무장하면서 탐지와 대응의 속도는 더욱 가속화됐고, 한편 기업이 방어하며 처리해야 할 데이터는 폭발적으로 증가했다. 이제 기업에 중요한 것은 AI와 인적 전문성을 결합해 더 강력한 보안 운영 환경을 구축하는 것이다. 파고네트웍스와 센티넬원은 7월 16일 여의도 콘래드호텔에서 공동 기자간담회를 열고, AI 기반의 통합 보안 플랫폼과...",
-      "tab": "ai"
-    },
-    {
-      "id": "b3864e9e9bc4f141",
-      "title": "수십 년치 핵 기록, 원자력 르네상스 시대 과제는 ‘기록물 관리’",
-      "url": "https://www.itworld.co.kr/article/4197165/%ec%88%98%ec%8b%ad-%eb%85%84%ec%b9%98-%ed%95%b5-%ea%b8%b0%eb%a1%9d-%ec%9b%90%ec%9e%90%eb%a0%a5-%eb%a5%b4%eb%84%a4%ec%83%81%ec%8a%a4-%ec%8b%9c%eb%8c%80-%ea%b3%bc%ec%a0%9c%eb%8a%94-%ea%b8%b0%eb%a1%9d.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-16T01:06:00.000Z",
-      "summary": "인공지능(AI) 데이터센터의 전력 수요가 폭발적으로 증가하면서 원자력이 다시 주목받고 있다. 국제에너지기구(IEA)는 글로벌 데이터센터 전력 소비가 2030년까지 현재의 두 배 수준으로 늘어날 것으로 전망했으며, 글로벌 빅테크 기업들은 안정적인 대용량 전력원으로 원자력·SMR과의 직접 계약에 잇따라 나서고 있다. 한국도 예외가 아니다. 올해 2월 SMR 특별법이 국회를 통과했고, 한국수...",
-      "tab": "ai"
-    },
-    {
-      "id": "1afd1ec6bfe26185",
-      "title": "3D 공간을 추론하는 AI, 공간지능과 월드 모델의 부상",
-      "url": "https://www.itworld.co.kr/article/4197040/3d-%ea%b3%b5%ea%b0%84%ec%9d%84-%ec%b6%94%eb%a1%a0%ed%95%98%eb%8a%94-ai-%ea%b3%b5%ea%b0%84%ec%a7%80%eb%8a%a5%ea%b3%bc-%ec%9b%94%eb%93%9c-%eb%aa%a8%eb%8d%b8%ec%9d%98-%eb%b6%80%ec%83%81.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-16T00:47:02.000Z",
-      "summary": "교량 점검, 디지털 트윈 구축, 자율주행차 안전성 향상은 공간지능의 활용 사례 중 극히 일부에 불과하다. 3D 공간을 추론하는 AI 모델은 수많은 산업에서 적용 가능성을 넓히고 있다. 생성형 AI와 대규모 언어 모델(LLM)이 세상을 뒤흔든 지 수년이 지났다. 대규모 언어 모델은 텍스트 생성에서 기존 자연어 시스템을 크게 앞질렀고, 디퓨전 모델(diffusion model)은 이미지,...",
       "tab": "ai"
     }
   ]
