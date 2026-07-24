@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-24T02:40:56.924Z",
+  "lastUpdatedAt": "2026-07-24T05:49:48.769Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -33,17 +33,17 @@
         {
           "title": "더현대에 펼쳐진 여름 바다, ‘승리의 여신: 니케’ 여름 팝업스토어",
           "url": "https://bbs.ruliweb.com/news/read/227148",
-          "meta": "댓글 13"
-        },
-        {
-          "title": "게임을 기록하고 경험을 연결하다… ‘넥슨뮤지엄’ 인터뷰",
-          "url": "https://bbs.ruliweb.com/news/read/227060",
-          "meta": "댓글 12"
+          "meta": "댓글 14"
         },
         {
           "title": "하운드13, 웹젠의 퍼블리싱 금지 가처분 기각 · 드래곤소드 : 어웨이크닝은 23일 발매",
           "url": "https://bbs.ruliweb.com/news/read/227255",
           "meta": "댓글 18"
+        },
+        {
+          "title": "게임을 기록하고 경험을 연결하다… ‘넥슨뮤지엄’ 인터뷰",
+          "url": "https://bbs.ruliweb.com/news/read/227060",
+          "meta": "댓글 12"
         },
         {
           "title": "공연장에 울려 퍼진 ‘풀 버스트’, 니케 밴드 라이브 현장",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "공격형 선란 합류! 연희 밸런스 조정과 신규 이벤트까지",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318809",
-          "meta": "세븐나이츠 리버스 · 14시간 전"
+          "title": "EA, EA SPORTS FC™ 27 게임플레이 공개…9월 25일 전 세계 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318859",
+          "meta": "EA 스포츠 · 방금전"
         },
         {
-          "title": "스튜디오비사이드 '스타세이비어', 여름맞이 대규모 업데이트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318827",
-          "meta": "스타세이비어 · 14시간 전"
+          "title": "카카오게임즈, ‘패스 오브 엑자일’ 시즌 23 신규 리그 ‘올플레임의 저주’ 7월 25일 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318858",
+          "meta": "패스 오브 엑자일 · 방금전"
         },
         {
-          "title": "CotW, 시즌3 개막 및 '릭 스트라우드' 배포 개시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318826",
-          "meta": "아랑전설 시티 오브 더 울브스 · 14시간 전"
+          "title": "에픽세븐, 여름 시즌 신규 한정 영웅 ‘오브’ 업데이트",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318854",
+          "meta": "에픽세븐 · 2시간 전"
         },
         {
-          "title": "서버 이전 개시! 격전 중인 주요 서버는 어디일까?",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318821",
-          "meta": "리니지 클래식 · 15시간 전"
+          "title": "크라운급 지휘관도 이해할 수 있는 라플라스 이격 사용법",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318853",
+          "meta": "승리의 여신: 니케 · 2시간 전"
         },
         {
-          "title": "신규 6차 스킬 추가! 7/23(목) 패치 변경점 및 핵심 요약",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318823",
-          "meta": "메이플스토리 · 15시간 전"
+          "title": "폴더블폰이 야구장으로? 갤럭시 Z8 구매자 대상 '2026 프로야구GO!' 테마 증정",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318850",
+          "meta": "3시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
