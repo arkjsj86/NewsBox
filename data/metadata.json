@@ -3,9 +3,9 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-07-24T19:24:47.705Z",
+  "lastUpdatedAt": "2026-07-24T22:03:58.801Z",
   "tabCount": 5,
-  "totalArticleCount": 73,
+  "totalArticleCount": 79,
   "availableTabs": [
     "ai",
     "game",
@@ -25,13 +25,18 @@
     "unityVideoLimit": 2
   },
   "feedCount": 8,
-  "successfulFeedCount": 6,
-  "failedFeedCount": 2,
+  "successfulFeedCount": 8,
+  "failedFeedCount": 0,
   "successfulFeeds": [
     {
       "key": "itworld-kr",
       "source": "ITWorld Korea",
       "itemCount": 14
+    },
+    {
+      "key": "etnews-games",
+      "source": "전자신문 게임",
+      "itemCount": 30
     },
     {
       "key": "gameinsight-all",
@@ -42,6 +47,11 @@
       "key": "gameinsight-ai-blockchain",
       "source": "게임인사이트 AI/블록체인",
       "itemCount": 0
+    },
+    {
+      "key": "khgames-all",
+      "source": "경향게임스",
+      "itemCount": 30
     },
     {
       "key": "sportschosun-entertainment",
@@ -59,18 +69,7 @@
       "itemCount": 30
     }
   ],
-  "failedFeeds": [
-    {
-      "key": "etnews-games",
-      "source": "전자신문 게임",
-      "error": "fetch failed"
-    },
-    {
-      "key": "khgames-all",
-      "source": "경향게임스",
-      "error": "fetch failed"
-    }
-  ],
+  "failedFeeds": [],
   "spotlightCount": 4,
   "spotlights": [
     {
