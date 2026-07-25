@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-25T05:44:01.010Z",
+  "lastUpdatedAt": "2026-07-25T08:06:03.471Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -26,29 +26,29 @@
       "sourceUrl": "https://bbs.ruliweb.com/best",
       "items": [
         {
-          "title": "전시도 게임처럼… 13년 만에 다시 태어난 ‘넥슨뮤지엄’에 가다",
-          "url": "https://bbs.ruliweb.com/news/read/227068",
-          "meta": "댓글 12"
+          "title": "하운드13, 웹젠의 퍼블리싱 금지 가처분 신청 기각 · 드래곤소드 : 어웨이크닝은 23일 발매",
+          "url": "https://bbs.ruliweb.com/news/read/227255",
+          "meta": "댓글 20"
         },
         {
           "title": "더현대에 펼쳐진 여름 바다, ‘승리의 여신: 니케’ 여름 팝업스토어",
           "url": "https://bbs.ruliweb.com/news/read/227148",
-          "meta": "댓글 15"
-        },
-        {
-          "title": "하운드13, 웹젠의 퍼블리싱 금지 가처분 신청 기각 · 드래곤소드 : 어웨이크닝은 23일 발매",
-          "url": "https://bbs.ruliweb.com/news/read/227255",
-          "meta": "댓글 19"
-        },
-        {
-          "title": "게임을 기록하고 경험을 연결하다… ‘넥슨뮤지엄’ 인터뷰",
-          "url": "https://bbs.ruliweb.com/news/read/227060",
-          "meta": "댓글 12"
+          "meta": "댓글 16"
         },
         {
           "title": "공연장에 울려 퍼진 ‘풀 버스트’, 니케 밴드 라이브 현장",
           "url": "https://bbs.ruliweb.com/news/read/227092",
           "meta": "댓글 4"
+        },
+        {
+          "title": "라인게임즈, 협동 코미디 호러 신작 ‘QUIET’ 스팀 플레이 테스트 참가자 모집 중",
+          "url": "https://bbs.ruliweb.com/news/read/227174",
+          "meta": "댓글 4"
+        },
+        {
+          "title": "버티는 게 아니라 즐기는 MMOLite, '이클립스: 더 어웨이크닝' 올 9월 론칭",
+          "url": "https://bbs.ruliweb.com/news/read/227256",
+          "meta": "댓글 17"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "2026 KEL 배틀그라운드 모바일 결선, 대전서 25일부터 이틀간 진행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318867",
+          "meta": "배틀그라운드 모바일 · 2시간 전"
+        },
+        {
           "title": "결국은 득점이 필요하다! 공격, 어떻게 해야 할까?(쿠폰 이벤트)",
           "url": "https://www.inven.co.kr/webzine/news/?news=318862",
-          "meta": "FC 온라인 · 14시간 전"
+          "meta": "FC 온라인 · 2026-07-24"
         },
         {
           "title": "EA, EA SPORTS FC™ 27 게임플레이 공개…9월 25일 전 세계 출시",
           "url": "https://www.inven.co.kr/webzine/news/?news=318859",
-          "meta": "EA 스포츠 · 16시간 전"
+          "meta": "EA 스포츠 · 2026-07-24"
         },
         {
           "title": "카카오게임즈, ‘패스 오브 엑자일’ 시즌 23 신규 리그 ‘올플레임의 저주’ 7월 25일 출시",
           "url": "https://www.inven.co.kr/webzine/news/?news=318858",
-          "meta": "패스 오브 엑자일 · 16시간 전"
+          "meta": "패스 오브 엑자일 · 2026-07-24"
         },
         {
           "title": "에픽세븐, 여름 시즌 신규 한정 영웅 ‘오브’ 업데이트",
           "url": "https://www.inven.co.kr/webzine/news/?news=318854",
-          "meta": "에픽세븐 · 18시간 전"
-        },
-        {
-          "title": "크라운급 지휘관도 이해할 수 있는 라플라스 이격 사용법",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318853",
-          "meta": "승리의 여신: 니케 · 18시간 전"
+          "meta": "에픽세븐 · 2026-07-24"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
