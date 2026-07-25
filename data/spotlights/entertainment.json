@@ -7,65 +7,206 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-25T16:03:49.728Z",
+  "lastUpdatedAt": "2026-07-25T19:06:32.047Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "f6b5fe269180f148",
-      "issueKey": "구름",
-      "issueTitle": "구름",
-      "trendTitle": "구름",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "5d3f9316a1bcb3a4",
+      "issueKey": "청계천",
+      "issueTitle": "청계천",
+      "trendTitle": "청계천",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "경남 양산 39.1도 '극한 더위'‥전국이 펄펄 끓었다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840067_37004.html",
+          "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604985",
+          "publishedAt": "2026-07-25T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "청계천 수난…'동전 싹쓸이' 이어 이번엔 때 미는 '원피스 여성' 등장[영상]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6238347",
+          "publishedAt": "2026-07-25T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "청계천 한복판서 비누칠에 때밀이까지…대낮 '목욕 빌런' 등장",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53785",
+          "publishedAt": "2026-07-25T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11604985",
+        "publishedAt": "2026-07-25T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-25T15:50:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "청계천",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11604985",
+      "rank": 1
+    },
+    {
+      "id": "339661d60699993b",
+      "issueKey": "김아영",
+      "issueTitle": "김아영",
+      "trendTitle": "김아영",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/512625",
+          "publishedAt": "2026-07-25T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"소속사 無\" '맑눈광' 김아영, 1년반 만의 근황…기상 명상하다 '눈물' 이유('전참시')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260724103107827",
+          "publishedAt": "2026-07-25T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김아영, 생애 첫 연극 무대 도전기…대선배들도 인정한 ‘연습벌레’ (전참시)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260725/134363266/1",
+          "publishedAt": "2026-07-25T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김아영, 박근형에게 제대로 혼났다…생애 첫 연극 도전 현장 (전참시)",
+        "source": "MBC",
+        "url": "https://m.imbc.com/enews/view/512625",
+        "publishedAt": "2026-07-25T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-25T15:40:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "김아영",
+      "source": "MBC",
+      "url": "https://m.imbc.com/enews/view/512625",
+      "rank": 2
+    },
+    {
+      "id": "f6b5fe269180f148",
+      "issueKey": "중국 토네이도",
+      "issueTitle": "중국 토네이도",
+      "trendTitle": "구름",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202607231104277428",
           "publishedAt": "2026-07-25T15:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "포항·경주 등에 폭염 중대경보…'야외활동 자제' 당부",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968756",
+          "title": "시속 115km 강풍에 자동차 종잇장 처럼 날아가…中 기습 폭풍에 아수라장",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/videos/24357",
           "publishedAt": "2026-07-25T15:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[날씨] 당분간 무더위·열대야 지속‥중부 중심 곳곳 소나기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725205207603",
+          "title": "비도 안 왔는데…거센 흙탕물 덮친 거리 '물바다'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260724n04273",
           "publishedAt": "2026-07-25T15:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "구름",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840067_37004.html",
+        "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
+        "source": "YTN 사이언스",
+        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202607231104277428",
         "publishedAt": "2026-07-25T15:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-25T15:00:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
-      "title": "구름",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840067_37004.html",
-      "rank": 1
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "중국 토네이도",
+      "source": "YTN 사이언스",
+      "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202607231104277428",
+      "rank": 3
+    },
+    {
+      "id": "cff813d389b02052",
+      "issueKey": "완전 범죄",
+      "issueTitle": "완전 범죄",
+      "trendTitle": "완전 범죄",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'시청률 11%' 화력 증명한다…2년 만 화려한 귀환→당당히 출사표 던진 韓 드라마 ('재벌X형사2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260725090137524",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[3차 티저] “완전 범죄? 그런 거 없어” 안보현×정은채, 그리고 ‘NEW 재벌캐’ 유승호! 8/7(금) 밤 9시50분 SBS",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC480835334",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "SBS 작정했다…‘23% 김부장’ 후속으로 넷플릭스 아닌 디즈니+ 손잡은 韓 드라마 (‘재벌X형사2’)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12107246",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[3차 티저] “완전 범죄? 그런 거 없어” 안보현×정은채, 그리고 ‘NEW 재벌캐’ 유승호! 8/7(금) 밤 9시50분 SBS",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC480835334",
+        "publishedAt": "2026-07-25T15:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-25T15:00:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "완전 범죄",
+      "source": "programs.sbs.co.kr",
+      "url": "https://programs.sbs.co.kr/drama/sd243062/clip/88571/OC480835334",
+      "rank": 4
     },
     {
       "id": "5028963cfe270491",
       "issueKey": "블리치",
       "issueTitle": "블리치",
       "trendTitle": "블리치",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -77,16 +218,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "Bleach’s Final Season Confirms Disappointing Episode Count For Hulu Return",
-          "source": "ComicBook.com",
-          "url": "https://comicbook.com/anime/news/bleachs-final-season-confirms-disappointing-episode-count-for-hulu-return/",
+          "title": "Hulu Confirms Bleach's Final Season Will Be Its Shortest in 17 Years",
+          "source": "Comic Book Resources",
+          "url": "https://www.cbr.com/bleach-final-season-shortest-hulu/",
           "publishedAt": "2026-07-25T15:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "After 10 years, the finale of Bleach finally begins, showcasing the full power of a villain who could even defeat Son Goku",
-          "source": "Mein-MMO",
-          "url": "https://mein-mmo.de/en/after-10-years-the-finale-of-bleach-finally-begins-showcasing-the-full-power-of-a-villain-who-could-even-defeat-son-goku,1579482/",
+          "title": "Bleach: Thousand-Year Blood War Final Part - The Calamity Anime Drops Creditless Opening, Ending Videos",
+          "source": "Crunchyroll",
+          "url": "https://www.crunchyroll.com/news/latest/2026/7/25/bleach-thousand-year-blood-war-final-part-the-calamity-anime-creditless-opening-ending-videos",
           "publishedAt": "2026-07-25T15:00:00.000Z",
           "relevanceScore": 1
         }
@@ -99,12 +240,153 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-25T15:00:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
       "title": "블리치",
       "source": "Anime Corner",
       "url": "https://animecorner.me/bleach-tybw-part-4-the-calamity-officially-confirmed-for-10-episodes-by-hulu/",
-      "rank": 2
+      "rank": 5
+    },
+    {
+      "id": "19a5f91245488448",
+      "issueKey": "cryptocurrency trading",
+      "issueTitle": "cryptocurrency trading",
+      "trendTitle": "cryptocurrency trading",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "BitMEX CEO Calls New Insider Trading Lawsuit 'Spurious and Opportunistic'",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "BitMEX Sued Over Alleged Wrongful Liquidations on Day It Announced Shutdown",
+          "source": "bloomingbit",
+          "url": "https://en.bloomingbit.io/feed/news/116912",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Arthur Hayes, BitMEX co-founders face fraud claims over alleged 'Insider Trading Desk' as exchange winds down",
+          "source": "The Block",
+          "url": "https://www.theblock.co/post/409595/arthur-hayes-bitmex-co-founders-face-fraud-claims-over-alleged-insider-trading-desk-as-exchange-winds-down",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "cryptocurrency trading",
+        "source": "Benzinga",
+        "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic",
+        "publishedAt": "2026-07-25T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-25T15:00:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "cryptocurrency trading",
+      "source": "Benzinga",
+      "url": "https://www.benzinga.com/crypto/cryptocurrency/26/07/60669715/bitmex-ceo-calls-new-insider-trading-lawsuit-spurious-and-opportunistic",
+      "rank": 6
+    },
+    {
+      "id": "694219e4c52eda3f",
+      "issueKey": "서훈",
+      "issueTitle": "서훈",
+      "trendTitle": "서훈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724137400060",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "경기도 구리 시민들, 3·1운동 숨은 주역 '심점봉 선생' 독립유공자 서훈 재추진",
+          "source": "한국NGO신문",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=233739",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260724n22686",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260724137400060",
+        "publishedAt": "2026-07-25T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-25T14:40:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "서훈",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260724137400060",
+      "rank": 7
+    },
+    {
+      "id": "60a7bcf724a4a98f",
+      "issueKey": "what is bitcoin",
+      "issueTitle": "what is bitcoin",
+      "trendTitle": "what is bitcoin",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Bitcoin treasury companies unwind holdings as the DAT model comes under pressure",
+          "source": "CoinDesk",
+          "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Another crypto company to sell its Bitcoin stash",
+          "source": "TheStreet",
+          "url": "https://www.thestreet.com/crypto/markets/another-crypto-company-to-sell-its-bitcoin-stash",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Satsuma Shareholders Approve Bitcoin Liquidation, London Delisting",
+          "source": "Bitcoin Magazine",
+          "url": "https://bitcoinmagazine.com/news/satsuma-shareholders-bitcoin-liquidation",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "what is bitcoin",
+        "source": "CoinDesk",
+        "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
+        "publishedAt": "2026-07-25T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-25T14:40:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "what is bitcoin",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/07/24/bitcoin-treasury-companies-sell-up-repay-debt-pivot-to-ai-as-share-prices-collapse",
+      "rank": 8
     },
     {
       "id": "a7df2f4bc50fb55e",
@@ -117,41 +399,41 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "마침내 17기 영수와 일대일 데이트하는 여자 5호! #나솔사계 EP.175ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+          "title": "[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
           "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&amp;type=ucc&amp;content_id=22000633313",
+          "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&amp;cooper=google",
           "publishedAt": "2026-07-25T14:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘나솔사계’ 8기 영수가 최종 결심했다, 2호냐 3호냐",
+          "title": "'나솔사계' 여자 3호 \"이런 꼴 보려고 나온게 아닌데\" 멘붕",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260725095837343",
+          "url": "https://v.daum.net/v/20260725114842010?f=p",
           "publishedAt": "2026-07-25T14:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "여자 1호, '배신' 26기 영철 면전에 대고 비난 \"인간적으로 별로다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/24/2026072404541056280",
+          "title": "8기 영수, 여자 2호, 3호와 눈물의 삼각관계 끝은? (나솔사계)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260725/134363071/1",
           "publishedAt": "2026-07-25T14:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "마침내 17기 영수와 일대일 데이트하는 여자 5호! #나솔사계 EP.175ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
+        "title": "[사계 176회 예고] 마지막 날까지 갈팡질팡 하는 8기 영수.. 과연 그의 최종 선택은? #나솔사계 EP.176ㅣSBS PLUS X ENAㅣ목요일 밤 10시 30분",
         "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&amp;type=ucc&amp;content_id=22000633313",
+        "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&amp;cooper=google",
         "publishedAt": "2026-07-25T14:20:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-25T14:20:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
       "title": "나솔사계",
       "source": "programs.sbs.co.kr",
-      "url": "https://programs.sbs.co.kr/feed-api/rest/clip_hub?co=google&amp;type=ucc&amp;content_id=22000633313",
-      "rank": 3
+      "url": "https://programs.sbs.co.kr/plus/loveforever/clip/74495/22000633311?type=ucc&amp;cooper=google",
+      "rank": 9
     },
     {
       "id": "813f79d14da803f1",
@@ -164,269 +446,41 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VtAX7wEotk",
+          "title": "대구시장, 기획예산처 장관 만나 국비 반영 요청",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8619774",
           "publishedAt": "2026-07-25T14:10:00.000Z",
           "relevanceScore": 3
+        },
+        {
+          "title": "추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724159300053",
+          "publishedAt": "2026-07-25T14:10:00.000Z",
+          "relevanceScore": 2
         },
         {
           "title": "[전북] 이원택, 국가예산·공공기관 지방이전 관련 건의",
           "source": "YTN",
           "url": "https://www.ytn.co.kr/_ln/0115_202607231527350204",
           "publishedAt": "2026-07-25T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "부산 미래산업 지형 바꿀 ‘R＆D 청사진’ 나온다… BISTEP, AI·해양에 승부수",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026072312054974851",
-          "publishedAt": "2026-07-25T14:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VtAX7wEotk",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260724159300053",
         "publishedAt": "2026-07-25T14:10:00.000Z",
-        "relevanceScore": 3
+        "relevanceScore": 2
       },
       "publishedAt": "2026-07-25T14:10:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
       "title": "추경호",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/VtAX7wEotk",
-      "rank": 4
-    },
-    {
-      "id": "e32ac33fa53a3db6",
-      "issueKey": "twitch",
-      "issueTitle": "twitch",
-      "trendTitle": "twitch",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "Twitch Allows Parents To Restrict Teens From Livestreaming 07/22/2026",
-          "source": "MediaPost",
-          "url": "https://www.mediapost.com/publications/article/416695/twitch-allows-parents-to-restrict-teens-from-lives.html",
-          "publishedAt": "2026-07-25T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Twitch is now letting parents keep their under-18s from becoming streamers. But there’s nothing stopping adults from posting footage of their kids online.",
-          "source": "Tubefilter",
-          "url": "https://www.tubefilter.com/2026/07/22/twitch-is-now-letting-parents-keep-their-under-18s-from-becoming-streamers-but-theres-nothing-stopping-adults-from-posting-footage-of-their-kids-online/",
-          "publishedAt": "2026-07-25T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Twitch Allows Parents To Restrict Teens From Livestreaming 07/22/2026",
-        "source": "MediaPost",
-        "url": "https://www.mediapost.com/publications/article/416695/twitch-allows-parents-to-restrict-teens-from-lives.html",
-        "publishedAt": "2026-07-25T14:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-25T14:10:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
-      "title": "twitch",
-      "source": "MediaPost",
-      "url": "https://www.mediapost.com/publications/article/416695/twitch-allows-parents-to-restrict-teens-from-lives.html",
-      "rank": 5
-    },
-    {
-      "id": "23992467a3373469",
-      "issueKey": "wehen wiesbaden vs bayern",
-      "issueTitle": "wehen wiesbaden vs bayern",
-      "trendTitle": "wehen wiesbaden vs bayern",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Zusammenfassung der Ergebnisprognosen für das Spiel Wehen gegen Bayern München: Werden die Bayern ihre Dominanz unter Beweis stellen oder gelingt der Heimmannschaft eine Überraschung?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/de/tong-hop-du-doan-ti-so-wehen-vs-bayern-munich-hum-xam-thi-uy-hay-chu-nha-tao-bat-ngo",
-          "publishedAt": "2026-07-25T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "FC Bayern verliert Bubi-Testspiel gegen Wiesbaden: Riesen-Bock – nur ein Star sticht heraus",
-          "source": "Werra-Rundschau",
-          "url": "https://www.werra-rundschau.de/sport/fussball/fc-bayern-absolviert-testspiel-gegen-wiesbaden-die-einzelkritik-der-fcb-stars-zr-94414683.html",
-          "publishedAt": "2026-07-25T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Erster Bayern-Test im Liveticker: Wie präsentieren sich die \"jungen Wilden\"?",
-          "source": "T-Online",
-          "url": "https://www.t-online.de/sport/fussball/bundesliga/fc-bayern-muenchen/id_101356868/sv-wehen-vs-fc-bayern-liveticker-bischof-schiesst-1-1-fuer-bayern.html",
-          "publishedAt": "2026-07-25T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "wehen wiesbaden vs bayern",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/de/tong-hop-du-doan-ti-so-wehen-vs-bayern-munich-hum-xam-thi-uy-hay-chu-nha-tao-bat-ngo",
-        "publishedAt": "2026-07-25T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T14:00:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
-      "title": "wehen wiesbaden vs bayern",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/de/tong-hop-du-doan-ti-so-wehen-vs-bayern-munich-hum-xam-thi-uy-hay-chu-nha-tao-bat-ngo",
-      "rank": 6
-    },
-    {
-      "id": "828295d1324fdace",
-      "issueKey": "대통령 불기소",
-      "issueTitle": "문재인",
-      "trendTitle": "문재인",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘서해 공무원 피격’ 文 전 대통령 불기소…3년 7개월만",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260725/134363474/1",
-          "publishedAt": "2026-07-25T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "검찰, ‘서해 공무원 피격’ 문재인 전 대통령 불기소···고발 3년7개월만에 “증거 불충분”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607251924001",
-          "publishedAt": "2026-07-25T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "검찰, '서해 피격' 문재인 불기소...\"증거 불충분\"",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202607252158442288&amp;s_mcd=0103",
-          "publishedAt": "2026-07-25T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "검찰, ‘서해 공무원 피격’ 문재인 전 대통령 불기소···고발 3년7개월만에 “증거 불충분”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607251924001",
-        "publishedAt": "2026-07-25T14:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-25T14:00:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
-      "title": "문재인",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202607251924001",
-      "rank": 7
-    },
-    {
-      "id": "90d4a56db978ddf0",
-      "issueKey": "wi vs pak",
-      "issueTitle": "wi vs pak",
-      "trendTitle": "wi vs pak",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "West Indies slight favourites as Pakistan hope for Test turnaround",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-in-west-indies-2026-1538621/west-indies-vs-pakistan-1st-test-1538630/match-preview",
-          "publishedAt": "2026-07-25T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Joshua Bishop: From Emerging to Elite; Left Arm Spinner Eyes the Big Stage",
-          "source": "Windies",
-          "url": "https://www.windiescricket.com/news/joshua-bishop-from-emerging-to-elite-left-arm-spinner-eyes-the-big-stage/",
-          "publishedAt": "2026-07-25T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Sammy wants West Indies to build on winning momentum",
-          "source": "ICC",
-          "url": "https://www.icc-cricket.com/news/sammy-wants-west-indies-to-build-on-winning-momentum",
-          "publishedAt": "2026-07-25T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "wi vs pak",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/pakistan-in-west-indies-2026-1538621/west-indies-vs-pakistan-1st-test-1538630/match-preview",
-        "publishedAt": "2026-07-25T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T13:40:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
-      "title": "wi vs pak",
-      "source": "Cricinfo",
-      "url": "https://www.cricinfo.com/series/pakistan-in-west-indies-2026-1538621/west-indies-vs-pakistan-1st-test-1538630/match-preview",
-      "rank": 8
-    },
-    {
-      "id": "1d3191e0974602db",
-      "issueKey": "안민석 교육감",
-      "issueTitle": "안민석 교육감",
-      "trendTitle": "안민석 교육감",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "안민석 교육감, “고양지역 학군 전면 재조정... 북부 교육감도 공모”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725132715068",
-          "publishedAt": "2026-07-25T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "안민석 경기도교육감 “제2부교육감은 ‘북부’ 교육감”",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1767881",
-          "publishedAt": "2026-07-25T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "안민석 경기도교육감, 새벽 5시 호수공원서 '경기북부교육' 걸었다",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2607394",
-          "publishedAt": "2026-07-25T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "안민석 교육감, “고양지역 학군 전면 재조정... 북부 교육감도 공모”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260725132715068",
-        "publishedAt": "2026-07-25T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T13:40:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
-      "title": "안민석 교육감",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260725132715068",
-      "rank": 9
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260724159300053",
+      "rank": 10
     }
   ],
   "history": [
@@ -1195,6 +1249,52 @@
       "url": "https://www.mt.co.kr/stock/2026/07/23/2026072309301843211"
     },
     {
+      "id": "5d3f9316a1bcb3a4",
+      "issueKey": "청계천",
+      "issueTitle": "청계천",
+      "trendTitle": "청계천",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11604985",
+          "publishedAt": "2026-07-25T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "청계천 수난…'동전 싹쓸이' 이어 이번엔 때 미는 '원피스 여성' 등장[영상]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6238347",
+          "publishedAt": "2026-07-25T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "청계천 한복판서 비누칠에 때밀이까지…대낮 '목욕 빌런' 등장",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53785",
+          "publishedAt": "2026-07-25T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘청계천에서 중년여성이 때밀어’…대낮에 포착된 모습에 온라인 와글와글",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11604985",
+        "publishedAt": "2026-07-25T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-25T15:50:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "청계천",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11604985"
+    },
+    {
       "id": "828295d1324fdace",
       "issueKey": "대통령 불기소",
       "issueTitle": "문재인",
@@ -1931,6 +2031,98 @@
       "url": "https://www.yna.co.kr/view/AKR20260723128000004"
     },
     {
+      "id": "f6b5fe269180f148",
+      "issueKey": "중국 토네이도",
+      "issueTitle": "중국 토네이도",
+      "trendTitle": "구름",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
+          "source": "YTN 사이언스",
+          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202607231104277428",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "시속 115km 강풍에 자동차 종잇장 처럼 날아가…中 기습 폭풍에 아수라장",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/videos/24357",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "비도 안 왔는데…거센 흙탕물 덮친 거리 '물바다'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260724n04273",
+          "publishedAt": "2026-07-25T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'구름용' 강림하듯...중국 토네이도·기습폭풍 잦아진 이유는?",
+        "source": "YTN 사이언스",
+        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202607231104277428",
+        "publishedAt": "2026-07-25T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-25T15:00:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "중국 토네이도",
+      "source": "YTN 사이언스",
+      "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202607231104277428"
+    },
+    {
+      "id": "694219e4c52eda3f",
+      "issueKey": "서훈",
+      "issueTitle": "서훈",
+      "trendTitle": "서훈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260724137400060",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "경기도 구리 시민들, 3·1운동 숨은 주역 '심점봉 선생' 독립유공자 서훈 재추진",
+          "source": "한국NGO신문",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=233739",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260724n22686",
+          "publishedAt": "2026-07-25T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "구리시민, 심점봉 선생 독립유공자 서훈 추진",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260724137400060",
+        "publishedAt": "2026-07-25T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-25T14:40:00.000Z",
+      "firstSeenAt": "2026-07-25T19:06:32.047Z",
+      "lastSeenAt": "2026-07-25T19:06:32.047Z",
+      "title": "서훈",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260724137400060"
+    },
+    {
       "id": "f68898973c75c24d",
       "issueKey": "카를로스 발레바",
       "issueTitle": "카를로스 발레바",
@@ -2159,144 +2351,6 @@
       "title": "이의리",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260724155939231"
-    },
-    {
-      "id": "f6b5fe269180f148",
-      "issueKey": "구름",
-      "issueTitle": "구름",
-      "trendTitle": "구름",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "경남 양산 39.1도 '극한 더위'‥전국이 펄펄 끓었다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840067_37004.html",
-          "publishedAt": "2026-07-25T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "포항·경주 등에 폭염 중대경보…'야외활동 자제' 당부",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148968756",
-          "publishedAt": "2026-07-25T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[날씨] 당분간 무더위·열대야 지속‥중부 중심 곳곳 소나기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725205207603",
-          "publishedAt": "2026-07-25T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "구름",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840067_37004.html",
-        "publishedAt": "2026-07-25T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T15:00:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
-      "title": "구름",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840067_37004.html"
-    },
-    {
-      "id": "813f79d14da803f1",
-      "issueKey": "추경호",
-      "issueTitle": "추경호",
-      "trendTitle": "추경호",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VtAX7wEotk",
-          "publishedAt": "2026-07-25T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[전북] 이원택, 국가예산·공공기관 지방이전 관련 건의",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202607231527350204",
-          "publishedAt": "2026-07-25T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "부산 미래산업 지형 바꿀 ‘R＆D 청사진’ 나온다… BISTEP, AI·해양에 승부수",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026072312054974851",
-          "publishedAt": "2026-07-25T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "추경호, 기획예산처 장관 만나 대구 핵심 국비사업 지원 건의",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/VtAX7wEotk",
-        "publishedAt": "2026-07-25T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T14:10:00.000Z",
-      "firstSeenAt": "2026-07-25T16:03:49.728Z",
-      "lastSeenAt": "2026-07-25T16:03:49.728Z",
-      "title": "추경호",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/VtAX7wEotk"
-    },
-    {
-      "id": "1d1f1fd8656d5cca",
-      "issueKey": "황신혜",
-      "issueTitle": "황신혜",
-      "trendTitle": "황신혜",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“갑자기 전신마비라니” 황신혜 母, 아들 사고 떠올리며 눈물",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260723/134351600/1",
-          "publishedAt": "2026-07-25T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'구족화가' 황신혜 동생 등장…모친 \"예고도 없이 전신마비 판정\" 눈물 (같이삽시다)[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/42VsbF1ytR?f=p",
-          "publishedAt": "2026-07-25T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"예고 없이 찾아온 비극\"…황신혜 모친, 구족화가 아들 사고 생각에 '오열' [같이 삽시다]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260723n13288",
-          "publishedAt": "2026-07-25T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“갑자기 전신마비라니” 황신혜 母, 아들 사고 떠올리며 눈물",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Entertainment/article/all/20260723/134351600/1",
-        "publishedAt": "2026-07-25T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T12:10:00.000Z",
-      "firstSeenAt": "2026-07-25T13:26:17.381Z",
-      "lastSeenAt": "2026-07-25T13:26:17.381Z",
-      "title": "황신혜",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Entertainment/article/all/20260723/134351600/1"
     }
   ]
 }
