@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-25T21:55:45.661Z",
+  "lastUpdatedAt": "2026-07-26T02:48:10.552Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -41,14 +41,14 @@
           "meta": "댓글 4"
         },
         {
-          "title": "라인게임즈, 협동 코미디 호러 신작 ‘QUIET’ 스팀 플레이 테스트 참가자 모집 중",
-          "url": "https://bbs.ruliweb.com/news/read/227174",
-          "meta": "댓글 4"
-        },
-        {
           "title": "버티는 게 아니라 즐기는 MMOLite, '이클립스: 더 어웨이크닝' 올 9월 론칭",
           "url": "https://bbs.ruliweb.com/news/read/227256",
           "meta": "댓글 19"
+        },
+        {
+          "title": "라인게임즈, 협동 코미디 호러 신작 ‘QUIET’ 스팀 플레이 테스트 참가자 모집 중",
+          "url": "https://bbs.ruliweb.com/news/read/227174",
+          "meta": "댓글 4"
         }
       ]
     },
@@ -60,17 +60,17 @@
         {
           "title": "배그 모바일 결선 1일 차, 경기 농심-DK 선두권 등극(종합)",
           "url": "https://www.inven.co.kr/webzine/news/?news=318868",
-          "meta": "배틀그라운드 모바일 · 5시간 전"
+          "meta": "배틀그라운드 모바일 · 13시간 전"
         },
         {
           "title": "7/25(토) 두번째 신 선출 결과! 대대적으로 일어난 서버별 세력 변동",
           "url": "https://www.inven.co.kr/webzine/news/?news=318869",
-          "meta": "솔: 인챈트 · 7시간 전"
+          "meta": "솔: 인챈트 · 14시간 전"
         },
         {
           "title": "2026 KEL 배틀그라운드 모바일 결선, 대전서 25일부터 이틀간 진행",
           "url": "https://www.inven.co.kr/webzine/news/?news=318867",
-          "meta": "배틀그라운드 모바일 · 13시간 전"
+          "meta": "배틀그라운드 모바일 · 21시간 전"
         },
         {
           "title": "결국은 득점이 필요하다! 공격, 어떻게 해야 할까?(쿠폰 이벤트)",
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
