@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-27T19:26:51.483Z",
+  "lastUpdatedAt": "2026-07-27T22:07:19.643Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -60,27 +60,27 @@
         {
           "title": "DK-BFX 탈락...나머지 8개 팀, 결선 스테이지 1으로 향한다",
           "url": "https://www.inven.co.kr/webzine/news/?news=318909",
-          "meta": "리그 오브 레전드 · 4시간 전"
+          "meta": "리그 오브 레전드 · 9시간 전"
         },
         {
           "title": "위메이드, 위믹스 해킹 사고 발생에 자산 동결 조치",
           "url": "https://www.inven.co.kr/webzine/news/?news=318908",
-          "meta": "7시간 전"
+          "meta": "12시간 전"
         },
         {
           "title": "라피를 이은 2중 우월 코드! 4종의 애장품 추가, 최고는 누구?",
           "url": "https://www.inven.co.kr/webzine/news/?news=318903",
-          "meta": "승리의 여신: 니케 · 9시간 전"
+          "meta": "승리의 여신: 니케 · 14시간 전"
         },
         {
           "title": "넷마블조정선수단, ‘2026 충주탄금호배 전국장애인조정대회’서 총 17개 메달 획득",
           "url": "https://www.inven.co.kr/webzine/news/?news=318900",
-          "meta": "12시간 전"
+          "meta": "17시간 전"
         },
         {
           "title": "3승 고지 선착한 젠지, VCT 퍼시픽 스테이지 2주 차 종합",
           "url": "https://www.inven.co.kr/webzine/news/?news=318899",
-          "meta": "발로란트 · 12시간 전"
+          "meta": "발로란트 · 17시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
