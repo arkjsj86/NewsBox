@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-27T12:23:07.896Z",
+  "lastUpdatedAt": "2026-07-27T16:56:55.396Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -33,12 +33,12 @@
         {
           "title": "더현대에 펼쳐진 여름 바다, ‘승리의 여신: 니케’ 여름 팝업스토어",
           "url": "https://bbs.ruliweb.com/news/read/227148",
-          "meta": "댓글 17"
+          "meta": "댓글 18"
         },
         {
           "title": "버티는 게 아니라 즐기는 MMOLite, '이클립스: 더 어웨이크닝' 올 9월 론칭",
           "url": "https://bbs.ruliweb.com/news/read/227256",
-          "meta": "댓글 21"
+          "meta": "댓글 23"
         },
         {
           "title": "스마일게이트, 정통 K-공포 '골목길: 귀흔' 오늘(24일) 스팀 출시",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "DK-BFX 탈락...나머지 8개 팀, 결선 스테이지 1으로 향한다",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318909",
+          "meta": "리그 오브 레전드 · 4시간 전"
+        },
+        {
+          "title": "위메이드, 위믹스 해킹 사고 발생에 자산 동결 조치",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318908",
+          "meta": "7시간 전"
+        },
+        {
+          "title": "라피를 이은 2중 우월 코드! 4종의 애장품 추가, 최고는 누구?",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318903",
+          "meta": "승리의 여신: 니케 · 9시간 전"
+        },
+        {
           "title": "넷마블조정선수단, ‘2026 충주탄금호배 전국장애인조정대회’서 총 17개 메달 획득",
           "url": "https://www.inven.co.kr/webzine/news/?news=318900",
-          "meta": "1시간 전"
+          "meta": "12시간 전"
         },
         {
           "title": "3승 고지 선착한 젠지, VCT 퍼시픽 스테이지 2주 차 종합",
           "url": "https://www.inven.co.kr/webzine/news/?news=318899",
-          "meta": "발로란트 · 1시간 전"
-        },
-        {
-          "title": "버투스 프로, EWC 2026 배틀그라운드 부문 우승",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318898",
-          "meta": "PUBG: 배틀그라운드 · 1시간 전"
-        },
-        {
-          "title": "신규 스킬 먼저 배워야할까? 직업별 스킬 우선순위 정리",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318857",
-          "meta": "솔: 인챈트 · 1시간 전"
-        },
-        {
-          "title": "아크시스템웍스 아시아, 10주년 기념 세일 27일부터 실시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318897",
-          "meta": "1시간 전"
+          "meta": "발로란트 · 12시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
