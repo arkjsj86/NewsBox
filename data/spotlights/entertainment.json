@@ -7,582 +7,483 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-27T06:32:24.579Z",
+  "lastUpdatedAt": "2026-07-27T12:23:07.896Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "716eb9a19fec5616",
-      "issueKey": "박찬호",
-      "issueTitle": "박찬호",
-      "trendTitle": "박찬호",
+      "id": "a8c5d92bb744ac4c",
+      "issueKey": "xsmb",
+      "issueTitle": "xsmb",
+      "trendTitle": "xsmb",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kết quả xổ số TPHCM ngày 27.7",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-tphcm-ngay-277-1741759.ldo",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "XSMT 27/7 - Kết quả xổ số miền Trung hôm nay ngày 27/7/2026",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/xsmt-27-7-ket-qua-xo-so-mien-trung-hom-nay-ngay-27-7-2026",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "XSMN 27/7 - Kết quả xổ số miền Nam hôm nay 27/7/2026",
+          "source": "CafeF",
+          "url": "https://cafef.vn/xsmn-27-7-ket-qua-xo-so-mien-nam-hom-nay-27-7-2026-188260727160852152.chn",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "xsmb",
+        "source": "Laodong.vn",
+        "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-tphcm-ngay-277-1741759.ldo",
+        "publishedAt": "2026-07-27T11:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T11:20:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "xsmb",
+      "source": "Laodong.vn",
+      "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-tphcm-ngay-277-1741759.ldo",
+      "rank": 1
+    },
+    {
+      "id": "01ff5ec64a848e8f",
+      "issueKey": "연애전쟁",
+      "issueTitle": "연애전쟁",
+      "trendTitle": "연애전쟁",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "남친 동의하에 외도, 충격 사유…\"이숙캠도 못 나올 사건\" [연애전쟁]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727083154744",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'연애전쟁' 서장훈, \"남친이 외도 허락\" 당당한 여친 고백에 분노",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6239523",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"남친이 허락한 외도였다\"…서장훈, 4년 차 커플에 분노",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260727_0003724752",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "남친 동의하에 외도, 충격 사유…\"이숙캠도 못 나올 사건\" [연애전쟁]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727083154744",
+        "publishedAt": "2026-07-27T11:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T11:20:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "연애전쟁",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260727083154744",
+      "rank": 2
+    },
+    {
+      "id": "dbccb104f1f3d03e",
+      "issueKey": "연이",
+      "issueTitle": "연이",
+      "trendTitle": "연이",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "HD현대重, 중대재해 잇따르자 전 사업장 생산 중단",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/industry-company/2026/07/27/YHGDVYFWUBHM7EIQK5CCWKGWQY/",
+          "publishedAt": "2026-07-27T11:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "HD현대중공업, 29일부터 사흘간 전 공장 가동 중단하고 안전점검",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727155537914",
+          "publishedAt": "2026-07-27T11:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "현대重, 연이은 사망사고에 사흘간 전 공장 생산 중단",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=346055",
+          "publishedAt": "2026-07-27T11:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "현대重, 연이은 사망사고에 사흘간 전 공장 생산 중단",
+        "source": "녹색경제신문",
+        "url": "https://www.greened.kr/news/articleView.html?idxno=346055",
+        "publishedAt": "2026-07-27T11:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-27T11:10:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "연이",
+      "source": "녹색경제신문",
+      "url": "https://www.greened.kr/news/articleView.html?idxno=346055",
+      "rank": 3
+    },
+    {
+      "id": "7c612d37fb891bca",
+      "issueKey": "헌재 문턱",
+      "issueTitle": "헌재 문턱",
+      "trendTitle": "헌재 문턱",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "박찬호, MLB 애슬레틱스에 7000만달러 투자… 구단주 수석고문 맡는다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/07/27/JCJEPSMGGZHAZJTQGHYAXUGW6E/",
-          "publishedAt": "2026-07-27T05:20:00.000Z",
+          "title": "'도수치료 관리급여 전환' 헌법재판소서 위헌 여부 가린다…22일 헌재 전원재판부 회부",
+          "source": "MEDI:GATE NEWS",
+          "url": "https://medigatenews.com/news/3255543697",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘새로운 개척’ 나선 박찬호…“MLB 투자·경영은 오랜 꿈”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8620998",
-          "publishedAt": "2026-07-27T05:20:00.000Z",
+          "title": "체외충격파 횟수 제한에 국제학회도 비판 \"세계 어디에도 없어\"",
+          "source": "메디칼타임즈",
+          "url": "https://www.medicaltimes.com/Mobile/News/NewsView.html?ID=1169861",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "박찬호, 투자자로 메이저리그 애슬레틱스 구단 지분 확보",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6840320_36946.html",
-          "publishedAt": "2026-07-27T05:20:00.000Z",
+          "title": "개인이 뚫은 헌재 문턱, 조직이 뒤따랐다…남은 변수는 물리치료사협회",
+          "source": "https://www.seoulilbo.co.kr/",
+          "url": "https://www.seoulilbo.co.kr/news/articleView.html?idxno=21275",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "박찬호, MLB 애슬레틱스에 7000만달러 투자… 구단주 수석고문 맡는다",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-baseball/2026/07/27/JCJEPSMGGZHAZJTQGHYAXUGW6E/",
-        "publishedAt": "2026-07-27T05:20:00.000Z",
-        "relevanceScore": 3
+        "title": "개인이 뚫은 헌재 문턱, 조직이 뒤따랐다…남은 변수는 물리치료사협회",
+        "source": "https://www.seoulilbo.co.kr/",
+        "url": "https://www.seoulilbo.co.kr/news/articleView.html?idxno=21275",
+        "publishedAt": "2026-07-27T10:50:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-07-27T05:20:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "박찬호",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-baseball/2026/07/27/JCJEPSMGGZHAZJTQGHYAXUGW6E/",
-      "rank": 1
+      "publishedAt": "2026-07-27T10:50:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "헌재 문턱",
+      "source": "https://www.seoulilbo.co.kr/",
+      "url": "https://www.seoulilbo.co.kr/news/articleView.html?idxno=21275",
+      "rank": 4
     },
     {
-      "id": "0bda61a54af46aab",
-      "issueKey": "mlb",
-      "issueTitle": "mlb",
-      "trendTitle": "mlb",
+      "id": "0e78703bfce92b85",
+      "issueKey": "오현규",
+      "issueTitle": "오현규",
+      "trendTitle": "오현규",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "After setting dubious team record, Marlins struggle to find answers",
-          "source": "MLB.com",
-          "url": "https://www.mlb.com/news/marlins-lose-12th-straight-game-setting-franchise-record",
-          "publishedAt": "2026-07-27T05:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "MLB roundup: Marlins blow lead to Padres, lose club-record 12th straight",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/sports/mlb-roundup-marlins-blow-lead-padres-lose-club-record-12th-straight--flm-2026-07-27/",
-          "publishedAt": "2026-07-27T05:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Marlins bullpen has gone from strength to weakness",
-          "source": "Five Reasons Sports Network",
-          "url": "https://www.fivereasonssports.com/voices/marlins-bullpen-has-gone-from-strength-to-weakness/",
-          "publishedAt": "2026-07-27T05:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "MLB roundup: Marlins blow lead to Padres, lose club-record 12th straight",
-        "source": "Reuters",
-        "url": "https://www.reuters.com/sports/mlb-roundup-marlins-blow-lead-padres-lose-club-record-12th-straight--flm-2026-07-27/",
-        "publishedAt": "2026-07-27T05:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-27T05:00:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "mlb",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sports/mlb-roundup-marlins-blow-lead-padres-lose-club-record-12th-straight--flm-2026-07-27/",
-      "rank": 2
-    },
-    {
-      "id": "6d177f55c31f6466",
-      "issueKey": "야생생물",
-      "issueTitle": "야생생물",
-      "trendTitle": "야생생물",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "다도해해상국립공원, 멸종위기야생생물 '대흥란' 서식 추가 확인",
+          "title": "이럴 수가! \"오현규 영입? 믿긴 어렵다\" 스페인 명문 이적설 와르르...\"250억 제안설 거짓, 베티스와 맞지 않는다\" 일축",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/07/27/2026072714465536223",
-          "publishedAt": "2026-07-27T04:30:00.000Z",
+          "url": "https://www.mt.co.kr/sports/2026/07/27/202607271018778899O",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘생태계 보고 지리산’ 멸종위기 야생생물 Ⅰ·Ⅱ급 서식 잇단 확인",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260726155747447",
-          "publishedAt": "2026-07-27T04:30:00.000Z",
+          "title": "'오현규 거취, 살라 영입과 연동돼 있나' 베식타시, 이집트 스타 살라의 최종 답변 기다리는 중..구단 회장 \"연봉 인상 최종안 제시했고 조만간 결정\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/27/MM4TCZRZHBSDAYTEMMZWIOJYMM/",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "지리산서 멸종위기종 또 발견…1급 무산쇠족제비·2급 대흥란 서식 확인",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607278358v",
-          "publishedAt": "2026-07-27T04:30:00.000Z",
+          "title": "튀르키예 매체 포토스포르, 오현규의 레알 베티스행 가능성 보도…“약 250억 원 규모 이적료 장전 완료”",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260726/134363972/1",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "다도해해상국립공원, 멸종위기야생생물 '대흥란' 서식 추가 확인",
+        "title": "이럴 수가! \"오현규 영입? 믿긴 어렵다\" 스페인 명문 이적설 와르르...\"250억 제안설 거짓, 베티스와 맞지 않는다\" 일축",
         "source": "머니투데이",
-        "url": "https://www.mt.co.kr/policy/2026/07/27/2026072714465536223",
-        "publishedAt": "2026-07-27T04:30:00.000Z",
+        "url": "https://www.mt.co.kr/sports/2026/07/27/202607271018778899O",
+        "publishedAt": "2026-07-27T10:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-27T04:30:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "야생생물",
+      "publishedAt": "2026-07-27T10:50:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "오현규",
       "source": "머니투데이",
-      "url": "https://www.mt.co.kr/policy/2026/07/27/2026072714465536223",
-      "rank": 3
+      "url": "https://www.mt.co.kr/sports/2026/07/27/202607271018778899O",
+      "rank": 5
     },
     {
-      "id": "2f517551eae567f1",
-      "issueKey": "경상남도",
-      "issueTitle": "경상남도",
-      "trendTitle": "경상남도",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "경상남도레미콘공업협동조합, 합천군에 이웃돕기 성금 500만원 기탁",
-          "source": "외교저널",
-          "url": "https://www.djournal.co.kr/news/article.html?no=90646",
-          "publishedAt": "2026-07-27T04:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고성군 이웃사랑나눔기부 국도식육식당 황춘옥대표, 성금 100만 원 기탁",
-          "source": "한국소통투데이",
-          "url": "https://www.kbcs.kr/news/article.html?no=331348",
-          "publishedAt": "2026-07-27T04:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "레미콘조합 이웃사랑 성금 기탁",
-          "source": "고성신문",
-          "url": "http://www.gosnews.kr/default/index_view_page.php?part_idx=448&amp;idx=33768",
-          "publishedAt": "2026-07-27T04:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "경상남도레미콘공업협동조합, 합천군에 이웃돕기 성금 500만원 기탁",
-        "source": "외교저널",
-        "url": "https://www.djournal.co.kr/news/article.html?no=90646",
-        "publishedAt": "2026-07-27T04:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-27T04:30:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "경상남도",
-      "source": "외교저널",
-      "url": "https://www.djournal.co.kr/news/article.html?no=90646",
-      "rank": 4
-    },
-    {
-      "id": "402473b26294876f",
-      "issueKey": "주차",
-      "issueTitle": "주차",
-      "trendTitle": "주차",
+      "id": "2df6ace4740b3767",
+      "issueKey": "서지오",
+      "issueTitle": "서지오",
+      "trendTitle": "서지오",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "이런 사람이 아직도? 주차장서 “차 금방 온다” 몸으로 버틴 중년",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11605113",
-          "publishedAt": "2026-07-27T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“차 금방 온다” 주차 자리 몸으로 선점한 중년 여성 ‘비판’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260726/134367744/2",
-          "publishedAt": "2026-07-27T04:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"차 금방 와요\" 중년女, 15분 넘게 주차 자리 선점...남편이 말려도 '막무가내' [어떻게 생각하세요]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202607270710178407",
-          "publishedAt": "2026-07-27T04:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이런 사람이 아직도? 주차장서 “차 금방 온다” 몸으로 버틴 중년",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11605113",
-        "publishedAt": "2026-07-27T04:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-27T04:10:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "주차",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11605113",
-      "rank": 5
-    },
-    {
-      "id": "6631a999d8e37815",
-      "issueKey": "양지마을",
-      "issueTitle": "양지마을",
-      "trendTitle": "양지마을",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "성남시, 분당 선도지구 양지마을 사업시행자 지정 고시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20260727003300353",
-          "publishedAt": "2026-07-27T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“속도 빨라” 李 대통령 ‘근저당’ 양지마을 통합재건축 27일 사업시행자 지정",
+          "title": "'무명전설' 이루네 \"서지오와 사귄지 얼마안돼\" 폭탄 발언…父 생일도 챙겼다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260727111312750",
-          "publishedAt": "2026-07-27T04:10:00.000Z",
+          "url": "https://v.daum.net/v/20260727103108437",
+          "publishedAt": "2026-07-27T10:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이루네♥서지오 열애? “사귄 지 얼마 안 됐다” 폭탄 발언 (전설의사내)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260727/134368902/1",
+          "publishedAt": "2026-07-27T10:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "성남시, 양지마을 사업시행자에 대신자산신탁 지정·고시",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20072105",
-          "publishedAt": "2026-07-27T04:10:00.000Z",
+          "title": "\"아티스트로서 갖출 거 다 갖춰\"…성리, 직접 뽑은 '전설의 사내' 최애는?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16145992",
+          "publishedAt": "2026-07-27T10:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "성남시, 분당 선도지구 양지마을 사업시행자 지정 고시",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20260727003300353",
-        "publishedAt": "2026-07-27T04:10:00.000Z",
+        "title": "'무명전설' 이루네 \"서지오와 사귄지 얼마안돼\" 폭탄 발언…父 생일도 챙겼다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727103108437",
+        "publishedAt": "2026-07-27T10:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-27T04:10:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "양지마을",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/RPR20260727003300353",
+      "publishedAt": "2026-07-27T10:40:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "서지오",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260727103108437",
       "rank": 6
     },
     {
-      "id": "9a01e20af0065982",
-      "issueKey": "연상호",
-      "issueTitle": "연상호",
-      "trendTitle": "연상호",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"타미야 료코의 고뇌\" 연상호 감독+넷플릭스(일본), '기생수:타미야' 제작",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=406562",
-          "publishedAt": "2026-07-27T04:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "연상호, 넷플릭스 신작 ‘Parasyte: -TAMIYA-’로 원작 만화 세계관에 다시 집중",
-          "source": "Hypebeast.KR",
-          "url": "https://hypebeast.kr/2026/7/yeon-sang-ho-shifts-parasyte-universe-focus-back-to-original-manga-lore-in-upcoming-netflix-series",
-          "publishedAt": "2026-07-27T04:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "연상호 감독의 쉼 없는 질주, 세계관 확장은 계속",
-          "source": "스포츠Q",
-          "url": "https://www.sportsq.co.kr/news/articleView.html?idxno=496717",
-          "publishedAt": "2026-07-27T04:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"타미야 료코의 고뇌\" 연상호 감독+넷플릭스(일본), '기생수:타미야' 제작",
-        "source": "KBS연예",
-        "url": "https://kstar.kbs.co.kr/list_view.html?idx=406562",
-        "publishedAt": "2026-07-27T04:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-27T04:00:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "연상호",
-      "source": "KBS연예",
-      "url": "https://kstar.kbs.co.kr/list_view.html?idx=406562",
-      "rank": 7
-    },
-    {
-      "id": "4e542379da6dae44",
-      "issueKey": "폭탄",
-      "issueTitle": "폭탄",
-      "trendTitle": "폭탄",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "설우석 박사 \"누리호는 출발선…'재사용 기술'에 우주 패권 달려\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260726170037437",
-          "publishedAt": "2026-07-27T03:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "UGV에 폭탄 설치하는 우크라이나 군인들",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260727_0002196697",
-          "publishedAt": "2026-07-27T03:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[데스크 칼럼] 발사체 기술이 더 시급하다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026072665411",
-          "publishedAt": "2026-07-27T03:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "UGV에 폭탄 설치하는 우크라이나 군인들",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260727_0002196697",
-        "publishedAt": "2026-07-27T03:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-27T03:50:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "폭탄",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISI20260727_0002196697",
-      "rank": 8
-    },
-    {
-      "id": "2d68ed089aa22039",
-      "issueKey": "판결",
-      "issueTitle": "판결",
-      "trendTitle": "판결",
+      "id": "a64f709895cf25bf",
+      "issueKey": "명예영국인",
+      "issueTitle": "명예영국인",
+      "trendTitle": "명예영국인",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "헌재 결정 안 나왔는데…대법, '위헌 전제' 판결 파기환송",
+          "title": "유튜버 명예영국인 “英 에어컨 설치 너무 까다로워…참고 산다”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260727094251796",
-          "publishedAt": "2026-07-27T03:50:00.000Z",
+          "url": "https://v.daum.net/v/YKvYkBztFn",
+          "publishedAt": "2026-07-27T10:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[판결] “위헌 전제로 한 재판 안 된다”",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=223900",
-          "publishedAt": "2026-07-27T03:50:00.000Z",
+          "title": "\"에어컨 설치에 4000만원\"…폭염 덮친 英 현실 전한 '명예 영국인'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260723_0003720407",
+          "publishedAt": "2026-07-27T10:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "사무장요양병원 진료비 부가세 면제 안된다",
-          "source": "의료&복지뉴스",
-          "url": "http://www.mediwelfare.com/news/articleView.html?idxno=4791",
-          "publishedAt": "2026-07-27T03:50:00.000Z",
+          "title": "무서운 영국 물가...반가운 투굿 투고",
+          "source": "브런치",
+          "url": "https://brunch.co.kr/@wanleehani/257",
+          "publishedAt": "2026-07-27T10:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "헌재 결정 안 나왔는데…대법, '위헌 전제' 판결 파기환송",
+        "title": "유튜버 명예영국인 “英 에어컨 설치 너무 까다로워…참고 산다”",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260727094251796",
-        "publishedAt": "2026-07-27T03:50:00.000Z",
+        "url": "https://v.daum.net/v/YKvYkBztFn",
+        "publishedAt": "2026-07-27T10:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-27T03:50:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "판결",
+      "publishedAt": "2026-07-27T10:20:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "명예영국인",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260727094251796",
-      "rank": 9
+      "url": "https://v.daum.net/v/YKvYkBztFn",
+      "rank": 7
     },
     {
-      "id": "205dac0f21093be3",
-      "issueKey": "이란 전쟁",
-      "issueTitle": "이란 전쟁",
-      "trendTitle": "이란 전쟁",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "165d131af39df7ed",
+      "issueKey": "에르베 르나르",
+      "issueTitle": "에르베 르나르",
+      "trendTitle": "에르베 르나르",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“美-이란 ‘대화-전투 병행’, 이익관철 위해 불가피”-CSIS",
+          "title": "한국 차기 감독 후보 르나르, 세네갈행 급부상...\"현재 가장 유력한 선택지\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260727145842200",
-          "publishedAt": "2026-07-27T03:40:00.000Z",
+          "url": "https://v.daum.net/v/20260726125108667",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "미국인 76% \"트럼프 이란 전쟁 수행에 어려움 겪어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260727_0003724725",
-          "publishedAt": "2026-07-27T03:40:00.000Z",
+          "title": "\"홍명보 뒤 이을 유력 후보\" 차기 사령탑 가능성 급부상...르나르, 2년 만에 韓 축구와 재연결 \"곧 결정될 가능성 크다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/25/GRRWEMJXMVQTSZJZMZRDIM3EMU/",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘협상파’ 이란 대통령, 국영방송과 공개 설전···전쟁 장기화에 파열음",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607261511011",
-          "publishedAt": "2026-07-27T03:40:00.000Z",
+          "title": "'벤버지' 한국 복귀 원했는데…에콰도르 대표팀 감독 후보로 거론",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260721_0003717669",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "미국인 76% \"트럼프 이란 전쟁 수행에 어려움 겪어\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260727_0003724725",
-        "publishedAt": "2026-07-27T03:40:00.000Z",
-        "relevanceScore": 2
+        "title": "에르베 르나르",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726125108667",
+        "publishedAt": "2026-07-27T10:10:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-07-27T03:40:00.000Z",
-      "firstSeenAt": "2026-07-27T06:32:24.579Z",
-      "lastSeenAt": "2026-07-27T06:32:24.579Z",
-      "title": "이란 전쟁",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260727_0003724725",
+      "publishedAt": "2026-07-27T10:10:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "에르베 르나르",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260726125108667",
+      "rank": 8
+    },
+    {
+      "id": "2dcc71c5c4254d05",
+      "issueKey": "화진포 해변",
+      "issueTitle": "화진포 해변",
+      "trendTitle": "화진포 해변",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "고성 바다 빠진 10대 2명 구하고‥50대 군인 2명 '심정지'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840170_37004.html",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "하루에만 3명 심정지…\"해수욕장 아니에요?\" 무슨 일이",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677202&amp;plink=RSSLINK&amp;cooper=GSTAND",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "강원 고성군 거진읍 해상서 수난사고···50대 2명 ‘심정지’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607261815001",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "화진포 해변",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840170_37004.html",
+        "publishedAt": "2026-07-27T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T10:10:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "화진포 해변",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840170_37004.html",
+      "rank": 9
+    },
+    {
+      "id": "a2424b0167b1f4f7",
+      "issueKey": "신민아",
+      "issueTitle": "신민아",
+      "trendTitle": "신민아",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[방송소식] 신민아·주지훈의 '재혼 황후' 올가을 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727146500005",
+          "publishedAt": "2026-07-27T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "신민아 '재혼 황후', 가을 디즈니+ 출격…티저 포스터 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727093749570",
+          "publishedAt": "2026-07-27T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "신민아·주지훈 황실 스캔들…'재혼 황후', 올 가을 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260727_0003724527",
+          "publishedAt": "2026-07-27T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[방송소식] 신민아·주지훈의 '재혼 황후' 올가을 공개",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260727146500005",
+        "publishedAt": "2026-07-27T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T10:00:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "신민아",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260727146500005",
       "rank": 10
     }
   ],
   "history": [
-    {
-      "id": "718bb83e9b1b8171",
-      "issueKey": "소지섭",
-      "issueTitle": "소지섭",
-      "trendTitle": "소지섭",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"친구 자식 위해 목숨 걸다니\"…주상욱, 소지섭 향한 '악마의 미소'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725151239449",
-          "publishedAt": "2026-07-25T06:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘김부장’ 수거할 ‘떡밥 5가지’…2회 밖에 안 남아",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604606",
-          "publishedAt": "2026-07-25T06:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'김부장' 최고 23.2%..최대훈X윤경호 자녀 인질 '피눈물 절규' 엔딩",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/25/GFSDENDFMY3WEYJUGE3WGNZWGY/",
-          "publishedAt": "2026-07-25T06:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"친구 자식 위해 목숨 걸다니\"…주상욱, 소지섭 향한 '악마의 미소'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260725151239449",
-        "publishedAt": "2026-07-25T06:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T06:20:00.000Z",
-      "firstSeenAt": "2026-07-25T08:06:03.471Z",
-      "lastSeenAt": "2026-07-25T08:06:03.471Z",
-      "title": "소지섭",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260725151239449"
-    },
-    {
-      "id": "f4a1c0970bcc9d83",
-      "issueKey": "여아",
-      "issueTitle": "여아",
-      "trendTitle": "여아",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 4,
-      "relatedArticles": [
-        {
-          "title": "택배 집으려다…3세 여아, 숨어있던 뱀에 물려 중환자실 이송, 美 충격",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11604639",
-          "publishedAt": "2026-07-25T09:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "남가주 인기 등산로 달리다 방울뱀에 '덥석'…20대 해독제 34회 맞고 회복 중",
-          "source": "RadioKorea",
-          "url": "https://www.radiokorea.com/news/article.php?uid=500104",
-          "publishedAt": "2026-07-25T09:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "아마존 택배 집으려다…3세 여아, 봉투 밑 방울뱀에 물려 중환자실 이송",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260723_0003720233",
-          "publishedAt": "2026-07-24T07:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "집 앞 택배 줍다 방울뱀 '습격'...3살 여아 중환자실",
-          "source": "RadioKorea",
-          "url": "https://radiokorea.com/news/article.php?uid=499793",
-          "publishedAt": "2026-07-24T07:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "택배 집으려다…3세 여아, 숨어있던 뱀에 물려 중환자실 이송, 美 충격",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11604639",
-        "publishedAt": "2026-07-25T09:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T09:00:00.000Z",
-      "firstSeenAt": "2026-07-24T08:27:19.857Z",
-      "lastSeenAt": "2026-07-25T10:26:50.746Z",
-      "title": "여아",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11604639"
-    },
     {
       "id": "20c2cf58684c9bfb",
       "issueKey": "축구 희소식",
@@ -789,6 +690,98 @@
       "url": "https://v.daum.net/v/20260725050312196"
     },
     {
+      "id": "2df6ace4740b3767",
+      "issueKey": "서지오",
+      "issueTitle": "서지오",
+      "trendTitle": "서지오",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'무명전설' 이루네 \"서지오와 사귄지 얼마안돼\" 폭탄 발언…父 생일도 챙겼다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727103108437",
+          "publishedAt": "2026-07-27T10:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이루네♥서지오 열애? “사귄 지 얼마 안 됐다” 폭탄 발언 (전설의사내)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260727/134368902/1",
+          "publishedAt": "2026-07-27T10:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"아티스트로서 갖출 거 다 갖춰\"…성리, 직접 뽑은 '전설의 사내' 최애는?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16145992",
+          "publishedAt": "2026-07-27T10:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'무명전설' 이루네 \"서지오와 사귄지 얼마안돼\" 폭탄 발언…父 생일도 챙겼다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260727103108437",
+        "publishedAt": "2026-07-27T10:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T10:40:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "서지오",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260727103108437"
+    },
+    {
+      "id": "2dcc71c5c4254d05",
+      "issueKey": "화진포 해변",
+      "issueTitle": "화진포 해변",
+      "trendTitle": "화진포 해변",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "고성 바다 빠진 10대 2명 구하고‥50대 군인 2명 '심정지'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840170_37004.html",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "하루에만 3명 심정지…\"해수욕장 아니에요?\" 무슨 일이",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008677202&amp;plink=RSSLINK&amp;cooper=GSTAND",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "강원 고성군 거진읍 해상서 수난사고···50대 2명 ‘심정지’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607261815001",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "화진포 해변",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840170_37004.html",
+        "publishedAt": "2026-07-27T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T10:10:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "화진포 해변",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6840170_37004.html"
+    },
+    {
       "id": "402473b26294876f",
       "issueKey": "주차",
       "issueTitle": "주차",
@@ -973,52 +966,6 @@
       "url": "https://v.daum.net/v/QKBsjrDgAQ"
     },
     {
-      "id": "b9ea9a1dd10fb576",
-      "issueKey": "서희원",
-      "issueTitle": "서희원",
-      "trendTitle": "서희원",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "故 서희원, 구준엽·자녀와 韓 이주 계획했었다…\"4억 5000만원 비밀리에 이전\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6238806",
-          "publishedAt": "2026-07-25T06:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“故서희원, 한국에 억대자산 비밀리 이전…구준엽과 이주 계획” 보도 나와",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/2026/07/25/20260725500030",
-          "publishedAt": "2026-07-25T06:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“한국에 4억5000만원 옮겼다”더니…故서희원 측근 “대만 떠날 생각 없었다”",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1624520",
-          "publishedAt": "2026-07-25T06:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "故 서희원, 구준엽·자녀와 韓 이주 계획했었다…\"4억 5000만원 비밀리에 이전\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/entertain/celebrity-topic/6238806",
-        "publishedAt": "2026-07-25T06:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T06:20:00.000Z",
-      "firstSeenAt": "2026-07-25T08:06:03.471Z",
-      "lastSeenAt": "2026-07-25T08:06:03.471Z",
-      "title": "서희원",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/entertain/celebrity-topic/6238806"
-    },
-    {
       "id": "da2e9b3415fb065c",
       "issueKey": "서학 개미",
       "issueTitle": "서학 개미",
@@ -1144,6 +1091,98 @@
       "title": "적용 추진",
       "source": "경향신문",
       "url": "https://www.khan.co.kr/article/202607261757001"
+    },
+    {
+      "id": "165d131af39df7ed",
+      "issueKey": "에르베 르나르",
+      "issueTitle": "에르베 르나르",
+      "trendTitle": "에르베 르나르",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한국 차기 감독 후보 르나르, 세네갈행 급부상...\"현재 가장 유력한 선택지\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260726125108667",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"홍명보 뒤 이을 유력 후보\" 차기 사령탑 가능성 급부상...르나르, 2년 만에 韓 축구와 재연결 \"곧 결정될 가능성 크다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/25/GRRWEMJXMVQTSZJZMZRDIM3EMU/",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'벤버지' 한국 복귀 원했는데…에콰도르 대표팀 감독 후보로 거론",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260721_0003717669",
+          "publishedAt": "2026-07-27T10:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "에르베 르나르",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260726125108667",
+        "publishedAt": "2026-07-27T10:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T10:10:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "에르베 르나르",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260726125108667"
+    },
+    {
+      "id": "a2424b0167b1f4f7",
+      "issueKey": "신민아",
+      "issueTitle": "신민아",
+      "trendTitle": "신민아",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[방송소식] 신민아·주지훈의 '재혼 황후' 올가을 공개",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727146500005",
+          "publishedAt": "2026-07-27T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "신민아 '재혼 황후', 가을 디즈니+ 출격…티저 포스터 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260727093749570",
+          "publishedAt": "2026-07-27T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "신민아·주지훈 황실 스캔들…'재혼 황후', 올 가을 공개",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260727_0003724527",
+          "publishedAt": "2026-07-27T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[방송소식] 신민아·주지훈의 '재혼 황후' 올가을 공개",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260727146500005",
+        "publishedAt": "2026-07-27T10:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T10:00:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "신민아",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260727146500005"
     },
     {
       "id": "85d5f2049ed1eff3",
@@ -1560,142 +1599,50 @@
       "url": "https://www.khan.co.kr/article/202607251924001"
     },
     {
-      "id": "b77c33421ac7b8b0",
-      "issueKey": "이강인",
-      "issueTitle": "이강인",
-      "trendTitle": "그리즈만",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "0e78703bfce92b85",
+      "issueKey": "오현규",
+      "issueTitle": "오현규",
+      "trendTitle": "오현규",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "이강인, 3년만에 라리가 공식 복귀··· PSG 떠나 아틀레티코 마드리드 입단",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607251743001",
-          "publishedAt": "2026-07-25T08:50:00.000Z",
+          "title": "이럴 수가! \"오현규 영입? 믿긴 어렵다\" 스페인 명문 이적설 와르르...\"250억 제안설 거짓, 베티스와 맞지 않는다\" 일축",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/07/27/202607271018778899O",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이강인, 스페인 명문 AT 마드리드에서 7번 단다 ... 이적료 671억원",
+          "title": "'오현규 거취, 살라 영입과 연동돼 있나' 베식타시, 이집트 스타 살라의 최종 답변 기다리는 중..구단 회장 \"연봉 인상 최종안 제시했고 조만간 결정\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/07/25/VTJVA5MDMFG7FJ46X6CO3A33CI/",
-          "publishedAt": "2026-07-25T08:50:00.000Z",
+          "url": "https://www.chosun.com/sports/world-football/2026/07/27/MM4TCZRZHBSDAYTEMMZWIOJYMM/",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이강인, AT마드리드 공식 입단‥5년 계약·이적료 670억 원",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6840059_36946.html",
-          "publishedAt": "2026-07-25T08:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이강인, 3년만에 라리가 공식 복귀··· PSG 떠나 아틀레티코 마드리드 입단",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607251743001",
-        "publishedAt": "2026-07-25T08:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T08:50:00.000Z",
-      "firstSeenAt": "2026-07-25T10:26:50.746Z",
-      "lastSeenAt": "2026-07-25T10:26:50.746Z",
-      "title": "이강인",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202607251743001"
-    },
-    {
-      "id": "e86946df1aed0f8f",
-      "issueKey": "현대",
-      "issueTitle": "현대",
-      "trendTitle": "현대",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보]현대중공업 군산조선소에서 용접하던 30대 끼임 사고…심정지 병원 이송",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6553180",
-          "publishedAt": "2026-07-25T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "與 당권주자, 군산조선소 사망 노동자 애도‥\"산업 안전\" 강조",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6840042_36911.html",
-          "publishedAt": "2026-07-25T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "송영길·정청래·김민석, 군산조선소 사고 애도…\"안전 강화\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725135100375",
-          "publishedAt": "2026-07-25T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보]현대중공업 군산조선소에서 용접하던 30대 끼임 사고…심정지 병원 이송",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6553180",
-        "publishedAt": "2026-07-25T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-25T08:40:00.000Z",
-      "firstSeenAt": "2026-07-25T10:26:50.746Z",
-      "lastSeenAt": "2026-07-25T10:26:50.746Z",
-      "title": "현대",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6553180"
-    },
-    {
-      "id": "06002349f10dd7ca",
-      "issueKey": "최우수산",
-      "issueTitle": "최우수산",
-      "trendTitle": "최우수산",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "붐, '붕어빵' 3세 딸 최초 공개...흥 DNA 흡수 \"읏짜\" ('최우수산')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725113507858",
-          "publishedAt": "2026-07-25T06:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "붐, 첫 공개한 3세 딸 윤서…아빠 유행어 “읏짜”까지 닮았다",
+          "title": "튀르키예 매체 포토스포르, 오현규의 레알 베티스행 가능성 보도…“약 250억 원 규모 이적료 장전 완료”",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260725/134362781/1",
-          "publishedAt": "2026-07-25T06:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "붐, 첫째 딸 윤서 최초 공개…아빠 붕어빵 3살 귀요미 딸의 '흥 DNA' 홀릭 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/07/25/GEYDGNLFMIZDCMRXMQ3DKOLBMM/",
-          "publishedAt": "2026-07-25T06:50:00.000Z",
+          "url": "https://sports.donga.com/sports/article/all/20260726/134363972/1",
+          "publishedAt": "2026-07-27T10:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "붐, '붕어빵' 3세 딸 최초 공개...흥 DNA 흡수 \"읏짜\" ('최우수산')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260725113507858",
-        "publishedAt": "2026-07-25T06:50:00.000Z",
+        "title": "이럴 수가! \"오현규 영입? 믿긴 어렵다\" 스페인 명문 이적설 와르르...\"250억 제안설 거짓, 베티스와 맞지 않는다\" 일축",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/07/27/202607271018778899O",
+        "publishedAt": "2026-07-27T10:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-25T06:50:00.000Z",
-      "firstSeenAt": "2026-07-25T08:06:03.471Z",
-      "lastSeenAt": "2026-07-25T08:06:03.471Z",
-      "title": "최우수산",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260725113507858"
+      "publishedAt": "2026-07-27T10:50:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "오현규",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/sports/2026/07/27/202607271018778899O"
     },
     {
       "id": "0bda61a54af46aab",
@@ -2386,6 +2333,52 @@
       "title": "사이드카",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260726_0003723665"
+    },
+    {
+      "id": "a8c5d92bb744ac4c",
+      "issueKey": "xsmb",
+      "issueTitle": "xsmb",
+      "trendTitle": "xsmb",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kết quả xổ số TPHCM ngày 27.7",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-tphcm-ngay-277-1741759.ldo",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "XSMT 27/7 - Kết quả xổ số miền Trung hôm nay ngày 27/7/2026",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/xsmt-27-7-ket-qua-xo-so-mien-trung-hom-nay-ngay-27-7-2026",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "XSMN 27/7 - Kết quả xổ số miền Nam hôm nay 27/7/2026",
+          "source": "CafeF",
+          "url": "https://cafef.vn/xsmn-27-7-ket-qua-xo-so-mien-nam-hom-nay-27-7-2026-188260727160852152.chn",
+          "publishedAt": "2026-07-27T11:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "xsmb",
+        "source": "Laodong.vn",
+        "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-tphcm-ngay-277-1741759.ldo",
+        "publishedAt": "2026-07-27T11:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-27T11:20:00.000Z",
+      "firstSeenAt": "2026-07-27T12:23:07.896Z",
+      "lastSeenAt": "2026-07-27T12:23:07.896Z",
+      "title": "xsmb",
+      "source": "Laodong.vn",
+      "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-tphcm-ngay-277-1741759.ldo"
     }
   ]
 }
