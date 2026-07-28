@@ -2,107 +2,62 @@
   "tab": "esports",
   "type": "lck-standings",
   "league": "lck",
-  "leagueLabel": "LCK Split 2 2026",
-  "tournamentSlug": "lck_split_2_2026",
-  "tournamentName": "Split 2 2026",
-  "tournamentState": "completed",
+  "leagueLabel": "LCK Split 3 2026",
+  "tournamentSlug": "lck_split_3_2026",
+  "tournamentName": "Split 3 2026",
+  "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-07-27T22:08:21.773Z",
-  "lastUpdatedAt": "2026-07-27T22:08:21.773Z",
-  "updatedLabel": "공식 데이터 기준",
+  "fetchedAt": "2026-07-28T02:33:41.336Z",
+  "lastUpdatedAt": "2026-07-28T02:33:41.336Z",
+  "updatedLabel": "시즌 시작 전",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
-  "rowCount": 10,
+  "rowCount": 5,
   "rows": [
+    {
+      "rank": 1,
+      "code": "GEN",
+      "name": "Gen.G Esports",
+      "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+      "wins": 0,
+      "losses": 0,
+      "points": 0
+    },
     {
       "rank": 1,
       "code": "HLE",
       "name": "Hanwha Life Esports",
       "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
-      "wins": 15,
-      "losses": 3,
-      "points": 15
+      "wins": 0,
+      "losses": 0,
+      "points": 0
     },
     {
-      "rank": 2,
-      "code": "T1",
-      "name": "T1",
-      "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
-      "wins": 14,
-      "losses": 4,
-      "points": 14
-    },
-    {
-      "rank": 3,
-      "code": "GEN",
-      "name": "Gen.G Esports",
-      "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-      "wins": 14,
-      "losses": 4,
-      "points": 14
-    },
-    {
-      "rank": 4,
-      "code": "KT",
-      "name": "kt Rolster",
-      "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
-      "wins": 13,
-      "losses": 5,
-      "points": 13
-    },
-    {
-      "rank": 5,
+      "rank": 1,
       "code": "DK",
       "name": "Dplus KIA",
       "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-      "wins": 11,
-      "losses": 7,
-      "points": 11
+      "wins": 0,
+      "losses": 0,
+      "points": 0
     },
     {
-      "rank": 6,
-      "code": "BRO",
-      "name": "HANJIN BRION",
-      "image": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png",
-      "wins": 6,
-      "losses": 12,
-      "points": 6
+      "rank": 1,
+      "code": "T1",
+      "name": "T1",
+      "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+      "wins": 0,
+      "losses": 0,
+      "points": 0
     },
     {
-      "rank": 7,
-      "code": "BFX",
-      "name": "BNK FEARX",
-      "image": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png",
-      "wins": 6,
-      "losses": 12,
-      "points": 6
-    },
-    {
-      "rank": 8,
-      "code": "DRX",
-      "name": "KIWOOM DRX",
-      "image": "http://static.lolesports.com/teams/1774247803537_horizontal_EN_Wh.png",
-      "wins": 5,
-      "losses": 13,
-      "points": 5
-    },
-    {
-      "rank": 9,
-      "code": "NS",
-      "name": "NONGSHIM RED FORCE",
-      "image": "http://static.lolesports.com/teams/NSFullonDark.png",
-      "wins": 5,
-      "losses": 13,
-      "points": 5
-    },
-    {
-      "rank": 10,
-      "code": "DNS",
-      "name": "DN SOOPers",
-      "image": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp",
-      "wins": 1,
-      "losses": 17,
-      "points": 1
+      "rank": 1,
+      "code": "KT",
+      "name": "kt Rolster",
+      "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
+      "wins": 0,
+      "losses": 0,
+      "points": 0
     }
   ]
 }
