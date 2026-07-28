@@ -7,63 +7,251 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-28T05:45:49.062Z",
+  "lastUpdatedAt": "2026-07-28T08:33:56.058Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "a8406d36de3145cd",
-      "issueKey": "김민솔",
-      "issueTitle": "김민솔",
-      "trendTitle": "김민솔",
+      "id": "b9db54781b029f38",
+      "issueKey": "일본 지진",
+      "issueTitle": "일본 지진",
+      "trendTitle": "일본 지진",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보] 日규슈 규모 7.1 지진…쓰나미 경보 발령",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/northeast-asia/6241697",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[속보] 일본 구마모토에서 규모 7.1 추정 지진‥'진도 7 최고 등급'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6840662_36925.html",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "日 규슈서 규모 7.1 지진… 부산·경남서 진동 신고 잇따라",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/07/28/K4RXE7ZGY5EHJMQ7DFPUWZDRAI/",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "일본 지진",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/world/northeast-asia/6241697",
+        "publishedAt": "2026-07-28T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:30:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "일본 지진",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/world/northeast-asia/6241697",
+      "rank": 1
+    },
+    {
+      "id": "4f109d3a3c349fb6",
+      "issueKey": "윤동희",
+      "issueTitle": "윤동희",
+      "trendTitle": "윤동희",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'3이닝 7실점', 비로 삭제 '하늘이 도왔는데'→3이닝 8실점 또 무너졌다…\"그만한 선수 없다\" 이강철 감독 신뢰에도, '대권 도전' KT 결단 내릴까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728123113333",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘15안타로 15득점’ 롯데, kt 10연승 구단 신기록 저지",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8620511",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[사진] 노진혁, 짜릿한 손맛",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112846905",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "윤동희",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260728123113333",
+        "publishedAt": "2026-07-28T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:30:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "윤동희",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260728123113333",
+      "rank": 2
+    },
+    {
+      "id": "e3538fcc0c792709",
+      "issueKey": "사실오인",
+      "issueTitle": "사실오인",
+      "trendTitle": "포항 지진",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'포항지진 무죄' 불복한 검찰…\"사실오인·법리오해\" 항소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728092800905",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "포항시, 지진 피해 지원 지속 추진…강소기업 결실·해오름대교 전망대 개방으로 지역 활력 도모",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026072713211224248",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“포항지진 책임자는 누구인가”··· 민주당 포항남·울릉지역위 “무죄 판결 시민은 납득 못 한다”",
+          "source": "뉴데일리 대구경북",
+          "url": "https://tk.newdaily.co.kr/site/data/html/2026/07/24/2026072400263.html",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'포항지진 무죄' 불복한 검찰…\"사실오인·법리오해\" 항소",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260728092800905",
+        "publishedAt": "2026-07-28T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:30:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "사실오인",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260728092800905",
+      "rank": 3
+    },
+    {
+      "id": "9466fa8b991f06af",
+      "issueKey": "地震",
+      "issueTitle": "地震",
+      "trendTitle": "地震",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "快讯：熊本县天草与芦北地区发生M6.1级地震",
+          "source": "共同网",
+          "url": "https://china.kyodonews.net/articles/-/13485",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "王勤伯：学习西班牙足球，关键是要明白应该怎么学 避免表面模仿",
+          "source": "中华网",
+          "url": "https://3g.china.com/act/redian/13004758/20260728/49637854.html",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "评论｜ 赢球了，然后呢：到底国际体育竞技所为何事？",
+          "source": "端傳媒Initium Media",
+          "url": "https://theinitium.com/20260725-international-victory-in-sports-zh-hans/",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "快讯：熊本县天草与芦北地区发生M6.1级地震",
+        "source": "共同网",
+        "url": "https://china.kyodonews.net/articles/-/13485",
+        "publishedAt": "2026-07-28T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:30:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "地震",
+      "source": "共同网",
+      "url": "https://china.kyodonews.net/articles/-/13485",
+      "rank": 4
+    },
+    {
+      "id": "1c52975b4d2e0bab",
+      "issueKey": "지진희",
+      "issueTitle": "지진희",
+      "trendTitle": "지진희",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "KLPGA 투어 재개…3승 조준 서교림 vs 강원도 여왕 고지우",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728061600007",
-          "publishedAt": "2026-07-28T04:40:00.000Z",
+          "title": "‘타임슬립 천일야사’, ”마치 한명회가 환생한 듯” 정겨운 연기에 제작진도 놀랐다",
+          "source": "채널A",
+          "url": "https://ichannela.com/news/detail/000000541852.do",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'국내 최강' 김민솔, LPGA 메이저 AIG여자오픈 우승 도전",
-          "source": "골프한국",
-          "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021287",
-          "publishedAt": "2026-07-28T04:40:00.000Z",
+          "title": "지진희, ‘타임슬립 천일야사’ 역사 스토리텔러로 5년 만의 귀환",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147444",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "서교림 vs 배소현, 시즌 3승과 대회 2연패 놓고 ‘오로라 결투’",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030171676&amp;code=61161511&amp;sid1=ens",
-          "publishedAt": "2026-07-28T04:40:00.000Z",
+          "title": "채널A 대표 장수프로그램 될까…지진희부터 정겨운까지 나서면서 주목받는 프로그램 (‘타임슬립 천일야사’)",
+          "source": "MHN / 엠에이치앤",
+          "url": "https://mhnse.com/news/articleView.html?idxno=1469956&amp;utm_source=codeonenews&amp;utm_medium=rest_content&amp;utm_campaign=slot04",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'국내 최강' 김민솔, LPGA 메이저 AIG여자오픈 우승 도전",
-        "source": "골프한국",
-        "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021287",
-        "publishedAt": "2026-07-28T04:40:00.000Z",
+        "title": "지진희, ‘타임슬립 천일야사’ 역사 스토리텔러로 5년 만의 귀환",
+        "source": "톱스타뉴스",
+        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147444",
+        "publishedAt": "2026-07-28T07:30:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-07-28T04:40:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "김민솔",
-      "source": "골프한국",
-      "url": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20021287",
-      "rank": 1
+      "publishedAt": "2026-07-28T07:30:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "지진희",
+      "source": "톱스타뉴스",
+      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16147444",
+      "rank": 5
     },
     {
-      "id": "2b89e8c4fcc3f239",
-      "issueKey": "군의관",
-      "issueTitle": "군의관",
-      "trendTitle": "군의관",
+      "id": "770eb9e292c17199",
+      "issueKey": "지역",
+      "issueTitle": "지역",
+      "trendTitle": "지역",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
@@ -73,417 +261,321 @@
           "title": "[기자수첩] 조용한 의료개혁",
           "source": "머니투데이",
           "url": "https://www.mt.co.kr/thebio/2026/07/28/2026072413464527387",
-          "publishedAt": "2026-07-28T04:30:00.000Z",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
           "relevanceScore": 3
         },
         {
           "title": "\"필수의료 특별회계 1.2조원, 신규 예산으로 투입하라\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260727_0003724738",
-          "publishedAt": "2026-07-28T04:30:00.000Z",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
           "relevanceScore": 2
         },
         {
           "title": "[정책탐구생활] 의료서비스 사각지대 없도록… 지역·필수·공공의료 역할 커진다",
           "source": "브릿지경제",
           "url": "https://www.viva100.com/article/20260725500029",
-          "publishedAt": "2026-07-28T04:30:00.000Z",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "군의관",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/thebio/2026/07/28/2026072413464527387",
-        "publishedAt": "2026-07-28T04:30:00.000Z",
-        "relevanceScore": 3
+        "title": "[정책탐구생활] 의료서비스 사각지대 없도록… 지역·필수·공공의료 역할 커진다",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260725500029",
+        "publishedAt": "2026-07-28T07:30:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-07-28T04:30:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "군의관",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/thebio/2026/07/28/2026072413464527387",
-      "rank": 2
-    },
-    {
-      "id": "a4891dca304248b4",
-      "issueKey": "유정복",
-      "issueTitle": "유정복",
-      "trendTitle": "유정복",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "경찰 ‘해외 코인 신고 누락’ 혐의 유정복 전 인천시장 집·시청 압수수색",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607281138001",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "경찰, '가상자산 은닉 의혹' 유정복 전 인천시장 자택 등 압수수색",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6840564_36918.html",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘가상자산 은닉 의혹’ 유정복 전 시장… 경찰, 압수수색",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/incident/2026/07/28/DAYC7X2OPJCHLAWJSDGDO234DI/",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "경찰 ‘해외 코인 신고 누락’ 혐의 유정복 전 인천시장 집·시청 압수수색",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607281138001",
-        "publishedAt": "2026-07-28T04:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-28T04:20:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "유정복",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202607281138001",
-      "rank": 3
-    },
-    {
-      "id": "3cdf95d13039d99c",
-      "issueKey": "전성배",
-      "issueTitle": "전성배",
-      "trendTitle": "전성배",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "정점식, 尹 1심에 \"민주당도 434억 반환 운명‥이재명 재판 속개해야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6840557_36911.html",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "윤 선거법 징역형 집유...잠시 뒤 위증 재판 시작",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202607281348487989",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "부처상 대신 돌아가신 모친상 놓고…윤석열과 ‘13년 인연’ 건진의 실체",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1270267.html",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전성배",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6840557_36911.html",
-        "publishedAt": "2026-07-28T04:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-28T04:20:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "전성배",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6840557_36911.html",
-      "rank": 4
-    },
-    {
-      "id": "7348707848d9d14b",
-      "issueKey": "호반건설",
-      "issueTitle": "호반건설",
-      "trendTitle": "호반건설",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "호반건설, AI 기반 레미콘 자동 수량 산출 기술 개발",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166721",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "호반건설, AI로 레미콘 수량 산출…'호반써밋' 현장 적용",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260728_0003725882",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "호반건설, AI로 레미콘 물량 자동 산출…건설현장 생산성 향상",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=2026072809533124967191f6c6e_12",
-          "publishedAt": "2026-07-28T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "호반건설, AI 기반 레미콘 자동 수량 산출 기술 개발",
-        "source": "IT조선",
-        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166721",
-        "publishedAt": "2026-07-28T04:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-28T04:20:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "호반건설",
-      "source": "IT조선",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092166721",
-      "rank": 5
-    },
-    {
-      "id": "89e1816582befa56",
-      "issueKey": "이예림",
-      "issueTitle": "이예림",
-      "trendTitle": "이예림",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"이제 모두 하늘나라에\"…'이경규 딸' 이예림, 무지개 다리 건넌 6마리 반려견 향한 그리움 [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728122705236",
-          "publishedAt": "2026-07-28T04:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘이경규 딸’ 이예림, 큰 슬픔…반려견 6마리와 모두 이별 “우리 아기들” - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/07/28/GNRGGZDBMQYTQZTDGBRTEOBSG4/",
-          "publishedAt": "2026-07-28T04:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“6마리 무지개다리 건너”…이경규 딸 이예림, 반려견과 이별 고백",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12109092",
-          "publishedAt": "2026-07-28T04:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"이제 모두 하늘나라에\"…'이경규 딸' 이예림, 무지개 다리 건넌 6마리 반려견 향한 그리움 [MHN:피드]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728122705236",
-        "publishedAt": "2026-07-28T04:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-28T04:10:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "이예림",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260728122705236",
+      "publishedAt": "2026-07-28T07:30:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "지역",
+      "source": "브릿지경제",
+      "url": "https://www.viva100.com/article/20260725500029",
       "rank": 6
     },
     {
-      "id": "154294cfb0ea60c5",
-      "issueKey": "대통령 연임",
-      "issueTitle": "대통령 연임",
-      "trendTitle": "조정식",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "ed7985d7a3e901bc",
+      "issueKey": "삼전 닉스",
+      "issueTitle": "삼전 닉스",
+      "trendTitle": "삼전 닉스",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "조정식 “현직 대통령 연임, 국민 선택 문제”",
+          "title": "삼전닉스 13~14%↓, 역대급 폭락…외국인이 대거 던졌다(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728120749767",
-          "publishedAt": "2026-07-28T04:10:00.000Z",
+          "url": "https://v.daum.net/v/20260728160458257",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "조정식 “개헌 논의 내년 본궤도…대통령 연임은 국민 선택 문제”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/assembly/1270280.html",
-          "publishedAt": "2026-07-28T04:10:00.000Z",
+          "title": "삼전 37만, 하닉 298만 또 온다? “이때 전고점 회복” 파격 예언",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25447180",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[속보]국회의장 “현직 대통령 연임, 국민 선택…내년 개헌 골든타임”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11605554",
-          "publishedAt": "2026-07-28T04:10:00.000Z",
+          "title": "[증시 긴급진단] \"반도체 PER 3배는 최악 반영…더 내려가진 않을 것\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427265",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "조정식 “현직 대통령 연임, 국민 선택 문제”",
+        "title": "삼전 닉스",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260728120749767",
-        "publishedAt": "2026-07-28T04:10:00.000Z",
+        "url": "https://v.daum.net/v/20260728160458257",
+        "publishedAt": "2026-07-28T07:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-28T04:10:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "대통령 연임",
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "삼전 닉스",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260728120749767",
+      "url": "https://v.daum.net/v/20260728160458257",
       "rank": 7
     },
     {
-      "id": "d39087dda3899d88",
-      "issueKey": "그래",
-      "issueTitle": "그래",
-      "trendTitle": "그래",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이민정 “그래, 이혼하자” 폭탄 선언… 김지석과 7년 차 부부 파국 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728124209569",
-          "publishedAt": "2026-07-28T04:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이민정·김지석 이혼하나 '그래, 이혼하자' 내달 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260728_0003725934",
-          "publishedAt": "2026-07-28T04:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이민정·김지석, ‘그래, 이혼하자’ 8월 19일 첫 방송…결혼 7년 차 위기의 부부",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260728500276",
-          "publishedAt": "2026-07-28T04:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이민정 “그래, 이혼하자” 폭탄 선언… 김지석과 7년 차 부부 파국 예고",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728124209569",
-        "publishedAt": "2026-07-28T04:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-28T04:00:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "그래",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260728124209569",
-      "rank": 8
-    },
-    {
-      "id": "2c74dfa2a143e6a9",
-      "issueKey": "전한길",
-      "issueTitle": "전한길",
-      "trendTitle": "전한길",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "통영시장 선거 재검표 결과 당선자 그대로…44→38표 차",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260728010100052",
-          "publishedAt": "2026-07-28T03:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전한길·이영돈 참관한 통영시장 재검표…민주 당선자 유지",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260728502207",
-          "publishedAt": "2026-07-28T03:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "통영시장 선거 재검표 ‘이변 없었다’···44표차→38표차 줄어",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607280541001",
-          "publishedAt": "2026-07-28T03:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전한길·이영돈 참관한 통영시장 재검표…민주 당선자 유지",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260728502207",
-        "publishedAt": "2026-07-28T03:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-28T03:50:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "전한길",
-      "source": "세계일보",
-      "url": "https://www.segye.com/newsView/20260728502207",
-      "rank": 9
-    },
-    {
-      "id": "af4870c15b98485b",
-      "issueKey": "아버지",
-      "issueTitle": "아버지",
-      "trendTitle": "아버지",
+      "id": "6d45b7b52804554e",
+      "issueKey": "건강보험",
+      "issueTitle": "건강보험",
+      "trendTitle": "건강보험",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "기저귀만 입은 채 냉장고서 발견된 아버지…아들은 밥도 약도 주지 않았다 [오늘의 그날]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260726n00019",
-          "publishedAt": "2026-07-28T03:40:00.000Z",
+          "title": "[보도설명자료][7.27.월 연합뉴스] 월급 외 소득 있는 직장인 178만명 건보료 오른다 관련",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968831",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "인형 같던 톰 크루즈 딸 수리, 아빠와 절연..엄마 성으로 바꿨다 [월드스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728094609789",
-          "publishedAt": "2026-07-28T03:40:00.000Z",
+          "title": "적자 전환 경고등…건보료 부과체계 왜 바뀌나",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727045900530",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"아빠 톰 크루즈와 인연 끊었다\"…20살 수리, '노엘'로 법적 개명 [해외이슈]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260728n03147",
-          "publishedAt": "2026-07-28T03:40:00.000Z",
+          "title": "[사설]건보 적자, 지출 조정 없이 직장인 지갑만으로 못 메워",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260727/134375885/2",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "기저귀만 입은 채 냉장고서 발견된 아버지…아들은 밥도 약도 주지 않았다 [오늘의 그날]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260726n00019",
-        "publishedAt": "2026-07-28T03:40:00.000Z",
+        "title": "건강보험",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968831",
+        "publishedAt": "2026-07-28T07:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-28T03:40:00.000Z",
-      "firstSeenAt": "2026-07-28T05:45:49.062Z",
-      "lastSeenAt": "2026-07-28T05:45:49.062Z",
-      "title": "아버지",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260726n00019",
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "건강보험",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968831",
+      "rank": 8
+    },
+    {
+      "id": "2e144916046c2a6f",
+      "issueKey": "음식",
+      "issueTitle": "음식",
+      "trendTitle": "음식",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[세계유산위] 17개국 손님과 함께 나눈 사찰음식 한 상…\"세계는 하나의 꽃\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727165600005",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "천년고찰 범어사서 피어난 ‘세계일화’… 1,700년 사찰음식서 세계유산의 미래 찾다",
+          "source": "불교신문",
+          "url": "http://www.ibulgyo.com/news/articleView.html?idxno=440627",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "세계유산위 위원들에게 사찰음식 대접한 진우스님",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11605500",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[세계유산위] 17개국 손님과 함께 나눈 사찰음식 한 상…\"세계는 하나의 꽃\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260727165600005",
+        "publishedAt": "2026-07-28T07:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "음식",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260727165600005",
+      "rank": 9
+    },
+    {
+      "id": "72566e21126dd7c1",
+      "issueKey": "오클라호마시티 선더",
+      "issueTitle": "오클라호마시티 선더",
+      "trendTitle": "오클라호마시티 선더",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Nuggets match Thunder's offer sheet to Spencer Jones",
+          "source": "ESPN",
+          "url": "https://www.espn.com/nba/story/_/id/49459602/sources-nuggets-matching-okc-offer-sheet-spencer-jones",
+          "publishedAt": "2026-07-28T06:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Nuggets match Thunder offer sheet to Spencer Jones",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/spencer-jones-free-agency-2026",
+          "publishedAt": "2026-07-28T06:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Nuggets' Updated NBA Salary Cap After Spencer Jones Contract Pushes Team Into Second Apron",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25458283-nuggets-updated-nba-salary-cap-after-spencer-jones-contract-pushes-team-second-apron",
+          "publishedAt": "2026-07-28T06:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "오클라호마시티 선더",
+        "source": "ESPN",
+        "url": "https://www.espn.com/nba/story/_/id/49459602/sources-nuggets-matching-okc-offer-sheet-spencer-jones",
+        "publishedAt": "2026-07-28T06:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T06:50:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "오클라호마시티 선더",
+      "source": "ESPN",
+      "url": "https://www.espn.com/nba/story/_/id/49459602/sources-nuggets-matching-okc-offer-sheet-spencer-jones",
       "rank": 10
     }
   ],
   "history": [
+    {
+      "id": "b9db54781b029f38",
+      "issueKey": "일본 지진",
+      "issueTitle": "일본 지진",
+      "trendTitle": "일본 지진",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보] 日규슈 규모 7.1 지진…쓰나미 경보 발령",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/northeast-asia/6241697",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[속보] 일본 구마모토에서 규모 7.1 추정 지진‥'진도 7 최고 등급'",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6840662_36925.html",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "日 규슈서 규모 7.1 지진… 부산·경남서 진동 신고 잇따라",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/07/28/K4RXE7ZGY5EHJMQ7DFPUWZDRAI/",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "일본 지진",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/world/northeast-asia/6241697",
+        "publishedAt": "2026-07-28T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:30:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "일본 지진",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/world/northeast-asia/6241697"
+    },
+    {
+      "id": "ed7985d7a3e901bc",
+      "issueKey": "삼전 닉스",
+      "issueTitle": "삼전 닉스",
+      "trendTitle": "삼전 닉스",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "삼전닉스 13~14%↓, 역대급 폭락…외국인이 대거 던졌다(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728160458257",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "삼전 37만, 하닉 298만 또 온다? “이때 전고점 회복” 파격 예언",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25447180",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[증시 긴급진단] \"반도체 PER 3배는 최악 반영…더 내려가진 않을 것\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4427265",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "삼전 닉스",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260728160458257",
+        "publishedAt": "2026-07-28T07:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "삼전 닉스",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260728160458257"
+    },
     {
       "id": "15032d2211351840",
       "issueKey": "악어거북",
@@ -669,50 +761,96 @@
       "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=830717"
     },
     {
-      "id": "8e7021aa6f5921f8",
-      "issueKey": "검찰 해체",
-      "issueTitle": "검찰 해체",
-      "trendTitle": "검찰 해체",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "6d45b7b52804554e",
+      "issueKey": "건강보험",
+      "issueTitle": "건강보험",
+      "trendTitle": "건강보험",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "홍준표 \"너 때문에 이재명 정권이 검찰 해체·보완수사권 박탈\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12310207",
-          "publishedAt": "2026-07-26T04:20:00.000Z",
+          "title": "[보도설명자료][7.27.월 연합뉴스] 월급 외 소득 있는 직장인 178만명 건보료 오른다 관련",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968831",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "홍준표 \"너 때문에 검찰 해체·보완수사권 폐지\"…한동훈 겨냥?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260726_0003723592",
-          "publishedAt": "2026-07-26T04:20:00.000Z",
+          "title": "적자 전환 경고등…건보료 부과체계 왜 바뀌나",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727045900530",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "홍준표 \"80년 검찰 망친 자가 무슨 할 말이 있나…후안무치\"",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026072555977",
-          "publishedAt": "2026-07-26T04:20:00.000Z",
+          "title": "[사설]건보 적자, 지출 조정 없이 직장인 지갑만으로 못 메워",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Opinion/article/all/20260727/134375885/2",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "홍준표 \"너 때문에 이재명 정권이 검찰 해체·보완수사권 박탈\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12310207",
-        "publishedAt": "2026-07-26T04:20:00.000Z",
+        "title": "건강보험",
+        "source": "대한민국 정책브리핑",
+        "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968831",
+        "publishedAt": "2026-07-28T07:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-26T04:20:00.000Z",
-      "firstSeenAt": "2026-07-26T06:05:56.797Z",
-      "lastSeenAt": "2026-07-26T06:05:56.797Z",
-      "title": "검찰 해체",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12310207"
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "건강보험",
+      "source": "대한민국 정책브리핑",
+      "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148968831"
+    },
+    {
+      "id": "2e144916046c2a6f",
+      "issueKey": "음식",
+      "issueTitle": "음식",
+      "trendTitle": "음식",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[세계유산위] 17개국 손님과 함께 나눈 사찰음식 한 상…\"세계는 하나의 꽃\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260727165600005",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "천년고찰 범어사서 피어난 ‘세계일화’… 1,700년 사찰음식서 세계유산의 미래 찾다",
+          "source": "불교신문",
+          "url": "http://www.ibulgyo.com/news/articleView.html?idxno=440627",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "세계유산위 위원들에게 사찰음식 대접한 진우스님",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11605500",
+          "publishedAt": "2026-07-28T07:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[세계유산위] 17개국 손님과 함께 나눈 사찰음식 한 상…\"세계는 하나의 꽃\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260727165600005",
+        "publishedAt": "2026-07-28T07:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:00:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "음식",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260727165600005"
     },
     {
       "id": "af4870c15b98485b",
@@ -943,52 +1081,6 @@
       "title": "윤석열",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260726192600934"
-    },
-    {
-      "id": "f0ec68f9527b9673",
-      "issueKey": "조명우",
-      "issueTitle": "조명우",
-      "trendTitle": "조명우",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“女3쿠션 최강 박세정 무너졌다” 김하은에 패배…‘인천시장배 우승 향배’ 김하은-이보라 압축",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260725160601091",
-          "publishedAt": "2026-07-26T04:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "3쿠션 세계 1위 조명우 꺾었다…18세 김도현, 전국당구대회 최연소 우승",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20071916",
-          "publishedAt": "2026-07-26T04:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "18세 김도현, '세계 1위' 조명우 잡고 전국당구대회 최연소 우승",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260726025200007",
-          "publishedAt": "2026-07-26T04:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "3쿠션 세계 1위 조명우 꺾었다…18세 김도현, 전국당구대회 최연소 우승",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20071916",
-        "publishedAt": "2026-07-26T04:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-26T04:50:00.000Z",
-      "firstSeenAt": "2026-07-26T06:05:56.797Z",
-      "lastSeenAt": "2026-07-26T06:05:56.797Z",
-      "title": "조명우",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20071916"
     },
     {
       "id": "da2e9b3415fb065c",
@@ -1624,52 +1716,6 @@
       "url": "https://www.yna.co.kr/view/AKR20260726028100004"
     },
     {
-      "id": "760a3fed3ea15ea3",
-      "issueKey": "디스플레",
-      "issueTitle": "디스플레",
-      "trendTitle": "디스플레",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보] ‘한국 맹추격하는 중국 OLED’…中에 기술 넘긴 LG디스플 전 직원들, 징역형",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260726101441535",
-          "publishedAt": "2026-07-26T04:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "중국에 OLED 기술 유출한 前LG디스플레이 직원…법원 판단은?[죄와벌]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260724_0003722791",
-          "publishedAt": "2026-07-26T04:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'국가핵심기술' 中에 유출…LG디스플레이 前직원, 징역 5년",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260726n06028",
-          "publishedAt": "2026-07-26T04:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "중국에 OLED 기술 유출한 前LG디스플레이 직원…법원 판단은?[죄와벌]",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260724_0003722791",
-        "publishedAt": "2026-07-26T04:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-26T04:00:00.000Z",
-      "firstSeenAt": "2026-07-26T06:05:56.797Z",
-      "lastSeenAt": "2026-07-26T06:05:56.797Z",
-      "title": "디스플레",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260724_0003722791"
-    },
-    {
       "id": "18ae79fac1952555",
       "issueKey": "elle",
       "issueTitle": "elle",
@@ -1735,6 +1781,52 @@
       "title": "elle",
       "source": "Ode (Purepeople)",
       "url": "https://www.purepeople.com/article/gwendoline-hamon-separee-du-pere-de-son-fils-celebre-acteur-elle-revient-sur-ce-qui-lui-a-permis-de-tenir_a552630/1"
+    },
+    {
+      "id": "4f109d3a3c349fb6",
+      "issueKey": "윤동희",
+      "issueTitle": "윤동희",
+      "trendTitle": "윤동희",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'3이닝 7실점', 비로 삭제 '하늘이 도왔는데'→3이닝 8실점 또 무너졌다…\"그만한 선수 없다\" 이강철 감독 신뢰에도, '대권 도전' KT 결단 내릴까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260728123113333",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘15안타로 15득점’ 롯데, kt 10연승 구단 신기록 저지",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8620511",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[사진] 노진혁, 짜릿한 손맛",
+          "source": "OSEN",
+          "url": "http://www.osen.co.kr/article/G1112846905",
+          "publishedAt": "2026-07-28T07:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "윤동희",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260728123113333",
+        "publishedAt": "2026-07-28T07:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-28T07:30:00.000Z",
+      "firstSeenAt": "2026-07-28T08:33:56.058Z",
+      "lastSeenAt": "2026-07-28T08:33:56.058Z",
+      "title": "윤동희",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260728123113333"
     },
     {
       "id": "10cd612e7df99891",
@@ -2287,98 +2379,6 @@
       "title": "하지원",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260727050708548"
-    },
-    {
-      "id": "f06ebe5869fb8020",
-      "issueKey": "수출국은 어디",
-      "issueTitle": "수출국은 어디",
-      "trendTitle": "수출국은 어디",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "인도네시아, KF-21 공동개발 하겠다더니…실제 구매도 ‘불확실’[이현호의 밀리터리!톡]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20071954",
-          "publishedAt": "2026-07-26T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "KF-21, 6500만 달러 몸값… 동남아 전투기 수주전 가열",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607260708191087fbbec65dfb_1",
-          "publishedAt": "2026-07-26T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“동남아 3국이 동시에”…KF-21 첫 수출국은 어디? [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260726601014",
-          "publishedAt": "2026-07-26T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“동남아 3국이 동시에”…KF-21 첫 수출국은 어디? [밀리터리+]",
-        "source": "나우뉴스",
-        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260726601014",
-        "publishedAt": "2026-07-26T20:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-26T20:30:00.000Z",
-      "firstSeenAt": "2026-07-26T21:59:08.146Z",
-      "lastSeenAt": "2026-07-26T21:59:08.146Z",
-      "title": "수출국은 어디",
-      "source": "나우뉴스",
-      "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260726601014"
-    },
-    {
-      "id": "1fac0650eb6a6c39",
-      "issueKey": "복권",
-      "issueTitle": "복권",
-      "trendTitle": "복권",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“결혼 앞두고 큰 행운”…여친 부모님 인사 뒤 산 복권 20억 당첨",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260726183507075",
-          "publishedAt": "2026-07-26T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“여자친구 부모님과 식사하고 데이트하다가”…20억 ‘잭팟’ 터진 사연, 무슨 일?",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20072075",
-          "publishedAt": "2026-07-26T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "예비 장인·장모 만난 날 산 복권…예비부부에게 찾아온 20억원 '잭팟'",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202607261950036715",
-          "publishedAt": "2026-07-26T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“결혼 앞두고 큰 행운”…여친 부모님 인사 뒤 산 복권 20억 당첨",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260726183507075",
-        "publishedAt": "2026-07-26T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-26T20:20:00.000Z",
-      "firstSeenAt": "2026-07-26T21:59:08.146Z",
-      "lastSeenAt": "2026-07-26T21:59:08.146Z",
-      "title": "복권",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260726183507075"
     }
   ]
 }
