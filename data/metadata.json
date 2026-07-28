@@ -3,9 +3,9 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-07-28T14:06:26.167Z",
+  "lastUpdatedAt": "2026-07-28T16:39:53.830Z",
   "tabCount": 5,
-  "totalArticleCount": 81,
+  "totalArticleCount": 80,
   "availableTabs": [
     "ai",
     "game",
@@ -34,14 +34,9 @@
       "itemCount": 13
     },
     {
-      "key": "etnews-games",
-      "source": "전자신문 게임",
-      "itemCount": 30
-    },
-    {
       "key": "gameinsight-all",
       "source": "게임인사이트",
-      "itemCount": 27
+      "itemCount": 25
     },
     {
       "key": "gameinsight-ai-blockchain",
@@ -62,12 +57,17 @@
       "key": "newsis-entertainment",
       "source": "뉴시스 연예",
       "itemCount": 30
+    },
+    {
+      "key": "sportsdonga-entertainment",
+      "source": "스포츠동아 엔터테인먼트",
+      "itemCount": 30
     }
   ],
   "failedFeeds": [
     {
-      "key": "sportsdonga-entertainment",
-      "source": "스포츠동아 엔터테인먼트",
+      "key": "etnews-games",
+      "source": "전자신문 게임",
       "error": "fetch failed"
     }
   ],
