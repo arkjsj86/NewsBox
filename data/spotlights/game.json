@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-28T11:17:03.222Z",
+  "lastUpdatedAt": "2026-07-28T14:06:26.167Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -93,16 +93,10 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "ruliweb-issues",
-      "source": "Ruliweb BEST 뉴스",
-      "ok": true,
-      "itemCount": 5
-    },
-    {
-      "key": "inven-issues",
-      "source": "Inven 주요뉴스",
-      "ok": true,
-      "itemCount": 5
+      "key": "game-issues",
+      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
+      "ok": false,
+      "error": "fetch failed"
     }
   ]
 }
