@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-07-29T05:52:09.988Z",
+  "lastUpdatedAt": "2026-07-29T08:40:17.627Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "3Q-Dc9LJ-Q4",
-      "title": "Unite Seoul 2026 게임 시즐릴 대공개",
-      "url": "https://www.youtube.com/watch?v=3Q-Dc9LJ-Q4",
-      "publishedAt": "2026-07-27T08:10:08.000Z",
-      "thumbnailUrl": "https://i4.ytimg.com/vi/3Q-Dc9LJ-Q4/hqdefault.jpg"
-    },
-    {
       "id": "vLsra773w2I",
       "title": "우리는 리캡한다. 유나이트 서울을 - 유니티 라이브 2026.07",
       "url": "https://www.youtube.com/watch?v=vLsra773w2I",
       "publishedAt": "2026-07-24T07:30:16.000Z",
       "thumbnailUrl": "https://i3.ytimg.com/vi/vLsra773w2I/hqdefault.jpg"
+    },
+    {
+      "id": "3Q-Dc9LJ-Q4",
+      "title": "Unite Seoul 2026 게임 시즐릴 대공개",
+      "url": "https://www.youtube.com/watch?v=3Q-Dc9LJ-Q4",
+      "publishedAt": "2026-07-27T08:10:08.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/3Q-Dc9LJ-Q4/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 500"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
