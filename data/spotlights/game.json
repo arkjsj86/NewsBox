@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-28T22:04:01.267Z",
+  "lastUpdatedAt": "2026-07-29T02:38:19.279Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -43,7 +43,7 @@
         {
           "title": "모코코 스트릿 팝업 in 성수, 다양한 굿즈와 DIY 체험",
           "url": "https://bbs.ruliweb.com/news/read/227365",
-          "meta": "댓글 2"
+          "meta": "댓글 3"
         },
         {
           "title": "에다니아와 레벨/성장 대개편, '검은사막' 2026 하이델 연회",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "DNS, 브리온에 역전승... KT는 탈락",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318948",
-          "meta": "리그 오브 레전드 · 5시간 전"
+          "title": "나인 코어 변경, 신의 탑 3층 출시! 7월 29일(수) 패치 핵심 요약",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318961",
+          "meta": "솔: 인챈트 · 20분 전"
         },
         {
-          "title": "그림자 군주 강림! 나혼렙 어라이즈 7월 개발자 라이브",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318947",
-          "meta": "나 혼자만 레벨업: ARISE · 7시간 전"
+          "title": "쿠키런: 킹덤, '망각의 타르트로스' 업데이트 진행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318960",
+          "meta": "쿠키런: 킹덤 · 36분 전"
         },
         {
-          "title": "TBS 드라마 출연 코지마 히데오, '너무 젊어 보여'...CG로 보정",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318938",
-          "meta": "코지마 프로덕션 · 11시간 전"
+          "title": "이환, 1.2버전 후반기 업데이트 적용... 신규 S급 '일로이' 추가",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318959",
+          "meta": "이환 · 42분 전"
         },
         {
-          "title": "두번째 선출 종료! 6주차 스트리머 서버 구도 및 나인 소모 현황",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318925",
-          "meta": "솔: 인챈트 · 11시간 전"
+          "title": "러브비트, 여름방학 맞이 감사제 이벤트 진행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318955",
+          "meta": "러브비트 · 1시간 전"
         },
         {
-          "title": "'가필드' 신작 플랫포머, 첫 10분 게임플레이 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318936",
-          "meta": "가필드 - 이스케이프 프롬 먼데이 · 12시간 전"
+          "title": "카카오게임즈, 프렌즈팝콘 기부 이벤트 통해 수달 서식지 보전 지원",
+          "url": "https://www.inven.co.kr/webzine/news/?news=318954",
+          "meta": "프렌즈팝콘 for Kakao · 1시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
