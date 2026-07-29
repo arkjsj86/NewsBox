@@ -7,57 +7,386 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-29T14:09:44.155Z",
+  "lastUpdatedAt": "2026-07-29T16:21:17.491Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "d834c9584c0c9461",
-      "issueKey": "임금",
-      "issueTitle": "임금",
-      "trendTitle": "임금",
+      "id": "f845b10c377a00bd",
+      "issueKey": "차영현",
+      "issueTitle": "차영현",
+      "trendTitle": "차영현",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "문보경 '6점차로 따라잡는 홈런'[포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n36385",
+          "publishedAt": "2026-07-29T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[ST포토] 김태희 치어리더, '물놀이 준비완료'",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n36859",
+          "publishedAt": "2026-07-29T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "서건창 '3타수 3안타'[포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260729n34716",
+          "publishedAt": "2026-07-29T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "차영현",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260729n36385",
+        "publishedAt": "2026-07-29T14:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-29T14:50:00.000Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
+      "title": "차영현",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260729n36385",
+      "rank": 1
+    },
+    {
+      "id": "133ea467a57924d8",
+      "issueKey": "글렌 한사드",
+      "issueTitle": "글렌 한사드",
+      "trendTitle": "글렌 한사드",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'원스' 글렌 핸사드, 교통사고로 56세 일기로 사망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729180200085",
+          "publishedAt": "2026-07-29T14:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'원스' 남주인공, 오토바이 사고로 별세 충격…향년 56세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729231447354",
+          "publishedAt": "2026-07-29T14:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "불협화음 거리서 길어 올린 영원의 화음…'원스' 글렌 핸사드, 낭만의 철학 '폴링 슬로울리'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003728908",
+          "publishedAt": "2026-07-29T14:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "글렌 한사드",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260729180200085",
+        "publishedAt": "2026-07-29T14:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-29T14:30:00.000Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
+      "title": "글렌 한사드",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260729180200085",
+      "rank": 2
+    },
+    {
+      "id": "ca39eb05b5afdc97",
+      "issueKey": "장내 들어서",
+      "issueTitle": "장내 들어서",
+      "trendTitle": "장내 들어서",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"월 200 남는데…\" 최저임금 이어 새벽배송까지 '사면초가' 소상공인",
+          "title": "이원택 전북지사 '김관영 내란 방조 의혹 제기' 혐의 경찰 조사",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260729173000055",
+          "publishedAt": "2026-07-29T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이원택 전북지사 경찰 출석…허위사실 유포 혐의",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260728154940429?f=p",
+          "url": "https://v.daum.net/v/20260730004212587",
+          "publishedAt": "2026-07-29T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전북경찰청 소환조사 위해 장내 들어서는 이원택 전북특별자치도지사",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260729_0002199459",
+          "publishedAt": "2026-07-29T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "전북경찰청 소환조사 위해 장내 들어서는 이원택 전북특별자치도지사",
+        "source": "뉴시스",
+        "url": "https://mobile.newsis.com/photo/NISI20260729_0002199459",
+        "publishedAt": "2026-07-29T13:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-07-29T13:50:00.000Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
+      "title": "장내 들어서",
+      "source": "뉴시스",
+      "url": "https://mobile.newsis.com/photo/NISI20260729_0002199459",
+      "rank": 3
+    },
+    {
+      "id": "0498ac77c589a589",
+      "issueKey": "sadie sink",
+      "issueTitle": "sadie sink",
+      "trendTitle": "sadie sink",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
+          "source": "Entertainment Weekly",
+          "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953",
+          "publishedAt": "2026-07-29T13:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'Spider-Man: Brand New Day' Fan Theories That Have Us Scratching Our Heads",
+          "source": "Elle India",
+          "url": "https://elle.in/life-culture/spider-man-brand-new-day-fan-theories-12208929",
+          "publishedAt": "2026-07-29T13:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Sadie Sink Hints at MCU Future After Spider-Man: Brand New Day",
+          "source": "Epicstream",
+          "url": "https://epicstream.com/article/sadie-sink-hints-at-mcu-future-after-spider-man-brand-new-day",
+          "publishedAt": "2026-07-29T13:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Marvel’s Kevin Feige says Sadie Sink’s name ‘solidified the idea’ of her Spider-Man character",
+        "source": "Entertainment Weekly",
+        "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953",
+        "publishedAt": "2026-07-29T13:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-29T13:40:00.000Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
+      "title": "sadie sink",
+      "source": "Entertainment Weekly",
+      "url": "https://ew.com/saide-sink-spider-man-soldified-the-idea-of-her-character-12027953",
+      "rank": 4
+    },
+    {
+      "id": "c82f52a03c2a4f36",
+      "issueKey": "최정원",
+      "issueTitle": "최정원",
+      "trendTitle": "최정원",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202607290600091",
+          "publishedAt": "2026-07-29T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "최정원 \"상간남·스토킹남 소송…인간 이하 소리 들으며 버텨\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260729_0003728199",
+          "publishedAt": "2026-07-29T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "최정원 “5년 캄캄한 늪 끝났다”…상간남 소송 승소·전 연인 사건 종결",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729162810982?f=p",
+          "publishedAt": "2026-07-29T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독]검찰, 그룹 UN 출신 최정원 ‘연인 특수협박’ 기소유예…스토킹은 무혐의",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202607290600091",
+        "publishedAt": "2026-07-29T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-29T13:20:00.000Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
+      "title": "최정원",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202607290600091",
+      "rank": 5
+    },
+    {
+      "id": "08682370eb8a9cc8",
+      "issueKey": "donald trump",
+      "issueTitle": "donald trump",
+      "trendTitle": "donald trump",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Trump Media fast feed for president’s posts sparks Wall Street backlash",
+          "source": "Financial Times",
+          "url": "https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1",
+          "publishedAt": "2026-07-29T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "DJT Stock Surges on Plan to Sell Early Access to Trump’s Truth Social Posts - Growth Acceleration Report",
+          "source": "po-news-eg.net",
+          "url": "https://po-news-eg.net/first-dry/DJT-Stock-Surges-on-Plan-to-Sell-Early-Access-to-Trumps-Truth-Social-Posts-44-10879",
+          "publishedAt": "2026-07-29T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Democrats urge SEC to investigate Trump’s ‘outrageous’ Truth Social fast feed plan",
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-media-truth-social-fast-feed-sec-elizabeth-warren-adam-schiff-b3023862.html",
+          "publishedAt": "2026-07-29T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "donald trump",
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1",
+        "publishedAt": "2026-07-29T13:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-29T13:10:00.000Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
+      "title": "donald trump",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1",
+      "rank": 6
+    },
+    {
+      "id": "d834c9584c0c9461",
+      "issueKey": "임금",
+      "issueTitle": "임금",
+      "trendTitle": "임금",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "카뱅도 국책은행도 거리로…금융권 하투 달아올랐다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729152352511",
           "publishedAt": "2026-07-29T13:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "알바보다 못 버는 사장...정부가 지원 나서야",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02056566645519440",
+          "title": "카카오 노사, 임금협상 잠정 합의…조합원 투표 남아",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/07/29/2026072920465959303",
           "publishedAt": "2026-07-29T13:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "870만 명 운명 결정하는 자료가 '비밀'... 근거도 황당",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003254823",
+          "title": "카카오 노사, 임금 교섭 잠정 합의⋯찬반투표 남아",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260729501332",
           "publishedAt": "2026-07-29T13:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"월 200 남는데…\" 최저임금 이어 새벽배송까지 '사면초가' 소상공인",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260728154940429?f=p",
+        "title": "카카오 노사, 임금협상 잠정 합의…조합원 투표 남아",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/tech/2026/07/29/2026072920465959303",
+        "publishedAt": "2026-07-29T13:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-29T13:00:00.000Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
+      "title": "임금",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/tech/2026/07/29/2026072920465959303",
+      "rank": 7
+    },
+    {
+      "id": "bdbc05f472bfca5b",
+      "issueKey": "노웨이홈",
+      "issueTitle": "노웨이홈",
+      "trendTitle": "노웨이홈",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Spider-Man: Brand New Day First Reviews: The Most Grounded, Mature Spider-Man Story Yet",
+          "source": "Rotten Tomatoes",
+          "url": "https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews/",
+          "publishedAt": "2026-07-29T13:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ review: A thrilling evolution in the MCU",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/spider-man-brand-day-review-151838876.html",
+          "publishedAt": "2026-07-29T13:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’ remembers what makes Spidey special",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/entertainment/movies/2026/07/28/spider-man-brand-new-day-remembers-what-makes-spidey-special/",
+          "publishedAt": "2026-07-29T13:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "노웨이홈",
+        "source": "Rotten Tomatoes",
+        "url": "https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews/",
         "publishedAt": "2026-07-29T13:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-29T13:00:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
-      "title": "임금",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260728154940429?f=p",
-      "rank": 1
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
+      "title": "노웨이홈",
+      "source": "Rotten Tomatoes",
+      "url": "https://editorial.rottentomatoes.com/article/spider-man-brand-new-day-first-reviews/",
+      "rank": 8
     },
     {
       "id": "e91dfd0111adaa76",
@@ -70,23 +399,23 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[단독] '尹 유죄' 논리 그대로‥\"집사람은 손해 봤다\" 발언 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6841036_37004.html",
-          "publishedAt": "2026-07-29T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
           "title": "윤석열 “집사람 주가조작과 무관”…경찰, 선거법 위반 혐의 송치",
           "source": "한겨레",
           "url": "https://www.hani.co.kr/arti/society/society_general/1270467.html",
           "publishedAt": "2026-07-29T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "정점식 “국힘 397억 반환은 1심, 與 434억 반환은 확정된 운명”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260728/134378221/1?gid=134378421&amp;srev=1&amp;regdate=20260728",
+          "publishedAt": "2026-07-29T12:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[단독] \"로비스트야\" 말에 김건희 \"나도 소개해줘\"…판결문 보니",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12310580",
+          "title": "윤 선거법 징역형 집유...잠시 뒤 위증 재판 시작",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0103_202607281348487989",
           "publishedAt": "2026-07-29T12:50:00.000Z",
           "relevanceScore": 1
         }
@@ -96,15 +425,15 @@
         "source": "한겨레",
         "url": "https://www.hani.co.kr/arti/society/society_general/1270467.html",
         "publishedAt": "2026-07-29T12:50:00.000Z",
-        "relevanceScore": 2
+        "relevanceScore": 3
       },
       "publishedAt": "2026-07-29T12:50:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
       "title": "선거법",
       "source": "한겨레",
       "url": "https://www.hani.co.kr/arti/society/society_general/1270467.html",
-      "rank": 2
+      "rank": 9
     },
     {
       "id": "6f3182d328a03a7f",
@@ -146,340 +475,11 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-07-29T12:50:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
+      "firstSeenAt": "2026-07-29T16:21:17.491Z",
+      "lastSeenAt": "2026-07-29T16:21:17.491Z",
       "title": "원자력",
       "source": "전기신문",
       "url": "https://www.electimes.com/news/articleView.html?idxno=370783",
-      "rank": 3
-    },
-    {
-      "id": "fbc332ef232e5739",
-      "issueKey": "키움",
-      "issueTitle": "키움",
-      "trendTitle": "키움",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "7번 타자로 내려간 LG 문보경…\"당분간 그 자리에서 쓸 수도\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729154400007",
-          "publishedAt": "2026-07-29T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[포토] 문정빈 '아파요'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/07/29/2026072921431396182",
-          "publishedAt": "2026-07-29T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "잠실 만만한(?) 괴력의 문정빈! 채은성 응원가 이래서 줬구나!!",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/original/mbig/6840951_29041.html",
-          "publishedAt": "2026-07-29T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "키움",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260729154400007",
-        "publishedAt": "2026-07-29T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-29T12:30:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
-      "title": "키움",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260729154400007",
-      "rank": 4
-    },
-    {
-      "id": "992368ef39c758e0",
-      "issueKey": "핵잠 도입",
-      "issueTitle": "핵잠 도입",
-      "trendTitle": "핵잠 도입",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260729121900504",
-          "publishedAt": "2026-07-29T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "국방부, 핵잠 도입·운영 특별법 입법예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729203210185",
-          "publishedAt": "2026-07-29T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "핵잠특별법에 “핵무기 목적 아니다” 명시…‘비확산’ 첫 법제화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607282135015",
-          "publishedAt": "2026-07-29T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "국방부, 핵잠 도입·운영 특별법 입법예고…\"연내 제정 목표\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260729121900504",
-        "publishedAt": "2026-07-29T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-29T12:10:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
-      "title": "핵잠 도입",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260729121900504",
-      "rank": 5
-    },
-    {
-      "id": "f605261e2bc0791e",
-      "issueKey": "spurs vs sydney fc",
-      "issueTitle": "spurs vs sydney fc",
-      "trendTitle": "spurs vs sydney fc",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Tottenham Hotspur 1-1 Sydney: Spurs win pre-season match on penalties",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt",
-          "publishedAt": "2026-07-29T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Auckland matchday and travel to Australia | Behind the scenes with Spurs in Sydney",
-          "source": "Tottenham Hotspur",
-          "url": "https://www.tottenhamhotspur.com/spursplay/video/986118",
-          "publishedAt": "2026-07-29T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Archie Gray and Lucas Bergvall go on an adventure and the unusual thing Tottenham found in Sydney",
-          "source": "Football London",
-          "url": "https://www.football.london/tottenham-hotspur-fc/news/archie-gray-lucas-bergvall-go-34362840",
-          "publishedAt": "2026-07-29T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "spurs vs sydney fc",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt",
-        "publishedAt": "2026-07-29T10:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-29T10:50:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
-      "title": "spurs vs sydney fc",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/c86np7j9x5jt",
-      "rank": 6
-    },
-    {
-      "id": "e121449ea0f18b39",
-      "issueKey": "수의사",
-      "issueTitle": "수의사",
-      "trendTitle": "수의사",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729122553559",
-          "publishedAt": "2026-07-29T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'길고양이 살처분' 주장에 나응식 직격…\"혐오가 해법 아니다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6238402",
-          "publishedAt": "2026-07-29T10:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "시청자 게시판",
-          "source": "news.sbs.co.kr",
-          "url": "https://news.sbs.co.kr/news/freeEndPage.do?no=121652&amp;cooper=RSS",
-          "publishedAt": "2026-07-29T10:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'길고양이 다 없애자' 주장에…수의사들 데이터로 맞섰다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260729122553559",
-        "publishedAt": "2026-07-29T10:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-29T10:40:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
-      "title": "수의사",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260729122553559",
-      "rank": 7
-    },
-    {
-      "id": "78b21c3639615150",
-      "issueKey": "윤경호",
-      "issueTitle": "윤경호",
-      "trendTitle": "윤경호",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260727101600005",
-          "publishedAt": "2026-07-29T10:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[Y터뷰] '김부장' 윤경호, 끝내 눈시울 붉혔다...\"딸 보며 버틴 시간들\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202607280800019604",
-          "publishedAt": "2026-07-29T10:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[인터뷰] 윤경호 “무명 시절 알바만 30개…아빠 되며 새 세상 열려”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260728170229786?f=p",
-          "publishedAt": "2026-07-29T10:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "윤경호 \"지금 인기 로또 같아…국수 가락처럼 길게 연기할래요\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260727101600005",
-        "publishedAt": "2026-07-29T10:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-29T10:30:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
-      "title": "윤경호",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260727101600005",
-      "rank": 8
-    },
-    {
-      "id": "42df7f59bac4279e",
-      "issueKey": "충남아산",
-      "issueTitle": "충남아산",
-      "trendTitle": "충남아산",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "2026 코리아컵, 충남아산·당진 16강 진출…천안은 광주에 석패",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260729_0003728873",
-          "publishedAt": "2026-07-29T10:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘울산의 주인은 바로 우리!’ K3 울산시민축구단, K1 울산HD 1-0 충격승 ‘자이언트 킬링’...광주와 16강 격돌",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112848701",
-          "publishedAt": "2026-07-29T10:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "또 '자이언트 킬링' 나올까…K리그1 8팀 합류 코리아컵 3R 개막",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729061154619",
-          "publishedAt": "2026-07-29T10:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "2026 코리아컵, 충남아산·당진 16강 진출…천안은 광주에 석패",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260729_0003728873",
-        "publishedAt": "2026-07-29T10:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-29T10:20:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
-      "title": "충남아산",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260729_0003728873",
-      "rank": 9
-    },
-    {
-      "id": "a8f7e3b1e379f488",
-      "issueKey": "어머니",
-      "issueTitle": "어머니",
-      "trendTitle": "어머니",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "하나님의교회 세계복음선교협회 ③ 연대와 나눔으로 이어온 따뜻한 실천",
-          "source": "여성조선",
-          "url": "https://woman.chosun.com/news/articleView.html?idxno=126332",
-          "publishedAt": "2026-07-29T10:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "하나님의교회 세계복음선교협회 학생봉사단, 한밭수목원에 푸른 숨결 더했다",
-          "source": "충남일보",
-          "url": "https://www.chungnamilbo.co.kr/news/articleView.html?idxno=901095",
-          "publishedAt": "2026-07-29T10:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "ASEZ STAR 청소년 120명, 대전 한밭수목원 환경정화 봉사",
-          "source": "오늘경제",
-          "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=808112",
-          "publishedAt": "2026-07-29T10:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "어머니",
-        "source": "여성조선",
-        "url": "https://woman.chosun.com/news/articleView.html?idxno=126332",
-        "publishedAt": "2026-07-29T10:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-29T10:20:00.000Z",
-      "firstSeenAt": "2026-07-29T14:09:44.155Z",
-      "lastSeenAt": "2026-07-29T14:09:44.155Z",
-      "title": "어머니",
-      "source": "여성조선",
-      "url": "https://woman.chosun.com/news/articleView.html?idxno=126332",
       "rank": 10
     }
   ],
