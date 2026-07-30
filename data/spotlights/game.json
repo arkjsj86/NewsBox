@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-30T02:25:04.852Z",
+  "lastUpdatedAt": "2026-07-30T05:40:54.549Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -26,19 +26,9 @@
       "sourceUrl": "https://bbs.ruliweb.com/best",
       "items": [
         {
-          "title": "하운드13, 웹젠의 퍼블리싱 금지 가처분 신청 기각 · 드래곤소드 : 어웨이크닝은 23일 발매",
-          "url": "https://bbs.ruliweb.com/news/read/227255",
-          "meta": "댓글 32"
-        },
-        {
           "title": "버티는 게 아니라 즐기는 MMOLite, '이클립스: 더 어웨이크닝' 올 9월 론칭",
           "url": "https://bbs.ruliweb.com/news/read/227256",
-          "meta": "댓글 25"
-        },
-        {
-          "title": "스마일게이트, 정통 K-공포 '골목길: 귀흔' 오늘(24일) 스팀 출시",
-          "url": "https://bbs.ruliweb.com/news/read/227333",
-          "meta": "댓글 9"
+          "meta": "댓글 27"
         },
         {
           "title": "에다니아와 레벨/성장 대개편, '검은사막' 2026 하이델 연회",
@@ -46,9 +36,19 @@
           "meta": "댓글 6"
         },
         {
+          "title": "스마일게이트, 정통 K-공포 '골목길: 귀흔' 오늘(24일) 스팀 출시",
+          "url": "https://bbs.ruliweb.com/news/read/227333",
+          "meta": "댓글 9"
+        },
+        {
           "title": "모코코 스트릿 팝업 in 성수, 다양한 굿즈와 DIY 체험",
           "url": "https://bbs.ruliweb.com/news/read/227365",
           "meta": "댓글 3"
+        },
+        {
+          "title": "㈜카카오게임즈, 콩 스튜디오 신작 ‘가디언 메이든’ 글로벌 퍼블리싱 계약",
+          "url": "https://bbs.ruliweb.com/news/read/227448",
+          "meta": "댓글 15"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "최인규 감독, \"농심만의 색깔, 농심만의 스타일 찾으려 했다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318985",
-          "meta": "리그 오브 레전드 · 1시간 전"
+          "title": "T1, e스포츠 최초 대규모 기부 러닝 ‘T1 WISH RUN’ 개최",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319018",
+          "meta": "리그 오브 레전드 · 37분 전"
         },
         {
-          "title": "'스카웃'의 로크, '킹겐'의 자헨...농심, 키움전 승리로 3R 출발",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318981",
-          "meta": "리그 오브 레전드 · 2시간 전"
+          "title": "마상소프트 ‘DK온라인’, 하드코어 시즌 서버 사전예약 시작",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319016",
+          "meta": "DK 온라인 · 45분 전"
         },
         {
-          "title": "T1전 앞둔 KT, '에이밍' 내리고 '펜리르' 콜업...이유는 내부 갈등",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318983",
-          "meta": "리그 오브 레전드 · 2시간 전"
+          "title": "웹젠 ‘뮤 온라인’, 고포 상자 이벤트 진행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319015",
+          "meta": "뮤 온라인 · 46분 전"
         },
         {
-          "title": "카툰 렌더링 MMORPG '열혈강호: 넥스트' 29일 정식 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318978",
-          "meta": "열혈강호: 넥스트 · 4시간 전"
+          "title": "라이엇 게임즈, 서울시립교향악단과 손 잡았다",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319014",
+          "meta": "리그 오브 레전드 · 48분 전"
         },
         {
-          "title": "김포대 김성은 학생, 2026 글로벌 게임잼 대상 수상",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318976",
-          "meta": "4시간 전"
+          "title": "SPT, 26FSL 클래스 출시! 신규 팀컬러와 편의성 개선도 있다",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319013",
+          "meta": "FC 온라인 · 1시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
