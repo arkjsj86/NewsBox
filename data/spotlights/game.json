@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-30T14:01:36.138Z",
+  "lastUpdatedAt": "2026-07-30T16:25:50.627Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "EWC부터 이어진 DK의 위닝 멘탈리티, \"젠지전도 자신있다\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319035",
+          "meta": "리그 오브 레전드 · 3시간 전"
+        },
+        {
+          "title": "'EWC 챔피언' DK, 한화생명e스포츠 제압",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319033",
+          "meta": "리그 오브 레전드 · 3시간 전"
+        },
+        {
+          "title": "내부 갈등 '에이밍', 결국 KT 떠나 KRX로...'지우'와 트레이드",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319034",
+          "meta": "리그 오브 레전드 · 3시간 전"
+        },
+        {
           "title": "BFX의 3R 방향성, \"침착하게 하되 교전은 피하지 않을 것\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319029",
-          "meta": "리그 오브 레전드 · 1시간 전"
+          "meta": "리그 오브 레전드 · 7시간 전"
         },
         {
           "title": "BNK 피어엑스, DN 수퍼스전 2:0...3R 승리로 출발",
           "url": "https://www.inven.co.kr/webzine/news/?news=319028",
-          "meta": "리그 오브 레전드 · 1시간 전"
-        },
-        {
-          "title": "'메이플스토리 바이브 캠프' 수상작 5종, 전원 게임업계 경력 없었다",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319027",
-          "meta": "메이플스토리N · 2시간 전"
-        },
-        {
-          "title": "나인 코어 제작식 변경! 손해만 남은 카오",
-          "url": "https://www.inven.co.kr/webzine/news/?news=318997",
-          "meta": "솔: 인챈트 · 3시간 전"
-        },
-        {
-          "title": "넷마블 ‘나 혼자만 레벨업:어라이즈’, 신규 계승자 ‘그림자 군주 성진우’ 추가",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319023",
-          "meta": "나 혼자만 레벨업: ARISE · 4시간 전"
+          "meta": "리그 오브 레전드 · 7시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
