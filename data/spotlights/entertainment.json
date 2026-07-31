@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-31T19:24:42.570Z",
+  "lastUpdatedAt": "2026-07-31T22:05:06.545Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "219e78878e1f6593",
-      "issueKey": "birmingham vs barcelona",
-      "issueTitle": "birmingham vs barcelona",
-      "trendTitle": "birmingham vs barcelona",
+      "id": "cb25bf739544bdd8",
+      "issueKey": "삼전",
+      "issueTitle": "삼전",
+      "trendTitle": "나스닥 지수",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "뉴욕 반도체주 다시 하락…삼전·SK하닉 ‘폭풍 회복세’ 다시 끊기나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801055527827",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "MS·아마존 웃고, 메타 울고... 이젠 빅테크 '이것' 좋아야 주가 올라",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0102_202607310746591050",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "뉴욕증시, 반도체주 반등에 강세 마감…하이닉스ADR 18%↑(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731008251072",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "뉴욕 반도체주 다시 하락…삼전·SK하닉 ‘폭풍 회복세’ 다시 끊기나",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801055527827",
+        "publishedAt": "2026-07-31T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T21:00:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "삼전",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260801055527827",
+      "rank": 1
+    },
+    {
+      "id": "199dc38e1a4d3008",
+      "issueKey": "aapl",
+      "issueTitle": "aapl",
+      "trendTitle": "aapl",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Apple Projects Lower Revenue Growth Amid Memory Shortages",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/industry-en/2026/07/31/WUUZMKAB35DLPOJEUGEZ3VDQXM/",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Apple Slides After Supply Shortages Hurt Sales Forecast",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-30/apple-s-sales-disappoint-in-china-unit-services-business",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Apple, which is preparing for a CEO change in September, has released its final earnings under Tim C..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/world/12113634",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "aapl",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/industry-en/2026/07/31/WUUZMKAB35DLPOJEUGEZ3VDQXM/",
+        "publishedAt": "2026-07-31T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T21:00:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "aapl",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/english/industry-en/2026/07/31/WUUZMKAB35DLPOJEUGEZ3VDQXM/",
+      "rank": 2
+    },
+    {
+      "id": "12219f9ced0da039",
+      "issueKey": "birmingham đấu với barcelona",
+      "issueTitle": "birmingham đấu với barcelona",
+      "trendTitle": "birmingham đấu với barcelona",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Nhận định bóng đá Birmingham vs Barca, 01h45 ngày 1/8: Chiến thắng dễ cho thầy trò Flick?",
+          "source": "Bongdaplus",
+          "url": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-birmingham-vs-barca-01h45-ngay-1-8-5112312607.html",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "TRỰC TIẾPTrực tiếp Birmingham City vs FC Barcelona: Barcelona kiểm soát, Birmingham chờ thời, chưa có bàn thắng",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/truc-tieptruc-tiep-birmingham-city-vs-fc-barcelona-barcelona-kiem-soat-birmingham-cho-thoi-chua-co-ban-thang",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Nhận định Birmingham vs Barca (1h45 ngày 1/8, Giao hữu CLB)",
+          "source": "Bongda24h",
+          "url": "https://bongda24h.vn/nhan-dinh-bong-da/du-doan-birmingham-vs-barca-hom-nay-344-456271.html",
+          "publishedAt": "2026-07-31T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "birmingham đấu với barcelona",
+        "source": "Bongdaplus",
+        "url": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-birmingham-vs-barca-01h45-ngay-1-8-5112312607.html",
+        "publishedAt": "2026-07-31T21:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T21:00:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "birmingham đấu với barcelona",
+      "source": "Bongdaplus",
+      "url": "https://bongdaplus.vn/giao-huu-bong-da/nhan-dinh-bong-da-birmingham-vs-barca-01h45-ngay-1-8-5112312607.html",
+      "rank": 3
+    },
+    {
+      "id": "1083cb27516d25df",
+      "issueKey": "бирмингем сити барселона",
+      "issueTitle": "бирмингем сити – барселона",
+      "trendTitle": "бирмингем сити – барселона",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "«Барселона» не удержала победный счёт в контрольном матче с «Бирмингем Сити»",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6565918-birmingem-siti-barselona-rezultat-matcha-31-iyulya-schet-2-2-tovarischeskij-match.html",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "«Бирмингем» – «Барселона» (Прямая трансляция): где смотреть товарищеский матч 31 августа 2026 года",
+          "source": "Tribuna.com",
+          "url": "https://ua.tribuna.com/betting/1000000364688-birminhem-barselona-pryama-translyatsiya-de-dyvytysya-to/",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Неожиданно. Звездный футболист Реала посетит товарищеский матч Барселоны",
+          "source": "UA-Football",
+          "url": "https://www.ua-football.com/foreign/spain/1785508235-neozhidanno-zvezdnyy-futbolist-reala-posetit-tovarischeskiy-match-barselony.html",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "бирмингем сити – барселона",
+        "source": "https://www.championat.ru/",
+        "url": "https://www.championat.ru/football/news-6565918-birmingem-siti-barselona-rezultat-matcha-31-iyulya-schet-2-2-tovarischeskij-match.html",
+        "publishedAt": "2026-07-31T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T20:50:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "бирмингем сити – барселона",
+      "source": "https://www.championat.ru/",
+      "url": "https://www.championat.ru/football/news-6565918-birmingem-siti-barselona-rezultat-matcha-31-iyulya-schet-2-2-tovarischeskij-match.html",
+      "rank": 4
+    },
+    {
+      "id": "eb8dc84bf3cfa371",
+      "issueKey": "투표",
+      "issueTitle": "투표",
+      "trendTitle": "투표",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "¿Cómo ver el partido del Barcelona vs Birmingham en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-barcelona-vs-birmingham-en-tv-y-streaming-31-07-2026",
-          "publishedAt": "2026-07-31T18:20:00.000Z",
+          "title": "\"선관위, 작년 대선 투표자 수 수정 81건…재작년 총선은 65건\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801060151941",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "¿Por qué no juegan Lamine Yamal y Raphinha en Birmingham vs. Barcelona?",
-          "source": "Bolavip",
-          "url": "https://bolavip.com/laliga/por-que-no-juegan-lamine-yamal-y-raphinha-en-birmingham-vs-barcelona",
-          "publishedAt": "2026-07-31T18:20:00.000Z",
+          "title": "투표자수 ‘오보고·수정’ 빈번…주진우 “작년 대선 81건, 2024년 총선 65건”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260801063809266",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Debuta un fichaje del Barça: el once de Hansi Flick para el primer amistoso de pretemporada en Birmingham",
-          "source": "Crónica Global",
-          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260731/hansi-flick-estrenar-pretemporada-barca-birmingham-city/1003742783894_0.html",
-          "publishedAt": "2026-07-31T18:20:00.000Z",
+          "title": "합수본, '투표 통계 조작 지시' 중앙선관위 관계자 피의자 소환",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731027200004",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "birmingham vs barcelona",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-barcelona-vs-birmingham-en-tv-y-streaming-31-07-2026",
-        "publishedAt": "2026-07-31T18:20:00.000Z",
+        "title": "\"선관위, 작년 대선 투표자 수 수정 81건…재작년 총선은 65건\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260801060151941",
+        "publishedAt": "2026-07-31T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T18:20:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "birmingham vs barcelona",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-barcelona-vs-birmingham-en-tv-y-streaming-31-07-2026",
-      "rank": 1
-    },
-    {
-      "id": "c1d8da88be004cdf",
-      "issueKey": "경기 예측",
-      "issueTitle": "경기 예측",
-      "trendTitle": "경기 예측",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"FIFA 징계 받았던 그 한국인\"…바르셀로나와 역대 두 번째 맞대결→\"EPL 복귀 원하는 버밍엄서 빛난다\" 西 매체 조명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731184809157",
-          "publishedAt": "2026-07-31T17:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "버밍엄 시티 vs FC 바르셀로나 경기 예측: 예상 라인업",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-birmingham-city-vs-fc-barcelona-doi-hinh-du-kien",
-          "publishedAt": "2026-07-31T17:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "버밍엄 시티 대 바르셀로나 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-bong-da-birmingham-city-vs-barcelona-1743632.ldo",
-          "publishedAt": "2026-07-31T17:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "버밍엄 시티 vs FC 바르셀로나 경기 예측: 예상 라인업",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-birmingham-city-vs-fc-barcelona-doi-hinh-du-kien",
-        "publishedAt": "2026-07-31T17:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-31T17:50:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "경기 예측",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-birmingham-city-vs-fc-barcelona-doi-hinh-du-kien",
-      "rank": 2
-    },
-    {
-      "id": "6a21272018e317ba",
-      "issueKey": "사극",
-      "issueTitle": "사극",
-      "trendTitle": "사극",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "진짜 이게 공개된다고?…넷플릭스에 풀리는 한국 사극 최고의 ‘대작 영화’",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1149712",
-          "publishedAt": "2026-07-31T17:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"미간 일부러 더 찡그렸죠\" 노윤서의 첫 사극 '동궁'[왓더OTT]",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6555569",
-          "publishedAt": "2026-07-31T17:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "넷플릭스 ‘동궁’ 속 연못이 대학 캠퍼스라고?…해외 관광객도 찾는다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607301120001",
-          "publishedAt": "2026-07-31T17:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "진짜 이게 공개된다고?…넷플릭스에 풀리는 한국 사극 최고의 ‘대작 영화’",
-        "source": "위키트리",
-        "url": "https://www.wikitree.co.kr/articles/1149712",
-        "publishedAt": "2026-07-31T17:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T17:00:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "사극",
-      "source": "위키트리",
-      "url": "https://www.wikitree.co.kr/articles/1149712",
-      "rank": 3
-    },
-    {
-      "id": "9e89141cda0c147d",
-      "issueKey": "머더클럽",
-      "issueTitle": "머더클럽",
-      "trendTitle": "머더클럽",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "머더클럽",
-          "source": "Disney Plus",
-          "url": "https://www.disneyplus.com/ko-kr/browse/entity-02b192fc-8bd3-498e-ac64-65245666fc39",
-          "publishedAt": "2026-07-31T16:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘머더클럽’ 공개하자마자 몰아친 미스터리 추리전‥충주맨 김선태 출격",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202607301702596710",
-          "publishedAt": "2026-07-31T16:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "빠니보틀·최양락·최강창민·김선태·김현수, 살인 용의자로…‘머더클럽’ 29일 공개",
-          "source": "싱글리스트",
-          "url": "https://www.slist.kr/news/articleView.html?idxno=754635",
-          "publishedAt": "2026-07-31T16:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘머더클럽’ 공개하자마자 몰아친 미스터리 추리전‥충주맨 김선태 출격",
-        "source": "뉴스엔",
-        "url": "https://www.newsen.com/news_view.php?uid=202607301702596710",
-        "publishedAt": "2026-07-31T16:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-07-31T16:10:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "머더클럽",
-      "source": "뉴스엔",
-      "url": "https://www.newsen.com/news_view.php?uid=202607301702596710",
-      "rank": 4
-    },
-    {
-      "id": "10eaf9a1b220dde0",
-      "issueKey": "대한항공",
-      "issueTitle": "제주항공",
-      "trendTitle": "제주항공",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "스카이스캐너, ‘스마트 트래블 어워즈’ 발표",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/HJclCYyOW0",
-          "publishedAt": "2026-07-31T15:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "스카이스캐너, 한국 여행객 위한 최우수 항공사·여행사 발표",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10823969",
-          "publishedAt": "2026-07-31T15:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'대한항공·하나투어·제주항공'…스카이스캐너가 '콕' 찍은 이유",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607293594g",
-          "publishedAt": "2026-07-31T15:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'대한항공·하나투어·제주항공'…스카이스캐너가 '콕' 찍은 이유",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607293594g",
-        "publishedAt": "2026-07-31T15:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-31T15:50:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "제주항공",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202607293594g",
+      "publishedAt": "2026-07-31T20:50:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "투표",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260801060151941",
       "rank": 5
     },
     {
-      "id": "c8b6e278ef420711",
-      "issueKey": "thứ hạng của đội tuyển bóng đá quốc gia việt nam gặp đội tuyển bóng đá quốc gia singapore",
-      "issueTitle": "thứ hạng của đội tuyển bóng đá quốc gia việt nam gặp đội tuyển bóng đá quốc gia singapore",
-      "trendTitle": "thứ hạng của đội tuyển bóng đá quốc gia việt nam gặp đội tuyển bóng đá quốc gia singapore",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Việt Nam 0-0 Singapore (H2): Tài Lộc sút dội xà ngang",
-          "source": "VnExpress",
-          "url": "https://vnexpress.net/viet-nam-vs-singapore-5103811.html",
-          "publishedAt": "2026-07-31T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "HLV Kim khó chịu với Đình Bắc",
-          "source": "Znews",
-          "url": "https://znews.vn/hlv-kim-kho-chiu-voi-dinh-bac-post1673965.html",
-          "publishedAt": "2026-07-31T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Nhận định Việt Nam vs Singapore, 20h hôm nay 31/7, AFF Cup 2026",
-          "source": "Thể Thao 247",
-          "url": "https://thethao247.vn/406-nhan-dinh-viet-nam-vs-singapore-20h00-hom-nay-31-7-2026-aff-cup-2026-d429978.html",
-          "publishedAt": "2026-07-31T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "thứ hạng của đội tuyển bóng đá quốc gia việt nam gặp đội tuyển bóng đá quốc gia singapore",
-        "source": "VnExpress",
-        "url": "https://vnexpress.net/viet-nam-vs-singapore-5103811.html",
-        "publishedAt": "2026-07-31T15:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T15:40:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "thứ hạng của đội tuyển bóng đá quốc gia việt nam gặp đội tuyển bóng đá quốc gia singapore",
-      "source": "VnExpress",
-      "url": "https://vnexpress.net/viet-nam-vs-singapore-5103811.html",
-      "rank": 6
-    },
-    {
-      "id": "abf19b4c04525b3f",
-      "issueKey": "팔란티어",
-      "issueTitle": "팔란티어",
-      "trendTitle": "데드캣",
+      "id": "33efcc6020a2348a",
+      "issueKey": "유해란",
+      "issueTitle": "유해란",
+      "trendTitle": "유해란",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "악몽의 7월 끝, 8월은 웃을까…팔란티어·샌디스크 실적까지 확인해야",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/07/31/2026073116493843008",
-          "publishedAt": "2026-07-31T15:40:00.000Z",
+          "title": "유해란, 메이저 3연승 향해 순항…AIG 여자오픈 2R 선두",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801010500007",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“믿음이 없어요” 개미 오늘 10조 던졌다…역대 최대",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606477",
-          "publishedAt": "2026-07-31T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "코스피 17.9% 폭등 역대 최대 상승률‥하이닉스·삼성전기도 상한가",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6841539_36932.html",
-          "publishedAt": "2026-07-31T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "악몽의 7월 끝, 8월은 웃을까…팔란티어·샌디스크 실적까지 확인해야",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/07/31/2026073116493843008",
-        "publishedAt": "2026-07-31T15:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T15:40:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "팔란티어",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/stock/2026/07/31/2026073116493843008",
-      "rank": 7
-    },
-    {
-      "id": "274ecb82cbde2598",
-      "issueKey": "넥슨",
-      "issueTitle": "넥슨",
-      "trendTitle": "넥슨",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "넥슨, 화상 아동 18명 첫 수술 돕는다",
+          "title": "'세계 1위' 넬리 코다 압도한 유해란…AIG 여자오픈 첫날 공동 2위 '메이저 3연승 시동'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731105250775",
-          "publishedAt": "2026-07-31T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "넥슨코리아, 임직원과 함께 만드는 나눔 문화 '더블유 캠페인' 전개",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260731144814",
-          "publishedAt": "2026-07-31T15:20:00.000Z",
+          "url": "https://v.daum.net/v/FhZ263tWyw?f=p",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "넥슨코리아, ‘더블유’ 캠페인 통해 저소득가정 화상 아동 치료비 8800만원 전달",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260731500547",
-          "publishedAt": "2026-07-31T15:20:00.000Z",
+          "title": "[LPGA] '메이저 3연승 도전' 유해란, AIG 오픈 공동 2위 출발",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260731000114",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "넥슨, 화상 아동 18명 첫 수술 돕는다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731105250775",
-        "publishedAt": "2026-07-31T15:20:00.000Z",
+        "title": "유해란, 메이저 3연승 향해 순항…AIG 여자오픈 2R 선두",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260801010500007",
+        "publishedAt": "2026-07-31T20:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T15:20:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "넥슨",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260731105250775",
-      "rank": 8
+      "publishedAt": "2026-07-31T20:50:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "유해란",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260801010500007",
+      "rank": 6
     },
     {
-      "id": "9d00137ef85a652b",
-      "issueKey": "복도",
-      "issueTitle": "복도",
-      "trendTitle": "복도",
+      "id": "052eb77cf4278b71",
+      "issueKey": "노소영",
+      "issueTitle": "노소영",
+      "trendTitle": "노소영",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"내 집 좁아\" 아파트 복도에 실외기 둔 입주민…\"전선 잘라라\" 뜻밖의 결과",
-          "source": "땅집고",
-          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/31/2026073102437.html",
-          "publishedAt": "2026-07-31T15:00:00.000Z",
+          "title": "최태원ㆍ노소영, 세기의 이혼소송… 네 번째 반전은 날짜였다",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53904",
+          "publishedAt": "2026-07-31T20:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"미쳤나봐요…아파트 복도에 에어컨 설치\" 황당 주민에 '고통'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260731n30992",
-          "publishedAt": "2026-07-31T15:00:00.000Z",
+          "title": "코스피 14%·코스닥 7%, 오늘은 불기둥…나란히 매수 사이드카",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12311052",
+          "publishedAt": "2026-07-31T20:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "아파트 복도에 에어컨 실외기 설치…돌릴 때마다 '가마솥' 열기 , 이웃들 분통",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/07/31/2026073113505289126",
-          "publishedAt": "2026-07-31T15:00:00.000Z",
+          "title": "최태원·노소영 ‘세기의 재산분할’, 9440억원 ‘근거’는 [QnA]",
+          "source": "시사저널",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=381064",
+          "publishedAt": "2026-07-31T20:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"내 집 좁아\" 아파트 복도에 실외기 둔 입주민…\"전선 잘라라\" 뜻밖의 결과",
-        "source": "땅집고",
-        "url": "https://realty.chosun.com/site/data/html_dir/2026/07/31/2026073102437.html",
-        "publishedAt": "2026-07-31T15:00:00.000Z",
+        "title": "최태원ㆍ노소영, 세기의 이혼소송… 네 번째 반전은 날짜였다",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=53904",
+        "publishedAt": "2026-07-31T20:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T15:00:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "복도",
-      "source": "땅집고",
-      "url": "https://realty.chosun.com/site/data/html_dir/2026/07/31/2026073102437.html",
-      "rank": 9
+      "publishedAt": "2026-07-31T20:40:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "노소영",
+      "source": "주간조선",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=53904",
+      "rank": 7
     },
     {
-      "id": "4863a9a8be42033e",
-      "issueKey": "덕분",
-      "issueTitle": "덕분",
-      "trendTitle": "덕분",
+      "id": "01101eb70d8d4c43",
+      "issueKey": "마이클 버리",
+      "issueTitle": "마이클 버리",
+      "trendTitle": "마이클 버리",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SK하이닉스 상한가 찍은 날…‘빅쇼트’ 버리, 반도체주 공매도 늘렸다 [머니+]",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260731021058303",
+          "publishedAt": "2026-07-31T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "마이크론 주가 전망: 마이클 버리 숏 포지션 확대, 주가 800달러까지 하락할 수도",
+          "source": "TradingKey",
+          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262067978-micron-mu-michael-burry-short-increase-tim-cook-dram-hbm-prices-800-tradingkey",
+          "publishedAt": "2026-07-31T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "마이클 버리는 왜 엔비디아·마이크론 하락에 다시 베팅했나",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/250627",
+          "publishedAt": "2026-07-31T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "마이크론 주가 전망: 마이클 버리 숏 포지션 확대, 주가 800달러까지 하락할 수도",
+        "source": "TradingKey",
+        "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262067978-micron-mu-michael-burry-short-increase-tim-cook-dram-hbm-prices-800-tradingkey",
+        "publishedAt": "2026-07-31T20:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-07-31T20:30:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "마이클 버리",
+      "source": "TradingKey",
+      "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262067978-micron-mu-michael-burry-short-increase-tim-cook-dram-hbm-prices-800-tradingkey",
+      "rank": 8
+    },
+    {
+      "id": "fe79eb385243c6e3",
+      "issueKey": "다이소",
+      "issueTitle": "다이소",
+      "trendTitle": "다이소",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[오피셜] ‘1700억 영입→4년 출전 정지’ 대충격 도핑 징계 받았던 선수, 첼시 ‘복귀 확정’→프리시즌 투어...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608010404003",
-          "publishedAt": "2026-07-31T15:00:00.000Z",
+          "title": "\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607292298i",
+          "publishedAt": "2026-07-31T20:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[오피셜] '도핑 징계' 무드리크가 돌아왔다! CAS 항소 후 즉시 복귀→\"내 커리어 통틀어 가장 힘든 시기, 매일 열심히 훈련할 것\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260801n00293",
-          "publishedAt": "2026-07-31T15:00:00.000Z",
+          "title": "[고물가 시대 초저가 생존전략] 3%대 물가에 달라진 장바구니…일상이 된 초저가 소비",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pLBo0vlwlW",
+          "publishedAt": "2026-07-31T20:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "첼시 미드필더, 새로운 도핑 방지 규정 덕분에 출전 정지 위기 모면.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/tien-ve-chelsea-thoat-an-treo-gio-nho-quy-dinh-chong-doping-moi",
-          "publishedAt": "2026-07-31T15:00:00.000Z",
+          "title": "다이소 여름철 품절대란 품목 3가지",
+          "source": "톱클래스",
+          "url": "http://topclass.chosun.com/news/articleView.html?idxno=36600",
+          "publishedAt": "2026-07-31T20:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "첼시 미드필더, 새로운 도핑 방지 규정 덕분에 출전 정지 위기 모면.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/tien-ve-chelsea-thoat-an-treo-gio-nho-quy-dinh-chong-doping-moi",
-        "publishedAt": "2026-07-31T15:00:00.000Z",
-        "relevanceScore": 1
+        "title": "\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607292298i",
+        "publishedAt": "2026-07-31T20:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T15:00:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "덕분",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/tien-ve-chelsea-thoat-an-treo-gio-nho-quy-dinh-chong-doping-moi",
-      "rank": 10
+      "publishedAt": "2026-07-31T20:20:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "다이소",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202607292298i",
+      "rank": 9
     }
   ],
   "history": [
@@ -962,6 +915,66 @@
       "url": "https://www.mt.co.kr/industry/2026/07/30/2026073011024168972"
     },
     {
+      "id": "fe79eb385243c6e3",
+      "issueKey": "다이소",
+      "issueTitle": "다이소",
+      "trendTitle": "다이소",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 5,
+      "relatedArticles": [
+        {
+          "title": "\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607292298i",
+          "publishedAt": "2026-07-31T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[경제 뉴스로 배우는 한입 한자 15화]초저가 선보인 대형 마트, 다이소와 경쟁 시작한다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/kid/kid_economy/2026/07/30/HKE3SOPU3FAHFHUTAWTWZGH6QU/",
+          "publishedAt": "2026-07-30T06:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[고물가 시대 초저가 생존전략] 3%대 물가에 달라진 장바구니…일상이 된 초저가 소비",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pLBo0vlwlW",
+          "publishedAt": "2026-07-31T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "다이소 여름철 품절대란 품목 3가지",
+          "source": "톱클래스",
+          "url": "http://topclass.chosun.com/news/articleView.html?idxno=36600",
+          "publishedAt": "2026-07-31T20:20:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "다이소, 홈플러스 휴점에 대형마트 균일가 경쟁에도 출점 전략 유지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260729173737269",
+          "publishedAt": "2026-07-30T06:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202607292298i",
+        "publishedAt": "2026-07-31T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T20:20:00.000Z",
+      "firstSeenAt": "2026-07-30T08:26:32.288Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "다이소",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202607292298i"
+    },
+    {
       "id": "9d00137ef85a652b",
       "issueKey": "복도",
       "issueTitle": "복도",
@@ -1020,6 +1033,52 @@
       "title": "복도",
       "source": "네이트",
       "url": "https://news.nate.com/view/20260731n17224"
+    },
+    {
+      "id": "052eb77cf4278b71",
+      "issueKey": "노소영",
+      "issueTitle": "노소영",
+      "trendTitle": "노소영",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "최태원ㆍ노소영, 세기의 이혼소송… 네 번째 반전은 날짜였다",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=53904",
+          "publishedAt": "2026-07-31T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "코스피 14%·코스닥 7%, 오늘은 불기둥…나란히 매수 사이드카",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12311052",
+          "publishedAt": "2026-07-31T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "최태원·노소영 ‘세기의 재산분할’, 9440억원 ‘근거’는 [QnA]",
+          "source": "시사저널",
+          "url": "https://www.sisajournal.com/news/articleView.html?idxno=381064",
+          "publishedAt": "2026-07-31T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "최태원ㆍ노소영, 세기의 이혼소송… 네 번째 반전은 날짜였다",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=53904",
+        "publishedAt": "2026-07-31T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T20:40:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "노소영",
+      "source": "주간조선",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=53904"
     },
     {
       "id": "c1d8da88be004cdf",
@@ -1528,52 +1587,6 @@
       "url": "https://v.daum.net/v/20260730165712850"
     },
     {
-      "id": "fe79eb385243c6e3",
-      "issueKey": "다이소",
-      "issueTitle": "다이소",
-      "trendTitle": "다이소",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202607292298i",
-          "publishedAt": "2026-07-30T06:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[경제 뉴스로 배우는 한입 한자 15화]초저가 선보인 대형 마트, 다이소와 경쟁 시작한다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/kid/kid_economy/2026/07/30/HKE3SOPU3FAHFHUTAWTWZGH6QU/",
-          "publishedAt": "2026-07-30T06:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "다이소, 홈플러스 휴점에 대형마트 균일가 경쟁에도 출점 전략 유지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729173737269",
-          "publishedAt": "2026-07-30T06:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"또 품절될라\"…다이소, 5000원 '초가성비 가전' 내놨다 [권 기자의 장바구니]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202607292298i",
-        "publishedAt": "2026-07-30T06:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-30T06:20:00.000Z",
-      "firstSeenAt": "2026-07-30T08:26:32.288Z",
-      "lastSeenAt": "2026-07-30T08:26:32.288Z",
-      "title": "다이소",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202607292298i"
-    },
-    {
       "id": "176494aa449dceea",
       "issueKey": "배당",
       "issueTitle": "배당",
@@ -1731,6 +1744,52 @@
       "title": "대한민국 법무부",
       "source": "재외동포신문",
       "url": "http://www.dongponews.net/news/articleView.html?idxno=59563"
+    },
+    {
+      "id": "33efcc6020a2348a",
+      "issueKey": "유해란",
+      "issueTitle": "유해란",
+      "trendTitle": "유해란",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "유해란, 메이저 3연승 향해 순항…AIG 여자오픈 2R 선두",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260801010500007",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'세계 1위' 넬리 코다 압도한 유해란…AIG 여자오픈 첫날 공동 2위 '메이저 3연승 시동'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/FhZ263tWyw?f=p",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[LPGA] '메이저 3연승 도전' 유해란, AIG 오픈 공동 2위 출발",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260731000114",
+          "publishedAt": "2026-07-31T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "유해란, 메이저 3연승 향해 순항…AIG 여자오픈 2R 선두",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260801010500007",
+        "publishedAt": "2026-07-31T20:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T20:50:00.000Z",
+      "firstSeenAt": "2026-07-31T22:05:06.545Z",
+      "lastSeenAt": "2026-07-31T22:05:06.545Z",
+      "title": "유해란",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260801010500007"
     },
     {
       "id": "72090196f9ae91b1",
@@ -2350,105 +2409,6 @@
       "title": "덕분",
       "source": "Vietnam.vn",
       "url": "https://www.vietnam.vn/ko/tien-ve-chelsea-thoat-an-treo-gio-nho-quy-dinh-chong-doping-moi"
-    },
-    {
-      "id": "274ecb82cbde2598",
-      "issueKey": "넥슨",
-      "issueTitle": "넥슨",
-      "trendTitle": "넥슨",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 4,
-      "relatedArticles": [
-        {
-          "title": "넥슨, 화상 아동 18명 첫 수술 돕는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731105250775",
-          "publishedAt": "2026-07-31T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "넥슨코리아, 임직원과 함께 만드는 나눔 문화 '더블유 캠페인' 전개",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260731144814",
-          "publishedAt": "2026-07-31T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "넥슨코리아·임직원 837명, 화상 아동 치료비 8800만원 기부",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003732120",
-          "publishedAt": "2026-07-31T15:20:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "넥슨코리아, ‘더블유’ 캠페인 통해 저소득가정 화상 아동 치료비 8800만원 전달",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260731500547",
-          "publishedAt": "2026-07-31T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "넥슨, 화상 아동 18명 첫 수술 돕는다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731105250775",
-        "publishedAt": "2026-07-31T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T15:20:00.000Z",
-      "firstSeenAt": "2026-07-31T16:45:21.478Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "넥슨",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260731105250775"
-    },
-    {
-      "id": "6a21272018e317ba",
-      "issueKey": "사극",
-      "issueTitle": "사극",
-      "trendTitle": "사극",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "진짜 이게 공개된다고?…넷플릭스에 풀리는 한국 사극 최고의 ‘대작 영화’",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1149712",
-          "publishedAt": "2026-07-31T17:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"미간 일부러 더 찡그렸죠\" 노윤서의 첫 사극 '동궁'[왓더OTT]",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6555569",
-          "publishedAt": "2026-07-31T17:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "넷플릭스 ‘동궁’ 속 연못이 대학 캠퍼스라고?…해외 관광객도 찾는다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607301120001",
-          "publishedAt": "2026-07-31T17:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "진짜 이게 공개된다고?…넷플릭스에 풀리는 한국 사극 최고의 ‘대작 영화’",
-        "source": "위키트리",
-        "url": "https://www.wikitree.co.kr/articles/1149712",
-        "publishedAt": "2026-07-31T17:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T17:00:00.000Z",
-      "firstSeenAt": "2026-07-31T19:24:42.570Z",
-      "lastSeenAt": "2026-07-31T19:24:42.570Z",
-      "title": "사극",
-      "source": "위키트리",
-      "url": "https://www.wikitree.co.kr/articles/1149712"
     }
   ]
 }
