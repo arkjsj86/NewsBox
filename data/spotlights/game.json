@@ -3,20 +3,20 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-07-31T11:28:56.601Z",
+  "lastUpdatedAt": "2026-07-31T14:06:37.708Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
   "itemCount": 1,
   "offers": [
     {
-      "id": "371545146a944478ad5a87f9b581ac29",
-      "title": "Echo Generation: Midnight Edition",
-      "seller": "Cococucumber Inc",
-      "url": "https://store.epicgames.com/ko/p/echo-generation-midnight-edition-069026",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/d85d8cbcd8bd43308d262ba62af5b5ce/echo-generation-midnight-edition-1b7uz.jpg",
-      "originalPriceLabel": "₩25,600",
-      "freeUntil": "2026-07-23T15:00:00.000Z"
+      "id": "c71375f1ac9444fcae1ca584a53ba6f0",
+      "title": "Sol Cesto",
+      "seller": "Goblinz Studio SAS",
+      "url": "https://store.epicgames.com/ko/p/sol-cesto-e9b803",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-g83am.png",
+      "originalPriceLabel": "₩15,500",
+      "freeUntil": "2026-08-06T15:00:00.000Z"
     }
   ],
   "issues": {
@@ -29,11 +29,6 @@
           "title": "에다니아와 레벨/성장 대개편, '검은사막' 2026 하이델 연회",
           "url": "https://bbs.ruliweb.com/news/read/227389",
           "meta": "댓글 6"
-        },
-        {
-          "title": "스마일게이트, 정통 K-공포 '골목길: 귀흔' 오늘(24일) 스팀 출시",
-          "url": "https://bbs.ruliweb.com/news/read/227333",
-          "meta": "댓글 9"
         },
         {
           "title": "카오스 제로 나이트메어, 은하계 재해 시즌4 ‘부서진 빛과 발톱’ 브리핑",
@@ -49,6 +44,11 @@
           "title": "㈜카카오게임즈, 콩 스튜디오 신작 ‘가디언 메이든’ 글로벌 퍼블리싱 계약",
           "url": "https://bbs.ruliweb.com/news/read/227448",
           "meta": "댓글 15"
+        },
+        {
+          "title": "엔비디아 본사에 ‘한국 기업 리더들’ 젠슨 황 CEO와 방문",
+          "url": "https://bbs.ruliweb.com/news/read/227381",
+          "meta": "댓글 7"
         }
       ]
     },
@@ -60,27 +60,27 @@
         {
           "title": "이번 시즌은 마덱이 약세? 총력전 조합 살펴보기",
           "url": "https://www.inven.co.kr/webzine/news/?news=319094",
-          "meta": "세븐나이츠 리버스 · 49분 전"
+          "meta": "세븐나이츠 리버스 · 3시간 전"
         },
         {
           "title": "임 감독대행 \"젠지, 평소답지 않게 굳어있어...\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319093",
-          "meta": "리그 오브 레전드 · 1시간 전"
+          "meta": "리그 오브 레전드 · 4시간 전"
         },
         {
           "title": "젠지 유상욱 감독 \"2세트 역전의 원인...너무 급했다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319092",
-          "meta": "리그 오브 레전드 · 1시간 전"
+          "meta": "리그 오브 레전드 · 4시간 전"
         },
         {
           "title": "T1, 깔끔한 오브젝트 컨트롤 통해 29분 만에 젠지 제압",
           "url": "https://www.inven.co.kr/webzine/news/?news=319085",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "meta": "리그 오브 레전드 · 5시간 전"
         },
         {
           "title": "펄어비스 '붉은사막', TCL과 협력해 차이나조이 2026 출전",
           "url": "https://www.inven.co.kr/webzine/news/?news=318989",
-          "meta": "붉은사막 · 3시간 전"
+          "meta": "붉은사막 · 5시간 전"
         }
       ]
     }
@@ -89,8 +89,8 @@
     {
       "key": "epic-free-games",
       "source": "Epic Games Store",
-      "ok": false,
-      "error": "Epic free games payload did not contain active free games."
+      "ok": true,
+      "itemCount": 1
     },
     {
       "key": "ruliweb-issues",
