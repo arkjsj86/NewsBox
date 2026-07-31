@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-07-31T02:49:56.342Z",
+  "lastUpdatedAt": "2026-07-31T06:13:42.595Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "b9eb49ebad4d80c7",
-      "issueKey": "보이콧",
-      "issueTitle": "보이콧",
-      "trendTitle": "보이콧",
+      "id": "a93c5b359dbcb7f8",
+      "issueKey": "급발진",
+      "issueTitle": "급발진",
+      "trendTitle": "급발진",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "시속 100㎞ 주택가 돌진 70대 택시기사, 1명 사망 비극…‘급발진 무죄’ 호소, 결말은? [세상&]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731064708976",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'관악구 연쇄 추돌' 택시운전사 2심서 금고형→금고형 집유로 감형",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003731000",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'신림 연쇄 추돌사고' 택시기사, 2심서 집행유예 감형",
+          "source": "서울뉴스통신",
+          "url": "http://www.snakorea.com/news/articleView.html?idxno=1040362",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "시속 100㎞ 주택가 돌진 70대 택시기사, 1명 사망 비극…‘급발진 무죄’ 호소, 결말은? [세상&]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731064708976",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "급발진",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260731064708976",
+      "rank": 1
+    },
+    {
+      "id": "df41e3c695ae7565",
+      "issueKey": "티파니",
+      "issueTitle": "티파니",
+      "trendTitle": "티파니",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "유럽, FIFA에 반기‥\"민간에 지분매각 강행 시 월드컵 보이콧\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6841425_36925.html",
-          "publishedAt": "2026-07-31T01:40:00.000Z",
+          "title": "티파니 영, 공연 2주 앞두고 출연 취소…주최 측 내부 사정→기다린 팬들 '울상'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731102616624",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "FIFA ‘월드컵 지분 매각’에 축구계 반발…유럽 보이콧 선언",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1270840.html",
-          "publishedAt": "2026-07-31T01:40:00.000Z",
+          "title": "'변요한♥' 티파니 영, 안타까운 소식 전했다..'페스티벌' 2주 앞두고 돌연 취소 [공식]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/31/HE3WKMBUGRSGEMBXGE3TSNRTMI/",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "유럽 축구연맹, FIFA 보이콧 선언…\"트럼프 일가에 지분 매각 계획 철회할 때까지\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/07/31/2026073110045834716",
-          "publishedAt": "2026-07-31T01:40:00.000Z",
+          "title": "티파니 영 이어 B1A4도 '러브 앤 피스 페스티벌' 출연 취소(종합)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260730n36925",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "유럽, FIFA에 반기‥\"민간에 지분매각 강행 시 월드컵 보이콧\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6841425_36925.html",
-        "publishedAt": "2026-07-31T01:40:00.000Z",
+        "title": "티파니 영, 공연 2주 앞두고 출연 취소…주최 측 내부 사정→기다린 팬들 '울상'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731102616624",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T01:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "보이콧",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6841425_36925.html",
-      "rank": 1
-    },
-    {
-      "id": "ae47910220c5bfd9",
-      "issueKey": "푸드",
-      "issueTitle": "푸드",
-      "trendTitle": "푸드",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "CJ도너스캠프, K서비스 인재 키운다…취업취약청년 60명 모집",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730112004131",
-          "publishedAt": "2026-07-31T01:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "CJ도너스캠프, 취업취약 청년 K서비스 인재로 키운다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026073108083415600",
-          "publishedAt": "2026-07-31T01:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“K-푸드·뷰티 현장 이끌 인재 키운다”…CJ도너스캠프 교육생 모집",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260730/134395345/2",
-          "publishedAt": "2026-07-31T01:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“K-푸드·뷰티 현장 이끌 인재 키운다”…CJ도너스캠프 교육생 모집",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260730/134395345/2",
-        "publishedAt": "2026-07-31T01:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-07-31T01:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "푸드",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Society/article/all/20260730/134395345/2",
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "티파니",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260731102616624",
       "rank": 2
     },
     {
-      "id": "49daac4b3dff5c5b",
-      "issueKey": "아이스 커피",
-      "issueTitle": "아이스 커피",
-      "trendTitle": "아이스 커피",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "196ba51dc6297cea",
+      "issueKey": "윤석열",
+      "issueTitle": "윤석열",
+      "trendTitle": "박지원",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"커피 트레일러 타고 현장으로\" 스타벅스, 취약계층 여름나기 지원",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003731051",
-          "publishedAt": "2026-07-31T01:20:00.000Z",
+          "title": "박지원 “수사권 박탈된 검사들, 윤석열·한동훈을 원망하라”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1270848.html",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“더위 먹기 전에 쉬세요”…배달라이더 챙기기 나선 기업들",
+          "title": "절감한 ‘무소속의 벽’…한동훈 ‘필리버스터 데뷔’ 사실상 무산",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731104209374",
-          "publishedAt": "2026-07-31T01:20:00.000Z",
+          "url": "https://v.daum.net/v/20260731150209345",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "스타벅스, '스:벅차'로 폭염 취약계층 지원 나선다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/distribution/6244932",
-          "publishedAt": "2026-07-31T01:20:00.000Z",
+          "title": "與김용민 \"공소기각, 李 재판에 이론적 적용 가능…이 조항 없어도 적용\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/07/31/R55D54ZICVBIHIPACOIAXYHZOM/",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "아이스 커피",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260731_0003731051",
-        "publishedAt": "2026-07-31T01:20:00.000Z",
+        "title": "박지원 “수사권 박탈된 검사들, 윤석열·한동훈을 원망하라”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1270848.html",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T01:20:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "아이스 커피",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260731_0003731051",
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "윤석열",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1270848.html",
       "rank": 3
     },
     {
-      "id": "51f4249568bd1e59",
-      "issueKey": "해군",
-      "issueTitle": "해군",
-      "trendTitle": "해군",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "135c3e8b45c2764a",
+      "issueKey": "설영우",
+      "issueTitle": "설영우",
+      "trendTitle": "설영우",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "美 해군, 109조원 역대 최대 계약…GD·HII와 핵잠수함 14척 건조",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607310616326954e8b8a793f7_1",
-          "publishedAt": "2026-07-31T01:10:00.000Z",
+          "title": "\"대표팀에서 자진 하차해라\" 비판에 고소 선언한 설영우, 소속팀에서는 핵심 선수로 분류 \"빠지면 가장 티가 난다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731100307588",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "록히드마틴, 586억 달러 규모 패트리엇 생산 계약 수주",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260730134000009",
-          "publishedAt": "2026-07-31T01:10:00.000Z",
+          "title": "설영우, UCL 예선서 1호 도움…팀은 5-0 승",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260730232450aDZ",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "패트리어트 3배 증산…美국방부, 록히드와 590억불 규모 계약",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02840486645519768",
-          "publishedAt": "2026-07-31T01:10:00.000Z",
+          "title": "설영우, 시즌 1호 도움‥즈베즈다 챔스리그 3차 예선 진출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6841128_36946.html",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "美 해군, 109조원 역대 최대 계약…GD·HII와 핵잠수함 14척 건조",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607310616326954e8b8a793f7_1",
-        "publishedAt": "2026-07-31T01:10:00.000Z",
+        "title": "\"대표팀에서 자진 하차해라\" 비판에 고소 선언한 설영우, 소속팀에서는 핵심 선수로 분류 \"빠지면 가장 티가 난다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731100307588",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T01:10:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "해군",
-      "source": "글로벌이코노믹",
-      "url": "https://www.g-enews.com/article/Global-Biz/2026/07/202607310616326954e8b8a793f7_1",
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "설영우",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260731100307588",
       "rank": 4
     },
     {
-      "id": "3f8e0dc72ac37b93",
-      "issueKey": "달러 환율",
-      "issueTitle": "달러 환율",
-      "trendTitle": "달러 환율",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "f9c54d0fc27f92d9",
+      "issueKey": "당구",
+      "issueTitle": "당구",
+      "trendTitle": "당구",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "원화값 올라도 넉다운…코스피는 긴축이 걱정스럽다",
+          "title": "'의문의 당구인' 해커, 드디어 18살 제자와 격돌 \"요즘은 내가 더 앞선다\"는 김영원에 \"더 알려주겠다\" 맞불",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260731000447412",
-          "publishedAt": "2026-07-31T01:00:00.000Z",
+          "url": "https://v.daum.net/v/KCqQ1srNrh",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "원·달러 환율, 오전 9시 1420원대 중반 등락",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260731_0003731009",
-          "publishedAt": "2026-07-31T01:00:00.000Z",
+          "title": "'초신성' 김영원, 은사 해커와 PBA 32강서 첫 대결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731027700007",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "달러 대비 원화 환율 1430원대로...연준 금리 동결에 달러 약세",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/07/30/YIXRUGYFUJCYTD4U3BCBUYCORI/",
-          "publishedAt": "2026-07-31T01:00:00.000Z",
+          "title": "‘초신성’ 김영원, 32강서 ‘당구 인플루언서’ 해커 만났다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10826505",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "원·달러 환율, 오전 9시 1420원대 중반 등락",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260731_0003731009",
-        "publishedAt": "2026-07-31T01:00:00.000Z",
-        "relevanceScore": 2
+        "title": "'의문의 당구인' 해커, 드디어 18살 제자와 격돌 \"요즘은 내가 더 앞선다\"는 김영원에 \"더 알려주겠다\" 맞불",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/KCqQ1srNrh",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T01:00:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "달러 환율",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260731_0003731009",
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "당구",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/KCqQ1srNrh",
       "rank": 5
     },
     {
-      "id": "e42a326315c5e436",
-      "issueKey": "민주당 전당대회",
-      "issueTitle": "민주당 전당대회",
-      "trendTitle": "민주당 전당대회",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "與 당대표 지지율, 정청래-김민석 오차범위내 초박빙 접전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731043522633",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[뷰리핑] 민주당 전대 여론조사 ‘초박빙’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1270812.html",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여 대표 정청래 36.9%, 김민석 28.0%···국힘 지지층 정청래 38.7%, 김민석 10.1%",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202607301056001",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "민주당 전당대회",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731043522633",
-        "publishedAt": "2026-07-31T00:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T00:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "민주당 전당대회",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260731043522633",
-      "rank": 6
-    },
-    {
-      "id": "b9809222e7e63aa0",
-      "issueKey": "하이테크",
-      "issueTitle": "하이테크",
-      "trendTitle": "삼전주가",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "삼성물산, 2분기 건설 실적 개선…하이테크·주택 수주 확대에 성장 탄력",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=370797",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "수입 브랜드로 호실적 삼성물산 패션, 자체 브랜드 펀더멘털이 진짜 실력",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/V7qOhNgRVe",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“삼성물산, 삼성전자 주가 부진에 덩달아 휘청”…목표가↓",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1130089",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성물산, 2분기 건설 실적 개선…하이테크·주택 수주 확대에 성장 탄력",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=370797",
-        "publishedAt": "2026-07-31T00:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T00:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "하이테크",
-      "source": "전기신문",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=370797",
-      "rank": 7
-    },
-    {
-      "id": "1d081d7ab7ce87c3",
-      "issueKey": "상한가",
-      "issueTitle": "상한가",
-      "trendTitle": "상한가",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보]마소가 AI랠리 살렸다…SK하닉ADR 17% 급등, 뉴욕증시 강세 마감",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606230",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "뉴욕증시, 반도체주 반등에 강세 마감…하이닉스ADR 18%↑(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731008251072",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "반등한 반도체, 활짝 웃은 뉴욕 증시...나스닥 2.8%↑",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/07/31/YLSHN55VIZANFHEWSKHQHEFZOM/",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "상한가",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11606230",
-        "publishedAt": "2026-07-31T00:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T00:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "상한가",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11606230",
-      "rank": 8
-    },
-    {
-      "id": "ca77193a8cbe0630",
-      "issueKey": "삼성전기 주가",
-      "issueTitle": "삼성전기 주가",
-      "trendTitle": "삼성전기 주가",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "빅테크와 직접 거래 늘린 삼성전기…MLCC·기판 슈퍼사이클 올라탔다 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/07/30/IGOXANO4WZEX3GQ4TTGY3SYVXY/",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "NH투자 \"삼성전기 목표가↓…시장 밸류에이션 하락 반영\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731028000008",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[특징주] 삼성전기, AI 수혜·실적 대박에 장 초반 25% 폭등…110만원선 돌파",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731091503464",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성전기 주가",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/it-science/ict/2026/07/30/IGOXANO4WZEX3GQ4TTGY3SYVXY/",
-        "publishedAt": "2026-07-31T00:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T00:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "삼성전기 주가",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/it-science/ict/2026/07/30/IGOXANO4WZEX3GQ4TTGY3SYVXY/",
-      "rank": 9
-    },
-    {
-      "id": "2b93747e63a5ad19",
-      "issueKey": "코스피 주가",
-      "issueTitle": "코스피 주가",
-      "trendTitle": "코스피 주가",
+      "id": "5b316532439b3f5a",
+      "issueKey": "땅집고",
+      "issueTitle": "땅집고",
+      "trendTitle": "땅집고",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“단순한 도박장 됐다” “비이성적인 현상”···‘한 달 만에 34% 폭락’ 코스피, 전 세계 하락률 1위",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202607301706001",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
+          "title": "\"웃돈 거의 안 붙었다\"는 용산 재개발 '이 동네', 실상은…",
+          "source": "땅집고",
+          "url": "https://realty.chosun.com/site/data/html_dir/2026/07/29/2026072902285.html",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘바닥 찍었다, 9300간다’…코스피 반등 예고한 대신증권",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606285",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
+          "title": "종부세 '20억 한 채'까지 면제 추진 … 기본공제 12억→14억 상향",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/07/30/2026073000069.html",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"지금은 팔 때 아냐\"…개미들 비명 쏟아졌는데 '반전' 전망",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026073064141",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
+          "title": "세제개편안 전망은?...비공개 회의에서 '막판 조율' [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202607311321180685",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "코스피 주가",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202607301706001",
-        "publishedAt": "2026-07-31T00:40:00.000Z",
+        "title": "땅집고",
+        "source": "땅집고",
+        "url": "https://realty.chosun.com/site/data/html_dir/2026/07/29/2026072902285.html",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-07-31T00:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "코스피 주가",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202607301706001",
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "땅집고",
+      "source": "땅집고",
+      "url": "https://realty.chosun.com/site/data/html_dir/2026/07/29/2026072902285.html",
+      "rank": 6
+    },
+    {
+      "id": "8ebf0bcdb8b545c9",
+      "issueKey": "어벤져스",
+      "issueTitle": "어벤져스",
+      "trendTitle": "어벤져스",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[개봉영화] 부부가 돼 돌아온 ‘스파이더맨’…외톨이 소녀 4인방, ‘산양들’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731130540511",
+          "publishedAt": "2026-07-31T05:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "제대로 돌아온 친절한 ‘초인’ 이웃, 스파이더맨",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202607311436001",
+          "publishedAt": "2026-07-31T05:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "스크린으로 달려온 BMW…스파이더맨서 뉴 iX3 첫 공개",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260731094758",
+          "publishedAt": "2026-07-31T05:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "어벤져스",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731130540511",
+        "publishedAt": "2026-07-31T05:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T05:00:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "어벤져스",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260731130540511",
+      "rank": 7
+    },
+    {
+      "id": "3dde10c0e012e03f",
+      "issueKey": "중국인",
+      "issueTitle": "중국인",
+      "trendTitle": "중국인",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘제주시내 돌며 소매치기’ 50대 중국인 2인조…실형 선고",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260731/134400330/1",
+          "publishedAt": "2026-07-31T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "제주 무비자 입국한 뒤 2인조 소매치기 행각…중국인 2명 실형",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260731144855hno",
+          "publishedAt": "2026-07-31T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "무사증 입국해 관광객 상대 '소매치기'…중국인 2명 실형",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003731269",
+          "publishedAt": "2026-07-31T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘제주시내 돌며 소매치기’ 50대 중국인 2인조…실형 선고",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260731/134400330/1",
+        "publishedAt": "2026-07-31T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T04:50:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "중국인",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Society/article/all/20260731/134400330/1",
+      "rank": 8
+    },
+    {
+      "id": "2686f39f01959a33",
+      "issueKey": "선발 유망주",
+      "issueTitle": "선발 유망주",
+      "trendTitle": "선발 유망주",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "LG 150㎞ 선발 유망주, 구속 하락 미스터리 풀렸다 \"의도치 않게 커터처럼…\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731050748015",
+          "publishedAt": "2026-07-31T04:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"김경문 감독님 믿고 맡겨주세요\" 트레이드→개명→ERA 1점대 반전…연봉 3300만원 투수, 어떻게 한화 없어선 안 될 선수 거듭났나",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260730n02120?mid=n0100",
+          "publishedAt": "2026-07-31T04:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[사진]이상규 투구 맞은 송찬의",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/07/26/GVRTOZTCMZQWCZDBMM4DANRRGQ/",
+          "publishedAt": "2026-07-31T04:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "LG 150㎞ 선발 유망주, 구속 하락 미스터리 풀렸다 \"의도치 않게 커터처럼…\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731050748015",
+        "publishedAt": "2026-07-31T04:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T04:50:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "선발 유망주",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260731050748015",
+      "rank": 9
+    },
+    {
+      "id": "c7a87e2b90e3bfed",
+      "issueKey": "정호영",
+      "issueTitle": "정호영",
+      "trendTitle": "정호영",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "정호영 일식 조리 무자격자였다 \"한식 양식 자격증은 있어\" 반전(아침마당)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260731n06427",
+          "publishedAt": "2026-07-31T04:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "일식 셰프인데 왜? 정호영, ‘아침마당’서 자격증 없던 이유 공개",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731132041810",
+          "publishedAt": "2026-07-31T04:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "정호영 셰프 \"일식 자격증 없다\" 반전 고백…\"복어 자격증은 있어\"",
+          "source": "세계뉴스통신",
+          "url": "https://www.segyenewsagency.com/news/articleView.html?idxno=639186",
+          "publishedAt": "2026-07-31T04:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "정호영 일식 조리 무자격자였다 \"한식 양식 자격증은 있어\" 반전(아침마당)",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260731n06427",
+        "publishedAt": "2026-07-31T04:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T04:40:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "정호영",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260731n06427",
       "rank": 10
     }
   ],
@@ -1213,6 +1213,98 @@
       "url": "https://www.hankyung.com/article/2026072933866"
     },
     {
+      "id": "a93c5b359dbcb7f8",
+      "issueKey": "급발진",
+      "issueTitle": "급발진",
+      "trendTitle": "급발진",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "시속 100㎞ 주택가 돌진 70대 택시기사, 1명 사망 비극…‘급발진 무죄’ 호소, 결말은? [세상&]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731064708976",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'관악구 연쇄 추돌' 택시운전사 2심서 금고형→금고형 집유로 감형",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260731_0003731000",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'신림 연쇄 추돌사고' 택시기사, 2심서 집행유예 감형",
+          "source": "서울뉴스통신",
+          "url": "http://www.snakorea.com/news/articleView.html?idxno=1040362",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "시속 100㎞ 주택가 돌진 70대 택시기사, 1명 사망 비극…‘급발진 무죄’ 호소, 결말은? [세상&]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731064708976",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "급발진",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260731064708976"
+    },
+    {
+      "id": "135c3e8b45c2764a",
+      "issueKey": "설영우",
+      "issueTitle": "설영우",
+      "trendTitle": "설영우",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"대표팀에서 자진 하차해라\" 비판에 고소 선언한 설영우, 소속팀에서는 핵심 선수로 분류 \"빠지면 가장 티가 난다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731100307588",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "설영우, UCL 예선서 1호 도움…팀은 5-0 승",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260730232450aDZ",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "설영우, 시즌 1호 도움‥즈베즈다 챔스리그 3차 예선 진출",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6841128_36946.html",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"대표팀에서 자진 하차해라\" 비판에 고소 선언한 설영우, 소속팀에서는 핵심 선수로 분류 \"빠지면 가장 티가 난다\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731100307588",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "설영우",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260731100307588"
+    },
+    {
       "id": "2c22386a3a1d34c8",
       "issueKey": "최태원",
       "issueTitle": "최태원",
@@ -1811,52 +1903,6 @@
       "url": "https://www.khan.co.kr/article/202607291557001"
     },
     {
-      "id": "0736b47a9a9250f2",
-      "issueKey": "여에스더",
-      "issueTitle": "여에스더",
-      "trendTitle": "여에스더",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "여에스더, 건강 상태에 우려… 의사 \"정말 심각한 것\"",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026072907510001766",
-          "publishedAt": "2026-07-29T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘우울증 고백’ 여에스더, 더 심각한 문제 생겼나 “정신과 약으로 모든 걸 못 고쳐”(동상이몽2)[Oh!쎈 예고]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260728151402159",
-          "publishedAt": "2026-07-29T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여에스더, 함익병 진단에 굳은 표정…“정말 심각하다” (동상이몽2)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260729084337763",
-          "publishedAt": "2026-07-29T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여에스더, 건강 상태에 우려… 의사 \"정말 심각한 것\"",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026072907510001766",
-        "publishedAt": "2026-07-29T04:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-29T04:20:00.000Z",
-      "firstSeenAt": "2026-07-29T05:52:09.988Z",
-      "lastSeenAt": "2026-07-29T05:52:09.988Z",
-      "title": "여에스더",
-      "source": "한국일보",
-      "url": "https://www.hankookilbo.com/news/article/A2026072907510001766"
-    },
-    {
       "id": "d386ccd86be1a174",
       "issueKey": "대한민국 법무부",
       "issueTitle": "대한민국 법무부",
@@ -1908,6 +1954,144 @@
       "title": "대한민국 법무부",
       "source": "재외동포신문",
       "url": "http://www.dongponews.net/news/articleView.html?idxno=59563"
+    },
+    {
+      "id": "df41e3c695ae7565",
+      "issueKey": "티파니",
+      "issueTitle": "티파니",
+      "trendTitle": "티파니",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "티파니 영, 공연 2주 앞두고 출연 취소…주최 측 내부 사정→기다린 팬들 '울상'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731102616624",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'변요한♥' 티파니 영, 안타까운 소식 전했다..'페스티벌' 2주 앞두고 돌연 취소 [공식]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/07/31/HE3WKMBUGRSGEMBXGE3TSNRTMI/",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "티파니 영 이어 B1A4도 '러브 앤 피스 페스티벌' 출연 취소(종합)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260730n36925",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "티파니 영, 공연 2주 앞두고 출연 취소…주최 측 내부 사정→기다린 팬들 '울상'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260731102616624",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "티파니",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260731102616624"
+    },
+    {
+      "id": "196ba51dc6297cea",
+      "issueKey": "윤석열",
+      "issueTitle": "윤석열",
+      "trendTitle": "박지원",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박지원 “수사권 박탈된 검사들, 윤석열·한동훈을 원망하라”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1270848.html",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "절감한 ‘무소속의 벽’…한동훈 ‘필리버스터 데뷔’ 사실상 무산",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731150209345",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "與김용민 \"공소기각, 李 재판에 이론적 적용 가능…이 조항 없어도 적용\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/07/31/R55D54ZICVBIHIPACOIAXYHZOM/",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박지원 “수사권 박탈된 검사들, 윤석열·한동훈을 원망하라”",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1270848.html",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "윤석열",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1270848.html"
+    },
+    {
+      "id": "f9c54d0fc27f92d9",
+      "issueKey": "당구",
+      "issueTitle": "당구",
+      "trendTitle": "당구",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'의문의 당구인' 해커, 드디어 18살 제자와 격돌 \"요즘은 내가 더 앞선다\"는 김영원에 \"더 알려주겠다\" 맞불",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/KCqQ1srNrh",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'초신성' 김영원, 은사 해커와 PBA 32강서 첫 대결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260731027700007",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘초신성’ 김영원, 32강서 ‘당구 인플루언서’ 해커 만났다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10826505",
+          "publishedAt": "2026-07-31T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'의문의 당구인' 해커, 드디어 18살 제자와 격돌 \"요즘은 내가 더 앞선다\"는 김영원에 \"더 알려주겠다\" 맞불",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/KCqQ1srNrh",
+        "publishedAt": "2026-07-31T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-07-31T05:10:00.000Z",
+      "firstSeenAt": "2026-07-31T06:13:42.595Z",
+      "lastSeenAt": "2026-07-31T06:13:42.595Z",
+      "title": "당구",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/KCqQ1srNrh"
     },
     {
       "id": "c94d3fc8a9a53a94",
@@ -2230,190 +2414,6 @@
       "title": "송혜교",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260730_0003729141"
-    },
-    {
-      "id": "e42a326315c5e436",
-      "issueKey": "민주당 전당대회",
-      "issueTitle": "민주당 전당대회",
-      "trendTitle": "민주당 전당대회",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "與 당대표 지지율, 정청래-김민석 오차범위내 초박빙 접전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260731043522633",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[뷰리핑] 민주당 전대 여론조사 ‘초박빙’",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1270812.html",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여 대표 정청래 36.9%, 김민석 28.0%···국힘 지지층 정청래 38.7%, 김민석 10.1%",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202607301056001",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "민주당 전당대회",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260731043522633",
-        "publishedAt": "2026-07-31T00:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T00:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "민주당 전당대회",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260731043522633"
-    },
-    {
-      "id": "1d081d7ab7ce87c3",
-      "issueKey": "상한가",
-      "issueTitle": "상한가",
-      "trendTitle": "상한가",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보]마소가 AI랠리 살렸다…SK하닉ADR 17% 급등, 뉴욕증시 강세 마감",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606230",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "뉴욕증시, 반도체주 반등에 강세 마감…하이닉스ADR 18%↑(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731008251072",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "반등한 반도체, 활짝 웃은 뉴욕 증시...나스닥 2.8%↑",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/07/31/YLSHN55VIZANFHEWSKHQHEFZOM/",
-          "publishedAt": "2026-07-31T00:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "상한가",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11606230",
-        "publishedAt": "2026-07-31T00:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T00:40:00.000Z",
-      "firstSeenAt": "2026-07-31T02:49:56.342Z",
-      "lastSeenAt": "2026-07-31T02:49:56.342Z",
-      "title": "상한가",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11606230"
-    },
-    {
-      "id": "b2eb13c61b299154",
-      "issueKey": "gpt 5 6",
-      "issueTitle": "gpt-5.6",
-      "trendTitle": "gpt-5.6",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Advancing the price-performance frontier with GPT-5.6",
-          "source": "OpenAI",
-          "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-          "publishedAt": "2026-07-30T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "OpenAI cuts prices for two of its GPT-5.6 AI models as companies grow sensitive to costs",
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/07/30/open-ai-price-cut-gpt.html",
-          "publishedAt": "2026-07-30T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "OpenAI slashes Luna pricing",
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/07/30/openai-cuts-prices-gpt-terra-luna5",
-          "publishedAt": "2026-07-30T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Advancing the price-performance frontier with GPT-5.6",
-        "source": "OpenAI",
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
-        "publishedAt": "2026-07-30T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-30T21:00:00.000Z",
-      "firstSeenAt": "2026-07-30T22:05:10.054Z",
-      "lastSeenAt": "2026-07-30T22:05:10.054Z",
-      "title": "gpt-5.6",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/"
-    },
-    {
-      "id": "61dea3dcc7987dae",
-      "issueKey": "법원",
-      "issueTitle": "법원",
-      "trendTitle": "법원",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "법원, ‘민주당 전대 선호투표제’ 효력정지 가처분 기각",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260730/134398400/1",
-          "publishedAt": "2026-07-30T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "당원들도 걱정하는 ‘그들만의 리그’ 룰 결정 잡음에 네거티브 공격 일색",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260730193137091",
-          "publishedAt": "2026-07-30T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "법원, '민주당 선호투표제' 효력정지 가처분 기각",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260730_0003730644",
-          "publishedAt": "2026-07-30T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "법원, ‘민주당 전대 선호투표제’ 효력정지 가처분 기각",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260730/134398400/1",
-        "publishedAt": "2026-07-30T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-30T21:00:00.000Z",
-      "firstSeenAt": "2026-07-30T22:05:10.054Z",
-      "lastSeenAt": "2026-07-30T22:05:10.054Z",
-      "title": "법원",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Politics/article/all/20260730/134398400/1"
     }
   ]
 }
