@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-02T13:20:55.505Z",
+  "lastUpdatedAt": "2026-08-02T16:00:15.067Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "1c5bef5a90dd0b86",
-      "issueKey": "해안 침투",
-      "issueTitle": "해안 침투",
-      "trendTitle": "해안 침투",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "美법무부, ‘네이비실 北 해안 침투·민간인 사살’ 보도 기자에 소환장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802152609497",
-          "publishedAt": "2026-08-02T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "트럼프, ‘북한 비밀작전’ 보도 기자에 소환장 발부···취재원 공개 압박",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608021720001",
-          "publishedAt": "2026-08-02T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "美법무부 '네이비실 北침투 실패' 보도한 NYT 기자 소환장",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802016800009",
-          "publishedAt": "2026-08-02T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "美법무부, ‘네이비실 北 해안 침투·민간인 사살’ 보도 기자에 소환장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802152609497",
-        "publishedAt": "2026-08-02T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T12:10:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "해안 침투",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260802152609497",
-      "rank": 1
-    },
-    {
-      "id": "fddfb1d4f74de621",
-      "issueKey": "미군",
-      "issueTitle": "미군",
-      "trendTitle": "미군",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "주한미군, 무인기 비행 승인 ‘통상절차’ 안 밟았나…한·미 군사훈련 중 ‘두루미’ 발령, 무슨 일이",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608021721001",
-          "publishedAt": "2026-08-02T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "靑, 파주 무인기 발견 논란에 \"사전 인지된 사안\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260801065000Iuj",
-          "publishedAt": "2026-08-02T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "국민의힘 “동맹국 무인기도 구분 못해…안보 참사”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6iTMo2KpWH",
-          "publishedAt": "2026-08-02T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "주한미군, 무인기 비행 승인 ‘통상절차’ 안 밟았나…한·미 군사훈련 중 ‘두루미’ 발령, 무슨 일이",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608021721001",
-        "publishedAt": "2026-08-02T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T11:40:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "미군",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608021721001",
-      "rank": 2
-    },
-    {
-      "id": "f520b63a93dcb69d",
-      "issueKey": "조한선",
-      "issueTitle": "조한선",
-      "trendTitle": "조한선",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이동욱 “다시 만난 정진만, 기뻤죠…액션 비결은 반복연습뿐”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802152809528",
-          "publishedAt": "2026-08-02T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "현리, '이사통' 이어 '킬러들의 쇼핑몰2'서 강렬 눈도장",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080108307276840",
-          "publishedAt": "2026-08-02T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이동욱에게서 '킬쇼2' 정진만이 보인다 [인터뷰]",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026072910280001195",
-          "publishedAt": "2026-08-02T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "조한선",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802152809528",
-        "publishedAt": "2026-08-02T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T11:40:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "조한선",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260802152809528",
-      "rank": 3
-    },
-    {
-      "id": "4c2fd6f7d1709f80",
-      "issueKey": "월명공원",
-      "issueTitle": "월명공원",
-      "trendTitle": "월명공원",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "장기미집행 ‘청주 월명공원’ 58년 만에 시민 품으로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802133815019",
-          "publishedAt": "2026-08-02T11:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "청주 월명공원 준공…58년 만에 시민 품으로",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731059000064",
-          "publishedAt": "2026-08-02T11:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'장기 미집행' 청주 월명공원, 시민 휴식공간 재탄생",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6556753",
-          "publishedAt": "2026-08-02T11:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "장기미집행 ‘청주 월명공원’ 58년 만에 시민 품으로",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802133815019",
-        "publishedAt": "2026-08-02T11:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T11:10:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "월명공원",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260802133815019",
-      "rank": 4
-    },
-    {
-      "id": "b496d23825510ede",
-      "issueKey": "시내버스",
-      "issueTitle": "시내버스",
-      "trendTitle": "시내버스",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "2030년까지 BRT 노선 38개 구축…전용 주행로 2배 확대",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148969010",
-          "publishedAt": "2026-08-02T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "광주 시내버스 9년만에 전면개편…103→118개로 노선 늘린다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260731167200054",
-          "publishedAt": "2026-08-02T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[뭐라노] 부산·경남 8곳 등 지방 BRT에 국비 4000억 투입",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/contents/newsbody.asp?code=0300&amp;clss_cd=320500&amp;key=20260730.99099008908",
-          "publishedAt": "2026-08-02T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "광주 시내버스 9년만에 전면개편…103→118개로 노선 늘린다",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260731167200054",
-        "publishedAt": "2026-08-02T10:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-02T10:50:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "시내버스",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260731167200054",
-      "rank": 5
-    },
-    {
-      "id": "c9c2cf37dbcc2d1c",
-      "issueKey": "산악인",
-      "issueTitle": "산악인",
-      "trendTitle": "산악인",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘히말라야 14좌 최단 완등’ 산악인 눈사태에 숨져…“최고의 등반가 잃었다”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/international_general/1271022.html",
-          "publishedAt": "2026-08-02T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘14좌 정복’ 네팔 등반가 푸르자, 눈사태로 사망…英특수부대 용병 출신",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260802/134406679/1",
-          "publishedAt": "2026-08-02T10:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"최고 등반가 잃었다\"…네팔 용병부대 출신 산악인 사망에 애도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802023600104",
-          "publishedAt": "2026-08-02T10:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘히말라야 14좌 최단 완등’ 산악인 눈사태에 숨져…“최고의 등반가 잃었다”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/international/international_general/1271022.html",
-        "publishedAt": "2026-08-02T10:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T10:40:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "산악인",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/international/international_general/1271022.html",
-      "rank": 6
-    },
-    {
-      "id": "8729925d831526c6",
-      "issueKey": "데이비슨",
-      "issueTitle": "데이비슨",
-      "trendTitle": "데이비슨",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "데이비슨·김웅빈 '쾅쾅'…꼴찌 키움, 9위 SSG에 설욕",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802172956651",
-          "publishedAt": "2026-08-02T10:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[2일 프리뷰] ‘위닝시리즈 걸렸다’ 전준표, 시즌 첫 승 도전",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112850990",
-          "publishedAt": "2026-08-02T10:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[AI프리뷰] 2일 고척 키움-SSG전, SSG 아빌라 4경기 연속 QS 기록할까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260802000004",
-          "publishedAt": "2026-08-02T10:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "데이비슨·김웅빈 '쾅쾅'…꼴찌 키움, 9위 SSG에 설욕",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802172956651",
-        "publishedAt": "2026-08-02T10:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T10:30:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "데이비슨",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260802172956651",
-      "rank": 7
-    },
-    {
-      "id": "ffd3bb1b019cf849",
-      "issueKey": "맥도날드",
-      "issueTitle": "맥도날드",
-      "trendTitle": "맥도날드",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260801050900030",
-          "publishedAt": "2026-08-02T10:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "기업과 지역의 맞손…충주 옥수수, 햄버거와 만났다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/reporterView.do?newsId=148969111",
-          "publishedAt": "2026-08-02T10:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "100만개 팔린 맥날 버거 조기 판매 중단…충주 찰옥수수버거 “돌이 씹혀”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/economy_general/1270996.html",
-          "publishedAt": "2026-08-02T10:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "맥도날드 충주찰옥수수버거, '돌 씹힌다' 민원에 판매 조기 종료",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260801050900030",
-        "publishedAt": "2026-08-02T10:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T10:20:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "맥도날드",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260801050900030",
-      "rank": 8
-    },
-    {
-      "id": "136a75728daf5fa8",
-      "issueKey": "김채현",
-      "issueTitle": "김채현",
-      "trendTitle": "김채현",
+      "id": "847c63884e1925d9",
+      "issueKey": "잠실대교",
+      "issueTitle": "잠실대교",
+      "trendTitle": "잠실대교",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[사진] 케플러(Kep1er) 김채현, 깜찍한 시구",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112851208",
-          "publishedAt": "2026-08-02T10:10:00.000Z",
+          "title": "한강서 수영하다 수문에 빨려 들어간 30대...20분 만에 심정지 상태로 구조",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260802580286",
+          "publishedAt": "2026-08-02T14:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "롯데칠성, '펩시 엑스트라 피즈' 홍보",
-          "source": "보건신문",
-          "url": "http://www.bokuennews.com/m/m_article.html?no=282098",
-          "publishedAt": "2026-08-02T10:10:00.000Z",
+          "title": "잠실대교 수문으로 빨려 들어간 30대…심정지 상태로 구조",
+          "source": "주간조선",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=53976",
+          "publishedAt": "2026-08-02T14:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[식음료 Pick] 신제품부터 사회공헌 통해 소비자 공략",
-          "source": "라이센스뉴스",
-          "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=205774",
-          "publishedAt": "2026-08-02T10:10:00.000Z",
+          "title": "한강 잠실대교서 수영하던 30대 남성 수문으로 빨려들어가 심정지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/1eduDRe477?f=p",
+          "publishedAt": "2026-08-02T14:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[사진] 케플러(Kep1er) 김채현, 깜찍한 시구",
-        "source": "OSEN",
-        "url": "http://www.osen.co.kr/article/G1112851208",
-        "publishedAt": "2026-08-02T10:10:00.000Z",
+        "title": "잠실대교 수문으로 빨려 들어간 30대…심정지 상태로 구조",
+        "source": "주간조선",
+        "url": "https://weekly.chosun.com/news/articleView.html?idxno=53976",
+        "publishedAt": "2026-08-02T14:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-02T14:40:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "잠실대교",
+      "source": "주간조선",
+      "url": "https://weekly.chosun.com/news/articleView.html?idxno=53976",
+      "rank": 1
+    },
+    {
+      "id": "eb1969b25ae01ddb",
+      "issueKey": "박기량",
+      "issueTitle": "박기량",
+      "trendTitle": "박기량",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260802n14647",
+          "publishedAt": "2026-08-02T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“변함없이 그 자리에”...두치 박기량, 응원 진심 “멋져부러!” [SS리플레이]",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1625932",
+          "publishedAt": "2026-08-02T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "박기량 치어리더 ‘변함없는 미모’[포토]",
+          "source": "www.xportsnews.com",
+          "url": "https://www.xportsnews.com/article/2179434",
+          "publishedAt": "2026-08-02T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박기량 치어리더 '두플래쉬에 래쉬가드 입고'[포토]",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260802n14647",
+        "publishedAt": "2026-08-02T14:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-02T10:10:00.000Z",
-      "firstSeenAt": "2026-08-02T13:20:55.505Z",
-      "lastSeenAt": "2026-08-02T13:20:55.505Z",
-      "title": "김채현",
-      "source": "OSEN",
-      "url": "http://www.osen.co.kr/article/G1112851208",
+      "publishedAt": "2026-08-02T14:40:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "박기량",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260802n14647",
+      "rank": 2
+    },
+    {
+      "id": "3fed170914943641",
+      "issueKey": "우주청",
+      "issueTitle": "우주청",
+      "trendTitle": "우주청",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "유럽은 달 탐사 임무에서 미국과 협력하기를 원한다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/chau-au-muon-la-doi-tac-dong-hanh-voi-my-trong-su-menh-mat-trang",
+          "publishedAt": "2026-08-02T14:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "지진파로 달의 지하 얼음 찾는다",
+          "source": "자유일보",
+          "url": "https://www.jayupress.com/news/articleView.html?idxno=53142",
+          "publishedAt": "2026-08-02T14:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "우주청·NASA, 달 기지 건설 맞손…공동참여의향서 체결",
+          "source": "뉴시스",
+          "url": "https://nwww.newsis.com/view/NISX20260730_0003729287",
+          "publishedAt": "2026-08-02T14:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "우주청·NASA, 달 기지 건설 맞손…공동참여의향서 체결",
+        "source": "뉴시스",
+        "url": "https://nwww.newsis.com/view/NISX20260730_0003729287",
+        "publishedAt": "2026-08-02T14:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-08-02T14:20:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "우주청",
+      "source": "뉴시스",
+      "url": "https://nwww.newsis.com/view/NISX20260730_0003729287",
+      "rank": 3
+    },
+    {
+      "id": "11bfda86453800d1",
+      "issueKey": "아옳이",
+      "issueTitle": "아옳이",
+      "trendTitle": "서주원",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6246534",
+          "publishedAt": "2026-08-02T14:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "인플루언서 아옳이, ‘189cm 훈남 한의사’ 새 연인 알고 보니",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802160001046?f=p",
+          "publishedAt": "2026-08-02T14:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "아옳이, 커플 사진 공개…열애 상대는 한의사 김형배",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260801_0003732667",
+          "publishedAt": "2026-08-02T14:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아옳이, 이혼 4년만에 한의사 새 남친 김형배 공개…\"예쁘게 봐주세요\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6246534",
+        "publishedAt": "2026-08-02T14:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-02T14:10:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "아옳이",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6246534",
+      "rank": 4
+    },
+    {
+      "id": "9abcff492eb8cff2",
+      "issueKey": "lck",
+      "issueTitle": "lck",
+      "trendTitle": "lck",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we need to regroup\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24385/hanjin-brion-head-coach-kim-sang-soo-our-performance-was-poor-we-need-to-regroup",
+          "publishedAt": "2026-08-02T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/",
+          "publishedAt": "2026-08-02T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'Aiming' Kim Ha-ram to Start Against Hanjin Brion Immediately After KRX Trade",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24350/aiming-kim-ha-ram-to-start-against-hanjin-brion-immediately-after-krx-trade",
+          "publishedAt": "2026-08-02T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/",
+        "publishedAt": "2026-08-02T13:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-02T13:50:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "lck",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/",
+      "rank": 5
+    },
+    {
+      "id": "6b6bfcf10c2d2a57",
+      "issueKey": "앤드류 가필드",
+      "issueTitle": "앤드류 가필드",
+      "trendTitle": "앤드류 가필드",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Exclusive | How Andrew Garfield feels about successor Tom Holland’s Spider-Man portrayal",
+          "source": "Page Six",
+          "url": "https://pagesix.com/2026/07/30/celebrity-news/how-andrew-garfield-feels-about-successor-tom-hollands-spider-man-portrayal/",
+          "publishedAt": "2026-08-02T13:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Andrew Garfield’s Tom Holland Verdict Should End the Spider-Man Debate",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/movies/articles/andrew-garfield-tom-holland-verdict-150000651.html",
+          "publishedAt": "2026-08-02T13:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Andrew Garfield heaps praise on Tom Holland’s Spider-Man: ‘I love him’",
+          "source": "Minute Mirror",
+          "url": "https://minutemirror.com.pk/andrew-garfield-heaps-praise-on-tom-hollands-spider-man-i-love-him-602292/",
+          "publishedAt": "2026-08-02T13:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "앤드류 가필드",
+        "source": "Page Six",
+        "url": "https://pagesix.com/2026/07/30/celebrity-news/how-andrew-garfield-feels-about-successor-tom-hollands-spider-man-portrayal/",
+        "publishedAt": "2026-08-02T13:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-02T13:40:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "앤드류 가필드",
+      "source": "Page Six",
+      "url": "https://pagesix.com/2026/07/30/celebrity-news/how-andrew-garfield-feels-about-successor-tom-hollands-spider-man-portrayal/",
+      "rank": 6
+    },
+    {
+      "id": "be9e4f5c600feb8d",
+      "issueKey": "하락하나",
+      "issueTitle": "하락하나",
+      "trendTitle": "하락하나",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "마이크로스트래티지, 비트코인 미실현손실 83억 달러 반영…2분기 순손실 82억 달러 기록",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1132049",
+          "publishedAt": "2026-08-02T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Strategy 주가, 오늘 왜 하락하나?",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2039145",
+          "publishedAt": "2026-08-02T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "스트래티지 2분기 12조 순손실…우선주 배당 위해 비트코인 팔아",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731150900717",
+          "publishedAt": "2026-08-02T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Strategy 주가, 오늘 왜 하락하나?",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2039145",
+        "publishedAt": "2026-08-02T13:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-02T13:20:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "하락하나",
+      "source": "Investing.com 한국어",
+      "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2039145",
+      "rank": 7
+    },
+    {
+      "id": "4a3165d0249e1dae",
+      "issueKey": "재력",
+      "issueTitle": "재력",
+      "trendTitle": "재력",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802180137229",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "소지섭 바통 받은 안보현, 재력·액션",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080108007260455",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "정은채 눈빛 돌변, 이유는 금 때문?! (런닝맨)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260802n03138?mid=n1101",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "소지섭 바통 받은 안보현, 재력·액션",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080108007260455",
+        "publishedAt": "2026-08-02T13:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-02T13:10:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "재력",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080108007260455",
+      "rank": 8
+    },
+    {
+      "id": "e0d1c9c09d7ae7a8",
+      "issueKey": "박소현",
+      "issueTitle": "박소현",
+      "trendTitle": "박소현",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“실버타운 가면 받아주지도 않아” 양정아, 나이 공격하는 신봉선에 언짢♨",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480941624",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘55세’ 박소현, 父와 즉석밥 한 공기 나눠 먹는다…“라면에 계란도 못 풀어” (‘미우새’)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802231010475",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "47세 신봉선, 핑크빛 사심 고백에 허경환 묘한 분위기 ‘뭐야뭐야’ (미우새)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260731/134403362/1",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘55세’ 박소현, 父와 즉석밥 한 공기 나눠 먹는다…“라면에 계란도 못 풀어” (‘미우새’)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802231010475",
+        "publishedAt": "2026-08-02T13:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-02T13:10:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "박소현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260802231010475",
       "rank": 9
+    },
+    {
+      "id": "c7d1415833678a3c",
+      "issueKey": "제임스 네일",
+      "issueTitle": "제임스 네일",
+      "trendTitle": "제임스 네일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "KIA 선수들은 왜 텅 빈 경기장에 나왔을까… 네일은 맨발로 뛰었다, 운명의 15연전 기다린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802183137841",
+          "publishedAt": "2026-08-02T13:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "프로야구 창원 경기 2일 연속 폭염 취소‥부산은 30분 지연 시작",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6841836_36918.html",
+          "publishedAt": "2026-08-02T13:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "선수·관중을 지켜라!…'폭염과 전쟁'에 나선 프로스포츠 종목들",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260802035500007",
+          "publishedAt": "2026-08-02T13:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "제임스 네일",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802183137841",
+        "publishedAt": "2026-08-02T13:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "제임스 네일",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260802183137841",
+      "rank": 10
     }
   ],
   "history": [
@@ -760,52 +807,6 @@
       "url": "https://www.khan.co.kr/article/202608010816001"
     },
     {
-      "id": "0cb6f3af5663d7d5",
-      "issueKey": "미연",
-      "issueTitle": "미연",
-      "trendTitle": "미연",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "티파니 영, 첫 정규 트랙리스트 공개…아이들 미연 피처링",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/73RAezu5G2",
-          "publishedAt": "2026-07-31T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "티파니 영, 결혼 후 첫 앨범…후배 아이들 미연 피처링",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10826620",
-          "publishedAt": "2026-07-31T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "티파니 영, 첫 정규 'Edge Of Calm' 베일 벗었다…미연과 보컬 시너지 예고",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3651932",
-          "publishedAt": "2026-07-31T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "티파니 영, 첫 정규 트랙리스트 공개…아이들 미연 피처링",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/73RAezu5G2",
-        "publishedAt": "2026-07-31T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T12:30:00.000Z",
-      "firstSeenAt": "2026-07-31T14:06:37.708Z",
-      "lastSeenAt": "2026-07-31T14:06:37.708Z",
-      "title": "미연",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/73RAezu5G2"
-    },
-    {
       "id": "33efcc6020a2348a",
       "issueKey": "유해란",
       "issueTitle": "유해란",
@@ -1051,6 +1052,98 @@
       "title": "복도",
       "source": "네이트",
       "url": "https://news.nate.com/view/20260731n17224"
+    },
+    {
+      "id": "4a3165d0249e1dae",
+      "issueKey": "재력",
+      "issueTitle": "재력",
+      "trendTitle": "재력",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SBS 작정했다…최고 시청률 11% 흥행 신화→2년 만에 '도파민' 서사로 돌아오는 韓 드라마 ('재벌X형사2')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802180137229",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "소지섭 바통 받은 안보현, 재력·액션",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080108007260455",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "정은채 눈빛 돌변, 이유는 금 때문?! (런닝맨)",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260802n03138?mid=n1101",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "소지섭 바통 받은 안보현, 재력·액션",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080108007260455",
+        "publishedAt": "2026-08-02T13:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-02T13:10:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "재력",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/08/01/2026080108007260455"
+    },
+    {
+      "id": "e0d1c9c09d7ae7a8",
+      "issueKey": "박소현",
+      "issueTitle": "박소현",
+      "trendTitle": "박소현",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“실버타운 가면 받아주지도 않아” 양정아, 나이 공격하는 신봉선에 언짢♨",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC480941624",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘55세’ 박소현, 父와 즉석밥 한 공기 나눠 먹는다…“라면에 계란도 못 풀어” (‘미우새’)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802231010475",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "47세 신봉선, 핑크빛 사심 고백에 허경환 묘한 분위기 ‘뭐야뭐야’ (미우새)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260731/134403362/1",
+          "publishedAt": "2026-08-02T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘55세’ 박소현, 父와 즉석밥 한 공기 나눠 먹는다…“라면에 계란도 못 풀어” (‘미우새’)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802231010475",
+        "publishedAt": "2026-08-02T13:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-02T13:10:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "박소현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260802231010475"
     },
     {
       "id": "fddfb1d4f74de621",
@@ -1835,52 +1928,6 @@
       "url": "https://vnexpress.net/viet-nam-vs-singapore-5103811.html"
     },
     {
-      "id": "f96577be86fd1f57",
-      "issueKey": "송의영 선수",
-      "issueTitle": "송의영 선수",
-      "trendTitle": "송의영 선수",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "송의영 선수와 베트남 국가대표팀의 특별한 재회.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/song-ui-young-va-cuoc-tai-ngo-dac-biet-voi-tuyen-viet-nam",
-          "publishedAt": "2026-07-31T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "韓 ‘김상식 호’ 베트남 축구대표팀, 2026년 아세안컵 챔피언십 싱가포르전 준비 완료",
-          "source": "Thông tấn xã Việt Nam",
-          "url": "https://vietnam.vnanet.vn/korean/print/%E9%9F%93-%E2%80%98%E1%84%80%E1%85%B5%E1%86%B7%E1%84%89%E1%85%A1%E1%86%BC%E1%84%89%E1%85%B5%E1%86%A8-%E1%84%92%E1%85%A9-%E1%84%87%E1%85%A6%E1%84%90%E1%85%B3%E1%84%82%E1%85%A1%E1%86%B7-%E1%84%8E%E1%85%AE%E1%86%A8%E1%84%80%E1%85%AE%E1%84%83%E1%85%A2%E1%84%91%E1%85%AD%E1%84%90%E1%85%B5%E1%86%B7-2026%E1%84%82%E1%85%A7%E1%86%AB-%E1%84%8B%E1%85%A1%E1%84%89%E1%85%A6%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%8F%E1%85%A5%E1%86%B8-%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%89%E1%85%B5%E1%86%B8-%E1%84%89%E1%85%B5%E1%86%BC%E1%84%80%E1%85%A1%E1%84%91%E1%85%A9%E1%84%85%E1%85%B3%E1%84%8C%E1%85%A5%E1%86%AB-%E1%84%8C%E1%85%AE%E1%86%AB%E1%84%87%E1%85%B5-%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%85%E1%85%AD-459473.html",
-          "publishedAt": "2026-07-31T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김상식 감독과 미딘 경기장의 도전.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hlv-kim-sang-sik-va-thach-thuc-o-san-my-dinh",
-          "publishedAt": "2026-07-31T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "송의영 선수와 베트남 국가대표팀의 특별한 재회.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/song-ui-young-va-cuoc-tai-ngo-dac-biet-voi-tuyen-viet-nam",
-        "publishedAt": "2026-07-31T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-07-31T12:10:00.000Z",
-      "firstSeenAt": "2026-07-31T14:06:37.708Z",
-      "lastSeenAt": "2026-07-31T14:06:37.708Z",
-      "title": "송의영 선수",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/song-ui-young-va-cuoc-tai-ngo-dac-biet-voi-tuyen-viet-nam"
-    },
-    {
       "id": "abf19b4c04525b3f",
       "issueKey": "팔란티어",
       "issueTitle": "팔란티어",
@@ -1939,6 +1986,98 @@
       "title": "팔란티어",
       "source": "머니투데이",
       "url": "https://www.mt.co.kr/stock/2026/07/31/2026073116493843008"
+    },
+    {
+      "id": "9abcff492eb8cff2",
+      "issueKey": "lck",
+      "issueTitle": "lck",
+      "trendTitle": "lck",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we need to regroup\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24385/hanjin-brion-head-coach-kim-sang-soo-our-performance-was-poor-we-need-to-regroup",
+          "publishedAt": "2026-08-02T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
+          "source": "Crypto Briefing",
+          "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/",
+          "publishedAt": "2026-08-02T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'Aiming' Kim Ha-ram to Start Against Hanjin Brion Immediately After KRX Trade",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24350/aiming-kim-ha-ram-to-start-against-hanjin-brion-immediately-after-krx-trade",
+          "publishedAt": "2026-08-02T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
+        "source": "Crypto Briefing",
+        "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/",
+        "publishedAt": "2026-08-02T13:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-02T13:50:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "lck",
+      "source": "Crypto Briefing",
+      "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/"
+    },
+    {
+      "id": "c7d1415833678a3c",
+      "issueKey": "제임스 네일",
+      "issueTitle": "제임스 네일",
+      "trendTitle": "제임스 네일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "KIA 선수들은 왜 텅 빈 경기장에 나왔을까… 네일은 맨발로 뛰었다, 운명의 15연전 기다린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802183137841",
+          "publishedAt": "2026-08-02T13:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "프로야구 창원 경기 2일 연속 폭염 취소‥부산은 30분 지연 시작",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6841836_36918.html",
+          "publishedAt": "2026-08-02T13:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "선수·관중을 지켜라!…'폭염과 전쟁'에 나선 프로스포츠 종목들",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260802035500007",
+          "publishedAt": "2026-08-02T13:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "제임스 네일",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260802183137841",
+        "publishedAt": "2026-08-02T13:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-02T13:00:00.000Z",
+      "firstSeenAt": "2026-08-02T16:00:15.067Z",
+      "lastSeenAt": "2026-08-02T16:00:15.067Z",
+      "title": "제임스 네일",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260802183137841"
     },
     {
       "id": "f2f1df53bfd47d7d",
@@ -2261,98 +2400,6 @@
       "title": "지방 선거",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260801212129601"
-    },
-    {
-      "id": "5409629b01182c19",
-      "issueKey": "요소가 있을까",
-      "issueTitle": "요소가 있을까",
-      "trendTitle": "요소가 있을까",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "배터리 3사 다시 질주하나…시장 침체 뚫고 흑자전환 성공",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GvbvmdRfcK",
-          "publishedAt": "2026-08-01T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘캐즘’ 빠졌던 K배터리 3사, ESS 등 AI 수요 업고 흑자 전환",
-          "source": "동아비즈니스리뷰 | DBR",
-          "url": "https://dbr.donga.com/kfocus/view/article_no/3306",
-          "publishedAt": "2026-08-01T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "LG엔솔, 하반기 개선 요소가 있을까? [기업평판] By 알파경제 alphabiz",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2038855",
-          "publishedAt": "2026-08-01T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "LG엔솔, 하반기 개선 요소가 있을까? [기업평판] By 알파경제 alphabiz",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/stock-market-news/article-2038855",
-        "publishedAt": "2026-08-01T15:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-01T15:20:00.000Z",
-      "firstSeenAt": "2026-08-01T19:07:23.140Z",
-      "lastSeenAt": "2026-08-01T19:07:23.140Z",
-      "title": "요소가 있을까",
-      "source": "Investing.com 한국어",
-      "url": "https://kr.investing.com/news/stock-market-news/article-2038855"
-    },
-    {
-      "id": "94b794ec199f56b6",
-      "issueKey": "맨유",
-      "issueTitle": "맨유",
-      "trendTitle": "맨유",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "오른쪽 아닌 중앙에서도 통했다...음뵈모, ATM전 멀티골 \"명확한 계획이 있었다\"",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112850941",
-          "publishedAt": "2026-08-01T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'음뵈모 멀티골' 맨유, '이강인 합류 전' ATM에 2-1 역전승 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/08/02/MMZDIYJTGM3WKZDEMM3WIMLGGQ/",
-          "publishedAt": "2026-08-01T13:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[오피셜] 맨유 역대급 재능 나오나? '16세 유망주' JJ 가브리엘, ATM전 명단 포함…\"데뷔 가능성 크다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260801n05252",
-          "publishedAt": "2026-08-01T13:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'음뵈모 멀티골' 맨유, '이강인 합류 전' ATM에 2-1 역전승 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/football/2026/08/02/MMZDIYJTGM3WKZDEMM3WIMLGGQ/",
-        "publishedAt": "2026-08-01T13:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-01T13:10:00.000Z",
-      "firstSeenAt": "2026-08-01T19:07:23.140Z",
-      "lastSeenAt": "2026-08-01T19:07:23.140Z",
-      "title": "맨유",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/sports/football/2026/08/02/MMZDIYJTGM3WKZDEMM3WIMLGGQ/"
     }
   ]
 }
