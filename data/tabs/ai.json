@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-08-02T21:56:22.834Z",
-  "articleCount": 13,
+  "lastUpdatedAt": "2026-08-03T02:48:50.258Z",
+  "articleCount": 12,
   "articles": [
+    {
+      "id": "940fa787e10759ef",
+      "title": "데이터-명령 구분 불가한 AI의 한계, 워드 문서 보안 위기로",
+      "url": "https://www.itworld.co.kr/article/4204223/%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%aa%85%eb%a0%b9-%ea%b5%ac%eb%b6%84-%eb%b6%88%ea%b0%80%ed%95%9c-ai%ec%9d%98-%ed%95%9c%ea%b3%84-%ec%9b%8c%eb%93%9c-%eb%ac%b8%ec%84%9c-%eb%b3%b4%ec%95%88-%ec%9c%84.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-03T02:00:43.000Z",
+      "summary": "노르웨이의 한 AI 연구자가 화요일, 마이크로소프트 코파일럿을 매개체로 삼아 워드 문서를 통해 전파되는 ‘AI 웜’이 존재할 수 있다고 보고했다. 마이크로소프트가 이후 사실임을 확인한 하콘 몰뢰이 의 보고서 는, 공격자가 코파일럿이 생성하거나 편집하는 워드 문서의 원본 자료로 쓰일 문서에 악성 명령을 숨길 수 있다고 밝혔다. 예를 들어, 재무 보고서 작성 시 입력 자료로 활용되는 문서가...",
+      "tab": "ai"
+    },
     {
       "id": "d887c116e356df08",
       "title": "“오픈·효율·최신 기술, 3개 축으로 간다”…엔비디아 생성형 AI 부사장 인터뷰",
@@ -104,24 +113,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-07-23T01:57:46.000Z",
       "summary": "주요 AI 기업이 기업 고객 확보를 위해 현장 배치 엔지니어(FDE)를 대거 투입하고 있다. 대형 컨설팅 업체도 인간과 에이전트 컨설턴트를 동원해 같은 경쟁에 뛰어들었다. 소규모 전문 업체도 이 대열에 합류하고 있다. 뉴욕에 본사를 둔 자본시장 전문 기술 컨설팅 업체 28스톤 컨설팅(28Stone Consulting)은 직원 수 230명에 불과하지만, AI를 활용해 FDE 공급 경쟁에서...",
-      "tab": "ai"
-    },
-    {
-      "id": "12f1a593cc02cdd8",
-      "title": "OECD, 육체 노동직도 AI 자동화 위험군으로 경고",
-      "url": "https://www.itworld.co.kr/article/4200362/oecd-%ec%9c%a1%ec%b2%b4-%eb%85%b8%eb%8f%99%ec%a7%81%eb%8f%84-ai-%ec%9e%90%eb%8f%99%ed%99%94-%ec%9c%84%ed%97%98%ea%b5%b0%ec%9c%bc%eb%a1%9c-%ea%b2%bd%ea%b3%a0.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-23T01:23:03.000Z",
-      "summary": "경제협력개발기구(OECD)가 AI와 자동화 위험에서 안전하다고 여겨지던 산업군도 실제로는 그렇지 않을 수 있다고 밝혔다. 노동 시장 전반에서는 AI 관련 일자리 충격이 계속되고 있다. OECD는 최근 연구에서 AI 로봇 등 신기술이 확산되면서 육체 노동 직종이 자동화로 인한 일자리 충격에 크게 노출될 위험이 있다고 밝혔다. 건설·채굴, 농업, 어업, 임업, 생산, 물류 분야 종사자가 급...",
-      "tab": "ai"
-    },
-    {
-      "id": "b79e2f5bfe52ac90",
-      "title": "지침 완수를 위해 규칙을 스스로 깬 AI…오픈AI 미공개 모델, 샌드박스 해킹으로 자체 규칙 위반",
-      "url": "https://www.itworld.co.kr/article/4200314/%ec%a7%80%ec%b9%a8-%ec%99%84%ec%88%98%eb%a5%bc-%ec%9c%84%ed%95%b4-%ea%b7%9c%ec%b9%99%ec%9d%84-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ea%b9%ac-ai-%ec%98%a4%ed%94%88ai-%eb%af%b8%ea%b3%b5%ea%b0%9c-%eb%aa%a8.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-22T23:44:16.000Z",
-      "summary": "최신 고성능 AI 모델은 더 똑똑하고 유능해진 것은 물론, 장애물에 부딪혀도 쉽사리 포기하지 않는 경향도 강해졌다. 오픈AI의 미공개 모델은 내장된 가드레일과 충돌하는 지침을 완수하기 위해 샌드박스를 탈출하는 방식으로, 이 집요함을 극단적인 수준까지 밀어붙였다. 오픈AI는 이전 실습 과정에서 샌드박스를 이탈한 사실과 기타 ‘원치 않는 행동’ 사례를 다수 확인한 뒤 내부 익명 모델의 개발...",
       "tab": "ai"
     }
   ]
