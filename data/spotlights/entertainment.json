@@ -7,18 +7,159 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-04T16:50:24.107Z",
+  "lastUpdatedAt": "2026-08-04T19:36:48.333Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
+      "id": "72af18d282a86506",
+      "issueKey": "유가증권",
+      "issueTitle": "유가증권",
+      "trendTitle": "유가증권",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독]올해 코스피 사이드카 43회 중 25회, 삼전닉스 레버리지 출시 이후 발동",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260804/134418777/1",
+          "publishedAt": "2026-08-04T17:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "흔들리는 K증시, 연일 터지는 비상장치…사이드카, 서킷브레이커 뭐길래? [주린이 ABC]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1132904",
+          "publishedAt": "2026-08-04T17:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"지금이 세일\" 연이틀 매도 사이드카에 달려든 불개미…마통 6배 폭증",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/08/04/2026080415203499785",
+          "publishedAt": "2026-08-04T17:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "유가증권",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260804/134418777/1",
+        "publishedAt": "2026-08-04T17:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T17:10:00.000Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
+      "title": "유가증권",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Economy/article/all/20260804/134418777/1",
+      "rank": 1
+    },
+    {
+      "id": "9e9f8123891fae1c",
+      "issueKey": "대통령",
+      "issueTitle": "대통령",
+      "trendTitle": "휴가",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이 대통령, 오늘부터 업무보고 재개…외교 등 점검",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260804001300038",
+          "publishedAt": "2026-08-04T17:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이 대통령, 오늘 부처별 업무보고 마무리…외교부·국방부·법무부 등",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8628685",
+          "publishedAt": "2026-08-04T17:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[사설] 李, 3대 메가 속도전 주문…노동 유연화 없인 ‘그림의 떡’",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20075743",
+          "publishedAt": "2026-08-04T17:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이 대통령, 오늘부터 업무보고 재개…외교 등 점검",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260804001300038",
+        "publishedAt": "2026-08-04T17:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T17:10:00.000Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
+      "title": "대통령",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/MYH20260804001300038",
+      "rank": 2
+    },
+    {
+      "id": "a55a1960e49f89ab",
+      "issueKey": "토비 맥과이어",
+      "issueTitle": "토비 맥과이어",
+      "trendTitle": "토비 맥과이어",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "또 올해 최단 기록... ‘스파이더맨’ 개봉 7일 만에 400만 돌파",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/culture_general/2026/08/04/VLHUAAJ2JFBX3BHVRWSXGYHBSU/",
+          "publishedAt": "2026-08-04T16:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘Spider-Man: Brand New Day’, ‘Avengers: Endgame’ 제치고 역대 북미 최고 오프닝 기록",
+          "source": "Hypebeast.KR",
+          "url": "https://hypebeast.kr/2026/8/mcu-marvel-sony-pictures-tom-holland-spider-man-brand-new-day-surpasses-avengers-endgame-largest-domestic-opening-in-history",
+          "publishedAt": "2026-08-04T16:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘스파이더맨 4’ 일주일만에 400만 돌파…올해 두번째·시리즈 첫 천만 영화 되나",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20075732",
+          "publishedAt": "2026-08-04T16:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "토비 맥과이어",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/culture-life/culture_general/2026/08/04/VLHUAAJ2JFBX3BHVRWSXGYHBSU/",
+        "publishedAt": "2026-08-04T16:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T16:40:00.000Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
+      "title": "토비 맥과이어",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/culture-life/culture_general/2026/08/04/VLHUAAJ2JFBX3BHVRWSXGYHBSU/",
+      "rank": 3
+    },
+    {
       "id": "4e7d994ada0e4038",
       "issueKey": "양희은",
       "issueTitle": "양희은",
       "trendTitle": "양희은",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -30,16 +171,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "양희은, 지팡이 짚고 외출한 근황‥최측근 이성미X박미선과 보낸 생일",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202608041708272510&amp;code=100100",
+          "title": "지팡이 짚고 활짝…'73세' 女배우, 이성미→박미선과 생일 모임 만났다 [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804230056217",
           "publishedAt": "2026-08-04T15:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "양희은, 각막이식 후 밝은 미소… 김신영 만나 “생이 최초로 덕질” [IS하이컷]",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202607280031",
+          "title": "'74세' 양희은, 지팡이 짚고 환한 미소…이성미·박미선 만났다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260804n28993?mid=e1100",
           "publishedAt": "2026-08-04T15:40:00.000Z",
           "relevanceScore": 1
         }
@@ -52,20 +193,67 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-04T15:40:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
       "title": "양희은",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260804_0003736317",
-      "rank": 1
+      "rank": 4
+    },
+    {
+      "id": "7ecd93cd424c9eb2",
+      "issueKey": "돼지",
+      "issueTitle": "돼지",
+      "trendTitle": "돼지",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이마트 돼지고기 가격, 갑자기 떨어진 이유 있었다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260804/134419127/1",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "입찰가 가리자 열린 단톡방‥\"삼겹살 1만 8천 원 하시죠\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6842325_36932.html",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"돼지고깃값 20% 올렸다\"…1.2조원 담합 도드람 등 업체들 기소(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804059451004",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이마트 돼지고기 가격, 갑자기 떨어진 이유 있었다",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260804/134419127/1",
+        "publishedAt": "2026-08-04T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T15:20:00.000Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
+      "title": "돼지",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Society/article/all/20260804/134419127/1",
+      "rank": 5
     },
     {
       "id": "22fd4f17d77fa406",
       "issueKey": "감염",
       "issueTitle": "감염",
       "trendTitle": "감염",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -77,9 +265,9 @@
           "relevanceScore": 3
         },
         {
-          "title": "\"양상추 때문?\" 美 덮친 기생충 감염에 2명 사망‥환자 2만 명 육박",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6842374_36925.html",
+          "title": "양상추 먹었다가 2명 사망, 193명 입원…미국서 확산한 '감염증' 비상",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/04/2026080413022944643",
           "publishedAt": "2026-08-04T15:20:00.000Z",
           "relevanceScore": 2
         },
@@ -99,12 +287,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-04T15:20:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
       "title": "감염",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260804052354707",
-      "rank": 2
+      "rank": 6
     },
     {
       "id": "ae410e99f4c48b88",
@@ -117,41 +305,41 @@
       "articleCount": 3,
       "relatedArticles": [
         {
+          "title": "[르포]\"폰 꺼지게 하는 더위에 소들도 비쩍 말라\"…122년 만의 韓 최고기온 '양프리카' 43.3도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804111150228",
+          "publishedAt": "2026-08-04T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
           "title": "40도 폭염, 수도권까지 확산‥'2018년 재현' 넘어 '여름철 일상'될까?",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842394_37004.html",
           "publishedAt": "2026-08-04T15:00:00.000Z",
-          "relevanceScore": 3
+          "relevanceScore": 2
         },
         {
           "title": "부·울·경 무더위·열대야 계속…경남 서부 내륙 오후 소나기",
           "source": "연합뉴스",
           "url": "https://www.yna.co.kr/view/AKR20260804008000052",
           "publishedAt": "2026-08-04T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[단독] “양산, 공식 기록만큼 덥지 않다”… 양산시, 기상청에 관측장비 이동 요청",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804153454296",
-          "publishedAt": "2026-08-04T15:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[단독] “양산, 공식 기록만큼 덥지 않다”… 양산시, 기상청에 관측장비 이동 요청",
+        "title": "양산시",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260804153454296",
+        "url": "https://v.daum.net/v/20260804111150228",
         "publishedAt": "2026-08-04T15:00:00.000Z",
-        "relevanceScore": 1
+        "relevanceScore": 3
       },
       "publishedAt": "2026-08-04T15:00:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
       "title": "양산시",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260804153454296",
-      "rank": 3
+      "url": "https://v.daum.net/v/20260804111150228",
+      "rank": 7
     },
     {
       "id": "025fcf75b3d3a2ad",
@@ -171,16 +359,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "갤럭시 Z8 시리즈, 사전 판매 144만대 신기록",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/08/05/GS6LHDWP2NFXRAEKQHT6PMPGSA/",
+          "title": "갤럭시Z8 사전예약자 절반 이상 '폴드8' 찜했다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260804093625",
           "publishedAt": "2026-08-04T14:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "아이폰 세대도 홀렸다…갤Z폴드8, 역대 최다 판매에 '한달 대기'(종합)",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/it-science/mobile/6248510",
+          "title": "삼성전자 폴더블폰, 바형 S시리즈 기록 넘었다…폴더블폰 대중화 시대 활짝",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370953",
           "publishedAt": "2026-08-04T14:30:00.000Z",
           "relevanceScore": 1
         }
@@ -193,12 +381,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-04T14:30:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
       "title": "참신하긴 한데",
       "source": "경향신문",
       "url": "https://www.khan.co.kr/article/202608041700001",
-      "rank": 4
+      "rank": 8
     },
     {
       "id": "b2697a5953e2ec06",
@@ -211,16 +399,16 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "오은영, 몰라보게 날씬해진 모습…고소영도 깜짝 [마데핫리뷰]",
+          "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804203150662",
+          "url": "https://v.daum.net/v/79N7GOIkmU",
           "publishedAt": "2026-08-04T14:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘고소영♥’ 장동건, ‘얼굴 퉁퉁’ 시술 의혹 끝…카메라+각도 문제였네",
+          "title": "고소영, 장동건과 다정한 투샷 공개…달라진 얼굴 의혹 잠재웠다",
           "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260804/134421304/1",
+          "url": "https://sports.donga.com/ent/article/all/20260804/134422081/1",
           "publishedAt": "2026-08-04T14:20:00.000Z",
           "relevanceScore": 2
         },
@@ -233,19 +421,19 @@
         }
       ],
       "representativeArticle": {
-        "title": "‘고소영♥’ 장동건, ‘얼굴 퉁퉁’ 시술 의혹 끝…카메라+각도 문제였네",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260804/134421304/1",
+        "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/79N7GOIkmU",
         "publishedAt": "2026-08-04T14:20:00.000Z",
-        "relevanceScore": 2
+        "relevanceScore": 3
       },
       "publishedAt": "2026-08-04T14:20:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
       "title": "장동건",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260804/134421304/1",
-      "rank": 5
+      "source": "Daum",
+      "url": "https://v.daum.net/v/79N7GOIkmU",
+      "rank": 9
     },
     {
       "id": "bf16a157cbbbc304",
@@ -287,199 +475,11 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-04T14:20:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
       "title": "이윤지",
       "source": "Daum",
       "url": "https://v.daum.net/v/zhVb3AcnoB",
-      "rank": 6
-    },
-    {
-      "id": "71d93c412eb3a7ca",
-      "issueKey": "삼전닉스 주가",
-      "issueTitle": "삼전닉스 주가",
-      "trendTitle": "삼전닉스 주가",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "자강불식(自强不息)/A7",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2610561",
-          "publishedAt": "2026-08-04T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"삼전닉스 또 8% 급락했는데\"…폭등도 폭락도 비켜간 '목표가'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804063041593",
-          "publishedAt": "2026-08-04T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막 수준",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260801014400008",
-          "publishedAt": "2026-08-04T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "20% 넘는 폭등에도…삼전닉스 주가, 목표가의 반토막 수준",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260801014400008",
-        "publishedAt": "2026-08-04T14:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-04T14:10:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
-      "title": "삼전닉스 주가",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260801014400008",
-      "rank": 7
-    },
-    {
-      "id": "62c23ad213731016",
-      "issueKey": "투신",
-      "issueTitle": "투신",
-      "trendTitle": "투신",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "인천대교서 투신 사고 잇따라…11일 동안 3건 발생",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804101552093",
-          "publishedAt": "2026-08-04T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[속보] 인천대교 송도방향 교통사고 발생…전면 통제",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2610669",
-          "publishedAt": "2026-08-04T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "인천대교, 추락 사고 잇따라···안전난간 설치 시급",
-          "source": "전국매일신문",
-          "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1280730",
-          "publishedAt": "2026-08-04T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "인천대교서 투신 사고 잇따라…11일 동안 3건 발생",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804101552093",
-        "publishedAt": "2026-08-04T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T14:10:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
-      "title": "투신",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260804101552093",
-      "rank": 8
-    },
-    {
-      "id": "3cb2c44c3b680b22",
-      "issueKey": "비행기",
-      "issueTitle": "비행기",
-      "trendTitle": "비행기",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[이원주의 하늘속談]비행기도 ‘하이브리드’ 있습니다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260804/134421408/2",
-          "publishedAt": "2026-08-04T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[김창덕의 미래항공교통] 쏟아지는 '수직이착륙기', 한국형 도심항공교통은 무엇을 검증할 것인가",
-          "source": "오피니언뉴스",
-          "url": "https://www.opinionnews.co.kr/news/articleView.html?idxno=142295",
-          "publishedAt": "2026-08-04T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "글로벌 eVTOL 항공기 시장 규모 상위 20개 기업",
-          "source": "Spherical Insights",
-          "url": "https://www.sphericalinsights.com/ko/blogs/top-20-companies-in-global-evtol-aircraft-market-2026-2035-expert-view-by-spherical-insights",
-          "publishedAt": "2026-08-04T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[이원주의 하늘속談]비행기도 ‘하이브리드’ 있습니다",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Opinion/article/all/20260804/134421408/2",
-        "publishedAt": "2026-08-04T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T13:50:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
-      "title": "비행기",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Opinion/article/all/20260804/134421408/2",
-      "rank": 9
-    },
-    {
-      "id": "8d9250bf44fde93b",
-      "issueKey": "셀트리온",
-      "issueTitle": "셀트리온",
-      "trendTitle": "셀트리온",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "셀트리온제약, 2분기 영업이익 193억원…\"분기 최대 실적\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804190027481",
-          "publishedAt": "2026-08-04T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "셀트리온제약, 케미컬·바이오 양 날개…2분기 영업익 24%↑",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=346816",
-          "publishedAt": "2026-08-04T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "셀트리온제약, 2분기 영업익 193억원… 전년比 24.4% 증가",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092167287",
-          "publishedAt": "2026-08-04T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "셀트리온제약, 2분기 영업이익 193억원…\"분기 최대 실적\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804190027481",
-        "publishedAt": "2026-08-04T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T13:40:00.000Z",
-      "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
-      "title": "셀트리온",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260804190027481",
       "rank": 10
     }
   ],
@@ -630,7 +630,7 @@
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "relatedArticles": [
         {
           "title": "오은영, 몰라보게 날씬해진 모습…고소영도 깜짝 [마데핫리뷰]",
@@ -638,6 +638,20 @@
           "url": "https://v.daum.net/v/20260804203150662",
           "publishedAt": "2026-08-04T14:20:00.000Z",
           "relevanceScore": 3
+        },
+        {
+          "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/79N7GOIkmU",
+          "publishedAt": "2026-08-04T14:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고소영, 장동건과 다정한 투샷 공개…달라진 얼굴 의혹 잠재웠다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260804/134422081/1",
+          "publishedAt": "2026-08-04T14:20:00.000Z",
+          "relevanceScore": 2
         },
         {
           "title": "‘고소영♥’ 장동건, ‘얼굴 퉁퉁’ 시술 의혹 끝…카메라+각도 문제였네",
@@ -655,18 +669,18 @@
         }
       ],
       "representativeArticle": {
-        "title": "‘고소영♥’ 장동건, ‘얼굴 퉁퉁’ 시술 의혹 끝…카메라+각도 문제였네",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260804/134421304/1",
+        "title": "장동건, 볼 빵빵 '얼굴 시술' 의혹 종결…여전히 조각 같은 외모 [마데핫리뷰]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/79N7GOIkmU",
         "publishedAt": "2026-08-04T14:20:00.000Z",
-        "relevanceScore": 2
+        "relevanceScore": 3
       },
       "publishedAt": "2026-08-04T14:20:00.000Z",
       "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
       "title": "장동건",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260804/134421304/1"
+      "source": "Daum",
+      "url": "https://v.daum.net/v/79N7GOIkmU"
     },
     {
       "id": "544d643525a36867",
@@ -860,7 +874,7 @@
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 5,
       "relatedArticles": [
         {
           "title": "[써보니] 대박 난 ‘삼성 여권폰’ 4 대 3 화면비·착붙 그립감까지 참신하긴 한데···",
@@ -877,9 +891,23 @@
           "relevanceScore": 2
         },
         {
+          "title": "갤럭시Z8 사전예약자 절반 이상 '폴드8' 찜했다",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260804093625",
+          "publishedAt": "2026-08-04T14:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
           "title": "아이폰 세대도 홀렸다…갤Z폴드8, 역대 최다 판매에 '한달 대기'(종합)",
           "source": "뉴스1",
           "url": "https://www.news1.kr/it-science/mobile/6248510",
+          "publishedAt": "2026-08-04T14:30:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "삼성전자 폴더블폰, 바형 S시리즈 기록 넘었다…폴더블폰 대중화 시대 활짝",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=370953",
           "publishedAt": "2026-08-04T14:30:00.000Z",
           "relevanceScore": 1
         }
@@ -893,7 +921,7 @@
       },
       "publishedAt": "2026-08-04T14:30:00.000Z",
       "firstSeenAt": "2026-08-04T16:50:24.107Z",
-      "lastSeenAt": "2026-08-04T16:50:24.107Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
       "title": "참신하긴 한데",
       "source": "경향신문",
       "url": "https://www.khan.co.kr/article/202608041700001"
@@ -1221,50 +1249,96 @@
       "url": "https://znews.vn/tuyen-viet-nam-thang-de-indonesia-3-0-post1674483.html"
     },
     {
-      "id": "a2fcc3f1c53a37ca",
-      "issueKey": "수영",
-      "issueTitle": "수영",
-      "trendTitle": "수영",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "4e7d994ada0e4038",
+      "issueKey": "양희은",
+      "issueTitle": "양희은",
+      "trendTitle": "양희은",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'효리수' 수영, 냉장고 공개",
+          "title": "양희은, 지팡이 짚고 생일 모임",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260802_0003733088",
-          "publishedAt": "2026-08-02T14:40:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260804_0003736317",
+          "publishedAt": "2026-08-04T15:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'정경호와 결별' 최수영 \"서러울 때 힘을 준 노래 있다…'공주의 규칙'\"('냉부해')",
+          "title": "지팡이 짚고 활짝…'73세' 女배우, 이성미→박미선과 생일 모임 만났다 [MHN:피드]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/2IfHymsAWS",
-          "publishedAt": "2026-08-02T14:40:00.000Z",
+          "url": "https://v.daum.net/v/20260804230056217",
+          "publishedAt": "2026-08-04T15:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘아이돌 전패’ 권성준 “수영과 춤을” 꿈 이룰까 (냉부)",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608020944003",
-          "publishedAt": "2026-08-02T14:40:00.000Z",
+          "title": "'74세' 양희은, 지팡이 짚고 환한 미소…이성미·박미선 만났다",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260804n28993?mid=e1100",
+          "publishedAt": "2026-08-04T15:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'효리수' 수영, 냉장고 공개",
+        "title": "양희은, 지팡이 짚고 생일 모임",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260802_0003733088",
-        "publishedAt": "2026-08-02T14:40:00.000Z",
+        "url": "https://www.newsis.com/view/NISX20260804_0003736317",
+        "publishedAt": "2026-08-04T15:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-02T14:40:00.000Z",
-      "firstSeenAt": "2026-08-02T19:09:33.603Z",
-      "lastSeenAt": "2026-08-02T19:09:33.603Z",
-      "title": "수영",
+      "publishedAt": "2026-08-04T15:40:00.000Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
+      "title": "양희은",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260802_0003733088"
+      "url": "https://www.newsis.com/view/NISX20260804_0003736317"
+    },
+    {
+      "id": "7ecd93cd424c9eb2",
+      "issueKey": "돼지",
+      "issueTitle": "돼지",
+      "trendTitle": "돼지",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이마트 돼지고기 가격, 갑자기 떨어진 이유 있었다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260804/134419127/1",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "입찰가 가리자 열린 단톡방‥\"삼겹살 1만 8천 원 하시죠\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/econo/article/6842325_36932.html",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"돼지고깃값 20% 올렸다\"…1.2조원 담합 도드람 등 업체들 기소(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804059451004",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이마트 돼지고기 가격, 갑자기 떨어진 이유 있었다",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260804/134419127/1",
+        "publishedAt": "2026-08-04T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T15:20:00.000Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
+      "title": "돼지",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Society/article/all/20260804/134419127/1"
     },
     {
       "id": "fa77e6fcae819028",
@@ -2141,6 +2215,52 @@
       "url": "https://www.sedaily.com/article/20074813"
     },
     {
+      "id": "22fd4f17d77fa406",
+      "issueKey": "감염",
+      "issueTitle": "감염",
+      "trendTitle": "감염",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "미국서 기생충 감염사태 사망자 2명 발생",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804052354707",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "양상추 먹었다가 2명 사망, 193명 입원…미국서 확산한 '감염증' 비상",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/world/2026/08/04/2026080413022944643",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "미시간 주, 얌브랜드에 7월 2일 기생충 발병 연락 - 블룸버그",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2042265",
+          "publishedAt": "2026-08-04T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "미국서 기생충 감염사태 사망자 2명 발생",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804052354707",
+        "publishedAt": "2026-08-04T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T15:20:00.000Z",
+      "firstSeenAt": "2026-08-04T19:36:48.333Z",
+      "lastSeenAt": "2026-08-04T19:36:48.333Z",
+      "title": "감염",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260804052354707"
+    },
+    {
       "id": "3cb2c44c3b680b22",
       "issueKey": "비행기",
       "issueTitle": "비행기",
@@ -2231,98 +2351,6 @@
       "title": "산재",
       "source": "전기신문",
       "url": "https://www.electimes.com/news/articleView.html?idxno=370957"
-    },
-    {
-      "id": "c395d7087406c953",
-      "issueKey": "산골총각 영웅",
-      "issueTitle": "산골총각 영웅",
-      "trendTitle": "산골총각 영웅",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘산골총각 영웅’ 임영웅, 특별 신청곡으로 마지막 산골 콘서트",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12116298",
-          "publishedAt": "2026-08-04T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[다시보기] 산골총각 영웅 7회",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/mountainshero/vod/89787/22000633734",
-          "publishedAt": "2026-08-04T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "임영웅, 김도훈과 형제 케미 뽐내더니..대형사고 터지자 남 탓 ‘폭소’(‘산골총각’)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/04/MZQWENJVMY4TMZTBME4WMOLDGE/",
-          "publishedAt": "2026-08-04T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘산골총각 영웅’ 임영웅, 특별 신청곡으로 마지막 산골 콘서트",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/broadcasting-service/12116298",
-        "publishedAt": "2026-08-04T12:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T12:20:00.000Z",
-      "firstSeenAt": "2026-08-04T14:11:13.748Z",
-      "lastSeenAt": "2026-08-04T14:11:13.748Z",
-      "title": "산골총각 영웅",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/broadcasting-service/12116298"
-    },
-    {
-      "id": "5d63b3dce7fd0cec",
-      "issueKey": "서범수",
-      "issueTitle": "서범수",
-      "trendTitle": "서범수",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "서범수, ‘돌려차기’ 피해자 참석 간담회서 실언…“전적으로 제 잘못” 사죄",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260804580691",
-          "publishedAt": "2026-08-04T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "국힘 의원들, 피해자 면전에서 '실언'…\"돌려차기 한 번\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804205401096?f=m",
-          "publishedAt": "2026-08-04T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘돌려차기’ 피해자 앞에서 “돌려차기 한 번”…농담한 국힘 서범수·진종오",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1271413.html",
-          "publishedAt": "2026-08-04T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서범수, ‘돌려차기’ 피해자 참석 간담회서 실언…“전적으로 제 잘못” 사죄",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260804580691",
-        "publishedAt": "2026-08-04T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T11:50:00.000Z",
-      "firstSeenAt": "2026-08-04T14:11:13.748Z",
-      "lastSeenAt": "2026-08-04T14:11:13.748Z",
-      "title": "서범수",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260804580691"
     }
   ]
 }
