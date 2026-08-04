@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-04T05:46:15.571Z",
+  "lastUpdatedAt": "2026-08-04T08:36:18.230Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "ad9411f10382ae51",
-      "issueKey": "박현주",
-      "issueTitle": "박현주",
-      "trendTitle": "박현주",
+      "id": "d76a8666477be9ed",
+      "issueKey": "이재영",
+      "issueTitle": "이재영",
+      "trendTitle": "이재영",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[공식발표] '日 무대 떠난' 이재영 새 둥지 찾았다, 유럽 무대 도전→투란VC 입단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804002441109?f=p",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이재영, 투란VC 입단…일본 떠나 유럽 무대 도전",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260804n17626?mid=n1101",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[공식발표] '日 무대 떠난' 이재영 새 둥지 찾았다, 유럽 무대 도전→투란VC 입단",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260804n00188",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[공식발표] '日 무대 떠난' 이재영 새 둥지 찾았다, 유럽 무대 도전→투란VC 입단",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804002441109?f=p",
+        "publishedAt": "2026-08-04T07:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T07:10:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "이재영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260804002441109?f=p",
+      "rank": 1
+    },
+    {
+      "id": "0bda61a54af46aab",
+      "issueKey": "mlb",
+      "issueTitle": "mlb",
+      "trendTitle": "mlb",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "아름다운재단-미래에셋박현주재단, 가족돌봄청년 위한 금융투자 특강 개최",
-          "source": "소셜임팩트뉴스",
-          "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=6941",
-          "publishedAt": "2026-08-04T04:40:00.000Z",
+          "title": "The 6 biggest winners of the Trade Deadline",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/biggest-winners-of-2026-mlb-trade-deadline",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "미래에셋 청년 씨드온 프로젝트, ETF로 청년 금융자립 돕는다",
-          "source": "Queen 이코노미퀸",
-          "url": "https://www.queen.co.kr/news/articleView.html?idxno=460857",
-          "publishedAt": "2026-08-04T04:40:00.000Z",
+          "title": "Top 50 Remaining Trade Candidates: Deadline Day",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/08/top-50-remaining-trade-candidates-deadline-day.html",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\" 돈 모으는 법부터 배운다\" 미래에셋박현주재단, 금융소외 청년에 AI 투자 지원",
-          "source": "이넷뉴스",
-          "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=52816",
-          "publishedAt": "2026-08-04T04:40:00.000Z",
+          "title": "MLB trade deadline rankings: the winners, losers and snoozers",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7490354/2026/08/03/mlb-trade-deadline-2026-winners-losers-snoozers/",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "아름다운재단-미래에셋박현주재단, 가족돌봄청년 위한 금융투자 특강 개최",
-        "source": "소셜임팩트뉴스",
-        "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=6941",
-        "publishedAt": "2026-08-04T04:40:00.000Z",
-        "relevanceScore": 3
+        "title": "MLB trade deadline rankings: the winners, losers and snoozers",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/athletic/7490354/2026/08/03/mlb-trade-deadline-2026-winners-losers-snoozers/",
+        "publishedAt": "2026-08-04T07:10:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-08-04T04:40:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "박현주",
-      "source": "소셜임팩트뉴스",
-      "url": "https://www.socialimpactnews.net/news/articleView.html?idxno=6941",
-      "rank": 1
-    },
-    {
-      "id": "35c2b0c0fcdd9b9e",
-      "issueKey": "송성문",
-      "issueTitle": "송성문",
-      "trendTitle": "송성문",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'17타수 무안타' 송성문, 9G 만에 드디어 침묵 깼다…팀은 애리조나에 1-5 패배 [SD 리뷰]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112851919",
-          "publishedAt": "2026-08-04T04:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[일간 송성문] 삼진-팝플-삼진-팝플...침묵 길어지는 송성문, 17타석 연속 무안타",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202608030025",
-          "publishedAt": "2026-08-04T04:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "침묵 깬 샌디에이고 송성문, 15일 만에 안타…시즌 타율 0.208",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260804n16417?mid=n1101",
-          "publishedAt": "2026-08-04T04:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'17타수 무안타' 송성문, 9G 만에 드디어 침묵 깼다…팀은 애리조나에 1-5 패배 [SD 리뷰]",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112851919",
-        "publishedAt": "2026-08-04T04:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T04:30:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "송성문",
-      "source": "OSEN",
-      "url": "https://www.osen.co.kr/article/G1112851919",
+      "publishedAt": "2026-08-04T07:10:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "mlb",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/athletic/7490354/2026/08/03/mlb-trade-deadline-2026-winners-losers-snoozers/",
       "rank": 2
     },
     {
-      "id": "1455aca67ab21218",
-      "issueKey": "속초시",
-      "issueTitle": "속초시",
-      "trendTitle": "속초시",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "70041052f56419e2",
+      "issueKey": "공효진",
+      "issueTitle": "공효진",
+      "trendTitle": "공효진",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "속초시, 해양 사고 실종자 위치 예측 기술 개발 추진…공모 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804110222739",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "공효진, 정준원 '태도 논란'에 \"'놀뭐' 녹화 후 진짜 토했다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6248666",
+          "publishedAt": "2026-08-04T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "속초시, 해양 실종자 수색 기술 개발로 5억 8000만 원 확보…디지털 안전 모델 구축",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260804000633",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "하하 이어 김현숙도 입열었다..정준원 태도 논란 옹호 \"우리 숨 좀 쉬고 살자\" [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/04/GBTGGYLBMVSWEYJRMU2TCMBWMY/",
+          "publishedAt": "2026-08-04T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "속초시, 해상 실종자 이동 경로 디지털로 예측한다",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030204768&amp;code=61121111&amp;sid1=pol%EF%BF",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "\"녹화 끝나고 토해\" 공효진, 정준원 감쌌지만…태도 논란 계속",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/04/2026080412161546430",
+          "publishedAt": "2026-08-04T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "속초시, 해양 사고 실종자 위치 예측 기술 개발 추진…공모 선정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804110222739",
-        "publishedAt": "2026-08-04T04:20:00.000Z",
+        "title": "공효진, 정준원 '태도 논란'에 \"'놀뭐' 녹화 후 진짜 토했다\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6248666",
+        "publishedAt": "2026-08-04T07:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T04:20:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "속초시",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260804110222739",
+      "publishedAt": "2026-08-04T07:00:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "공효진",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6248666",
       "rank": 3
     },
     {
-      "id": "5878056eb52d203b",
-      "issueKey": "대한민국 해군",
-      "issueTitle": "대한민국 해군",
-      "trendTitle": "대한민국 해군",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "74ef148a03c43141",
+      "issueKey": "무더위",
+      "issueTitle": "무더위",
+      "trendTitle": "대전 날씨",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "해군, 대령 지휘 함장에 여군 최초로 ‘배선영 대령’ 임명",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260804/134416587/1",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "대전충남, 무더위·열대야 이어져…오후에 소나기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804007700063",
+          "publishedAt": "2026-08-04T06:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "대령급 함정에 첫 女함장 탄생…대형수송함 독도함 지휘",
+          "title": "꺾이지 않는 폭염…충북 한낮 수은주 최대 37도 예보",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804090300721",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "url": "https://v.daum.net/v/20260803115850892",
+          "publishedAt": "2026-08-04T06:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "해군 최초 대형함 여군 지휘관 탄생…배선영 대령, 1만4500t급 독도함장 취임",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608041013521594",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "헐떡이다 수만 마리 폐사‥논밭 열기에 말라",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6841911_37012.html",
+          "publishedAt": "2026-08-04T06:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "대한민국 해군",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260804/134416587/1",
-        "publishedAt": "2026-08-04T04:20:00.000Z",
+        "title": "대전충남, 무더위·열대야 이어져…오후에 소나기",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260804007700063",
+        "publishedAt": "2026-08-04T06:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T04:20:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "대한민국 해군",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Politics/article/all/20260804/134416587/1",
+      "publishedAt": "2026-08-04T06:50:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "무더위",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260804007700063",
       "rank": 4
     },
     {
-      "id": "e648a77014706949",
-      "issueKey": "정지선",
-      "issueTitle": "정지선",
-      "trendTitle": "정지선",
+      "id": "84da842341db1e18",
+      "issueKey": "kt wiz",
+      "issueTitle": "kt wiz",
+      "trendTitle": "kt wiz",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "정지선, 역대급 '통 큰' 사내 복지…장기 근속자에 '고급 자동차' 선물 (사당귀)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803172250037",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "KT Wiz Honors Champion Captain Hwang Jae-gyun in Retirement Ceremony",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/04/A6R5SM6TQJCD3MPB4HXS2LAIP4/",
+          "publishedAt": "2026-08-04T06:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "정지선 셰프 “장기근속 직원에 고급 세단-명품백” 통큰 선물",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260803/134411363/2",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "KT Wiz to hold retirement ceremony for ex-captain Hwang Jae-gyun",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/AEN20260804003000315",
+          "publishedAt": "2026-08-04T06:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "정지선, 직원들에 고급 세단→명품백 통큰 선물..\"3개월마다 인센티브\" 깜짝 (사당귀) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/03/HEYDIZTCGJTDSNTBHFRTQYTCGE/",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "'Iron Man' Hwang Jae-gyun's 'Final Countdown' Retirement Ceremony on 8th",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/04/HRV5PRBI7VFKBMSO7ACV7RAMIU/",
+          "publishedAt": "2026-08-04T06:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "정지선, 역대급 '통 큰' 사내 복지…장기 근속자에 '고급 자동차' 선물 (사당귀)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803172250037",
-        "publishedAt": "2026-08-04T04:20:00.000Z",
+        "title": "KT Wiz Honors Champion Captain Hwang Jae-gyun in Retirement Ceremony",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/08/04/A6R5SM6TQJCD3MPB4HXS2LAIP4/",
+        "publishedAt": "2026-08-04T06:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T04:20:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "정지선",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260803172250037",
+      "publishedAt": "2026-08-04T06:40:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "kt wiz",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/08/04/A6R5SM6TQJCD3MPB4HXS2LAIP4/",
       "rank": 5
     },
     {
-      "id": "608859dada11aeaa",
-      "issueKey": "조선",
-      "issueTitle": "조선",
-      "trendTitle": "조선의 사랑꾼",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "e32ac33fa53a3db6",
+      "issueKey": "twitch",
+      "issueTitle": "twitch",
+      "trendTitle": "twitch",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘심혜진 조카’ 심재원, 00년생 소개팅녀 앞 상의 탈의 “웃통 벗은 사람 처음 봐?”(조선의 사랑꾼)[순간포착]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804074052590",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "I’m Cool With Jaylen Brown Doing Dangerous Stuff Like Skydiving if the Content is This Funny",
+          "source": "Crossing Broad",
+          "url": "https://www.crossingbroad.com/news/sixers/im-cool-with-jaylen-brown-doing-dangerous-stuff-like-skydiving-if-the-content-is-this-funny/",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'11세차' 아나운서·배우 커플 탄생‥이유빈, 유일한 선택했다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003734965",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "Jaylen Brown's 76ers Introduction Date Reportedly Revealed After Celtics Trade in NBA Free Agency",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25461159-jaylen-browns-76ers-introduction-date-reportedly-revealed-after-celtics-trade-nba-free-agency",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "양상국, ♥호감녀에 조심스레 밝힌 진심 “조금 오래 보는 스타일”(조선의 사랑꾼)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112851746",
-          "publishedAt": "2026-08-04T04:20:00.000Z",
+          "title": "Watch: LeBron already said “hell nah” to skydiving",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/nba/articles/watch_lebron_already_said_hell_nah_to_skydiving/s1_15653_44134911",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘심혜진 조카’ 심재원, 00년생 소개팅녀 앞 상의 탈의 “웃통 벗은 사람 처음 봐?”(조선의 사랑꾼)[순간포착]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804074052590",
-        "publishedAt": "2026-08-04T04:20:00.000Z",
+        "title": "twitch",
+        "source": "Crossing Broad",
+        "url": "https://www.crossingbroad.com/news/sixers/im-cool-with-jaylen-brown-doing-dangerous-stuff-like-skydiving-if-the-content-is-this-funny/",
+        "publishedAt": "2026-08-04T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T04:20:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "조선",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260804074052590",
+      "publishedAt": "2026-08-04T06:20:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "twitch",
+      "source": "Crossing Broad",
+      "url": "https://www.crossingbroad.com/news/sixers/im-cool-with-jaylen-brown-doing-dangerous-stuff-like-skydiving-if-the-content-is-this-funny/",
       "rank": 6
     },
     {
-      "id": "7e993d42673d78d6",
-      "issueKey": "심현섭",
-      "issueTitle": "심현섭",
-      "trendTitle": "심현섭",
+      "id": "8fe55ab94a5f6467",
+      "issueKey": "신영균",
+      "issueTitle": "신영균",
+      "trendTitle": "신영균",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "심현섭 \"하루에 3.2억 벌었는데…母 빚 15억 떠안아\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026080313351352936",
-          "publishedAt": "2026-08-04T04:10:00.000Z",
+          "title": "'99세 배우' 신영균, 건강 여전…신현준 \"꾸준히 운동하시는 모습에 큰 자극\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6248081",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“그 많던 돈 어디로 갔을까”…‘하루 3억2천’ 벌었던 심현섭이 밝힌 안타까운 사연",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12116161",
-          "publishedAt": "2026-08-04T04:10:00.000Z",
+          "title": "'케데헌' 이재 외할아버지 신영균, 97세에도 헬스장 출근…신현준도 감탄 [MD★스타]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260804n02925",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "심현섭 ‘압구정 APT 1.5채 값’ 하루에 벌어…화려했던 전성기 회상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802133211892",
-          "publishedAt": "2026-08-04T04:10:00.000Z",
+          "title": "98세 배우 신영균, 운동 모습에 ‘깜짝’…‘건강 관리 루틴’도 화제 [셀럽 건강]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/08/04/20260804500062",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "심현섭 \"하루에 3.2억 벌었는데…母 빚 15억 떠안아\"",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026080313351352936",
-        "publishedAt": "2026-08-04T04:10:00.000Z",
+        "title": "'99세 배우' 신영균, 건강 여전…신현준 \"꾸준히 운동하시는 모습에 큰 자극\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6248081",
+        "publishedAt": "2026-08-04T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T04:10:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "심현섭",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/08/03/2026080313351352936",
+      "publishedAt": "2026-08-04T06:20:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "신영균",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6248081",
       "rank": 7
     },
     {
-      "id": "7f916f91b7e81840",
-      "issueKey": "롯데 자이언츠",
-      "issueTitle": "롯데 자이언츠",
-      "trendTitle": "롯데 자이언츠",
+      "id": "d2d7e4af20d7611e",
+      "issueKey": "모아타운",
+      "issueTitle": "모아타운",
+      "trendTitle": "모아타운",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "롯데 떠난 日쿄야마, 대만행 유력! \"라쿠텐 몽키스와 입단 합의\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/04/2026080413124740571",
-          "publishedAt": "2026-08-04T04:00:00.000Z",
+          "title": "서울 모아타운·신통기획 ‘취소 구역’ 전면 공개···“투기 거래 차단”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608041115001",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "롯데 떠난 日쿄야마, 대만행 유력! \"라쿠텐 몽키스와 입단 합의\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260804n16512?mid=n1101",
-          "publishedAt": "2026-08-04T04:00:00.000Z",
+          "title": "서울시 '모아타운·신통기획 취소구역' 공식 안내 지침 시행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804111659480",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "주춤한 페덱, 무너진 보스…‘가을로 가는 길’ 비상등 켜진 삼성",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803202242246",
-          "publishedAt": "2026-08-04T04:00:00.000Z",
+          "title": "신길동 113-5일대 '신통기획' 재개발 시동…2년내 정비구역 지정 목표",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/08/04/2026080409365546128",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "롯데 자이언츠",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/08/04/2026080413124740571",
-        "publishedAt": "2026-08-04T04:00:00.000Z",
+        "title": "서울 모아타운·신통기획 ‘취소 구역’ 전면 공개···“투기 거래 차단”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608041115001",
+        "publishedAt": "2026-08-04T06:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T04:00:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "롯데 자이언츠",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/sports/2026/08/04/2026080413124740571",
+      "publishedAt": "2026-08-04T06:10:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "모아타운",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202608041115001",
       "rank": 8
     },
     {
-      "id": "9b63ad6b656caa33",
-      "issueKey": "채무",
-      "issueTitle": "채무",
-      "trendTitle": "채무",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "db39fe504d860126",
+      "issueKey": "스타 파이터",
+      "issueTitle": "스타 파이터",
+      "trendTitle": "스타 파이터",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "안 오른게 없다...채무조정 생계비 인정범위 상향 추진",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20075292",
-          "publishedAt": "2026-08-04T03:50:00.000Z",
+          "title": "'비극' UFC 스타 파이터, 34세에 갑작스러운 사망 \"불과 두 달 전 경기 치렀는데…\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260804n10443",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "채무조정 생계비 인정 범위, 중위소득 70%로 확대 추진",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20075246",
-          "publishedAt": "2026-08-04T03:50:00.000Z",
+          "title": "\"수면 중 심장마비 증세로 의식 잃어\"...UFC, 공식 발표 \"우리가 사랑하는 선수 알란 나시멘투가 떠났다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804120850850",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "서울시, 채무위기 청년 227명 맞춤 진단·자립기반 마련 지원",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803060159479",
-          "publishedAt": "2026-08-04T03:50:00.000Z",
+          "title": "두 달 전에도 경기했는데…UFC 파이터 나시멘투, 34세 나이로 심장마비 사망",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6557896",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "안 오른게 없다...채무조정 생계비 인정범위 상향 추진",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20075292",
-        "publishedAt": "2026-08-04T03:50:00.000Z",
+        "title": "'비극' UFC 스타 파이터, 34세에 갑작스러운 사망 \"불과 두 달 전 경기 치렀는데…\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260804n10443",
+        "publishedAt": "2026-08-04T06:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T03:50:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "채무",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20075292",
+      "publishedAt": "2026-08-04T06:10:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "스타 파이터",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260804n10443",
       "rank": 9
-    },
-    {
-      "id": "2f967bc6237480ff",
-      "issueKey": "상장",
-      "issueTitle": "상장",
-      "trendTitle": "상장",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "빗썸 \"2028년 기업공개 목표…투명한 지배구조 구축할 것\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260803140400002",
-          "publishedAt": "2026-08-04T03:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "빗썸, 2028년 상장 추진…3단계 IPO 로드맵 발표",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803183601260",
-          "publishedAt": "2026-08-04T03:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "상장 시동 건 빗썸, 유령코인 리스크·대주주 적격성 '최대 변수'",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260804000470",
-          "publishedAt": "2026-08-04T03:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "빗썸, 2028년 상장 추진…3단계 IPO 로드맵 발표",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803183601260",
-        "publishedAt": "2026-08-04T03:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-04T03:40:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "상장",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260803183601260",
-      "rank": 10
     }
   ],
   "history": [
@@ -805,6 +758,52 @@
       "title": "선도",
       "source": "전자신문",
       "url": "https://www.etnews.com/20260802000049"
+    },
+    {
+      "id": "d2d7e4af20d7611e",
+      "issueKey": "모아타운",
+      "issueTitle": "모아타운",
+      "trendTitle": "모아타운",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "서울 모아타운·신통기획 ‘취소 구역’ 전면 공개···“투기 거래 차단”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608041115001",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "서울시 '모아타운·신통기획 취소구역' 공식 안내 지침 시행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804111659480",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "신길동 113-5일대 '신통기획' 재개발 시동…2년내 정비구역 지정 목표",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/08/04/2026080409365546128",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "서울 모아타운·신통기획 ‘취소 구역’ 전면 공개···“투기 거래 차단”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608041115001",
+        "publishedAt": "2026-08-04T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T06:10:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "모아타운",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202608041115001"
     },
     {
       "id": "1455aca67ab21218",
@@ -1359,142 +1358,50 @@
       "url": "https://www.yonhapnewstv.co.kr/news/MYH202608021900520xs"
     },
     {
-      "id": "6bc8cb1bd5aaebbd",
-      "issueKey": "태풍 루사",
-      "issueTitle": "태풍 루사",
-      "trendTitle": "태풍 루사",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "0bda61a54af46aab",
+      "issueKey": "mlb",
+      "issueTitle": "mlb",
+      "trendTitle": "mlb",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[꼬꼬무 찐리뷰] \"아빠 꽉 잡아\" 거친 물살 속 놓쳐버린 딸의 손…태풍 '루사', 우리가 잊고 있던 그날의 비극",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008684240",
-          "publishedAt": "2026-08-02T04:20:00.000Z",
+          "title": "The 6 biggest winners of the Trade Deadline",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/biggest-winners-of-2026-mlb-trade-deadline",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'꼬꼬무', 강릉 소멸 위기 '태풍 루사' 재조명...산다라박 오열 [종합]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073109497290557",
-          "publishedAt": "2026-08-02T04:20:00.000Z",
+          "title": "Top 50 Remaining Trade Candidates: Deadline Day",
+          "source": "MLB Trade Rumors",
+          "url": "https://www.mlbtraderumors.com/2026/08/top-50-remaining-trade-candidates-deadline-day.html",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[스브스夜] '꼬꼬무' 역대 최악의 태풍 '루사'···태풍 이름은 사라졌지만 영원히 잊히지 말아야 할 이들의 그날 '추적'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260731n03819?mid=e1200",
-          "publishedAt": "2026-08-02T04:20:00.000Z",
+          "title": "MLB trade deadline rankings: the winners, losers and snoozers",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/athletic/7490354/2026/08/03/mlb-trade-deadline-2026-winners-losers-snoozers/",
+          "publishedAt": "2026-08-04T07:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'꼬꼬무', 강릉 소멸 위기 '태풍 루사' 재조명...산다라박 오열 [종합]",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073109497290557",
-        "publishedAt": "2026-08-02T04:20:00.000Z",
-        "relevanceScore": 2
+        "title": "MLB trade deadline rankings: the winners, losers and snoozers",
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/athletic/7490354/2026/08/03/mlb-trade-deadline-2026-winners-losers-snoozers/",
+        "publishedAt": "2026-08-04T07:10:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-08-02T04:20:00.000Z",
-      "firstSeenAt": "2026-08-02T05:57:38.968Z",
-      "lastSeenAt": "2026-08-02T05:57:38.968Z",
-      "title": "태풍 루사",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/07/31/2026073109497290557"
-    },
-    {
-      "id": "5ffc9d0f294f35e6",
-      "issueKey": "차은우",
-      "issueTitle": "차은우",
-      "trendTitle": "차은우",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802017000005",
-          "publishedAt": "2026-08-02T04:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "차은우 “추징금 냈지만 납득 못해”…국세청 과세 불복 [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8626307",
-          "publishedAt": "2026-08-02T04:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "차은우, 130억 추징세 완납 후 조세심판 청구…\"법률적 판단 받을것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802123040843",
-          "publishedAt": "2026-08-02T04:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "130억 세금 낸 차은우, 조세심판 청구…\"법률적 판단 받겠다\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260802017000005",
-        "publishedAt": "2026-08-02T04:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T04:00:00.000Z",
-      "firstSeenAt": "2026-08-02T05:57:38.968Z",
-      "lastSeenAt": "2026-08-02T05:57:38.968Z",
-      "title": "차은우",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260802017000005"
-    },
-    {
-      "id": "d634ea5bb96994ff",
-      "issueKey": "이준수",
-      "issueTitle": "이준수",
-      "trendTitle": "이준수",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'아형' 이탁수, '아빠! 어디가?' 동생 이준수 키 공개 \"194㎝\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802084952301",
-          "publishedAt": "2026-08-02T03:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이탁수, '이종혁子' 부담 고백 \"父 정체 탄로…주변 눈빛 달라져\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/02/2026080202072681345",
-          "publishedAt": "2026-08-02T03:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "연정훈, ♥한가인 첫인상 고백 \"예쁘다고 생각했지만 반하진 않아\" ('아는 형님')[어저께 TV]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112850844",
-          "publishedAt": "2026-08-02T03:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'아형' 이탁수, '아빠! 어디가?' 동생 이준수 키 공개 \"194㎝\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802084952301",
-        "publishedAt": "2026-08-02T03:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T03:50:00.000Z",
-      "firstSeenAt": "2026-08-02T05:57:38.968Z",
-      "lastSeenAt": "2026-08-02T05:57:38.968Z",
-      "title": "이준수",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260802084952301"
+      "publishedAt": "2026-08-04T07:10:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "mlb",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/athletic/7490354/2026/08/03/mlb-trade-deadline-2026-winners-losers-snoozers/"
     },
     {
       "id": "ad9411f10382ae51",
@@ -2279,50 +2186,96 @@
       "url": "https://www.sedaily.com/article/20074813"
     },
     {
-      "id": "35c2b0c0fcdd9b9e",
-      "issueKey": "송성문",
-      "issueTitle": "송성문",
-      "trendTitle": "송성문",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "e32ac33fa53a3db6",
+      "issueKey": "twitch",
+      "issueTitle": "twitch",
+      "trendTitle": "twitch",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'17타수 무안타' 송성문, 9G 만에 드디어 침묵 깼다…팀은 애리조나에 1-5 패배 [SD 리뷰]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112851919",
-          "publishedAt": "2026-08-04T04:30:00.000Z",
+          "title": "I’m Cool With Jaylen Brown Doing Dangerous Stuff Like Skydiving if the Content is This Funny",
+          "source": "Crossing Broad",
+          "url": "https://www.crossingbroad.com/news/sixers/im-cool-with-jaylen-brown-doing-dangerous-stuff-like-skydiving-if-the-content-is-this-funny/",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[일간 송성문] 삼진-팝플-삼진-팝플...침묵 길어지는 송성문, 17타석 연속 무안타",
-          "source": "일간스포츠",
-          "url": "https://isplus.com/article/view/isp202608030025",
-          "publishedAt": "2026-08-04T04:30:00.000Z",
+          "title": "Jaylen Brown's 76ers Introduction Date Reportedly Revealed After Celtics Trade in NBA Free Agency",
+          "source": "Bleacher Report",
+          "url": "https://bleacherreport.com/articles/25461159-jaylen-browns-76ers-introduction-date-reportedly-revealed-after-celtics-trade-nba-free-agency",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "침묵 깬 샌디에이고 송성문, 15일 만에 안타…시즌 타율 0.208",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260804n16417?mid=n1101",
-          "publishedAt": "2026-08-04T04:30:00.000Z",
+          "title": "Watch: LeBron already said “hell nah” to skydiving",
+          "source": "Yardbarker",
+          "url": "https://www.yardbarker.com/nba/articles/watch_lebron_already_said_hell_nah_to_skydiving/s1_15653_44134911",
+          "publishedAt": "2026-08-04T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'17타수 무안타' 송성문, 9G 만에 드디어 침묵 깼다…팀은 애리조나에 1-5 패배 [SD 리뷰]",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112851919",
-        "publishedAt": "2026-08-04T04:30:00.000Z",
+        "title": "twitch",
+        "source": "Crossing Broad",
+        "url": "https://www.crossingbroad.com/news/sixers/im-cool-with-jaylen-brown-doing-dangerous-stuff-like-skydiving-if-the-content-is-this-funny/",
+        "publishedAt": "2026-08-04T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T04:30:00.000Z",
-      "firstSeenAt": "2026-08-04T05:46:15.571Z",
-      "lastSeenAt": "2026-08-04T05:46:15.571Z",
-      "title": "송성문",
-      "source": "OSEN",
-      "url": "https://www.osen.co.kr/article/G1112851919"
+      "publishedAt": "2026-08-04T06:20:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "twitch",
+      "source": "Crossing Broad",
+      "url": "https://www.crossingbroad.com/news/sixers/im-cool-with-jaylen-brown-doing-dangerous-stuff-like-skydiving-if-the-content-is-this-funny/"
+    },
+    {
+      "id": "db39fe504d860126",
+      "issueKey": "스타 파이터",
+      "issueTitle": "스타 파이터",
+      "trendTitle": "스타 파이터",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'비극' UFC 스타 파이터, 34세에 갑작스러운 사망 \"불과 두 달 전 경기 치렀는데…\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260804n10443",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"수면 중 심장마비 증세로 의식 잃어\"...UFC, 공식 발표 \"우리가 사랑하는 선수 알란 나시멘투가 떠났다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804120850850",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "두 달 전에도 경기했는데…UFC 파이터 나시멘투, 34세 나이로 심장마비 사망",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6557896",
+          "publishedAt": "2026-08-04T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'비극' UFC 스타 파이터, 34세에 갑작스러운 사망 \"불과 두 달 전 경기 치렀는데…\"",
+        "source": "네이트",
+        "url": "https://sports.news.nate.com/view/20260804n10443",
+        "publishedAt": "2026-08-04T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T06:10:00.000Z",
+      "firstSeenAt": "2026-08-04T08:36:18.230Z",
+      "lastSeenAt": "2026-08-04T08:36:18.230Z",
+      "title": "스타 파이터",
+      "source": "네이트",
+      "url": "https://sports.news.nate.com/view/20260804n10443"
     }
   ]
 }
