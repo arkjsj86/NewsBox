@@ -7,473 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-03T22:08:39.747Z",
+  "lastUpdatedAt": "2026-08-04T02:32:08.019Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "cb25bf739544bdd8",
-      "issueKey": "나스닥 지수",
-      "issueTitle": "나스닥 지수",
-      "trendTitle": "나스닥 지수",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[뉴욕증시] 빅테크 강세에 일제히 상승…다우지수 사상 최고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804053127732",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "중동 긴장 완화에 안도 랠리…다우 사상 최고·나스닥 2%↑·유가 5% 급락 [월가월부]",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1133160",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "AMD·샌디스크, 이번주 실적발표…'EPS 상향' 모멘텀 집중",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4428260",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "나스닥 지수",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804053127732",
-        "publishedAt": "2026-08-03T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-03T21:00:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "나스닥 지수",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260804053127732",
-      "rank": 1
-    },
-    {
-      "id": "73798abdfd479bca",
-      "issueKey": "정청래",
-      "issueTitle": "정청래",
-      "trendTitle": "정청래",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[여론조사①]민주당대표 김민석 42.3% VS 정청래 27.7%",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803180107624",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "鄭·金 1%p차… ‘권리당원 70%’ 호남·수도권에 달려",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/08/04/VMSDCDC57JGQZL4IQKELNVTIOY/",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "與 전당대회, '초박빙'에 과열‥鄭 \"두 번 배신은 못할까\" 金 \"명청대전 막아야\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6842131_37004.html",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[여론조사①]민주당대표 김민석 42.3% VS 정청래 27.7%",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803180107624",
-        "publishedAt": "2026-08-03T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-03T21:00:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "정청래",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260803180107624",
-      "rank": 2
-    },
-    {
-      "id": "a29b1e674f6e9192",
-      "issueKey": "오늘",
-      "issueTitle": "오늘",
-      "trendTitle": "별자리",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "8월 4일(음력 6월 22일) 오늘의 운세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260803195002606",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[오늘의 운세/8월 4일]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260804/134415106/2",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[오늘의 운세] 2026년 08월 04일 별자리 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202608040000000002",
-          "publishedAt": "2026-08-03T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "8월 4일(음력 6월 22일) 오늘의 운세",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260803195002606",
-        "publishedAt": "2026-08-03T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-03T21:00:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "오늘",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260803195002606",
-      "rank": 3
-    },
-    {
-      "id": "e0279352453964b3",
-      "issueKey": "김중남 시장",
-      "issueTitle": "김중남 시장",
-      "trendTitle": "김중남 시장",
+      "id": "544d643525a36867",
+      "issueKey": "강균성",
+      "issueTitle": "강균성",
+      "trendTitle": "강균성",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "강릉 민생지원금 부결 파장…시민사회 \"민생 외면\" 거센 반발",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GIrNY48BH4",
-          "publishedAt": "2026-08-03T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "강릉시 새벽시장서 장보기 행사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260802020000062",
-          "publishedAt": "2026-08-03T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "민생지원금 무산된 강릉…김중남 시장, 새벽시장서 지역경제 점검",
+          "title": "'10월 결혼' 45세 강균성…아내는 14세 연하 배우 유하진(종합)",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/local/kangwon/6246405",
-          "publishedAt": "2026-08-03T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "민생지원금 무산된 강릉…김중남 시장, 새벽시장서 지역경제 점검",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/kangwon/6246405",
-        "publishedAt": "2026-08-03T20:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-03T20:50:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "김중남 시장",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/local/kangwon/6246405",
-      "rank": 4
-    },
-    {
-      "id": "047348554082b09e",
-      "issueKey": "시바이누",
-      "issueTitle": "시바이누",
-      "trendTitle": "시바이누",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"소각률 1400% 폭증\"… 시바이누, 급등 후 차익 실현",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/08/202608040559241252e7e8286d56_1",
-          "publishedAt": "2026-08-03T20:50:00.000Z",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6248069",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "시바이누, 일주일간 13% '쑥'…韓 투자자 '인기 코인' 부상[코인현미경]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260801070136483",
-          "publishedAt": "2026-08-03T20:50:00.000Z",
+          "title": "노을 강균성, 14세 연하 배우 유하진과 10월 결혼",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627798",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "시바이누 2026년 8월 가격 전망…SHIB 6주년",
-          "source": "BeInCrypto",
-          "url": "https://kr.beincrypto.com/shiba-inu-price-prediction-august-2026/",
-          "publishedAt": "2026-08-03T20:50:00.000Z",
+          "title": "‘활동 중단’ 박나래, 강균성 결혼 발표에 축하 “좋아요”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608040803013",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"소각률 1400% 폭증\"… 시바이누, 급등 후 차익 실현",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Securities/2026/08/202608040559241252e7e8286d56_1",
-        "publishedAt": "2026-08-03T20:50:00.000Z",
+        "title": "'10월 결혼' 45세 강균성…아내는 14세 연하 배우 유하진(종합)",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6248069",
+        "publishedAt": "2026-08-04T01:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-03T20:50:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "시바이누",
-      "source": "글로벌이코노믹",
-      "url": "https://www.g-enews.com/article/Securities/2026/08/202608040559241252e7e8286d56_1",
-      "rank": 5
+      "publishedAt": "2026-08-04T01:20:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "강균성",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6248069",
+      "rank": 1
     },
     {
-      "id": "5b604817730cee26",
-      "issueKey": "레이더",
-      "issueTitle": "레이더",
-      "trendTitle": "레이더",
+      "id": "052dd10de41cdb4c",
+      "issueKey": "코바나",
+      "issueTitle": "코바나",
+      "trendTitle": "코바나",
       "approxTraffic": "100+",
       "trafficScore": 100,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "[단독] ‘하늘의 눈’ E-737 결함 103건…레이더 이상 잇따라",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260803512080",
-          "publishedAt": "2026-08-03T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Global Interferometric 합성 가늠구멍 레이다 (InSAR) 시장",
-          "source": "Spherical Insights",
-          "url": "https://www.sphericalinsights.com/ko/reports/interferometric-synthetic-aperture-radar-insar-market",
-          "publishedAt": "2026-08-03T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독] ‘하늘의 눈’ E-737 결함 103건…레이더 이상 잇따라",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260803512080",
-        "publishedAt": "2026-08-03T20:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-03T20:50:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "레이더",
-      "source": "세계일보",
-      "url": "https://www.segye.com/newsView/20260803512080",
-      "rank": 6
-    },
-    {
-      "id": "ca6c419327ce5a9d",
-      "issueKey": "서울",
-      "issueTitle": "서울",
-      "trendTitle": "서울",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[속보]“건강한 사람도 위험”…서울·경기 첫 폭염중대경보 발효",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11606917",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "title": "[단독] 관저 내부에 ‘코바나컨텐츠 사무실’ 준비 정황 포착",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12311508",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "극한 폭염 서쪽으로…수도권에도 첫 ‘폭염중대경보’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8627613",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "title": "“관저 안에 코바나 사무실 준비”…특검, 21그램 관계자 진술 확보",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/society/society_general/1271243.html",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"이번 주는 가망이 없어\"…서쪽 지역 갈수록 더 더워진다 [뉴스모아]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0522_202608031753382138",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "title": "김건희, 경호처에 \"대통령집무실 허전‥예산 없나\" 2차특검 진술 확보",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260731101214010",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[속보]“건강한 사람도 위험”…서울·경기 첫 폭염중대경보 발효",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11606917",
-        "publishedAt": "2026-08-03T20:40:00.000Z",
+        "title": "[단독] 관저 내부에 ‘코바나컨텐츠 사무실’ 준비 정황 포착",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12311508",
+        "publishedAt": "2026-08-04T01:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-03T20:40:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "서울",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11606917",
-      "rank": 7
+      "publishedAt": "2026-08-04T01:20:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "코바나",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12311508",
+      "rank": 2
     },
     {
-      "id": "b09b402261b046e6",
-      "issueKey": "테일러 프리츠",
-      "issueTitle": "테일러 프리츠",
-      "trendTitle": "테일러 프리츠",
+      "id": "548fabba018a04dd",
+      "issueKey": "리센느",
+      "issueTitle": "리센느",
+      "trendTitle": "리센느",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"원이, 따뜻하고 성실한 학생\"…담임교사가 밝힌 진짜 모습",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608031010392139",
+          "publishedAt": "2026-08-04T01:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "리센느 원이 ‘일진설’ 잠재운 은사의 묵직한 마지막 인사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803172409095?f=p",
+          "publishedAt": "2026-08-04T01:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "원이 중등 담임, '일진설' 폭로자 사라지자 계정 삭제",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260803_0003734153",
+          "publishedAt": "2026-08-04T01:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "리센느 원이 ‘일진설’ 잠재운 은사의 묵직한 마지막 인사",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803172409095?f=p",
+        "publishedAt": "2026-08-04T01:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-04T01:00:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "리센느",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260803172409095?f=p",
+      "rank": 3
+    },
+    {
+      "id": "d934e236bb6aa27a",
+      "issueKey": "화암동굴",
+      "issueTitle": "화암동굴",
+      "trendTitle": "화암동굴",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Fritz powers past Jodar to win Washington crown",
-          "source": "ATP Tour",
-          "url": "https://www.atptour.com/en/news/fritz-jodar-washington-2026-monday-final",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "title": "더위 피해 찾았더니…'나만 몰랐나' 시민들 몰린 이색 피서지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7lodainQ71",
+          "publishedAt": "2026-08-04T00:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Fritz outlasts compatriot Nakashima, set to face Jodar in Washington Open final",
-          "source": "Reuters",
-          "url": "https://www.reuters.com/sports/tennis/fritz-outlasts-compatriot-nakashima-set-face-jodar-washington-open-final-2026-08-02/",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "title": "한여름에도 '평균 14도' 천연 냉방…정선 화암동굴 인기",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260803068200062",
+          "publishedAt": "2026-08-04T00:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Washington Open final suspended as tennis chiefs forced to release emergency statement",
-          "source": "Daily Express",
-          "url": "https://www.express.co.uk/sport/football/2235316/washington-open-final-suspended-tennis",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "title": "\"에어컨보다 시원해\" 세계유산 만장굴 이색 피서 인기",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1132724",
+          "publishedAt": "2026-08-04T00:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "테일러 프리츠",
-        "source": "ATP Tour",
-        "url": "https://www.atptour.com/en/news/fritz-jodar-washington-2026-monday-final",
-        "publishedAt": "2026-08-03T20:40:00.000Z",
-        "relevanceScore": 3
+        "title": "한여름에도 '평균 14도' 천연 냉방…정선 화암동굴 인기",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260803068200062",
+        "publishedAt": "2026-08-04T00:30:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-08-03T20:40:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "테일러 프리츠",
-      "source": "ATP Tour",
-      "url": "https://www.atptour.com/en/news/fritz-jodar-washington-2026-monday-final",
-      "rank": 8
+      "publishedAt": "2026-08-04T00:30:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "화암동굴",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260803068200062",
+      "rank": 4
     },
     {
-      "id": "f8cf592731f02881",
-      "issueKey": "팔란티어",
-      "issueTitle": "팔란티어",
-      "trendTitle": "팔란티어 주가",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "717ce98b5ce3bafb",
+      "issueKey": "파산",
+      "issueTitle": "파산",
+      "trendTitle": "파산",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "팔란티어, 깜짝 실적에 시간외 10% 폭등",
+          "title": "“하닉 몰빵, 22억 잃고 파산”…남의 손실 ‘10배’ 부풀린 조작이었다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260804055129959",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "url": "https://v.daum.net/v/20260804012051495",
+          "publishedAt": "2026-08-04T00:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "팔란티어, 온세미컨덕터, 엔비디아",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02040166645544040",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "title": "하닉 몰빵 '22억 손실' 인증 글, 알고 보니 조작…\"숫자에 '0' 더 붙였다\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6248113",
+          "publishedAt": "2026-08-04T00:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'어닝 서프' 팔란티어, 2Q 순익 225% 성장…시간 외 주가 11%↑",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003734953",
-          "publishedAt": "2026-08-03T20:40:00.000Z",
+          "title": "\"22억원 다 날렸다\" SK하닉 레버리지 손해, 알고보니…'10배 뻥튀기'",
+          "source": "이코노미스트",
+          "url": "https://economist.co.kr/article/view/ecn202608030014",
+          "publishedAt": "2026-08-04T00:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "팔란티어, 깜짝 실적에 시간외 10% 폭등",
+        "title": "“하닉 몰빵, 22억 잃고 파산”…남의 손실 ‘10배’ 부풀린 조작이었다",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260804055129959",
-        "publishedAt": "2026-08-03T20:40:00.000Z",
+        "url": "https://v.daum.net/v/20260804012051495",
+        "publishedAt": "2026-08-04T00:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-03T20:40:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "팔란티어",
+      "publishedAt": "2026-08-04T00:20:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "파산",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260804055129959",
-      "rank": 9
+      "url": "https://v.daum.net/v/20260804012051495",
+      "rank": 5
     },
     {
-      "id": "f99be4dd013f7b5a",
-      "issueKey": "장동주",
-      "issueTitle": "장동주",
-      "trendTitle": "장동주",
+      "id": "686a53250718bbf5",
+      "issueKey": "대작 영화",
+      "issueTitle": "대작 영화",
+      "trendTitle": "대작 영화",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "제대로 일냈다…1000억 쏟아부은 대작 영화, 드디어 넷플릭스 상륙",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1150130",
+          "publishedAt": "2026-08-04T00:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "머스크 \"1만개 부품 공급망 부족\"…한국은 걱정 없다고?[피지컬 AI 핵심 밸류체인]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804065809903",
+          "publishedAt": "2026-08-04T00:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "테슬라, 마진 압박에 목표가↓…성장 기대는 ‘긍정적’-스티펠",
+          "source": "마켓인",
+          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=05077446645543712",
+          "publishedAt": "2026-08-04T00:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "제대로 일냈다…1000억 쏟아부은 대작 영화, 드디어 넷플릭스 상륙",
+        "source": "위키트리",
+        "url": "https://www.wikitree.co.kr/articles/1150130",
+        "publishedAt": "2026-08-04T00:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T00:20:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "대작 영화",
+      "source": "위키트리",
+      "url": "https://www.wikitree.co.kr/articles/1150130",
+      "rank": 6
+    },
+    {
+      "id": "59902455d50452c9",
+      "issueKey": "최진실",
+      "issueTitle": "최진실",
+      "trendTitle": "최진실",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'40억 채무→신체 훼손' 장동주...\"3.2억 사채 원금 다 갚았다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/03/2026080317460574647",
-          "publishedAt": "2026-08-03T20:20:00.000Z",
+          "title": "故 최진실 인연…홍진경, 최환희 생일 직접 축하 '훈훈' [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803185026614",
+          "publishedAt": "2026-08-04T00:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘40억 채무’ 장동주 “사채 원금 3억2000만원 모두 상환”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12115423",
-          "publishedAt": "2026-08-03T20:20:00.000Z",
+          "title": "홍진경, 故최진실 빈자리 또 챙겼다..최준희와 최환희 '생일파티' 훈훈 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/03/GFTGKY3DGJQTGZJRGQYTQODEMM/",
+          "publishedAt": "2026-08-04T00:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘40억 채무’ 장동주, 사채 원금 상환 완료…“기회 된다면 배우 복귀도”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608031734013",
-          "publishedAt": "2026-08-03T20:20:00.000Z",
+          "title": "故 최진실과 똑닮은 하관..최준희X환희, 다정한 투샷 \"생일축하해\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-03/202608030100017250001029",
+          "publishedAt": "2026-08-04T00:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'40억 채무→신체 훼손' 장동주...\"3.2억 사채 원금 다 갚았다\"",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/03/2026080317460574647",
-        "publishedAt": "2026-08-03T20:20:00.000Z",
+        "title": "故 최진실 인연…홍진경, 최환희 생일 직접 축하 '훈훈' [MHN:피드]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803185026614",
+        "publishedAt": "2026-08-04T00:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-03T20:20:00.000Z",
-      "firstSeenAt": "2026-08-03T22:08:39.747Z",
-      "lastSeenAt": "2026-08-03T22:08:39.747Z",
-      "title": "장동주",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/society/2026/08/03/2026080317460574647",
-      "rank": 10
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "최진실",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260803185026614",
+      "rank": 7
+    },
+    {
+      "id": "6dde3219c6ae1e55",
+      "issueKey": "진선규",
+      "issueTitle": "진선규",
+      "trendTitle": "박보경",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'청룡 부부' 진선규·박보경 \"신혼 때부터 꿈꿔온 순간\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608031010080610",
+          "publishedAt": "2026-08-03T23:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "아내 박보경 수상에 눈물 흘린 진선규 \"기도하고 바라던 순간\" 재차 축하",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260802134800222?f=p",
+          "publishedAt": "2026-08-03T23:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "진선규, 아내 박보경 청룡시리즈 '여우조연상' 수상에 오열",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202607318845H",
+          "publishedAt": "2026-08-03T23:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'청룡 부부' 진선규·박보경 \"신혼 때부터 꿈꿔온 순간\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202608031010080610",
+        "publishedAt": "2026-08-03T23:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-03T23:50:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "진선규",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0117_202608031010080610",
+      "rank": 8
+    },
+    {
+      "id": "a6579a188b06ca1f",
+      "issueKey": "특급 불펜",
+      "issueTitle": "특급 불펜",
+      "trendTitle": "특급 불펜",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"나를 믿어준 팀\" 이런 투수가 한국에 5년이나 있었다니…38세에 ML 1점대 특급 불펜, 메츠 '역대 2위' 남기고 떠났다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9mh2mQx2Wb",
+          "publishedAt": "2026-08-03T23:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "롯데가 만든 역수출 신화 레일리, 38세에도 러브콜…필라델피아 유니폼 입는다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-baseball/2026/08/04/GY3TAYLEGE3WIMBWGM2WMM3GMU/",
+          "publishedAt": "2026-08-03T23:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "롯데서 뛰었던 그 좌완, 필라델피아행…PS 위해 불펜 승부수",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/04/202608040031770509O",
+          "publishedAt": "2026-08-03T23:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"나를 믿어준 팀\" 이런 투수가 한국에 5년이나 있었다니…38세에 ML 1점대 특급 불펜, 메츠 '역대 2위' 남기고 떠났다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9mh2mQx2Wb",
+        "publishedAt": "2026-08-03T23:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-03T23:50:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "특급 불펜",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/9mh2mQx2Wb",
+      "rank": 9
     }
   ],
   "history": [
@@ -568,6 +528,52 @@
       "title": "진주성 영웅",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260803018900005"
+    },
+    {
+      "id": "544d643525a36867",
+      "issueKey": "강균성",
+      "issueTitle": "강균성",
+      "trendTitle": "강균성",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'10월 결혼' 45세 강균성…아내는 14세 연하 배우 유하진(종합)",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6248069",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "노을 강균성, 14세 연하 배우 유하진과 10월 결혼",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8627798",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘활동 중단’ 박나래, 강균성 결혼 발표에 축하 “좋아요”",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608040803013",
+          "publishedAt": "2026-08-04T01:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'10월 결혼' 45세 강균성…아내는 14세 연하 배우 유하진(종합)",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6248069",
+        "publishedAt": "2026-08-04T01:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T01:20:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "강균성",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6248069"
     },
     {
       "id": "e0279352453964b3",
@@ -865,6 +871,52 @@
       "title": "유해란",
       "source": "연합뉴스TV",
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260802085312oJU"
+    },
+    {
+      "id": "548fabba018a04dd",
+      "issueKey": "리센느",
+      "issueTitle": "리센느",
+      "trendTitle": "리센느",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"원이, 따뜻하고 성실한 학생\"…담임교사가 밝힌 진짜 모습",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202608031010392139",
+          "publishedAt": "2026-08-04T01:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "리센느 원이 ‘일진설’ 잠재운 은사의 묵직한 마지막 인사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803172409095?f=p",
+          "publishedAt": "2026-08-04T01:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "원이 중등 담임, '일진설' 폭로자 사라지자 계정 삭제",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260803_0003734153",
+          "publishedAt": "2026-08-04T01:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "리센느 원이 ‘일진설’ 잠재운 은사의 묵직한 마지막 인사",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803172409095?f=p",
+        "publishedAt": "2026-08-04T01:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-04T01:00:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "리센느",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260803172409095?f=p"
     },
     {
       "id": "692234d20205279e",
@@ -1509,6 +1561,52 @@
       "title": "파에 감독",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260801211031451"
+    },
+    {
+      "id": "59902455d50452c9",
+      "issueKey": "최진실",
+      "issueTitle": "최진실",
+      "trendTitle": "최진실",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "故 최진실 인연…홍진경, 최환희 생일 직접 축하 '훈훈' [MHN:피드]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260803185026614",
+          "publishedAt": "2026-08-04T00:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "홍진경, 故최진실 빈자리 또 챙겼다..최준희와 최환희 '생일파티' 훈훈 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/03/GFTGKY3DGJQTGZJRGQYTQODEMM/",
+          "publishedAt": "2026-08-04T00:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "故 최진실과 똑닮은 하관..최준희X환희, 다정한 투샷 \"생일축하해\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-03/202608030100017250001029",
+          "publishedAt": "2026-08-04T00:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "故 최진실 인연…홍진경, 최환희 생일 직접 축하 '훈훈' [MHN:피드]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260803185026614",
+        "publishedAt": "2026-08-04T00:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-04T00:00:00.000Z",
+      "firstSeenAt": "2026-08-04T02:32:08.019Z",
+      "lastSeenAt": "2026-08-04T02:32:08.019Z",
+      "title": "최진실",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260803185026614"
     },
     {
       "id": "cb25bf739544bdd8",
@@ -2199,144 +2297,6 @@
       "title": "건설",
       "source": "서울경제",
       "url": "https://www.sedaily.com/article/20074813"
-    },
-    {
-      "id": "9abcff492eb8cff2",
-      "issueKey": "lck",
-      "issueTitle": "lck",
-      "trendTitle": "lck",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "HanJin BRION Head Coach Kim Sang-soo: \"Our performance was poor... we need to regroup\"",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/24385/hanjin-brion-head-coach-kim-sang-soo-our-performance-was-poor-we-need-to-regroup",
-          "publishedAt": "2026-08-02T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
-          "source": "Crypto Briefing",
-          "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/",
-          "publishedAt": "2026-08-02T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'Aiming' Kim Ha-ram to Start Against Hanjin Brion Immediately After KRX Trade",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/24350/aiming-kim-ha-ram-to-start-against-hanjin-brion-immediately-after-krx-trade",
-          "publishedAt": "2026-08-02T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "DNS jungler Sharvel's LCK breakout highlights esports' growing talent pipeline, but where's the crypto?",
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/",
-        "publishedAt": "2026-08-02T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T13:50:00.000Z",
-      "firstSeenAt": "2026-08-02T16:00:15.067Z",
-      "lastSeenAt": "2026-08-02T19:09:33.603Z",
-      "title": "lck",
-      "source": "Crypto Briefing",
-      "url": "https://cryptobriefing.com/sharvel-lck-esports-crypto-sponsorship/"
-    },
-    {
-      "id": "780cdaac1fd77800",
-      "issueKey": "사망",
-      "issueTitle": "사망",
-      "trendTitle": "사망",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802202450516",
-          "publishedAt": "2026-08-02T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "인니 동자바주서 271명 탄 여객선에 큰불…5명 사망·41명 실종(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260802039551104",
-          "publishedAt": "2026-08-02T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "인도네시아 여객선 큰불...40여 명 사망·실종",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202608030014210882",
-          "publishedAt": "2026-08-02T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여객선 화재에 승객들 바다로 '풍덩'...5명 사망·41명 실종",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802202450516",
-        "publishedAt": "2026-08-02T15:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T15:40:00.000Z",
-      "firstSeenAt": "2026-08-02T19:09:33.603Z",
-      "lastSeenAt": "2026-08-02T19:09:33.603Z",
-      "title": "사망",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260802202450516"
-    },
-    {
-      "id": "3103fa6c724ee7db",
-      "issueKey": "히샬리송",
-      "issueTitle": "히샬리송",
-      "trendTitle": "히샬리송",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260802194736973",
-          "publishedAt": "2026-08-02T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'양민혁 결장' 토트넘, 프리시즌 친선경기서 첼시에 2-1 승리...히샬리송 결승골",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/01/202608012100778431O",
-          "publishedAt": "2026-08-02T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'韓 최고재능' 양민혁 날벼락! 첼시전 충격의 0분…일찌감치 경쟁 빨간불 '또 임대?'→토트넘에 자리 보이질 않는다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260802n00354",
-          "publishedAt": "2026-08-02T15:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "손흥민 “토트넘 내가 필요하냐” 물어봤는데, 히샬리송 ‘가끔 토트넘 떠나길 원한다’…데 제르브 감독 작심발언",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260802194736973",
-        "publishedAt": "2026-08-02T15:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T15:30:00.000Z",
-      "firstSeenAt": "2026-08-02T19:09:33.603Z",
-      "lastSeenAt": "2026-08-02T19:09:33.603Z",
-      "title": "히샬리송",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260802194736973"
     }
   ]
 }

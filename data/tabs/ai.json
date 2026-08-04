@@ -4,9 +4,45 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-08-03T22:08:39.747Z",
-  "articleCount": 12,
+  "lastUpdatedAt": "2026-08-04T02:32:08.019Z",
+  "articleCount": 14,
   "articles": [
+    {
+      "id": "ca3492631d1e46a7",
+      "title": "앤트로픽, AI 안전성 평가 중 클로드의 실제 기업 해킹 인정",
+      "url": "https://www.itworld.co.kr/article/4204702/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%95%88%ec%a0%84%ec%84%b1-%ed%8f%89%ea%b0%80-%ec%a4%91-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%9d%98-%ec%8b%a4%ec%a0%9c-%ea%b8%b0%ec%97%85-%ed%95%b4%ed%82%b9.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-04T00:35:41.000Z",
+      "summary": "앤트로픽은 가상 네트워크 환경에서 클로드 오퍼스 4.7, 클로드 미토스 5, 내부 테스트 모델의 정보 탐색 역량을 검증하는 평가를 진행했다. 문제는 파트너사 중 한 곳이 설정을 잘못 구성하면서 시작됐다. 인터넷에 접속하게 된 모델은 가상 기업과 이름이 같거나 비슷한 실제 기업을 탐색 대상으로 삼았다. 그 결과 실제 기업 세 곳이 해킹 피해를 입었다. 앤트로픽은 7월 23일 테스트를 중단...",
+      "tab": "ai"
+    },
+    {
+      "id": "7b0e6b452b33a8c5",
+      "title": "발견한 취약점을 테스트로 남기지 않으면 어떤 일이 벌어지나",
+      "url": "https://www.itworld.co.kr/article/4204698/%eb%b0%9c%ea%b2%ac%ed%95%9c-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9d%84-%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%a1%9c-%eb%82%a8%ea%b8%b0%ec%a7%80-%ec%95%8a%ec%9c%bc%eb%a9%b4-%ec%96%b4%eb%96%a4-%ec%9d%bc%ec%9d%b4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-04T00:25:26.000Z",
+      "summary": "전통적인 소프트웨어 엔지니어링에서 심각한 버그는 회귀 테스트로 남는다. 에이전트 보안에도 같은 수준의 엄격한 접근법이 필요하다. AI 에이전트가 실제 시스템과 연결되는 속도는 대다수 기업이 보안 역량을 쌓는 속도를 앞지르고 있다. 우리는 이 상황을 심각하게 우려해야 한다. AI 보안에 관한 초기 논의는 유익했지만 한계가 분명했다. 업계는 관련 어휘를 익혔다. 프롬프트 인젝션, 간접 프롬...",
+      "tab": "ai"
+    },
+    {
+      "id": "23833f577ca887cd",
+      "title": "AI 데이터센터가 촉발한 메모리 대란, 2027년 이후에도 해소 불투명",
+      "url": "https://www.itworld.co.kr/article/4204693/ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ea%b0%80-%ec%b4%89%eb%b0%9c%ed%95%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%8c%80%eb%9e%80-2027%eb%85%84-%ec%9d%b4%ed%9b%84%ec%97%90%eb%8f%84-%ed%95%b4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-04T00:11:22.000Z",
+      "summary": "AI가 주도하는 메모리 부족 사태가 계속되면서 전반적인 가격 상승세가 이어지고 있다. 노트북, PC, 플래시 드라이브, SSD, 라우터, 스마트폰 가격이 일제히 치솟고 있는 것도 같은 이유다. 내년에도 상황이 개선될 기미는 보이지 않는다. 삼성전자 메모리 반도체 부문 김재준 부사장이 최근 애널리스트 컨퍼런스에서 공급 부족이 2026년 전반에 걸쳐, 더 나아가 2027년 상당 기간까지 이...",
+      "tab": "ai"
+    },
+    {
+      "id": "7fa14df29835e7b5",
+      "title": "NC IDS, 'NC AX'로 사명 변경…“AX 사업 경쟁력 확대”",
+      "url": "https://www.etnews.com/20260803000431",
+      "source": "전자신문 게임",
+      "publishedAt": "2026-08-03T08:54:03.000Z",
+      "summary": "엔씨(NC)의 정보기술(IT) 서비스 전문 자회사 엔씨아이디에스(NC IDS)가 사명을 엔씨에이엑스(NC AX)로 변경한다고 3일 밝혔다. NC AX는 지난 2024년 설립 후 AI 기술을 산업 현장에 적용하고 사업화하는 AX(AI 전환) 중심 기업을 지향해 왔다. 이번 사명 변경을 통해 AX 기업으로서의 정체성을 강화하고, AI 기반 사업 경쟁력을 확대해 나갈 계획이다. NC AX는...",
+      "tab": "ai"
+    },
     {
       "id": "931e8bc51d0c264e",
       "title": "NC IDS, 'NC AX'로 사명 변경…AI 전환 전문 기업으로 새 출발",
@@ -53,6 +89,15 @@
       "tab": "ai"
     },
     {
+      "id": "7cf74fd75d31fe8f",
+      "title": "크래프톤, 한국어 성능 1위 음성 AI 파운데이션 모델 'A.X K2 Raon-Speech' 공개",
+      "url": "https://www.etnews.com/20260729000202",
+      "source": "전자신문 게임",
+      "publishedAt": "2026-07-29T03:36:05.000Z",
+      "summary": "크래프톤(259960)은 음성 AI 파운데이션 모델 'A.X K2 Raon-Speech'를 글로벌 AI 플랫폼 허깅페이스에 공개했다고 29일 밝혔다. 크래프톤은 과학기술정보통신부가 주관하는 '독자 AI 파운데이션 모델' 프로젝트의 SK텔레콤 정예팀에 참여해 차세대 멀티모달 모델 연구를 주도하고 있다. A.X K2 Raon-Speech는 프로젝트 2차수 성과 중 하나로 공개된 음성 언어...",
+      "tab": "ai"
+    },
+    {
       "id": "a49e5796151465af",
       "title": "“누가 만들었나”가 중요하지 않은 세상…에이전트 코딩의 끝없는 연쇄",
       "url": "https://www.itworld.co.kr/article/4202565/%eb%88%84%ea%b0%80-%eb%a7%8c%eb%93%a4%ec%97%88%eb%82%98%ea%b0%80-%ec%a4%91%ec%9a%94%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-%ec%84%b8%ec%83%81-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%bd%94.html",
@@ -86,33 +131,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-07-28T00:40:17.000Z",
       "summary": "허깅페이스(Hugging Face) CEO 클레망 들랑게가 오픈AI의 AI 에이전트가 자사 시스템을 해킹한 사건을 계기로 ‘과격한 투명성(radical transparency)’을 요구하고 나섰다. 들랑게는 7월 26일 X에 올린 게시물에서 오픈AI에 ‘이탈(rogue)’ 에이전트의 실행 추적 데이터를 공개해 연구 커뮤니티 전체가 사건 경위를 분석할 수 있도록 해달라고 촉구했다. 또한...",
-      "tab": "ai"
-    },
-    {
-      "id": "1db4c27a0b34ff02",
-      "title": "“어떻게 만들고 어떻게 관리할 것인가” 데이터 제품 개발의 성패를 가르는 5가지 핵심 질문",
-      "url": "https://www.itworld.co.kr/article/4199156/%ec%96%b4%eb%96%bb%ea%b2%8c-%eb%a7%8c%eb%93%a4%ea%b3%a0-%ec%96%b4%eb%96%bb%ea%b2%8c-%ea%b4%80%eb%a6%ac%ed%95%a0-%ea%b2%83%ec%9d%b8%ea%b0%80-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%a0%9c%ed%92%88-%ea%b0%9c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-24T01:07:00.000Z",
-      "summary": "데이터 제품은 제공 속도를 높이고 데이터 자산을 재사용하고 위험을 줄이고 비용을 관리하기 위한 좋은 방법이다. 또한 표준화된 데이터 제품은 분석과 AI 역량을 개선하는 데도 도움이 될 수 있다. 데이터 제품은 원시 데이터 세트, 데이터 웨어하우스 뷰, 데이터 레이크 논리 뷰를 결합하고 사용해 분석 및 AI 역량을 제공하는 방법을 표준화하는 데 도움이 된다. 데이터 제품을 개발하면 사람과...",
-      "tab": "ai"
-    },
-    {
-      "id": "cb38ac956c367ee7",
-      "title": "AI 모델 선택에 매몰되면 안 되는 이유",
-      "url": "https://www.itworld.co.kr/article/4199733/ai-%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ec%97%90-%eb%a7%a4%eb%aa%b0%eb%90%98%eb%a9%b4-%ec%95%88-%eb%90%98%eb%8a%94-%ec%9d%b4%ec%9c%a0.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-24T00:42:54.000Z",
-      "summary": "지난 한 주 동안 매일 LLM 모델 선택 화면을 노려보면서 어떤 모델을 선택하는 것이 좋을지 고민했다. 아마 다른 많은 이들이 마찬가지일 것이다. 오픈AI가 GPT-5.6 솔(Sol), 테라, 루나를 출시했다. 솔은 최상위 모델이고 테라는 솔의 지능 대부분을 보다 저렴한 비용으로 제공하며, 루나는 거기서 한 단계 더 저렴한 모델이다. 앤트로픽은 6월 말 클로드 소넷 5를, 그 전달에는...",
-      "tab": "ai"
-    },
-    {
-      "id": "ea7ccf1ba0ac4daf",
-      "title": "“AI가 뒤집은 규모의 법칙” 소규모 컨설팅 업체가 대형사를 이길 수 있는 이유",
-      "url": "https://www.itworld.co.kr/article/4200386/ai%ea%b0%80-%eb%92%a4%ec%a7%91%ec%9d%80-%ea%b7%9c%eb%aa%a8%ec%9d%98-%eb%b2%95%ec%b9%99-%ec%86%8c%ea%b7%9c%eb%aa%a8-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%97%85%ec%b2%b4%ea%b0%80-%eb%8c%80%ed%98%95.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-23T01:57:46.000Z",
-      "summary": "주요 AI 기업이 기업 고객 확보를 위해 현장 배치 엔지니어(FDE)를 대거 투입하고 있다. 대형 컨설팅 업체도 인간과 에이전트 컨설턴트를 동원해 같은 경쟁에 뛰어들었다. 소규모 전문 업체도 이 대열에 합류하고 있다. 뉴욕에 본사를 둔 자본시장 전문 기술 컨설팅 업체 28스톤 컨설팅(28Stone Consulting)은 직원 수 230명에 불과하지만, AI를 활용해 FDE 공급 경쟁에서...",
       "tab": "ai"
     }
   ]
