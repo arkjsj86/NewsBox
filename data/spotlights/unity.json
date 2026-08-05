@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-08-05T05:45:20.373Z",
+  "lastUpdatedAt": "2026-08-05T08:35:13.830Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "q-IVG-RIWrw",
-      "title": "[Unite Seoul 2026] Unity의 차세대 콘텐츠 빌드 & 로드 시스템",
-      "url": "https://www.youtube.com/watch?v=q-IVG-RIWrw",
-      "publishedAt": "2026-08-03T05:45:12.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/q-IVG-RIWrw/hqdefault.jpg"
+      "id": "lxaNc3z_CHU",
+      "title": "Unity Summer Challenge 우승작 Sizzle Reel",
+      "url": "https://www.youtube.com/watch?v=lxaNc3z_CHU",
+      "publishedAt": "2026-08-05T08:02:20.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/lxaNc3z_CHU/hqdefault.jpg"
     },
     {
-      "id": "2W367UciTQk",
-      "title": "[Unite Seoul 2026] Unity AI를 활용한 개발: 실제 사용 사례",
-      "url": "https://www.youtube.com/watch?v=2W367UciTQk",
-      "publishedAt": "2026-08-03T05:01:46.000Z",
-      "thumbnailUrl": "https://i3.ytimg.com/vi/2W367UciTQk/hqdefault.jpg"
+      "id": "9vYaRTR9Vx8",
+      "title": "[Unite Seoul 2026] 유니티 최신 버전의 다양한 2D 기술",
+      "url": "https://www.youtube.com/watch?v=9vYaRTR9Vx8",
+      "publishedAt": "2026-08-05T04:44:14.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/9vYaRTR9Vx8/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
