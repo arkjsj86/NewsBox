@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-05T16:41:48.935Z",
+  "lastUpdatedAt": "2026-08-05T19:34:15.138Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "3연패 한화생명 \"개개인 실수도 많고, 연패로 분위기 다운\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319235",
+          "meta": "리그 오브 레전드 · 5시간 전"
+        },
+        {
           "title": "리니지M, 8월 1주차 한정 및 주말 제작 정보",
           "url": "https://www.inven.co.kr/webzine/news/?news=319233",
-          "meta": "리니지M · 1시간 전"
+          "meta": "리니지M · 7시간 전"
         },
         {
           "title": "7연패 탈출 김상수 감독 \"확실한 승리 플랜 더 필요\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319232",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "meta": "리그 오브 레전드 · 9시간 전"
         },
         {
           "title": "접전 끝에 거둔 승리... 한진 브리온! 농심 꺾고 7연패 탈출",
           "url": "https://www.inven.co.kr/webzine/news/?news=319230",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "meta": "리그 오브 레전드 · 9시간 전"
         },
         {
           "title": "히로인 전원이 오타쿠, '미술부 그녀 -Girlfailure Art Club-' 스팀 상점 페이지 공개",
           "url": "https://www.inven.co.kr/webzine/news/?news=319156",
-          "meta": "미술부 그녀 -Girlfailure Art Club- · 5시간 전"
-        },
-        {
-          "title": "일로이, 정말로 뽑을 만할까? 이환 첫 한정 서포터 FAQ",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319225",
-          "meta": "이환 · 5시간 전"
+          "meta": "미술부 그녀 -Girlfailure Art Club- · 11시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
