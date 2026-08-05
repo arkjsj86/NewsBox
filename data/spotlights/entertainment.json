@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-04T22:11:43.124Z",
+  "lastUpdatedAt": "2026-08-05T02:31:26.945Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "19f80c411a30c716",
-      "issueKey": "하반기 원전",
-      "issueTitle": "하반기 원전",
-      "trendTitle": "두산에너 빌리티",
+      "id": "5cf8c1fd1cb25aa1",
+      "issueKey": "임만균",
+      "issueTitle": "임만균",
+      "trendTitle": "임만균",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "임만균, 서울학생필하모닉 오케스트라 여름연주회 참석",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260804_0003736335",
+          "publishedAt": "2026-08-05T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "임만균 서울시의장, 서울교육청 신청사 '서울교육마루' 개관 축하",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/seoul/6249069",
+          "publishedAt": "2026-08-05T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[교육 트렌드] 창단 10주년 서울학생필하모닉, 신청사에 희망을 울리다 外",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/V4jtMJiPon",
+          "publishedAt": "2026-08-05T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임만균, 서울학생필하모닉 오케스트라 여름연주회 참석",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260804_0003736335",
+        "publishedAt": "2026-08-05T01:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-05T01:10:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "임만균",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260804_0003736335",
+      "rank": 1
+    },
+    {
+      "id": "c63a5703fbc3122b",
+      "issueKey": "화이자",
+      "issueTitle": "화이자",
+      "trendTitle": "화이자",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "화이자 '개발중단'에 디앤디파마텍 \"오랄링크 문제 아니다\"",
+          "source": "약사공론",
+          "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539779",
+          "publishedAt": "2026-08-05T01:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[단독] 화이자, 디앤디파마텍 '오랄링크' 후보물질 임상 일부 중단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805073800444",
+          "publishedAt": "2026-08-05T01:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "화이자, 멧세라 인수 '디앤디' 경구용 GLP-1 \"모두 중단\"",
+          "source": "바이오스펙테이터",
+          "url": "https://www.biospectator.com/news/view/29465",
+          "publishedAt": "2026-08-05T01:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "화이자 '개발중단'에 디앤디파마텍 \"오랄링크 문제 아니다\"",
+        "source": "약사공론",
+        "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539779",
+        "publishedAt": "2026-08-05T01:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-05T01:00:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "화이자",
+      "source": "약사공론",
+      "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=539779",
+      "rank": 2
+    },
+    {
+      "id": "e4a06c1f0bd6be61",
+      "issueKey": "고국 방문",
+      "issueTitle": "고국 방문",
+      "trendTitle": "고국 방문",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이스타항공, 다문화 가정에 고국 방문·가족여행 지원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804044400003",
+          "publishedAt": "2026-08-05T01:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이스타항공, 강서구 다문화 가정에 고국 방문 항공권 지원",
+          "source": "메트로신문",
+          "url": "https://www.metroseoul.co.kr/article/20260804500348",
+          "publishedAt": "2026-08-05T01:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이스타항공, 다문화 가정에 '고향 가는 하늘길' 선물",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://www.econovill.com/news/articleView.html?idxno=747053",
+          "publishedAt": "2026-08-05T01:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이스타항공, 다문화 가정에 고국 방문·가족여행 지원",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260804044400003",
+        "publishedAt": "2026-08-05T01:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-05T01:00:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "고국 방문",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260804044400003",
+      "rank": 3
+    },
+    {
+      "id": "46abed275352e7fb",
+      "issueKey": "김여정",
+      "issueTitle": "김여정",
+      "trendTitle": "김여정",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "北 김여정, 日 토마호크 발사에 \"반드시 후회하도록 만들어야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805073001290",
+          "publishedAt": "2026-08-05T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김여정 “일본, 군사 대국화 야욕…수수방관 않을 것”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1271462.html",
+          "publishedAt": "2026-08-05T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "北김여정 “日 선제공격형으로 재편…군사적 대응 검토”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260805/134422475/1",
+          "publishedAt": "2026-08-05T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "北 김여정, 日 토마호크 발사에 \"반드시 후회하도록 만들어야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260805073001290",
+        "publishedAt": "2026-08-05T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-05T00:50:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "김여정",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260805073001290",
+      "rank": 4
+    },
+    {
+      "id": "0f8d21869bc36b46",
+      "issueKey": "시미즈 료타로",
+      "issueTitle": "시미즈 료타로",
+      "trendTitle": "마약",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "日 배우 시미즈 료타로, 자택서 숨진 채 발견… 향년 37세",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260804_0003735836",
+          "publishedAt": "2026-08-05T00:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'불법 도박·마약' 딛고 복귀했는데…일본 유명 배우, 자택서 사망",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/04/2026080405024715314",
+          "publishedAt": "2026-08-05T00:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"37세에 비보\"…`아내 폭행·자숙` 재기 노리던 유명 30대 배우, 숨진 채 발견",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026080508100534847",
+          "publishedAt": "2026-08-05T00:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "日 배우 시미즈 료타로, 자택서 숨진 채 발견… 향년 37세",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260804_0003735836",
+        "publishedAt": "2026-08-05T00:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-05T00:40:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "시미즈 료타로",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260804_0003735836",
+      "rank": 5
+    },
+    {
+      "id": "1048be79e52b5682",
+      "issueKey": "경기도교육청",
+      "issueTitle": "경기도교육청",
+      "trendTitle": "경기도교육청",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "두산에너빌리티 전망, 하반기 원전·가스터빈 수주 모멘텀 본격화",
-          "source": "www.gukjenews.com",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654857",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "두산에너빌리티 주가, 8월 3일 67,700원 0.90% 상승 마감",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16153663",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "원전 모멘텀 다시 부활…두산에너빌리티 장기 성장론 재점화",
-          "source": "핀포인트뉴스",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473548",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "두산에너빌리티 전망, 하반기 원전·가스터빈 수주 모멘텀 본격화",
-        "source": "www.gukjenews.com",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654857",
-        "publishedAt": "2026-08-04T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T21:00:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "하반기 원전",
-      "source": "www.gukjenews.com",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654857",
-      "rank": 1
-    },
-    {
-      "id": "ba3a47ae93a7b70d",
-      "issueKey": "ionq",
-      "issueTitle": "ionq",
-      "trendTitle": "ionq",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Wedbush assumes coverage on IonQ stock with outperform rating",
-          "source": "Investing.com",
-          "url": "https://www.investing.com/news/analyst-ratings/wedbush-assumes-coverage-on-ionq-stock-with-outperform-rating-93CH-4831365",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "IonQ Stock Is Soaring Monday: What's Going On?",
-          "source": "Benzinga",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/08/60881018/ionq-stock-is-soaring-monday-whats-going-on",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Rigetti Computing assumed with an Outperform at Wedbush",
-          "source": "TipRanks",
-          "url": "https://www.tipranks.com/news/the-fly/rigetti-computing-assumed-with-an-outperform-at-wedbush-thefly-news",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Wedbush assumes coverage on IonQ stock with outperform rating",
-        "source": "Investing.com",
-        "url": "https://www.investing.com/news/analyst-ratings/wedbush-assumes-coverage-on-ionq-stock-with-outperform-rating-93CH-4831365",
-        "publishedAt": "2026-08-04T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T21:00:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "ionq",
-      "source": "Investing.com",
-      "url": "https://www.investing.com/news/analyst-ratings/wedbush-assumes-coverage-on-ionq-stock-with-outperform-rating-93CH-4831365",
-      "rank": 2
-    },
-    {
-      "id": "61394f91b16d7bc8",
-      "issueKey": "역전골은 취소",
-      "issueTitle": "역전골은 취소",
-      "trendTitle": "역전골은 취소",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'이게 무슨 상황?' 역전골은 취소, 페널티킥은 오심...수원 삼성만 두 번 울린 석연찮은 판정",
+          "title": "부산교육청, 대입상담 연중 상시 운영",
           "source": "Daum",
-          "url": "https://v.daum.net/v/22TQsaNdWg",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
+          "url": "https://v.daum.net/v/20260804103708290",
+          "publishedAt": "2026-08-05T00:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "수원 헤이스 얼굴 가격에 온필드 리뷰도 없었다…축구협회 “명백한 오심”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8628135",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
+          "title": "[패트롤] 고양시-김포시-남양주시-양주시-파주시",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260804020479160",
+          "publishedAt": "2026-08-05T00:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"팔꿈치에 맞은 수원 헤이스, PK 얻었어야\"…역전골 취소는 정심",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804136100007",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
+          "title": "경기도교육청 2027학년도 수시 모집 대비 ‘대입진학 상담’ 집중 운영",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328779",
+          "publishedAt": "2026-08-05T00:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'이게 무슨 상황?' 역전골은 취소, 페널티킥은 오심...수원 삼성만 두 번 울린 석연찮은 판정",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/22TQsaNdWg",
-        "publishedAt": "2026-08-04T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T21:00:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "역전골은 취소",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/22TQsaNdWg",
-      "rank": 3
-    },
-    {
-      "id": "56a8014f48dbfa4f",
-      "issueKey": "사이영상",
-      "issueTitle": "사이영상",
-      "trendTitle": "사이영상",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘간판’ 이정후 꽉 잡고 7명 내보낸 SF",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260805/134421577/2",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이정후 동료 내주고 '전설의 아들' 품었다…SF, 라모스 트레이드 득실은?",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112852303",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "시즌 포기한 MLB 샌프란시스코, 사이영상·타격왕도 내보내(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804010951007",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "시즌 포기한 MLB 샌프란시스코, 사이영상·타격왕도 내보내(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260804010951007",
-        "publishedAt": "2026-08-04T21:00:00.000Z",
+        "title": "경기도교육청 2027학년도 수시 모집 대비 ‘대입진학 상담’ 집중 운영",
+        "source": "인천일보",
+        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328779",
+        "publishedAt": "2026-08-05T00:30:00.000Z",
         "relevanceScore": 1
       },
-      "publishedAt": "2026-08-04T21:00:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "사이영상",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260804010951007",
-      "rank": 4
-    },
-    {
-      "id": "c1e7e7504075209d",
-      "issueKey": "오늘",
-      "issueTitle": "오늘",
-      "trendTitle": "운세",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[오늘의 운세] 8월 5일 수요일 (음력 6월 23일 辛亥)",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/04/NUHGIWDR3JADJAZGBM3RWPX46U/",
-          "publishedAt": "2026-08-04T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[오늘의 운세/8월 5일]",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260805/134421605/2",
-          "publishedAt": "2026-08-04T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[오늘의 운세] 2026년 08월 04일 띠별 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202608040000000001_",
-          "publishedAt": "2026-08-04T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[오늘의 운세] 8월 5일 수요일 (음력 6월 23일 辛亥)",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/08/04/NUHGIWDR3JADJAZGBM3RWPX46U/",
-        "publishedAt": "2026-08-04T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T20:50:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "오늘",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/08/04/NUHGIWDR3JADJAZGBM3RWPX46U/",
-      "rank": 5
-    },
-    {
-      "id": "eb88a6b0a8b14aeb",
-      "issueKey": "pltr",
-      "issueTitle": "pltr",
-      "trendTitle": "pltr",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Palantir stock jumps nearly 30% after 'otherworldly' quarter as US commercial business booms",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html",
-          "publishedAt": "2026-08-04T20:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Palantir's Commercial Revenue Surges 149%, Narrowing Government Gap",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/08/04/W23BNR4OQBAE5EVM3GFFKJPFEQ/",
-          "publishedAt": "2026-08-04T20:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Palantir Q2 Revenue Surges 93%... Shares Jump 11% After Hours",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026080407045003831",
-          "publishedAt": "2026-08-04T20:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "pltr",
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html",
-        "publishedAt": "2026-08-04T20:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T20:50:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "pltr",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/markets/stocks/article/palantir-stock-jumps-nearly-30-after-otherworldly-quarter-as-us-commercial-business-booms-122817775.html",
+      "publishedAt": "2026-08-05T00:30:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "경기도교육청",
+      "source": "인천일보",
+      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328779",
       "rank": 6
     },
     {
-      "id": "5e5470e8a72790ca",
-      "issueKey": "광고 성패",
-      "issueTitle": "광고 성패",
-      "trendTitle": "광고 성패",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "7d588cfc434c1957",
+      "issueKey": "박하선",
+      "issueTitle": "박하선",
+      "trendTitle": "박하선",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "넷플릭스 \"광고 성패, 노출 아닌 주목도가 결정\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804034700017",
-          "publishedAt": "2026-08-04T20:40:00.000Z",
+          "title": "박하선, C사 백 포인트 더한 수영복 자태…‘럭셔리 썸머룩’ 정석 [IS하이컷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804155727399",
+          "publishedAt": "2026-08-05T00:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'얼마나 많이'보다 '얼마나 제대로'…넷플릭스가 강조한 광고의 새 기준",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/08/04/2026080409403240908",
-          "publishedAt": "2026-08-04T20:40:00.000Z",
+          "title": "'애 엄마 맞아?' '류수영♥' 박하선, 군살 1도 없는 '비키니' 자태",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112851763",
+          "publishedAt": "2026-08-05T00:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'모솔2' 보다 맥주 찾았다…넷플릭스 '몰입형 광고' 눈길",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260804n17102?mid=m02&amp;list=recent&amp;cpcd=",
-          "publishedAt": "2026-08-04T20:40:00.000Z",
+          "title": "\"사막에서 뽐낸 11자 복근\"…박하선, 수영복 자태 완성한 식단은",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260804_0003735164",
+          "publishedAt": "2026-08-05T00:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "넷플릭스 \"광고 성패, 노출 아닌 주목도가 결정\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260804034700017",
-        "publishedAt": "2026-08-04T20:40:00.000Z",
+        "title": "박하선, C사 백 포인트 더한 수영복 자태…‘럭셔리 썸머룩’ 정석 [IS하이컷]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804155727399",
+        "publishedAt": "2026-08-05T00:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T20:40:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "광고 성패",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260804034700017",
+      "publishedAt": "2026-08-05T00:20:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "박하선",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260804155727399",
       "rank": 7
     },
     {
-      "id": "7a39b2d809dc0354",
-      "issueKey": "잠수함",
-      "issueTitle": "잠수함",
-      "trendTitle": "잠수함",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "dc20b81bc86eccb8",
+      "issueKey": "남자친구",
+      "issueTitle": "남자친구",
+      "trendTitle": "남자친구",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "LIG D&A, 3천t급 잠수함 전자전 체계 설계검토 마쳐",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260804137100003",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "title": "남친 감금에 18층서 뛰어내린 20대女…나무 걸려 구사일생[아하중국]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11607275",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "LIG D&A, 장보고-Ⅲ 배치-Ⅱ 3번함 전자전체계 상세설계검토 완료",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/04/2026080413251277625",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "title": "남친과 밤새 다툰 뒤 18층서 뛰어내린 여성…수풀 위 떨어져 생존",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/general-world/6248847",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "LIG D&A, 장보고-Ⅲ 배치-Ⅱ 3번함 전자전체계 CDR 완료…수중 전자전 기술 국산화 속도",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608041310232185",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "title": "“기적적으로 살았다”…남친과 다툰 뒤 아파트 18층서 뛰어내린 20대女",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804152401668?f=p",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "LIG D&A, 3천t급 잠수함 전자전 체계 설계검토 마쳐",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260804137100003",
-        "publishedAt": "2026-08-04T20:30:00.000Z",
+        "title": "남자친구",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11607275",
+        "publishedAt": "2026-08-05T00:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-04T20:30:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "잠수함",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260804137100003",
+      "publishedAt": "2026-08-05T00:10:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "남자친구",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11607275",
       "rank": 8
     },
     {
-      "id": "aa5ded493982a07e",
-      "issueKey": "테니스",
-      "issueTitle": "테니스",
-      "trendTitle": "테니스",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "115942fbb9ee0e77",
+      "issueKey": "중국 상하",
+      "issueTitle": "중국 상하",
+      "trendTitle": "중국 상하",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "한국 14세 女 대표팀, 슬로바키아에 충격패.. 8강 진출 불투명",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=53396",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "title": "이것저것 시도해 보지만 신통치 않다 … 생존 위협 파라타항공",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400114.html",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "미국 대학테니스는 프로 선수 저수지",
-          "source": "테니스피플",
-          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19193",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "title": "연말 양양~중국 상하이 하늘길 열린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804000723879",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "미국은 왜 대학에서 국제테니스대회를 많이 열까",
-          "source": "테니스피플",
-          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19184",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "title": "파라타항공, 5호기 A330-200 도입…내년 상반기 미주 취항 '속도'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608031007g",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "미국 대학테니스는 프로 선수 저수지",
-        "source": "테니스피플",
-        "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19193",
-        "publishedAt": "2026-08-04T20:30:00.000Z",
+        "title": "연말 양양~중국 상하이 하늘길 열린다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804000723879",
+        "publishedAt": "2026-08-05T00:10:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-08-04T20:30:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "테니스",
-      "source": "테니스피플",
-      "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19193",
+      "publishedAt": "2026-08-05T00:10:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "중국 상하",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260804000723879",
       "rank": 9
     },
     {
-      "id": "05e6efdf147502fc",
-      "issueKey": "불",
-      "issueTitle": "불",
-      "trendTitle": "불",
+      "id": "b97ee34a5d588334",
+      "issueKey": "묵호항",
+      "issueTitle": "묵호항",
+      "trendTitle": "묵호항",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "한밤 부천 원미구 아파트서 불…60대 주민 중상",
+          "title": "잠 깨운 '빵빵빵' 소리…\"4년 만에 또\" 속타는 묵호시장",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260805052252670",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "url": "https://v.daum.net/v/20260804210605341",
+          "publishedAt": "2026-08-05T00:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "경기 부천 원미구 상가서 불…“에어컨 전선 합선 추정”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8628064",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "title": "동해시, 묵호시장 화재 후속 조치…상인 복귀·정상화 지원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260804067200062",
+          "publishedAt": "2026-08-05T00:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "경기 부천 상가서 불…\"에어컨 발화 가능성\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008689594",
-          "publishedAt": "2026-08-04T20:30:00.000Z",
+          "title": "동해 묵호항 인근 상가 화재… 대응 1단계 발령",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/08/04/2AY7NJK5FVDYFBLWTBPQFA2PKI/",
+          "publishedAt": "2026-08-05T00:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "한밤 부천 원미구 아파트서 불…60대 주민 중상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260805052252670",
-        "publishedAt": "2026-08-04T20:30:00.000Z",
-        "relevanceScore": 3
+        "title": "동해 묵호항 인근 상가 화재… 대응 1단계 발령",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/regional/2026/08/04/2AY7NJK5FVDYFBLWTBPQFA2PKI/",
+        "publishedAt": "2026-08-05T00:00:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-08-04T20:30:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "불",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260805052252670",
+      "publishedAt": "2026-08-05T00:00:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "묵호항",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/national/regional/2026/08/04/2AY7NJK5FVDYFBLWTBPQFA2PKI/",
       "rank": 10
     }
   ],
@@ -727,6 +727,52 @@
       "title": "장동건",
       "source": "Daum",
       "url": "https://v.daum.net/v/79N7GOIkmU"
+    },
+    {
+      "id": "dc20b81bc86eccb8",
+      "issueKey": "남자친구",
+      "issueTitle": "남자친구",
+      "trendTitle": "남자친구",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "남친 감금에 18층서 뛰어내린 20대女…나무 걸려 구사일생[아하중국]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11607275",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "남친과 밤새 다툰 뒤 18층서 뛰어내린 여성…수풀 위 떨어져 생존",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/general-world/6248847",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“기적적으로 살았다”…남친과 다툰 뒤 아파트 18층서 뛰어내린 20대女",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804152401668?f=p",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "남자친구",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11607275",
+        "publishedAt": "2026-08-05T00:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-05T00:10:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "남자친구",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11607275"
     },
     {
       "id": "544d643525a36867",
@@ -1339,6 +1385,98 @@
       "title": "indonesia đấu với việt nam",
       "source": "Znews",
       "url": "https://znews.vn/tuyen-viet-nam-thang-de-indonesia-3-0-post1674483.html"
+    },
+    {
+      "id": "46abed275352e7fb",
+      "issueKey": "김여정",
+      "issueTitle": "김여정",
+      "trendTitle": "김여정",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "北 김여정, 日 토마호크 발사에 \"반드시 후회하도록 만들어야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805073001290",
+          "publishedAt": "2026-08-05T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김여정 “일본, 군사 대국화 야욕…수수방관 않을 것”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1271462.html",
+          "publishedAt": "2026-08-05T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "北김여정 “日 선제공격형으로 재편…군사적 대응 검토”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260805/134422475/1",
+          "publishedAt": "2026-08-05T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "北 김여정, 日 토마호크 발사에 \"반드시 후회하도록 만들어야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260805073001290",
+        "publishedAt": "2026-08-05T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-05T00:50:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "김여정",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260805073001290"
+    },
+    {
+      "id": "115942fbb9ee0e77",
+      "issueKey": "중국 상하",
+      "issueTitle": "중국 상하",
+      "trendTitle": "중국 상하",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이것저것 시도해 보지만 신통치 않다 … 생존 위협 파라타항공",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400114.html",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "연말 양양~중국 상하이 하늘길 열린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260804000723879",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "파라타항공, 5호기 A330-200 도입…내년 상반기 미주 취항 '속도'",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608031007g",
+          "publishedAt": "2026-08-05T00:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "연말 양양~중국 상하이 하늘길 열린다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260804000723879",
+        "publishedAt": "2026-08-05T00:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-05T00:10:00.000Z",
+      "firstSeenAt": "2026-08-05T02:31:26.945Z",
+      "lastSeenAt": "2026-08-05T02:31:26.945Z",
+      "title": "중국 상하",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260804000723879"
     },
     {
       "id": "4e7d994ada0e4038",
@@ -2213,144 +2351,6 @@
       "title": "Top of the Top Sopot Festival 2026. Małgorzata Ostrowska o swoim występie",
       "source": "TVN24",
       "url": "https://tvn24.pl/polska/top-of-the-top-sopot-festival-2026-malgorzata-ostrowska-o-swoim-wystepie-st9170460"
-    },
-    {
-      "id": "8c837345ec204399",
-      "issueKey": "전장연",
-      "issueTitle": "전장연",
-      "trendTitle": "전장연",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보] “장애인권리예산 보장하라”…전장연 출근길 지하철 행동, 노량진역 무정차 통과",
-          "source": "비마이너",
-          "url": "https://www.beminor.com/news/articleView.html?idxno=30222",
-          "publishedAt": "2026-08-02T23:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전장연 지하철 탑승 시위에…혜화역·노량진역 무정차 통과",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608030875i",
-          "publishedAt": "2026-08-02T23:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[속보] 코레일 \"수도권 전철 1호선 상행선 노량진역 무정차 통과 종료…정상 운행 중\"",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1673719/%EC%86%8D%EB%B3%B4-%EC%BD%94%EB%A0%88%EC%9D%BC-%EC%88%98%EB%8F%84%EA%B6%8C-%EC%A0%84%EC%B2%A0-1%ED%98%B8%EC%84%A0-%EC%83%81%ED%96%89-2026",
-          "publishedAt": "2026-08-02T23:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보] “장애인권리예산 보장하라”…전장연 출근길 지하철 행동, 노량진역 무정차 통과",
-        "source": "비마이너",
-        "url": "https://www.beminor.com/news/articleView.html?idxno=30222",
-        "publishedAt": "2026-08-02T23:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-02T23:50:00.000Z",
-      "firstSeenAt": "2026-08-03T02:48:50.258Z",
-      "lastSeenAt": "2026-08-03T02:48:50.258Z",
-      "title": "전장연",
-      "source": "비마이너",
-      "url": "https://www.beminor.com/news/articleView.html?idxno=30222"
-    },
-    {
-      "id": "19f80c411a30c716",
-      "issueKey": "하반기 원전",
-      "issueTitle": "하반기 원전",
-      "trendTitle": "두산에너 빌리티",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "두산에너빌리티 전망, 하반기 원전·가스터빈 수주 모멘텀 본격화",
-          "source": "www.gukjenews.com",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654857",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "두산에너빌리티 주가, 8월 3일 67,700원 0.90% 상승 마감",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16153663",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "원전 모멘텀 다시 부활…두산에너빌리티 장기 성장론 재점화",
-          "source": "핀포인트뉴스",
-          "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=473548",
-          "publishedAt": "2026-08-04T21:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "두산에너빌리티 전망, 하반기 원전·가스터빈 수주 모멘텀 본격화",
-        "source": "www.gukjenews.com",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654857",
-        "publishedAt": "2026-08-04T21:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T21:00:00.000Z",
-      "firstSeenAt": "2026-08-04T22:11:43.124Z",
-      "lastSeenAt": "2026-08-04T22:11:43.124Z",
-      "title": "하반기 원전",
-      "source": "www.gukjenews.com",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3654857"
-    },
-    {
-      "id": "22fd4f17d77fa406",
-      "issueKey": "감염",
-      "issueTitle": "감염",
-      "trendTitle": "감염",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "미국서 기생충 감염사태 사망자 2명 발생",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804052354707",
-          "publishedAt": "2026-08-04T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "양상추 먹었다가 2명 사망, 193명 입원…미국서 확산한 '감염증' 비상",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/04/2026080413022944643",
-          "publishedAt": "2026-08-04T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "미시간 주, 얌브랜드에 7월 2일 기생충 발병 연락 - 블룸버그",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2042265",
-          "publishedAt": "2026-08-04T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "미국서 기생충 감염사태 사망자 2명 발생",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804052354707",
-        "publishedAt": "2026-08-04T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T15:20:00.000Z",
-      "firstSeenAt": "2026-08-04T19:36:48.333Z",
-      "lastSeenAt": "2026-08-04T19:36:48.333Z",
-      "title": "감염",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260804052354707"
     }
   ]
 }
