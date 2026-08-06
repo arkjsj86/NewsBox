@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-06T05:48:34.753Z",
+  "lastUpdatedAt": "2026-08-06T08:35:22.098Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "395af6d750a7b802",
-      "issueKey": "기초",
-      "issueTitle": "기초",
-      "trendTitle": "구윤철",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "구윤철 \"기초·퇴직연금 개편 방안 조만간 발표\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260806038400002",
-          "publishedAt": "2026-08-06T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "구조혁신 관계장관회의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260806_0021389875",
-          "publishedAt": "2026-08-06T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘증시 안정되고 있다‘ 발언 후 시장은 ’매도 사이트카‘",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005895298",
-          "publishedAt": "2026-08-06T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "구윤철 \"기초·퇴직연금 개편 방안 조만간 발표\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260806038400002",
-        "publishedAt": "2026-08-06T04:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-06T04:20:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "기초",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260806038400002",
-      "rank": 1
-    },
-    {
-      "id": "9e55644a05b21557",
-      "issueKey": "전술 핵무기",
-      "issueTitle": "전술 핵무기",
-      "trendTitle": "전술 핵무기",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "미국, 한국 방어에 전술핵 꺼내나…'사용 가능한 핵' 전략 검토",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6zsxEu71gA",
-          "publishedAt": "2026-08-06T03:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“미국, 중·러의 동맹 공격 대비…단거리전술핵 강조 새 전략 논의”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8629991",
-          "publishedAt": "2026-08-06T03:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"핵전략 완전히 바뀐다\" 초안 나왔다…\"한국 안보는 ICBM 대신 '이것'\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008693109&amp;plink=RSSLINK&amp;cooper=GSTAND",
-          "publishedAt": "2026-08-06T03:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전술 핵무기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6zsxEu71gA",
-        "publishedAt": "2026-08-06T03:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-06T03:50:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "전술 핵무기",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/6zsxEu71gA",
-      "rank": 2
-    },
-    {
-      "id": "d24e93bf93af1f39",
-      "issueKey": "대통령",
-      "issueTitle": "대통령",
-      "trendTitle": "대통령",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "가뭄-폭염 대처현황 현장점검",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72845&amp;pWise=sub&amp;pWiseSub=D4",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이 대통령 “폭염 완화 때까지 전방위적 대응 체계 가동…가용 자원 총동원”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806120252002",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "李 “외신서나 보던 폭염이 우리 현실로…행정력 총동원”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260806/134430136/2",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이 대통령 “폭염 완화 때까지 전방위적 대응 체계 가동…가용 자원 총동원”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260806120252002",
-        "publishedAt": "2026-08-06T03:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-06T03:40:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "대통령",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260806120252002",
-      "rank": 3
-    },
-    {
-      "id": "e4998263de9fe5d9",
-      "issueKey": "하도급",
-      "issueTitle": "하도급",
-      "trendTitle": "하도급",
+      "id": "33c5561b332408f6",
+      "issueKey": "무역수지",
+      "issueTitle": "무역수지",
+      "trendTitle": "무역수지",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "공정위, 세라젬 하도급법 위반 제재…과징금 4억3천만 원",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8630221",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
+          "title": "캐나다, 금 수출 호조로 4개월 연속 무역 흑자 기록",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/economy-news/article-93CH-2043980",
+          "publishedAt": "2026-08-06T07:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "중소기업 도면 요구해 중국법인에 넘긴 세라젬",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&amp;key=20260806.99099001576",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
+          "title": "6월 무역흑자 39억 불",
+          "source": "캐나다 한국일보",
+          "url": "https://www.koreatimes.net/ArticleViewer/Article/178562",
+          "publishedAt": "2026-08-06T07:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "하도급업체 도면 요구해 中법인에 넘긴 세라젬…과징금 4억3천만(종합)",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1135977",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
+          "title": "캐나다 6월 무역 흑자 확대...대미 무역흑자 99.8억 캐나다달러",
+          "source": "CNews",
+          "url": "https://www.thecommoditiesnews.com/news/articleView.html?idxno=11616",
+          "publishedAt": "2026-08-06T07:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "공정위, 세라젬 하도급법 위반 제재…과징금 4억3천만 원",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8630221",
-        "publishedAt": "2026-08-06T03:40:00.000Z",
+        "title": "무역수지",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/economy-news/article-93CH-2043980",
+        "publishedAt": "2026-08-06T07:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-06T03:40:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "하도급",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8630221",
-      "rank": 4
+      "publishedAt": "2026-08-06T07:30:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "무역수지",
+      "source": "Investing.com 한국어",
+      "url": "https://kr.investing.com/news/economy-news/article-93CH-2043980",
+      "rank": 1
     },
     {
-      "id": "1ce8ee587d0f249b",
-      "issueKey": "우주 쓰레기",
-      "issueTitle": "우주 쓰레기",
-      "trendTitle": "우주 쓰레기",
+      "id": "74715cd5f67d0b41",
+      "issueKey": "만평",
+      "issueTitle": "만평",
+      "trendTitle": "만평",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[국제]스페이스X 로켓 잔해, 달 표면에 충돌...우주 쓰레기 4t 증가",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0104_202608060655495664_005.html",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
+          "title": "[신아 AI 만평] 트럼프, \"이제 어쩌지...\"",
+          "source": "신아일보",
+          "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048897",
+          "publishedAt": "2026-08-06T07:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "다누리, 달 인공물 충돌 관측한다",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148969415&amp;pWise=sub&amp;pWiseSub=C4",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
+          "title": "3만평 동희오토 홀로 관리하던 청년 소방관리자의 죽음",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/7GPFff4qOn",
+          "publishedAt": "2026-08-06T07:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "스페이스X 로켓 상단부 5일 달과 충돌…다누리 궤도선, 변화 관측",
+          "title": "李 대통령 '군공항 이전' 공개 질책에...무안군 화들짝 \"협조\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/GfxIaSvmlL",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
+          "url": "https://v.daum.net/v/2ENdndJ65C",
+          "publishedAt": "2026-08-06T07:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[국제]스페이스X 로켓 잔해, 달 표면에 충돌...우주 쓰레기 4t 증가",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0104_202608060655495664_005.html",
-        "publishedAt": "2026-08-06T03:40:00.000Z",
+        "title": "[신아 AI 만평] 트럼프, \"이제 어쩌지...\"",
+        "source": "신아일보",
+        "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048897",
+        "publishedAt": "2026-08-06T07:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-06T03:40:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "우주 쓰레기",
-      "source": "YTN",
-      "url": "https://www.ytn.co.kr/_cs/_ln_0104_202608060655495664_005.html",
-      "rank": 5
+      "publishedAt": "2026-08-06T07:30:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "만평",
+      "source": "신아일보",
+      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5048897",
+      "rank": 2
     },
     {
-      "id": "d2d80bdeba50740b",
-      "issueKey": "고려대",
-      "issueTitle": "고려대",
-      "trendTitle": "고려대",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "2c442b38805b5b55",
+      "issueKey": "반민정",
+      "issueTitle": "반민정",
+      "trendTitle": "반민정",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "고려대, 유승민 딸 연구부정 의혹에 \"문제없다\" 결론",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/national_general/2026/08/06/7FRHH3F3TVEC7NQP5P724NKRBQ/",
-          "publishedAt": "2026-08-06T03:30:00.000Z",
+          "title": "'9월 결혼' 반민정 누구? 조덕제 성추행 피해자→'각시탈' 연기상 [스타이슈]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260806n21843",
+          "publishedAt": "2026-08-06T07:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "고려대, 유승민 딸 논문 의혹 “연구 부정 아냐” 결론",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8630289",
-          "publishedAt": "2026-08-06T03:30:00.000Z",
+          "title": "반민정, 9월 결혼…예비신랑은 1살 연상 사업가",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260806_0003739119",
+          "publishedAt": "2026-08-06T07:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "고려대, ‘유승민 딸’ 유담씨 논문 “연구 부정 행위 아니다” 결론",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1271688.html",
-          "publishedAt": "2026-08-06T03:30:00.000Z",
+          "title": "[단독] '각시탈' 반민정, 9월 결혼…청첩장 입수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806110308082",
+          "publishedAt": "2026-08-06T07:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "고려대, 유승민 딸 연구부정 의혹에 \"문제없다\" 결론",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/national_general/2026/08/06/7FRHH3F3TVEC7NQP5P724NKRBQ/",
-        "publishedAt": "2026-08-06T03:30:00.000Z",
+        "title": "'9월 결혼' 반민정 누구? 조덕제 성추행 피해자→'각시탈' 연기상 [스타이슈]",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260806n21843",
+        "publishedAt": "2026-08-06T07:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-06T03:30:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "고려대",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/national_general/2026/08/06/7FRHH3F3TVEC7NQP5P724NKRBQ/",
-      "rank": 6
+      "publishedAt": "2026-08-06T07:10:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "반민정",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260806n21843",
+      "rank": 3
     },
     {
-      "id": "40ad21fcc6512e93",
-      "issueKey": "두번의 분당",
-      "issueTitle": "두번의 분당",
-      "trendTitle": "두번의 분당",
+      "id": "709158db6f6dbe68",
+      "issueKey": "하한가",
+      "issueTitle": "하한가",
+      "trendTitle": "하한가",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "李 대통령 '부정 평가' 일주일새 4.9%p 상승 … 20대 '긍정 평가' 18.8%p 폭락",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/06/2026080600031.html",
-          "publishedAt": "2026-08-06T03:30:00.000Z",
+          "title": "11주 주문에 SK하이닉스 하한가…반복되는 넥스트레이드 가격 왜곡",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/stock-finance/2026/08/06/2GDLHSBM7BDEZCL7V5OHKP472Q/",
+          "publishedAt": "2026-08-06T06:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[속보]李지지 47.7%…20대 지지율 18%p 폭락-미디어토마토",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11607594",
-          "publishedAt": "2026-08-06T03:30:00.000Z",
+          "title": "SK하이닉스 11주에 또 하한가…NXT 프리마켓 시초가 왜곡 9일 만에 재발 By 알파경제 alphabiz",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2048217",
+          "publishedAt": "2026-08-06T06:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김영진, 與전대 과열에 “두번의 분당, 반면교사 삼아야”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260806/134429829/1",
-          "publishedAt": "2026-08-06T03:30:00.000Z",
+          "title": "SK하이닉스 10% 폭락…프리마켓서 ‘11주 하한가 체결’ 소동도",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/economy/finance/1271731.html",
+          "publishedAt": "2026-08-06T06:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김영진, 與전대 과열에 “두번의 분당, 반면교사 삼아야”",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20260806/134429829/1",
-        "publishedAt": "2026-08-06T03:30:00.000Z",
-        "relevanceScore": 1
+        "title": "11주 주문에 SK하이닉스 하한가…반복되는 넥스트레이드 가격 왜곡",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/stock-finance/2026/08/06/2GDLHSBM7BDEZCL7V5OHKP472Q/",
+        "publishedAt": "2026-08-06T06:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-08-06T03:30:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "두번의 분당",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Politics/article/all/20260806/134429829/1",
-      "rank": 7
+      "publishedAt": "2026-08-06T06:50:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "하한가",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/stock-finance/2026/08/06/2GDLHSBM7BDEZCL7V5OHKP472Q/",
+      "rank": 4
     },
     {
-      "id": "b0e527fb2a440898",
-      "issueKey": "ufc 331",
-      "issueTitle": "ufc 331",
-      "trendTitle": "ufc 331",
+      "id": "b419a6dcb588441e",
+      "issueKey": "젠지",
+      "issueTitle": "젠지",
+      "trendTitle": "젠지",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Flyweight Champion Joshua Van Set For Rematch With Alexandre Pantoja At Crypto.com UFC 331",
-          "source": "UFC.com",
-          "url": "https://www.ufc.com/news/flyweight-champion-joshua-van-set-rematch-alexandre-pantoja-cryptocom-ufc-331",
-          "publishedAt": "2026-08-06T03:20:00.000Z",
+          "title": "예스24, ‘2026 LoL KeSPA CUP’ 결선 티켓 단독 판매",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202608061252202198204ead0791_12",
+          "publishedAt": "2026-08-06T06:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Steveson Returns At UFC 331 Alongside Despaigne",
-          "source": "boxingnews.com",
-          "url": "https://boxingnews.com/news/gable-steveson-ufc-331-robelis-despaigne",
-          "publishedAt": "2026-08-06T03:20:00.000Z",
+          "title": "'신의 손' 케리아의 블츠 맹활약⋯T1, 한화생명 2-1 역전승 [종합]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2610999",
+          "publishedAt": "2026-08-06T06:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Gable Steveson to face Sean Sharaf in second UFC fight at UFC 331",
-          "source": "On3",
-          "url": "https://www.on3.com/pro/news/gable-steveson-to-face-sean-sharaf-in-second-ufc-fight-at-ufc-331/",
-          "publishedAt": "2026-08-06T03:20:00.000Z",
+          "title": "젠지, KeSPA컵서 DN 격파…HLE와 대결 성사",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030206775",
+          "publishedAt": "2026-08-06T06:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Flyweight Champion Joshua Van Set For Rematch With Alexandre Pantoja At Crypto.com UFC 331",
-        "source": "UFC.com",
-        "url": "https://www.ufc.com/news/flyweight-champion-joshua-van-set-rematch-alexandre-pantoja-cryptocom-ufc-331",
-        "publishedAt": "2026-08-06T03:20:00.000Z",
+        "title": "젠지, KeSPA컵서 DN 격파…HLE와 대결 성사",
+        "source": "국민일보",
+        "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030206775",
+        "publishedAt": "2026-08-06T06:50:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-08-06T06:50:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "젠지",
+      "source": "국민일보",
+      "url": "https://www.kmib.co.kr/article/view.asp?arcid=0030206775",
+      "rank": 5
+    },
+    {
+      "id": "6e70141870276a57",
+      "issueKey": "법인세",
+      "issueTitle": "법인세",
+      "trendTitle": "법인세",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "46조 법인세에 美·日 환율 공조까지…원화 ‘1300원대’ 기대감 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://kr.investing.com/news/stock-market-news/article-2048081",
+          "publishedAt": "2026-08-06T06:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "12월 결산법인, 8월 31일까지 법인세 중간예납 신고·납부해야",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260804.99099000803",
+          "publishedAt": "2026-08-06T06:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "고환율·고유가에 홈플러스 사태까지…중소기업 4만곳 법인세 9092억 미룬다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/46eQ1xMVvw",
+          "publishedAt": "2026-08-06T06:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "46조 법인세에 美·日 환율 공조까지…원화 ‘1300원대’ 기대감 By EBN",
+        "source": "Investing.com 한국어",
+        "url": "https://kr.investing.com/news/stock-market-news/article-2048081",
+        "publishedAt": "2026-08-06T06:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-06T03:20:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "ufc 331",
-      "source": "UFC.com",
-      "url": "https://www.ufc.com/news/flyweight-champion-joshua-van-set-rematch-alexandre-pantoja-cryptocom-ufc-331",
+      "publishedAt": "2026-08-06T06:40:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "법인세",
+      "source": "Investing.com 한국어",
+      "url": "https://kr.investing.com/news/stock-market-news/article-2048081",
+      "rank": 6
+    },
+    {
+      "id": "d5964389dbf52084",
+      "issueKey": "태국",
+      "issueTitle": "태국",
+      "trendTitle": "태국",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806095351128",
+          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"손녀 같아서\" 밥값 대신 낸 어르신…태국 관광객 울린 '한국의 정'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026080616272811031",
+          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“손녀 같아서 밥 사주는 거야”…식당서 태국 관광객 울린 할아버지",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12118926",
+          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806095351128",
+        "publishedAt": "2026-08-06T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-06T05:50:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "태국",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260806095351128",
+      "rank": 7
+    },
+    {
+      "id": "603c8c0ecac91ce5",
+      "issueKey": "테슬라",
+      "issueTitle": "테슬라",
+      "trendTitle": "테슬라",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "그랜저도 제치고 잘나가는 테슬라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805204329571",
+          "publishedAt": "2026-08-06T05:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "6개월 연속 수입차 판매 1위 지킨 테슬라…BMW·벤츠",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/08/05/2026080514050359927",
+          "publishedAt": "2026-08-06T05:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "7월 수입 승용차 3만976대 신규 등록…전월 대비 18.6%↓",
+          "source": "매일경제TV",
+          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005894435",
+          "publishedAt": "2026-08-06T05:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "그랜저도 제치고 잘나가는 테슬라",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260805204329571",
+        "publishedAt": "2026-08-06T05:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-06T05:30:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "테슬라",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260805204329571",
       "rank": 8
     },
     {
-      "id": "ec66c3071b162d8a",
-      "issueKey": "태양광 발전",
-      "issueTitle": "태양광 발전",
-      "trendTitle": "태양광 발전",
+      "id": "0829c97b946c78a1",
+      "issueKey": "이찬원",
+      "issueTitle": "이찬원",
+      "trendTitle": "이찬원",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이찬원, 광고만 23개 찍어…“저도 몰랐는데” 겸손 (편스토랑)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이찬원, 배인혁·대니구 총출동…‘보고싶다 친구야’ 빅이벤트 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806095253079",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'술 빚는 윤주모' 윤나라 셰프 \"이찬원의 미래 아내가 부럽다\" 깜짝 발언 (편스토랑) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/05/GUZDKOJVMEYDCNRUMY4WENTEMY/",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이찬원, 광고만 23개 찍어…“저도 몰랐는데” 겸손 (편스토랑)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1",
+        "publishedAt": "2026-08-06T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-06T05:10:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "이찬원",
+      "source": "스포츠동아",
+      "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1",
+      "rank": 9
+    },
+    {
+      "id": "fd88c9c3d0754d64",
+      "issueKey": "가벼운 손흥민",
+      "issueTitle": "가벼운 손흥민",
+      "trendTitle": "가벼운 손흥민",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "보령화력 인근에 주민수익형 태양광 준공…연수익 3천만원 훌쩍",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260806091400063",
-          "publishedAt": "2026-08-06T03:10:00.000Z",
+          "title": "[전반 REVIEW] '몸놀림 가벼운 손흥민, 날카롭다' LAFC, 부앙가 선제골 후 동점골 허용...리그스컵서 과달라하라와 1-1로 전반 마쳐",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806123107715",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "아산시, 햇빛소득마을 4곳 선정…충남 ‘최다’",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260806010001784",
-          "publishedAt": "2026-08-06T03:10:00.000Z",
+          "title": "‘4경기 연속골’ 손흥민, 북중미 리그스컵 경기에서 침묵… LAFC는 승부차기 승리",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/08/06/3M6GGMJICJB6ZAELSBVUKJ6CBE/",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김해 진례 초전마을, 주민참여형 태양광 사업지 선정",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711393",
-          "publishedAt": "2026-08-06T03:10:00.000Z",
+          "title": "손흥민 5경기 연속골 불발…LAFC, 치바스에 승부차기 승리",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8630300",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "태양광 발전",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260806091400063",
-        "publishedAt": "2026-08-06T03:10:00.000Z",
+        "title": "[전반 REVIEW] '몸놀림 가벼운 손흥민, 날카롭다' LAFC, 부앙가 선제골 후 동점골 허용...리그스컵서 과달라하라와 1-1로 전반 마쳐",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806123107715",
+        "publishedAt": "2026-08-06T05:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-06T03:10:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-06T05:48:34.753Z",
-      "title": "태양광 발전",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260806091400063",
-      "rank": 9
+      "publishedAt": "2026-08-06T05:10:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "가벼운 손흥민",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260806123107715",
+      "rank": 10
     }
   ],
   "history": [
@@ -528,6 +575,52 @@
       "title": "돌아온 아들",
       "source": "한겨레",
       "url": "https://www.hani.co.kr/arti/society/society_general/1271453.html"
+    },
+    {
+      "id": "d5964389dbf52084",
+      "issueKey": "태국",
+      "issueTitle": "태국",
+      "trendTitle": "태국",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806095351128",
+          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"손녀 같아서\" 밥값 대신 낸 어르신…태국 관광객 울린 '한국의 정'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/article/2026080616272811031",
+          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“손녀 같아서 밥 사주는 거야”…식당서 태국 관광객 울린 할아버지",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12118926",
+          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806095351128",
+        "publishedAt": "2026-08-06T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-06T05:50:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "태국",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260806095351128"
     },
     {
       "id": "d24e93bf93af1f39",
@@ -774,6 +867,52 @@
       "url": "https://v.daum.net/v/79N7GOIkmU"
     },
     {
+      "id": "0829c97b946c78a1",
+      "issueKey": "이찬원",
+      "issueTitle": "이찬원",
+      "trendTitle": "이찬원",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이찬원, 광고만 23개 찍어…“저도 몰랐는데” 겸손 (편스토랑)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이찬원, 배인혁·대니구 총출동…‘보고싶다 친구야’ 빅이벤트 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806095253079",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'술 빚는 윤주모' 윤나라 셰프 \"이찬원의 미래 아내가 부럽다\" 깜짝 발언 (편스토랑) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/05/GUZDKOJVMEYDCNRUMY4WENTEMY/",
+          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이찬원, 광고만 23개 찍어…“저도 몰랐는데” 겸손 (편스토랑)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1",
+        "publishedAt": "2026-08-06T05:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-06T05:10:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "이찬원",
+      "source": "스포츠동아",
+      "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1"
+    },
+    {
       "id": "10726e595d0d39da",
       "issueKey": "제자리 갈아타기",
       "issueTitle": "제자리 갈아타기",
@@ -977,6 +1116,52 @@
       "title": "장항준",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260805_0003737839"
+    },
+    {
+      "id": "603c8c0ecac91ce5",
+      "issueKey": "테슬라",
+      "issueTitle": "테슬라",
+      "trendTitle": "테슬라",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "그랜저도 제치고 잘나가는 테슬라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260805204329571",
+          "publishedAt": "2026-08-06T05:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "6개월 연속 수입차 판매 1위 지킨 테슬라…BMW·벤츠",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/08/05/2026080514050359927",
+          "publishedAt": "2026-08-06T05:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "7월 수입 승용차 3만976대 신규 등록…전월 대비 18.6%↓",
+          "source": "매일경제TV",
+          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005894435",
+          "publishedAt": "2026-08-06T05:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "그랜저도 제치고 잘나가는 테슬라",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260805204329571",
+        "publishedAt": "2026-08-06T05:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-06T05:30:00.000Z",
+      "firstSeenAt": "2026-08-06T08:35:22.098Z",
+      "lastSeenAt": "2026-08-06T08:35:22.098Z",
+      "title": "테슬라",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260805204329571"
     },
     {
       "id": "b1e750976dd68271",
@@ -2173,144 +2358,6 @@
       "title": "스쿠발",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260805111151243"
-    },
-    {
-      "id": "46abed275352e7fb",
-      "issueKey": "김여정",
-      "issueTitle": "김여정",
-      "trendTitle": "김여정",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "北 김여정, 日 토마호크 발사에 \"반드시 후회하도록 만들어야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805073001290",
-          "publishedAt": "2026-08-05T00:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김여정 “일본, 군사 대국화 야욕…수수방관 않을 것”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/politics_general/1271462.html",
-          "publishedAt": "2026-08-05T00:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "北김여정 “日 선제공격형으로 재편…군사적 대응 검토”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260805/134422475/1",
-          "publishedAt": "2026-08-05T00:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "北 김여정, 日 토마호크 발사에 \"반드시 후회하도록 만들어야\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260805073001290",
-        "publishedAt": "2026-08-05T00:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-05T00:50:00.000Z",
-      "firstSeenAt": "2026-08-05T02:31:26.945Z",
-      "lastSeenAt": "2026-08-05T02:31:26.945Z",
-      "title": "김여정",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260805073001290"
-    },
-    {
-      "id": "115942fbb9ee0e77",
-      "issueKey": "중국 상하",
-      "issueTitle": "중국 상하",
-      "trendTitle": "중국 상하",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이것저것 시도해 보지만 신통치 않다 … 생존 위협 파라타항공",
-          "source": "뉴데일리",
-          "url": "https://biz.newdaily.co.kr/site/data/html/2026/08/04/2026080400114.html",
-          "publishedAt": "2026-08-05T00:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "연말 양양~중국 상하이 하늘길 열린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804000723879",
-          "publishedAt": "2026-08-05T00:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "파라타항공, 5호기 A330-200 도입…내년 상반기 미주 취항 '속도'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608031007g",
-          "publishedAt": "2026-08-05T00:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "연말 양양~중국 상하이 하늘길 열린다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260804000723879",
-        "publishedAt": "2026-08-05T00:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-05T00:10:00.000Z",
-      "firstSeenAt": "2026-08-05T02:31:26.945Z",
-      "lastSeenAt": "2026-08-05T02:31:26.945Z",
-      "title": "중국 상하",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260804000723879"
-    },
-    {
-      "id": "4e7d994ada0e4038",
-      "issueKey": "양희은",
-      "issueTitle": "양희은",
-      "trendTitle": "양희은",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "양희은, 지팡이 짚고 생일 모임",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260804_0003736317",
-          "publishedAt": "2026-08-04T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "지팡이 짚고 활짝…'73세' 女배우, 이성미→박미선과 생일 모임 만났다 [MHN:피드]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260804230056217",
-          "publishedAt": "2026-08-04T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'74세' 양희은, 지팡이 짚고 환한 미소…이성미·박미선 만났다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260804n28993?mid=e1100",
-          "publishedAt": "2026-08-04T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "양희은, 지팡이 짚고 생일 모임",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260804_0003736317",
-        "publishedAt": "2026-08-04T15:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-04T15:40:00.000Z",
-      "firstSeenAt": "2026-08-04T19:36:48.333Z",
-      "lastSeenAt": "2026-08-04T19:36:48.333Z",
-      "title": "양희은",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260804_0003736317"
     }
   ]
 }
