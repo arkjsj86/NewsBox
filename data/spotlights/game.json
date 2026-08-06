@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-06T02:34:06.447Z",
+  "lastUpdatedAt": "2026-08-06T05:48:34.753Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,12 +28,7 @@
         {
           "title": "8월에 출시되는 PC·모바일 게임 목록",
           "url": "https://bbs.ruliweb.com/news/read/227627",
-          "meta": "댓글 13"
-        },
-        {
-          "title": "하운드13 ‘드래곤소드 : 어웨이크닝’, 스팀 출시 일주일 만에 20만 장 판매",
-          "url": "https://bbs.ruliweb.com/news/read/227519",
-          "meta": "댓글 15"
+          "meta": "댓글 14"
         },
         {
           "title": "XD ‘소드 오브 콘발라리아’, 2주년 맞이 대규모 업데이트 8월 1일 진행",
@@ -44,6 +39,11 @@
           "title": "㈜엔씨 NC IDS, ‘NC AX’로 사명 변경 ‘AX 전문 기업으로 새 출발’",
           "url": "https://bbs.ruliweb.com/news/read/227672",
           "meta": "댓글 22"
+        },
+        {
+          "title": "적자 지속 카카오게임즈 내년 반등 노린다, 2026년 2분기 실적발표",
+          "url": "https://bbs.ruliweb.com/news/read/227745",
+          "meta": "댓글 25"
         },
         {
           "title": "라이엇 게임즈, ‘리그 오브 레전드 클래식’ 오늘(30일) 출시",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "3연패 한화생명 \"개개인 실수도 많고, 연패로 분위기 다운\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319235",
-          "meta": "리그 오브 레전드 · 8시간 전"
+          "title": "넥슨 리플레이, 대구디지털혁신진흥원과 게임산업 육성 협약",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319263",
+          "meta": "넥슨 · 27분 전"
         },
         {
-          "title": "리니지M, 8월 1주차 한정 및 주말 제작 정보",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319233",
-          "meta": "리니지M · 9시간 전"
+          "title": "넥슨, 던전앤파이터 신규 레이드 무너진 성자 미카엘라 업데이트",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319262",
+          "meta": "던전 앤 파이터 · 59분 전"
         },
         {
-          "title": "7연패 탈출 김상수 감독 \"확실한 승리 플랜 더 필요\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319232",
-          "meta": "리그 오브 레전드 · 11시간 전"
+          "title": "세가, 스튜피드 네버 다이즈 패키지 예약판매 개시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319261",
+          "meta": "스튜피드 네버 다이즈 · 1시간 전"
         },
         {
-          "title": "접전 끝에 거둔 승리... 한진 브리온! 농심 꺾고 7연패 탈출",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319230",
-          "meta": "리그 오브 레전드 · 12시간 전"
+          "title": "넷마블 세븐나이츠 리버스, 서머 바캉스 업데이트",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319260",
+          "meta": "세븐나이츠 리버스 · 1시간 전"
         },
         {
-          "title": "히로인 전원이 오타쿠, '미술부 그녀 -Girlfailure Art Club-' 스팀 상점 페이지 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319156",
-          "meta": "미술부 그녀 -Girlfailure Art Club- · 13시간 전"
+          "title": "힐러 클래스 스킬 공개! 신규 에피소드 사전등록 예고",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319215",
+          "meta": "솔: 인챈트 · 3시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
