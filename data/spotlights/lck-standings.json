@@ -7,22 +7,13 @@
   "tournamentName": "Split 3 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-08-06T11:23:28.640Z",
-  "lastUpdatedAt": "2026-08-06T11:23:28.640Z",
+  "fetchedAt": "2026-08-06T14:09:53.976Z",
+  "lastUpdatedAt": "2026-08-06T14:09:53.976Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
   "rowCount": 5,
   "rows": [
-    {
-      "rank": 1,
-      "code": "DK",
-      "name": "Dplus KIA",
-      "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-      "wins": 2,
-      "losses": 0,
-      "points": 2
-    },
     {
       "rank": 1,
       "code": "KT",
@@ -33,13 +24,22 @@
       "points": 2
     },
     {
-      "rank": 3,
+      "rank": 2,
+      "code": "DK",
+      "name": "Dplus KIA",
+      "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
+      "wins": 2,
+      "losses": 1,
+      "points": 2
+    },
+    {
+      "rank": 2,
       "code": "T1",
       "name": "T1",
       "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "points": 1
+      "points": 2
     },
     {
       "rank": 4,
