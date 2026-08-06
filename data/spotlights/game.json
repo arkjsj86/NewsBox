@@ -3,20 +3,20 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-06T14:09:04.691Z",
+  "lastUpdatedAt": "2026-08-06T23:58:55.597Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
   "itemCount": 1,
   "offers": [
     {
-      "id": "c71375f1ac9444fcae1ca584a53ba6f0",
-      "title": "Sol Cesto",
-      "seller": "Goblinz Studio SAS",
-      "url": "https://store.epicgames.com/ko/p/sol-cesto-e9b803",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/30d70e74bab1498686aba69969a6c19e/sol-cesto-g83am.png",
-      "originalPriceLabel": "₩15,500",
-      "freeUntil": "2026-08-06T15:00:00.000Z"
+      "id": "231e8f6d250a453f9c44c0adf3a34656",
+      "title": "We Were Here Together",
+      "seller": "TMG Studios B.V.",
+      "url": "https://store.epicgames.com/ko/p/we-were-here-together-6a6d66",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/f24f7e149dc64df18f14dfab4f6dae4d/we-were-here-together-12ukl.png",
+      "originalPriceLabel": "₩13,300",
+      "freeUntil": "2026-08-13T15:00:00.000Z"
     }
   ],
   "issues": {
@@ -31,6 +31,11 @@
           "meta": "댓글 14"
         },
         {
+          "title": "적자 지속 카카오게임즈 내년 반등 노린다, 2026년 2분기 실적발표",
+          "url": "https://bbs.ruliweb.com/news/read/227745",
+          "meta": "댓글 29"
+        },
+        {
           "title": "XD ‘소드 오브 콘발라리아’, 2주년 맞이 대규모 업데이트 8월 1일 진행",
           "url": "https://bbs.ruliweb.com/news/read/227605",
           "meta": "댓글 10"
@@ -41,14 +46,9 @@
           "meta": "댓글 22"
         },
         {
-          "title": "적자 지속 카카오게임즈 내년 반등 노린다, 2026년 2분기 실적발표",
-          "url": "https://bbs.ruliweb.com/news/read/227745",
-          "meta": "댓글 29"
-        },
-        {
           "title": "넷마블, 올해 하반기 신작은 나 혼자만 레벨업: 카르마·샹그릴라 프론티어·프로젝트 이지스 3종",
           "url": "https://bbs.ruliweb.com/news/read/227764",
-          "meta": "댓글 10"
+          "meta": "댓글 11"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "'DK 완파·2연승' T1 임재현 대행, \"기본부터 다잡았다\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319281",
+          "meta": "리그 오브 레전드 · 12시간 전"
+        },
+        {
+          "title": "김대호 감독, \"패인, 명쾌하고 심플...다시 힘낼 수 있어\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319280",
+          "meta": "리그 오브 레전드 · 12시간 전"
+        },
+        {
           "title": "웃음꽃 핀 '에이밍', \"KRX 팀원들, 부담스러울 정도로 잘해줘\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319278",
-          "meta": "리그 오브 레전드 · 1시간 전"
+          "meta": "리그 오브 레전드 · 14시간 전"
         },
         {
           "title": "KRX, '유칼' 활약에 2연승...연패 누적 DN, 플인 탈락 확정",
           "url": "https://www.inven.co.kr/webzine/news/?news=319277",
-          "meta": "리그 오브 레전드 · 2시간 전"
+          "meta": "리그 오브 레전드 · 14시간 전"
         },
         {
           "title": "동영과 녹스 각성 추가! 편의성 개선 업데이트도 있다",
           "url": "https://www.inven.co.kr/webzine/news/?news=319270",
-          "meta": "세븐나이츠 리버스 · 3시간 전"
-        },
-        {
-          "title": "나인 소모처 추가 이후 시세 변동은? 거래소 시세 살펴보기",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319265",
-          "meta": "솔: 인챈트 · 4시간 전"
-        },
-        {
-          "title": "사운드 디테일과 착용감 잡았다... 소니, 프로페셔널 이어폰 'IER-M500' 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319266",
-          "meta": "4시간 전"
+          "meta": "세븐나이츠 리버스 · 15시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
