@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-08-06T23:58:55.597Z",
+  "lastUpdatedAt": "2026-08-07T03:11:22.335Z",
   "articleCount": 12,
   "articles": [
+    {
+      "id": "7b0d1cc74360820c",
+      "title": "아무도 감시하지 않는 AI 에이전트의 보안 위기",
+      "url": "https://www.itworld.co.kr/article/4205492/%ec%95%84%eb%ac%b4%eb%8f%84-%ea%b0%90%ec%8b%9c%ed%95%98%ec%a7%80-%ec%95%8a%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%eb%b3%b4%ec%95%88-%ec%9c%84%ea%b8%b0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-07T01:21:00.000Z",
+      "summary": "기업 AI의 현실, 즉 AI가 마침내 프로덕션 시스템에 도달하는 상황에 대해 많은 이야기가 오가고 있다. 아직 인식하지 못하는 사람도 있지만 이 현실(또는 악몽)은 이미 진행되는 중이다. 모두 시작은 “파일럿”, “프로토타입”, 또는 “사이드 프로젝트”다. 누군가 에이전트로 내부 대시보드를 구축한다. 이 대시보드가 빠르게 필수적인 도구로 퍼지면서 실험이었던 것이 갑자기 프로덕션이 된다....",
+      "tab": "ai"
+    },
     {
       "id": "d91d3c1e0727bb67",
       "title": "AI에 맡겨도 되는 것과 사람이 직접 해야 하는 것의 차이에 관하여",
@@ -104,15 +113,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-07-29T02:06:06.000Z",
       "summary": "필자는 아스트로(Astro)라는 매우 훌륭하고 비교적 새로운 웹 프레임워크를 사용한다. 아스트로 팀의 핵심 통찰은 대다수 웹사이트가 정적 콘텐츠로 구성된다는 점이었고, 덕분에 사이트에 콘텐츠를 추가하는 과정이 크게 간소화됐다. 개인 웹사이트 에 블로그 게시물을 올리려면 프론트매터(front matter)가 포함된 마크다운(Markdown) 파일을 만들고 배포하기만 하면 게시물이 자동으로...",
-      "tab": "ai"
-    },
-    {
-      "id": "a05a334b7de3d768",
-      "title": "더 쉬워진 프레임워크 선택, 더 무거워진 아키텍처 책임",
-      "url": "https://www.itworld.co.kr/article/4202513/%eb%8d%94-%ec%89%ac%ec%9b%8c%ec%a7%84-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac-%ec%84%a0%ed%83%9d-%eb%8d%94-%eb%ac%b4%ea%b1%b0%ec%9b%8c%ec%a7%84-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%b1%85.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-07-29T00:27:58.000Z",
-      "summary": "지난 1년 동안 AI 이니셔티브를 시작하는 거의 모든 팀과 같은 대화를 나눴다. 시맨틱 커널(Semantic Kernel), 오토젠(AutoGen), 파운드리(Foundry) 중 무엇을 기반으로 구축해야 하는가? 당시에는 프로젝트 전체의 향방을 좌우할 중요한 결정이라고 생각했다. 각 프레임워크는 저마다의 철학을 내세웠고, 엔터프라이즈 AI의 기반이 되겠다고 자처했다. 잘못된 선택은 값비...",
       "tab": "ai"
     }
   ]
