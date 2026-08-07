@@ -7,8 +7,8 @@
   "tournamentName": "Split 3 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-08-07T07:15:39.473Z",
-  "lastUpdatedAt": "2026-08-07T07:15:39.473Z",
+  "fetchedAt": "2026-08-07T10:02:03.406Z",
+  "lastUpdatedAt": "2026-08-07T10:02:03.406Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
@@ -16,15 +16,6 @@
   "rows": [
     {
       "rank": 1,
-      "code": "KT",
-      "name": "kt Rolster",
-      "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
-      "wins": 2,
-      "losses": 0,
-      "points": 2
-    },
-    {
-      "rank": 2,
       "code": "DK",
       "name": "Dplus KIA",
       "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
@@ -33,10 +24,19 @@
       "points": 2
     },
     {
-      "rank": 2,
+      "rank": 1,
       "code": "T1",
       "name": "T1",
       "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
+      "wins": 2,
+      "losses": 1,
+      "points": 2
+    },
+    {
+      "rank": 1,
+      "code": "KT",
+      "name": "kt Rolster",
+      "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
       "wins": 2,
       "losses": 1,
       "points": 2
@@ -46,9 +46,9 @@
       "code": "GEN",
       "name": "Gen.G Esports",
       "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
-      "wins": 1,
+      "wins": 2,
       "losses": 2,
-      "points": 1
+      "points": 2
     },
     {
       "rank": 5,
