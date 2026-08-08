@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-08T18:36:48.277Z",
+  "lastUpdatedAt": "2026-08-08T21:29:27.807Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,12 +28,12 @@
         {
           "title": "AI로 모두에게 경쟁의 재미를, 배우 박지현과 ‘제우스: 오만의 신’",
           "url": "https://bbs.ruliweb.com/news/read/227873",
-          "meta": "댓글 31"
+          "meta": "댓글 34"
         },
         {
           "title": "적자 지속 카카오게임즈 내년 반등 노린다, 2026년 2분기 실적발표",
           "url": "https://bbs.ruliweb.com/news/read/227745",
-          "meta": "댓글 35"
+          "meta": "댓글 37"
         },
         {
           "title": "㈜엔씨 NC IDS, ‘NC AX’로 사명 변경 ‘AX 전문 기업으로 새 출발’",
@@ -48,7 +48,7 @@
         {
           "title": "넥슨과 함께 할 미래 기대하며, ‘오버워치’ 사령탑 내한 예고",
           "url": "https://bbs.ruliweb.com/news/read/227766",
-          "meta": "댓글 14"
+          "meta": "댓글 15"
         }
       ]
     },
@@ -60,27 +60,27 @@
         {
           "title": "DNS '두두' \"팬들 위해 끝까지 최선 다하겠다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319335",
-          "meta": "리그 오브 레전드 · 2시간 전"
+          "meta": "리그 오브 레전드 · 8시간 전"
         },
         {
           "title": "DNS에 패배 농심 최인규 감독 \"운영, 밴픽 모두 아쉬웠다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319334",
-          "meta": "리그 오브 레전드 · 2시간 전"
+          "meta": "리그 오브 레전드 · 8시간 전"
         },
         {
           "title": "올해 가장 좋은 경기력 선보인 DNS, 농심 2:0 격파",
           "url": "https://www.inven.co.kr/webzine/news/?news=319333",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "meta": "리그 오브 레전드 · 9시간 전"
         },
         {
           "title": "8/8(토) 세 번째 신 선출, 칼테온4 이변 발생",
           "url": "https://www.inven.co.kr/webzine/news/?news=319332",
-          "meta": "솔: 인챈트 · 3시간 전"
+          "meta": "솔: 인챈트 · 9시간 전"
         },
         {
           "title": "'구마유시' 이민형, T1 신예 '페인터' 깜짝 기용에 \"메이크업실에서 보고 놀라\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319331",
-          "meta": "리그 오브 레전드 · 4시간 전"
+          "meta": "리그 오브 레전드 · 10시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
