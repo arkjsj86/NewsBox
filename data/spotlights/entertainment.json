@@ -7,433 +7,386 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-08T06:52:28.254Z",
+  "lastUpdatedAt": "2026-08-08T09:37:08.097Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 8,
   "items": [
     {
-      "id": "16ab0c61b364589c",
-      "issueKey": "남규리",
-      "issueTitle": "남규리",
-      "trendTitle": "남규리",
+      "id": "ac2ffc82cec593e1",
+      "issueKey": "배지환",
+      "issueTitle": "배지환",
+      "trendTitle": "배지환",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'방출된 해외파, 다 KBO로 오라고?' 최지만, 배지환, 심준석의 엇갈린 거취와 현실",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260808061048043",
+          "publishedAt": "2026-08-08T08:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "배지환, 메츠 산하 트리플A 마이너리그 팀에서 방출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260805089400007",
+          "publishedAt": "2026-08-08T08:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“배지환, 타격이 못 따라가” 메츠 충격 손절 이유 나왔다… 하지만 한국 복귀는 없다고?",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=833320",
+          "publishedAt": "2026-08-08T08:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'방출된 해외파, 다 KBO로 오라고?' 최지만, 배지환, 심준석의 엇갈린 거취와 현실",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260808061048043",
+        "publishedAt": "2026-08-08T08:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-08T08:30:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "배지환",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260808061048043",
+      "rank": 1
+    },
+    {
+      "id": "acb0d5833321c27a",
+      "issueKey": "페이즈",
+      "issueTitle": "페이즈",
+      "trendTitle": "페이즈",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "표창원, 남규리에 15년 만에 사과…\"제가 틀렸습니다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740052",
-          "publishedAt": "2026-08-08T05:50:00.000Z",
+          "title": "몬스타엑스, 9월 가요계 컴백 확정…'더 페이즈' 발매",
+          "source": "MBC",
+          "url": "https://m.imbc.com/enews/view/514030",
+          "publishedAt": "2026-08-08T08:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "남규리, “뭐든 이길 때까지 한다”…‘히든아이’서 숨겨둔 승부욕",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16157198",
-          "publishedAt": "2026-08-08T05:50:00.000Z",
+          "title": "몬스타엑스, 신보 '더 페이즈' 스케줄러 공개…컴백 카운트다운 시작",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/music/6253029",
+          "publishedAt": "2026-08-08T08:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"제가 틀렸습니다\" 표창원, 남규리에 뭐라고 했길래..15년만에 공개사과(히든아이)",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260806171223876",
-          "publishedAt": "2026-08-08T05:50:00.000Z",
+          "title": "몬스타엑스, 미니 앨범 ‘더 페이즈’로 9월 컴백 카운트다운",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16158164",
+          "publishedAt": "2026-08-08T08:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "표창원, 남규리에 15년 만에 사과…\"제가 틀렸습니다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260807_0003740052",
-        "publishedAt": "2026-08-08T05:50:00.000Z",
+        "title": "몬스타엑스, 9월 가요계 컴백 확정…'더 페이즈' 발매",
+        "source": "MBC",
+        "url": "https://m.imbc.com/enews/view/514030",
+        "publishedAt": "2026-08-08T08:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-08T05:50:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "남규리",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260807_0003740052",
-      "rank": 1
+      "publishedAt": "2026-08-08T08:30:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "페이즈",
+      "source": "MBC",
+      "url": "https://m.imbc.com/enews/view/514030",
+      "rank": 2
     },
     {
-      "id": "cabddffe9c971b86",
-      "issueKey": "입양",
-      "issueTitle": "입양",
-      "trendTitle": "입양",
+      "id": "a689dd03d4c0fc4e",
+      "issueKey": "이다영",
+      "issueTitle": "이다영",
+      "trendTitle": "이다영",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "해외 입양 떠난 지 사흘 만에 숨진 구조견 '도담'…관리 공백 드러났다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260808n04288",
-          "publishedAt": "2026-08-08T05:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“유기묘와 교감하며 입양까지”… 소노 신사옥 내 ‘퍼라운지’ 개소",
-          "source": "스포츠월드",
-          "url": "https://www.sportsworldi.com/newsView/20260806508295",
-          "publishedAt": "2026-08-08T05:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[마이펫] 소노인터내셔널, 마곡에 유기묘 입양 지원 공간 ‘퍼라운지’ 개소",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026080519284719216",
-          "publishedAt": "2026-08-08T05:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "해외 입양 떠난 지 사흘 만에 숨진 구조견 '도담'…관리 공백 드러났다",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260808n04288",
-        "publishedAt": "2026-08-08T05:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-08T05:20:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "입양",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260808n04288",
-      "rank": 2
-    },
-    {
-      "id": "d7fff13361c0bf87",
-      "issueKey": "손현보",
-      "issueTitle": "손현보",
-      "trendTitle": "손현보",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "손현보 목사, 백악관서 트럼프 접견…美정부 인사들과 잇단 접촉",
+          "title": "여자배구 이재영-다영 쌍둥이 자매, 아제르바이잔 투란VC 입단",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260808112655244",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "url": "https://v.daum.net/v/qYAqmyWIGM",
+          "publishedAt": "2026-08-08T08:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'尹 탄핵반대' 손현보 목사 트럼프 대통령과 면담…\"힘 합쳐 자유 지켜야\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/economy/2026/08/08/2026080813590695857",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "title": "‘학폭 논란’ 이다영·이재영 자매, 아제르바이잔 리그서 한솥밥",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/volleyball/1271909.html",
+          "publishedAt": "2026-08-08T08:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "세계로교회 손현보 목사, 백악관서 트럼프 대통령 접견",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/08/2026080800010.html",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "title": "이재영·이다영 자매, 끝 아니었다! 中 196cm 국대+쿠바 스타까지 싹쓸이…창단 1년 만에 유럽 정조준",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260808n08009",
+          "publishedAt": "2026-08-08T08:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "손현보 목사, 백악관서 트럼프 접견…美정부 인사들과 잇단 접촉",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260808112655244",
-        "publishedAt": "2026-08-08T05:00:00.000Z",
-        "relevanceScore": 3
+        "title": "‘학폭 논란’ 이다영·이재영 자매, 아제르바이잔 리그서 한솥밥",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/sports/volleyball/1271909.html",
+        "publishedAt": "2026-08-08T08:20:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-08-08T05:00:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "손현보",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260808112655244",
+      "publishedAt": "2026-08-08T08:20:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "이다영",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/sports/volleyball/1271909.html",
       "rank": 3
     },
     {
-      "id": "7840eb690781fb56",
-      "issueKey": "르윈 디아즈",
-      "issueTitle": "르윈 디아즈",
-      "trendTitle": "르윈 디아즈",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "711c7353adb492fa",
+      "issueKey": "페이커",
+      "issueTitle": "페이커",
+      "trendTitle": "페이커",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"최대한 살려야 하는데\" 박진만 감독의 한숨…'7번' 디아즈에서 드러난 삼성의 고민",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806160251234",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "title": "[오!쎈 인터뷰] “결국 프로는 멘탈 싸움”… 흔들림 끝낸 ‘도란’ 최현준의 다짐",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853784",
+          "publishedAt": "2026-08-08T08:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "교체 마감 8월15일 다가오는데… 1위 추격 속타는 박진만 감독의 딜레마 \"디아즈 어떻게든 살려내야\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/08/06/MI3DSZRQGNRTIMZZMU2DIODBME/",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "title": "'페이즈' 맹활약 펼친 T1, DK 완파하며 종합 1위 사수 [LCK] (종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6E71YRe41m",
+          "publishedAt": "2026-08-08T08:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"디아즈 바꿔라? 내 생각은 아니다\"…동료 보호 나선 삼성 캡틴, 50홈런 외인 믿는다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260808n06402?mid=n0100",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "title": "'페이커' 이상혁 \"유리할 때 역전당하던 단점 보완, 패배 통한 성장이 반등 계기\"",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260807170043565",
+          "publishedAt": "2026-08-08T08:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "르윈 디아즈",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260806160251234",
-        "publishedAt": "2026-08-08T05:00:00.000Z",
-        "relevanceScore": 3
+        "title": "'페이커' 이상혁 \"유리할 때 역전당하던 단점 보완, 패배 통한 성장이 반등 계기\"",
+        "source": "미주중앙일보",
+        "url": "https://www.koreadaily.com/article/20260807170043565",
+        "publishedAt": "2026-08-08T08:10:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-08-08T05:00:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "르윈 디아즈",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260806160251234",
+      "publishedAt": "2026-08-08T08:10:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "페이커",
+      "source": "미주중앙일보",
+      "url": "https://www.koreadaily.com/article/20260807170043565",
       "rank": 4
     },
     {
-      "id": "73b47d6729b4db77",
-      "issueKey": "삼성전자",
-      "issueTitle": "삼성전자",
-      "trendTitle": "삼성전자",
+      "id": "9abcff492eb8cff2",
+      "issueKey": "lck",
+      "issueTitle": "lck",
+      "trendTitle": "lck",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kiin becomes the first toplaner to reach 500 wins in LCK",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "T1 bench Oner for LCK debut of 18-year-old academy jungler Painter",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/fr/all/articles/t1-bench-oner-for-lck-debut-of-18-year-old-academy-jungler-painter/en",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'Namgung' on His First Career POM: \"I'm Grateful to My Teammates for Playing So Well\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24575/namgung-on-his-first-career-pom-im-grateful-to-my-teammates-for-playing-so-well",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Kiin becomes the first toplaner to reach 500 wins in LCK",
+        "source": "Sheep Esports",
+        "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en",
+        "publishedAt": "2026-08-08T07:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-08T07:50:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "lck",
+      "source": "Sheep Esports",
+      "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en",
+      "rank": 5
+    },
+    {
+      "id": "3a39ae7086b354ae",
+      "issueKey": "이래",
+      "issueTitle": "이래",
+      "trendTitle": "이래",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"아이폰 '중티' 나요\" 갤럭시 쓰는 女 늘더니…'놀라운 결과' [홍민성의 테토남]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608079983g",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "title": "'44세' 슈, 충격적 얼굴 상태…눈에 띄게 처진 피부 \"손 봐야 할 데 많아\" [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9omqYhlw14",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[테크톡노트] 폴드는 어떻게 '아재폰'에서 'MZ폰'이 됐나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808131147246",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "title": "'터치미' S.E.S 슈 \"내 얼굴 왜 이래\" 충격 민낯 공개",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6253110",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "삼성전자, 최신 '갤럭시 Z 시리즈', '갤럭시 워치 시리즈' 국내 공식 출시",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260806015500013",
-          "publishedAt": "2026-08-08T05:00:00.000Z",
+          "title": "\"내 얼굴 왜 이래?\" 슈, '성형 의혹' 있었는데…확 처진 피부에 팬들 '충격'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260808n02840",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "삼성전자, 최신 '갤럭시 Z 시리즈', '갤럭시 워치 시리즈' 국내 공식 출시",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/PYH20260806015500013",
-        "publishedAt": "2026-08-08T05:00:00.000Z",
-        "relevanceScore": 1
+        "title": "'터치미' S.E.S 슈 \"내 얼굴 왜 이래\" 충격 민낯 공개",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/broadcast-tv/6253110",
+        "publishedAt": "2026-08-08T07:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-08-08T05:00:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "삼성전자",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/PYH20260806015500013",
-      "rank": 5
-    },
-    {
-      "id": "b7c77c05424d2b34",
-      "issueKey": "전북 완주",
-      "issueTitle": "전북 완주",
-      "trendTitle": "전북 완주",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "전북 완주·부안·고창…30만원씩 민생지원금 추석 전 지급(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/qZ7VIinQYM?f=p",
-          "publishedAt": "2026-08-08T04:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고창군 1인당 30만 원, 군민활력지원금 추석 전 지급",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6559023",
-          "publishedAt": "2026-08-08T04:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[사설] 추석 앞두고 현금 지원 경쟁… ‘경기도 재정 비상’ 안 보이나",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20076619",
-          "publishedAt": "2026-08-08T04:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전북 완주·부안·고창…30만원씩 민생지원금 추석 전 지급(종합)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/qZ7VIinQYM?f=p",
-        "publishedAt": "2026-08-08T04:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-08T04:40:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "전북 완주",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/qZ7VIinQYM?f=p",
+      "publishedAt": "2026-08-08T07:50:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "이래",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/broadcast-tv/6253110",
       "rank": 6
     },
     {
-      "id": "99575622f51ccf38",
-      "issueKey": "하리수",
-      "issueTitle": "하리수",
-      "trendTitle": "하리수",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "f9c54d0fc27f92d9",
+      "issueKey": "당구",
+      "issueTitle": "당구",
+      "trendTitle": "당구",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "하리수 \"미키정 보내주고 싶어 이혼…애 못 낳아 미안했다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003741138",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
+          "title": "“25:0” 전국당구대회 女3쿠션서 ‘퍼펙트 게임’ 나왔다…국내1위 박세정, 황령인에 완승",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12121693",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "하리수, 전남편 폭행 루머 부인 \"경찰서 간 적 없어…애 낳고 잘 살아\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080723484784247",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
+          "title": "대한당구연맹회장배 女3쿠션 '우승향배' 박세정-황령인 허채원-백가인 4강대결 '압축'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260807n27589?mid=n0100",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "하리수 \"전남편이 30억 날려서 이혼? 사실 아냐\"…유튜브서 루머 해명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808092749937?f=m",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
+          "title": "강원 양구서 디리그 캐롬D1·포켓D2 팀리그 2R",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10834528",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "하리수 \"미키정 보내주고 싶어 이혼…애 못 낳아 미안했다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260807_0003741138",
-        "publishedAt": "2026-08-08T04:30:00.000Z",
+        "title": "“25:0” 전국당구대회 女3쿠션서 ‘퍼펙트 게임’ 나왔다…국내1위 박세정, 황령인에 완승",
+        "source": "mkbn.mk.co.kr",
+        "url": "https://mkbn.mk.co.kr/news/sports/12121693",
+        "publishedAt": "2026-08-08T07:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-08T04:30:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "하리수",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260807_0003741138",
+      "publishedAt": "2026-08-08T07:40:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "당구",
+      "source": "mkbn.mk.co.kr",
+      "url": "https://mkbn.mk.co.kr/news/sports/12121693",
       "rank": 7
     },
     {
-      "id": "807d82f82fbcf722",
-      "issueKey": "김하성",
-      "issueTitle": "김하성",
-      "trendTitle": "김하성",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "2e45fbbdc4ef34d1",
+      "issueKey": "이은형",
+      "issueTitle": "이은형",
+      "trendTitle": "이은형",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "38일 만에 돌아온 김하성, 2타수 무안타 부진…시즌 타율 0.067",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808031100007",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
+          "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806171137226",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘복귀 후 첫 선발’ 김하성, 2타수 무안타 후 교체…애틀랜타 9연승은 불발",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260808/134441560/1",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
+          "title": "강재준, 아내 이은형 신간 출간 응원…\"읽고 소름 돋았다\"[셀럽샷]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260806n34367",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "MLB 송성문·김하성, 팀은 이겼는데 나란히 벤치 신세",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8631374",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
+          "title": "이은형, ‘엄마의 기록’으로 돌아왔다...첫 육아 에세이 ‘오늘의 현조’ 출간",
+          "source": "뉴스컬처",
+          "url": "https://www.nc.press/news/articleView.html?idxno=622734",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "38일 만에 돌아온 김하성, 2타수 무안타 부진…시즌 타율 0.067",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260808031100007",
-        "publishedAt": "2026-08-08T04:30:00.000Z",
+        "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806171137226",
+        "publishedAt": "2026-08-08T07:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-08T04:30:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "김하성",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260808031100007",
+      "publishedAt": "2026-08-08T07:40:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "이은형",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260806171137226",
       "rank": 8
-    },
-    {
-      "id": "7b03c8907d65d9b8",
-      "issueKey": "파크 골프",
-      "issueTitle": "파크 골프",
-      "trendTitle": "파크 골프",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“암 수술하고 파크골프 덕에 체력 회복”…시니어 전신 운동으로 각광",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1271964.html",
-          "publishedAt": "2026-08-08T04:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "한국파크골프학회 창립 기념식 개최, \"K-파크골프 산업 도약 위한 제도 개선 필요\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260807001053",
-          "publishedAt": "2026-08-08T04:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[기고] 이제는 스포츠지도사를 배치할 때다",
-          "source": "무등일보",
-          "url": "https://m.mdilbo.com/detail/AjBTxA/757764",
-          "publishedAt": "2026-08-08T04:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "파크 골프",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1271964.html",
-        "publishedAt": "2026-08-08T04:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-08T04:20:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "파크 골프",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/hanihealth/healthlife/1271964.html",
-      "rank": 9
     }
   ],
   "history": [
@@ -735,50 +688,50 @@
       "url": "https://v.daum.net/v/20260806131107393"
     },
     {
-      "id": "d5964389dbf52084",
-      "issueKey": "태국",
-      "issueTitle": "태국",
-      "trendTitle": "태국",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "f9c54d0fc27f92d9",
+      "issueKey": "당구",
+      "issueTitle": "당구",
+      "trendTitle": "당구",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806095351128",
-          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "title": "“25:0” 전국당구대회 女3쿠션서 ‘퍼펙트 게임’ 나왔다…국내1위 박세정, 황령인에 완승",
+          "source": "mkbn.mk.co.kr",
+          "url": "https://mkbn.mk.co.kr/news/sports/12121693",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"손녀 같아서\" 밥값 대신 낸 어르신…태국 관광객 울린 '한국의 정'",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026080616272811031",
-          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "title": "대한당구연맹회장배 女3쿠션 '우승향배' 박세정-황령인 허채원-백가인 4강대결 '압축'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260807n27589?mid=n0100",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“손녀 같아서 밥 사주는 거야”…식당서 태국 관광객 울린 할아버지",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12118926",
-          "publishedAt": "2026-08-06T05:50:00.000Z",
+          "title": "강원 양구서 디리그 캐롬D1·포켓D2 팀리그 2R",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10834528",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"손녀들 같아서\"…한국 온 태국 관광객 밥값 6만원 계산한 어르신",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260806095351128",
-        "publishedAt": "2026-08-06T05:50:00.000Z",
+        "title": "“25:0” 전국당구대회 女3쿠션서 ‘퍼펙트 게임’ 나왔다…국내1위 박세정, 황령인에 완승",
+        "source": "mkbn.mk.co.kr",
+        "url": "https://mkbn.mk.co.kr/news/sports/12121693",
+        "publishedAt": "2026-08-08T07:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-06T05:50:00.000Z",
-      "firstSeenAt": "2026-08-06T08:35:22.098Z",
-      "lastSeenAt": "2026-08-06T08:35:22.098Z",
-      "title": "태국",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260806095351128"
+      "publishedAt": "2026-08-08T07:40:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "당구",
+      "source": "mkbn.mk.co.kr",
+      "url": "https://mkbn.mk.co.kr/news/sports/12121693"
     },
     {
       "id": "4641fbad3b128edd",
@@ -873,50 +826,142 @@
       "url": "https://v.daum.net/v/20260807170449538"
     },
     {
-      "id": "0829c97b946c78a1",
-      "issueKey": "이찬원",
-      "issueTitle": "이찬원",
-      "trendTitle": "이찬원",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "a689dd03d4c0fc4e",
+      "issueKey": "이다영",
+      "issueTitle": "이다영",
+      "trendTitle": "이다영",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "이찬원, 광고만 23개 찍어…“저도 몰랐는데” 겸손 (편스토랑)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1",
-          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "title": "여자배구 이재영-다영 쌍둥이 자매, 아제르바이잔 투란VC 입단",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qYAqmyWIGM",
+          "publishedAt": "2026-08-08T08:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이찬원, 배인혁·대니구 총출동…‘보고싶다 친구야’ 빅이벤트 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806095253079",
-          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "title": "‘학폭 논란’ 이다영·이재영 자매, 아제르바이잔 리그서 한솥밥",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/volleyball/1271909.html",
+          "publishedAt": "2026-08-08T08:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'술 빚는 윤주모' 윤나라 셰프 \"이찬원의 미래 아내가 부럽다\" 깜짝 발언 (편스토랑) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/05/GUZDKOJVMEYDCNRUMY4WENTEMY/",
-          "publishedAt": "2026-08-06T05:10:00.000Z",
+          "title": "이재영·이다영 자매, 끝 아니었다! 中 196cm 국대+쿠바 스타까지 싹쓸이…창단 1년 만에 유럽 정조준",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260808n08009",
+          "publishedAt": "2026-08-08T08:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "이찬원, 광고만 23개 찍어…“저도 몰랐는데” 겸손 (편스토랑)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1",
-        "publishedAt": "2026-08-06T05:10:00.000Z",
+        "title": "‘학폭 논란’ 이다영·이재영 자매, 아제르바이잔 리그서 한솥밥",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/sports/volleyball/1271909.html",
+        "publishedAt": "2026-08-08T08:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-08T08:20:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "이다영",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/sports/volleyball/1271909.html"
+    },
+    {
+      "id": "9abcff492eb8cff2",
+      "issueKey": "lck",
+      "issueTitle": "lck",
+      "trendTitle": "lck",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kiin becomes the first toplaner to reach 500 wins in LCK",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "T1 bench Oner for LCK debut of 18-year-old academy jungler Painter",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/fr/all/articles/t1-bench-oner-for-lck-debut-of-18-year-old-academy-jungler-painter/en",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'Namgung' on His First Career POM: \"I'm Grateful to My Teammates for Playing So Well\"",
+          "source": "Inven Global",
+          "url": "https://www.invenglobal.com/articles/24575/namgung-on-his-first-career-pom-im-grateful-to-my-teammates-for-playing-so-well",
+          "publishedAt": "2026-08-08T07:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Kiin becomes the first toplaner to reach 500 wins in LCK",
+        "source": "Sheep Esports",
+        "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en",
+        "publishedAt": "2026-08-08T07:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-06T05:10:00.000Z",
-      "firstSeenAt": "2026-08-06T08:35:22.098Z",
-      "lastSeenAt": "2026-08-06T08:35:22.098Z",
-      "title": "이찬원",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260806/134431855/1"
+      "publishedAt": "2026-08-08T07:50:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "lck",
+      "source": "Sheep Esports",
+      "url": "https://www.sheepesports.com/de/lol/articles/kiin-becomes-the-first-toplaner-to-reach-500-wins-in-lck/en"
+    },
+    {
+      "id": "2e45fbbdc4ef34d1",
+      "issueKey": "이은형",
+      "issueTitle": "이은형",
+      "trendTitle": "이은형",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806171137226",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "강재준, 아내 이은형 신간 출간 응원…\"읽고 소름 돋았다\"[셀럽샷]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260806n34367",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이은형, ‘엄마의 기록’으로 돌아왔다...첫 육아 에세이 ‘오늘의 현조’ 출간",
+          "source": "뉴스컬처",
+          "url": "https://www.nc.press/news/articleView.html?idxno=622734",
+          "publishedAt": "2026-08-08T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'작가 데뷔' 이은형, 정식 출간 전인데…벌써 베스트셀러 \"무슨 일이고\" [★해시태그]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260806171137226",
+        "publishedAt": "2026-08-08T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-08T07:40:00.000Z",
+      "firstSeenAt": "2026-08-08T09:37:08.097Z",
+      "lastSeenAt": "2026-08-08T09:37:08.097Z",
+      "title": "이은형",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260806171137226"
     },
     {
       "id": "cabddffe9c971b86",
@@ -1469,52 +1514,6 @@
       "title": "브라질 월드컵",
       "source": "JTBC",
       "url": "https://news.jtbc.co.kr/article/NB12312088"
-    },
-    {
-      "id": "603c8c0ecac91ce5",
-      "issueKey": "테슬라",
-      "issueTitle": "테슬라",
-      "trendTitle": "테슬라",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "그랜저도 제치고 잘나가는 테슬라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260805204329571",
-          "publishedAt": "2026-08-06T05:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "6개월 연속 수입차 판매 1위 지킨 테슬라…BMW·벤츠",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/05/2026080514050359927",
-          "publishedAt": "2026-08-06T05:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "7월 수입 승용차 3만976대 신규 등록…전월 대비 18.6%↓",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005894435",
-          "publishedAt": "2026-08-06T05:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "그랜저도 제치고 잘나가는 테슬라",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260805204329571",
-        "publishedAt": "2026-08-06T05:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-06T05:30:00.000Z",
-      "firstSeenAt": "2026-08-06T08:35:22.098Z",
-      "lastSeenAt": "2026-08-06T08:35:22.098Z",
-      "title": "테슬라",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260805204329571"
     },
     {
       "id": "807d82f82fbcf722",
@@ -2251,52 +2250,6 @@
       "title": "손현보",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260808112655244"
-    },
-    {
-      "id": "99575622f51ccf38",
-      "issueKey": "하리수",
-      "issueTitle": "하리수",
-      "trendTitle": "하리수",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "하리수 \"미키정 보내주고 싶어 이혼…애 못 낳아 미안했다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003741138",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "하리수, 전남편 폭행 루머 부인 \"경찰서 간 적 없어…애 낳고 잘 살아\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/08/2026080723484784247",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "하리수 \"전남편이 30억 날려서 이혼? 사실 아냐\"…유튜브서 루머 해명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808092749937?f=m",
-          "publishedAt": "2026-08-08T04:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "하리수 \"미키정 보내주고 싶어 이혼…애 못 낳아 미안했다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260807_0003741138",
-        "publishedAt": "2026-08-08T04:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-08T04:30:00.000Z",
-      "firstSeenAt": "2026-08-08T06:52:28.254Z",
-      "lastSeenAt": "2026-08-08T06:52:28.254Z",
-      "title": "하리수",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260807_0003741138"
     }
   ]
 }
