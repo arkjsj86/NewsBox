@@ -7,253 +7,394 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-10T01:48:02.359Z",
+  "lastUpdatedAt": "2026-08-10T04:37:28.879Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 9,
   "items": [
     {
-      "id": "eba60d9980517310",
-      "issueKey": "신봉선",
-      "issueTitle": "신봉선",
-      "trendTitle": "신봉선",
+      "id": "83d1c7d836c2dc3f",
+      "issueKey": "김주형",
+      "issueTitle": "김주형",
+      "trendTitle": "김주형",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김주형, 1년 5개월 만에 남자 골프 세계랭킹 30위 복귀",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/G1ysJ92uZf",
+          "publishedAt": "2026-08-10T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "1타 차가 7타 차로…김주형 윈덤 챔피언십 공동 5위",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/08/10/B4TVUQG7CNEWFJU7ZTJQ6TIUGU/",
+          "publishedAt": "2026-08-10T03:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "불꽃타 김주형, PGA 투어 윈덤 챔피언십 3R서 선두와 1타 차 3위",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8632152",
+          "publishedAt": "2026-08-10T03:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김주형, 1년 5개월 만에 남자 골프 세계랭킹 30위 복귀",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/G1ysJ92uZf",
+        "publishedAt": "2026-08-10T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T03:30:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "김주형",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/G1ysJ92uZf",
+      "rank": 1
+    },
+    {
+      "id": "89de55884ce6e0a0",
+      "issueKey": "지민",
+      "issueTitle": "지민",
+      "trendTitle": "지민",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "하우스 푸어 겪은 신봉선, 매달 100만원씩 10년 묻어두자 벌어진 일",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260706517383",
-          "publishedAt": "2026-08-10T00:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "닮은꼴 아이유 뛰어넘었나...'11kg 감량' 신봉선, 물오른 미모",
+          "title": "'보스턴 콘서트 장악' BTS 지민, 美 언론·팬심 사로잡으며 글로벌 아이콘 등극",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260808220210603",
-          "publishedAt": "2026-08-10T00:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "아이유인 줄…신봉선, 100일 만 '체지방 11kg' 삭제→날렵한 턱선에 '미모 포텐' 터졌다 [RE:스타]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260809n06071",
-          "publishedAt": "2026-08-10T00:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "하우스 푸어 겪은 신봉선, 매달 100만원씩 10년 묻어두자 벌어진 일",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260706517383",
-        "publishedAt": "2026-08-10T00:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T00:30:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "신봉선",
-      "source": "세계일보",
-      "url": "https://www.segye.com/newsView/20260706517383",
-      "rank": 1
-    },
-    {
-      "id": "06f1a0e00c7c690f",
-      "issueKey": "노화",
-      "issueTitle": "노화",
-      "trendTitle": "노화",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“노화 막고 암 예방까지”… 입 심심할 때, 과자 대신 먹으면 좋은 것",
-          "source": "헬스조선",
-          "url": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080702101.html",
-          "publishedAt": "2026-08-10T00:30:00.000Z",
+          "url": "https://v.daum.net/v/p9BFyEDgC4",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "폭염 한 번에 6개월 늙는다…생체시계 당기는 기후변화",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/science/science_general/1272137.html",
-          "publishedAt": "2026-08-10T00:30:00.000Z",
+          "title": "전 세계가 ♥ 방탄소년단 지민, 월드투어 비하인드..빛나는 반전 매력",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/music/2026/08/08/2026080807585766032",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘잠이 안 오는 건 더위 때문만이 아니었다’… 열대야, 숙면을 방해하는 음식 5가지",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608091500001",
-          "publishedAt": "2026-08-10T00:30:00.000Z",
+          "title": "방탄소년단 지민, 보스턴에서 “가장 큰 함성” 이끌었다",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16159213",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“노화 막고 암 예방까지”… 입 심심할 때, 과자 대신 먹으면 좋은 것",
-        "source": "헬스조선",
-        "url": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080702101.html",
-        "publishedAt": "2026-08-10T00:30:00.000Z",
+        "title": "'보스턴 콘서트 장악' BTS 지민, 美 언론·팬심 사로잡으며 글로벌 아이콘 등극",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/p9BFyEDgC4",
+        "publishedAt": "2026-08-10T03:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-10T00:30:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "노화",
-      "source": "헬스조선",
-      "url": "https://health.chosun.com/site/data/html_dir/2026/08/07/2026080702101.html",
+      "publishedAt": "2026-08-10T03:20:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "지민",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/p9BFyEDgC4",
       "rank": 2
     },
     {
-      "id": "b04487b70213c84b",
-      "issueKey": "화가",
-      "issueTitle": "화가",
-      "trendTitle": "화가",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "022afb4769a7ee0d",
+      "issueKey": "드류 앤더슨",
+      "issueTitle": "드류 앤더슨",
+      "trendTitle": "드류 앤더슨",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "박한별, 미술대회 본선 진출 \"다시봐도 안믿김\" 경사 터졌다[스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809203209556",
-          "publishedAt": "2026-08-10T00:20:00.000Z",
+          "title": "\"한국에선 늘 혼자였다\"…KBO리그 탈삼진 고수의 돌발 고백→아시아 4년 돌아보다 \"외딴섬 같았지만 내 자신 찾았어\"",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260810n00550",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "화가 된 박한별 \"첫 도전에 인사동 전시, 파리 초대까지\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260809_0003741950",
-          "publishedAt": "2026-08-10T00:20:00.000Z",
+          "title": "\"아시아에선 혼자, 외딴섬에 떨어져 있는 느낌\"…前SSG 드류 앤더슨, 스쿠발 대신 선발 전환 소회 \"매순간 축복\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/baseball/2026-08-10/202608100100054230003405",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "박한별, 여전한 얼짱 \"말도 안되는 일 벌어져..현실감 제로\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/09/GEZGGOLGMVTDQM3EMM4TSOLEGM/",
-          "publishedAt": "2026-08-10T00:20:00.000Z",
+          "title": "스쿠발 떠난 DET, 고작 '마이너 계약'으로 선발 영입…2025시즌 0승 7패 '곰버 복권'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260806180243236",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "화가 된 박한별 \"첫 도전에 인사동 전시, 파리 초대까지\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260809_0003741950",
-        "publishedAt": "2026-08-10T00:20:00.000Z",
+        "title": "\"아시아에선 혼자, 외딴섬에 떨어져 있는 느낌\"…前SSG 드류 앤더슨, 스쿠발 대신 선발 전환 소회 \"매순간 축복\"",
+        "source": "스포츠조선",
+        "url": "https://www.sportschosun.com/baseball/2026-08-10/202608100100054230003405",
+        "publishedAt": "2026-08-10T03:20:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-08-10T00:20:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "화가",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260809_0003741950",
+      "publishedAt": "2026-08-10T03:20:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "드류 앤더슨",
+      "source": "스포츠조선",
+      "url": "https://www.sportschosun.com/baseball/2026-08-10/202608100100054230003405",
       "rank": 3
     },
     {
-      "id": "07d64980a12e4de4",
-      "issueKey": "태풍 페이",
-      "issueTitle": "태풍 페이",
-      "trendTitle": "태풍 페이",
+      "id": "ebf875ddf05d15b1",
+      "issueKey": "구종",
+      "issueTitle": "구종",
+      "trendTitle": "크리스 페덱",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "태풍 '돌핀' 중국 상륙, '아찔한' 현장 모습",
+          "title": "경산 간 페덱, 2군 유망주들에게 구종·루틴·노하우 다 퍼줬다…삼성에 왜 이리 진심이야",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810101008926",
-          "publishedAt": "2026-08-10T00:00:00.000Z",
+          "url": "https://v.daum.net/v/qKzii51yl1?f=p",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "한국 열대야 꺾은 태풍 '돌핀'… 중국은 최대 500mm '폭우 비상'",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260810000138",
-          "publishedAt": "2026-08-10T00:00:00.000Z",
+          "title": "◇내일의 경기(11일)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809005600007",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "태풍 ‘찬홈’ 일본 뚫고 동해 진입...폭염 기세 꺾일까",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260809580088",
-          "publishedAt": "2026-08-10T00:00:00.000Z",
+          "title": "‘야구야 반갑다!’ 프로야구 재개… KIA·NC는 11일 만에 실전",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3423765",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "태풍 페이",
+        "title": "경산 간 페덱, 2군 유망주들에게 구종·루틴·노하우 다 퍼줬다…삼성에 왜 이리 진심이야",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260810101008926",
-        "publishedAt": "2026-08-10T00:00:00.000Z",
+        "url": "https://v.daum.net/v/qKzii51yl1?f=p",
+        "publishedAt": "2026-08-10T03:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-10T00:00:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "태풍 페이",
+      "publishedAt": "2026-08-10T03:10:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "구종",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260810101008926",
+      "url": "https://v.daum.net/v/qKzii51yl1?f=p",
       "rank": 4
     },
     {
-      "id": "ee21fe3f44010024",
-      "issueKey": "판잣집",
-      "issueTitle": "판잣집",
-      "trendTitle": "판잣집",
+      "id": "d3aceec7360eb071",
+      "issueKey": "발전소",
+      "issueTitle": "발전소",
+      "trendTitle": "발전소",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "가구 수보다 주택 수가 더 많지만···판잣집·여관 사는 주거취약가구 55만 달해",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608100737001",
-          "publishedAt": "2026-08-09T23:50:00.000Z",
+          "title": "한국동서발전, 국산 ‘피지컬 AI’ 발전소 현장 투입한다",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065579345386213",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "폭염 속 판잣집·여관 등 ‘집 아닌 곳’ 거주 55만 가구…5년 새 11% 늘어",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260810/134447855/1",
-          "publishedAt": "2026-08-09T23:50:00.000Z",
+          "title": "동서발전, 국산 물리 인공지능 기업과 업무협약 체결",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1676639/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EA%B5%AD%EC%82%B0-%EB%AC%BC%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%97%85%EA%B3%BC-2026",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "극한 더위에 판잣집·여관 등서 사는 주거취약가구 55만",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810055510137",
-          "publishedAt": "2026-08-09T23:50:00.000Z",
+          "title": "동서발전, 스마트 발전소 전환 가속화",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10836011",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "가구 수보다 주택 수가 더 많지만···판잣집·여관 사는 주거취약가구 55만 달해",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608100737001",
-        "publishedAt": "2026-08-09T23:50:00.000Z",
+        "title": "한국동서발전, 국산 ‘피지컬 AI’ 발전소 현장 투입한다",
+        "source": "울산종합일보",
+        "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065579345386213",
+        "publishedAt": "2026-08-10T03:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-09T23:50:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "판잣집",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608100737001",
+      "publishedAt": "2026-08-10T03:10:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "발전소",
+      "source": "울산종합일보",
+      "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065579345386213",
       "rank": 5
     },
     {
-      "id": "a689dd03d4c0fc4e",
-      "issueKey": "이재영",
-      "issueTitle": "이다영",
-      "trendTitle": "이다영",
+      "id": "9ae51887bcaedbab",
+      "issueKey": "후티 예멘",
+      "issueTitle": "후티 예멘",
+      "trendTitle": "후티 예멘",
       "approxTraffic": "500+",
       "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "후티 반군 \"사우디 아람코 정유공장 공습했다\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429296",
+          "publishedAt": "2026-08-10T03:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "후티 반군, 예멘 항구도시 모카 또 공격…사상자 37명(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810115927313",
+          "publishedAt": "2026-08-10T03:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "후티 반군 \"사우디 아람코 정유시설 드론으로 타격\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809019651009",
+          "publishedAt": "2026-08-10T03:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "후티 예멘",
+        "source": "연합인포맥스",
+        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429296",
+        "publishedAt": "2026-08-10T03:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T03:00:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "후티 예멘",
+      "source": "연합인포맥스",
+      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4429296",
+      "rank": 6
+    },
+    {
+      "id": "b53c264f64b280dc",
+      "issueKey": "집행유예",
+      "issueTitle": "집행유예",
+      "trendTitle": "집행유예",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "치매노인 은행 데려간 간병인, 체크카드 발급받아 2000만원 꿀꺽",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260810/134447598/2",
+          "publishedAt": "2026-08-10T03:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "치매 노인 예금 2000만원 가로챈 70대 간병인, 집유 4년",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/regional/2026/08/09/IH36SI6LUNHTPDTTNGMPT6ZJGM/",
+          "publishedAt": "2026-08-10T03:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "담당하던 치매 환자 요양원 가자…카드 빼돌려 2000만원 펑펑 쓴 간병인",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/10/2026081008145228494",
+          "publishedAt": "2026-08-10T03:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "집행유예",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Society/article/all/20260810/134447598/2",
+        "publishedAt": "2026-08-10T03:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T03:00:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "집행유예",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Society/article/all/20260810/134447598/2",
+      "rank": 7
+    },
+    {
+      "id": "08f2f18eda8df862",
+      "issueKey": "보트",
+      "issueTitle": "보트",
+      "trendTitle": "보트",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "인천 앞바다서 연락 두절된 모터보트 구조…3명 모두 무사(종합2보)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810123855361",
+          "publishedAt": "2026-08-10T02:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전복된 모터보트 부여잡고 밤새 7시간 버텨…낚시꾼 3명 ‘구명조끼’가 살렸다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608100830001",
+          "publishedAt": "2026-08-10T02:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "모터보트 타고 낚시 갔다가 연락 두절… 20~30대 3명 구조",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/incident/2026/08/10/YM4T7JXOOFDLZI4PKKKXEB7DHI/",
+          "publishedAt": "2026-08-10T02:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "인천 앞바다서 연락 두절된 모터보트 구조…3명 모두 무사(종합2보)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810123855361",
+        "publishedAt": "2026-08-10T02:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T02:50:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "보트",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260810123855361",
+      "rank": 8
+    },
+    {
+      "id": "d76a8666477be9ed",
+      "issueKey": "이재영",
+      "issueTitle": "이재영",
+      "trendTitle": "이재영",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -261,178 +402,37 @@
           "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
           "source": "OSEN",
           "url": "https://www.osen.co.kr/article/G1112853514",
-          "publishedAt": "2026-08-09T23:40:00.000Z",
+          "publishedAt": "2026-08-10T02:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘배구 노마드족’ 이재영·이다영",
+          "title": "'학폭 논란→사실상 韓 퇴출' 이재영·이다영, 보란 듯 밝힌 '새 시즌 각오'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810000313146",
-          "publishedAt": "2026-08-09T23:40:00.000Z",
+          "url": "https://v.daum.net/v/95dgIJiPWh",
+          "publishedAt": "2026-08-10T02:40:00.000Z",
           "relevanceScore": 2
         },
         {
           "title": "'아제르바이잔행' 여자배구 이다영 \"이적해 행복…좋은 모습으로 보답\"",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260809_0003741885",
-          "publishedAt": "2026-08-09T23:40:00.000Z",
+          "publishedAt": "2026-08-10T02:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘배구 노마드족’ 이재영·이다영",
+        "title": "'학폭 논란→사실상 韓 퇴출' 이재영·이다영, 보란 듯 밝힌 '새 시즌 각오'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260810000313146",
-        "publishedAt": "2026-08-09T23:40:00.000Z",
+        "url": "https://v.daum.net/v/95dgIJiPWh",
+        "publishedAt": "2026-08-10T02:40:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-08-09T23:40:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "이다영",
+      "publishedAt": "2026-08-10T02:40:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "이재영",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260810000313146",
-      "rank": 6
-    },
-    {
-      "id": "887f857e8d953cfc",
-      "issueKey": "셸턴",
-      "issueTitle": "셸턴",
-      "trendTitle": "셸턴",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'2연패 도전' 셸턴, 폰세카 꺾고 8강 합류",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260810_0002208094",
-          "publishedAt": "2026-08-09T23:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[내셔널뱅크 오픈] 남친 경기 지켜보는 트리니티 로드먼",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3659967",
-          "publishedAt": "2026-08-09T23:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "브라질 19세 '신성' 다시 괴력을 뽐내다…주앙 폰세카, 치치파스에 이어 루드까지 제압",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260808111707172",
-          "publishedAt": "2026-08-09T23:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'2연패 도전' 셸턴, 폰세카 꺾고 8강 합류",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260810_0002208094",
-        "publishedAt": "2026-08-09T23:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-09T23:30:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "셸턴",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISI20260810_0002208094",
-      "rank": 7
-    },
-    {
-      "id": "8c837345ec204399",
-      "issueKey": "전장연",
-      "issueTitle": "전장연",
-      "trendTitle": "전장연",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[사회][속보] 전장연 시위로 1호선 용산역 상행선 무정차 통과",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202608100848365955_005.html",
-          "publishedAt": "2026-08-09T23:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전장연 출근길 시위에… 용산역 ‘무정차’ 2시간 만에 풀려 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/topics/topics_social/2026/08/10/TXU6C7BDXJAFVJK37KGZN6BWVA/",
-          "publishedAt": "2026-08-09T23:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "장애인단체 출근길 탑승시위…1호선 용산역 한때 무정차(종합2보)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810021352004",
-          "publishedAt": "2026-08-09T23:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[사회][속보] 전장연 시위로 1호선 용산역 상행선 무정차 통과",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0103_202608100848365955_005.html",
-        "publishedAt": "2026-08-09T23:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-09T23:20:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "전장연",
-      "source": "YTN",
-      "url": "https://www.ytn.co.kr/_cs/_ln_0103_202608100848365955_005.html",
-      "rank": 8
-    },
-    {
-      "id": "3aa2c7f9ca6f01e8",
-      "issueKey": "대한민국 문화체육관광부",
-      "issueTitle": "대한민국 문화체육관광부",
-      "trendTitle": "대한민국 문화체육관광부",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "문화체육관광부, 해외에서 아파도 대한민국 119",
-          "source": "한국글로벌뉴스",
-          "url": "https://kgfnews.com/news/article.html?no=474567",
-          "publishedAt": "2026-08-09T23:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "2026 화천토마토축제",
-          "source": "한국시사경제",
-          "url": "https://www.hksisaeconomy.com/news/article.html?no=1205230",
-          "publishedAt": "2026-08-09T23:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "문화체육관광부, 해외에서 아파도 대한민국 119",
-          "source": "경남도민뉴스",
-          "url": "https://www.gndnews1.com/news/article.html?no=1231214",
-          "publishedAt": "2026-08-09T23:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대한민국 문화체육관광부",
-        "source": "한국글로벌뉴스",
-        "url": "https://kgfnews.com/news/article.html?no=474567",
-        "publishedAt": "2026-08-09T23:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-09T23:00:00.000Z",
-      "firstSeenAt": "2026-08-10T01:48:02.359Z",
-      "lastSeenAt": "2026-08-10T01:48:02.359Z",
-      "title": "대한민국 문화체육관광부",
-      "source": "한국글로벌뉴스",
-      "url": "https://kgfnews.com/news/article.html?no=474567",
+      "url": "https://v.daum.net/v/95dgIJiPWh",
       "rank": 9
     }
   ],
@@ -528,119 +528,6 @@
       "title": "토트넘",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260808053549295"
-    },
-    {
-      "id": "77624a0702be9f09",
-      "issueKey": "김부장",
-      "issueTitle": "김부장",
-      "trendTitle": "김부장",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“너무 많이 맞아 불쌍하다”…주상욱 위해 차예련이 준비한 보양식",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260807100303309",
-          "publishedAt": "2026-08-08T03:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "차예련, ‘김부장’ ♥주상욱 얼마나 맞았길래…온몸 멍·링거에 감독도 전화",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12120523",
-          "publishedAt": "2026-08-08T03:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'주상욱♥' 차예련 \"남편 촬영장 절대 안 간다, 괜히 나대는 것 같아\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/07/GQ3GCOJUMI2TANBYMQ3WMYRRGU/",
-          "publishedAt": "2026-08-08T03:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "차예련, ‘김부장’ ♥주상욱 얼마나 맞았길래…온몸 멍·링거에 감독도 전화",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/entertain/12120523",
-        "publishedAt": "2026-08-08T03:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-08T03:00:00.000Z",
-      "firstSeenAt": "2026-08-08T04:10:16.560Z",
-      "lastSeenAt": "2026-08-08T04:10:16.560Z",
-      "title": "김부장",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/entertain/12120523"
-    },
-    {
-      "id": "d24e93bf93af1f39",
-      "issueKey": "대통령",
-      "issueTitle": "대통령",
-      "trendTitle": "대통령",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 6,
-      "relatedArticles": [
-        {
-          "title": "이 대통령, ‘집중호우 피해’ 경북 안동·의성 4개면 특별재난지역 선포",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608071806001",
-          "publishedAt": "2026-08-08T02:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "가뭄-폭염 대처현황 현장점검",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=72845&amp;pWise=sub&amp;pWiseSub=D4",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "참석자 발언 듣는 이재명 대통령",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20260807060000013",
-          "publishedAt": "2026-08-08T02:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이 대통령 “폭염 완화 때까지 전방위적 대응 체계 가동…가용 자원 총동원”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260806120252002",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "속보 이 대통령, '호우 피해' 안동시·의성군 관할 4개 면 특별재난지역 선포",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608071754336216&amp;s_mcd=0101",
-          "publishedAt": "2026-08-08T02:20:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "李 “외신서나 보던 폭염이 우리 현실로…행정력 총동원”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260806/134430136/2",
-          "publishedAt": "2026-08-06T03:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이 대통령, ‘집중호우 피해’ 경북 안동·의성 4개면 특별재난지역 선포",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608071806001",
-        "publishedAt": "2026-08-08T02:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-08T02:20:00.000Z",
-      "firstSeenAt": "2026-08-06T05:48:34.753Z",
-      "lastSeenAt": "2026-08-08T04:10:16.560Z",
-      "title": "대통령",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608071806001"
     },
     {
       "id": "a5495ccc79922f88",
@@ -1839,96 +1726,96 @@
       "url": "https://news.nate.com/view/20260808n04288"
     },
     {
-      "id": "881a8172c7dcec2e",
-      "issueKey": "친구",
-      "issueTitle": "친구",
-      "trendTitle": "부모",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "ebf875ddf05d15b1",
+      "issueKey": "구종",
+      "issueTitle": "구종",
+      "trendTitle": "크리스 페덱",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"친구는 부모 덕에 집 샀는데\" 아들 하소연에 \"죄지었다\" 사죄 '먹먹'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260808n00764",
-          "publishedAt": "2026-08-08T02:20:00.000Z",
+          "title": "경산 간 페덱, 2군 유망주들에게 구종·루틴·노하우 다 퍼줬다…삼성에 왜 이리 진심이야",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qKzii51yl1?f=p",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"친구는 부모 덕에 집 샀다는데...\" 아들 하소연에 \"열심히 살았을뿐, 미안하다\" 먹먹",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202608081009160945",
-          "publishedAt": "2026-08-08T02:20:00.000Z",
+          "title": "◇내일의 경기(11일)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809005600007",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"부모 덕에 집 산 친구는 몇억 올랐는데\"... 아들 하소연에 \"우리가 죄지었다\" 사과",
-          "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/567142",
-          "publishedAt": "2026-08-08T02:20:00.000Z",
+          "title": "‘야구야 반갑다!’ 프로야구 재개… KIA·NC는 11일 만에 실전",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3423765",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"친구는 부모 덕에 집 샀는데\" 아들 하소연에 \"죄지었다\" 사죄 '먹먹'",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260808n00764",
-        "publishedAt": "2026-08-08T02:20:00.000Z",
+        "title": "경산 간 페덱, 2군 유망주들에게 구종·루틴·노하우 다 퍼줬다…삼성에 왜 이리 진심이야",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/qKzii51yl1?f=p",
+        "publishedAt": "2026-08-10T03:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-08T02:20:00.000Z",
-      "firstSeenAt": "2026-08-08T04:10:16.560Z",
-      "lastSeenAt": "2026-08-08T04:10:16.560Z",
-      "title": "친구",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260808n00764"
+      "publishedAt": "2026-08-10T03:10:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "구종",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/qKzii51yl1?f=p"
     },
     {
-      "id": "e7aa831058574b42",
-      "issueKey": "삼성 라이온즈",
-      "issueTitle": "삼성 라이온즈",
-      "trendTitle": "삼성 라이온즈",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "d76a8666477be9ed",
+      "issueKey": "이재영",
+      "issueTitle": "이재영",
+      "trendTitle": "이재영",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "프로야구 삼성, 우완 미야모리 계약…한 달 사이 외인 3명 영입",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GVDYJVfz1T",
-          "publishedAt": "2026-08-08T01:40:00.000Z",
+          "title": "‘학폭 논란’ 韓배구계 뒤흔든 쌍둥이 아직 현역이다! 나란히 아제르바이잔행→5년 만에 한솥밥 확정",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112853514",
+          "publishedAt": "2026-08-10T02:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "무서운 삼성, 아시아 쿼터까지 교체…한 달 사이 외인 3명 영입",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260807137000007",
-          "publishedAt": "2026-08-08T01:40:00.000Z",
+          "title": "'학폭 논란→사실상 韓 퇴출' 이재영·이다영, 보란 듯 밝힌 '새 시즌 각오'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/95dgIJiPWh",
+          "publishedAt": "2026-08-10T02:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "삼성, 아시아 쿼터도 바꿨다…미야지와 결별하고 미야모리 영입",
+          "title": "'아제르바이잔행' 여자배구 이다영 \"이적해 행복…좋은 모습으로 보답\"",
           "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260807_0003740953",
-          "publishedAt": "2026-08-08T01:40:00.000Z",
+          "url": "https://www.newsis.com/view/NISX20260809_0003741885",
+          "publishedAt": "2026-08-10T02:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "삼성 라이온즈",
+        "title": "'학폭 논란→사실상 韓 퇴출' 이재영·이다영, 보란 듯 밝힌 '새 시즌 각오'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/GVDYJVfz1T",
-        "publishedAt": "2026-08-08T01:40:00.000Z",
-        "relevanceScore": 3
+        "url": "https://v.daum.net/v/95dgIJiPWh",
+        "publishedAt": "2026-08-10T02:40:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-08-08T01:40:00.000Z",
-      "firstSeenAt": "2026-08-08T04:10:16.560Z",
-      "lastSeenAt": "2026-08-08T04:10:16.560Z",
-      "title": "삼성 라이온즈",
+      "publishedAt": "2026-08-10T02:40:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "이재영",
       "source": "Daum",
-      "url": "https://v.daum.net/v/GVDYJVfz1T"
+      "url": "https://v.daum.net/v/95dgIJiPWh"
     },
     {
       "id": "07d64980a12e4de4",
@@ -2297,6 +2184,98 @@
       "title": "결혼의 완성",
       "source": "머니투데이",
       "url": "https://www.mt.co.kr/entertainment/2026/08/09/2026080909277214256"
+    },
+    {
+      "id": "89de55884ce6e0a0",
+      "issueKey": "지민",
+      "issueTitle": "지민",
+      "trendTitle": "지민",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'보스턴 콘서트 장악' BTS 지민, 美 언론·팬심 사로잡으며 글로벌 아이콘 등극",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/p9BFyEDgC4",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전 세계가 ♥ 방탄소년단 지민, 월드투어 비하인드..빛나는 반전 매력",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/music/2026/08/08/2026080807585766032",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "방탄소년단 지민, 보스턴에서 “가장 큰 함성” 이끌었다",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16159213",
+          "publishedAt": "2026-08-10T03:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'보스턴 콘서트 장악' BTS 지민, 美 언론·팬심 사로잡으며 글로벌 아이콘 등극",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/p9BFyEDgC4",
+        "publishedAt": "2026-08-10T03:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T03:20:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "지민",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/p9BFyEDgC4"
+    },
+    {
+      "id": "d3aceec7360eb071",
+      "issueKey": "발전소",
+      "issueTitle": "발전소",
+      "trendTitle": "발전소",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한국동서발전, 국산 ‘피지컬 AI’ 발전소 현장 투입한다",
+          "source": "울산종합일보",
+          "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065579345386213",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "동서발전, 국산 물리 인공지능 기업과 업무협약 체결",
+          "source": "데일리안",
+          "url": "https://www.dailian.co.kr/news/view/1676639/%EB%8F%99%EC%84%9C%EB%B0%9C%EC%A0%84-%EA%B5%AD%EC%82%B0-%EB%AC%BC%EB%A6%AC-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EA%B8%B0%EC%97%85%EA%B3%BC-2026",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "동서발전, 스마트 발전소 전환 가속화",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10836011",
+          "publishedAt": "2026-08-10T03:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "한국동서발전, 국산 ‘피지컬 AI’ 발전소 현장 투입한다",
+        "source": "울산종합일보",
+        "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065579345386213",
+        "publishedAt": "2026-08-10T03:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T03:10:00.000Z",
+      "firstSeenAt": "2026-08-10T04:37:28.879Z",
+      "lastSeenAt": "2026-08-10T04:37:28.879Z",
+      "title": "발전소",
+      "source": "울산종합일보",
+      "url": "https://ujnews.co.kr/news/newsview.php?ncode=1065579345386213"
     }
   ]
 }

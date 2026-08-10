@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-08-10T01:48:02.359Z",
+  "lastUpdatedAt": "2026-08-10T04:37:28.879Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "NeHGzf4-XvU",
-      "title": "Unite Seoul 2026 하이라이트",
-      "url": "https://www.youtube.com/watch?v=NeHGzf4-XvU",
-      "publishedAt": "2026-08-07T06:44:21.000Z",
-      "thumbnailUrl": "https://i3.ytimg.com/vi/NeHGzf4-XvU/hqdefault.jpg"
+      "id": "DyS9aQI8xys",
+      "title": "모바일과 데스크탑을 위한 실용적인 Unity 6 기능 소개",
+      "url": "https://www.youtube.com/watch?v=DyS9aQI8xys",
+      "publishedAt": "2026-08-10T04:26:29.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/DyS9aQI8xys/hqdefault.jpg"
     },
     {
-      "id": "PYiVUZrDzdM",
-      "title": "[Unite Seoul 2026] 유니티 메모리 구조와 CoreCLR 이해하기",
-      "url": "https://www.youtube.com/watch?v=PYiVUZrDzdM",
-      "publishedAt": "2026-08-07T03:07:27.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/PYiVUZrDzdM/hqdefault.jpg"
+      "id": "ijFpZCttcOo",
+      "title": "모바일 환경을 위한 Unity Web: 빌드는 더 작게, 로딩은 더 빠르게, 그리고 그 다음은?",
+      "url": "https://www.youtube.com/watch?v=ijFpZCttcOo",
+      "publishedAt": "2026-08-10T04:26:23.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/ijFpZCttcOo/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -39,8 +39,8 @@
     {
       "key": "release",
       "source": "Unity Releases",
-      "ok": true,
-      "version": "6000.3.21f1"
+      "ok": false,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "key": "youtube",
