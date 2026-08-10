@@ -7,11 +7,434 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-10T18:56:50.784Z",
+  "lastUpdatedAt": "2026-08-10T21:40:45.675Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
+    {
+      "id": "b9f53aa764518b2b",
+      "issueKey": "경복궁",
+      "issueTitle": "경복궁",
+      "trendTitle": "경복궁",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이 대통령, 경복궁서 中 관광객과 셀카…중국 SNS서 화제",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/0CE62jAi1O",
+          "publishedAt": "2026-08-10T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"중국서 난리났다\"…이재명 대통령 경복궁서 中관광객과 '찰칵', 화제",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260810n18654",
+          "publishedAt": "2026-08-10T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"한국 대통령 정말 친절했다\"…李와 셀카 찍은 中관광객 후기에 온라인 '들썩'",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026081016331166632",
+          "publishedAt": "2026-08-10T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이 대통령, 경복궁서 中 관광객과 셀카…중국 SNS서 화제",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/0CE62jAi1O",
+        "publishedAt": "2026-08-10T20:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:30:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "경복궁",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/0CE62jAi1O",
+      "rank": 1
+    },
+    {
+      "id": "57dbff2898415dad",
+      "issueKey": "미사일",
+      "issueTitle": "미사일",
+      "trendTitle": "미사일",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "젤렌스키 \"러, 북한군 추가 배치 준비…탄도미사일 또 받아\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811052453491",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "젤렌스키, 韓 방공체계 지원 요청…정부, 신중 기류",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811052321hR6",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "젤렌스키 韓 방공망 지원 요청에…정부 \"방산물자 제공, 국내법 준수\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/08/10/2026081019595499109",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "젤렌스키 \"러, 북한군 추가 배치 준비…탄도미사일 또 받아\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811052453491",
+        "publishedAt": "2026-08-10T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:20:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "미사일",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260811052453491",
+      "rank": 2
+    },
+    {
+      "id": "83d1c7d836c2dc3f",
+      "issueKey": "김주형",
+      "issueTitle": "김주형",
+      "trendTitle": "김주형",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김주형, 1년 5개월 만에 남자 골프 세계랭킹 30위 복귀",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810050000007",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김주형, PGA 윈덤 챔피언십 5위…네번째 톱10",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811052744N5h",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "70→50→30위… ‘커트라인’ 넘으면 ‘돈잔치’ 열린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811004212173",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김주형, 1년 5개월 만에 남자 골프 세계랭킹 30위 복귀",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260810050000007",
+        "publishedAt": "2026-08-10T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:20:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "김주형",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260810050000007",
+      "rank": 3
+    },
+    {
+      "id": "83844ff2a2ce50f8",
+      "issueKey": "물고기",
+      "issueTitle": "물고기",
+      "trendTitle": "물고기",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이미 수백만 죽었다…\"이대로 두면 몰살\" 눈물의 방류",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810201807055",
+          "publishedAt": "2026-08-10T20:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "포항 양식어류 27만7000마리 폐사…고수온 장기화에 40억 투입 ‘생존전’",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711878",
+          "publishedAt": "2026-08-10T20:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'냉수대 소멸'에 경남 전 해역 고수온 특보…도, 총력 대응",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810129300052",
+          "publishedAt": "2026-08-10T20:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "물고기",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810201807055",
+        "publishedAt": "2026-08-10T20:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:10:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "물고기",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260810201807055",
+      "rank": 4
+    },
+    {
+      "id": "95319b4d19774aa7",
+      "issueKey": "에코프로 비엠",
+      "issueTitle": "에코프로 비엠",
+      "trendTitle": "에코프로 비엠",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "에코프로비엠, 1.2조 유증 정정신고서 제출…발행 규모는 유지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9Z6lqVfzk8",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "에코프로비엠, 유상증자 정정 신고서 제출…1.2조 규모는 유지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809043800003",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "에코프로비엠, 북미 매출 3년 만에 95% 증발 전망",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026081014335667478",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "에코프로 비엠",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9Z6lqVfzk8",
+        "publishedAt": "2026-08-10T20:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "에코프로 비엠",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/9Z6lqVfzk8",
+      "rank": 5
+    },
+    {
+      "id": "e529855a9699826f",
+      "issueKey": "리처드 기어",
+      "issueTitle": "리처드 기어",
+      "trendTitle": "리처드 기어",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“48살 차이? 역겹다” 76세 리차드 기어, 20대 女배우와 ‘로맨스물’…“손녀뻘” 비난[월드픽]",
+          "source": "TWIG",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/08/07/20260807500198",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"48살 연하와 로맨스라니…역겹다\" 76살 리처드 기어 신작 갑론을박[해외이슈]",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260808n01314",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "77살 리처드 기어, 20대 여배우와 로맨스물…아들과 3살 차이",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260807071542648",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"48살 연하와 로맨스라니…역겹다\" 76살 리처드 기어 신작 갑론을박[해외이슈]",
+        "source": "네이트",
+        "url": "https://news.nate.com/view/20260808n01314",
+        "publishedAt": "2026-08-10T20:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "리처드 기어",
+      "source": "네이트",
+      "url": "https://news.nate.com/view/20260808n01314",
+      "rank": 6
+    },
+    {
+      "id": "17a75a9c86b77ec3",
+      "issueKey": "축구협회",
+      "issueTitle": "축구협회",
+      "trendTitle": "축구협회",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "포옛 \"축구대표팀 임시감독 공개채용 지원 완료\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/38qCaBb00M",
+          "publishedAt": "2026-08-10T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "축구협회, 임시감독 공개채용 접수 마감…다음 주 온라인 면접",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810137500007",
+          "publishedAt": "2026-08-10T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "축구협회 \"임시 감독 서류 접수 마감…차주내 후보자 적정성 검토\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003743377",
+          "publishedAt": "2026-08-10T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "축구협회, 임시감독 공개채용 접수 마감…다음 주 온라인 면접",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260810137500007",
+        "publishedAt": "2026-08-10T19:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-10T19:50:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "축구협회",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260810137500007",
+      "rank": 7
+    },
+    {
+      "id": "e8668f55e356ae72",
+      "issueKey": "윤상현",
+      "issueTitle": "윤상현",
+      "trendTitle": "윤상현",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"득표수 조작은 비약\" \"선관위 편 들어주나\"‥국힘 의원끼리 충돌",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843753_37004.html",
+          "publishedAt": "2026-08-10T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현장 입력-최종 투표자수… 읍면동 절반 이상서 달라",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811043644057",
+          "publishedAt": "2026-08-10T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "선관위 \"오입력해도 개표결과 영향無\"…투표율 '표본조사' 검토(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810068151001",
+          "publishedAt": "2026-08-10T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "윤상현",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843753_37004.html",
+        "publishedAt": "2026-08-10T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T19:30:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "윤상현",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6843753_37004.html",
+      "rank": 8
+    },
+    {
+      "id": "4cd24ad643909ce3",
+      "issueKey": "발견",
+      "issueTitle": "노동자",
+      "trendTitle": "노동자",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "매일유업 평택공장 연유탱크서 근로자 2명 사상(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/8yC1AsOc1L",
+          "publishedAt": "2026-08-10T19:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "연유탱크 청소하다가 사망...잇따르는 산업현장 사고",
+          "source": "YTN",
+          "url": "https://m.ytn.co.kr/news_view.php?key=202608101828516992&amp;s_mcd=0103",
+          "publishedAt": "2026-08-10T19:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "매일유업 평택공장서 노동자 2명 쓰러진 채 발견···1명 숨져",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608092024001",
+          "publishedAt": "2026-08-10T19:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "매일유업 평택공장서 노동자 2명 쓰러진 채 발견···1명 숨져",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608092024001",
+        "publishedAt": "2026-08-10T19:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-08-10T19:20:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "노동자",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202608092024001",
+      "rank": 9
+    },
     {
       "id": "8f47e1536563677d",
       "issueKey": "에어부산",
@@ -52,434 +475,11 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-10T16:00:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
       "title": "에어부산",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260810068200051",
-      "rank": 1
-    },
-    {
-      "id": "2b21510e929212eb",
-      "issueKey": "연습경기",
-      "issueTitle": "연습경기",
-      "trendTitle": "연습경기",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해 안에 어렵나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/p6spnlSr1r?f=p",
-          "publishedAt": "2026-08-10T16:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[속보] 충격! 양민혁 EPL 떠난다!…벨기에 베스테를로 임대 '오피셜' 눈앞→메디컬 완료→'韓 프리미어리거 0명' 비극 온다",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260811n00194",
-          "publishedAt": "2026-08-10T16:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "韓 축구 대형 비극! 양민혁, 또 '0분 출전' 날벼락...데 제르비 계획에서 완전히 제외됐나, \"임대 임박 경쟁자 선발 출전\"",
-          "source": "스포츠조선",
-          "url": "https://www.sportschosun.com/football/2026-08-09/202608090100050130003111",
-          "publishedAt": "2026-08-10T16:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "양민혁 또 0분, 대체 어디로 가는가…헤타페와 70분 연습경기, 교체 명단 들고도 또 결장→2G 연속 OUT, EPL 데뷔 올해 안에 어렵나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/p6spnlSr1r?f=p",
-        "publishedAt": "2026-08-10T16:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T16:00:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "연습경기",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/p6spnlSr1r?f=p",
-      "rank": 2
-    },
-    {
-      "id": "97ae15dee97f94b6",
-      "issueKey": "강진",
-      "issueTitle": "강진",
-      "trendTitle": "콜롬비아",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608102156001",
-          "publishedAt": "2026-08-10T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "콜롬비아 강진 사망자 최소 20명…'커피 벨트' 피해 집중",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/11/2026081103222250243",
-          "publishedAt": "2026-08-10T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "콜롬비아 규모 7.4 강진에 최소 69명 사망…건물 붕괴 속출(종합)",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260811_0003743603",
-          "publishedAt": "2026-08-10T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보]콜롬비아서 규모 7.4 강진···최소 20명 사망·건물 20채 붕괴",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608102156001",
-        "publishedAt": "2026-08-10T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T15:20:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "강진",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608102156001",
-      "rank": 3
-    },
-    {
-      "id": "8c17300616bef7e3",
-      "issueKey": "아이맥스 영화관",
-      "issueTitle": "아이맥스 영화관",
-      "trendTitle": "아이맥스 영화관",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[특집] 2700년 전의 번개를 마주하다 – 김우형 촬영감독의 촬영 분석",
-          "source": "씨네21",
-          "url": "https://cine21.com/news/view/?mag_id=110472",
-          "publishedAt": "2026-08-10T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“‘오디세이’ 보러 순천·전주로”···광주권 아이맥스관 부재에 원정 관람 잇따라",
-          "source": "무등일보",
-          "url": "https://m.mdilbo.com/detail/EHdc4G/757806",
-          "publishedAt": "2026-08-10T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“용산 CGV 아이맥스 명당 10만원에 삽니다”… 고퀄관람에 지갑여는 관객",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608331",
-          "publishedAt": "2026-08-10T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아이맥스 영화관",
-        "source": "씨네21",
-        "url": "https://cine21.com/news/view/?mag_id=110472",
-        "publishedAt": "2026-08-10T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T15:00:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "아이맥스 영화관",
-      "source": "씨네21",
-      "url": "https://cine21.com/news/view/?mag_id=110472",
-      "rank": 4
-    },
-    {
-      "id": "e551f48e519c997c",
-      "issueKey": "수능",
-      "issueTitle": "수능",
-      "trendTitle": "수능",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "전남광주 통합에도 수능 시험지구 지난해와 동일",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810114200054",
-          "publishedAt": "2026-08-10T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "수험생을 위한 기도",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260810_0021393916",
-          "publishedAt": "2026-08-10T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "2027학년도 대학수학능력시험 D-101일, 끝까지 힘내자 [포토뉴스]",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260810580567",
-          "publishedAt": "2026-08-10T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전남광주 통합에도 수능 시험지구 지난해와 동일",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260810114200054",
-        "publishedAt": "2026-08-10T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T15:00:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "수능",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260810114200054",
-      "rank": 5
-    },
-    {
-      "id": "5053c0154f12f3ed",
-      "issueKey": "레임덕",
-      "issueTitle": "레임덕",
-      "trendTitle": "레임덕",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[뉴스 추적] 내지르고 안되면 거둬들이고... 이재명표 정책에 민심 폭발 지지율 취임 후 최저 또 갱신",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2j7yJICEaU",
-          "publishedAt": "2026-08-10T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[속보]여론조사꽃, ‘李잘한다’ 53.8% 최저…60대 지지율 폭락",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608470",
-          "publishedAt": "2026-08-10T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "李대통령 지지도 4주 연속 하락한 43.3%…취임 후 최저[리얼미터](종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810017351001",
-          "publishedAt": "2026-08-10T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "레임덕",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/2j7yJICEaU",
-        "publishedAt": "2026-08-10T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T14:10:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "레임덕",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/2j7yJICEaU",
-      "rank": 6
-    },
-    {
-      "id": "e63610ac82e59b2f",
-      "issueKey": "케스파컵",
-      "issueTitle": "케스파컵",
-      "trendTitle": "케스파컵",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한화생명, 젠지에 2-1 역전승⋯KeSPA컵 결선 스테이지 2 직행",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2612919",
-          "publishedAt": "2026-08-10T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "2026 케스파컵 경기 일정…한화생명 vs 젠지 격돌",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810150209555?f=p",
-          "publishedAt": "2026-08-10T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "협곡에 나타난 '괴물 로크'···'제카' 18/0/2으로 젠지 제압",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260810n25685",
-          "publishedAt": "2026-08-10T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "2026 케스파컵 경기 일정…한화생명 vs 젠지 격돌",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810150209555?f=p",
-        "publishedAt": "2026-08-10T13:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-10T13:50:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "케스파컵",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260810150209555?f=p",
-      "rank": 7
-    },
-    {
-      "id": "fee820f56f9bcb2f",
-      "issueKey": "대한 광통신",
-      "issueTitle": "대한 광통신",
-      "trendTitle": "대한 광통신",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진에 장초반 급등",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810039000008",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "미국, 반도체 넘어 ‘피지컬 AI’ 봉쇄...기술 패권 전선 확대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810162851511",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[특징주] 美 중국산 광트랜시버 규제 추진에 대한광통신 등 광통신株 강세",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2612680",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대한 광통신",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260810039000008",
-        "publishedAt": "2026-08-10T13:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T13:20:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "대한 광통신",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260810039000008",
-      "rank": 8
-    },
-    {
-      "id": "6917bcd7256d8778",
-      "issueKey": "더트롯쇼",
-      "issueTitle": "더트롯쇼",
-      "trendTitle": "더트롯쇼",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260810508965",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "성리, '더트롯쇼' 출격 인증샷 \"학자 사랑으로 멋지게 완료\"",
-          "source": "비즈엔터",
-          "url": "https://enter.etoday.co.kr/news/view/300874",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[스타 영상] 성리, 성리학자들과 팬미팅! 신곡 응원법 연습 & 친필사인 포토카드 추첨행사 (SBS Life '더 트롯쇼' 미니 팬미팅)",
-          "source": "뉴스인스타",
-          "url": "https://www.newsinstar.com/news/article.html?no=83671",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘더트롯쇼’, 신곡‧개성 무대 ..10일 한 자리에 모여",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20260810508965",
-        "publishedAt": "2026-08-10T13:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T13:20:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "더트롯쇼",
-      "source": "세계일보",
-      "url": "https://www.segye.com/newsView/20260810508965",
-      "rank": 9
-    },
-    {
-      "id": "b45ef240a033dd72",
-      "issueKey": "반도체",
-      "issueTitle": "반도체",
-      "trendTitle": "컴퓨터 공학",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810141500004",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서울대 공대생 89%, ‘삼전닉스’ 취업 유리한 전기·정보공학부 선택",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260810/134453294/1",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'삼전닉스 성과급 터진다'…서울대생들 '우르르' 몰리는 곳",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081052737",
-          "publishedAt": "2026-08-10T13:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260810141500004",
-        "publishedAt": "2026-08-10T13:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T13:20:00.000Z",
-      "firstSeenAt": "2026-08-10T18:56:50.784Z",
-      "lastSeenAt": "2026-08-10T18:56:50.784Z",
-      "title": "반도체",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260810141500004",
       "rank": 10
     }
   ],
@@ -676,52 +676,6 @@
       "url": "https://www.munhwa.com/article/11608470"
     },
     {
-      "id": "a5495ccc79922f88",
-      "issueKey": "추석 설렌다",
-      "issueTitle": "추석 설렌다",
-      "trendTitle": "추석 설렌다",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'추석 설렌다! 1인당 50만원'...지원금 소식에 들썩이는 '이곳'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260809060303669",
-          "publishedAt": "2026-08-08T20:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "2026 민생지원금 4차 우리지역도 줄까.. 최대 50만원 누가 받나?",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/findnstory/findstory/contents/260808205407073xa",
-          "publishedAt": "2026-08-08T20:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "고창군 1인당 30만 원, 군민활력지원금 추석 전 지급",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6559023",
-          "publishedAt": "2026-08-08T20:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'추석 설렌다! 1인당 50만원'...지원금 소식에 들썩이는 '이곳'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260809060303669",
-        "publishedAt": "2026-08-08T20:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-08T20:10:00.000Z",
-      "firstSeenAt": "2026-08-08T21:29:27.807Z",
-      "lastSeenAt": "2026-08-08T21:29:27.807Z",
-      "title": "추석 설렌다",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260809060303669"
-    },
-    {
       "id": "b8bac41eb7ef9312",
       "issueKey": "연애 전쟁",
       "issueTitle": "연애 전쟁",
@@ -858,6 +812,98 @@
       "title": "택배기사",
       "source": "MBC 뉴스",
       "url": "https://imnews.imbc.com/news/2026/society/article/6843404_36918.html"
+    },
+    {
+      "id": "57dbff2898415dad",
+      "issueKey": "미사일",
+      "issueTitle": "미사일",
+      "trendTitle": "미사일",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "젤렌스키 \"러, 북한군 추가 배치 준비…탄도미사일 또 받아\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811052453491",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "젤렌스키, 韓 방공체계 지원 요청…정부, 신중 기류",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811052321hR6",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "젤렌스키 韓 방공망 지원 요청에…정부 \"방산물자 제공, 국내법 준수\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/08/10/2026081019595499109",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "젤렌스키 \"러, 북한군 추가 배치 준비…탄도미사일 또 받아\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811052453491",
+        "publishedAt": "2026-08-10T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:20:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "미사일",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260811052453491"
+    },
+    {
+      "id": "83d1c7d836c2dc3f",
+      "issueKey": "김주형",
+      "issueTitle": "김주형",
+      "trendTitle": "김주형",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김주형, 1년 5개월 만에 남자 골프 세계랭킹 30위 복귀",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810050000007",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김주형, PGA 윈덤 챔피언십 5위…네번째 톱10",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811052744N5h",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "70→50→30위… ‘커트라인’ 넘으면 ‘돈잔치’ 열린다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811004212173",
+          "publishedAt": "2026-08-10T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김주형, 1년 5개월 만에 남자 골프 세계랭킹 30위 복귀",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260810050000007",
+        "publishedAt": "2026-08-10T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:20:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "김주형",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260810050000007"
     },
     {
       "id": "17d5b20ecdb5b09d",
@@ -1550,144 +1596,6 @@
       "url": "https://www.chosun.com/sports/world-football/2026/08/09/GBTGMODGHE4TAMBVHA4DAOJVG4/"
     },
     {
-      "id": "478553b6ae419e72",
-      "issueKey": "배달된 코브라",
-      "issueTitle": "배달된 코브라",
-      "trendTitle": "배달된 코브라",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"주택가에 코브라가 나타났다\" 멸종위기종 밀수조직 덜미",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/0yLtcnLxjx",
-          "publishedAt": "2026-08-08T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“압수수색 갔더니 뱀 허물 수십 개가…”",
-          "source": "법률신문",
-          "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=224541",
-          "publishedAt": "2026-08-08T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[영상] 주택가에 택배 배달된 코브라·악어…멸종위기종 밀수조직 검거",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260807009300704",
-          "publishedAt": "2026-08-08T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[영상] 주택가에 택배 배달된 코브라·악어…멸종위기종 밀수조직 검거",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/MYH20260807009300704",
-        "publishedAt": "2026-08-08T20:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-08T20:20:00.000Z",
-      "firstSeenAt": "2026-08-08T21:29:27.807Z",
-      "lastSeenAt": "2026-08-08T21:29:27.807Z",
-      "title": "배달된 코브라",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/MYH20260807009300704"
-    },
-    {
-      "id": "8d8b592876eb1fce",
-      "issueKey": "로또 1236",
-      "issueTitle": "로또 1236",
-      "trendTitle": "로또 1236",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "1236회 로또 1등 ‘12, 18, 21, 29, 34, 38’···1등 11명 당첨금 각 24억4191만원",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608082123001",
-          "publishedAt": "2026-08-08T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"24억 대박\" 로또 1등 '11명' 나왔다…당첨번호는?",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/08/2026080819575627561",
-          "publishedAt": "2026-08-08T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "1236회 로또 1등 11명…당첨금 각 24억4천만원(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260808050500002",
-          "publishedAt": "2026-08-08T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "로또 1236",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608082123001",
-        "publishedAt": "2026-08-08T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-08T20:20:00.000Z",
-      "firstSeenAt": "2026-08-08T21:29:27.807Z",
-      "lastSeenAt": "2026-08-08T21:29:27.807Z",
-      "title": "로또 1236",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608082123001"
-    },
-    {
-      "id": "ed0e90733d1a21cf",
-      "issueKey": "과일",
-      "issueTitle": "과일",
-      "trendTitle": "과일",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "씻기 귀찮아서 그냥 먹는데…“암 환자에게 치명적” 전문의 경고 나왔다 [헬시타임]",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077196",
-          "publishedAt": "2026-08-08T20:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"한 가지 음식 고집해도 될까?\" 암 예방 식단의 진짜 핵심은",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260807n27089",
-          "publishedAt": "2026-08-08T20:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘버릴까, 먹을까?’ 과일·채소 안전한 섭취 시기는?",
-          "source": "위클리코리아",
-          "url": "https://www.weeklykoreanz.com/post/%EB%B2%84%EB%A6%B4%EA%B9%8C-%EB%A8%B9%EC%9D%84%EA%B9%8C-%EA%B3%BC%EC%9D%BC-%EC%B1%84%EC%86%8C-%EC%95%88%EC%A0%84%ED%95%9C-%EC%84%AD%EC%B7%A8-%EC%8B%9C%EA%B8%B0%EB%8A%94",
-          "publishedAt": "2026-08-08T20:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘버릴까, 먹을까?’ 과일·채소 안전한 섭취 시기는?",
-        "source": "위클리코리아",
-        "url": "https://www.weeklykoreanz.com/post/%EB%B2%84%EB%A6%B4%EA%B9%8C-%EB%A8%B9%EC%9D%84%EA%B9%8C-%EA%B3%BC%EC%9D%BC-%EC%B1%84%EC%86%8C-%EC%95%88%EC%A0%84%ED%95%9C-%EC%84%AD%EC%B7%A8-%EC%8B%9C%EA%B8%B0%EB%8A%94",
-        "publishedAt": "2026-08-08T20:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-08T20:10:00.000Z",
-      "firstSeenAt": "2026-08-08T21:29:27.807Z",
-      "lastSeenAt": "2026-08-08T21:29:27.807Z",
-      "title": "과일",
-      "source": "위클리코리아",
-      "url": "https://www.weeklykoreanz.com/post/%EB%B2%84%EB%A6%B4%EA%B9%8C-%EB%A8%B9%EC%9D%84%EA%B9%8C-%EA%B3%BC%EC%9D%BC-%EC%B1%84%EC%86%8C-%EC%95%88%EC%A0%84%ED%95%9C-%EC%84%AD%EC%B7%A8-%EC%8B%9C%EA%B8%B0%EB%8A%94"
-    },
-    {
       "id": "fee820f56f9bcb2f",
       "issueKey": "대한 광통신",
       "issueTitle": "대한 광통신",
@@ -2337,6 +2245,98 @@
       "title": "피부암",
       "source": "대한민국 정책브리핑",
       "url": "https://www.korea.kr/multi/mediaNewsView.do?newsId=148969466"
+    },
+    {
+      "id": "83844ff2a2ce50f8",
+      "issueKey": "물고기",
+      "issueTitle": "물고기",
+      "trendTitle": "물고기",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이미 수백만 죽었다…\"이대로 두면 몰살\" 눈물의 방류",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260810201807055",
+          "publishedAt": "2026-08-10T20:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "포항 양식어류 27만7000마리 폐사…고수온 장기화에 40억 투입 ‘생존전’",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=711878",
+          "publishedAt": "2026-08-10T20:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'냉수대 소멸'에 경남 전 해역 고수온 특보…도, 총력 대응",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810129300052",
+          "publishedAt": "2026-08-10T20:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "물고기",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260810201807055",
+        "publishedAt": "2026-08-10T20:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:10:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "물고기",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260810201807055"
+    },
+    {
+      "id": "95319b4d19774aa7",
+      "issueKey": "에코프로 비엠",
+      "issueTitle": "에코프로 비엠",
+      "trendTitle": "에코프로 비엠",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "에코프로비엠, 1.2조 유증 정정신고서 제출…발행 규모는 유지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9Z6lqVfzk8",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "에코프로비엠, 유상증자 정정 신고서 제출…1.2조 규모는 유지",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260809043800003",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "에코프로비엠, 북미 매출 3년 만에 95% 증발 전망",
+          "source": "부산일보",
+          "url": "https://www.busan.com/view/busan/view.php?code=2026081014335667478",
+          "publishedAt": "2026-08-10T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "에코프로 비엠",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9Z6lqVfzk8",
+        "publishedAt": "2026-08-10T20:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-10T20:00:00.000Z",
+      "firstSeenAt": "2026-08-10T21:40:45.675Z",
+      "lastSeenAt": "2026-08-10T21:40:45.675Z",
+      "title": "에코프로 비엠",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/9Z6lqVfzk8"
     }
   ]
 }
