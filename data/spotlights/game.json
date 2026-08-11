@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-10T21:40:45.675Z",
+  "lastUpdatedAt": "2026-08-11T01:44:27.953Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,7 +28,7 @@
         {
           "title": "AI로 모두에게 경쟁의 재미를, 배우 박지현과 ‘제우스: 오만의 신’",
           "url": "https://bbs.ruliweb.com/news/read/227873",
-          "meta": "댓글 53"
+          "meta": "댓글 55"
         },
         {
           "title": "적자 지속 카카오게임즈 내년 반등 노린다, 2026년 2분기 실적발표",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "'빅 워크' 6일 만에 100만 장 돌파",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319368",
-          "meta": "빅 워크 · 1시간 전"
+          "title": "'에오스 레드 리버스', 대만·태국·필리핀 정식 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319376",
+          "meta": "10분 전"
         },
         {
-          "title": "1666: 암스테르담, 8월 25일 얼리 액세스 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319206",
-          "meta": "1666 암스테르담 · 3시간 전"
+          "title": "라이엇 게임즈, 판교 와일드 팬페스트 사전 예약 실시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319375",
+          "meta": "리그 오브 레전드: 와일드 리프트 · 13분 전"
         },
         {
-          "title": "도심 속 피서지 펍지 성수, 배틀그라운드 블루존 체험 행사",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319362",
-          "meta": "크래프톤 · 13시간 전"
+          "title": "네오위즈, ‘P의 거짓: 컴플리트 에디션’ 프랜차이즈 최고 평점 기록",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319372",
+          "meta": "P의 거짓 · 55분 전"
         },
         {
-          "title": "BIC 2026, 현장 주요 이벤트 전격 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319360",
-          "meta": "13시간 전"
+          "title": "밸로프, 2분기 매출 124억·영업이익 17억 달성",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319371",
+          "meta": "59분 전"
         },
         {
-          "title": "넥슨 오버워치, 사전 다운로드 개시 및 신규 영웅 ‘디몬(D.Mon)’ 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319359",
-          "meta": "오버워치 · 14시간 전"
+          "title": "키움 DRX 윤선웅, 2026 EWC 철권8 종목 2년 연속 준우승",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319369",
+          "meta": "철권 8 · 1시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
