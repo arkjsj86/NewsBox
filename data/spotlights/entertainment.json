@@ -7,11 +7,105 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-11T16:00:23.914Z",
+  "lastUpdatedAt": "2026-08-11T19:01:13.165Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "5d2ada361b47f841",
+      "issueKey": "cpi",
+      "issueTitle": "cpi",
+      "trendTitle": "cpi",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Gold Price Rebounds to $4,400 After Two Months... Now Eyes on U.S. CPI",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/world-economy/2026081115463027252",
+          "publishedAt": "2026-08-11T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Gold Prices Rebound Slightly After Plunging 30% — Trend Reversal Ahead?",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008698877",
+          "publishedAt": "2026-08-11T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "International gold prices have topped $4400 an ounce. Investors' interest is also growing as gold pr..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/economy/12124069",
+          "publishedAt": "2026-08-11T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Gold Price Rebounds to $4,400 After Two Months... Now Eyes on U.S. CPI",
+        "source": "아시아경제",
+        "url": "https://www.asiae.co.kr/en/article/world-economy/2026081115463027252",
+        "publishedAt": "2026-08-11T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-11T15:40:00.000Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
+      "title": "cpi",
+      "source": "아시아경제",
+      "url": "https://www.asiae.co.kr/en/article/world-economy/2026081115463027252",
+      "rank": 1
+    },
+    {
+      "id": "6a5aebf3d57efde8",
+      "issueKey": "나가던 광통신주",
+      "issueTitle": "나가던 광통신주",
+      "trendTitle": "나가던 광통신주",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202608114360i",
+          "publishedAt": "2026-08-11T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[특징주] 광통신주, 미국의 중국산 수입규제 추진 소식에 급등(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260810039051008",
+          "publishedAt": "2026-08-11T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[특징주] 광통신株, 전날 급등분 일부 반납",
+          "source": "에너지경제신문",
+          "url": "https://m.ekn.kr/view.php?key=20260811023321481",
+          "publishedAt": "2026-08-11T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "잘 나가던 광통신주, 하루만에 '우수수' 하락 무슨 일",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202608114360i",
+        "publishedAt": "2026-08-11T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-11T15:00:00.000Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
+      "title": "나가던 광통신주",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202608114360i",
+      "rank": 2
+    },
     {
       "id": "bbb093bcb3f0a4a5",
       "issueKey": "고소영",
@@ -52,59 +146,59 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-11T14:10:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
       "title": "고소영",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260811_0003745191",
-      "rank": 1
+      "rank": 3
     },
     {
       "id": "61ca1dd7e35b00e6",
       "issueKey": "투자가",
       "issueTitle": "투자가",
       "trendTitle": "투자가",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "골드만삭스, AI 투자가 다른 기업 지출을 잠식할 수 있다고 경고",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2056007",
+          "title": "패밀리 캐피탈의 3륜 전기차 베팅",
+          "source": "뉴스N연합",
+          "url": "https://newsyonhap.com/news/119014",
           "publishedAt": "2026-08-11T13:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[김덕우의 생활 속 AI] AI는 메모리에 산다… 버블 논쟁이 놓치고 있는 것",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811003707078",
+          "title": "쓰레기 수거 및 운송을 위한 전기 삼륜차 시범 운행 제안.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/de-xuat-thi-diem-xe-3-banh-chay-dien-chuyen-thu-gom-van-chuyen-rac",
           "publishedAt": "2026-08-11T13:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "빅테크들의 데이터센터 부채 “과소평가됐다”…지역 주민 반대도 부담",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1272375.html",
+          "title": "삼륜 전기차에 베팅한 패밀리 캐피탈: 도심 모빌리티 틈새 전략의 실체",
+          "source": "얼리어답터뉴스",
+          "url": "https://www.eanews.kr/news/986907",
           "publishedAt": "2026-08-11T13:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "골드만삭스, AI 투자가 다른 기업 지출을 잠식할 수 있다고 경고",
-        "source": "Investing.com 한국어",
-        "url": "https://kr.investing.com/news/stock-market-news/article-2056007",
+        "title": "투자가",
+        "source": "뉴스N연합",
+        "url": "https://newsyonhap.com/news/119014",
         "publishedAt": "2026-08-11T13:40:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-11T13:40:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
       "title": "투자가",
-      "source": "Investing.com 한국어",
-      "url": "https://kr.investing.com/news/stock-market-news/article-2056007",
-      "rank": 2
+      "source": "뉴스N연합",
+      "url": "https://newsyonhap.com/news/119014",
+      "rank": 4
     },
     {
       "id": "336d6a593b83f434",
@@ -146,12 +240,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-11T13:20:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
       "title": "진수 화",
       "source": "네이트",
       "url": "https://sports.news.nate.com/view/20260811n16238",
-      "rank": 3
+      "rank": 5
     },
     {
       "id": "31eef782e2c8ab07",
@@ -164,9 +258,9 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“친형 같던 매니저 먼저 떠나보내”…테이, 돌연 활동 중단한 이유",
+          "title": "테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811091212463",
+          "url": "https://v.daum.net/v/20260812005409959",
           "publishedAt": "2026-08-11T13:10:00.000Z",
           "relevanceScore": 3
         },
@@ -178,82 +272,129 @@
           "relevanceScore": 2
         },
         {
-          "title": "테이, 3년 활동 중단 사연 고백… 차인표 미국 이민사 눈물",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662087",
+          "title": "테이, 3년 공백 이유…\"친형 같던 매니저 세상 떠나\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260811_0003744297",
           "publishedAt": "2026-08-11T13:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“친형 같던 매니저 먼저 떠나보내”…테이, 돌연 활동 중단한 이유",
+        "title": "테이 “친형 같은 매니저였는데…” 전성기때 돌연 활동 접은 사연",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260811091212463",
+        "url": "https://v.daum.net/v/20260812005409959",
         "publishedAt": "2026-08-11T13:10:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-11T13:10:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
       "title": "테이",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260811091212463",
-      "rank": 4
+      "url": "https://v.daum.net/v/20260812005409959",
+      "rank": 6
     },
     {
-      "id": "f2d7058b701a96b9",
-      "issueKey": "쌍둥이 남매",
-      "issueTitle": "쌍둥이 남매",
-      "trendTitle": "쌍둥이 남매",
+      "id": "621a158068fae5de",
+      "issueKey": "하루",
+      "issueTitle": "하루",
+      "trendTitle": "하루",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811132842054",
+          "publishedAt": "2026-08-11T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘심형탁 子’ 하루, 아빠 닮아 덕질 본능 폭발…“그거 줘” (슈돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260811/134458104/1",
+          "publishedAt": "2026-08-11T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'심형탁 子' 하루, 코르티스 룩 입고 성수동 떴다..'힙스터 베이비'",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260810235310914",
+          "publishedAt": "2026-08-11T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'심형탁 子' 하루, 굿즈 앞에서 말문 활짝…아빠 닮은 덕질 DNA 폭발 \"그거 줘\" [슈돌]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811132842054",
+        "publishedAt": "2026-08-11T13:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-11T13:10:00.000Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
+      "title": "하루",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260811132842054",
+      "rank": 7
+    },
+    {
+      "id": "8ddb59c5e342b501",
+      "issueKey": "임라라 쌍둥이",
+      "issueTitle": "임라라 쌍둥이",
+      "trendTitle": "임라라 쌍둥이",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
+          "title": "손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1",
+          "publishedAt": "2026-08-11T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
           "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
           "source": "Daum",
           "url": "https://v.daum.net/v/biHjlhlwvl?f=p",
           "publishedAt": "2026-08-11T12:50:00.000Z",
-          "relevanceScore": 3
+          "relevanceScore": 2
         },
         {
           "title": "‘슈돌’ 강단둥이 남매, 첫 여권사진 공개… 강이는 ‘근엄’ 단이는 ‘브이’",
           "source": "천지일보",
           "url": "https://www.newscj.com/news/articleView.html?idxno=3424064",
           "publishedAt": "2026-08-11T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "강단둥이남매, 생애 첫 여권 사진 촬영…물만두 강이 카메라 아이컨택",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16160200",
-          "publishedAt": "2026-08-11T12:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/biHjlhlwvl?f=p",
+        "title": "손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1",
         "publishedAt": "2026-08-11T12:50:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-11T12:50:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
-      "title": "쌍둥이 남매",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/biHjlhlwvl?f=p",
-      "rank": 5
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
+      "title": "임라라 쌍둥이",
+      "source": "스포츠동아",
+      "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1",
+      "rank": 8
     },
     {
       "id": "647d8746220d8ee8",
       "issueKey": "갈소원",
       "issueTitle": "갈소원",
       "trendTitle": "갈소원",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -287,200 +428,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-11T12:50:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
       "title": "갈소원",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260811071040299",
-      "rank": 6
-    },
-    {
-      "id": "2bfe59f42acf6841",
-      "issueKey": "정호연",
-      "issueTitle": "정호연",
-      "trendTitle": "정호연",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "스토커 벌금 1000만원 구형된 날…황정민 '틈만나면' 출격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811205640874",
-          "publishedAt": "2026-08-11T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘틈만나면’ 정호연 “밥값 내기부터 하자”…‘게임광’ 면모",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Entertainment/article/all/20260812/134461654/1",
-          "publishedAt": "2026-08-11T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유재석, 알까기 명사수 등극…'틈만나면,' 시즌5 첫방부터 웃음 폭발",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260811000084",
-          "publishedAt": "2026-08-11T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘틈만나면’ 정호연 “밥값 내기부터 하자”…‘게임광’ 면모",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Entertainment/article/all/20260812/134461654/1",
-        "publishedAt": "2026-08-11T12:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-11T12:50:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
-      "title": "정호연",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Entertainment/article/all/20260812/134461654/1",
-      "rank": 7
-    },
-    {
-      "id": "274ecb82cbde2598",
-      "issueKey": "넥슨",
-      "issueTitle": "넥슨",
-      "trendTitle": "넥슨",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "탈론의 지배 - 4시즌: 부산의 영웅이 진면목을 드러냅니다 - 새소식 - 오버워치",
-          "source": "Blizzard Entertainment",
-          "url": "https://overwatch.blizzard.com/ko-kr/news/24295381/",
-          "publishedAt": "2026-08-11T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "넥슨이 만들어갈 ‘오버워치’…제2의 전성기 오나",
-          "source": "에너지경제신문",
-          "url": "https://m.ekn.kr/view.php?key=20260811021071249",
-          "publishedAt": "2026-08-11T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "넥슨, '오버워치' 사전 다운로드 개시 및 신규 영웅 '디몬(D.Mon)' 공개",
-          "source": "디스이즈게임",
-          "url": "https://www.thisisgame.com/articles/428711",
-          "publishedAt": "2026-08-11T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "넥슨이 만들어갈 ‘오버워치’…제2의 전성기 오나",
-        "source": "에너지경제신문",
-        "url": "https://m.ekn.kr/view.php?key=20260811021071249",
-        "publishedAt": "2026-08-11T12:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-11T12:00:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
-      "title": "넥슨",
-      "source": "에너지경제신문",
-      "url": "https://m.ekn.kr/view.php?key=20260811021071249",
-      "rank": 8
-    },
-    {
-      "id": "d24e93bf93af1f39",
-      "issueKey": "대통령",
-      "issueTitle": "대통령",
-      "trendTitle": "대통령",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이 대통령, 경찰 책임 확대 재차 거론‥\"수사 문제로 국민 걱정 많아\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844012_37004.html",
-          "publishedAt": "2026-08-11T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이 대통령, 경찰에 \"국민, 범죄 피해 걱정\"...노봉법 기준 마련도 재차 주문",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202608112321561747",
-          "publishedAt": "2026-08-11T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "李, 노동부에 \"노란봉투법 쟁의 범위 법령 만들라\" 재차 지시",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/labor/2026/08/11/Q5F5MSWANJHW3I3JGDEJW2SSCQ/",
-          "publishedAt": "2026-08-11T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이 대통령, 경찰 책임 확대 재차 거론‥\"수사 문제로 국민 걱정 많아\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844012_37004.html",
-        "publishedAt": "2026-08-11T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-11T11:50:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
-      "title": "대통령",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6844012_37004.html",
       "rank": 9
-    },
-    {
-      "id": "33a7a20b1b19d940",
-      "issueKey": "유성우",
-      "issueTitle": "유성우",
-      "trendTitle": "유성우",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo",
-          "publishedAt": "2026-08-11T11:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "밤하늘 별똥비 안방서 본다…서대문자연사박물관 12∼13일 생중계",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811162351257",
-          "publishedAt": "2026-08-11T11:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "시간당 최대 100개 '별빛쇼'…페르세우스자리 유성우 이번 주 정점",
-          "source": "동아사이언스",
-          "url": "https://www.dongascience.com/ko/news/79356",
-          "publishedAt": "2026-08-11T11:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여름밤 수놓는 유성우…시간당 100개 별빛쇼",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo",
-        "publishedAt": "2026-08-11T11:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-11T11:30:00.000Z",
-      "firstSeenAt": "2026-08-11T16:00:23.914Z",
-      "lastSeenAt": "2026-08-11T16:00:23.914Z",
-      "title": "유성우",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260811172355qAo",
-      "rank": 10
     }
   ],
   "history": [
@@ -872,6 +825,52 @@
       "title": "대통령",
       "source": "MBC 뉴스",
       "url": "https://imnews.imbc.com/news/2026/politics/article/6843884_36911.html"
+    },
+    {
+      "id": "8ddb59c5e342b501",
+      "issueKey": "임라라 쌍둥이",
+      "issueTitle": "임라라 쌍둥이",
+      "trendTitle": "임라라 쌍둥이",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1",
+          "publishedAt": "2026-08-11T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "손민수♥임라라 쌍둥이 남매, 생애 첫 여권사진에 미모 '감탄'(슈돌)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/biHjlhlwvl?f=p",
+          "publishedAt": "2026-08-11T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘슈돌’ 강단둥이 남매, 첫 여권사진 공개… 강이는 ‘근엄’ 단이는 ‘브이’",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3424064",
+          "publishedAt": "2026-08-11T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "손민수♥임라라 쌍둥이, 생애 첫 여권 사진 도전…근엄한데 귀여워 (슈돌)",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1",
+        "publishedAt": "2026-08-11T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-11T12:50:00.000Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
+      "title": "임라라 쌍둥이",
+      "source": "스포츠동아",
+      "url": "https://sports.donga.com/ent/article/all/20260811/134461224/1"
     },
     {
       "id": "f2d7058b701a96b9",
@@ -1663,6 +1662,98 @@
       "url": "https://www.yna.co.kr/view/AKR20260810039000008"
     },
     {
+      "id": "61ca1dd7e35b00e6",
+      "issueKey": "투자가",
+      "issueTitle": "투자가",
+      "trendTitle": "투자가",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "패밀리 캐피탈의 3륜 전기차 베팅",
+          "source": "뉴스N연합",
+          "url": "https://newsyonhap.com/news/119014",
+          "publishedAt": "2026-08-11T13:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "쓰레기 수거 및 운송을 위한 전기 삼륜차 시범 운행 제안.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/de-xuat-thi-diem-xe-3-banh-chay-dien-chuyen-thu-gom-van-chuyen-rac",
+          "publishedAt": "2026-08-11T13:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "삼륜 전기차에 베팅한 패밀리 캐피탈: 도심 모빌리티 틈새 전략의 실체",
+          "source": "얼리어답터뉴스",
+          "url": "https://www.eanews.kr/news/986907",
+          "publishedAt": "2026-08-11T13:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "투자가",
+        "source": "뉴스N연합",
+        "url": "https://newsyonhap.com/news/119014",
+        "publishedAt": "2026-08-11T13:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-11T13:40:00.000Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
+      "title": "투자가",
+      "source": "뉴스N연합",
+      "url": "https://newsyonhap.com/news/119014"
+    },
+    {
+      "id": "647d8746220d8ee8",
+      "issueKey": "갈소원",
+      "issueTitle": "갈소원",
+      "trendTitle": "갈소원",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811071040299",
+          "publishedAt": "2026-08-11T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'7번방' 예승이 갈소원, 훌쩍 자란 근황…\"정말 잘 컸다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260810_0003743589",
+          "publishedAt": "2026-08-11T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'21세 배우' 갈소원 \"7번방 선물 예승이, 기억해주시면 감사해\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008700195",
+          "publishedAt": "2026-08-11T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘7번방의 선물 예승이' 갈소원, 폭풍 성장한 21살 근황…미모에 '깜짝'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260811071040299",
+        "publishedAt": "2026-08-11T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-11T12:50:00.000Z",
+      "firstSeenAt": "2026-08-11T19:01:13.165Z",
+      "lastSeenAt": "2026-08-11T19:01:13.165Z",
+      "title": "갈소원",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260811071040299"
+    },
+    {
       "id": "33a7a20b1b19d940",
       "issueKey": "유성우",
       "issueTitle": "유성우",
@@ -2213,144 +2304,6 @@
       "title": "김건희",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260810192730028"
-    },
-    {
-      "id": "9179b103e1e69256",
-      "issueKey": "남궁민",
-      "issueTitle": "남궁민",
-      "trendTitle": "남궁민",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "KBS 사고 쳤다…'시청률 11.2%'→역대 최고 기록 달성하며 유종의 미 거둔 韓 드라마 ('결혼의 완성')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810173409113",
-          "publishedAt": "2026-08-10T09:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'결혼의 완성' 김대명, 한계 없는 배우의 새 얼굴 완성",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/10/2026081010247266329",
-          "publishedAt": "2026-08-10T09:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "남궁민·이설 이혼 엔딩…'결혼의 완성' KBS 2TV 토일 최고시청률 8.5% 종영",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260810_0003742253",
-          "publishedAt": "2026-08-10T09:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "남궁민·이설 이혼 엔딩…'결혼의 완성' KBS 2TV 토일 최고시청률 8.5% 종영",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260810_0003742253",
-        "publishedAt": "2026-08-10T09:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-10T09:00:00.000Z",
-      "firstSeenAt": "2026-08-10T10:15:48.478Z",
-      "lastSeenAt": "2026-08-10T10:15:48.478Z",
-      "title": "남궁민",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260810_0003742253"
-    },
-    {
-      "id": "48d003e07a2183c4",
-      "issueKey": "기온",
-      "issueTitle": "기온",
-      "trendTitle": "기온",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘이중 열돔’ 깨지자 아침기온 17도까지 뚝…‘트리플 태풍’ 영향은?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810161507993",
-          "publishedAt": "2026-08-10T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "내일 아침 19도까지 ＇뚝＇…한낮 체감 33도 안팎",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202608100420",
-          "publishedAt": "2026-08-10T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "화요일 태백은 아침 16도…폭염서는 벗어나는데 가뭄은 심화",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810131500530",
-          "publishedAt": "2026-08-10T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘이중 열돔’ 깨지자 아침기온 17도까지 뚝…‘트리플 태풍’ 영향은?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810161507993",
-        "publishedAt": "2026-08-10T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T08:40:00.000Z",
-      "firstSeenAt": "2026-08-10T10:15:48.478Z",
-      "lastSeenAt": "2026-08-10T10:15:48.478Z",
-      "title": "기온",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260810161507993"
-    },
-    {
-      "id": "40af4be600da7d71",
-      "issueKey": "도박",
-      "issueTitle": "도박",
-      "trendTitle": "도박",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "불법 도박수익 5천억, 대포통장 107개로 자금세탁",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260810162256291",
-          "publishedAt": "2026-08-10T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대포통장으로 5000억 불법 세탁한 일당 검거",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260810010003259",
-          "publishedAt": "2026-08-10T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "경찰, 5천억 원대 범죄 수익 세탁 조직원 등 적발",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8632878",
-          "publishedAt": "2026-08-10T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "불법 도박수익 5천억, 대포통장 107개로 자금세탁",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810162256291",
-        "publishedAt": "2026-08-10T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-10T08:40:00.000Z",
-      "firstSeenAt": "2026-08-10T10:15:48.478Z",
-      "lastSeenAt": "2026-08-10T10:15:48.478Z",
-      "title": "도박",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260810162256291"
     }
   ]
 }
