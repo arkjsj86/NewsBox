@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-08-12T07:23:50.423Z",
+  "lastUpdatedAt": "2026-08-12T10:04:11.492Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -14,29 +14,6 @@
   "primaryBlockName": "Week 12",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115548147900750245",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 3 2026",
-      "blockName": "Week 12",
-      "startTime": "2026-08-12T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "DN SOOPers",
-          "code": "DNS",
-          "imageUrl": "http://static.lolesports.com/teams/1767340467921_DN_SOOPerslogo_profile.webp"
-        },
-        {
-          "name": "NONGSHIM RED FORCE",
-          "code": "NS",
-          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548147900684589",
       "leagueKey": "lck",
@@ -289,6 +266,29 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "115548147900619029",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Week 13",
+      "startTime": "2026-08-20T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "Dplus KIA",
+          "code": "DK",
+          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
+        },
+        {
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     }
   ],
   "fetchedLeagues": [
@@ -296,7 +296,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 33
+      "matchCount": 32
     },
     {
       "key": "ewc",
