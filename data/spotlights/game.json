@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-12T04:46:22.159Z",
+  "lastUpdatedAt": "2026-08-12T07:23:50.423Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,7 +28,7 @@
         {
           "title": "AI로 모두에게 경쟁의 재미를, 배우 박지현과 ‘제우스: 오만의 신’",
           "url": "https://bbs.ruliweb.com/news/read/227873",
-          "meta": "댓글 59"
+          "meta": "댓글 61"
         },
         {
           "title": "‘조이콘’ 권장 스팀용 피트니스 리듬 액션 게임, 간바레! 치어리듬",
@@ -41,9 +41,9 @@
           "meta": "댓글 39"
         },
         {
-          "title": "넥슨과 함께 할 미래 기대하며, ‘오버워치’ 사령탑 내한 예고",
-          "url": "https://bbs.ruliweb.com/news/read/227766",
-          "meta": "댓글 24"
+          "title": "‘리니지 클래식’으로 선방한 엔씨, 다음 카드는 서구권 3대 MMORPG",
+          "url": "https://bbs.ruliweb.com/news/read/227962",
+          "meta": "댓글 16"
         },
         {
           "title": "‘WoW: 한밤’ 시즌 2와 함께, 울라텍의 저주로 무엇이 바뀌나",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "라이엇, '리프트바운드' T1 우승 기념 에디션 14일 예약 개시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319412",
-          "meta": "리그 오브 레전드: 와일드 리프트 · 29분 전"
+          "title": "2026 게임과학포럼, 9월 4일 개최 확정",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319433",
+          "meta": "2시간 전"
         },
         {
-          "title": "카카오게임즈, ‘유스 이스포츠 페스티벌’ 참여... ‘찾아가는 프렌즈게임 랜드’로 청소년 진로 탐색 지원",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319410",
-          "meta": "카카오게임즈 · 35분 전"
+          "title": "드림에이지, '아키텍트' 출시 300일 기념 이벤트 실시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319432",
+          "meta": "아키텍트: 랜드 오브 엑자일 · 2시간 전"
         },
         {
-          "title": "제18회 대통령배 KeG 전국 결선 15일 경주서 개막",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319409",
-          "meta": "38분 전"
+          "title": "마블 울버린 테마 PS5 한정판 번들, 9월 15일 국내 정식 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319431",
+          "meta": "마블 울버린 · 2시간 전"
         },
         {
-          "title": "아우터플레인, ‘데미우르고스 세이란’ 출시... 이관 1주년 기념 대형 업데이트 예고",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319408",
-          "meta": "아우터플레인 · 42분 전"
+          "title": "신규 던전 출시, 상위 사냥터 개편! 8월 12일(수) 패치 핵심 요약",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319421",
+          "meta": "솔: 인챈트 · 4시간 전"
         },
         {
-          "title": "레인즈 10주년 달성, 누적 플레이어 400만 명 돌파 및 업데이트 진행",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319407",
-          "meta": "레인즈: 위쳐 · 44분 전"
+          "title": "에다니아 파트2 시작! 검사 8/12(수) 패치 핵심 정리",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319424",
+          "meta": "검은사막 · 4시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }

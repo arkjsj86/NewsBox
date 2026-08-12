@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-08-12T04:46:22.159Z",
+  "lastUpdatedAt": "2026-08-12T07:23:50.423Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "-5g7vkTj3CU",
-      "title": "AI 중심의 게임 개발과 마케팅",
-      "url": "https://www.youtube.com/watch?v=-5g7vkTj3CU",
-      "publishedAt": "2026-08-12T00:45:46.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/-5g7vkTj3CU/hqdefault.jpg"
+      "id": "IbC_I3E9a_g",
+      "title": "Agentic Workflow로 Quest 개발 가속화",
+      "url": "https://www.youtube.com/watch?v=IbC_I3E9a_g",
+      "publishedAt": "2026-08-12T05:40:17.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/IbC_I3E9a_g/hqdefault.jpg"
     },
     {
-      "id": "rSdQTIInpw4",
-      "title": "Unity IAP 최신 업데이트: 자동 생성 웹샵과 D2C 수익화",
-      "url": "https://www.youtube.com/watch?v=rSdQTIInpw4",
-      "publishedAt": "2026-08-12T00:45:25.000Z",
-      "thumbnailUrl": "https://i3.ytimg.com/vi/rSdQTIInpw4/hqdefault.jpg"
+      "id": "w4AY2a43lmM",
+      "title": "Unity 실행 환경 어디에서든 발생하는 크래시 포착: 관리형 환경과 네이티브 환경의 연결",
+      "url": "https://www.youtube.com/watch?v=w4AY2a43lmM",
+      "publishedAt": "2026-08-12T04:52:57.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/w4AY2a43lmM/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
