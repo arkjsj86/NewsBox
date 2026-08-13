@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-13T19:02:30.571Z",
+  "lastUpdatedAt": "2026-08-13T21:44:00.833Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -43,7 +43,7 @@
         {
           "title": "‘WoW: 한밤’ 시즌 2와 함께, 울라텍의 저주로 무엇이 바뀌나",
           "url": "https://bbs.ruliweb.com/news/read/227864",
-          "meta": "댓글 9"
+          "meta": "댓글 10"
         },
         {
           "title": "㈜네오플, 제주본사 ‘던전앤파이터’ 집중 채용 오늘(10일) 시작",
@@ -60,27 +60,27 @@
         {
           "title": "'캐니언', \"우리 강점은 유연함...T1 홈그 원정 경기 꼭 이길 것\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319533",
-          "meta": "리그 오브 레전드 · 2시간 전"
+          "meta": "리그 오브 레전드 · 8시간 전"
         },
         {
           "title": "'제우스', \"'턴을 스마트하게 쓰는 운영' 되찾아야\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319531",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "meta": "리그 오브 레전드 · 9시간 전"
         },
         {
           "title": "젠지를 이기려면 '쵸비'를 넘어야 한다",
           "url": "https://www.inven.co.kr/webzine/news/?news=319530",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "meta": "리그 오브 레전드 · 9시간 전"
         },
         {
           "title": "'태윤', \"'에이밍'과 정통 원딜 맞대결, 바라던 바\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319526",
-          "meta": "리그 오브 레전드 · 4시간 전"
+          "meta": "리그 오브 레전드 · 10시간 전"
         },
         {
           "title": "연습 부족 토로한 조재읍 감독, \"밴픽 확신 없었다...엔트리 교체도 고민\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319527",
-          "meta": "리그 오브 레전드 · 5시간 전"
+          "meta": "리그 오브 레전드 · 11시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
