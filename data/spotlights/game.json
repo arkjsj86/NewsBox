@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-13T10:05:29.826Z",
+  "lastUpdatedAt": "2026-08-13T13:09:59.361Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,12 +28,12 @@
         {
           "title": "AI로 모두에게 경쟁의 재미를, 배우 박지현과 ‘제우스: 오만의 신’",
           "url": "https://bbs.ruliweb.com/news/read/227873",
-          "meta": "댓글 66"
+          "meta": "댓글 67"
         },
         {
           "title": "‘조이콘’ 권장 스팀용 피트니스 리듬 액션 게임, 간바레! 치어리듬",
           "url": "https://bbs.ruliweb.com/news/read/227926",
-          "meta": "댓글 21"
+          "meta": "댓글 23"
         },
         {
           "title": "‘리니지 클래식’으로 선방한 엔씨, 다음 카드는 서구권 3대 MMORPG",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "상위 사냥터 조정 관심 집중, +5 주신 장비 시세 변동도?",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319434",
-          "meta": "솔: 인챈트 · 42분 전"
+          "title": "'제우스', \"'턴을 스마트하게 쓰는 운영' 되찾아야\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319531",
+          "meta": "리그 오브 레전드 · 10분 전"
         },
         {
-          "title": "마상소프트, ‘DK온라인’ 시즌 서버 ‘하드코어’ 오픈 이벤트 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319502",
-          "meta": "DK 온라인 · 1시간 전"
+          "title": "젠지를 이기려면 '쵸비'를 넘어야 한다",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319530",
+          "meta": "리그 오브 레전드 · 26분 전"
         },
         {
-          "title": "대원씨티에스, 커세어(Corsair) 부품 고객 대상 여름 경품 이벤트 진행 중",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319500",
-          "meta": "2시간 전"
+          "title": "'태윤', \"'에이밍'과 정통 원딜 맞대결, 바라던 바\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319526",
+          "meta": "리그 오브 레전드 · 2시간 전"
         },
         {
-          "title": "텐센트, 크래프톤 '신흥 스튜디오'·넥슨 '선도 파트너'로 분류",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319499",
-          "meta": "2시간 전"
+          "title": "연습 부족 토로한 조재읍 감독, \"밴픽 확신 없었다...엔트리 교체도 고민\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319527",
+          "meta": "리그 오브 레전드 · 2시간 전"
         },
         {
-          "title": "MSI, 지마켓 G라이브서 노트북, 데스크톱, 모니터 특별 할인 예정",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319498",
-          "meta": "2시간 전"
+          "title": "오랜만에 만난 '호야' 윤용호 \"LCK 꾸준히 챙겨봐... '시우' 폼 NO.1\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319525",
+          "meta": "리그 오브 레전드 · 3시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
