@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-12T21:44:19.085Z",
+  "lastUpdatedAt": "2026-08-13T01:58:26.925Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "2763d01cd1e85100",
-      "issueKey": "삼성전기",
-      "issueTitle": "삼성전기",
-      "trendTitle": "삼성전기",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"내가 틀렸다\" 꼬리 내린 월가…삼전닉스 폭등 이유 있었다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608127020i",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "모건스탠리, 최선호주 바꿨다…'삼성전자→삼성전기'로 변경",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812165454466",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[리포트 브리핑]삼성전기, 'LTA 본격화, 서버가 이끄는 P와 Q' 목표가 2,300,000원 - 유안타증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260811000299",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "모건스탠리, 최선호주 바꿨다…'삼성전자→삼성전기'로 변경",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812165454466",
-        "publishedAt": "2026-08-12T20:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-12T20:40:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "삼성전기",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260812165454466",
-      "rank": 1
-    },
-    {
-      "id": "809be3dcdcb110db",
-      "issueKey": "잘나가는 유튜브",
-      "issueTitle": "잘나가는 유튜브",
-      "trendTitle": "잘나가는 유튜브",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“쇼츠 1000만뷰 터져도 수익 0원”…유튜버 돈 벌기 어려워진다",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260811145516810",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“남편 9억 빚 다 갚아줬다” 엄청난 수입 자랑했는데…유튜버 ‘돈 벌기’ 더 어려워진다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811204217562",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“하루 쇼츠 22만뷰 찍어야 돈 번다”…잘나가는 유튜브, 왜 문턱 높였나",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260812/134465031/2",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“하루 쇼츠 22만뷰 찍어야 돈 번다”…잘나가는 유튜브, 왜 문턱 높였나",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20260812/134465031/2",
-        "publishedAt": "2026-08-12T20:40:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-12T20:40:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "잘나가는 유튜브",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Economy/article/all/20260812/134465031/2",
-      "rank": 2
-    },
-    {
-      "id": "da6df66329e00cbf",
-      "issueKey": "충청권",
-      "issueTitle": "충청권",
-      "trendTitle": "충청권",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[율곡로] 에이전트 A를 아시나요",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812082300546",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전국 곳곳에 빗방울…충청권·남부 내륙엔 소나기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813053435404",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "강원 동해안·산지 최고 50㎜ 비…해안가 너울 안전 주의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260813007500062",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전국 곳곳에 빗방울…충청권·남부 내륙엔 소나기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813053435404",
-        "publishedAt": "2026-08-12T20:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-12T20:40:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "충청권",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260813053435404",
-      "rank": 3
-    },
-    {
-      "id": "271bd01c9c7489e0",
-      "issueKey": "이나은",
-      "issueTitle": "이나은",
-      "trendTitle": "이나은",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "하영 \"증조부 친일, 후손으로서 사죄\"…논란은 계속",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260812185820LaT",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "빛나는 ‘독립운동가 후손’ 스타들…김지석·청하·이첸",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813045644352",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘제국의 위안부’ 박유하 “하영 비난은 순결강박…구조적 친일일 뿐”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608911",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이나은",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260812185820LaT",
-        "publishedAt": "2026-08-12T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-12T20:40:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "이나은",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260812185820LaT",
-      "rank": 4
-    },
-    {
-      "id": "af4870c15b98485b",
-      "issueKey": "아버지",
-      "issueTitle": "아버지",
-      "trendTitle": "아버지",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'강서구 아파트 화재' 동반 추락사망 모자 부검…14일 합동감식",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812149000004",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"엄마에게 참 잘했는데\"…가양동 화재로 장애 어머니·돌보던 아들 숨져",
-          "source": "주간조선",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=54229",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서울 스프링클러 설치율 '꼴찌' 강서구서 결국 참변…대책은?",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6562157",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아버지",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260812149000004",
-        "publishedAt": "2026-08-12T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-12T20:30:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "아버지",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260812149000004",
-      "rank": 5
-    },
-    {
-      "id": "2c1555dd8125e8a9",
-      "issueKey": "연금 개혁",
-      "issueTitle": "연금 개혁",
-      "trendTitle": "연금 개혁",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘소득 적으면 기초연금 더’…與 “생년월일 차로 갈리면 안돼”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813050129472",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "與특위 \"기초연금 개편시 기존 수급자 급여 보호장치 마련해야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812149100001",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "민주당 연금개혁특별위원회 전체회의 열려",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260812_0021396822",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "연금 개혁",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813050129472",
-        "publishedAt": "2026-08-12T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-12T20:30:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "연금 개혁",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260813050129472",
-      "rank": 6
-    },
-    {
-      "id": "32f603aa2fcac303",
-      "issueKey": "기자단은 미끼",
-      "issueTitle": "기자단은 미끼",
-      "trendTitle": "기자단은 미끼",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "트럼프 머리 위로 또 민항기 ‘침범’…“군용기 갈아탈 때 핵심 측근만 동승”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635759",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "트럼프가 골프 칠 때도 바로 옆엔 방공 미사일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813004537982",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "기자단은 미끼, 골프장엔 미사일…트럼프 대통령의 ‘암살 포비아’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608122043015",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "기자단은 미끼, 골프장엔 미사일…트럼프 대통령의 ‘암살 포비아’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608122043015",
-        "publishedAt": "2026-08-12T20:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-12T20:30:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "기자단은 미끼",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608122043015",
-      "rank": 7
-    },
-    {
-      "id": "85c07ca7c6a1ba97",
-      "issueKey": "공공기관",
-      "issueTitle": "공공기관",
-      "trendTitle": "공공기관",
+      "id": "309b5b0993d70386",
+      "issueKey": "백악관 대변인",
+      "issueTitle": "백악관 대변인",
+      "trendTitle": "백악관 대변인",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "李 “공공기관 몰아서 보낼 것”…350곳 대상 2차 지방이전 쟁탈전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812213649745",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
+          "title": "‘27세 최연소 백악관 대변인’ 오른 레빗, 백악관 떠난다···“최고의 엄마 되기 위해”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608130735001",
+          "publishedAt": "2026-08-13T00:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "울산시, 2차 공공기관 유치 '승부수'…범시민 위원회 띄운다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812143100057",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
+          "title": "“최고의 엄마 되고 싶다”…28세 최연소 백악관 대변인의 결정",
+          "source": "주간조선",
+          "url": "https://weekly.chosun.com/news/articleView.html?idxno=54268",
+          "publishedAt": "2026-08-13T00:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이전할 공기관 추리는 국토부 “연내 로드맵 마련”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260813/134468974/2",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
+          "title": "트럼프의 ‘입’ 레빗 대변인, 백악관 떠난다…전격 사임 발표",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000002735",
+          "publishedAt": "2026-08-13T00:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "李 “공공기관 몰아서 보낼 것”…350곳 대상 2차 지방이전 쟁탈전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812213649745",
-        "publishedAt": "2026-08-12T20:30:00.000Z",
+        "title": "‘27세 최연소 백악관 대변인’ 오른 레빗, 백악관 떠난다···“최고의 엄마 되기 위해”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608130735001",
+        "publishedAt": "2026-08-13T00:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-12T20:30:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "공공기관",
+      "publishedAt": "2026-08-13T00:50:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "백악관 대변인",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202608130735001",
+      "rank": 1
+    },
+    {
+      "id": "bbe596b08571fd92",
+      "issueKey": "로메로",
+      "issueTitle": "로메로",
+      "trendTitle": "로메로",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'HERE WE GO' 손흥민과 토트넘서 맹활약한 로메로, 이강인과 한솥밥... 아틀레티코행 확정 '이적료 654억'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/13/2026081307250026887",
+          "publishedAt": "2026-08-13T00:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "토트넘 '손흥민 후임 주장' 로메로, 이강인과 한솥밥…아틀레티코행 임박",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/overseas-soccer/6257541",
+          "publishedAt": "2026-08-13T00:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'공격 차단 후 이강인에게 연결' 로메로, 토트넘 떠나 ATM 이적...로마노, \"HERE WE GO\"",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112856241",
+          "publishedAt": "2026-08-13T00:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'HERE WE GO' 손흥민과 토트넘서 맹활약한 로메로, 이강인과 한솥밥... 아틀레티코행 확정 '이적료 654억'",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/13/2026081307250026887",
+        "publishedAt": "2026-08-13T00:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T00:50:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "로메로",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/sports/2026/08/13/2026081307250026887",
+      "rank": 2
+    },
+    {
+      "id": "b8b0474a39f6196b",
+      "issueKey": "과천시",
+      "issueTitle": "과천시",
+      "trendTitle": "과천시",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "과천시, 신천지 용도변경 2심 승소…\"종교시설 불허 처분 정당\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812220304193",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "신계용 과천시장 \"신천지, 용도변경 소송 상고 시 적극 대응\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003747403",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "과천시, 신천지 용도변경 항소심 승소…\"공익상 거부권 인정\"",
+          "source": "데일리굿뉴스",
+          "url": "https://www.goodnews1.com/news/articleView.html?idxno=463034",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "과천시, 신천지 용도변경 2심 승소…\"종교시설 불허 처분 정당\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812220304193",
+        "publishedAt": "2026-08-13T00:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T00:40:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "과천시",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260812213649745",
+      "url": "https://v.daum.net/v/20260812220304193",
+      "rank": 3
+    },
+    {
+      "id": "cece7dbe60b610f5",
+      "issueKey": "소재지",
+      "issueTitle": "소재지",
+      "trendTitle": "정은경",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "2029년 개교 국립의전원…소재지·교육과정 우선 논의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8636044",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "국립의전원 설립 세부 논의 본격화…소재지",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/thebio/2026/08/13/2026081309290876714",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "남원 시민연대 \"대통령, 국립의전원 남원 설립 결단해야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812165313416",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "2029년 개교 국립의전원…소재지·교육과정 우선 논의",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8636044",
+        "publishedAt": "2026-08-13T00:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T00:40:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "소재지",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8636044",
+      "rank": 4
+    },
+    {
+      "id": "35d310a0e99f7472",
+      "issueKey": "후진타오",
+      "issueTitle": "후진타오",
+      "trendTitle": "시진핑",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "中, 장쩌민 탄생 100주년 기념대회…‘후진타오·왕치산 참석 주목’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812185447993",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "장쩌민 ‘상하이방’ 쓸어낸 시진핑, 탄생 100주년은 대대적 기념 [정다은의 차이나코어]",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20078621",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "중국 장쩌민 탄생 100주년 대대적 기념 예고",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608121315011",
+          "publishedAt": "2026-08-13T00:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "中, 장쩌민 탄생 100주년 기념대회…‘후진타오·왕치산 참석 주목’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260812185447993",
+        "publishedAt": "2026-08-13T00:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T00:40:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "후진타오",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260812185447993",
+      "rank": 5
+    },
+    {
+      "id": "406cc056290e155a",
+      "issueKey": "바람이",
+      "issueTitle": "바람이",
+      "trendTitle": "바람이",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "좁은 우리서 3년 전 구조…‘갈비 사자’ 바람이, 하늘로 [잇슈 키워드]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635785",
+          "publishedAt": "2026-08-13T00:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "22살 ‘갈비사자’ 바람이, 청주동물원서 삶 마감",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260812205209676",
+          "publishedAt": "2026-08-13T00:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘갈비사자’ 바람이, 구조 3년만에 ‘사자별’로 떠났다",
+          "source": "주간경향",
+          "url": "https://weekly.khan.co.kr/article/202608121610001",
+          "publishedAt": "2026-08-13T00:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "좁은 우리서 3년 전 구조…‘갈비 사자’ 바람이, 하늘로 [잇슈 키워드]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635785",
+        "publishedAt": "2026-08-13T00:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T00:30:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "바람이",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8635785",
+      "rank": 6
+    },
+    {
+      "id": "df11a2ad0ee6ba57",
+      "issueKey": "때리",
+      "issueTitle": "때리",
+      "trendTitle": "때리",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "골 때리는 그녀들 : 박주아, 프리킥 찬스 놓치지 않으며 상대 수비진 무너뜨린 통쾌한 중거리 골",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC481061876",
+          "publishedAt": "2026-08-13T00:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "소유미 집, ‘골때녀’ 아지트 됐다…원더우먼, 비장한 합숙 돌입",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514579",
+          "publishedAt": "2026-08-13T00:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'골때리는그녀들' 마시마 골에 원더우먼 결승전 진출(골때녀)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813000246365",
+          "publishedAt": "2026-08-13T00:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "골 때리는 그녀들 : 박주아, 프리킥 찬스 놓치지 않으며 상대 수비진 무너뜨린 통쾌한 중거리 골",
+        "source": "programs.sbs.co.kr",
+        "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC481061876",
+        "publishedAt": "2026-08-13T00:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T00:20:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "때리",
+      "source": "programs.sbs.co.kr",
+      "url": "https://programs.sbs.co.kr/enter/kickagoal/clip/67995/OC481061876",
+      "rank": 7
+    },
+    {
+      "id": "0375bf9e205ae8df",
+      "issueKey": "커피믹스",
+      "issueTitle": "커피믹스",
+      "trendTitle": "커피믹스",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "뜨거운 원두 시장…‘생두 관문’ 부산이 커피산업 키울 기회(종합)",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260812.22010003080",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“한국인들 ‘커피’ 없이 못 산다더니” 이 말 진짜였다…커피시장 3.7조원 시대",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20078807",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "국내 커피 시장, 볶은커피 늘고 커피믹스 감소",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260811101200013",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "국내 커피 시장, 볶은커피 늘고 커피믹스 감소",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/PYH20260811101200013",
+        "publishedAt": "2026-08-13T00:00:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "커피믹스",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/PYH20260811101200013",
       "rank": 8
     },
     {
-      "id": "e16d4743e03e607d",
-      "issueKey": "아이폰",
-      "issueTitle": "아이폰",
-      "trendTitle": "아이폰",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "c7f70d35d567772a",
+      "issueKey": "서울시 건축심",
+      "issueTitle": "서울시 건축심",
+      "trendTitle": "서울시 건축심",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "메모리 가격 또 뛴다…숨막히는 스마트폰 '원가' 경쟁",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/12/2026081214474117414",
-          "publishedAt": "2026-08-12T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“용량은 그대로, 가격은 껑충”…아이폰18 가격 인상 전망, 왜?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260812_0003745871",
-          "publishedAt": "2026-08-12T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "iOS 27 베타서 아이폰18 전 모델 코드 발견…\"출시 임박\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260812134428",
-          "publishedAt": "2026-08-12T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“용량은 그대로, 가격은 껑충”…아이폰18 가격 인상 전망, 왜?",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260812_0003745871",
-        "publishedAt": "2026-08-12T20:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-12T20:20:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "아이폰",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260812_0003745871",
-      "rank": 9
-    },
-    {
-      "id": "35a1c24b4d94a8f8",
-      "issueKey": "박수홍",
-      "issueTitle": "박수홍",
-      "trendTitle": "박수홍",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "가족 복 없던 박수홍, 자식 농사는 대박났다...키즈 모델인 줄",
+          "title": "길음역세권에 최고 29층·574세대 공급…장기전세주택 포함",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260811191138422",
-          "publishedAt": "2026-08-12T20:10:00.000Z",
+          "url": "https://v.daum.net/v/GuIIgMSrGs",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "21개월에 광고 17개 쏟아진 이유…박수홍♥김다예 딸, 상어도 놀란 귀요미 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/11/MM2DOZDFMZSDAZLFHFTDCNZWGE/",
-          "publishedAt": "2026-08-12T20:10:00.000Z",
+          "title": "길음역 역세권에 574가구 공동주택 들어선다…2031년 준공 목표",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/08/12/2026081209044944108",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'박수홍♥' 김다예, 딸 때문에 행복할 듯…벌써부터 끼 가득, 안 시켜도 포즈 '척척' [★해시태그]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260811n04321",
-          "publishedAt": "2026-08-12T20:10:00.000Z",
+          "title": "길음역 역세권주택 서울시 건축심의 통과…총 574가구",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260812_0003745814",
+          "publishedAt": "2026-08-13T00:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "가족 복 없던 박수홍, 자식 농사는 대박났다...키즈 모델인 줄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811191138422",
-        "publishedAt": "2026-08-12T20:10:00.000Z",
-        "relevanceScore": 3
+        "title": "길음역 역세권주택 서울시 건축심의 통과…총 574가구",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260812_0003745814",
+        "publishedAt": "2026-08-13T00:00:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-08-12T20:10:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "박수홍",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260811191138422",
-      "rank": 10
+      "publishedAt": "2026-08-13T00:00:00.000Z",
+      "firstSeenAt": "2026-08-13T01:58:26.925Z",
+      "lastSeenAt": "2026-08-13T01:58:26.925Z",
+      "title": "서울시 건축심",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260812_0003745814",
+      "rank": 9
     }
   ],
   "history": [
