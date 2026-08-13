@@ -7,436 +7,529 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-13T04:49:50.800Z",
+  "lastUpdatedAt": "2026-08-13T07:26:24.844Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "2c4930ad509e4bdc",
-      "issueKey": "고양이",
-      "issueTitle": "고양이",
-      "trendTitle": "고양이",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "멸종위기 새 사냥하는 길냥이…‘캣맘 그만’ vs ‘살처분 과해’ 또 논쟁",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1272667.html",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고양이가 물어온 희귀 새... 학계는 충격에 휩싸였다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811072757543",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[#053/054] 돌을 던지는 사람, 밥을 주는 사람",
-          "source": "뉴스민",
-          "url": "https://www.newsmin.co.kr/news/135753/",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "고양이가 물어온 희귀 새... 학계는 충격에 휩싸였다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811072757543",
-        "publishedAt": "2026-08-13T03:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-13T03:30:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "고양이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260811072757543",
-      "rank": 1
-    },
-    {
-      "id": "90cac8a677906906",
-      "issueKey": "개량",
-      "issueTitle": "개량",
-      "trendTitle": "개량",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "北, 일주일새 미사일 2발 쏘고 침묵…발사 실패? 도발수위 조절?(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813112252107",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "北, 또 미사일 발사 숨기기…'도발 선전'보다 '개량·개발'에 집중",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/nk/military/6257985",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "VOA “북한 탄도미사일 쏘던 때 미군 무인정찰기 한반도 인근 비행”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635975",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "北, 또 미사일 발사 숨기기…'도발 선전'보다 '개량·개발'에 집중",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/nk/military/6257985",
-        "publishedAt": "2026-08-13T03:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-13T03:30:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "개량",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/nk/military/6257985",
-      "rank": 2
-    },
-    {
-      "id": "5c397a2ca3ced0cd",
-      "issueKey": "현대일렉",
-      "issueTitle": "현대일렉",
-      "trendTitle": "현대일렉",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "북미 AI 시장 노리는 HD현대일렉, 초고압 직류 개폐기 출격 임박",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/9gANugaeCj",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[마감분석] HD현대일렉트릭, 지배구조 기대감에 78만원 돌파 : 기업주식정보",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/955899",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "HD현대일렉트릭 주가, 8월 13일 장중 799,000원 2.17% 상승",
-          "source": "중앙이코노미뉴스",
-          "url": "https://www.joongangenews.com/news/articleView.html?idxno=539844",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "북미 AI 시장 노리는 HD현대일렉, 초고압 직류 개폐기 출격 임박",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/9gANugaeCj",
-        "publishedAt": "2026-08-13T03:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-13T03:30:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "현대일렉",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/9gANugaeCj",
-      "rank": 3
-    },
-    {
-      "id": "ae63f424005e52be",
-      "issueKey": "주차장",
-      "issueTitle": "주차장",
-      "trendTitle": "주차장",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "용인 반도체 클러스터 규제 푼다…2.5조 투자 뒷받침",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813132925644",
-          "publishedAt": "2026-08-13T03:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "AI데이터센터 주차장·승강기 부담 낮춘다…산단 입주규제도 완화",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260813_0003747021",
-          "publishedAt": "2026-08-13T03:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정부, 용인 반도체 증설 '별도 허가' 허용‥4.2조 투자 조기 이행 지원",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6844432_36932.html",
-          "publishedAt": "2026-08-13T03:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "AI데이터센터 주차장·승강기 부담 낮춘다…산단 입주규제도 완화",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260813_0003747021",
-        "publishedAt": "2026-08-13T03:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-13T03:20:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "주차장",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260813_0003747021",
-      "rank": 4
-    },
-    {
-      "id": "1cc1768620bf2d78",
-      "issueKey": "엘레나 리바키나",
-      "issueTitle": "엘레나 리바키나",
-      "trendTitle": "엘레나 리바키나",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "오사카에게 서브하는 리바키나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260812_0002210502",
-          "publishedAt": "2026-08-13T03:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[내셔널뱅크 오픈] 나오미 지켜보는 토마시 빅토로프스키 코치",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662675",
-          "publishedAt": "2026-08-13T03:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서브 에이스 15개 폭발…엘레나 리바키나, 오사카 나오미에 짜릿한 역전승",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812130650983",
-          "publishedAt": "2026-08-13T03:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서브 에이스 15개 폭발…엘레나 리바키나, 오사카 나오미에 짜릿한 역전승",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812130650983",
-        "publishedAt": "2026-08-13T03:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-13T03:10:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "엘레나 리바키나",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260812130650983",
-      "rank": 5
-    },
-    {
-      "id": "6942d6ab10e3babd",
-      "issueKey": "포틀랜드 클래식",
-      "issueTitle": "포틀랜드 클래식",
-      "trendTitle": "포틀랜드 클래식",
+      "id": "8e49d6967e2b915a",
+      "issueKey": "여론",
+      "issueTitle": "여론",
+      "trendTitle": "여론",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“코르다 없는 포틀랜드는 내 무대”... 유해란, 메이저 3연승 불발 딛고 3승 사냥",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811154612470?f=p",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
+          "title": "정청래, 송영길에 “덩치 크신 분이…” 김민석에 “뭔 말 하는지…”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608130803001",
+          "publishedAt": "2026-08-13T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "유해란, LPGA 투어 포틀랜드 클래식서 시즌 3승 도전",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20260812500051",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
+          "title": "金 '굳히기'·鄭 '역전'·수석최고위원·계파 과반...호남과 수도권에 달렸다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813152511678",
+          "publishedAt": "2026-08-13T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "힘겨운 데뷔 시즌 보내는 황유민과 이동은, 반등 신호탄 쏠까",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20260812/134460063/1",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
+          "title": "[뉴스프라임] 거칠어지는 與 당권경쟁…장동혁, 조직 물갈이 예고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260812020300038",
+          "publishedAt": "2026-08-13T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "유해란, LPGA 투어 포틀랜드 클래식서 시즌 3승 도전",
-        "source": "브릿지경제",
-        "url": "https://www.viva100.com/article/20260812500051",
-        "publishedAt": "2026-08-13T03:00:00.000Z",
-        "relevanceScore": 2
+        "title": "여론",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608130803001",
+        "publishedAt": "2026-08-13T06:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-08-13T03:00:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "포틀랜드 클래식",
-      "source": "브릿지경제",
-      "url": "https://www.viva100.com/article/20260812500051",
+      "publishedAt": "2026-08-13T06:20:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "여론",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202608130803001",
+      "rank": 1
+    },
+    {
+      "id": "2d051678287ddd65",
+      "issueKey": "건일",
+      "issueTitle": "건일",
+      "trendTitle": "건일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "엑스디너리 히어로즈 건일, 前여친 논란 속 팀 탈퇴…\"엄중함 깊이 인지\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6258242",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'언행 논란' 건일, 엑디즈 탈퇴…\"JYP 전속계약도 해지\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813124500005",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "건일, 엑스디너리 히어로즈 탈퇴…JYP \"상호 합의로 계약 해지\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813154137512",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "엑스디너리 히어로즈 건일, 前여친 논란 속 팀 탈퇴…\"엄중함 깊이 인지\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6258242",
+        "publishedAt": "2026-08-13T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T06:10:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "건일",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6258242",
+      "rank": 2
+    },
+    {
+      "id": "73a2dcd31fcd7d6b",
+      "issueKey": "리브 골프",
+      "issueTitle": "리브 골프",
+      "trendTitle": "리브 골프",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "LIV 골프 선수들, 총상금 568억원의 최종전 취소 통보받아",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03775286645546992&amp;mediaCodeNo=257",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "LIV 선수회의도 결론 못 냈다…스미스 “해체 땐 PGA 복귀”",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2611276",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "트럼프, 뉴저지 LIV 골프 대회 등장…관중들 큰 환호",
+          "source": "파이낸스투데이",
+          "url": "https://fntoday.co.kr/news/articleView.html?idxno=390053",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "리브 골프",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=03775286645546992&amp;mediaCodeNo=257",
+        "publishedAt": "2026-08-13T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T06:10:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "리브 골프",
+      "source": "이데일리",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03775286645546992&amp;mediaCodeNo=257",
+      "rank": 3
+    },
+    {
+      "id": "3717d34d5e380bf8",
+      "issueKey": "정원오",
+      "issueTitle": "정원오",
+      "trendTitle": "정원오",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "李대통령 '정원오 칭찬 SNS 글', 선거법 위반 혐의 불송치",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813061500004",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'정원오 공개 칭찬' 이재명 대통령 선거법 위반 사건 불송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844452_36918.html",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이재명 대통령 '정원오 공개 칭찬' 고발건…경찰 '불송치' 결정",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813111328570",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "李대통령 '정원오 칭찬 SNS 글', 선거법 위반 혐의 불송치",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260813061500004",
+        "publishedAt": "2026-08-13T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T06:10:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "정원오",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260813061500004",
+      "rank": 4
+    },
+    {
+      "id": "19c6530197f4305b",
+      "issueKey": "송은이",
+      "issueTitle": "송은이",
+      "trendTitle": "송은이",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'비보' 송은이♥김의성 '우결' 프로젝트 추진..김숙 \"잘 어울려\" 환호[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "송은이♥김의성, '우결' 성사되나…\"연상에 지적인 사람, 이상형 충족\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-12/202608120100073220004536",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'토니상' 박천휴 작가, 류승룡·오정세와 한솥밥",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811163426759",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'비보' 송은이♥김의성 '우결' 프로젝트 추진..김숙 \"잘 어울려\" 환호[순간포착]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/",
+        "publishedAt": "2026-08-13T06:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T06:00:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "송은이",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/",
+      "rank": 5
+    },
+    {
+      "id": "2f373f229dd1b13e",
+      "issueKey": "안규백",
+      "issueTitle": "안규백",
+      "trendTitle": "안규백",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "육사 동창회장 \"육사 원죄 사과할테니 사관학교 통합 물러달라\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6562134",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'3군 사관학교 유지 검토'는 \"사실 아냐\"‥국방부 \"원론적 답변\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813140413082",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "육·해·공사 통합 원점 재검토?…안규백 \"현 체제 유지도 하나의 안\"",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=54250",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "육·해·공사 통합 원점 재검토?…안규백 \"현 체제 유지도 하나의 안\"",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=54250",
+        "publishedAt": "2026-08-13T06:00:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-08-13T06:00:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "안규백",
+      "source": "주간조선",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=54250",
       "rank": 6
     },
     {
-      "id": "54aa690b29835839",
-      "issueKey": "자사주 매입",
-      "issueTitle": "자사주 매입",
-      "trendTitle": "자사주 매입",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "33aa14bbb2810335",
+      "issueKey": "미국 대통령",
+      "issueTitle": "미국 대통령",
+      "trendTitle": "미국 대통령",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "김용범 부회장 “자사주 매입·소각으로 복리 효과…주주가치 극대화 집중”",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20078744",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
+          "title": "트럼프 \"호르무즈 완전히 장악\"…WSJ \"현실은 전혀 달라\"",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12313107",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "메리츠금융지주, 사상 최대 실적에 현금배당 매력…목표가↑",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/08/13/2026081308384217626",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
+          "title": "미군 \"이란 해상 봉쇄 작전으로 상선 59척 항로 변경\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6844511_36925.html",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "메리츠금융 상반기 순이익 1조4천716억원, 8.3%↑…역대 최대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260812120451527",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
+          "title": "트럼프 \"호르무즈 장악은 미국이\"…콜롬비아 밤샘 구조 이어져",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260813100659exc",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김용범 부회장 “자사주 매입·소각으로 복리 효과…주주가치 극대화 집중”",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20078744",
-        "publishedAt": "2026-08-13T03:00:00.000Z",
+        "title": "미국 대통령",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12313107",
+        "publishedAt": "2026-08-13T06:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-13T03:00:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "자사주 매입",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20078744",
+      "publishedAt": "2026-08-13T06:00:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "미국 대통령",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12313107",
       "rank": 7
     },
     {
-      "id": "3a339f08a9ab123b",
-      "issueKey": "lafc vs querétaro",
-      "issueTitle": "lafc vs querétaro",
-      "trendTitle": "lafc vs querétaro",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'Estoy demasiado cansado'. ¿Logrará Son Heung-min finalmente revivir, tras dos partidos sin anotar? El delantero se enfrenta al reto de reactivar su potencia goleadora en el partido inaugural contra el Querétaro.",
-          "source": "스타뉴스",
-          "url": "https://www.starnewskorea.com/es/sports/2026/08/13/2026081310010817812",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Pronóstico del partido Los Angeles FC vs Club Querétaro: Alineaciones previstas",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/es/nhan-dinh-los-angeles-fc-vs-club-queretaro-doi-hinh-du-kien",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Club Querétaro cierra su participación en la Leagues Cup ante LAFC",
-          "source": "Códice Informativo",
-          "url": "https://codiceinformativo.com/2026/08/club-queretaro-cierra-su-participacion-en-la-leagues-cup-ante-lafc/",
-          "publishedAt": "2026-08-13T03:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "lafc vs querétaro",
-        "source": "스타뉴스",
-        "url": "https://www.starnewskorea.com/es/sports/2026/08/13/2026081310010817812",
-        "publishedAt": "2026-08-13T03:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-13T03:00:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "lafc vs querétaro",
-      "source": "스타뉴스",
-      "url": "https://www.starnewskorea.com/es/sports/2026/08/13/2026081310010817812",
-      "rank": 8
-    },
-    {
-      "id": "2d42694f85c55c0b",
-      "issueKey": "공공조달 혜택",
-      "issueTitle": "공공조달 혜택",
-      "trendTitle": "공공조달 혜택",
+      "id": "526c5c08e617f01d",
+      "issueKey": "휴게소",
+      "issueTitle": "휴게소",
+      "trendTitle": "휴게소",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "(설명) 한국경제, \"고용부 '노동쟁의 기준' 시행령에 담는다\" 기사 관련",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/actuallyView.do?newsId=148970011&amp;pWise=sub&amp;pWiseMain=F1",
-          "publishedAt": "2026-08-13T02:50:00.000Z",
+          "title": "쓰레기통 음식 주워먹고 ‘차박’하던 50대…휴게소 직원 신고 후 벌어진 일",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813111253526",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[취재수첩] '바지사장' 못 걸러낸 여성기업 인증",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026081150731",
-          "publishedAt": "2026-08-13T02:50:00.000Z",
+          "title": "폭염 속 승용차 생활하던 50대…단양군 긴급 복지 지원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813065200064",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"여성 바지사장\" 내세워 공공조달 혜택?,, 위장 여성기업 논란 확산",
-          "source": "www.4ihjnews.com",
-          "url": "http://www.4ihjnews.com/default/index_view_page.php?idx=40711",
-          "publishedAt": "2026-08-13T02:50:00.000Z",
+          "title": "폭염 속 수개월째 차량에서 지낸 50대…단양군, 긴급 복지지원",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6258228",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"여성 바지사장\" 내세워 공공조달 혜택?,, 위장 여성기업 논란 확산",
-        "source": "www.4ihjnews.com",
-        "url": "http://www.4ihjnews.com/default/index_view_page.php?idx=40711",
-        "publishedAt": "2026-08-13T02:50:00.000Z",
-        "relevanceScore": 1
+        "title": "쓰레기통 음식 주워먹고 ‘차박’하던 50대…휴게소 직원 신고 후 벌어진 일",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813111253526",
+        "publishedAt": "2026-08-13T05:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-08-13T02:50:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "공공조달 혜택",
-      "source": "www.4ihjnews.com",
-      "url": "http://www.4ihjnews.com/default/index_view_page.php?idx=40711",
+      "publishedAt": "2026-08-13T05:50:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "휴게소",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260813111253526",
+      "rank": 8
+    },
+    {
+      "id": "fb84fa7f86eac62e",
+      "issueKey": "버스",
+      "issueTitle": "버스",
+      "trendTitle": "버스",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“내비 따라 달렸다가”…지하도로 입구에 끼어버린 시내버스",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260813/134470837/2",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'진입금지' 현수막 걸렸는데…시내버스, 지하도로 입구에 끼였다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608131331336402",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html",
+        "publishedAt": "2026-08-13T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T05:50:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "버스",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html",
       "rank": 9
+    },
+    {
+      "id": "f70538ccd81fc2aa",
+      "issueKey": "춘천시민",
+      "issueTitle": "춘천시민",
+      "trendTitle": "춘천시민",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813105154317",
+          "publishedAt": "2026-08-13T05:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘춘천 폄훼 논란’ 김병지 공식 사과…강원FC 홈경기 유치 주목",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260813/134471755/1",
+          "publishedAt": "2026-08-13T05:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "강원FC 김병지 대표, 춘천 폄훼 논란 사과…\"차별 의도 없었다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003747806",
+          "publishedAt": "2026-08-13T05:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813105154317",
+        "publishedAt": "2026-08-13T05:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T05:40:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "춘천시민",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260813105154317",
+      "rank": 10
     }
   ],
   "history": [
+    {
+      "id": "2f373f229dd1b13e",
+      "issueKey": "안규백",
+      "issueTitle": "안규백",
+      "trendTitle": "안규백",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "육사 동창회장 \"육사 원죄 사과할테니 사관학교 통합 물러달라\"",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6562134",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'3군 사관학교 유지 검토'는 \"사실 아냐\"‥국방부 \"원론적 답변\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813140413082",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "육·해·공사 통합 원점 재검토?…안규백 \"현 체제 유지도 하나의 안\"",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=54250",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "육·해·공사 통합 원점 재검토?…안규백 \"현 체제 유지도 하나의 안\"",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=54250",
+        "publishedAt": "2026-08-13T06:00:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-08-13T06:00:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "안규백",
+      "source": "주간조선",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=54250"
+    },
     {
       "id": "400d0beb03153317",
       "issueKey": "무허",
@@ -528,6 +621,52 @@
       "title": "부모",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260812072109175"
+    },
+    {
+      "id": "526c5c08e617f01d",
+      "issueKey": "휴게소",
+      "issueTitle": "휴게소",
+      "trendTitle": "휴게소",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "쓰레기통 음식 주워먹고 ‘차박’하던 50대…휴게소 직원 신고 후 벌어진 일",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813111253526",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "폭염 속 승용차 생활하던 50대…단양군 긴급 복지 지원",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813065200064",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "폭염 속 수개월째 차량에서 지낸 50대…단양군, 긴급 복지지원",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/sejong-chungbuk/6258228",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "쓰레기통 음식 주워먹고 ‘차박’하던 50대…휴게소 직원 신고 후 벌어진 일",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813111253526",
+        "publishedAt": "2026-08-13T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T05:50:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "휴게소",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260813111253526"
     },
     {
       "id": "2d42694f85c55c0b",
@@ -1002,6 +1141,52 @@
       "title": "대통령",
       "source": "MBC 뉴스",
       "url": "https://imnews.imbc.com/news/2026/politics/article/6843884_36911.html"
+    },
+    {
+      "id": "19c6530197f4305b",
+      "issueKey": "송은이",
+      "issueTitle": "송은이",
+      "trendTitle": "송은이",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'비보' 송은이♥김의성 '우결' 프로젝트 추진..김숙 \"잘 어울려\" 환호[순간포착]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "송은이♥김의성, '우결' 성사되나…\"연상에 지적인 사람, 이상형 충족\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-08-12/202608120100073220004536",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'토니상' 박천휴 작가, 류승룡·오정세와 한솥밥",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260811163426759",
+          "publishedAt": "2026-08-13T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'비보' 송은이♥김의성 '우결' 프로젝트 추진..김숙 \"잘 어울려\" 환호[순간포착]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/",
+        "publishedAt": "2026-08-13T06:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T06:00:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "송은이",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/G5SDIOBYMM4TMNBTGU2WGYJVMU/"
     },
     {
       "id": "e16d4743e03e607d",
@@ -1878,96 +2063,234 @@
       "url": "https://www.munhwa.com/article/11608789"
     },
     {
-      "id": "3c6dc784e6cf4a7e",
-      "issueKey": "판매량",
-      "issueTitle": "판매량",
-      "trendTitle": "판매량",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "8e49d6967e2b915a",
+      "issueKey": "여론",
+      "issueTitle": "여론",
+      "trendTitle": "여론",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“천궁Ⅱ 얼마나 잘 팔리길래”…미사일 공장까지 더 짓는다 [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260810601026",
-          "publishedAt": "2026-08-11T06:00:00.000Z",
+          "title": "정청래, 송영길에 “덩치 크신 분이…” 김민석에 “뭔 말 하는지…”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608130803001",
+          "publishedAt": "2026-08-13T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"LIG디펜스앤에어로스페이스, 130만원 간다\" 증권가 전망에 급등",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/08/10/2026081009263414111",
-          "publishedAt": "2026-08-11T06:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "SK증권 \"LIGD&A 목표주가 상향, 2028~2029년 판매량·가격 급성장\"",
-          "source": "비즈니스포스트",
-          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=444302",
-          "publishedAt": "2026-08-11T06:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "SK증권 \"LIGD&A 목표주가 상향, 2028~2029년 판매량·가격 급성장\"",
-        "source": "비즈니스포스트",
-        "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=444302",
-        "publishedAt": "2026-08-11T06:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-11T06:00:00.000Z",
-      "firstSeenAt": "2026-08-11T07:06:54.277Z",
-      "lastSeenAt": "2026-08-11T07:06:54.277Z",
-      "title": "판매량",
-      "source": "비즈니스포스트",
-      "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=444302"
-    },
-    {
-      "id": "69a8e6aa891909a4",
-      "issueKey": "프로포폴",
-      "issueTitle": "프로포폴",
-      "trendTitle": "프로포폴",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘방송 출연’ 유명 의사, 병원서 의식 잃은 채 발견…‘프로포폴 셀프 투약’ 혐의 체포",
+          "title": "金 '굳히기'·鄭 '역전'·수석최고위원·계파 과반...호남과 수도권에 달렸다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260810163814860",
-          "publishedAt": "2026-08-11T05:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "강남 산부인과 의사, 프로포폴 자가투약 혐의로 입건",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260810108300004",
-          "publishedAt": "2026-08-11T05:50:00.000Z",
+          "url": "https://v.daum.net/v/20260813152511678",
+          "publishedAt": "2026-08-13T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "방송 출연 유명 의사, 자기 병원서 마약류 '셀프투약'…현행범 체포",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260810580222",
-          "publishedAt": "2026-08-11T05:50:00.000Z",
+          "title": "[뉴스프라임] 거칠어지는 與 당권경쟁…장동혁, 조직 물갈이 예고",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260812020300038",
+          "publishedAt": "2026-08-13T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘방송 출연’ 유명 의사, 병원서 의식 잃은 채 발견…‘프로포폴 셀프 투약’ 혐의 체포",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260810163814860",
-        "publishedAt": "2026-08-11T05:50:00.000Z",
+        "title": "여론",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202608130803001",
+        "publishedAt": "2026-08-13T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-11T05:50:00.000Z",
-      "firstSeenAt": "2026-08-11T07:06:54.277Z",
-      "lastSeenAt": "2026-08-11T07:06:54.277Z",
-      "title": "프로포폴",
+      "publishedAt": "2026-08-13T06:20:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "여론",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202608130803001"
+    },
+    {
+      "id": "2d051678287ddd65",
+      "issueKey": "건일",
+      "issueTitle": "건일",
+      "trendTitle": "건일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "엑스디너리 히어로즈 건일, 前여친 논란 속 팀 탈퇴…\"엄중함 깊이 인지\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6258242",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'언행 논란' 건일, 엑디즈 탈퇴…\"JYP 전속계약도 해지\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813124500005",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "건일, 엑스디너리 히어로즈 탈퇴…JYP \"상호 합의로 계약 해지\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813154137512",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "엑스디너리 히어로즈 건일, 前여친 논란 속 팀 탈퇴…\"엄중함 깊이 인지\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/entertain/celebrity-topic/6258242",
+        "publishedAt": "2026-08-13T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T06:10:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "건일",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/entertain/celebrity-topic/6258242"
+    },
+    {
+      "id": "73a2dcd31fcd7d6b",
+      "issueKey": "리브 골프",
+      "issueTitle": "리브 골프",
+      "trendTitle": "리브 골프",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "LIV 골프 선수들, 총상금 568억원의 최종전 취소 통보받아",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03775286645546992&amp;mediaCodeNo=257",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "LIV 선수회의도 결론 못 냈다…스미스 “해체 땐 PGA 복귀”",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2611276",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "트럼프, 뉴저지 LIV 골프 대회 등장…관중들 큰 환호",
+          "source": "파이낸스투데이",
+          "url": "https://fntoday.co.kr/news/articleView.html?idxno=390053",
+          "publishedAt": "2026-08-13T06:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "리브 골프",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=03775286645546992&amp;mediaCodeNo=257",
+        "publishedAt": "2026-08-13T06:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T06:10:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "리브 골프",
+      "source": "이데일리",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=03775286645546992&amp;mediaCodeNo=257"
+    },
+    {
+      "id": "fb84fa7f86eac62e",
+      "issueKey": "버스",
+      "issueTitle": "버스",
+      "trendTitle": "버스",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“내비 따라 달렸다가”…지하도로 입구에 끼어버린 시내버스",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260813/134470837/2",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'진입금지' 현수막 걸렸는데…시내버스, 지하도로 입구에 끼였다",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608131331336402",
+          "publishedAt": "2026-08-13T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[와글와글] \"버스가 왜 여기에?\" 지하도로 끼임 사고",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html",
+        "publishedAt": "2026-08-13T05:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T05:50:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "버스",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6844388_37012.html"
+    },
+    {
+      "id": "f70538ccd81fc2aa",
+      "issueKey": "춘천시민",
+      "issueTitle": "춘천시민",
+      "trendTitle": "춘천시민",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813105154317",
+          "publishedAt": "2026-08-13T05:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘춘천 폄훼 논란’ 김병지 공식 사과…강원FC 홈경기 유치 주목",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260813/134471755/1",
+          "publishedAt": "2026-08-13T05:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "강원FC 김병지 대표, 춘천 폄훼 논란 사과…\"차별 의도 없었다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003747806",
+          "publishedAt": "2026-08-13T05:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김병지 강원FC 대표, 춘천시민·육동한 시장에 공식 사과",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813105154317",
+        "publishedAt": "2026-08-13T05:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-13T05:40:00.000Z",
+      "firstSeenAt": "2026-08-13T07:26:24.844Z",
+      "lastSeenAt": "2026-08-13T07:26:24.844Z",
+      "title": "춘천시민",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260810163814860"
+      "url": "https://v.daum.net/v/20260813105154317"
     },
     {
       "id": "6942d6ab10e3babd",
@@ -2014,282 +2337,6 @@
       "title": "포틀랜드 클래식",
       "source": "브릿지경제",
       "url": "https://www.viva100.com/article/20260812500051"
-    },
-    {
-      "id": "2763d01cd1e85100",
-      "issueKey": "삼성전기",
-      "issueTitle": "삼성전기",
-      "trendTitle": "삼성전기",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"내가 틀렸다\" 꼬리 내린 월가…삼전닉스 폭등 이유 있었다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608127020i",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "모건스탠리, 최선호주 바꿨다…'삼성전자→삼성전기'로 변경",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812165454466",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[리포트 브리핑]삼성전기, 'LTA 본격화, 서버가 이끄는 P와 Q' 목표가 2,300,000원 - 유안타증권",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260811000299",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "모건스탠리, 최선호주 바꿨다…'삼성전자→삼성전기'로 변경",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812165454466",
-        "publishedAt": "2026-08-12T20:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-12T20:40:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "삼성전기",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260812165454466"
-    },
-    {
-      "id": "271bd01c9c7489e0",
-      "issueKey": "이나은",
-      "issueTitle": "이나은",
-      "trendTitle": "이나은",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "하영 \"증조부 친일, 후손으로서 사죄\"…논란은 계속",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260812185820LaT",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "빛나는 ‘독립운동가 후손’ 스타들…김지석·청하·이첸",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813045644352",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘제국의 위안부’ 박유하 “하영 비난은 순결강박…구조적 친일일 뿐”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11608911",
-          "publishedAt": "2026-08-12T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이나은",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260812185820LaT",
-        "publishedAt": "2026-08-12T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-12T20:40:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "이나은",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260812185820LaT"
-    },
-    {
-      "id": "32f603aa2fcac303",
-      "issueKey": "기자단은 미끼",
-      "issueTitle": "기자단은 미끼",
-      "trendTitle": "기자단은 미끼",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "트럼프 머리 위로 또 민항기 ‘침범’…“군용기 갈아탈 때 핵심 측근만 동승”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8635759",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "트럼프가 골프 칠 때도 바로 옆엔 방공 미사일",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813004537982",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "기자단은 미끼, 골프장엔 미사일…트럼프 대통령의 ‘암살 포비아’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608122043015",
-          "publishedAt": "2026-08-12T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "기자단은 미끼, 골프장엔 미사일…트럼프 대통령의 ‘암살 포비아’",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608122043015",
-        "publishedAt": "2026-08-12T20:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-12T20:30:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "기자단은 미끼",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608122043015"
-    },
-    {
-      "id": "35a1c24b4d94a8f8",
-      "issueKey": "박수홍",
-      "issueTitle": "박수홍",
-      "trendTitle": "박수홍",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "가족 복 없던 박수홍, 자식 농사는 대박났다...키즈 모델인 줄",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811191138422",
-          "publishedAt": "2026-08-12T20:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "21개월에 광고 17개 쏟아진 이유…박수홍♥김다예 딸, 상어도 놀란 귀요미 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/11/MM2DOZDFMZSDAZLFHFTDCNZWGE/",
-          "publishedAt": "2026-08-12T20:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'박수홍♥' 김다예, 딸 때문에 행복할 듯…벌써부터 끼 가득, 안 시켜도 포즈 '척척' [★해시태그]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260811n04321",
-          "publishedAt": "2026-08-12T20:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "가족 복 없던 박수홍, 자식 농사는 대박났다...키즈 모델인 줄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811191138422",
-        "publishedAt": "2026-08-12T20:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-12T20:10:00.000Z",
-      "firstSeenAt": "2026-08-12T21:44:19.085Z",
-      "lastSeenAt": "2026-08-12T21:44:19.085Z",
-      "title": "박수홍",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260811191138422"
-    },
-    {
-      "id": "2c4930ad509e4bdc",
-      "issueKey": "고양이",
-      "issueTitle": "고양이",
-      "trendTitle": "고양이",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "멸종위기 새 사냥하는 길냥이…‘캣맘 그만’ vs ‘살처분 과해’ 또 논쟁",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1272667.html",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "고양이가 물어온 희귀 새... 학계는 충격에 휩싸였다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260811072757543",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[#053/054] 돌을 던지는 사람, 밥을 주는 사람",
-          "source": "뉴스민",
-          "url": "https://www.newsmin.co.kr/news/135753/",
-          "publishedAt": "2026-08-13T03:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "고양이가 물어온 희귀 새... 학계는 충격에 휩싸였다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260811072757543",
-        "publishedAt": "2026-08-13T03:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-13T03:30:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "고양이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260811072757543"
-    },
-    {
-      "id": "1cc1768620bf2d78",
-      "issueKey": "엘레나 리바키나",
-      "issueTitle": "엘레나 리바키나",
-      "trendTitle": "엘레나 리바키나",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "오사카에게 서브하는 리바키나",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260812_0002210502",
-          "publishedAt": "2026-08-13T03:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[내셔널뱅크 오픈] 나오미 지켜보는 토마시 빅토로프스키 코치",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662675",
-          "publishedAt": "2026-08-13T03:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서브 에이스 15개 폭발…엘레나 리바키나, 오사카 나오미에 짜릿한 역전승",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260812130650983",
-          "publishedAt": "2026-08-13T03:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서브 에이스 15개 폭발…엘레나 리바키나, 오사카 나오미에 짜릿한 역전승",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260812130650983",
-        "publishedAt": "2026-08-13T03:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-13T03:10:00.000Z",
-      "firstSeenAt": "2026-08-13T04:49:50.800Z",
-      "lastSeenAt": "2026-08-13T04:49:50.800Z",
-      "title": "엘레나 리바키나",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260812130650983"
     }
   ]
 }
