@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-08-13T21:44:00.833Z",
-  "articleCount": 10,
+  "lastUpdatedAt": "2026-08-14T01:56:22.546Z",
+  "articleCount": 9,
   "articles": [
+    {
+      "id": "06e6bca82e1aeb1a",
+      "title": "“에이전트 배포보다 어려운 건 통제” AI 오케스트레이션 플랫폼 선택 전략 5가지",
+      "url": "https://www.itworld.co.kr/article/4209005/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%b0%b0%ed%8f%ac%eb%b3%b4%eb%8b%a4-%ec%96%b4%eb%a0%a4%ec%9a%b4-%ea%b1%b4-%ed%86%b5%ec%a0%9c-ai-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-14T00:02:00.000Z",
+      "summary": "AI 에이전트 오케스트레이션 플랫폼은 역할 기반 및 작업 기반 AI 에이전트와 이가 의존하는 툴, 데이터, 사람을 다단계 워크플로우로 조율한다. 프로덕션에서 사용 중인 소수의 AI 에이전트를 수천 개 규모로 확장하는 기업에는 오케스트레이션 플랫폼이 매우 중요하다. 연결 작업에는 두 가지 개방형 표준이 사용된다. MCP(모델 컨텍스트 프로토콜)는 툴과 데이터에 대한 거버넌스가 적용된 액세...",
+      "tab": "ai"
+    },
     {
       "id": "932e43a9e69993c2",
       "title": "“AI 글래스·딥페이크 대응 시급” 마에스트로 포렌식, 차세대 포렌식 솔루션 선보여",
@@ -77,24 +86,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-08-07T04:09:41.000Z",
       "summary": "AI 회의록 앱 업체 그라놀라가 직장 내 대화를 무단 녹음했다는 혐의로 개인정보 침해 소송에 휘말렸다. 오터.ai를 상대로 한 유사 소송도 진행 중이다. 7월 30일 캘리포니아 연방법원에 제기된 소장에 따르면, AI 회의록 앱 업체 그라놀라(Granola)는 참석자 전원의 동의 없이 대화를 녹음할 수 있는 소프트웨어를 개발해 개인정보 보호법을 위반한 혐의를 받고 있다. 지난해 같은 연방...",
-      "tab": "ai"
-    },
-    {
-      "id": "7b0d1cc74360820c",
-      "title": "아무도 감시하지 않는 AI 에이전트의 보안 위기",
-      "url": "https://www.itworld.co.kr/article/4205492/%ec%95%84%eb%ac%b4%eb%8f%84-%ea%b0%90%ec%8b%9c%ed%95%98%ec%a7%80-%ec%95%8a%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%eb%b3%b4%ec%95%88-%ec%9c%84%ea%b8%b0.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-07T01:21:00.000Z",
-      "summary": "기업 AI의 현실, 즉 AI가 마침내 프로덕션 시스템에 도달하는 상황에 대해 많은 이야기가 오가고 있다. 아직 인식하지 못하는 사람도 있지만 이 현실(또는 악몽)은 이미 진행되는 중이다. 모두 시작은 “파일럿”, “프로토타입”, 또는 “사이드 프로젝트”다. 누군가 에이전트로 내부 대시보드를 구축한다. 이 대시보드가 빠르게 필수적인 도구로 퍼지면서 실험이었던 것이 갑자기 프로덕션이 된다....",
-      "tab": "ai"
-    },
-    {
-      "id": "d91d3c1e0727bb67",
-      "title": "AI에 맡겨도 되는 것과 사람이 직접 해야 하는 것의 차이에 관하여",
-      "url": "https://www.itworld.co.kr/article/4205413/ai%ec%97%90-%eb%a7%a1%ea%b2%a8%eb%8f%84-%eb%90%98%eb%8a%94-%ea%b2%83%ea%b3%bc-%ec%82%ac%eb%9e%8c%ec%9d%b4-%ec%a7%81%ec%a0%91-%ed%95%b4%ec%95%bc-%ed%95%98%eb%8a%94-%ea%b2%83%ec%9d%98-%ec%b0%a8%ec%9d%b4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-06T00:11:00.000Z",
-      "summary": "많은 사람이 AI로 링크드인 게시물을 작성하는 것에 아무 거리낌이 없는 것 같다. 업무 메모나 슬라이드 덱 초안 작성을 AI에 맡기는 사람도 필자를 포함해 여럿 된다. AI 전문 미디어 AI 시크릿(AI Secret)이 최근 발표한 설문 데이터 에 따르면, 일부는 AI가 식료품 쇼핑을 대신해주는 것에 거리낌이 없다(28%)고 답한 반면, 명품 구매나 금융 거래는 AI에 맡기겠다는 응답이...",
       "tab": "ai"
     }
   ]
