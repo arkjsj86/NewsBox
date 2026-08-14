@@ -7,86 +7,462 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-14T13:05:08.907Z",
+  "lastUpdatedAt": "2026-08-14T15:51:35.569Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "cc0ffde3e0555b1e",
-      "issueKey": "흐리고 제주",
-      "issueTitle": "흐리고 제주",
-      "trendTitle": "내일 날씨",
-      "approxTraffic": "100000+",
-      "trafficScore": 100000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[날씨] 광복절 전국 흐리고 제주·남부 비…일요일 전국 비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814201330752",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“보통 저기압과 달라”…태풍이 남긴 비구름 남해안 최대 200mm↑",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637602",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[이슈날씨] 이번 광복절 연휴 날씨는?...이번 연휴 비나 소나기 소식이 잦아",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202608142113240180",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[날씨] 광복절 전국 흐리고 제주·남부 비…일요일 전국 비",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814201330752",
-        "publishedAt": "2026-08-14T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-14T11:50:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "흐리고 제주",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260814201330752",
-      "rank": 1
-    },
-    {
-      "id": "657a11c2575e962e",
-      "issueKey": "출연료",
-      "issueTitle": "출연료",
-      "trendTitle": "출연료",
+      "id": "7e065e5612ce7cb9",
+      "issueKey": "김원중",
+      "issueTitle": "김원중",
+      "trendTitle": "김원중",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "OTT에서 반복된 ‘시즌2 수난사’ 피했다, ‘킬러들의 쇼핑몰2′",
+          "title": "'솔로포-스리런포' 어제 NC의 영웅은 다시 벤치로...안중열 대신 김형준 선발, 김휘집 2G 연속 4번타자 [오!쎈 부산]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260814185009238",
+          "url": "https://v.daum.net/v/20260814171136285",
+          "publishedAt": "2026-08-14T14:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진] 김원중, 역전 허용 교체",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_photo/2026/08/14/GMZWGZJQMM2GMYJSGRSWEZDBG4/",
+          "publishedAt": "2026-08-14T14:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "3연승 가자! 천재환 투런포-김주원 솔로포, 백투백 홈런 폭발...'15호포' 김주원 개인 시즌 최다 타이 [오!쎈 부산]",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/14/202608142026770892O",
+          "publishedAt": "2026-08-14T14:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[사진] 김원중, 역전 허용 교체",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/sports_photo/2026/08/14/GMZWGZJQMM2GMYJSGRSWEZDBG4/",
+        "publishedAt": "2026-08-14T14:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-14T14:00:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "김원중",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/sports_photo/2026/08/14/GMZWGZJQMM2GMYJSGRSWEZDBG4/",
+      "rank": 1
+    },
+    {
+      "id": "6068ed0a1e8b143c",
+      "issueKey": "용인시",
+      "issueTitle": "용인시",
+      "trendTitle": "용인시",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이상일 용인특례시장 “리모델링 사업 소외 없어야”…수지구 10개 조합 현안 청취",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712399",
+          "publishedAt": "2026-08-14T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "용인리모델링조합, 시에 사업비 기금 마련·인허가 단축 건의",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260813_0003748431",
+          "publishedAt": "2026-08-14T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“리모델링 사업 속도 높인다”…용인시, 선도적 모델 길라잡이 역할 집중",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260814010005056",
+          "publishedAt": "2026-08-14T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“리모델링 사업 속도 높인다”…용인시, 선도적 모델 길라잡이 역할 집중",
+        "source": "아시아투데이",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260814010005056",
+        "publishedAt": "2026-08-14T13:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-08-14T13:10:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "용인시",
+      "source": "아시아투데이",
+      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260814010005056",
+      "rank": 2
+    },
+    {
+      "id": "87f41fb06e774638",
+      "issueKey": "변호사",
+      "issueTitle": "변호사",
+      "trendTitle": "변호사",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘노쇼 패소’ 권경애 변호사, 故 박주원 양 유족에 사기죄 피고소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/x0Ly7MSr5G",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘재판 노쇼’ 권경애 고소한 유족들 “변호 실수 불거질 때마다 불출석”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260814/134477662/1",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html",
+        "publishedAt": "2026-08-14T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T12:50:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "변호사",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html",
+      "rank": 3
+    },
+    {
+      "id": "e174fa13eb57a448",
+      "issueKey": "양정아",
+      "issueTitle": "양정아",
+      "trendTitle": "양정아",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'같이삽시다' 양정아 \"정말 혼자 됐다\"…떠난 母 향한 그리움 [RE:TV]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813045127284",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'같이삽시다2' 포천 맛집 어디? 양념갈비·미디어 쇼 여행",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3662971",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "5개월반 병시중 양정아, 모친상 12일만 웃고 “너무 해맑나? 맘 편해져”(같이삽시다)[어제TV]",
+          "source": "뉴스엔",
+          "url": "https://m.newsen.com/news_view.php?uid=202608121912506110",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'같이삽시다' 양정아 \"정말 혼자 됐다\"…떠난 母 향한 그리움 [RE:TV]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260813045127284",
+        "publishedAt": "2026-08-14T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T12:50:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "양정아",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260813045127284",
+      "rank": 4
+    },
+    {
+      "id": "20e4a3815def249a",
+      "issueKey": "엄지원",
+      "issueTitle": "엄지원",
+      "trendTitle": "엄지원",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "일본 여행서 뼈 산산조각, 긴급귀국…‘다리에 철심 18개’ 엄지원, 깜짝근황",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/culture/12128070",
+          "publishedAt": "2026-08-14T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "골절 겪은 엄지원, 최근 시작한 운동 있다는데?",
+          "source": "헬스조선",
+          "url": "https://health.chosun.com/site/data/html_dir/2026/08/14/2026081402070.html",
+          "publishedAt": "2026-08-14T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'48세' 엄지원, 분쇄골절 수술 후 '철심 18개' 박고도 운동...\"인생이 더 힘들어\" ('Umjeewon')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814072510440?f=p",
+          "publishedAt": "2026-08-14T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "일본 여행서 뼈 산산조각, 긴급귀국…‘다리에 철심 18개’ 엄지원, 깜짝근황",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/culture/12128070",
+        "publishedAt": "2026-08-14T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T12:40:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "엄지원",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/culture/12128070",
+      "rank": 5
+    },
+    {
+      "id": "eae5f643d323fb58",
+      "issueKey": "보그",
+      "issueTitle": "보그",
+      "trendTitle": "보그",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "더 로우 다음 타자는 ‘장바구니 백’? 뉴욕을 강타했습니다",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/",
+          "publishedAt": "2026-08-14T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이번 가을에도 헐렁한 청바지는 못 이깁니다",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/08/13/%EC%9D%B4%EB%B2%88-%EA%B0%80%EC%9D%84%EC%97%90%EB%8F%84-%ED%97%90%EB%A0%81%ED%95%9C-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%8A%94-%EB%AA%BB-%EC%9D%B4%EA%B9%81%EB%8B%88%EB%8B%A4/",
+          "publishedAt": "2026-08-14T12:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장원영·유나처럼 올가을 청바지에는 데님을 더하세요",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "url": "https://www.elle.co.kr/article/1907902",
+          "publishedAt": "2026-08-14T12:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "보그",
+        "source": "Vogue korea",
+        "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/",
+        "publishedAt": "2026-08-14T12:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T12:30:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "보그",
+      "source": "Vogue korea",
+      "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/",
+      "rank": 6
+    },
+    {
+      "id": "1399a04e0180a7f7",
+      "issueKey": "cuaca besok",
+      "issueTitle": "cuaca besok",
+      "trendTitle": "cuaca besok",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "BMKG: Cuaca Bogor Besok Cerah, Suhu Siang Bisa Tembus 33 Derajat Celsius",
+          "source": "Kompas.com",
+          "url": "https://megapolitan.kompas.com/read/2026/08/14/19163831/bmkg-cuaca-bogor-besok-cerah-suhu-siang-bisa-tembus-33-derajat-celsius",
+          "publishedAt": "2026-08-14T12:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "BMKG Prakirakan Cuaca Kota Bogor Cerah Berawan pada 14 Agustus 2026",
+          "source": "https://www.publika.id/",
+          "url": "https://www.publika.id/bmkg-prakirakan-cuaca-kota-bogor-cerah-berawan-14-agustus",
+          "publishedAt": "2026-08-14T12:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Cuaca Kota Bogor dan sekitarnya pada Jumat (14/8/2026) hari ini",
+          "source": "ANTARA News Megapolitan",
+          "url": "https://megapolitan.antaranews.com/berita/544953/cuaca-kota-bogor-dan-sekitarnya-pada-jumat-14-8-2026-hari-ini",
+          "publishedAt": "2026-08-14T12:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "cuaca besok",
+        "source": "Kompas.com",
+        "url": "https://megapolitan.kompas.com/read/2026/08/14/19163831/bmkg-cuaca-bogor-besok-cerah-suhu-siang-bisa-tembus-33-derajat-celsius",
+        "publishedAt": "2026-08-14T12:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T12:20:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "cuaca besok",
+      "source": "Kompas.com",
+      "url": "https://megapolitan.kompas.com/read/2026/08/14/19163831/bmkg-cuaca-bogor-besok-cerah-suhu-siang-bisa-tembus-33-derajat-celsius",
+      "rank": 7
+    },
+    {
+      "id": "e3dc618b0e107196",
+      "issueKey": "윤미라",
+      "issueTitle": "윤미라",
+      "trendTitle": "윤미라",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'간통 스캔들' 여배우, 결국 무혐의...\"할리우드 진출 무산\" 억울",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081411082939342",
+          "publishedAt": "2026-08-14T12:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "배우 윤미라, 공장 사장과 간통 의혹 직접 꺼냈다 “억울해 잠도 못 자”",
+          "source": "www.twig24.com",
+          "url": "https://www.twig24.com/news/entertainments/celebrity/2026/08/14/20260814500157",
+          "publishedAt": "2026-08-14T12:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "윤미라, 28세 테렌스 영 감독과 계약…4년 공방 끝 무혐의 “그해 다 날아갔다”",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/entertain/12127588",
+          "publishedAt": "2026-08-14T12:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "배우 윤미라, 공장 사장과 간통 의혹 직접 꺼냈다 “억울해 잠도 못 자”",
+        "source": "www.twig24.com",
+        "url": "https://www.twig24.com/news/entertainments/celebrity/2026/08/14/20260814500157",
+        "publishedAt": "2026-08-14T12:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-14T12:10:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "윤미라",
+      "source": "www.twig24.com",
+      "url": "https://www.twig24.com/news/entertainments/celebrity/2026/08/14/20260814500157",
+      "rank": 8
+    },
+    {
+      "id": "304e227bc653c0ee",
+      "issueKey": "달서구",
+      "issueTitle": "달서구",
+      "trendTitle": "달서구",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "달서구, 재정 비상체제 전환…신규사업 재검토",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637037",
+          "publishedAt": "2026-08-14T12:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "대구 기초지자체 재정 경고등… 달서구 이어 ‘비상재정' 확산 예고",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260813221007296",
+          "publishedAt": "2026-08-14T12:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "복지비는 늘고 지방세는 줄고…대구 달서구 허리띠 졸라맨다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260813049400053",
+          "publishedAt": "2026-08-14T12:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "달서구, 재정 비상체제 전환…신규사업 재검토",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637037",
+        "publishedAt": "2026-08-14T12:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T12:10:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "달서구",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8637037",
+      "rank": 9
+    },
+    {
+      "id": "657a11c2575e962e",
+      "issueKey": "출연료",
+      "issueTitle": "출연료",
+      "trendTitle": "출연료",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"장례식장서 향 냄새 맡는데 미쳐버리겠더라\"…김혜준, 영정사진 보면서 오열 ('킬쇼2')[인터뷰③]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814110247351",
           "publishedAt": "2026-08-14T11:50:00.000Z",
           "relevanceScore": 3
+        },
+        {
+          "title": "OTT에서 반복된 ‘시즌2 수난사’ 피했다, ‘킬러들의 쇼핑몰2′",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/k-culture/2026/08/14/O37SXOC7GJCFZHKVR7YUXL7I2Q/",
+          "publishedAt": "2026-08-14T11:50:00.000Z",
+          "relevanceScore": 2
         },
         {
           "title": "“힘들었던 촬영, 사랑으로 보답” 현리, ‘킬쇼2’ 장악",
           "source": "스포츠경향",
           "url": "https://sports.khan.co.kr/article/202608140940013",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[현장톡] '킬러들의 쇼핑몰2' 이권 감독 \"액션보다 지안의 성장과 관계에 집중\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260813001139",
           "publishedAt": "2026-08-14T11:50:00.000Z",
           "relevanceScore": 1
         }
@@ -94,378 +470,16 @@
       "representativeArticle": {
         "title": "출연료",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260814185009238",
+        "url": "https://v.daum.net/v/20260814110247351",
         "publishedAt": "2026-08-14T11:50:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-14T11:50:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
       "title": "출연료",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260814185009238",
-      "rank": 2
-    },
-    {
-      "id": "aa134b17a3a29fb6",
-      "issueKey": "weather tomorrow",
-      "issueTitle": "weather tomorrow",
-      "trendTitle": "weather tomorrow",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Monsoon rains to intensify across east, central and north India as depression forms",
-          "source": "mint",
-          "url": "https://www.livemint.com/news/india/monsoon-rains-to-intensify-across-east-central-and-north-india-as-depression-forms-11786705310317.html",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Rain lashes Delhi; waterlogging reported in several areas as city remains under ‘orange alert’",
-          "source": "ThePrint",
-          "url": "https://theprint.in/india/rain-lashes-delhi-waterlogging-reported-in-several-areas-as-city-remains-under-orange-alert/3014939/",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Heavy to very heavy rainfall warning issued for several states on I-Day, list released | To read the entire bulletin issued by IMD | Inshorts",
-          "source": "Inshorts",
-          "url": "https://inshorts.com/en/news/heavy-to-very-heavy-rainfall-warning-issued-for-several-states-on-i-day--list-released-1786703706684",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "weather tomorrow",
-        "source": "mint",
-        "url": "https://www.livemint.com/news/india/monsoon-rains-to-intensify-across-east-central-and-north-india-as-depression-forms-11786705310317.html",
-        "publishedAt": "2026-08-14T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-14T11:50:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "weather tomorrow",
-      "source": "mint",
-      "url": "https://www.livemint.com/news/india/monsoon-rains-to-intensify-across-east-central-and-north-india-as-depression-forms-11786705310317.html",
-      "rank": 3
-    },
-    {
-      "id": "f92575e069e26e3b",
-      "issueKey": "홍지민",
-      "issueTitle": "홍지민",
-      "trendTitle": "홍지민",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "독립운동가 딸 배우 홍지민, SKT 독립운동 캠페인 출연료 전액 기부",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814121229192",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'불후' 홍지민, 경연 나선 진짜 독립운동가 후손...\"父, 홍창식 선생\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/14/2026081410297286468",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'불후의 명곡' 한해X라포엠→김준수X안예은·임규형, 독립운동가 재조명",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260814n07583",
-          "publishedAt": "2026-08-14T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "독립운동가 딸 배우 홍지민, SKT 독립운동 캠페인 출연료 전액 기부",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814121229192",
-        "publishedAt": "2026-08-14T11:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-14T11:50:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "홍지민",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260814121229192",
-      "rank": 4
-    },
-    {
-      "id": "0e2ef793309327a5",
-      "issueKey": "환전소",
-      "issueTitle": "환전소",
-      "trendTitle": "환전소",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“한국 돈? 안 받아요”…태국 공항서 환전 거부당한 한국인 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637365",
-          "publishedAt": "2026-08-14T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"너무 충격…한국 돈은 안 되냐\" 방콕 공항 환전소서 원화 거절당한 유튜버",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814042129519",
-          "publishedAt": "2026-08-14T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“한국 돈 안 받아요”…태국 공항 환전소서 환전 거부, 무슨 일?",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12126745",
-          "publishedAt": "2026-08-14T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"너무 충격…한국 돈은 안 되냐\" 방콕 공항 환전소서 원화 거절당한 유튜버",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260814042129519",
-        "publishedAt": "2026-08-14T11:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-14T11:40:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "환전소",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260814042129519",
-      "rank": 5
-    },
-    {
-      "id": "df49e7f99f643776",
-      "issueKey": "첼시",
-      "issueTitle": "첼시",
-      "trendTitle": "첼시",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"금요일까지 2200억 가져와\" 첼시, 엔소 이적에 초강수...레알 빠지고 맨시티만 남았다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813104853156",
-          "publishedAt": "2026-08-14T11:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "25살에 커리어 총 이적료가 약 5000억?…'2283억 평가' 엔조, 첼시→맨시티 이적 시 각종 기록 경신 예정",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260814n21322",
-          "publishedAt": "2026-08-14T11:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "미쳤다! \"사갈테면 사가\" 첼시의 승부수, 이적료 2300억+데드라인까지 제시…'EPL 최고 몸값' 페르난데스, 사실상 '이적 불가'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/13/MRQWMNRYGIZGKM3BHE3GCZLFGA/",
-          "publishedAt": "2026-08-14T11:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"금요일까지 2200억 가져와\" 첼시, 엔소 이적에 초강수...레알 빠지고 맨시티만 남았다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813104853156",
-        "publishedAt": "2026-08-14T11:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-14T11:30:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "첼시",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260813104853156",
-      "rank": 6
-    },
-    {
-      "id": "9dc94a9d71345356",
-      "issueKey": "아파트",
-      "issueTitle": "아파트",
-      "trendTitle": "아파트",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "청년, 신혼부부 주택 실수요자 지원 더 세심하게",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970056&amp;pWise=sub&amp;pWiseSub=R2",
-          "publishedAt": "2026-08-14T11:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "청년은 빌라 사라?…금융위 \"틈새시장 추가 기회 제공\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814205052326",
-          "publishedAt": "2026-08-14T11:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"2030 ‘빌라 대출’? 청년 모독\"…비아파트 대출 정책, 안철수 작심 비판",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12313404",
-          "publishedAt": "2026-08-14T11:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"2030 ‘빌라 대출’? 청년 모독\"…비아파트 대출 정책, 안철수 작심 비판",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12313404",
-        "publishedAt": "2026-08-14T11:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-14T11:20:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "아파트",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12313404",
-      "rank": 7
-    },
-    {
-      "id": "628b49d96dcde97a",
-      "issueKey": "t1",
-      "issueTitle": "t1",
-      "trendTitle": "t1",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 1,
-      "articleCount": 1,
-      "relatedArticles": [
-        {
-          "title": "Reaching for the stars at 'Home Ground': Fans flood Olympic Park to see Faker at T1’s LCK showcase",
-          "source": "Korea JoongAng Daily",
-          "url": "https://www.koreajoongangdaily.com/business/reaching-for-the-stars-at-home-ground-fans-flood-olympic-park-to-see-faker-at-t1s-lck-showcase/12825282",
-          "publishedAt": "2026-08-14T11:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Reaching for the stars at 'Home Ground': Fans flood Olympic Park to see Faker at T1’s LCK showcase",
-        "source": "Korea JoongAng Daily",
-        "url": "https://www.koreajoongangdaily.com/business/reaching-for-the-stars-at-home-ground-fans-flood-olympic-park-to-see-faker-at-t1s-lck-showcase/12825282",
-        "publishedAt": "2026-08-14T11:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-14T11:20:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "t1",
-      "source": "Korea JoongAng Daily",
-      "url": "https://www.koreajoongangdaily.com/business/reaching-for-the-stars-at-home-ground-fans-flood-olympic-park-to-see-faker-at-t1s-lck-showcase/12825282",
-      "rank": 8
-    },
-    {
-      "id": "079fe0e969b27547",
-      "issueKey": "노동계",
-      "issueTitle": "비정규직",
-      "trendTitle": "비정규직",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘모범사용자’ 되겠단 정부, 공무직 ‘적정임금’은 ‘나중에’",
-          "source": "참여와혁신",
-          "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41301",
-          "publishedAt": "2026-08-14T11:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "공공연대노조, 공무직·자회사·돌봄노동자 등 처우개선 촉구",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003259286",
-          "publishedAt": "2026-08-14T11:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "노동계·정치권 “공공부문 비정규직 진짜 사용자는 정부…직접 교섭 나서야”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pufFM3nQHW",
-          "publishedAt": "2026-08-14T11:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "노동계·정치권 “공공부문 비정규직 진짜 사용자는 정부…직접 교섭 나서야”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pufFM3nQHW",
-        "publishedAt": "2026-08-14T11:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-14T11:10:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "비정규직",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/pufFM3nQHW",
-      "rank": 9
-    },
-    {
-      "id": "6403c770c8dd1be5",
-      "issueKey": "새만금청",
-      "issueTitle": "새만금청",
-      "trendTitle": "전력",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "새만금 '그린에너지 복합단지' 조성…새만금청·남동발전 MOU",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970123&amp;pWise=main&amp;pWiseMain=R3",
-          "publishedAt": "2026-08-14T11:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "국토장관, 부안 수소도시 찾아 그린수소 생산시설 점검",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260814168700003",
-          "publishedAt": "2026-08-14T11:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김윤덕, 부안 수소도시 조성사업 현장 방문…생산시설 점검",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260814200051540",
-          "publishedAt": "2026-08-14T11:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "새만금 '그린에너지 복합단지' 조성…새만금청·남동발전 MOU",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970123&amp;pWise=main&amp;pWiseMain=R3",
-        "publishedAt": "2026-08-14T11:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-14T11:10:00.000Z",
-      "firstSeenAt": "2026-08-14T13:05:08.907Z",
-      "lastSeenAt": "2026-08-14T13:05:08.907Z",
-      "title": "새만금청",
-      "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970123&amp;pWise=main&amp;pWiseMain=R3",
+      "url": "https://v.daum.net/v/20260814110247351",
       "rank": 10
     }
   ],
@@ -1974,6 +1988,144 @@
       "url": "https://www.chosun.com/entertainments/broadcast/2026/08/13/GZRGMOLBGBQWKNLEHBRWMMDGGM/"
     },
     {
+      "id": "87f41fb06e774638",
+      "issueKey": "변호사",
+      "issueTitle": "변호사",
+      "trendTitle": "변호사",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘노쇼 패소’ 권경애 변호사, 故 박주원 양 유족에 사기죄 피고소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/x0Ly7MSr5G",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘재판 노쇼’ 권경애 고소한 유족들 “변호 실수 불거질 때마다 불출석”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260814/134477662/1",
+          "publishedAt": "2026-08-14T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html",
+        "publishedAt": "2026-08-14T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T12:50:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "변호사",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html"
+    },
+    {
+      "id": "eae5f643d323fb58",
+      "issueKey": "보그",
+      "issueTitle": "보그",
+      "trendTitle": "보그",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "더 로우 다음 타자는 ‘장바구니 백’? 뉴욕을 강타했습니다",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/",
+          "publishedAt": "2026-08-14T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이번 가을에도 헐렁한 청바지는 못 이깁니다",
+          "source": "Vogue korea",
+          "url": "https://www.vogue.co.kr/2026/08/13/%EC%9D%B4%EB%B2%88-%EA%B0%80%EC%9D%84%EC%97%90%EB%8F%84-%ED%97%90%EB%A0%81%ED%95%9C-%EC%B2%AD%EB%B0%94%EC%A7%80%EB%8A%94-%EB%AA%BB-%EC%9D%B4%EA%B9%81%EB%8B%88%EB%8B%A4/",
+          "publishedAt": "2026-08-14T12:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장원영·유나처럼 올가을 청바지에는 데님을 더하세요",
+          "source": "엘르 코리아 │ ELLE KOREA",
+          "url": "https://www.elle.co.kr/article/1907902",
+          "publishedAt": "2026-08-14T12:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "보그",
+        "source": "Vogue korea",
+        "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/",
+        "publishedAt": "2026-08-14T12:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T12:30:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "보그",
+      "source": "Vogue korea",
+      "url": "https://www.vogue.co.kr/2026/08/14/%EB%8D%94-%EB%A1%9C%EC%9A%B0-%EB%8B%A4%EC%9D%8C-%ED%83%80%EC%9E%90%EB%8A%94-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88-%EB%B0%B1-%EB%89%B4%EC%9A%95%EC%9D%84-%EA%B0%95%ED%83%80%ED%96%88%EC%8A%B5/"
+    },
+    {
+      "id": "657a11c2575e962e",
+      "issueKey": "출연료",
+      "issueTitle": "출연료",
+      "trendTitle": "출연료",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"장례식장서 향 냄새 맡는데 미쳐버리겠더라\"…김혜준, 영정사진 보면서 오열 ('킬쇼2')[인터뷰③]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260814110247351",
+          "publishedAt": "2026-08-14T11:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "OTT에서 반복된 ‘시즌2 수난사’ 피했다, ‘킬러들의 쇼핑몰2′",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/culture-life/k-culture/2026/08/14/O37SXOC7GJCFZHKVR7YUXL7I2Q/",
+          "publishedAt": "2026-08-14T11:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“힘들었던 촬영, 사랑으로 보답” 현리, ‘킬쇼2’ 장악",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608140940013",
+          "publishedAt": "2026-08-14T11:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "출연료",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260814110247351",
+        "publishedAt": "2026-08-14T11:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-14T11:50:00.000Z",
+      "firstSeenAt": "2026-08-14T15:51:35.569Z",
+      "lastSeenAt": "2026-08-14T15:51:35.569Z",
+      "title": "출연료",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260814110247351"
+    },
+    {
       "id": "8748f309a69e8db7",
       "issueKey": "강유미",
       "issueTitle": "강유미",
@@ -2248,144 +2400,6 @@
       "title": "중매",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260813140137892"
-    },
-    {
-      "id": "5a15efe8a053eb5a",
-      "issueKey": "김밥",
-      "issueTitle": "김밥",
-      "trendTitle": "김밥",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'김가네' 1호점 폐업…고물가에 옆구리 터진 김밥 시장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260813170020288",
-          "publishedAt": "2026-08-13T08:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김밥 가격 올려도 못 버텨…'서민 외식'의 역설",
-          "source": "데일리안",
-          "url": "https://www.dailian.co.kr/news/view/1677674/",
-          "publishedAt": "2026-08-13T08:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "외식비 부담 커지자 ‘집밥’ 뜬다…쌀·초저가 식재료 매출 ‘쑥’",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20077820",
-          "publishedAt": "2026-08-13T08:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'김가네' 1호점 폐업…고물가에 옆구리 터진 김밥 시장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260813170020288",
-        "publishedAt": "2026-08-13T08:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-13T08:30:00.000Z",
-      "firstSeenAt": "2026-08-13T10:05:29.826Z",
-      "lastSeenAt": "2026-08-13T10:05:29.826Z",
-      "title": "김밥",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260813170020288"
-    },
-    {
-      "id": "3d06190ce7356762",
-      "issueKey": "권경애",
-      "issueTitle": "권경애",
-      "trendTitle": "권경애",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html",
-          "publishedAt": "2026-08-14T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘노쇼 패소’ 권경애 변호사, 故 박주원 양 유족에 사기죄 피고소",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/x0Ly7MSr5G",
-          "publishedAt": "2026-08-14T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'학교폭력 재판 노쇼' 권경애 변호사, 유족에 사기 혐의로 고소당해",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749361",
-          "publishedAt": "2026-08-14T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'변호사 노쇼' 학폭 피해자 유족, 권경애 변호사 사기죄로 고소",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html",
-        "publishedAt": "2026-08-14T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-14T08:40:00.000Z",
-      "firstSeenAt": "2026-08-14T10:01:37.586Z",
-      "lastSeenAt": "2026-08-14T10:01:37.586Z",
-      "title": "권경애",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6844747_36918.html"
-    },
-    {
-      "id": "f5b758f19b50d3cc",
-      "issueKey": "맹승지",
-      "issueTitle": "맹승지",
-      "trendTitle": "맹승지",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "맹승지, 공개 열애…남친 직업은 의사?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260814_0003749126",
-          "publishedAt": "2026-08-14T07:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "개그우먼 은퇴하더니 돌연 열애 공개? \"나랑 제일 많이 쫑알대는 사람\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/14/GJQWGZBYMM3TQOBUHA4DEYRWGA/",
-          "publishedAt": "2026-08-14T07:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "맹승지, 공개 열애 시작…남자친구 사진도 공개 [소셜in]",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/514753",
-          "publishedAt": "2026-08-14T07:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "맹승지, 공개 열애…남친 직업은 의사?",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260814_0003749126",
-        "publishedAt": "2026-08-14T07:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-14T07:50:00.000Z",
-      "firstSeenAt": "2026-08-14T10:01:37.586Z",
-      "lastSeenAt": "2026-08-14T10:01:37.586Z",
-      "title": "맹승지",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260814_0003749126"
     }
   ]
 }
