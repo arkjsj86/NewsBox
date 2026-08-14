@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-14T18:53:37.689Z",
+  "lastUpdatedAt": "2026-08-14T21:24:15.287Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -26,19 +26,14 @@
       "sourceUrl": "https://bbs.ruliweb.com/best",
       "items": [
         {
-          "title": "AI로 모두에게 경쟁의 재미를, 배우 박지현과 ‘제우스: 오만의 신’",
-          "url": "https://bbs.ruliweb.com/news/read/227873",
-          "meta": "댓글 76"
-        },
-        {
           "title": "‘조이콘’ 권장 스팀용 피트니스 리듬 액션 게임, 간바레! 치어리듬",
           "url": "https://bbs.ruliweb.com/news/read/227926",
-          "meta": "댓글 24"
+          "meta": "댓글 26"
         },
         {
           "title": "‘리니지 클래식’으로 선방한 엔씨, 다음 카드는 서구권 3대 MMORPG",
           "url": "https://bbs.ruliweb.com/news/read/227962",
-          "meta": "댓글 30"
+          "meta": "댓글 31"
         },
         {
           "title": "㈜네오플, 제주본사 ‘던전앤파이터’ 집중 채용 오늘(10일) 시작",
@@ -49,6 +44,11 @@
           "title": "블루 아카이브, ‘카페 메모리얼’ 1주년 기념 축하 파티 열렸다",
           "url": "https://bbs.ruliweb.com/news/read/227879",
           "meta": "댓글 6"
+        },
+        {
+          "title": "㈜웹젠, 신작 ‘PROJECT D1’ 게임정보 최초 공개",
+          "url": "https://bbs.ruliweb.com/news/read/227890",
+          "meta": "댓글 9"
         }
       ]
     },
@@ -60,27 +60,27 @@
         {
           "title": "잠입 어드벤처로 그려낸 팬데믹 디스토피아, '러스타운'",
           "url": "https://www.inven.co.kr/webzine/news/?news=319568",
-          "meta": "1시간 전"
+          "meta": "7시간 전"
         },
         {
           "title": "여러 장르를 정갈하게 담은 생존 스토리, '아르뷔엔의 겨울'",
           "url": "https://www.inven.co.kr/webzine/news/?news=319505",
-          "meta": "2시간 전"
+          "meta": "7시간 전"
         },
         {
           "title": "임재현 대행-케리아 \"홈 팬들께 죄송, 젠지전서 만회할 것\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319576",
-          "meta": "리그 오브 레전드 · 4시간 전"
+          "meta": "리그 오브 레전드 · 10시간 전"
         },
         {
           "title": "김대호 감독 \"오늘 경기력 세계 1위, 선수들 존경스러워\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319578",
-          "meta": "리그 오브 레전드 · 4시간 전"
+          "meta": "리그 오브 레전드 · 10시간 전"
         },
         {
           "title": "DK, 2세트 반격 성공...1:1 승부원점",
           "url": "https://www.inven.co.kr/webzine/news/?news=319566",
-          "meta": "리그 오브 레전드 · 6시간 전"
+          "meta": "리그 오브 레전드 · 12시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
