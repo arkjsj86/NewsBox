@@ -7,8 +7,8 @@
   "tournamentName": "Split 3 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-08-15T09:26:20.172Z",
-  "lastUpdatedAt": "2026-08-15T09:26:20.172Z",
+  "fetchedAt": "2026-08-15T12:37:23.640Z",
+  "lastUpdatedAt": "2026-08-15T12:37:23.640Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
@@ -42,22 +42,22 @@
       "points": 2
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "code": "HLE",
+      "name": "Hanwha Life Esports",
+      "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
+      "wins": 2,
+      "losses": 4,
+      "points": 2
+    },
+    {
+      "rank": 4,
       "code": "KT",
       "name": "kt Rolster",
       "image": "http://static.lolesports.com/teams/kt_darkbackground.png",
       "wins": 2,
-      "losses": 3,
-      "points": 2
-    },
-    {
-      "rank": 5,
-      "code": "HLE",
-      "name": "Hanwha Life Esports",
-      "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
-      "wins": 1,
       "losses": 4,
-      "points": 1
+      "points": 2
     }
   ]
 }
