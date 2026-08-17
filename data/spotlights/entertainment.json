@@ -7,18 +7,394 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-17T18:38:36.405Z",
+  "lastUpdatedAt": "2026-08-17T21:25:31.627Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 9,
   "items": [
     {
+      "id": "2fde7e1242693ca3",
+      "issueKey": "광역급 권한",
+      "issueTitle": "광역급 권한",
+      "trendTitle": "강기윤",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "창원 등 5개 특례시 ‘광역급 권한·재정’ 공동 건의",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8637697",
+          "publishedAt": "2026-08-17T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[김병철 시선②] 23조 8천억 투자유치 넘어 AI·반도체로…정명근, 화성 미래산업 판 키운다",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=712568",
+          "publishedAt": "2026-08-17T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "고양시, 대한민국특례시시장협의회 2026년 제1차 정기회의 참석",
+          "source": "아시아뉴스통신",
+          "url": "https://m.anewsa.com/article_sub3.php?number=3189080&amp;type=&amp;mobile=",
+          "publishedAt": "2026-08-17T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "창원 등 5개 특례시 ‘광역급 권한·재정’ 공동 건의",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8637697",
+        "publishedAt": "2026-08-17T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-17T20:20:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "광역급 권한",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8637697",
+      "rank": 1
+    },
+    {
+      "id": "501e19474fbdd6e4",
+      "issueKey": "데이터 센터",
+      "issueTitle": "데이터 센터",
+      "trendTitle": "데이터 센터",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "엔비디아, 오픈AI 데이터센터에 150조원 보증…순환금융 지적도",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818043652036",
+          "publishedAt": "2026-08-17T20:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[2026-08-17 - 場前 브리핑] 장전 뉴스 / 경제지표 / 투자의견 / 실적발표 / IPO / 10년물 금리 동향 /FedWatch 동향 / WTI 원유",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/yokakman/reports/contents/260817162546196pb",
+          "publishedAt": "2026-08-17T20:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "GPU를 담보로? AI 칩이 금융 담보가 될 수 있을까?",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430362",
+          "publishedAt": "2026-08-17T20:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "데이터 센터",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818043652036",
+        "publishedAt": "2026-08-17T20:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-17T20:10:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "데이터 센터",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260818043652036",
+      "rank": 2
+    },
+    {
+      "id": "c2081e8ccf3ac52f",
+      "issueKey": "당대표",
+      "issueTitle": "당대표",
+      "trendTitle": "당대표",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "거제 찾은 김민석 \"충격…할 수 있는 일 다 하겠다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818053045896",
+          "publishedAt": "2026-08-17T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김민석 체제 출범, 유시민·김어준 ‘빅스피커’ 퇴조했나…“정부·여당이 외부 평론가에 일희일비 안돼”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608180600081/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+          "publishedAt": "2026-08-17T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[속보]김민석, 민주당 대표 당선…최민희 필두 ‘친청 3인’ 최고위원 입성",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609941",
+          "publishedAt": "2026-08-17T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "당대표",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818053045896",
+        "publishedAt": "2026-08-17T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-17T19:30:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "당대표",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260818053045896",
+      "rank": 3
+    },
+    {
+      "id": "4a0be53a7ae02b10",
+      "issueKey": "정년",
+      "issueTitle": "정년",
+      "trendTitle": "정년",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YJlzUDUZs9",
+          "publishedAt": "2026-08-17T19:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"정년 됐다고 왜 집에 가세요?\"... 하림이 시니어를 붙잡는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pbjhcuaeUO",
+          "publishedAt": "2026-08-17T19:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "오랜 기억이 자산으로…어르신 삶 기록하는 '노인 작가단'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260816_0003750939",
+          "publishedAt": "2026-08-17T19:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/YJlzUDUZs9",
+        "publishedAt": "2026-08-17T19:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-17T19:20:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "정년",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/YJlzUDUZs9",
+      "rank": 4
+    },
+    {
+      "id": "de9bb00b52a11872",
+      "issueKey": "퇴직",
+      "issueTitle": "퇴직",
+      "trendTitle": "퇴직",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818050009383",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "은행서 증권사로… 퇴직연금 머니무브 [550조 연금전쟁 上-②]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2614926",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "퇴직연금 어디 맡기지…3년 수익률 105% 최강자는 [이슈 플러스]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1143490",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "은행서 증권사로… 퇴직연금 머니무브 [550조 연금전쟁 上-②]",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2614926",
+        "publishedAt": "2026-08-17T18:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-17T18:40:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "퇴직",
+      "source": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2614926",
+      "rank": 5
+    },
+    {
+      "id": "a351e5c8f2c986b2",
+      "issueKey": "최애의 사원",
+      "issueTitle": "최애의 사원",
+      "trendTitle": "최애의 사원",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YCxlJW6b38",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'최애의 사원' 강훈 김혜준 차우민, 삼각관계 불붙는다! 관계 변화 조짐",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714507260186",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "드라마 김혜준 & 강훈 & 차우민",
+          "source": "allure Korea",
+          "url": "https://www.allurekorea.com/2026/08/17/%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%82%AC%EC%9B%90-%EA%B9%80%ED%98%9C%EC%A4%80-%EA%B0%95%ED%9B%88-%EC%B0%A8%EC%9A%B0%EB%AF%BC/",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'최애의 사원' 강훈 김혜준 차우민, 삼각관계 불붙는다! 관계 변화 조짐",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714507260186",
+        "publishedAt": "2026-08-17T18:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-17T18:40:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "최애의 사원",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714507260186",
+      "rank": 6
+    },
+    {
+      "id": "96d0ca005b3c446b",
+      "issueKey": "대치동",
+      "issueTitle": "대치동",
+      "trendTitle": "대치동",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "전세의 월세화…7년새 월세 비중 7.8%p 증가",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818052251872",
+          "publishedAt": "2026-08-17T18:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“전세 씨 말랐다”…서울 아파트 10가구 중 4가구는 월세",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20080142",
+          "publishedAt": "2026-08-17T18:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한국 주거비가 그동안 얼마나 쌌는지는, 그게 끝난 뒤에야 다들 알게 됨",
+          "source": "네이버 프리미엄콘텐츠",
+          "url": "https://contents.premium.naver.com/richrise/premium/contents/260817200656702kc",
+          "publishedAt": "2026-08-17T18:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "대치동",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818052251872",
+        "publishedAt": "2026-08-17T18:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-17T18:00:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "대치동",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260818052251872",
+      "rank": 7
+    },
+    {
+      "id": "9cc049c8aa1427a2",
+      "issueKey": "장교 유족",
+      "issueTitle": "장교 유족",
+      "trendTitle": "판문점 도끼",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/",
+          "publishedAt": "2026-08-17T17:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[통일논단] 미루나무 한 그루 자르려다 한반도 평화가 결딴날 뻔",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3425577",
+          "publishedAt": "2026-08-17T17:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "판문점 도끼 박철, 정치 깡패 이정재, 반역자 박춘금...역사 속 악인들",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260816055647697",
+          "publishedAt": "2026-08-17T17:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘도끼만행 50년’ 美장교 유족·전우... “활기찬 한국은 살아있는 기념비”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/",
+        "publishedAt": "2026-08-17T17:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-17T17:40:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "장교 유족",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/national/people/2026/08/17/LUXLW3RQIZAOFOJAVL2X36UOQA/",
+      "rank": 8
+    },
+    {
       "id": "019addc731638169",
       "issueKey": "국경",
       "issueTitle": "국경",
       "trendTitle": "국경",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -52,387 +428,11 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-17T17:30:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
       "title": "국경",
       "source": "Vietnam.vn",
       "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham",
-      "rank": 1
-    },
-    {
-      "id": "415dc06971f8e6e9",
-      "issueKey": "김선재",
-      "issueTitle": "김선재",
-      "trendTitle": "김선재",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260817n16022",
-          "publishedAt": "2026-08-17T16:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[FSL] '라이트', \"주변 조언이 큰 힘 됐다...승부차기도 코치님 덕분\"",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319618",
-          "publishedAt": "2026-08-17T16:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[FSL] BFX '라이트', 황제 'JM' 꺾고 '호석' 기다리는 승자조로",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319617&amp;site=fifaonline4",
-          "publishedAt": "2026-08-17T16:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260817n16022",
-        "publishedAt": "2026-08-17T16:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T16:40:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "김선재",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260817n16022",
-      "rank": 2
-    },
-    {
-      "id": "274ecb82cbde2598",
-      "issueKey": "넥슨",
-      "issueTitle": "넥슨",
-      "trendTitle": "넥슨",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "넥슨 품에 안긴 오버워치, 제2의 전성기 정조준",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260816193050",
-          "publishedAt": "2026-08-17T16:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[기획] '넥슨의 오버워치' 시대, 무엇이 바뀌고 무엇을 노리나",
-          "source": "디스이즈게임",
-          "url": "https://www.thisisgame.com/articles/428832",
-          "publishedAt": "2026-08-17T16:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "오버워치 시즌4, 돌아온 당신을 위한 추천 영웅",
-          "source": "게임플",
-          "url": "https://www.gameple.co.kr/news/articleView.html?idxno=216255",
-          "publishedAt": "2026-08-17T16:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "넥슨 품에 안긴 오버워치, 제2의 전성기 정조준",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260816193050",
-        "publishedAt": "2026-08-17T16:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T16:30:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "넥슨",
-      "source": "지디넷코리아",
-      "url": "https://zdnet.co.kr/view/?no=20260816193050",
-      "rank": 3
-    },
-    {
-      "id": "e1a3ecd0d2344403",
-      "issueKey": "브루스 윌리스",
-      "issueTitle": "브루스 윌리스",
-      "trendTitle": "브루스 윌리스",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/pQC4dHx2vO",
-          "publishedAt": "2026-08-17T16:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘치매 투병’ 브루스 윌리스, 막내딸 결혼식서 포착… 4년 만의 감동 근황",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/16/G4YDQNJYHBSGCOBUHA4TSMTGMY/",
-          "publishedAt": "2026-08-17T16:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "제작만 712시간 걸린, 탈룰라 윌리스의 발렌시아가 웨딩드레스",
-          "source": "Vogue korea",
-          "url": "https://www.vogue.co.kr/2026/08/11/%EC%A0%9C%EC%9E%91%EB%A7%8C-712%EC%8B%9C%EA%B0%84-%EA%B1%B8%EB%A6%B0-%ED%83%88%EB%A3%B0%EB%9D%BC-%EC%9C%8C%EB%A6%AC%EC%8A%A4%EC%9D%98-%EB%B0%9C%EB%A0%8C%EC%8B%9C%EC%95%84%EA%B0%80-%EC%9B%A8%EB%94%A9/",
-          "publishedAt": "2026-08-17T16:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'5명 딸부자' 브루스 윌리스, '치매'에도 데미 무어와 막내딸 결혼식 참석..미소 [월드스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/pQC4dHx2vO",
-        "publishedAt": "2026-08-17T16:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T16:00:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "브루스 윌리스",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/pQC4dHx2vO",
-      "rank": 4
-    },
-    {
-      "id": "f8dee9ca20be80bf",
-      "issueKey": "충격 근황",
-      "issueTitle": "충격 근황",
-      "trendTitle": "충격 근황",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "충격 근황! \"두개골 구멍 뚫었다\"...뇌수술 흉터 공개한 'WWE 전설' 짐 로스, \"결과가 모든 걸 증명\" 건재함 과시",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817054536944?f=p",
-          "publishedAt": "2026-08-17T15:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "공감제로 '사이코패스', 특이한 상관관계 찾았다",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260813085145",
-          "publishedAt": "2026-08-17T15:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"몸속에 무슨 일이\" 사이코패스 성향, 뇌 구조 말고 '이것'도 연관 있었다",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260813n38722",
-          "publishedAt": "2026-08-17T15:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "충격 근황! \"두개골 구멍 뚫었다\"...뇌수술 흉터 공개한 'WWE 전설' 짐 로스, \"결과가 모든 걸 증명\" 건재함 과시",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817054536944?f=p",
-        "publishedAt": "2026-08-17T15:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T15:50:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "충격 근황",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260817054536944?f=p",
-      "rank": 5
-    },
-    {
-      "id": "8ebf0bcdb8b545c9",
-      "issueKey": "어벤져스",
-      "issueTitle": "어벤져스",
-      "trendTitle": "어벤져스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1",
-          "publishedAt": "2026-08-17T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "마블민국 명성 되찾나..로다주 복귀 '어벤져스: 둠스데이' 압도적 예고편",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/movie/2026/08/15/G4ZDOMDGG5QTGNZTG5TGMMBUME/",
-          "publishedAt": "2026-08-17T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'어벤져스'에 돌아온 로다주…'둠스데이' 절대악 등장 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815171709918",
-          "publishedAt": "2026-08-17T15:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1",
-        "publishedAt": "2026-08-17T15:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T15:30:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "어벤져스",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1",
-      "rank": 6
-    },
-    {
-      "id": "7cfc9a5b2099942a",
-      "issueKey": "배정남",
-      "issueTitle": "배정남",
-      "trendTitle": "황현민",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817151609686",
-          "publishedAt": "2026-08-17T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751567",
-          "publishedAt": "2026-08-17T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "잼 출신 황현민, 뜬금 배정남 마르코 난투극 재소환 “2천만원 합의금”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12129442",
-          "publishedAt": "2026-08-17T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817151609686",
-        "publishedAt": "2026-08-17T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T15:20:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "배정남",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260817151609686",
-      "rank": 7
-    },
-    {
-      "id": "dda47061f637784d",
-      "issueKey": "인명",
-      "issueTitle": "인명",
-      "trendTitle": "창원시장",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026081718303820427",
-          "publishedAt": "2026-08-17T14:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "창원시, 대조기·집중호우 대비 구항 배수펌프장 점검",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751602",
-          "publishedAt": "2026-08-17T14:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "마산합포구청장, 호우특보 해수면 상승 해안가 긴급점검",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6563862",
-          "publishedAt": "2026-08-17T14:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"인명·재산 지켜라\" … 창원특례시, 호우 피해 대비 주요 방재시설 집중점검",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026081718303820427",
-        "publishedAt": "2026-08-17T14:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T14:40:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "인명",
-      "source": "아시아경제",
-      "url": "https://view.asiae.co.kr/article/2026081718303820427",
-      "rank": 8
-    },
-    {
-      "id": "eb3880c1c3f82109",
-      "issueKey": "이진",
-      "issueTitle": "이진",
-      "trendTitle": "이진",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'뉴욕댁' 이진, 반려견 함께 돌아왔다..韓 정착→핑클·송혜교와 '행복' [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817130609935",
-          "publishedAt": "2026-08-17T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "송혜교, 핑클 이진과 여전하네···원조 얼짱女들의 우정 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/17/HAYTONBRMY2DINZSG4YTKZBQGM/",
-          "publishedAt": "2026-08-17T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "송혜교가 부른 ‘우리 장군이’…반려견 한장에 들킨(?) 이진과의 ‘30년 우정’",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1628919",
-          "publishedAt": "2026-08-17T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'뉴욕댁' 이진, 반려견 함께 돌아왔다..韓 정착→핑클·송혜교와 '행복' [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817130609935",
-        "publishedAt": "2026-08-17T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T14:30:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "이진",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260817130609935",
       "rank": 9
     }
   ],
@@ -742,6 +742,52 @@
       "url": "https://zdnet.co.kr/view/?no=20260814172114"
     },
     {
+      "id": "c2081e8ccf3ac52f",
+      "issueKey": "당대표",
+      "issueTitle": "당대표",
+      "trendTitle": "당대표",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "거제 찾은 김민석 \"충격…할 수 있는 일 다 하겠다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818053045896",
+          "publishedAt": "2026-08-17T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김민석 체제 출범, 유시민·김어준 ‘빅스피커’ 퇴조했나…“정부·여당이 외부 평론가에 일희일비 안돼”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608180600081/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+          "publishedAt": "2026-08-17T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[속보]김민석, 민주당 대표 당선…최민희 필두 ‘친청 3인’ 최고위원 입성",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11609941",
+          "publishedAt": "2026-08-17T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "당대표",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818053045896",
+        "publishedAt": "2026-08-17T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-17T19:30:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "당대표",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260818053045896"
+    },
+    {
       "id": "87a5446d254b7fd6",
       "issueKey": "비서실장 김태선",
       "issueTitle": "김태선",
@@ -970,6 +1016,98 @@
       "title": "김혜성",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260816015700007"
+    },
+    {
+      "id": "a351e5c8f2c986b2",
+      "issueKey": "최애의 사원",
+      "issueTitle": "최애의 사원",
+      "trendTitle": "최애의 사원",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "차우민, 김혜준 향한 달콤한 직진 '찬폭스' 모먼트",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/YCxlJW6b38",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'최애의 사원' 강훈 김혜준 차우민, 삼각관계 불붙는다! 관계 변화 조짐",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714507260186",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "드라마 김혜준 & 강훈 & 차우민",
+          "source": "allure Korea",
+          "url": "https://www.allurekorea.com/2026/08/17/%EB%93%9C%EB%9D%BC%EB%A7%88-%EC%B5%9C%EC%95%A0%EC%9D%98-%EC%82%AC%EC%9B%90-%EA%B9%80%ED%98%9C%EC%A4%80-%EA%B0%95%ED%9B%88-%EC%B0%A8%EC%9A%B0%EB%AF%BC/",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'최애의 사원' 강훈 김혜준 차우민, 삼각관계 불붙는다! 관계 변화 조짐",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714507260186",
+        "publishedAt": "2026-08-17T18:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-17T18:40:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "최애의 사원",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/08/17/2026081714507260186"
+    },
+    {
+      "id": "019addc731638169",
+      "issueKey": "국경",
+      "issueTitle": "국경",
+      "trendTitle": "국경",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham",
+          "publishedAt": "2026-08-17T17:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "뿌리부터 '국민의 지지'를 유지하는 것: 지속 가능한 새로운 농촌 지역을 건설하고 국경을 조기에, 그리고 멀리서부터 보호하기 위한 토대입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/giu-vung-the-tran-long-dan-tu-goc-nen-tang-xay-dung-nong-thon-moi-ben-vung-va-bao-ve-bien-cuong-tu-som-tu-xa",
+          "publishedAt": "2026-08-17T17:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "국경 지역 및 국경 표지석의 자율 관리에 참여하기 위한 협정을 체결했습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/ky-ket-tham-gia-tu-quan-duong-bien-moc-quoc-gioi",
+          "publishedAt": "2026-08-17T17:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "장탄 국경 경비대는 범죄 예방 및 통제 홍보 활동을 강화하고 있습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham",
+        "publishedAt": "2026-08-17T17:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-17T17:30:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "국경",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/bien-phong-giang-thanh-tang-tuyen-truyen-phong-chong-toi-pham"
     },
     {
       "id": "274ecb82cbde2598",
@@ -1478,50 +1616,96 @@
       "url": "https://www.donga.com/news/Politics/article/all/20260816/134483900/1"
     },
     {
-      "id": "4db74e88bb8f1c47",
-      "issueKey": "황정음",
-      "issueTitle": "황정음",
-      "trendTitle": "황정음",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "4a0be53a7ae02b10",
+      "issueKey": "정년",
+      "issueTitle": "정년",
+      "trendTitle": "정년",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "황정음, 까맣고 살 오른 모습에 본인도 깜짝 “왕식이 얼굴 나왔다..어떡해”",
+          "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260815211908514",
-          "publishedAt": "2026-08-15T15:50:00.000Z",
+          "url": "https://v.daum.net/v/YJlzUDUZs9",
+          "publishedAt": "2026-08-17T19:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "황정음, 다리까지 새까맣게 탔네…이탈리아 약국서 지갑 들고 계산",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12128813",
-          "publishedAt": "2026-08-15T15:50:00.000Z",
+          "title": "\"정년 됐다고 왜 집에 가세요?\"... 하림이 시니어를 붙잡는 이유",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pbjhcuaeUO",
+          "publishedAt": "2026-08-17T19:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"대체 무슨 일?\" 황정음, 새까맣게 탄 민낯 충격…팬들도 '깜짝'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260815n11553",
-          "publishedAt": "2026-08-15T15:50:00.000Z",
+          "title": "오랜 기억이 자산으로…어르신 삶 기록하는 '노인 작가단'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260816_0003750939",
+          "publishedAt": "2026-08-17T19:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "황정음, 까맣고 살 오른 모습에 본인도 깜짝 “왕식이 얼굴 나왔다..어떡해”",
+        "title": "정년 후 재고용, 이제 회사 마음대로 못한다?… 대법 \"관행 따져야\"",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260815211908514",
-        "publishedAt": "2026-08-15T15:50:00.000Z",
+        "url": "https://v.daum.net/v/YJlzUDUZs9",
+        "publishedAt": "2026-08-17T19:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-15T15:50:00.000Z",
-      "firstSeenAt": "2026-08-15T21:20:24.528Z",
-      "lastSeenAt": "2026-08-15T21:20:24.528Z",
-      "title": "황정음",
+      "publishedAt": "2026-08-17T19:20:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "정년",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260815211908514"
+      "url": "https://v.daum.net/v/YJlzUDUZs9"
+    },
+    {
+      "id": "de9bb00b52a11872",
+      "issueKey": "퇴직",
+      "issueTitle": "퇴직",
+      "trendTitle": "퇴직",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "점유율 20% 밑으로… 보험사 입지 '흔들' [550조 연금전쟁 上-③]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818050009383",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "은행서 증권사로… 퇴직연금 머니무브 [550조 연금전쟁 上-②]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2614926",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "퇴직연금 어디 맡기지…3년 수익률 105% 최강자는 [이슈 플러스]",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1143490",
+          "publishedAt": "2026-08-17T18:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "은행서 증권사로… 퇴직연금 머니무브 [550조 연금전쟁 上-②]",
+        "source": "이투데이",
+        "url": "https://www.etoday.co.kr/news/view/2614926",
+        "publishedAt": "2026-08-17T18:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-17T18:40:00.000Z",
+      "firstSeenAt": "2026-08-17T21:25:31.627Z",
+      "lastSeenAt": "2026-08-17T21:25:31.627Z",
+      "title": "퇴직",
+      "source": "이투데이",
+      "url": "https://www.etoday.co.kr/news/view/2614926"
     },
     {
       "id": "2cdcbbe9534c5595",
@@ -2120,190 +2304,6 @@
       "title": "기소",
       "source": "KBS 뉴스",
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8637559"
-    },
-    {
-      "id": "c81d9ab768863b29",
-      "issueKey": "아스날",
-      "issueTitle": "아스날",
-      "trendTitle": "아스날",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "1만 회 시뮬레이션 돌린 수퍼컴퓨터, EPL 우승 0순위로 ‘이 팀’ 찍었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260816132707923",
-          "publishedAt": "2026-08-16T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'우승했다고 끝난 게 아니다' 아스날, 진짜 지옥은 이제부터...BBC \"또 에베레스트 올라야 한다\" - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/sports/football/2026/08/16/HA2GCYTEMIYGEZLFG42WKMRSG4/",
-          "publishedAt": "2026-08-16T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "골킥 5초 지연하면 상대에게 코너킥 부여… 프리미어리그, ‘시간 끌기’ 규제 대폭 강화",
-          "source": "주간동아",
-          "url": "https://weekly.donga.com/List/article/all/11/6347647/1",
-          "publishedAt": "2026-08-16T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'우승했다고 끝난 게 아니다' 아스날, 진짜 지옥은 이제부터...BBC \"또 에베레스트 올라야 한다\" - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/sports/football/2026/08/16/HA2GCYTEMIYGEZLFG42WKMRSG4/",
-        "publishedAt": "2026-08-16T14:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-16T14:00:00.000Z",
-      "firstSeenAt": "2026-08-16T15:21:09.550Z",
-      "lastSeenAt": "2026-08-16T15:21:09.550Z",
-      "title": "아스날",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/sports/football/2026/08/16/HA2GCYTEMIYGEZLFG42WKMRSG4/"
-    },
-    {
-      "id": "415dc06971f8e6e9",
-      "issueKey": "김선재",
-      "issueTitle": "김선재",
-      "trendTitle": "김선재",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260817n16022",
-          "publishedAt": "2026-08-17T16:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[FSL] '라이트', \"주변 조언이 큰 힘 됐다...승부차기도 코치님 덕분\"",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319618",
-          "publishedAt": "2026-08-17T16:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[FSL] BFX '라이트', 황제 'JM' 꺾고 '호석' 기다리는 승자조로",
-          "source": "인벤",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319617&amp;site=fifaonline4",
-          "publishedAt": "2026-08-17T16:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "황제를 넘어서다…BFX 김선재, 3대1로 KT 김정민 제압 (FSL 서머) [종합]",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260817n16022",
-        "publishedAt": "2026-08-17T16:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T16:40:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "김선재",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260817n16022"
-    },
-    {
-      "id": "8ebf0bcdb8b545c9",
-      "issueKey": "어벤져스",
-      "issueTitle": "어벤져스",
-      "trendTitle": "어벤져스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1",
-          "publishedAt": "2026-08-17T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "마블민국 명성 되찾나..로다주 복귀 '어벤져스: 둠스데이' 압도적 예고편",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/movie/2026/08/15/G4ZDOMDGG5QTGNZTG5TGMMBUME/",
-          "publishedAt": "2026-08-17T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'어벤져스'에 돌아온 로다주…'둠스데이' 절대악 등장 예고",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260815171709918",
-          "publishedAt": "2026-08-17T15:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“내가 바로 둠이다”…‘어벤져스: 둠스데이’ 예고편 공개, 거대한 전쟁의 서막",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1",
-        "publishedAt": "2026-08-17T15:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T15:30:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "어벤져스",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260817/134487331/1"
-    },
-    {
-      "id": "7cfc9a5b2099942a",
-      "issueKey": "배정남",
-      "issueTitle": "배정남",
-      "trendTitle": "황현민",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260817151609686",
-          "publishedAt": "2026-08-17T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "잼 출신 황현민, '배정남·마르코 난투극설' 재소환 왜?",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260817_0003751567",
-          "publishedAt": "2026-08-17T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "잼 출신 황현민, 뜬금 배정남 마르코 난투극 재소환 “2천만원 합의금”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12129442",
-          "publishedAt": "2026-08-17T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“배정남, 마르코에 폭행 당해 조폭 데려와” 황현민 폭로",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260817151609686",
-        "publishedAt": "2026-08-17T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-17T15:20:00.000Z",
-      "firstSeenAt": "2026-08-17T18:38:36.405Z",
-      "lastSeenAt": "2026-08-17T18:38:36.405Z",
-      "title": "배정남",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260817151609686"
     }
   ]
 }
