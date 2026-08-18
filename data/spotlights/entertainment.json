@@ -7,339 +7,473 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-18T12:44:48.054Z",
+  "lastUpdatedAt": "2026-08-18T15:31:20.373Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 7,
+  "itemCount": 10,
   "items": [
     {
-      "id": "cdd9789aea6d1e1d",
-      "issueKey": "권승우",
-      "issueTitle": "권승우",
-      "trendTitle": "권승우",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘재벌형사2’ 권승우, 살인교사범 반전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/ygnxjMSrLo",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘재벌X형사2’ 권승우, 강렬한 악역 변신",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1629088",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'재벌X형사2' 권승우, 서늘한 악역 변신으로 '눈도장'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260818n22308",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘재벌형사2’ 권승우, 살인교사범 반전",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/ygnxjMSrLo",
-        "publishedAt": "2026-08-18T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T11:40:00.000Z",
-      "firstSeenAt": "2026-08-18T12:44:48.054Z",
-      "lastSeenAt": "2026-08-18T12:44:48.054Z",
-      "title": "권승우",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/ygnxjMSrLo",
-      "rank": 1
-    },
-    {
-      "id": "5e25367738e51899",
-      "issueKey": "해고",
-      "issueTitle": "해고",
-      "trendTitle": "해고",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "여름휴가 다녀왔더니 팀이 사라졌다?…갑자기 해고할 수 있을까",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/18/2026081815063241128",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "중노위 \"즉결심판 도입은 노란봉투법 사건과 무관…공정·신뢰성 높일 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818200151197",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[우보세]\"문제가 생기면 그때 고치면 된다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/18/2026081610483622733",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여름휴가 다녀왔더니 팀이 사라졌다?…갑자기 해고할 수 있을까",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/18/2026081815063241128",
-        "publishedAt": "2026-08-18T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T11:40:00.000Z",
-      "firstSeenAt": "2026-08-18T12:44:48.054Z",
-      "lastSeenAt": "2026-08-18T12:44:48.054Z",
-      "title": "해고",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/society/2026/08/18/2026081815063241128",
-      "rank": 2
-    },
-    {
-      "id": "84b757be242bbfc0",
-      "issueKey": "ifc몰",
-      "issueTitle": "ifc몰",
-      "trendTitle": "ifc몰",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "나오자마자 ‘쾅’…테슬라 시승차 건물로 돌진 [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8639432",
-          "publishedAt": "2026-08-18T11:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[속보]여의도 IFC몰서 테슬라 시승차 충돌 사고…3명 이송",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11610208",
-          "publishedAt": "2026-08-18T11:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "주차장 나오던 테슬라 시승車, 여의도 IFC몰 간판 ‘쾅’",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260818/134497006/2",
-          "publishedAt": "2026-08-18T11:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[속보]여의도 IFC몰서 테슬라 시승차 충돌 사고…3명 이송",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11610208",
-        "publishedAt": "2026-08-18T11:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-18T11:30:00.000Z",
-      "firstSeenAt": "2026-08-18T12:44:48.054Z",
-      "lastSeenAt": "2026-08-18T12:44:48.054Z",
-      "title": "ifc몰",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11610208",
-      "rank": 3
-    },
-    {
-      "id": "d4762edc0bb4dc1c",
-      "issueKey": "이진숙",
-      "issueTitle": "이진숙",
-      "trendTitle": "이진숙",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "5·18 단체, 이진숙 의원실에 공개질의서 전달 \"의원직 사퇴하라\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6845500_36911.html",
-          "publishedAt": "2026-08-18T11:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "당 안팎 '이진숙 제명 요구' 나와도…선 긋는 국힘 지도부",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818202023711",
-          "publishedAt": "2026-08-18T11:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[기자칼럼]청산되지 않은 역사의 ‘비용’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608172007015",
-          "publishedAt": "2026-08-18T11:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "5·18 단체, 이진숙 의원실에 공개질의서 전달 \"의원직 사퇴하라\"",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6845500_36911.html",
-        "publishedAt": "2026-08-18T11:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T11:00:00.000Z",
-      "firstSeenAt": "2026-08-18T12:44:48.054Z",
-      "lastSeenAt": "2026-08-18T12:44:48.054Z",
-      "title": "이진숙",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6845500_36911.html",
-      "rank": 4
-    },
-    {
-      "id": "930f99e092002ebd",
-      "issueKey": "사형",
-      "issueTitle": "사형",
-      "trendTitle": "사형",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "검찰, '강북 모텔 연쇄살인' 김소영에 사형 구형…\"반성 안해\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818142951004",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "檢, 김소영 사형 구형…김 \"살려달라\" 피해자측 \"범행 부인 유감\"(종합)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818175250865?f=m",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "검찰, '강북 모텔 약물 살인' 김소영에 사형 구형",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6845518_36918.html",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "검찰, '강북 모텔 연쇄살인' 김소영에 사형 구형…\"반성 안해\"(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260818142951004",
-        "publishedAt": "2026-08-18T10:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T10:50:00.000Z",
-      "firstSeenAt": "2026-08-18T12:44:48.054Z",
-      "lastSeenAt": "2026-08-18T12:44:48.054Z",
-      "title": "사형",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260818142951004",
-      "rank": 5
-    },
-    {
-      "id": "6261ca17da221be5",
-      "issueKey": "사우디",
-      "issueTitle": "사우디",
-      "trendTitle": "사우디",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "사우디, 오만 앞바다서 원유 판매 제안…‘깜깜이 운항’으로 호르무즈 건넜나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818152937515",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "처음으로 수에즈 운하 통해 원유 수송 중‥해수부 \"홍해 통해 원유 수송 지속\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/econo/article/6845237_36932.html",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"사우디, 오만 연안서 환적 방식 원유 수출 타진\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818123900009",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "사우디, 오만 앞바다서 원유 판매 제안…‘깜깜이 운항’으로 호르무즈 건넜나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818152937515",
-        "publishedAt": "2026-08-18T10:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T10:50:00.000Z",
-      "firstSeenAt": "2026-08-18T12:44:48.054Z",
-      "lastSeenAt": "2026-08-18T12:44:48.054Z",
-      "title": "사우디",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260818152937515",
-      "rank": 6
-    },
-    {
-      "id": "a805a58c098172d1",
-      "issueKey": "오디세이",
-      "issueTitle": "오디세이",
-      "trendTitle": "오디세이",
+      "id": "a0a913c20ef895e1",
+      "issueKey": "서장훈",
+      "issueTitle": "서장훈",
+      "trendTitle": "서장훈",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[손택수의 문학관 편지] 인간의 길을 향해... ‘오디세이’의 항해",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260818580462",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
+          "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818153004537",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "오디세우스는 왜 그에게만 잔혹했나?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818175357904",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
+          "title": "서장훈·장예원, 생애 첫 심마니 도전…'82만 평' 산 주인 만난다 (백만장자)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515060",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "개봉 2주만에 516만… 1000만 돌파 청신호",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11610011",
-          "publishedAt": "2026-08-18T10:50:00.000Z",
+          "title": "'여의도 규모 山 주인' 박정희, \"눈에 보이는 건 다 내 땅\" (이웃집 백만장자) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/18/G4ZDIYZWMZSDQOBUHBSDANJUMQ/",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[손택수의 문학관 편지] 인간의 길을 향해... ‘오디세이’의 항해",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260818580462",
-        "publishedAt": "2026-08-18T10:50:00.000Z",
+        "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818153004537",
+        "publishedAt": "2026-08-18T14:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-18T10:50:00.000Z",
-      "firstSeenAt": "2026-08-18T12:44:48.054Z",
-      "lastSeenAt": "2026-08-18T12:44:48.054Z",
-      "title": "오디세이",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260818580462",
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "서장훈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260818153004537",
+      "rank": 1
+    },
+    {
+      "id": "12054871fb7df697",
+      "issueKey": "mathilde favier",
+      "issueTitle": "mathilde favier",
+      "trendTitle": "mathilde favier",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Un des producteurs d'OSS 117 et une figure de Dior meurent dans un accident à Airvault près de Thouars",
+          "source": "ici.fr",
+          "url": "https://www.ici.fr/nouvelle-aquitaine/deux-sevres-79/airvault/le-producteur-d-oss-117-et-une-grande-responsable-chez-dior-meurt-dans-un-accident-a-airvault-pres-de-thouars-3976463",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Nicolas Altmayer, producteur d’OSS 117, et une figure de Dior, Mathilde Favier, sont morts dans un accident de la route",
+          "source": "Le Figaro",
+          "url": "https://www.lefigaro.fr/cinema/nicolas-altmayer-producteur-d-oss-117-et-une-figure-de-dior-mathilde-favier-sont-morts-dans-un-accident-de-la-route-20260818",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Anouchka Delon, Xavier Dolan, Léna Mahfouf… Les stars sous le choc après le décès brutal de Mathilde Favier",
+          "source": "Yahoo Actualités",
+          "url": "https://fr.news.yahoo.com/anouchka-delon-xavier-dolan-lena-mahfouf-les-stars-sous-le-choc-apres-le-deces-brutal-de-mathilde-favier-125833003.html",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Nicolas Altmayer, producteur d’OSS 117, et une figure de Dior, Mathilde Favier, sont morts dans un accident de la route",
+        "source": "Le Figaro",
+        "url": "https://www.lefigaro.fr/cinema/nicolas-altmayer-producteur-d-oss-117-et-une-figure-de-dior-mathilde-favier-sont-morts-dans-un-accident-de-la-route-20260818",
+        "publishedAt": "2026-08-18T14:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "mathilde favier",
+      "source": "Le Figaro",
+      "url": "https://www.lefigaro.fr/cinema/nicolas-altmayer-producteur-d-oss-117-et-une-figure-de-dior-mathilde-favier-sont-morts-dans-un-accident-de-la-route-20260818",
+      "rank": 2
+    },
+    {
+      "id": "8a500678bba19a3b",
+      "issueKey": "싱가포르",
+      "issueTitle": "싱가포르",
+      "trendTitle": "싱가포르",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "태국 대 싱가포르 준결승전 생중계 0-1 (전반전 종료): 골!!! 싱가포르가 선제골을 터뜨렸습니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/truc-tiep-ban-ket-thai-lan-vs-singapore-0-1-het-h1-vao-singapore-mo-ty-so",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "오늘(8월 18일) 열리는 2026 아세안컵 생중계를 시청할 수 있는 링크입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/link-xem-truc-tiep-asean-cup-2026-hom-nay-18-8",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "태국 축구협회 회장이 2026 AFF컵 준결승 2차전을 앞두고 중대한 결정을 내렸다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/sep-lon-thai-lan-choi-lon-truoc-tran-ban-ket-luot-ve-aff-cup-2026",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "태국 대 싱가포르 준결승전 생중계 0-1 (전반전 종료): 골!!! 싱가포르가 선제골을 터뜨렸습니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/truc-tiep-ban-ket-thai-lan-vs-singapore-0-1-het-h1-vao-singapore-mo-ty-so",
+        "publishedAt": "2026-08-18T14:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "싱가포르",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/truc-tiep-ban-ket-thai-lan-vs-singapore-0-1-het-h1-vao-singapore-mo-ty-so",
+      "rank": 3
+    },
+    {
+      "id": "5fb2ab76ed9bda03",
+      "issueKey": "enc",
+      "issueTitle": "enc",
+      "trendTitle": "enc",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Esports Nations Cup delayed to 2027 as Iran conflict continues",
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cr7kdp2edk0o",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "ENC 2026 Allows Only One Sleeve Sponsor per Team",
+          "source": "Skin.Club Community",
+          "url": "https://community.skin.club/en/news/enc-2026-allows-only-one-sleeve-sponsor-per-team",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Esports Nations Cup explains jersey sponsorships, revenue sharing and adidas partnership",
+          "source": "Sheep Esports",
+          "url": "https://www.sheepesports.com/en/all/articles/esports-nations-cup-explains-jersey-sponsorships-revenue-sharing-and-adidas-partnership/en",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "ENC 2026 Allows Only One Sleeve Sponsor per Team",
+        "source": "Skin.Club Community",
+        "url": "https://community.skin.club/en/news/enc-2026-allows-only-one-sleeve-sponsor-per-team",
+        "publishedAt": "2026-08-18T14:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "enc",
+      "source": "Skin.Club Community",
+      "url": "https://community.skin.club/en/news/enc-2026-allows-only-one-sleeve-sponsor-per-team",
+      "rank": 4
+    },
+    {
+      "id": "34757e2a62b2a811",
+      "issueKey": "크보",
+      "issueTitle": "크보",
+      "trendTitle": "크보",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 2,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "Choi Hyoung-woo Becomes First in KBO History to Reach 2,700 Hits",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/08/18/choi-hyoung-woo-becomes-first-in-kbo-history-to-reach-2700",
+          "publishedAt": "2026-08-18T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Samsung's Choi Hyoung-woo Becomes First to Reach 2,700 Hits in KBO",
+          "source": "Seoul Economic Daily",
+          "url": "https://en.sedaily.com/sports/2026/08/18/samsungs-choi-hyoung-woo-becomes-first-to-reach-2700-hits",
+          "publishedAt": "2026-08-18T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "크보",
+        "source": "Seoul Economic Daily",
+        "url": "https://en.sedaily.com/sports/2026/08/18/choi-hyoung-woo-becomes-first-in-kbo-history-to-reach-2700",
+        "publishedAt": "2026-08-18T13:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-18T13:30:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "크보",
+      "source": "Seoul Economic Daily",
+      "url": "https://en.sedaily.com/sports/2026/08/18/choi-hyoung-woo-becomes-first-in-kbo-history-to-reach-2700",
+      "rank": 5
+    },
+    {
+      "id": "48d526bb78ef4263",
+      "issueKey": "삼성라이온즈",
+      "issueTitle": "삼성라이온즈",
+      "trendTitle": "삼성라이온즈",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'라이온즈 vs 랜더스' 스포츠토토, 18~19일 대구 삼성-SSG전서 현장 프로모션 개시",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260818n22074",
+          "publishedAt": "2026-08-18T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"야구도 보고 토토도 체험\"…대구 '라팍'서 스포츠토토 현장 프로모션",
+          "source": "더팩트",
+          "url": "https://news.tf.co.kr/read/toto/2354962.htm",
+          "publishedAt": "2026-08-18T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/18/202608181248770547O",
+          "publishedAt": "2026-08-18T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "스포츠토토, 18~19일 대구 삼성라이온즈파크서 현장 프로모션 진행",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/18/202608181248770547O",
+        "publishedAt": "2026-08-18T13:30:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-08-18T13:30:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "삼성라이온즈",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/sports/2026/08/18/202608181248770547O",
+      "rank": 6
+    },
+    {
+      "id": "0a06a1ba1c53a4b4",
+      "issueKey": "두산",
+      "issueTitle": "두산",
+      "trendTitle": "두산",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[프로야구 창원전적] 두산 6-4 NC",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260818172000007",
+          "publishedAt": "2026-08-18T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘와 이런 경기가’ 0:3→1:3→2:3→3:3→6:3→6:4…솔로포+밀어내기 볼넷, 152억 포수 친정 제대로 울렸다 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/sports/baseball/2026/08/19/HEZWEY3BGI2TOYTFHEYTQYZWGQ/",
+          "publishedAt": "2026-08-18T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[AI상보] '양의지+정수빈 4타점 합작' 두산, NC에 짜릿한 역전승",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260818001293",
+          "publishedAt": "2026-08-18T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[프로야구 창원전적] 두산 6-4 NC",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260818172000007",
+        "publishedAt": "2026-08-18T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-18T13:30:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "두산",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260818172000007",
       "rank": 7
+    },
+    {
+      "id": "d04837f35175998c",
+      "issueKey": "이용대",
+      "issueTitle": "이용대",
+      "trendTitle": "이용대",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'이용대와 열애설' 윤채경 \"믿었던 사람한테 뒤통수 제대로 맞아\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/pit3p8Ocj0",
+          "publishedAt": "2026-08-18T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘이용대 열애설’ 윤채경 “바람 절대 용서하면 안돼” 의미심장 저격",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608181157003",
+          "publishedAt": "2026-08-18T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "윤채경 “제일 믿었던 사람한테 뒤통수”…저격글 남겼다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10843825",
+          "publishedAt": "2026-08-18T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'이용대와 열애설' 윤채경 \"믿었던 사람한테 뒤통수 제대로 맞아\"",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/pit3p8Ocj0",
+        "publishedAt": "2026-08-18T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-18T13:20:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "이용대",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/pit3p8Ocj0",
+      "rank": 8
+    },
+    {
+      "id": "41cc152b79d16927",
+      "issueKey": "올러",
+      "issueTitle": "올러",
+      "trendTitle": "올러",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[스포츠7] ‘위닝시리즈’ KIA, ‘1경기 차’ 4위…3위 맹추격",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818201818652",
+          "publishedAt": "2026-08-18T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "두산 제친 KIA, 나흘 만에 4위 탈환…올러, 시즌 11승 '다승 선두'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260817003500038",
+          "publishedAt": "2026-08-18T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "폭염방학이 보약이었다...'다승선두' 올러, 나흘간격 6이닝→7이닝 먹방하고도 \"8회도 나가고 싶었다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/08/17/MI4DAZLFGVTDGMZTMJQWGMZTGA/",
+          "publishedAt": "2026-08-18T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "두산 제친 KIA, 나흘 만에 4위 탈환…올러, 시즌 11승 '다승 선두'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/MYH20260817003500038",
+        "publishedAt": "2026-08-18T13:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-18T13:10:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "올러",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/MYH20260817003500038",
+      "rank": 9
+    },
+    {
+      "id": "724ad20bee8ddcde",
+      "issueKey": "ไทย พบ ส งคโปร",
+      "issueTitle": "ไทย พบ สิงคโปร์",
+      "trendTitle": "ไทย พบ สิงคโปร์",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "LIVE ดูบอลสด ทีมชาติไทย พบ สิงคโปร์ บอลไทยวันนี้ (18 ส.ค.) 20.00 น. อาเซียน คัพ 2026 รอบรอง นัด 2",
+          "source": "Thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2951586",
+          "publishedAt": "2026-08-18T12:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "ความขัดแย้งในศึกอาเซียนคัพ 2026: มีเวลาพัก 8 วันก่อนรอบรองชนะเลิศ แต่มีเวลาพักเพียง 2 วันสำหรับนัดที่สอง",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/nghich-ly-tai-asean-cup-2026-nghi-8-ngay-truoc-ban-ket-chi-nghi-2-ngay-da-luot-ve",
+          "publishedAt": "2026-08-18T12:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "แพ้คาบ้าน!'ช้างศึก'กร่อยพ่ายลอดช่อง1-2แต่ยังเข้าชิงอาเซียนคัพ",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/n/sports/11584/",
+          "publishedAt": "2026-08-18T12:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "LIVE ดูบอลสด ทีมชาติไทย พบ สิงคโปร์ บอลไทยวันนี้ (18 ส.ค.) 20.00 น. อาเซียน คัพ 2026 รอบรอง นัด 2",
+        "source": "Thairath.co.th",
+        "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2951586",
+        "publishedAt": "2026-08-18T12:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-18T12:50:00.000Z",
+      "firstSeenAt": "2026-08-18T15:31:20.373Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "ไทย พบ สิงคโปร์",
+      "source": "Thairath.co.th",
+      "url": "https://www.thairath.co.th/sport/thaifootball/changsuek/2951586",
+      "rank": 10
     }
   ],
   "history": [
@@ -540,6 +674,52 @@
       "title": "호날두",
       "source": "문화일보",
       "url": "https://www.munhwa.com/article/11609844"
+    },
+    {
+      "id": "a0a913c20ef895e1",
+      "issueKey": "서장훈",
+      "issueTitle": "서장훈",
+      "trendTitle": "서장훈",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260818153004537",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "서장훈·장예원, 생애 첫 심마니 도전…'82만 평' 산 주인 만난다 (백만장자)",
+          "source": "iMBC 연예",
+          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515060",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'여의도 규모 山 주인' 박정희, \"눈에 보이는 건 다 내 땅\" (이웃집 백만장자) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/18/G4ZDIYZWMZSDQOBUHBSDANJUMQ/",
+          "publishedAt": "2026-08-18T14:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260818153004537",
+        "publishedAt": "2026-08-18T14:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-18T14:00:00.000Z",
+      "firstSeenAt": "2026-08-18T09:32:36.271Z",
+      "lastSeenAt": "2026-08-18T15:31:20.373Z",
+      "title": "서장훈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260818153004537"
     },
     {
       "id": "a805a58c098172d1",
@@ -1092,52 +1272,6 @@
       "title": "손봉기",
       "source": "경향신문",
       "url": "https://www.khan.co.kr/article/202608181624001"
-    },
-    {
-      "id": "a0a913c20ef895e1",
-      "issueKey": "서장훈",
-      "issueTitle": "서장훈",
-      "trendTitle": "서장훈",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818153004537",
-          "publishedAt": "2026-08-18T07:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서장훈·장예원, 생애 첫 심마니 도전…'82만 평' 산 주인 만난다 (백만장자)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515060",
-          "publishedAt": "2026-08-18T07:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'여의도 규모 山 주인' 박정희, \"눈에 보이는 건 다 내 땅\" (이웃집 백만장자) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/08/18/G4ZDIYZWMZSDQOBUHBSDANJUMQ/",
-          "publishedAt": "2026-08-18T07:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서장훈, 생애 첫 심마니 도전…40만원대 산양삼 직접 캤다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818153004537",
-        "publishedAt": "2026-08-18T07:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T07:50:00.000Z",
-      "firstSeenAt": "2026-08-18T09:32:36.271Z",
-      "lastSeenAt": "2026-08-18T09:32:36.271Z",
-      "title": "서장훈",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260818153004537"
     },
     {
       "id": "4320bf6d41225ab8",
