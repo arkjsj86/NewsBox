@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-19T12:45:56.276Z",
+  "lastUpdatedAt": "2026-08-19T15:30:42.404Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "e72f27b4b2eeeaf6",
-      "issueKey": "pakistan vs england",
-      "issueTitle": "pakistan vs england",
-      "trendTitle": "pakistan vs england",
+      "id": "a4fe98b7a79f0ee0",
+      "issueKey": "김용빈",
+      "issueTitle": "김용빈",
+      "trendTitle": "김용빈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김용빈, 남승민 금고 발견 후 깜짝…생각지도 못한 귀중품에 울컥 (편스토랑) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/19/G5STENDDHA3GIYJUMZRDAYRWGM/",
+          "publishedAt": "2026-08-19T14:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김용빈, 남승민 자취방 샅샅이 뒤졌다…금고 속 물건에 ‘깜짝’(편스토랑)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819151449121",
+          "publishedAt": "2026-08-19T14:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'편스토랑' 김용빈, '미스터트롯3' 탑7과 남승민 자취방 습격 예고",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/301203",
+          "publishedAt": "2026-08-19T14:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김용빈, 남승민 금고 발견 후 깜짝…생각지도 못한 귀중품에 울컥 (편스토랑) - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/tv/2026/08/19/G5STENDDHA3GIYJUMZRDAYRWGM/",
+        "publishedAt": "2026-08-19T14:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T14:20:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "김용빈",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/entertainment/tv/2026/08/19/G5STENDDHA3GIYJUMZRDAYRWGM/",
+      "rank": 1
+    },
+    {
+      "id": "861f1150ae9f1c7d",
+      "issueKey": "오싹한 연애",
+      "issueTitle": "오싹한 연애",
+      "trendTitle": "오싹한 연애",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박은빈, '천여리' 벗고 러블리 매력 발산…'오싹한 연애' 비하인드 공개",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260819000459",
+          "publishedAt": "2026-08-19T14:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "영화에서 드라마·웹툰까지…15년 된 IP 가 사랑받는 이유는?",
+          "source": "CJ 뉴스룸",
+          "url": "https://cjnews.cj.net/%EC%98%81%ED%99%94%EC%97%90%EC%84%9C-%EB%93%9C%EB%9D%BC%EB%A7%88%C2%B7%EC%9B%B9%ED%88%B0%EA%B9%8C%EC%A7%8015%EB%85%84-%EB%90%9C-ip-%EC%98%A4%EC%8B%B9%ED%95%9C-%EC%97%B0%EC%95%A0/",
+          "publishedAt": "2026-08-19T14:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘오싹한 연애’ 양세종, 장르 넘나드는 변신형 필모",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819104009950",
+          "publishedAt": "2026-08-19T14:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박은빈, '천여리' 벗고 러블리 매력 발산…'오싹한 연애' 비하인드 공개",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20260819000459",
+        "publishedAt": "2026-08-19T14:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T14:00:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "오싹한 연애",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20260819000459",
+      "rank": 2
+    },
+    {
+      "id": "57a4092479e84d52",
+      "issueKey": "연애",
+      "issueTitle": "연애",
+      "trendTitle": "연애",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "기안84 \"호기심에 참여\"…AI와 데이트 '기이한 연애'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819080908305",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "장도연 '나의 AI 파트너-기이안 연애'에서 만나요",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260818113500013",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "SBS, 기안84와 연프·AI 결합한 실험 예능 내놓는다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752947",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기안84 \"호기심에 참여\"…AI와 데이트 '기이한 연애'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819080908305",
+        "publishedAt": "2026-08-19T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T13:50:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "연애",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260819080908305",
+      "rank": 3
+    },
+    {
+      "id": "31cba515fa1b2606",
+      "issueKey": "김윤덕",
+      "issueTitle": "김윤덕",
+      "trendTitle": "김윤덕",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "靑, 오세훈 \"용산공원 사수\"에 \"오해…오염된 자투리땅에 청년주택\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819212042980",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“용산공원 전체 검토”라는데…주택 공급 어디 가능?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641065",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "용산어린이정원에 이어 옛 방사청 부지… 용산공원 '집 지을 땅' 따져보니",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/estate/2026/08/19/2026081910005397065",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김윤덕",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819212042980",
+        "publishedAt": "2026-08-19T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T13:50:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "김윤덕",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260819212042980",
+      "rank": 4
+    },
+    {
+      "id": "b3cac10821d88086",
+      "issueKey": "trực tiếp bóng đá việt nam",
+      "issueTitle": "trực tiếp bóng đá việt nam",
+      "trendTitle": "trực tiếp bóng đá việt nam",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kết quả bóng đá Việt Nam vs Malaysia - Bán kết lượt về ASEAN Cup",
+          "source": "Báo VietNamNet",
+          "url": "https://vietnamnet.vn/ket-qua-bong-da-viet-nam-vs-malaysia-ban-ket-luot-ve-asean-cup-2546786.html",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Hai thái cực trái ngược ở họp báo trước trận Việt Nam - Malaysia",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/hai-thai-cuc-trai-nguoc-o-hop-bao-truoc-tran-viet-nam-malaysia-5110392.html",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Khoảnh khắc ăn mừng ngạo nghễ của Xuân Son, Son đúng là \"cơn ác mộng\" của tuyển Malaysia",
+          "source": "Kenh14.vn",
+          "url": "https://kenh14.vn/khoanh-khac-an-mung-ngao-nghe-cua-xuan-son-son-dung-la-con-ac-mong-cua-tuyen-malaysia-215260819214830377.chn",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "trực tiếp bóng đá việt nam",
+        "source": "Báo VietNamNet",
+        "url": "https://vietnamnet.vn/ket-qua-bong-da-viet-nam-vs-malaysia-ban-ket-luot-ve-asean-cup-2546786.html",
+        "publishedAt": "2026-08-19T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T13:50:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "trực tiếp bóng đá việt nam",
+      "source": "Báo VietNamNet",
+      "url": "https://vietnamnet.vn/ket-qua-bong-da-viet-nam-vs-malaysia-ban-ket-luot-ve-asean-cup-2546786.html",
+      "rank": 5
+    },
+    {
+      "id": "2a0d9757ce8c1508",
+      "issueKey": "건조",
+      "issueTitle": "건조",
+      "trendTitle": "건조",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[포토타임] 설계는 HD현대중공업·건조는 페루…‘침보테함’ 진수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819145549074",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘완제품 인도’서 첫 해외 공동건조로…K함정 수출 공식 바꾼 HD현대重",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20081008?ref=sedailyEng",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "HD현대중공업, 페루 신형 상륙지원함 1번함 '침보테함' 진수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260819081900003",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[포토타임] 설계는 HD현대중공업·건조는 페루…‘침보테함’ 진수",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819145549074",
+        "publishedAt": "2026-08-19T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T13:50:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "건조",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260819145549074",
+      "rank": 6
+    },
+    {
+      "id": "494bd877e154f2e4",
+      "issueKey": "서승재",
+      "issueTitle": "서승재",
+      "trendTitle": "서승재",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "England enter post-Bazball era against forever-in-turmoil Pakistan",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/series/pakistan-tour-in-england-2026-1496563/england-vs-pakistan-1st-test-1496582/match-preview",
-          "publishedAt": "2026-08-19T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Robinson double rocks Pakistan in first Test before rain stops play",
-          "source": "RFI",
-          "url": "https://www.rfi.fr/en/sports/20260819-robinson-double-rocks-pakistan-in-first-test-before-rain-stops-play",
-          "publishedAt": "2026-08-19T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "England v Pakistan: first men’s cricket Test, day one – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/aug/19/england-v-pakistan-first-mens-cricket-test-day-one-live?page=with:block-6a856b7a8f08ca724d3b70e2",
-          "publishedAt": "2026-08-19T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "pakistan vs england",
-        "source": "Cricinfo",
-        "url": "https://www.cricinfo.com/series/pakistan-tour-in-england-2026-1496563/england-vs-pakistan-1st-test-1496582/match-preview",
-        "publishedAt": "2026-08-19T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-19T11:40:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "pakistan vs england",
-      "source": "Cricinfo",
-      "url": "https://www.cricinfo.com/series/pakistan-tour-in-england-2026-1496563/england-vs-pakistan-1st-test-1496582/match-preview",
-      "rank": 1
-    },
-    {
-      "id": "7c3bf7bf31cbc94c",
-      "issueKey": "로봇",
-      "issueTitle": "로봇",
-      "trendTitle": "로봇",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "中 높이뛰기 우승 로봇, 산업현장에… 시간당 택배 1200개 분류",
+          "title": "셔틀콕 '세계 1위' 서승재·김원호, 세계선수권 2연패 시동",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260819043610254",
-          "publishedAt": "2026-08-19T11:30:00.000Z",
+          "url": "https://v.daum.net/v/V5dAOzjJG9",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[르포] 걷고 춤추던 로봇, 산업현장 주인공으로…中로봇 '쓸모경쟁'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819164000083",
-          "publishedAt": "2026-08-19T11:30:00.000Z",
+          "title": "서승재-김원호, 세계선수권 2연패 첫발…16강 진출",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260820000129d2a",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "탁구·요리·택배도 사람 이긴 中 휴머노이드, 베이징 총출동[영상]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/08/19/2026081915483193812",
-          "publishedAt": "2026-08-19T11:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "中 높이뛰기 우승 로봇, 산업현장에… 시간당 택배 1200개 분류",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819043610254",
-        "publishedAt": "2026-08-19T11:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-19T11:30:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "로봇",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260819043610254",
-      "rank": 2
-    },
-    {
-      "id": "182d2f97e9825c56",
-      "issueKey": "의료",
-      "issueTitle": "의료",
-      "trendTitle": "의료",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"엑스레이로 골다공증 찾고, 반지로 혈압 측정\"…AI와 헬스케어의 만남",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819180251337",
-          "publishedAt": "2026-08-19T11:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "2026 국제 병원의료산업 박람회",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8062723",
-          "publishedAt": "2026-08-19T11:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "대웅제약, 디지털 헬스케어 솔루션 ‘대웅 얼라이언스’ 공개",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/News/Read?newsId=03037286645548960",
-          "publishedAt": "2026-08-19T11:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "2026 국제 병원의료산업 박람회",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/photos/8062723",
-        "publishedAt": "2026-08-19T11:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-19T11:30:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "의료",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/photos/8062723",
-      "rank": 3
-    },
-    {
-      "id": "269b1e0f51d4c607",
-      "issueKey": "블랙핑크 제니",
-      "issueTitle": "블랙핑크 제니",
-      "trendTitle": "블랙핑크 제니",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870",
-          "publishedAt": "2026-08-19T11:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[전문] 블랙핑크 제니, 결국 법적 대응…“악의적 편집, 선처 없다”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608182140003",
-          "publishedAt": "2026-08-19T11:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "블랙핑크 제니, 노출 사고 영상 확산에 법적 대응 “선처 없다”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12130583",
-          "publishedAt": "2026-08-19T11:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[잇슈 컬처] 블랙핑크 제니 노출 사고? 일본 축제 무대서 ‘곤욕’",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870",
-        "publishedAt": "2026-08-19T11:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-19T11:20:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "블랙핑크 제니",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8638870",
-      "rank": 4
-    },
-    {
-      "id": "cf90655916f7e970",
-      "issueKey": "온라인 화제성",
-      "issueTitle": "온라인 화제성",
-      "trendTitle": "야구여왕",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'야구여왕2' 온라인 화제성·오프라인 직관까지…팬심↑",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819081950543",
-          "publishedAt": "2026-08-19T11:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "추신수도 긴장한 대만 에이스 등장…“상대했던 어떤 투수보다 압도적” (야구여왕2)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260819/134503222/1",
-          "publishedAt": "2026-08-19T11:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘야구여왕2’ 인기 쑥쑥…직관 이벤트 대박!",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608180741003",
-          "publishedAt": "2026-08-19T11:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'야구여왕2' 온라인 화제성·오프라인 직관까지…팬심↑",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819081950543",
-        "publishedAt": "2026-08-19T11:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-19T11:10:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "온라인 화제성",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260819081950543",
-      "rank": 5
-    },
-    {
-      "id": "87483de8e70fb301",
-      "issueKey": "모더나",
-      "issueTitle": "모더나",
-      "trendTitle": "모더나",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "머크, 모더나와 공동 개발한 mRNA 암 치료제 3상 임상 성공… 흑색종 재발 방지 효과 입증",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1144938",
-          "publishedAt": "2026-08-19T11:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Merck 주가 오늘 급등하는 이유",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-93CH-2067437",
-          "publishedAt": "2026-08-19T11:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "mRNA 암 백신 시대 열리나…모더나·머크, 후기 임상 첫 성공",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05277526645548960&amp;mediaCodeNo=257",
-          "publishedAt": "2026-08-19T11:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "머크, 모더나와 공동 개발한 mRNA 암 치료제 3상 임상 성공… 흑색종 재발 방지 효과 입증",
-        "source": "매일경제 마켓",
-        "url": "https://stock.mk.co.kr/news/view/1144938",
-        "publishedAt": "2026-08-19T11:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-19T11:00:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "모더나",
-      "source": "매일경제 마켓",
-      "url": "https://stock.mk.co.kr/news/view/1144938",
-      "rank": 6
-    },
-    {
-      "id": "b86135be4c7917ae",
-      "issueKey": "윤석열",
-      "issueTitle": "윤석열",
-      "trendTitle": "윤석열",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보] 특검, '계엄 관련 위증' 尹 2심서 벌금 1천만원 구형",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819142651583",
-          "publishedAt": "2026-08-19T11:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'내란 '특검, '한덕수 재판 위증' 윤석열 2심 벌금 1천만 원 구형",
+          "title": "배드민턴 남자복식 서승재·김원호, 세계선수권 1회전 통과",
           "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6845785_36918.html",
-          "publishedAt": "2026-08-19T11:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'1심 무죄' 尹 위증혐의 2심 내달 16일 선고…벌금 1천만원 구형(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260819111851004",
-          "publishedAt": "2026-08-19T11:00:00.000Z",
+          "url": "https://imnews.imbc.com/news/2026/sports/article/6845791_36946.html",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'내란 '특검, '한덕수 재판 위증' 윤석열 2심 벌금 1천만 원 구형",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6845785_36918.html",
-        "publishedAt": "2026-08-19T11:00:00.000Z",
-        "relevanceScore": 2
+        "title": "셔틀콕 '세계 1위' 서승재·김원호, 세계선수권 2연패 시동",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/V5dAOzjJG9",
+        "publishedAt": "2026-08-19T13:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-08-19T11:00:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "윤석열",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6845785_36918.html",
+      "publishedAt": "2026-08-19T13:50:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "서승재",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/V5dAOzjJG9",
       "rank": 7
     },
     {
-      "id": "6af13be88bc2b21f",
-      "issueKey": "활주로",
-      "issueTitle": "활주로",
-      "trendTitle": "활주로",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "긴급발진 마치고 착륙하다 ‘휘청’…일본 F-15 날개 활주로에 닿아 [현장영상]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819142413452",
-          "publishedAt": "2026-08-19T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "日오키나와 나하공항 활주로서 자위대 F-15 긴급착륙…활주로 폐쇄",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752850",
-          "publishedAt": "2026-08-19T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "자위대 전투기 日 오키나와 나하공항에 긴급착륙…활주로 폐쇄 [KDF TOUR]",
-          "source": "한국면세뉴스",
-          "url": "https://www.kdfnews.com/news/articleView.html?idxno=186730",
-          "publishedAt": "2026-08-19T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "긴급발진 마치고 착륙하다 ‘휘청’…일본 F-15 날개 활주로에 닿아 [현장영상]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819142413452",
-        "publishedAt": "2026-08-19T10:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-19T10:50:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "활주로",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260819142413452",
-      "rank": 8
-    },
-    {
-      "id": "6a28b6281763e210",
-      "issueKey": "티켓링크",
-      "issueTitle": "티켓링크",
-      "trendTitle": "티켓링크",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "NHN링크, 뮤지컬 ‘드라큘라’ 전관 행사 실시…‘링크스페셜데이’ 12번째 무대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GXoeeEpXCB",
-          "publishedAt": "2026-08-19T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[노규민의 현장感] 김준수, 잔망미로 달랜 비극...무대 예술의 결정체 '드라큘라'",
-          "source": "뉴스컬처",
-          "url": "https://www.nc.press/news/articleView.html?idxno=623671",
-          "publishedAt": "2026-08-19T10:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[표권향의 컬처판타지아] 한 남자의 400년 순애보…뮤지컬 ‘드라큘라’, 죽음도 막지 못한 불멸의 사랑",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1627838",
-          "publishedAt": "2026-08-19T10:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "티켓링크",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/GXoeeEpXCB",
-        "publishedAt": "2026-08-19T10:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-19T10:40:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "티켓링크",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/GXoeeEpXCB",
-      "rank": 9
-    },
-    {
-      "id": "4d8589c5fcfeb2c6",
-      "issueKey": "위성이 나타났다",
-      "issueTitle": "위성이 나타났다",
-      "trendTitle": "위성",
+      "id": "dfe6e0b8b89dc5df",
+      "issueKey": "moderna stock",
+      "issueTitle": "moderna stock",
+      "trendTitle": "moderna stock",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“난 GPS 필요없거든” 남들과 다른 위성이 나타났다···인류 달·화성 진출 청신호",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608191301001",
-          "publishedAt": "2026-08-19T10:40:00.000Z",
+          "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+          "publishedAt": "2026-08-19T13:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[영상] '중국판 스타링크' 속도 낸다…24번째 저궤도 위성군 발사 성공",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/MYH20260818018000704",
-          "publishedAt": "2026-08-19T10:40:00.000Z",
+          "title": "Moderna, Merck mRNA cancer vaccine prevents melanoma from returning",
+          "source": "The Hill",
+          "url": "https://thehill.com/policy/healthcare/6038285-merck-moderna-melanoma-vaccine-success/",
+          "publishedAt": "2026-08-19T13:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘중국판 스타링크’ 24번째 위성군 쏘아 올려...“고빈도 발사 능력 입증”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819180037236",
-          "publishedAt": "2026-08-19T10:40:00.000Z",
+          "title": "Moderna and Merck say mRNA cancer vaccine succeeded in late-stage melanoma trial",
+          "source": "STAT",
+          "url": "https://www.statnews.com/2026/08/19/mrna-cancer-vaccine-trial-melanoma-merck-moderna/",
+          "publishedAt": "2026-08-19T13:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“난 GPS 필요없거든” 남들과 다른 위성이 나타났다···인류 달·화성 진출 청신호",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608191301001",
-        "publishedAt": "2026-08-19T10:40:00.000Z",
+        "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 90%",
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+        "publishedAt": "2026-08-19T13:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-19T10:40:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "위성이 나타났다",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608191301001",
-      "rank": 10
+      "publishedAt": "2026-08-19T13:40:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "moderna stock",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+      "rank": 8
+    },
+    {
+      "id": "a73ac2fa81a0c3e4",
+      "issueKey": "kbo",
+      "issueTitle": "kbo",
+      "trendTitle": "kbo",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "KBO funeral chair Kim So-sik honors late manager Baek In-cheon - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/19/L2ZZ2OXD4VDRTDQ5D5NJXEQJD4/",
+          "publishedAt": "2026-08-19T13:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "The Immortal .400 Hitter Who Led a Lineup Full of Opportunities and Exciting Baseball [Lee Jong-seong's Sports Culture & Industry]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/en/sports/2026/08/19/2026081817190244625",
+          "publishedAt": "2026-08-19T13:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Sole .400 hitter in S. Korean baseball history in critical condition",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/PYH20260814022600315",
+          "publishedAt": "2026-08-19T13:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "KBO funeral chair Kim So-sik honors late manager Baek In-cheon - CHOSUNBIZ",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/08/19/L2ZZ2OXD4VDRTDQ5D5NJXEQJD4/",
+        "publishedAt": "2026-08-19T13:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T13:40:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "kbo",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-sports/2026/08/19/L2ZZ2OXD4VDRTDQ5D5NJXEQJD4/",
+      "rank": 9
     }
   ],
   "history": [
@@ -674,6 +627,52 @@
       "title": "서장훈",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260818153004537"
+    },
+    {
+      "id": "57a4092479e84d52",
+      "issueKey": "연애",
+      "issueTitle": "연애",
+      "trendTitle": "연애",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "기안84 \"호기심에 참여\"…AI와 데이트 '기이한 연애'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819080908305",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "장도연 '나의 AI 파트너-기이안 연애'에서 만나요",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/PYH20260818113500013",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "SBS, 기안84와 연프·AI 결합한 실험 예능 내놓는다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260818_0003752947",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기안84 \"호기심에 참여\"…AI와 데이트 '기이한 연애'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819080908305",
+        "publishedAt": "2026-08-19T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T13:50:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "연애",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260819080908305"
     },
     {
       "id": "ec250e7163b00834",
@@ -1847,6 +1846,144 @@
       "url": "https://www.yna.co.kr/view/AKR20260819119900007"
     },
     {
+      "id": "a4fe98b7a79f0ee0",
+      "issueKey": "김용빈",
+      "issueTitle": "김용빈",
+      "trendTitle": "김용빈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김용빈, 남승민 금고 발견 후 깜짝…생각지도 못한 귀중품에 울컥 (편스토랑) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/08/19/G5STENDDHA3GIYJUMZRDAYRWGM/",
+          "publishedAt": "2026-08-19T14:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김용빈, 남승민 자취방 샅샅이 뒤졌다…금고 속 물건에 ‘깜짝’(편스토랑)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819151449121",
+          "publishedAt": "2026-08-19T14:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'편스토랑' 김용빈, '미스터트롯3' 탑7과 남승민 자취방 습격 예고",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/301203",
+          "publishedAt": "2026-08-19T14:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김용빈, 남승민 금고 발견 후 깜짝…생각지도 못한 귀중품에 울컥 (편스토랑) - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/tv/2026/08/19/G5STENDDHA3GIYJUMZRDAYRWGM/",
+        "publishedAt": "2026-08-19T14:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T14:20:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "김용빈",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/entertainment/tv/2026/08/19/G5STENDDHA3GIYJUMZRDAYRWGM/"
+    },
+    {
+      "id": "b3cac10821d88086",
+      "issueKey": "trực tiếp bóng đá việt nam",
+      "issueTitle": "trực tiếp bóng đá việt nam",
+      "trendTitle": "trực tiếp bóng đá việt nam",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kết quả bóng đá Việt Nam vs Malaysia - Bán kết lượt về ASEAN Cup",
+          "source": "Báo VietNamNet",
+          "url": "https://vietnamnet.vn/ket-qua-bong-da-viet-nam-vs-malaysia-ban-ket-luot-ve-asean-cup-2546786.html",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Hai thái cực trái ngược ở họp báo trước trận Việt Nam - Malaysia",
+          "source": "VnExpress",
+          "url": "https://vnexpress.net/hai-thai-cuc-trai-nguoc-o-hop-bao-truoc-tran-viet-nam-malaysia-5110392.html",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Khoảnh khắc ăn mừng ngạo nghễ của Xuân Son, Son đúng là \"cơn ác mộng\" của tuyển Malaysia",
+          "source": "Kenh14.vn",
+          "url": "https://kenh14.vn/khoanh-khac-an-mung-ngao-nghe-cua-xuan-son-son-dung-la-con-ac-mong-cua-tuyen-malaysia-215260819214830377.chn",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "trực tiếp bóng đá việt nam",
+        "source": "Báo VietNamNet",
+        "url": "https://vietnamnet.vn/ket-qua-bong-da-viet-nam-vs-malaysia-ban-ket-luot-ve-asean-cup-2546786.html",
+        "publishedAt": "2026-08-19T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T13:50:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "trực tiếp bóng đá việt nam",
+      "source": "Báo VietNamNet",
+      "url": "https://vietnamnet.vn/ket-qua-bong-da-viet-nam-vs-malaysia-ban-ket-luot-ve-asean-cup-2546786.html"
+    },
+    {
+      "id": "2a0d9757ce8c1508",
+      "issueKey": "건조",
+      "issueTitle": "건조",
+      "trendTitle": "건조",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[포토타임] 설계는 HD현대중공업·건조는 페루…‘침보테함’ 진수",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260819145549074",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘완제품 인도’서 첫 해외 공동건조로…K함정 수출 공식 바꾼 HD현대重",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20081008?ref=sedailyEng",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "HD현대중공업, 페루 신형 상륙지원함 1번함 '침보테함' 진수",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260819081900003",
+          "publishedAt": "2026-08-19T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[포토타임] 설계는 HD현대중공업·건조는 페루…‘침보테함’ 진수",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260819145549074",
+        "publishedAt": "2026-08-19T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-19T13:50:00.000Z",
+      "firstSeenAt": "2026-08-19T15:30:42.404Z",
+      "lastSeenAt": "2026-08-19T15:30:42.404Z",
+      "title": "건조",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260819145549074"
+    },
+    {
       "id": "7c3bf7bf31cbc94c",
       "issueKey": "로봇",
       "issueTitle": "로봇",
@@ -2167,190 +2304,6 @@
       "title": "홍민기",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260819082351641"
-    },
-    {
-      "id": "b8e7c7d8e67d6d2c",
-      "issueKey": "천궁",
-      "issueTitle": "천궁",
-      "trendTitle": "천궁",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "유용원 \"우크라에 지대공유도무기 '천궁-Ⅱ' 지원 검토해야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818096600001",
-          "publishedAt": "2026-08-18T20:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "우크라 \"러 주둔 북한군 8500명…향후 3만∼5만명까지 늘 수도\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818221951845",
-          "publishedAt": "2026-08-18T20:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유용원 국민의힘 의원, 우크라이나 북한군 추가 파병 대응 전략 관련 기자회견",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260818_0021401990",
-          "publishedAt": "2026-08-18T20:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "유용원 \"우크라에 지대공유도무기 '천궁-Ⅱ' 지원 검토해야\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260818096600001",
-        "publishedAt": "2026-08-18T20:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T20:00:00.000Z",
-      "firstSeenAt": "2026-08-18T21:23:50.045Z",
-      "lastSeenAt": "2026-08-18T21:23:50.045Z",
-      "title": "천궁",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260818096600001"
-    },
-    {
-      "id": "c56a3551cd3e4dde",
-      "issueKey": "매미",
-      "issueTitle": "매미",
-      "trendTitle": "매미",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818105352387",
-          "publishedAt": "2026-08-18T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"중국인들이 통 들고 매미 싹쓸이\" 한강공원 '습격'에 \"과태료 10만 원\" '비상작전'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008709849",
-          "publishedAt": "2026-08-18T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“통째로 담아가더라”…여의도 일대 매미 유충 채집에 서울시 ‘경고’",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12130653",
-          "publishedAt": "2026-08-18T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"볶아먹자\" 중국인들, 샛강서 매미 유충 싹쓸이…\"한강공원 과태료 10만원\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818105352387",
-        "publishedAt": "2026-08-18T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T14:00:00.000Z",
-      "firstSeenAt": "2026-08-18T18:37:33.986Z",
-      "lastSeenAt": "2026-08-18T18:37:33.986Z",
-      "title": "매미",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260818105352387"
-    },
-    {
-      "id": "5e25367738e51899",
-      "issueKey": "해고",
-      "issueTitle": "해고",
-      "trendTitle": "해고",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "여름휴가 다녀왔더니 팀이 사라졌다?…갑자기 해고할 수 있을까",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/18/2026081815063241128",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "중노위 \"즉결심판 도입은 노란봉투법 사건과 무관…공정·신뢰성 높일 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818200151197",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[우보세]\"문제가 생기면 그때 고치면 된다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/08/18/2026081610483622733",
-          "publishedAt": "2026-08-18T11:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "여름휴가 다녀왔더니 팀이 사라졌다?…갑자기 해고할 수 있을까",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/18/2026081815063241128",
-        "publishedAt": "2026-08-18T11:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T11:40:00.000Z",
-      "firstSeenAt": "2026-08-18T12:44:48.054Z",
-      "lastSeenAt": "2026-08-18T12:44:48.054Z",
-      "title": "해고",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/society/2026/08/18/2026081815063241128"
-    },
-    {
-      "id": "cf90655916f7e970",
-      "issueKey": "온라인 화제성",
-      "issueTitle": "온라인 화제성",
-      "trendTitle": "야구여왕",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'야구여왕2' 온라인 화제성·오프라인 직관까지…팬심↑",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260819081950543",
-          "publishedAt": "2026-08-19T11:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "추신수도 긴장한 대만 에이스 등장…“상대했던 어떤 투수보다 압도적” (야구여왕2)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260819/134503222/1",
-          "publishedAt": "2026-08-19T11:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘야구여왕2’ 인기 쑥쑥…직관 이벤트 대박!",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608180741003",
-          "publishedAt": "2026-08-19T11:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'야구여왕2' 온라인 화제성·오프라인 직관까지…팬심↑",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260819081950543",
-        "publishedAt": "2026-08-19T11:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-19T11:10:00.000Z",
-      "firstSeenAt": "2026-08-19T12:45:56.276Z",
-      "lastSeenAt": "2026-08-19T12:45:56.276Z",
-      "title": "온라인 화제성",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260819081950543"
     }
   ]
 }
