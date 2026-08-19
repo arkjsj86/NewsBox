@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-08-18T21:23:50.045Z",
-  "articleCount": 10,
+  "lastUpdatedAt": "2026-08-19T01:14:11.849Z",
+  "articleCount": 9,
   "articles": [
+    {
+      "id": "fb54f810e081a3b3",
+      "title": "공격엔 앞서고 방어엔 뒤처지는 AI 코딩, 얼마나 안전한가",
+      "url": "https://www.itworld.co.kr/article/4211249/%ea%b3%b5%ea%b2%a9%ec%97%94-%ec%95%9e%ec%84%9c%ea%b3%a0-%eb%b0%a9%ec%96%b4%ec%97%94-%eb%92%a4%ec%b2%98%ec%a7%80%eb%8a%94-ai-%ec%bd%94%eb%94%a9-%ec%96%bc%eb%a7%88%eb%82%98-%ec%95%88%ec%a0%84%ed%95%9c.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-19T00:19:32.000Z",
+      "summary": "AI 모델의 공격·방어 역량 격차가 커지면서, 기업이 심각한 사이버 비대칭 문제에 직면하고 있다. 최근 몇 달 사이, 대규모 언어 모델(LLM)은 개발자 시간을 낭비시키는 부실한 보안 보고서로 오픈소스 프로젝트와 버그 바운티 프로그램을 잠식하던 수준에서, 사람과 기존 보안 감사 도구가 수년간 발견하지 못한 제로데이 취약점을 일상적으로 찾아내는 수준으로 도약했다. 개발사 스스로도 두려움을...",
+      "tab": "ai"
+    },
     {
       "id": "2c59d0ef43161391",
       "title": "AI 정책, 직원 없이 만들어도 될까?",
@@ -77,24 +86,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-08-12T05:00:33.000Z",
       "summary": "AI가 생성한 텍스트를 식별하기가 훨씬 쉬워질 전망이다. 앤트로픽이 클로드로 생성된 모든 콘텐츠에 보이지 않는 AI 워터마크를 곧 삽입하겠다고 발표했다. 유럽연합(EU) AI 법의 의무 조항에 따른 이번 정책은 클로드가 생성하거나 편집한 모든 텍스트와 파일에 적용된다. 컴퓨터 코드, 기업 보고서, 입사 지원 커버레터 등도 예외 없이 적용 대상이다. 앤트로픽이 최근 공개한 지원 페이지에...",
-      "tab": "ai"
-    },
-    {
-      "id": "4b94d29c171032a0",
-      "title": "AI가 바꾸는 노동 시장, 기술 부문만 나 홀로 성장",
-      "url": "https://www.itworld.co.kr/article/4207560/ai%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%eb%85%b8%eb%8f%99-%ec%8b%9c%ec%9e%a5-%ea%b8%b0%ec%88%a0-%eb%b6%80%eb%ac%b8%eb%a7%8c-%eb%82%98-%ed%99%80%eb%a1%9c-%ec%84%b1%ec%9e%a5.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-11T00:31:46.000Z",
-      "summary": "7월 미국 전체 일자리가 2만 3,000개 감소한 가운데, AI 혁명이 가속화하면서 기술 부문 고용은 반등했다. 미국 노동통계국(Bureau of Labor Statistics, BLS)은 지난주 전국 실업 지표를 발표했다. 복수의 리서치 기관도 6월과 비교해 7월이 IT 채용 면에서 양호한 달이었다고 밝혔다 . BLS 데이터를 분석한 컴프티아(CompTIA)에 따르면, 7월 기술 부문...",
-      "tab": "ai"
-    },
-    {
-      "id": "27cdd5734c9d361b",
-      "title": "AI로 무장한 사이버 범죄, 가드레일 우회부터 공급망 침투까지",
-      "url": "https://www.itworld.co.kr/article/4207554/ai%eb%a1%9c-%eb%ac%b4%ec%9e%a5%ed%95%9c-%ec%82%ac%ec%9d%b4%eb%b2%84-%eb%b2%94%ec%a3%84-%ea%b0%80%eb%93%9c%eb%a0%88%ec%9d%bc-%ec%9a%b0%ed%9a%8c%eb%b6%80%ed%84%b0-%ea%b3%b5%ea%b8%89%eb%a7%9d-%ec%b9%a8.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-11T00:07:46.000Z",
-      "summary": "복구된 프롬프트 로그, 공격 도구, 위협 행위자 간 대화를 바탕으로 진행된 시스코 탈로스(Cisco Talos)의 연구가 AI가 악성 코드 개발, 사기 인프라 구축, 취약점 연구 및 익스플로잇 가속화에 어떻게 활용되는지 구체적으로 기록했다. 블랙햇 USA 컨퍼런스에서 공개된 이 연구 는 AI 시스템의 가드레일이 대체로 효과를 발휘하지 못한다는 사실을 확인했다. 시스코 탈로스 연구진에 따...",
       "tab": "ai"
     }
   ]
