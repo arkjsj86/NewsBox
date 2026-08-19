@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-08-19T06:42:15.717Z",
+  "lastUpdatedAt": "2026-08-19T09:33:18.780Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "oxJxO86GnwM",
-      "title": "유니티 vs. 언리얼, 도대체 무슨 일이? ⚡: Unite Seoul 2026 - 조코딩 X Unity CEO 인터뷰 3편 #ai #게임개발",
-      "url": "https://www.youtube.com/shorts/oxJxO86GnwM",
-      "publishedAt": "2026-08-18T04:37:17.000Z",
-      "thumbnailUrl": "https://i4.ytimg.com/vi/oxJxO86GnwM/hqdefault.jpg"
+      "id": "-r4st_rbXss",
+      "title": "AI 시대 개발자의 필수 덕목, SOLID 디자인패턴 실전 Part.5 - 알쓸유잡 2026.08",
+      "url": "https://www.youtube.com/watch?v=-r4st_rbXss",
+      "publishedAt": "2026-08-14T01:07:41.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/-r4st_rbXss/hqdefault.jpg"
     },
     {
-      "id": "oinbbKrjj2s",
-      "title": "AI 시대의 '창작자'란? 💡: Unite Seoul 2026 - 조코딩 X Unity CEO 인터뷰 2편 #ai #게임개발",
-      "url": "https://www.youtube.com/shorts/oinbbKrjj2s",
-      "publishedAt": "2026-08-14T05:50:32.000Z",
-      "thumbnailUrl": "https://i4.ytimg.com/vi/oinbbKrjj2s/hqdefault.jpg"
+      "id": "mcMPbVtBdV8",
+      "title": "AI로 누구나 창작하는 시대 🎮: Unite Seoul 2026 - 조코딩 X Unity CEO 인터뷰 4편 #ai #게임개발",
+      "url": "https://www.youtube.com/shorts/mcMPbVtBdV8",
+      "publishedAt": "2026-08-19T03:13:15.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/mcMPbVtBdV8/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
