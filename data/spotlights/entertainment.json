@@ -7,18 +7,394 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-20T18:38:07.617Z",
+  "lastUpdatedAt": "2026-08-20T21:27:07.959Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
+      "id": "dfd14a4615883852",
+      "issueKey": "일리아 토푸리아",
+      "issueTitle": "일리아 토푸리아",
+      "trendTitle": "일리아 토푸리아",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "옥타곤 밖에서 또 마이애미? 일리아 토푸리아, 한국계 태권도 선수와 포착돼 화제",
+          "source": "FT스포츠",
+          "url": "https://www.ftimes.kr/news/articleView.html?idxno=39064",
+          "publishedAt": "2026-08-20T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"절반은 한국인\" 이혼한 토푸리아, 태권도 미녀와 포착! 전처 만났던 마이애미서 깜짝 포착…팬들 \"제발 여자 좀 그만 만나!\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260818n00063?mid=n1007",
+          "publishedAt": "2026-08-20T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"토푸리아, 챈들러 꺾고 다시 타이틀 싸움 뛰어들 것!\"→UFC 라이트급 랭킹 2위의 예상",
+          "source": "네이트",
+          "url": "https://sports.news.nate.com/view/20260820n07536",
+          "publishedAt": "2026-08-20T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "옥타곤 밖에서 또 마이애미? 일리아 토푸리아, 한국계 태권도 선수와 포착돼 화제",
+        "source": "FT스포츠",
+        "url": "https://www.ftimes.kr/news/articleView.html?idxno=39064",
+        "publishedAt": "2026-08-20T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-20T20:20:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "일리아 토푸리아",
+      "source": "FT스포츠",
+      "url": "https://www.ftimes.kr/news/articleView.html?idxno=39064",
+      "rank": 1
+    },
+    {
+      "id": "33b6e2db7d592140",
+      "issueKey": "살인",
+      "issueTitle": "살인",
+      "trendTitle": "살인",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"살인 청부 검색까지'...원주 세 모녀 살인미수 10대 중형",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0115_202608201703540588",
+          "publishedAt": "2026-08-20T20:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "세 모녀 살해 시도, 흉기 찔렸는데...\"만 15세라서\" 최대 10년형",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/20/2026082011180557875",
+          "publishedAt": "2026-08-20T20:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"빨리 죽이고 발각되지 않으면 된다…\" 세 모녀 살인 미수 10대 최대 10년형",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12314228",
+          "publishedAt": "2026-08-20T20:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"살인 청부 검색까지'...원주 세 모녀 살인미수 10대 중형",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0115_202608201703540588",
+        "publishedAt": "2026-08-20T20:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-20T20:10:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "살인",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0115_202608201703540588",
+      "rank": 2
+    },
+    {
+      "id": "19af8ab5771c143a",
+      "issueKey": "이의리",
+      "issueTitle": "이의리",
+      "trendTitle": "이의리",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "마무리 투수 된 이의리, 매일이 해피엔딩",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260821000336023",
+          "publishedAt": "2026-08-20T20:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "KIA 이의리·LG 손주영이 만든 균형…낯설 수 있는 가을야구 클로징, 벌써부터 기대감 쏠린다",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260820/134513043/1",
+          "publishedAt": "2026-08-20T20:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"우리가 이긴다\" 선동열이 돌아왔나...등판하면 분위기 바꿔놓는 158km 뉴클로저, 이래서 의리의리하다",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/20/202608200859776408O",
+          "publishedAt": "2026-08-20T20:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "마무리 투수 된 이의리, 매일이 해피엔딩",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260821000336023",
+        "publishedAt": "2026-08-20T20:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-20T20:10:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "이의리",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260821000336023",
+      "rank": 3
+    },
+    {
+      "id": "33077cb8aee1cb59",
+      "issueKey": "농협은행",
+      "issueTitle": "농협은행",
+      "trendTitle": "농협은행",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "1년 넘게… 공시금융사고 제로, NH농협銀 선제적 대응 빛났다",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/08/20/2026081920185167319",
+          "publishedAt": "2026-08-20T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "농협은행, ‘에이전틱 AI뱅크’로 승부…“AI가 알아서 척척”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820092327068",
+          "publishedAt": "2026-08-20T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "강태영 농협은행장 \"AX와 초개인화로 고객경험 혁신해야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003755841",
+          "publishedAt": "2026-08-20T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "농협은행, ‘에이전틱 AI뱅크’로 승부…“AI가 알아서 척척”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260820092327068",
+        "publishedAt": "2026-08-20T20:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-20T20:00:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "농협은행",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260820092327068",
+      "rank": 4
+    },
+    {
+      "id": "5e0a46b1f7ca158c",
+      "issueKey": "꺾인 무더위",
+      "issueTitle": "꺾인 무더위",
+      "trendTitle": "꺾인 무더위",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한 풀 꺾인 무더위, 잘파세대는 양림동으로 ‘문화 피서’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820183840247",
+          "publishedAt": "2026-08-20T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'전남광주 남구 평화의 소녀상 보러'",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/photos/8056445",
+          "publishedAt": "2026-08-20T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[르포] \"딸아, 진짜 광복을 느껴보렴\"…발길 이어진 광주 양림동",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260815n01626",
+          "publishedAt": "2026-08-20T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "한 풀 꺾인 무더위, 잘파세대는 양림동으로 ‘문화 피서’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260820183840247",
+        "publishedAt": "2026-08-20T19:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-20T19:50:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "꺾인 무더위",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260820183840247",
+      "rank": 5
+    },
+    {
+      "id": "b1ccb10b048c1a16",
+      "issueKey": "시공",
+      "issueTitle": "시공",
+      "trendTitle": "시공",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "GTX-A 삼성역 철근 누락 사태 설계사 벌점 취소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820192818394",
+          "publishedAt": "2026-08-20T19:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[단독]'GTX-A 삼성역 철근 누락' 시공·감리 벌점 유지, 설계 전부 취소",
+          "source": "MTN 머니투데이방송",
+          "url": "https://news.mtn.co.kr/news-detail/2026082017101511798",
+          "publishedAt": "2026-08-20T19:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[단독]'GTX-A 삼성역 철근 누락' 시공·감리 벌점 유지, 설계 전부 취소",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820171800952",
+          "publishedAt": "2026-08-20T19:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독]'GTX-A 삼성역 철근 누락' 시공·감리 벌점 유지, 설계 전부 취소",
+        "source": "MTN 머니투데이방송",
+        "url": "https://news.mtn.co.kr/news-detail/2026082017101511798",
+        "publishedAt": "2026-08-20T19:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-20T19:40:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "시공",
+      "source": "MTN 머니투데이방송",
+      "url": "https://news.mtn.co.kr/news-detail/2026082017101511798",
+      "rank": 6
+    },
+    {
+      "id": "01b73d40d385b64d",
+      "issueKey": "브라질",
+      "issueTitle": "브라질",
+      "trendTitle": "브라질",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "브라질판 '오펀'…12세 자폐아 행세한 37세 여성 사기죄로 기소",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260820000359",
+          "publishedAt": "2026-08-20T18:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'12살 학대소녀' 행세로 돌봄받은 37세 브라질 여성…'현실판 오펀'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820160155223",
+          "publishedAt": "2026-08-20T18:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'12살 학대소녀' 행세, 30대 성인이었다…\"관심·돌봄 받고 싶었다\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082033717",
+          "publishedAt": "2026-08-20T18:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "브라질판 '오펀'…12세 자폐아 행세한 37세 여성 사기죄로 기소",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260820000359",
+        "publishedAt": "2026-08-20T18:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-20T18:00:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "브라질",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20260820000359",
+      "rank": 7
+    },
+    {
+      "id": "73c073618e25e10a",
+      "issueKey": "홍인규",
+      "issueTitle": "홍인규",
+      "trendTitle": "홍인규",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SOOP, 'HyperX배 연예인 스타 리그 시즌2' 구단주 참여…19일 개막",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/xtU4wy8BAH",
+          "publishedAt": "2026-08-20T17:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "SOOP, 연예인·전 프로 e스포츠 선수 참여 스타크래프트 리그 생중계",
+          "source": "로이슈",
+          "url": "https://www.lawissue.co.kr/view.php?ud=202608191820067130204ead0791_12",
+          "publishedAt": "2026-08-20T17:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "SOOP, 연예인 스타 리그 시즌2 결승 단독 중계",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000004335",
+          "publishedAt": "2026-08-20T17:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "홍인규",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/xtU4wy8BAH",
+        "publishedAt": "2026-08-20T17:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-20T17:20:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "홍인규",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/xtU4wy8BAH",
+      "rank": 8
+    },
+    {
       "id": "2d94aa207718a687",
       "issueKey": "트롬쇠 대 브라이턴",
       "issueTitle": "트롬쇠 대 브라이턴",
       "trendTitle": "트롬쇠 대 브라이턴",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -30,16 +406,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "Brighton players covering fan tickets for Arctic Circle game",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/49664103/brighton-players-covering-fan-tickets-arctic-circle-game",
+          "title": "Tromso 0-0 Brighton: Seagulls held to goalless draw in first leg of Conference League play-off",
+          "source": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/11095/13575062/tromso-0-0-brighton-seagulls-held-to-goalless-draw-in-first-leg-of-conference-league-play-off",
           "publishedAt": "2026-08-20T17:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Lewis Dunk makes generous offer to Brighton fans travelling for Conference League play-off",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/lewis-dunk-makes-generous-offer-164240316.html",
+          "title": "Brighton players covering fan tickets for Arctic Circle game",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/story/_/id/49664103/brighton-players-covering-fan-tickets-arctic-circle-game",
           "publishedAt": "2026-08-20T17:10:00.000Z",
           "relevanceScore": 1
         }
@@ -52,484 +428,62 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-08-20T17:10:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
       "title": "트롬쇠 대 브라이턴",
       "source": "BBC",
       "url": "https://www.bbc.com/sport/football/live/cmkgvvnx93vlt",
-      "rank": 1
-    },
-    {
-      "id": "73b47d6729b4db77",
-      "issueKey": "삼성전자",
-      "issueTitle": "삼성전자",
-      "trendTitle": "삼성전자",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910",
-          "publishedAt": "2026-08-20T16:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "하닉 역대급 주주환원에 시장 환호… 삼전이 릴레이 이어가나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260821020310064",
-          "publishedAt": "2026-08-20T16:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "하닉 주주환원 시동에 증시 '환호'…코스피 5.89% 급등(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260820133851008",
-          "publishedAt": "2026-08-20T16:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\"",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910",
-        "publishedAt": "2026-08-20T16:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-20T16:20:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "삼성전자",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/industry/2026/08/20/2026082009501899910",
-      "rank": 2
-    },
-    {
-      "id": "28352fa1232a76c3",
-      "issueKey": "사미자",
-      "issueTitle": "사미자",
-      "trendTitle": "사미자",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820185709701",
-          "publishedAt": "2026-08-20T15:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 모습 아직도 기억\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260820_0003756282",
-          "publishedAt": "2026-08-20T15:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "사미자, ‘중3 이재용’ 직접 만난 썰…“이부진 손 잡고 나와, 얼굴 빨개져”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/08/20/GE4DSNZSG43GKNLEMJSTCZDEGU/",
-          "publishedAt": "2026-08-20T15:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "사미자, 이재용 회장과 뜻밖의 인연…\"중3 때 얼굴 아직도 떠올라\" (오미자)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820185709701",
-        "publishedAt": "2026-08-20T15:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-20T15:50:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "사미자",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260820185709701",
-      "rank": 3
-    },
-    {
-      "id": "6024c2845a49b6c3",
-      "issueKey": "이예빈",
-      "issueTitle": "이예빈",
-      "trendTitle": "이예빈",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[포토]적시타는 못참지! '1회초 타점올린' 힐리어드",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082019415493269",
-          "publishedAt": "2026-08-20T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]염경엽 감독, '선제점 허용했어'",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112860798",
-          "publishedAt": "2026-08-20T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "잠실만 오면 펄펄 나는 KT 힐리어드…이강철 감독 \"첫 기억이 좋아서 그런 듯\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003753162",
-          "publishedAt": "2026-08-20T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이예빈",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082019415493269",
-        "publishedAt": "2026-08-20T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-20T15:20:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "이예빈",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/08/20/2026082019415493269",
-      "rank": 4
-    },
-    {
-      "id": "adb4212fcffc51b1",
-      "issueKey": "일베",
-      "issueTitle": "일베",
-      "trendTitle": "일베",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "극우와 밈의 만남, 일베 천하를 열다",
-          "source": "한겨레21",
-          "url": "https://h21.hani.co.kr/arti/society/society_general/59749.html",
-          "publishedAt": "2026-08-20T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[와글와글 플러스] '광고 수익 급감' 일베‥\"후원금·유료화 추진\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818073106339",
-          "publishedAt": "2026-08-20T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'혐오' 장사하더니 '업보' 맞았나…\"서버비 좀\" 손 벌린 '일베'",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008709949",
-          "publishedAt": "2026-08-20T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "극우와 밈의 만남, 일베 천하를 열다",
-        "source": "한겨레21",
-        "url": "https://h21.hani.co.kr/arti/society/society_general/59749.html",
-        "publishedAt": "2026-08-20T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-20T15:00:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "일베",
-      "source": "한겨레21",
-      "url": "https://h21.hani.co.kr/arti/society/society_general/59749.html",
-      "rank": 5
-    },
-    {
-      "id": "a805a58c098172d1",
-      "issueKey": "오디세이",
-      "issueTitle": "오디세이",
-      "trendTitle": "오디세이",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'범죄도시4'도 넘었다…대기 4만 명에 앱 마비시킨 이 작품 ('오디세이')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820161844126",
-          "publishedAt": "2026-08-20T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "아이맥스(IMAX)와 중력의 예술 [투데이 窓/남수영]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/opinion/2026/08/21/2026081914170259611",
-          "publishedAt": "2026-08-20T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[여적] ‘용아맥’ 암표",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608191810011",
-          "publishedAt": "2026-08-20T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'범죄도시4'도 넘었다…대기 4만 명에 앱 마비시킨 이 작품 ('오디세이')",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820161844126",
-        "publishedAt": "2026-08-20T14:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-20T14:20:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "오디세이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260820161844126",
-      "rank": 6
-    },
-    {
-      "id": "8e309963dd0ae2a0",
-      "issueKey": "리플",
-      "issueTitle": "리플",
-      "trendTitle": "리플",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "XRP 가격이 10% 상승",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/cryptocurrency-news/article-2068232",
-          "publishedAt": "2026-08-20T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "리플 1달러 선 하회하자… 고래 지갑 하루 만에 1.9억 개 매집",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Securities/2026/08/202608200551082969e7e8286d56_1",
-          "publishedAt": "2026-08-20T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[데일리픽] XRP 고액 거래 280% 폭발…청소년 전용 챗GPT 출시",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260819n28567",
-          "publishedAt": "2026-08-20T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "리플 1달러 선 하회하자… 고래 지갑 하루 만에 1.9억 개 매집",
-        "source": "글로벌이코노믹",
-        "url": "https://www.g-enews.com/article/Securities/2026/08/202608200551082969e7e8286d56_1",
-        "publishedAt": "2026-08-20T14:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-20T14:20:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "리플",
-      "source": "글로벌이코노믹",
-      "url": "https://www.g-enews.com/article/Securities/2026/08/202608200551082969e7e8286d56_1",
-      "rank": 7
-    },
-    {
-      "id": "2e3deca948f509e4",
-      "issueKey": "강남구",
-      "issueTitle": "강남구",
-      "trendTitle": "강남구",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"한방에 3억 뚝, 여기 급매요\"...'세 부담' 초고가주택은 지금",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/08/21/2026082019043159007",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "세제 개편 여파? 강남·서초 ‘하락’…중저가는 ‘상승’",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642052",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "KB부동산 \"세제개편에 강남구 하락 전환…전세도 꺾여\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431020",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "KB부동산 \"세제개편에 강남구 하락 전환…전세도 꺾여\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431020",
-        "publishedAt": "2026-08-20T14:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-20T14:00:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "강남구",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431020",
-      "rank": 8
-    },
-    {
-      "id": "d08385ec338d114c",
-      "issueKey": "욕조",
-      "issueTitle": "욕조",
-      "trendTitle": "욕조",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/uFZWTXMVk4",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“곰팡이 지옥 될 텐데?”…“고시원 욕조”에 뿔난 청년들 [잇슈#태그]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8641630",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“고시원 방에 욕조? 폐버스 조롱으로 부족해?”…청년들, 탁상행정에 분노",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12132072",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "고시원에 책상 빼고 욕조?…속 부글부글 2030, “조롱당한 기분”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/uFZWTXMVk4",
-        "publishedAt": "2026-08-20T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-20T14:00:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "욕조",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/uFZWTXMVk4",
       "rank": 9
     },
     {
-      "id": "04ecae5b7786b7ee",
-      "issueKey": "이륙",
-      "issueTitle": "이륙",
-      "trendTitle": "이륙",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "4cc779ecdf26bdbb",
+      "issueKey": "크랙",
+      "issueTitle": "크랙",
+      "trendTitle": "크랙",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260820143438738",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
+          "title": "\"게임 아니라며?\" 지스타 간판 된 크랙…'게임 기능' 심사는 누가",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/08/20/2026081911193094191",
+          "publishedAt": "2026-08-20T17:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "일본 나리타공항 이륙 준비 중 항공기 엔진서 연기…활주로 폐쇄",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260820143407SgN",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
+          "title": "지스타 2026, ‘외연 확장’ 2대 전략 발표…메인스폰서에 AI 플랫폼 ‘크랙’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/biO4VDUZlJ",
+          "publishedAt": "2026-08-20T17:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "日나리타공항 말레이항공 여객기 엔진서 검은 연기…이륙 중지",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/northeast-asia/6264502",
-          "publishedAt": "2026-08-20T14:00:00.000Z",
+          "title": "게임사 빅5, 지스타 첫 불참 ...'국제 게임쇼' 간판 위기",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260819001079",
+          "publishedAt": "2026-08-20T17:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“이륙 직전 엔진서 검은 연기”…日나리타공항 활주로 2시간반 폐쇄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260820143438738",
-        "publishedAt": "2026-08-20T14:00:00.000Z",
+        "title": "\"게임 아니라며?\" 지스타 간판 된 크랙…'게임 기능' 심사는 누가",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/tech/2026/08/20/2026081911193094191",
+        "publishedAt": "2026-08-20T17:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-20T14:00:00.000Z",
-      "firstSeenAt": "2026-08-20T18:38:07.617Z",
-      "lastSeenAt": "2026-08-20T18:38:07.617Z",
-      "title": "이륙",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260820143438738",
+      "publishedAt": "2026-08-20T17:10:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "크랙",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/tech/2026/08/20/2026081911193094191",
       "rank": 10
     }
   ],
   "history": [
-    {
-      "id": "73a2dcd31fcd7d6b",
-      "issueKey": "리브 골프",
-      "issueTitle": "리브 골프",
-      "trendTitle": "리브 골프",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘쩐의전쟁’ 끝났다…7조원 쏟아부은 LIV골프, 결국 ‘돈’ 앞에 무릎",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818104713053",
-          "publishedAt": "2026-08-18T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대회 취소에도 입장권 판매? LIV골프 시즌 조기 종료 은폐 의혹…최종전 콘서트 개최도 '불확실'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/golf/2026/08/19/GYYWKMBTMJSGGNJWGQ2GMNDFGY/",
-          "publishedAt": "2026-08-18T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "LIV 골프 미시간 대회 취소…예정보다 1주 일찍 시즌 종료",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260818007300007",
-          "publishedAt": "2026-08-18T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "리브 골프",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818104713053",
-        "publishedAt": "2026-08-18T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T20:20:00.000Z",
-      "firstSeenAt": "2026-08-18T21:23:50.045Z",
-      "lastSeenAt": "2026-08-18T21:23:50.045Z",
-      "title": "리브 골프",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260818104713053"
-    },
     {
       "id": "5e4a1492f7cca144",
       "issueKey": "소득",
@@ -2151,52 +2105,6 @@
       "url": "https://v.daum.net/v/20260819063117685"
     },
     {
-      "id": "807d82f82fbcf722",
-      "issueKey": "김하성",
-      "issueTitle": "김하성",
-      "trendTitle": "김하성",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'ML 역사상 이런 선수는 없었다' 김하성, 역대 타율-장타율 최하위... '409억 FA'를 어쩌나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260818154809384",
-          "publishedAt": "2026-08-18T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "애틀랜타, 미네소타에 2-4로 패배…김하성은 이틀 연속 결장",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260818_0003752541",
-          "publishedAt": "2026-08-18T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"이제 김하성 더 내보내야\" 갑자기 웬일? 김하성 비난하던 美매체 태세전환…대체 왜?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/08/18/MIYGCMRXGZSTANZRHFRDGN3FGA/",
-          "publishedAt": "2026-08-18T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'ML 역사상 이런 선수는 없었다' 김하성, 역대 타율-장타율 최하위... '409억 FA'를 어쩌나",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260818154809384",
-        "publishedAt": "2026-08-18T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-18T20:20:00.000Z",
-      "firstSeenAt": "2026-08-18T21:23:50.045Z",
-      "lastSeenAt": "2026-08-18T21:23:50.045Z",
-      "title": "김하성",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260818154809384"
-    },
-    {
       "id": "ab224c46f6c22e9f",
       "issueKey": "오타니",
       "issueTitle": "오타니",
@@ -2262,6 +2170,52 @@
       "title": "오타니",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20260819119900007"
+    },
+    {
+      "id": "01b73d40d385b64d",
+      "issueKey": "브라질",
+      "issueTitle": "브라질",
+      "trendTitle": "브라질",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "브라질판 '오펀'…12세 자폐아 행세한 37세 여성 사기죄로 기소",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260820000359",
+          "publishedAt": "2026-08-20T18:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'12살 학대소녀' 행세로 돌봄받은 37세 브라질 여성…'현실판 오펀'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820160155223",
+          "publishedAt": "2026-08-20T18:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'12살 학대소녀' 행세, 30대 성인이었다…\"관심·돌봄 받고 싶었다\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026082033717",
+          "publishedAt": "2026-08-20T18:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "브라질판 '오펀'…12세 자폐아 행세한 37세 여성 사기죄로 기소",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260820000359",
+        "publishedAt": "2026-08-20T18:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-20T18:00:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "브라질",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20260820000359"
     },
     {
       "id": "73b47d6729b4db77",
@@ -2400,6 +2354,52 @@
       "title": "코오롱티슈진",
       "source": "머니투데이",
       "url": "https://www.mt.co.kr/thebio/2026/08/19/2026081915172626540"
+    },
+    {
+      "id": "33077cb8aee1cb59",
+      "issueKey": "농협은행",
+      "issueTitle": "농협은행",
+      "trendTitle": "농협은행",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "1년 넘게… 공시금융사고 제로, NH농협銀 선제적 대응 빛났다",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/finance/2026/08/20/2026081920185167319",
+          "publishedAt": "2026-08-20T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "농협은행, ‘에이전틱 AI뱅크’로 승부…“AI가 알아서 척척”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260820092327068",
+          "publishedAt": "2026-08-20T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "강태영 농협은행장 \"AX와 초개인화로 고객경험 혁신해야\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260820_0003755841",
+          "publishedAt": "2026-08-20T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "농협은행, ‘에이전틱 AI뱅크’로 승부…“AI가 알아서 척척”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260820092327068",
+        "publishedAt": "2026-08-20T20:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-20T20:00:00.000Z",
+      "firstSeenAt": "2026-08-20T21:27:07.959Z",
+      "lastSeenAt": "2026-08-20T21:27:07.959Z",
+      "title": "농협은행",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260820092327068"
     }
   ]
 }
