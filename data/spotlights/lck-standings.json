@@ -7,8 +7,8 @@
   "tournamentName": "Split 3 2026",
   "tournamentState": "inProgress",
   "isOffSeason": false,
-  "fetchedAt": "2026-08-20T09:34:33.180Z",
-  "lastUpdatedAt": "2026-08-20T09:34:33.180Z",
+  "fetchedAt": "2026-08-20T12:49:59.317Z",
+  "lastUpdatedAt": "2026-08-20T12:49:59.317Z",
   "updatedLabel": "공식 데이터 기준",
   "source": "LoL Esports",
   "sourceUrl": "https://lolesports.com/en-US/leagues/lck",
@@ -16,18 +16,18 @@
   "rows": [
     {
       "rank": 1,
-      "code": "DK",
-      "name": "Dplus KIA",
-      "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
-      "wins": 5,
-      "losses": 1,
-      "points": 5
-    },
-    {
-      "rank": 2,
       "code": "GEN",
       "name": "Gen.G Esports",
       "image": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png",
+      "wins": 5,
+      "losses": 2,
+      "points": 5
+    },
+    {
+      "rank": 1,
+      "code": "DK",
+      "name": "Dplus KIA",
+      "image": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png",
       "wins": 5,
       "losses": 2,
       "points": 5
@@ -37,12 +37,12 @@
       "code": "HLE",
       "name": "Hanwha Life Esports",
       "image": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png",
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
-      "points": 2
+      "points": 3
     },
     {
-      "rank": 3,
+      "rank": 4,
       "code": "T1",
       "name": "T1",
       "image": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png",
