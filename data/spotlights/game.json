@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-20T12:49:01.616Z",
+  "lastUpdatedAt": "2026-08-20T15:32:53.697Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,7 +28,7 @@
         {
           "title": "브라운더스트2, ‘김수연’ 디렉터의 합류 이유",
           "url": "https://bbs.ruliweb.com/news/read/228162",
-          "meta": "댓글 35"
+          "meta": "댓글 37"
         },
         {
           "title": "[BIC] 세기말의 음울함을 담아낸 어드벤처, 레인98(Rain98)",
@@ -60,27 +60,27 @@
         {
           "title": "농심 '킹겐' \"우리의 약점? 불리할 때 역전할 수 있는 능력 아쉬워\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319746",
-          "meta": "리그 오브 레전드 · 10분 전"
+          "meta": "리그 오브 레전드 · 3시간 전"
         },
         {
           "title": "조재읍 감독 \"플레이-인 진출 실패, 결국 나의 책임\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319745",
-          "meta": "리그 오브 레전드 · 16분 전"
+          "meta": "리그 오브 레전드 · 3시간 전"
         },
         {
           "title": "농심, KRX 2:0 격파... 플레이-인 진출",
           "url": "https://www.inven.co.kr/webzine/news/?news=319744",
-          "meta": "리그 오브 레전드 · 35분 전"
+          "meta": "리그 오브 레전드 · 3시간 전"
         },
         {
           "title": "DK 김대호 감독 \"0:2로 졌지만, 좋았던 경기\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=319742",
-          "meta": "리그 오브 레전드 · 2시간 전"
+          "meta": "리그 오브 레전드 · 5시간 전"
         },
         {
           "title": "AI로 개발 속도 UP, UEFN '언리얼 MCP 플러그인' 20일부터 지원",
           "url": "https://www.inven.co.kr/webzine/news/?news=319732",
-          "meta": "포트나이트 · 4시간 전"
+          "meta": "포트나이트 · 7시간 전"
         }
       ]
     }
@@ -89,8 +89,8 @@
     {
       "key": "epic-free-games",
       "source": "Epic Games Store",
-      "ok": true,
-      "itemCount": 1
+      "ok": false,
+      "error": "Epic free games payload did not contain active free games."
     },
     {
       "key": "ruliweb-issues",
