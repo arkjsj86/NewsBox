@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-21T12:46:00.708Z",
+  "lastUpdatedAt": "2026-08-21T15:32:56.277Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -38,7 +38,7 @@
         {
           "title": "도트풍 한국 설화 MMORPG, '도깨비의세계' 쇼케이스",
           "url": "https://bbs.ruliweb.com/news/read/228319",
-          "meta": "댓글 21"
+          "meta": "댓글 22"
         },
         {
           "title": "[BIC] 동인 서클에서 상업 개발을 하기까지, '신데리아' 인터뷰",
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "'페이즈', \"한화생명전 꼭 이겨서 2위로 마무리하겠다\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319795",
+          "meta": "리그 오브 레전드 · 1시간 전"
+        },
+        {
+          "title": "T1, KT 꺾고 2위 가능성 살려...KT는 5위·플인 확정",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319794",
+          "meta": "리그 오브 레전드 · 2시간 전"
+        },
+        {
+          "title": "'랩터', \"플레이-인, 플레이오프에서는 지금보다 더 잘해야\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319793",
+          "meta": "리그 오브 레전드 · 5시간 전"
+        },
+        {
+          "title": "BNK 피어엑스, 한진전 승리...1위 지키는 일만 남았다",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319791",
+          "meta": "리그 오브 레전드 · 5시간 전"
+        },
+        {
           "title": "방준혁 의장, 텐센트 계열사 보유 넷마블 지분 13.4% 인수",
           "url": "https://www.inven.co.kr/webzine/news/?news=319788",
-          "meta": "넷마블 · 2시간 전"
-        },
-        {
-          "title": "인조이, 중국 ‘탭탭 게임 페스트 2026’ 참가",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319782",
-          "meta": "인조이 · 3시간 전"
-        },
-        {
-          "title": "K-GAMES, 전북권역 게임산업 현장 소통 교류회 개최",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319781",
-          "meta": "한국게임산업협회 · 4시간 전"
-        },
-        {
-          "title": "한국e스포츠협회, 제주삼다수와 e스포츠 국가대표 공식 파트너십 체결",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319780",
-          "meta": "한국e스포츠협회 · 4시간 전"
-        },
-        {
-          "title": "컴투스, ‘컴투스프로야구V 클럽 챔피언십’ 결선 29일 개최",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319779",
-          "meta": "컴투스프로야구V26 · 4시간 전"
+          "meta": "넷마블 · 7시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
