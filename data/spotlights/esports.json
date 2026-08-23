@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-08-23T06:39:58.601Z",
+  "lastUpdatedAt": "2026-08-23T09:27:18.145Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -14,29 +14,6 @@
   "primaryBlockName": "Week 13",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115548147900553481",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 3 2026",
-      "blockName": "Week 13",
-      "startTime": "2026-08-23T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "Hanwha Life Esports",
-          "code": "HLE",
-          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
-        },
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "115548147900750229",
       "leagueKey": "lck",
@@ -289,6 +266,29 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
+    },
+    {
+      "id": "117030752644841631",
+      "leagueKey": "lck",
+      "leagueLabel": "LCK",
+      "tournamentName": "Split 3 2026",
+      "blockName": "Playoffs",
+      "startTime": "2026-09-06T08:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
     }
   ],
   "fetchedLeagues": [
@@ -296,7 +296,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 15
+      "matchCount": 14
     },
     {
       "key": "ewc",
