@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-08-24T06:57:25.875Z",
+  "lastUpdatedAt": "2026-08-24T09:47:14.787Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "wBuH9Fyv1Uo",
+      "title": "AI가 코드를 짜는 시대… 개발자는 끝일까? SOLID와 디자인패턴 실전 Part.5",
+      "url": "https://www.youtube.com/watch?v=wBuH9Fyv1Uo",
+      "publishedAt": "2026-08-24T05:03:35.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/wBuH9Fyv1Uo/hqdefault.jpg"
+    },
+    {
       "id": "TPOxYjsioqY",
       "title": "[2D 게임 개발 꿀팁 시리즈] Sprite Atlas 주의점",
       "url": "https://www.youtube.com/shorts/TPOxYjsioqY",
       "publishedAt": "2026-08-24T02:18:28.000Z",
       "thumbnailUrl": "https://i1.ytimg.com/vi/TPOxYjsioqY/hqdefault.jpg"
-    },
-    {
-      "id": "hGhz3USCwYY",
-      "title": "코딩을 배워야 하나 고민이라면? ⚙️: Unite Seoul 2026 - 조코딩 X Unity CEO 인터뷰 6편 #ai #게임개발",
-      "url": "https://www.youtube.com/shorts/hGhz3USCwYY",
-      "publishedAt": "2026-08-21T01:29:36.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/hGhz3USCwYY/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
