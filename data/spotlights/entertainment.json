@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-24T03:53:38.684Z",
+  "lastUpdatedAt": "2026-08-24T06:57:25.875Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "2f7a90b3897fad28",
-      "issueKey": "법카로 식사",
-      "issueTitle": "법카로 식사",
-      "trendTitle": "김병지",
+      "id": "e7dac8a325d65f04",
+      "issueKey": "lpga",
+      "issueTitle": "lpga",
+      "trendTitle": "lpga",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Kim Seyoung Finishes Top 3... Yamashita Claims 'Wire-to-Wire Victory'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/2026082410214894782",
+          "publishedAt": "2026-08-24T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Licensable picture: LPGA: CPKC Women's Open - Final Round",
+          "source": "Reuters Connect",
+          "url": "https://www.reutersconnect.com/item/lpga-cpkc-womens-open-final-round/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2NTAxNDA",
+          "publishedAt": "2026-08-24T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Miyu Yamashita matches LPGA Tour’s 72-hole scoring record in nine-stroke victory at Canadian Women’s Open",
+          "source": "The Boston Globe",
+          "url": "https://www.bostonglobe.com/2026/08/23/sports/golf-lpga-canadian-womens-open-miyu-yamashita/",
+          "publishedAt": "2026-08-24T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Licensable picture: LPGA: CPKC Women's Open - Final Round",
+        "source": "Reuters Connect",
+        "url": "https://www.reutersconnect.com/item/lpga-cpkc-womens-open-final-round/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2NTAxNDA",
+        "publishedAt": "2026-08-24T05:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-24T05:50:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "lpga",
+      "source": "Reuters Connect",
+      "url": "https://www.reutersconnect.com/item/lpga-cpkc-womens-open-final-round/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVVTQVRPREFZMjk2NTAxNDA",
+      "rank": 1
+    },
+    {
+      "id": "1a994f076c5c87a3",
+      "issueKey": "세제 개편",
+      "issueTitle": "세제 개편",
+      "trendTitle": "세제 개편",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"수시로 만나자\"‥김민석-장동혁 첫 회동",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6846833_36967.html",
+          "publishedAt": "2026-08-24T05:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "세제 개편·주택 공급 공방…김민석·장동혁은 ‘상견례’",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824141014646",
+          "publishedAt": "2026-08-24T05:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "金·張 첫회동부터 ‘대법관 제청’ 공방… 부동산세 개편엔 공감대",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11611560",
+          "publishedAt": "2026-08-24T05:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "세제 개편·주택 공급 공방…김민석·장동혁은 ‘상견례’",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824141014646",
+        "publishedAt": "2026-08-24T05:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-24T05:50:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "세제 개편",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260824141014646",
+      "rank": 2
+    },
+    {
+      "id": "166fdcc642031593",
+      "issueKey": "나영석",
+      "issueTitle": "나영석",
+      "trendTitle": "나영석",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "박문성 겨냥한 김병지 \"축협 법카로 식사·술자리 참석한 적 없나\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12314725",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
+          "title": "나영석 PD, 강원 고성군 홍보대사로 위촉됐다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260824504613",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "김병지 \"박문성 '성접대 법카'와 관련 없냐…내 아들 말하는데 네 딸은?\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6267176",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
+          "title": "고성군 홍보대사로 나영석 PD 위촉... 새로운 지역 콘텐츠 기대",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20260824501084",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"김병지 대표 개인회사 아니다\" 강원FC, 외국인 선수 영입·에이전트 수수료 해외송금 관련 의혹들 정면 반박",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/2026082312383882132",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
+          "title": "강원 고성, 홍보대사로 ‘지구오락실’ 나영석 PD 위촉",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824144940838",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "박문성 겨냥한 김병지 \"축협 법카로 식사·술자리 참석한 적 없나\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12314725",
-        "publishedAt": "2026-08-24T02:50:00.000Z",
+        "title": "나영석 PD, 강원 고성군 홍보대사로 위촉됐다",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260824504613",
+        "publishedAt": "2026-08-24T05:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-24T02:50:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "법카로 식사",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12314725",
-      "rank": 1
-    },
-    {
-      "id": "282ab017d5411e68",
-      "issueKey": "우선주",
-      "issueTitle": "우선주",
-      "trendTitle": "우선주",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "110조 주주환원에도... 개미들 왜 삼전 던지나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/08/24/UQCQPJALFNHCBFMZYF3PFDFKLI/",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘110조 주주환원’에도 삼성전자 5%대 급락, 왜?",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1274263.html",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘삼전닉스’ 주주환원 이어 AI반도체까지…금주 코스피 시험대",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260824.22010006314",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "우선주",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/stock-finance/2026/08/24/UQCQPJALFNHCBFMZYF3PFDFKLI/",
-        "publishedAt": "2026-08-24T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-24T02:50:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "우선주",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/stock-finance/2026/08/24/UQCQPJALFNHCBFMZYF3PFDFKLI/",
-      "rank": 2
-    },
-    {
-      "id": "ab4e05face2c2c8c",
-      "issueKey": "유로 환율",
-      "issueTitle": "유로 환율",
-      "trendTitle": "유로 환율",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "1400원 깨진 환율 어디까지…삼전닉스 주주환원에 1350원 전망도",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/economy/trend/6265938",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "원/달러 환율 1,370원대로 하락…작년 9월 이후 최저",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260824075800002",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[외환] '디베이스먼트 트레이드' 이어질까…2.90원↓",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431455",
-          "publishedAt": "2026-08-24T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "유로 환율",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/economy/trend/6265938",
-        "publishedAt": "2026-08-24T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-24T02:50:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "유로 환율",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/economy/trend/6265938",
+      "publishedAt": "2026-08-24T05:40:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "나영석",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20260824504613",
       "rank": 3
     },
     {
-      "id": "126da746a48d74e8",
-      "issueKey": "한미약품",
-      "issueTitle": "한미약품",
-      "trendTitle": "한미약품",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "471ac244a48cc4c5",
+      "issueKey": "내란죄",
+      "issueTitle": "내란죄",
+      "trendTitle": "내란죄",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "한미약품, 3조5000억원 규모 신약 기술수출…제넨텍과 사상 최대 규모 계약",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2617410",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "title": "2차 종합특검 58명 기소‥특검 정국 마무리",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6846832_36967.html",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "한미약품, 미국에 3.2조원 기술수출 계약",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431460",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "title": "종합특검, 수사 적법·완결성 논란 속 58명 무더기 기소…46건은 경찰로 이첩",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824153452282",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "한미약품, 제넨텍과 3조원대 기술수출 계약 체결…HM17321 독점권 부여",
-          "source": "데이터투자",
-          "url": "https://www.datatooza.com/article/20260824111541169452ef3a902d_80",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "title": "대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/5oSNp",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "한미약품, 3조5000억원 규모 신약 기술수출…제넨텍과 사상 최대 규모 계약",
-        "source": "이투데이",
-        "url": "https://www.etoday.co.kr/news/view/2617410",
-        "publishedAt": "2026-08-24T02:40:00.000Z",
+        "title": "내란죄",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6846832_36967.html",
+        "publishedAt": "2026-08-24T05:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-24T02:40:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "한미약품",
-      "source": "이투데이",
-      "url": "https://www.etoday.co.kr/news/view/2617410",
+      "publishedAt": "2026-08-24T05:40:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "내란죄",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6846832_36967.html",
       "rank": 4
     },
     {
-      "id": "b52aff428d7a93f6",
-      "issueKey": "국회 증액",
-      "issueTitle": "국회 증액",
-      "trendTitle": "국회 증액",
+      "id": "9fc9017c3e5e862a",
+      "issueKey": "벌금",
+      "issueTitle": "벌금",
+      "trendTitle": "벌금",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "GS ITM, 한국공항공사 ‘차세대 스카이-포스’ 구축사업 수주",
+          "title": "\"요즘 한국서도 종종 보이던데\"…조깅하다 주민 호통에 '깜짝', 벌금 위기 美관광객",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260824110928698",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "url": "https://v.daum.net/v/20260824082549221",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "TK공항 보상재원 또 막혔다…대구시, 국회 증액·지방채 ‘투트랙’",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20260823025443583",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "title": "상탈하고 10분 뛰었다가 ‘날벼락’…40만원 벌금 위기 커플의 사연",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/world/12134323",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "TK신공항 공자기금 또 무산…주민 불편 가중",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8642984",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "title": "베네치아서 웃통 벗었다가…미국인 커플이 몰랐던 '금지 규정'",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/08/23/2026082319261881563",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "TK공항 보상재원 또 막혔다…대구시, 국회 증액·지방채 ‘투트랙’",
-        "source": "영남일보",
-        "url": "https://www.yeongnam.com/web/view.php?key=20260823025443583",
-        "publishedAt": "2026-08-24T02:40:00.000Z",
-        "relevanceScore": 2
+        "title": "\"요즘 한국서도 종종 보이던데\"…조깅하다 주민 호통에 '깜짝', 벌금 위기 美관광객",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824082549221",
+        "publishedAt": "2026-08-24T05:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-08-24T02:40:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "국회 증액",
-      "source": "영남일보",
-      "url": "https://www.yeongnam.com/web/view.php?key=20260823025443583",
+      "publishedAt": "2026-08-24T05:40:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "벌금",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260824082549221",
       "rank": 5
     },
     {
-      "id": "7d7d431e89c15761",
-      "issueKey": "캐시워크 정답",
-      "issueTitle": "캐시워크 정답",
-      "trendTitle": "캐시워크 정답",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "e7aa831058574b42",
+      "issueKey": "삼성 라이온즈",
+      "issueTitle": "삼성 라이온즈",
+      "trendTitle": "삼성 라이온즈",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[단독] 캐시워크 돈버는퀴즈 정답 8월 24일",
-          "source": "BNT뉴스",
-          "url": "https://www.bntnews.co.kr/article/view/bnt202608240063",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "title": "8이닝 먹어치운 페덱…삼성이 그토록 바라던 '우승 청부사' 왔다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824081058880",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "산지로드 두부과자 캐시워크 돈 버는 퀴즈, 정답은?",
-          "source": "아주경제",
-          "url": "https://www.ajunews.com/view/20260823154848954",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "title": "[사진] 구자욱과 승리 기쁨 나누는 박진만 감독",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/23/202608232151771053O",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[캐시닥 퀴즈 정답] 캐시닥 오늘의 돈버는 퀴즈 8월 24일 10시 정답 공개",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16171660",
-          "publishedAt": "2026-08-24T02:40:00.000Z",
+          "title": "페덱 8이닝 7K 1실점 역투·박계범 역전포…삼성, 이틀 연속 NC 제압",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003759084",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "캐시워크 정답",
-        "source": "BNT뉴스",
-        "url": "https://www.bntnews.co.kr/article/view/bnt202608240063",
-        "publishedAt": "2026-08-24T02:40:00.000Z",
+        "title": "삼성 라이온즈",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824081058880",
+        "publishedAt": "2026-08-24T05:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-24T02:40:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "캐시워크 정답",
-      "source": "BNT뉴스",
-      "url": "https://www.bntnews.co.kr/article/view/bnt202608240063",
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "삼성 라이온즈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260824081058880",
       "rank": 6
     },
     {
-      "id": "8d7000e5c063da9a",
-      "issueKey": "대한민국 청와대",
-      "issueTitle": "대한민국 청와대",
-      "trendTitle": "대한민국 청와대",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "363b77aa84299585",
+      "issueKey": "심정지",
+      "issueTitle": "심정지",
+      "trendTitle": "심정지",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[사설]“청렴도 31위 부끄러워”… 감시가 소홀하면 권력은 썩기 마련",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527840/2",
-          "publishedAt": "2026-08-24T02:30:00.000Z",
+          "title": "탁구대회 중 가슴통증 호소…심정지 50대 살린 시민들",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719050",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "제1차 반부패정책협의회",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/multi/policyPhotoView.do?bbsKey=73071",
-          "publishedAt": "2026-08-24T02:30:00.000Z",
+          "title": "탁구대회에서 심정지 온 50대…시민·비번 소방관이 구해",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824087800055",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"부패청산에 여야 없어\"...청와대, 공직기강 단속 주력",
-          "source": "YTN",
-          "url": "https://m.ytn.co.kr/news_view.php?key=202608230153367240&amp;s_mcd=0101",
-          "publishedAt": "2026-08-24T02:30:00.000Z",
+          "title": "운동 중 심정지 환자, 주변 도움으로 목숨 구해",
+          "source": "B world",
+          "url": "https://news.skbroadband.com/news/articleView.html?idxno=235732",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "대한민국 청와대",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527840/2",
-        "publishedAt": "2026-08-24T02:30:00.000Z",
+        "title": "탁구대회 중 가슴통증 호소…심정지 50대 살린 시민들",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719050",
+        "publishedAt": "2026-08-24T05:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-24T02:30:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "대한민국 청와대",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Opinion/article/all/20260823/134527840/2",
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "심정지",
+      "source": "SBS 뉴스",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719050",
       "rank": 7
     },
     {
-      "id": "b84abb15bdec962d",
-      "issueKey": "이소희",
-      "issueTitle": "이소희",
-      "trendTitle": "이소희",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이소희·백하나, 배드민턴 세계선수권 여자복식 31년 만에 우승(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823045100007",
-          "publishedAt": "2026-08-24T02:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "여자복식 '31년 만에 쾌거'‥안세영은 '3년 만에 정상 도전'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6846712_37004.html",
-          "publishedAt": "2026-08-24T02:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"결승 내내 밀렸어\" 中 자존심 꺾였다! 이소희-백하나에 충격패→세계선수권 5연패 무산...\"수비가 너무 좋았다\" 완패 인정",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/24/202608232226770293O",
-          "publishedAt": "2026-08-24T02:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이소희·백하나, 배드민턴 세계선수권 여자복식 31년 만에 우승(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823045100007",
-        "publishedAt": "2026-08-24T02:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-24T02:30:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "이소희",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260823045100007",
-      "rank": 8
-    },
-    {
-      "id": "29e01b5a74aa970f",
-      "issueKey": "사우델",
-      "issueTitle": "사우델",
-      "trendTitle": "사우델",
+      "id": "307a5bc4a0af856a",
+      "issueKey": "양준모",
+      "issueTitle": "양준모",
+      "trendTitle": "양준모",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "태풍 4개 동시에 떴다…사우델·나라·개나리에 제21호 ‘앗사니’까지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824105716018",
-          "publishedAt": "2026-08-24T02:10:00.000Z",
+          "title": "양준모, 3년 전 이혼했다…새 사랑 만나 재혼",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260824_0003759999",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "태풍 4개가 동시에‥올해 21번째 태풍 '앗사니' 발생",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6846808_36918.html",
-          "publishedAt": "2026-08-24T02:10:00.000Z",
+          "title": "'재혼' 양준모♥︎스피카 양지원, '혼전임신'+결혼 발표 [핫피플]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/24/GNRWGOJVGAZDKMBSGEYGKNLBHE/",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "한반도 날씨, ‘매우 강’ 태풍 사우델 영향 받을 듯",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000546531.do",
-          "publishedAt": "2026-08-24T02:10:00.000Z",
+          "title": "스피카 출신 양지원, 뮤지컬 배우 양준모와 결혼·임신 겹경사…\"마흔에 엄마 된다\"",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260824n22245",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "태풍 4개 동시에 떴다…사우델·나라·개나리에 제21호 ‘앗사니’까지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824105716018",
-        "publishedAt": "2026-08-24T02:10:00.000Z",
+        "title": "양준모, 3년 전 이혼했다…새 사랑 만나 재혼",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260824_0003759999",
+        "publishedAt": "2026-08-24T05:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-24T02:10:00.000Z",
-      "firstSeenAt": "2026-08-24T03:53:38.684Z",
-      "lastSeenAt": "2026-08-24T03:53:38.684Z",
-      "title": "사우델",
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "양준모",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260824_0003759999",
+      "rank": 8
+    },
+    {
+      "id": "5c60519e7a30e476",
+      "issueKey": "앤트로픽",
+      "issueTitle": "앤트로픽",
+      "trendTitle": "앤트로픽",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'초대어' 美 앤트로픽 IPO 임박⋯SKT 주가 92% '껑충'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824150507724",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "앤트로픽 치솟자, “SKT·네이버·LG CNS 들썩…투자부터 AIDC, AX까지”",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20260824027095726",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "앤트로픽, 역대 최대 기업가치 '2조 달러' IPO 추진",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431332",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'초대어' 美 앤트로픽 IPO 임박⋯SKT 주가 92% '껑충'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824150507724",
+        "publishedAt": "2026-08-24T05:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "앤트로픽",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260824105716018",
+      "url": "https://v.daum.net/v/20260824150507724",
       "rank": 9
+    },
+    {
+      "id": "f414772fbd2cdd33",
+      "issueKey": "여성",
+      "issueTitle": "여성",
+      "trendTitle": "여성",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "청혼 받은지 하루 만에…러 20대 여성, 캠핑 중 텐트 덮친 불곰에 끌려가 참변",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260823000054",
+          "publishedAt": "2026-08-24T05:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“어제 청혼했는데”…캠핑 중 불곰에 끌려간 20대 여성 참변",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/udZElUgRuZ",
+          "publishedAt": "2026-08-24T05:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“남친과 잠든 20대 여성, 끔찍하게 살해당해”… 캠핑객 사망에 곰 5마리 사살한 러 당국 [월드픽]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/europe/2026/08/22/20260822500034",
+          "publishedAt": "2026-08-24T05:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "청혼 받은지 하루 만에…러 20대 여성, 캠핑 중 텐트 덮친 불곰에 끌려가 참변",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260823000054",
+        "publishedAt": "2026-08-24T05:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-24T05:20:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "여성",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20260823000054",
+      "rank": 10
     }
   ],
   "history": [
@@ -666,6 +713,144 @@
       "title": "삼성",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260823135308059"
+    },
+    {
+      "id": "471ac244a48cc4c5",
+      "issueKey": "내란죄",
+      "issueTitle": "내란죄",
+      "trendTitle": "내란죄",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "2차 종합특검 58명 기소‥특검 정국 마무리",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6846832_36967.html",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "종합특검, 수사 적법·완결성 논란 속 58명 무더기 기소…46건은 경찰로 이첩",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824153452282",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "대통령 관저 감사는 어떻게 좌절됐나...유병호 공소장 전문 공개",
+          "source": "뉴스타파",
+          "url": "https://newstapa.org/article/5oSNp",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "내란죄",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6846832_36967.html",
+        "publishedAt": "2026-08-24T05:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-24T05:40:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "내란죄",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nw1200/article/6846832_36967.html"
+    },
+    {
+      "id": "e7aa831058574b42",
+      "issueKey": "삼성 라이온즈",
+      "issueTitle": "삼성 라이온즈",
+      "trendTitle": "삼성 라이온즈",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "8이닝 먹어치운 페덱…삼성이 그토록 바라던 '우승 청부사' 왔다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824081058880",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진] 구자욱과 승리 기쁨 나누는 박진만 감독",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/23/202608232151771053O",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "페덱 8이닝 7K 1실점 역투·박계범 역전포…삼성, 이틀 연속 NC 제압",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260823_0003759084",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "삼성 라이온즈",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260824081058880",
+        "publishedAt": "2026-08-24T05:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "삼성 라이온즈",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260824081058880"
+    },
+    {
+      "id": "363b77aa84299585",
+      "issueKey": "심정지",
+      "issueTitle": "심정지",
+      "trendTitle": "심정지",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "탁구대회 중 가슴통증 호소…심정지 50대 살린 시민들",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719050",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "탁구대회에서 심정지 온 50대…시민·비번 소방관이 구해",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260824087800055",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "운동 중 심정지 환자, 주변 도움으로 목숨 구해",
+          "source": "B world",
+          "url": "https://news.skbroadband.com/news/articleView.html?idxno=235732",
+          "publishedAt": "2026-08-24T05:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "탁구대회 중 가슴통증 호소…심정지 50대 살린 시민들",
+        "source": "SBS 뉴스",
+        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719050",
+        "publishedAt": "2026-08-24T05:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-24T05:30:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "심정지",
+      "source": "SBS 뉴스",
+      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008719050"
     },
     {
       "id": "287155ed9caff7ea",
@@ -988,6 +1173,98 @@
       "title": "김지훈",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260822000213300"
+    },
+    {
+      "id": "166fdcc642031593",
+      "issueKey": "나영석",
+      "issueTitle": "나영석",
+      "trendTitle": "나영석",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "나영석 PD, 강원 고성군 홍보대사로 위촉됐다",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260824504613",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고성군 홍보대사로 나영석 PD 위촉... 새로운 지역 콘텐츠 기대",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20260824501084",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "강원 고성, 홍보대사로 ‘지구오락실’ 나영석 PD 위촉",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260824144940838",
+          "publishedAt": "2026-08-24T05:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "나영석 PD, 강원 고성군 홍보대사로 위촉됐다",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260824504613",
+        "publishedAt": "2026-08-24T05:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-24T05:40:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "나영석",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20260824504613"
+    },
+    {
+      "id": "f414772fbd2cdd33",
+      "issueKey": "여성",
+      "issueTitle": "여성",
+      "trendTitle": "여성",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "청혼 받은지 하루 만에…러 20대 여성, 캠핑 중 텐트 덮친 불곰에 끌려가 참변",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260823000054",
+          "publishedAt": "2026-08-24T05:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“어제 청혼했는데”…캠핑 중 불곰에 끌려간 20대 여성 참변",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/udZElUgRuZ",
+          "publishedAt": "2026-08-24T05:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“남친과 잠든 20대 여성, 끔찍하게 살해당해”… 캠핑객 사망에 곰 5마리 사살한 러 당국 [월드픽]",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/international/europe/2026/08/22/20260822500034",
+          "publishedAt": "2026-08-24T05:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "청혼 받은지 하루 만에…러 20대 여성, 캠핑 중 텐트 덮친 불곰에 끌려가 참변",
+        "source": "전자신문",
+        "url": "https://www.etnews.com/20260823000054",
+        "publishedAt": "2026-08-24T05:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-24T05:20:00.000Z",
+      "firstSeenAt": "2026-08-24T06:57:25.875Z",
+      "lastSeenAt": "2026-08-24T06:57:25.875Z",
+      "title": "여성",
+      "source": "전자신문",
+      "url": "https://www.etnews.com/20260823000054"
     },
     {
       "id": "2f7a90b3897fad28",
@@ -1402,52 +1679,6 @@
       "title": "도경완",
       "source": "한국일보",
       "url": "https://www.hankookilbo.com/news/article/A2026082215080000811"
-    },
-    {
-      "id": "8d0a9c71614474e5",
-      "issueKey": "충청",
-      "issueTitle": "충청",
-      "trendTitle": "대전날씨",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[12시 날씨] 전국 대부분 지역 소나기…충청·남부 무더위",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260822121710293",
-          "publishedAt": "2026-08-22T05:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대전·세종·충남 곳에 따라 비…낮 최고기온 33도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260822007400063",
-          "publishedAt": "2026-08-22T05:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[날씨] 수도권·강원 다시 강한 비구름...시간당 30mm 안팎",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202608221437186092",
-          "publishedAt": "2026-08-22T05:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[12시 날씨] 전국 대부분 지역 소나기…충청·남부 무더위",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260822121710293",
-        "publishedAt": "2026-08-22T05:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-22T05:20:00.000Z",
-      "firstSeenAt": "2026-08-22T06:39:05.689Z",
-      "lastSeenAt": "2026-08-22T06:39:05.689Z",
-      "title": "충청",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260822121710293"
     },
     {
       "id": "a8c5d92bb744ac4c",
@@ -2113,190 +2344,6 @@
       "title": "스콧 베선트",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260823110251176"
-    },
-    {
-      "id": "b32d96dd9bcf135e",
-      "issueKey": "연차",
-      "issueTitle": "연차",
-      "trendTitle": "연차",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"연차를 왜 써요?\"…휴가 몰빵하던 직장인들 돌변한 이유 [신용현의 트래블랩]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202608215122g",
-          "publishedAt": "2026-08-22T23:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"베트남이 아니었네\"…평균 여행경비 133만원, 추석 여행 1위는 '일본'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WL2bgtJ6gU",
-          "publishedAt": "2026-08-22T23:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“한국인들 ‘일본·베트남 사랑’ 여전하네”…올 추석엔 ‘짧고 싸게’ 떠난다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20082159",
-          "publishedAt": "2026-08-22T23:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"연차를 왜 써요?\"…휴가 몰빵하던 직장인들 돌변한 이유 [신용현의 트래블랩]",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202608215122g",
-        "publishedAt": "2026-08-22T23:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-22T23:30:00.000Z",
-      "firstSeenAt": "2026-08-23T01:19:26.579Z",
-      "lastSeenAt": "2026-08-23T01:19:26.579Z",
-      "title": "연차",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202608215122g"
-    },
-    {
-      "id": "a4e8e584126026d6",
-      "issueKey": "남편",
-      "issueTitle": "남편",
-      "trendTitle": "남편",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김밥지옥 부부, 잠시 쉬는 아내에 \"왜 쉬어?\"..\"100명 중 1명 해당\" ('결혼 지옥')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260823083353661",
-          "publishedAt": "2026-08-22T23:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "오은영, “고구마 100개 먹은 것 같다”…‘결혼 지옥’ 김밥지옥 부부 만난다",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16170654",
-          "publishedAt": "2026-08-22T23:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'결혼 지옥' 아내 \"남편, 사이코패스인가 싶어\" 눈물",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515589",
-          "publishedAt": "2026-08-22T23:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'결혼 지옥' 아내 \"남편, 사이코패스인가 싶어\" 눈물",
-        "source": "iMBC 연예",
-        "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515589",
-        "publishedAt": "2026-08-22T23:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-22T23:30:00.000Z",
-      "firstSeenAt": "2026-08-23T01:19:26.579Z",
-      "lastSeenAt": "2026-08-23T01:19:26.579Z",
-      "title": "남편",
-      "source": "iMBC 연예",
-      "url": "https://enews.imbc.com/News/RetrieveNewsInfo/515589"
-    },
-    {
-      "id": "b9db54781b029f38",
-      "issueKey": "일본 지진",
-      "issueTitle": "일본 지진",
-      "trendTitle": "일본 지진",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "일본 지바현 가시와시 북동쪽서 규모 5.9 지진 발생",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823001300530",
-          "publishedAt": "2026-08-22T17:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "일본 지바현 가시와시 북동쪽 18km 지역 규모 5.9 지진",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643561",
-          "publishedAt": "2026-08-22T17:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "日 중동부서 규모 5.8 지진 발생…깊이 77.6km 지점",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/world/northeast-asia/6266500",
-          "publishedAt": "2026-08-22T17:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "일본 지진",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260823001300530",
-        "publishedAt": "2026-08-22T17:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-22T17:00:00.000Z",
-      "firstSeenAt": "2026-08-22T18:30:05.666Z",
-      "lastSeenAt": "2026-08-22T18:30:05.666Z",
-      "title": "일본 지진",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260823001300530"
-    },
-    {
-      "id": "a7ceafd37d8aba21",
-      "issueKey": "지진",
-      "issueTitle": "지진",
-      "trendTitle": "지진",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "제주 서귀포시 먼 해역에서 규모 2.2 지진",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8643560",
-          "publishedAt": "2026-08-22T17:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "기상청 \"제주 서귀포 동쪽 바다서 규모 2.2 지진…피해 없을 듯\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260823001100530",
-          "publishedAt": "2026-08-22T17:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "제주 서귀포시 동쪽 79km 해역서 규모 2.7 지진…\"피해 없어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260822_0003758563",
-          "publishedAt": "2026-08-22T17:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "제주 서귀포시 먼 해역에서 규모 2.2 지진",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8643560",
-        "publishedAt": "2026-08-22T17:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-22T17:00:00.000Z",
-      "firstSeenAt": "2026-08-22T18:30:05.666Z",
-      "lastSeenAt": "2026-08-22T18:30:05.666Z",
-      "title": "지진",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8643560"
     }
   ]
 }
