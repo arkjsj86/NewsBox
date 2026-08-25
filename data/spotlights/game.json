@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-25T09:34:31.975Z",
+  "lastUpdatedAt": "2026-08-25T12:46:20.283Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -26,14 +26,9 @@
       "sourceUrl": "https://bbs.ruliweb.com/best",
       "items": [
         {
-          "title": "브라운더스트2, ‘김수연’ 디렉터의 합류 이유",
-          "url": "https://bbs.ruliweb.com/news/read/228162",
-          "meta": "댓글 38"
-        },
-        {
           "title": "도트풍 한국 설화 MMORPG, '도깨비의세계' 쇼케이스",
           "url": "https://bbs.ruliweb.com/news/read/228319",
-          "meta": "댓글 30"
+          "meta": "댓글 31"
         },
         {
           "title": "전자오락수호대, 극장용 애니메이션 10월 개봉",
@@ -49,6 +44,11 @@
           "title": "컴투스 신작 ‘제우스: 오만의 신’이 다시 짠 MMORPG의 문법",
           "url": "https://bbs.ruliweb.com/news/read/228370",
           "meta": "댓글 16"
+        },
+        {
+          "title": "넥슨 IP 스킨 나오나!? ‘오버워치’ 국내 서비스에 대해 답하다",
+          "url": "https://bbs.ruliweb.com/news/read/228397",
+          "meta": "댓글 6"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "델 테크놀로지스 포럼 2026 개최... 데이터센터 현대화 및 최신 디바이스 전환 강조",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319901",
+          "meta": "5시간 전"
+        },
+        {
+          "title": "삼성전자, '게임스컴 2026'서 통합 게이밍 생태계 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=319895",
+          "meta": "5시간 전"
+        },
+        {
           "title": "'제한된 TO, 넘치는 선택지!' 과포화된 2버스트 니케 정리",
           "url": "https://www.inven.co.kr/webzine/news/?news=319891",
-          "meta": "승리의 여신: 니케 · 24분 전"
+          "meta": "승리의 여신: 니케 · 6시간 전"
         },
         {
           "title": "세가퍼블리싱코리아, 'STRANGER THAN HEAVEN' 예약 개시",
           "url": "https://www.inven.co.kr/webzine/news/?news=319889",
-          "meta": "스트레인저 댄 해븐 · 4시간 전"
+          "meta": "스트레인저 댄 해븐 · 10시간 전"
         },
         {
           "title": "더 파이널스, e스포츠 APAC 리그서 ‘777rs’ 첫 승 달성",
           "url": "https://www.inven.co.kr/webzine/news/?news=319888",
-          "meta": "더 파이널스 · 5시간 전"
-        },
-        {
-          "title": "이펀컴퍼니, ‘로그W: 리메인즈 오브 갓’, 네이버웹툰 신의 탑 콜라보 확정",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319887",
-          "meta": "5시간 전"
-        },
-        {
-          "title": "넥슨컴퍼니, 2026 게임 프로그래머 인턴십 모집",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319886",
-          "meta": "넥슨 · 5시간 전"
+          "meta": "더 파이널스 · 11시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
