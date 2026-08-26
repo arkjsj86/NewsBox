@@ -7,433 +7,473 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-26T16:17:05.111Z",
+  "lastUpdatedAt": "2026-08-26T19:46:02.456Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "a183a8032f000aa7",
-      "issueKey": "엄형찬",
-      "issueTitle": "엄형찬",
-      "trendTitle": "포수",
+      "id": "c1d8da88be004cdf",
+      "issueKey": "경기 예측",
+      "issueTitle": "경기 예측",
+      "trendTitle": "경기 예측",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "레알 마드리드 vs 소시에다드 경기 예측, 8월 27일 오전 2시: 백독수리(레알 마드리드의 별칭)가 강팀의 면모를 보여줄 것입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sociedad-02h00-ngay-27-8-ken-ken-pho-dien-suc-manh",
+          "publishedAt": "2026-08-26T18:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "라리가 레알 마드리드 대 레알 소시에다드 축구 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-real-madrid-vs-real-sociedad-tai-la-liga-1756848.ldo",
+          "publishedAt": "2026-08-26T18:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "경기 프리뷰: 레알 마드리드 vs 소시에다드, 8월 27일 새벽 2시: 3점 획득 가능성 있음.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-real-madrid-vs-sociedad-2h00-ngay-27-8-3-diem-trong-tam-tay",
+          "publishedAt": "2026-08-26T18:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "레알 마드리드 vs 소시에다드 경기 예측, 8월 27일 오전 2시: 백독수리(레알 마드리드의 별칭)가 강팀의 면모를 보여줄 것입니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sociedad-02h00-ngay-27-8-ken-ken-pho-dien-suc-manh",
+        "publishedAt": "2026-08-26T18:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-26T18:20:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "경기 예측",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sociedad-02h00-ngay-27-8-ken-ken-pho-dien-suc-manh",
+      "rank": 1
+    },
+    {
+      "id": "3dfe26c597a7c130",
+      "issueKey": "재난",
+      "issueTitle": "재난",
+      "trendTitle": "재난",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "제천시, 이상기후 피해 농가 재난지원금 조기 지급",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826125852033",
+          "publishedAt": "2026-08-26T18:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "제천 이상저온·우박 피해 재난지원금 추석 전 조기 지급",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260826_0003762961",
+          "publishedAt": "2026-08-26T18:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "제천시, 이상저온·우박 피해 농가 지원금 조기 지급",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3674611",
+          "publishedAt": "2026-08-26T18:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "제천시, 이상기후 피해 농가 재난지원금 조기 지급",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826125852033",
+        "publishedAt": "2026-08-26T18:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-26T18:00:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "재난",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260826125852033",
+      "rank": 2
+    },
+    {
+      "id": "745d55ef679c918b",
+      "issueKey": "tory burch",
+      "issueTitle": "tory burch",
+      "trendTitle": "tory burch",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 2,
+      "articleCount": 2,
+      "relatedArticles": [
+        {
+          "title": "Tory Burch ‘Tea’ Party at Southampton Playhouse Has Fans Fashionably On Time",
+          "source": "Dan’s Papers",
+          "url": "https://www.danspapers.com/2026/08/tory-burch-southampton-playhouse-talk/",
+          "publishedAt": "2026-08-26T17:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "The Playhouse Parlor Series Presents Talk With Tory Burch At The Southampton Playhouse",
+          "source": "James Lane Post",
+          "url": "https://jameslanepost.com/the-playhouse-parlor-series-presents-talk-with-tory-burch-at-the-southampton-playhouse/08/17/2026/Hamptons-News-Happenings",
+          "publishedAt": "2026-08-26T17:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Tory Burch ‘Tea’ Party at Southampton Playhouse Has Fans Fashionably On Time",
+        "source": "Dan’s Papers",
+        "url": "https://www.danspapers.com/2026/08/tory-burch-southampton-playhouse-talk/",
+        "publishedAt": "2026-08-26T17:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-26T17:40:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "tory burch",
+      "source": "Dan’s Papers",
+      "url": "https://www.danspapers.com/2026/08/tory-burch-southampton-playhouse-talk/",
+      "rank": 3
+    },
+    {
+      "id": "5a2c72dacc122ca3",
+      "issueKey": "tim curry",
+      "issueTitle": "tim curry",
+      "trendTitle": "tim curry",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80",
+          "source": "CNN",
+          "url": "https://www.cnn.com/tim-curry-death",
+          "publishedAt": "2026-08-26T16:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Luke Evans shares touching tribute to Tim Curry: 'A bright fierce flame'",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/entertainment/celebrity/articles/luke-evans-shares-touching-tribute-193120525.html",
+          "publishedAt": "2026-08-26T16:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Tim Curry, Star of ‘Rocky Horror’ and Much More, Dies at 80",
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/08/26/movies/tim-curry-dead.html",
+          "publishedAt": "2026-08-26T16:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Tim Curry, star of ‘Rocky Horror Picture Show’ and ‘Clue,’ dead at 80",
+        "source": "CNN",
+        "url": "https://www.cnn.com/tim-curry-death",
+        "publishedAt": "2026-08-26T16:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-26T16:40:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "tim curry",
+      "source": "CNN",
+      "url": "https://www.cnn.com/tim-curry-death",
+      "rank": 4
+    },
+    {
+      "id": "c9aa4399079ff35f",
+      "issueKey": "근로",
+      "issueTitle": "근로",
+      "trendTitle": "장려금",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[오피셜] '한국 야구 초대박' 초고속 승격 미쳤다! '韓 최초 MLB 포수 도전' 엄형찬, 경쟁 유망주들 다 제치고 더블A로",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260826n16482",
-          "publishedAt": "2026-08-26T15:10:00.000Z",
+          "title": "근로·자녀장려금 오늘 지급 시간… 나는 얼마 받을까?",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3675675",
+          "publishedAt": "2026-08-26T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘한국 최초 MLB 포수’에 성큼…엄형찬, 28일 만에 또 승격! 이제 한 단계 남았다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826145014992",
-          "publishedAt": "2026-08-26T15:10:00.000Z",
+          "title": "“최대 330만 원”…근로장려금, 오늘 조기 지급→금액-심사 결과 조회 방법?",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16174555",
+          "publishedAt": "2026-08-26T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "KC 포수 유망주 엄형찬, 이번 시즌에만 두 번째 승격! 더블A 합류",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/sports/12136467",
-          "publishedAt": "2026-08-26T15:10:00.000Z",
+          "title": "근로장려금 신청 안내문 놓친 근로자,항목을 직접 눌러보니",
+          "source": "CBC뉴스",
+          "url": "https://www.cbci.co.kr/news/articleView.html?idxno=601419",
+          "publishedAt": "2026-08-26T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[오피셜] '한국 야구 초대박' 초고속 승격 미쳤다! '韓 최초 MLB 포수 도전' 엄형찬, 경쟁 유망주들 다 제치고 더블A로",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260826n16482",
-        "publishedAt": "2026-08-26T15:10:00.000Z",
+        "title": "근로·자녀장려금 오늘 지급 시간… 나는 얼마 받을까?",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3675675",
+        "publishedAt": "2026-08-26T16:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-26T15:10:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "엄형찬",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260826n16482",
-      "rank": 1
-    },
-    {
-      "id": "45bfe4b969145147",
-      "issueKey": "한기범",
-      "issueTitle": "한기범",
-      "trendTitle": "한기범",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"식당서 제자리 앉지 못해\"…한기범, '자폐 경계선' 두 아들 공개",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082619422469238",
-          "publishedAt": "2026-08-26T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "유전병과 사업 실패…한기범 가족의 시련",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826175410156",
-          "publishedAt": "2026-08-26T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘원조 농구스타’ 한기범, 숨겨온 두 아들 ‘경계선 자폐’ 고백 “식당서 가만히 못 있어”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12137179",
-          "publishedAt": "2026-08-26T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"식당서 제자리 앉지 못해\"…한기범, '자폐 경계선' 두 아들 공개",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082619422469238",
-        "publishedAt": "2026-08-26T15:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T15:10:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "한기범",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/08/26/2026082619422469238",
-      "rank": 2
-    },
-    {
-      "id": "b57722a5c571648b",
-      "issueKey": "돈을 포기하고",
-      "issueTitle": "돈을 포기하고",
-      "trendTitle": "돈을 포기하고",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"돈을 포기하고, 꿈을 택했다\"...韓 새로운 유럽파 탄생 임박, 송민규, 서울 떠나 포르투갈 나시오날행 초읽기",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826192707961",
-          "publishedAt": "2026-08-26T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "K리그1 FC서울 송민규, 포르투갈 리그 나시오날 입단 임박",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6847541_36946.html",
-          "publishedAt": "2026-08-26T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "FC서울 공격수 송민규, 유럽 진출 임박…포르투갈 나시오날행",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826170800007",
-          "publishedAt": "2026-08-26T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"돈을 포기하고, 꿈을 택했다\"...韓 새로운 유럽파 탄생 임박, 송민규, 서울 떠나 포르투갈 나시오날행 초읽기",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826192707961",
-        "publishedAt": "2026-08-26T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T15:00:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "돈을 포기하고",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260826192707961",
-      "rank": 3
-    },
-    {
-      "id": "ad9411f10382ae51",
-      "issueKey": "박현주",
-      "issueTitle": "박현주",
-      "trendTitle": "박현주",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "박현주 \"부동산으로 버는 시대 끝내야…보유세 1억이면 반응할 것\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431965",
-          "publishedAt": "2026-08-26T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "미래에셋 박현주 \"디지털자산 150조로 육성…내년 흑자 달성할 것\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260826_0003764217",
-          "publishedAt": "2026-08-26T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "박현주 \"비트코인 샀다 패가망신…주식도 그렇게 하면 안돼\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826178800002",
-          "publishedAt": "2026-08-26T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "박현주 \"부동산으로 버는 시대 끝내야…보유세 1억이면 반응할 것\"",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431965",
-        "publishedAt": "2026-08-26T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T14:10:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "박현주",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4431965",
-      "rank": 4
-    },
-    {
-      "id": "a23e9cdda7a3e0db",
-      "issueKey": "nepal",
-      "issueTitle": "nepal",
-      "trendTitle": "nepal",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/videos/c62jmlgev3po",
-          "publishedAt": "2026-08-26T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "What we know — and don’t know — about what caused the Nepal flood wave",
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/08/26/weather/floods-nepal-cause-vis",
-          "publishedAt": "2026-08-26T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "At least 22 dead, hundreds missing in flash floods on Nepal-China border",
-          "source": "The Washington Post",
-          "url": "https://www.washingtonpost.com/world/2026/08/26/least-22-dead-hundreds-missing-flash-floods-nepal-china-border/",
-          "publishedAt": "2026-08-26T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Video shows scale of flash flood hitting Nepal-Tibet border",
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/videos/c62jmlgev3po",
-        "publishedAt": "2026-08-26T14:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T14:10:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "nepal",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/videos/c62jmlgev3po",
+      "publishedAt": "2026-08-26T16:30:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "근로",
+      "source": "국제뉴스",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3675675",
       "rank": 5
     },
     {
-      "id": "e43a601dce15986a",
-      "issueKey": "인천대교",
-      "issueTitle": "인천대교",
-      "trendTitle": "인천대교",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "4ac9675b6f9c417f",
+      "issueKey": "성실",
+      "issueTitle": "성실",
+      "trendTitle": "국세청",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "인천대교, 97명 숨질 때까지 ‘PE드럼’ 설치가 고작… 이제서야 추락방지시설 내년 착공, ‘투신대교’ 오명 씻나",
+          "title": "소노그룹, 국세청 세무조사에 \"성실·투명하게 적극 협조할 것\"(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/6JifIatWYJ",
-          "publishedAt": "2026-08-26T14:00:00.000Z",
+          "url": "https://v.daum.net/v/005PMNFY5C",
+          "publishedAt": "2026-08-26T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "드럼통도 못막은 ‘투신대교 오명’ 인천대교에 3m 와이어 난간 설치",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11611728",
-          "publishedAt": "2026-08-26T14:00:00.000Z",
+          "title": "회삿돈으로 산 200억 주택 살며 증축에 100억 갖다 쓴 회장님",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608252026015",
+          "publishedAt": "2026-08-26T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이제서야… 인천대교 ‘추락 방지’ 안전난간 설치한다",
-          "source": "경인일보",
-          "url": "https://www.kyeongin.com/article/1769568",
-          "publishedAt": "2026-08-26T14:00:00.000Z",
+          "title": "“수백억 대 주택 회삿돈으로”…다주택 규제까지 피했다",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646109",
+          "publishedAt": "2026-08-26T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "인천대교, 97명 숨질 때까지 ‘PE드럼’ 설치가 고작… 이제서야 추락방지시설 내년 착공, ‘투신대교’ 오명 씻나",
+        "title": "소노그룹, 국세청 세무조사에 \"성실·투명하게 적극 협조할 것\"(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/6JifIatWYJ",
-        "publishedAt": "2026-08-26T14:00:00.000Z",
+        "url": "https://v.daum.net/v/005PMNFY5C",
+        "publishedAt": "2026-08-26T16:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-26T14:00:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "인천대교",
+      "publishedAt": "2026-08-26T16:30:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "성실",
       "source": "Daum",
-      "url": "https://v.daum.net/v/6JifIatWYJ",
+      "url": "https://v.daum.net/v/005PMNFY5C",
       "rank": 6
     },
     {
-      "id": "d22abdb46485c708",
-      "issueKey": "아기 울음소리",
-      "issueTitle": "아기 울음소리",
-      "trendTitle": "아기 울음소리",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "02e518749b3d8758",
+      "issueKey": "나홀로 집에",
+      "issueTitle": "나홀로 집에",
+      "trendTitle": "나홀로 집에",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "지난해 출생아 25만 4300명, 6.7% ↑…합계출산율 0.8명대 회복",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970652&amp;pWise=sub&amp;pWiseSub=C1",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "'록키 호러 픽쳐 쇼' 컬트의 전설 팀 커리 별세…향년 80세",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260827031839941",
+          "publishedAt": "2026-08-26T16:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "강원 아기 울음소리, 10년만에 증가세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260827000125605",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "영화 '록키 호러 픽처 쇼' 배우 팀 커리 별세…향년 80세",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6270695",
+          "publishedAt": "2026-08-26T16:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'늦깎이 엄마' 역대급 늘더니…7년 만에 일어난 '대반전'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082648021",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "영화 나홀로 집에, 애니,록키 호러 픽쳐 쇼의 배우 팀 커리 80세로 별세",
+          "source": "RadioKorea",
+          "url": "https://www.radiokorea.com/news/article.php?uid=502588",
+          "publishedAt": "2026-08-26T16:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "강원 아기 울음소리, 10년만에 증가세",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260827000125605",
-        "publishedAt": "2026-08-26T13:40:00.000Z",
-        "relevanceScore": 2
+        "title": "영화 나홀로 집에, 애니,록키 호러 픽쳐 쇼의 배우 팀 커리 80세로 별세",
+        "source": "RadioKorea",
+        "url": "https://www.radiokorea.com/news/article.php?uid=502588",
+        "publishedAt": "2026-08-26T16:00:00.000Z",
+        "relevanceScore": 1
       },
-      "publishedAt": "2026-08-26T13:40:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "아기 울음소리",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260827000125605",
+      "publishedAt": "2026-08-26T16:00:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "나홀로 집에",
+      "source": "RadioKorea",
+      "url": "https://www.radiokorea.com/news/article.php?uid=502588",
       "rank": 7
     },
     {
-      "id": "eaa60102ff35c7f3",
-      "issueKey": "물류",
-      "issueTitle": "물류",
-      "trendTitle": "물류",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "e489caaa9bb92644",
+      "issueKey": "공기업 결합",
+      "issueTitle": "공기업 결합",
+      "trendTitle": "공기업 결합",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "채정선 경기도의원, “푸드뱅크는 물품 나눔 넘어 지역사회 안전망 만드는 일”",
-          "source": "서울Pn",
-          "url": "https://go.seoul.co.kr/news/newsView.php?id=20260826500235",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "李대통령 \"SRT·KTX 적자 고려해야…누적되면 결국 국민 세금\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260825173529137",
+          "publishedAt": "2026-08-26T15:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "채정선 경기도의원, 경기나눔푸드뱅크 북부물류센터 이전 개소식 참석",
-          "source": "KNS뉴스통신",
-          "url": "https://www.kns.tv/news/articleView.html?idxno=1014800",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "李 \"공기업 결합, 민간과 같아야 하나\"…공정위 심사기준 점검",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260826_0003763873",
+          "publishedAt": "2026-08-26T15:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "경기도의회 국은주 의원, 경기광역푸드뱅크 북부물류센터 이전 개소식 참석",
-          "source": "경기평화신문",
-          "url": "https://www.ggpyeonghwa.com/603599",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "고속철도 통합, 요금 더 싸져 버스 고사위기…李 \"교통양극화 걱정\"",
+          "source": "철도경제신문",
+          "url": "https://www.redaily.co.kr/news/articleView.html?idxno=17421",
+          "publishedAt": "2026-08-26T15:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "채정선 경기도의원, 경기나눔푸드뱅크 북부물류센터 이전 개소식 참석",
-        "source": "KNS뉴스통신",
-        "url": "https://www.kns.tv/news/articleView.html?idxno=1014800",
-        "publishedAt": "2026-08-26T13:40:00.000Z",
+        "title": "李 \"공기업 결합, 민간과 같아야 하나\"…공정위 심사기준 점검",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260826_0003763873",
+        "publishedAt": "2026-08-26T15:40:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-08-26T13:40:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "물류",
-      "source": "KNS뉴스통신",
-      "url": "https://www.kns.tv/news/articleView.html?idxno=1014800",
+      "publishedAt": "2026-08-26T15:40:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "공기업 결합",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260826_0003763873",
       "rank": 8
     },
     {
-      "id": "a2fcc3f1c53a37ca",
-      "issueKey": "수영",
-      "issueTitle": "수영",
-      "trendTitle": "수영",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "00441c7f293b315d",
+      "issueKey": "이세영",
+      "issueTitle": "이세영",
+      "trendTitle": "이세영",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "광주수영연맹, 해외 전지훈련팀 유치",
-          "source": "남도일보",
-          "url": "https://www.namdonews.com/news/articleView.html?idxno=921324",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "\"인형이 빵을 먹네\"…이세영, '청바지' 하나로 촬영장 찢었다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826053640391",
+          "publishedAt": "2026-08-26T15:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "수영복 몸매 공개한 유이…172㎝·51㎏ 유지하는 습관은 ‘이 운동’",
-          "source": "헤럴드경제",
-          "url": "https://biz.heraldcorp.com/article/10849355",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "이세영, 헤드폰 걸친 캐주얼 비주얼…‘재혼 황후’ 앞두고 근황",
+          "source": "톱스타뉴스",
+          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16174395",
+          "publishedAt": "2026-08-26T15:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“172㎝·51㎏ 유지” 유이, 수영복 자태…제주 바다서 뽐낸 수영 실력",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20260825/134536524/1",
-          "publishedAt": "2026-08-26T13:40:00.000Z",
+          "title": "'34세' 이세영, 단발에 염색까지 하더니…기존 청순 이미지 다 벗었다",
+          "source": "텐아시아",
+          "url": "https://www.tenasia.co.kr/article/2026082650364",
+          "publishedAt": "2026-08-26T15:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "광주수영연맹, 해외 전지훈련팀 유치",
-        "source": "남도일보",
-        "url": "https://www.namdonews.com/news/articleView.html?idxno=921324",
-        "publishedAt": "2026-08-26T13:40:00.000Z",
+        "title": "\"인형이 빵을 먹네\"…이세영, '청바지' 하나로 촬영장 찢었다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260826053640391",
+        "publishedAt": "2026-08-26T15:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-26T13:40:00.000Z",
-      "firstSeenAt": "2026-08-26T16:17:05.111Z",
-      "lastSeenAt": "2026-08-26T16:17:05.111Z",
-      "title": "수영",
-      "source": "남도일보",
-      "url": "https://www.namdonews.com/news/articleView.html?idxno=921324",
+      "publishedAt": "2026-08-26T15:20:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "이세영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260826053640391",
       "rank": 9
+    },
+    {
+      "id": "ba1514beaa344900",
+      "issueKey": "황석정",
+      "issueTitle": "황석정",
+      "trendTitle": "황석정",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "황석정, 영화 '호프' 흥행에 30년 전 썸남까지 연락 \"기억 안 나\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/08/27/2026082703433292703",
+          "publishedAt": "2026-08-26T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "황석정, 기획사 없어 시외버스 타고 ‘호프’ 촬영…\"내려서 흙바람 맞으며 헤맸다\" ('라스')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260826225909923",
+          "publishedAt": "2026-08-26T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'라스' 황석정, '호프' 나홍진에 질문도 못 해⋯\"그럴 사이 아냐\"",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2618579",
+          "publishedAt": "2026-08-26T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "황석정, 영화 '호프' 흥행에 30년 전 썸남까지 연락 \"기억 안 나\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/08/27/2026082703433292703",
+        "publishedAt": "2026-08-26T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-26T15:20:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "황석정",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/08/27/2026082703433292703",
+      "rank": 10
     }
   ],
   "history": [
@@ -990,50 +1030,50 @@
       "url": "https://www.ytn.co.kr/_ln/0102_202608241017506120"
     },
     {
-      "id": "2c5b9dcb201e2504",
-      "issueKey": "쌍둥",
-      "issueTitle": "쌍둥",
-      "trendTitle": "쌍둥",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "c1d8da88be004cdf",
+      "issueKey": "경기 예측",
+      "issueTitle": "경기 예측",
+      "trendTitle": "경기 예측",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'물어보살' 이수근, \"쌍둥이 임신\" 딩크족에 진심어린 조언",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260824204328154",
-          "publishedAt": "2026-08-24T16:40:00.000Z",
+          "title": "레알 마드리드 vs 소시에다드 경기 예측, 8월 27일 오전 2시: 백독수리(레알 마드리드의 별칭)가 강팀의 면모를 보여줄 것입니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sociedad-02h00-ngay-27-8-ken-ken-pho-dien-suc-manh",
+          "publishedAt": "2026-08-26T18:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "가정폭력+희귀질환+자폐子 '이게 실화야?'…\"치과 갈 돈 없어서 펜치로 이 뽑아\"[물어보살][★밤TView]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260824n34701",
-          "publishedAt": "2026-08-24T16:40:00.000Z",
+          "title": "라리가 레알 마드리드 대 레알 소시에다드 축구 생중계 링크",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-real-madrid-vs-real-sociedad-tai-la-liga-1756848.ldo",
+          "publishedAt": "2026-08-26T18:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "딩크족이었는데 쌍둥이 임신…\"아내 예민해졌다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/24/2026082421022427372",
-          "publishedAt": "2026-08-24T16:40:00.000Z",
+          "title": "경기 프리뷰: 레알 마드리드 vs 소시에다드, 8월 27일 새벽 2시: 3점 획득 가능성 있음.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-tran-dau-real-madrid-vs-sociedad-2h00-ngay-27-8-3-diem-trong-tam-tay",
+          "publishedAt": "2026-08-26T18:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'물어보살' 이수근, \"쌍둥이 임신\" 딩크족에 진심어린 조언",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260824204328154",
-        "publishedAt": "2026-08-24T16:40:00.000Z",
+        "title": "레알 마드리드 vs 소시에다드 경기 예측, 8월 27일 오전 2시: 백독수리(레알 마드리드의 별칭)가 강팀의 면모를 보여줄 것입니다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sociedad-02h00-ngay-27-8-ken-ken-pho-dien-suc-manh",
+        "publishedAt": "2026-08-26T18:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-24T16:40:00.000Z",
-      "firstSeenAt": "2026-08-24T18:38:45.257Z",
-      "lastSeenAt": "2026-08-24T18:38:45.257Z",
-      "title": "쌍둥",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260824204328154"
+      "publishedAt": "2026-08-26T18:20:00.000Z",
+      "firstSeenAt": "2026-08-26T19:46:02.456Z",
+      "lastSeenAt": "2026-08-26T19:46:02.456Z",
+      "title": "경기 예측",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sociedad-02h00-ngay-27-8-ken-ken-pho-dien-suc-manh"
     },
     {
       "id": "217aae320db5dd84",
