@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-08-27T00:29:26.427Z",
+  "lastUpdatedAt": "2026-08-27T13:50:39.613Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 3 2026",
   "primaryBlockName": "Play-Ins",
-  "matchCount": 12,
+  "matchCount": 11,
   "matches": [
-    {
-      "id": "117030752644841577",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 3 2026",
-      "blockName": "Play-Ins",
-      "startTime": "2026-08-27T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "NONGSHIM RED FORCE",
-          "code": "NS",
-          "imageUrl": "http://static.lolesports.com/teams/NSFullonDark.png"
-        },
-        {
-          "name": "BNK FEARX",
-          "code": "BFX",
-          "imageUrl": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "117030752644841583",
       "leagueKey": "lck",
@@ -48,14 +25,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
           "name": "HANJIN BRION",
           "code": "BRO",
           "imageUrl": "http://static.lolesports.com/teams/1716454325887_Nowyprojekt.png"
+        },
+        {
+          "name": "BNK FEARX",
+          "code": "BFX",
+          "imageUrl": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -296,7 +273,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 12
+      "matchCount": 11
     },
     {
       "key": "ewc",

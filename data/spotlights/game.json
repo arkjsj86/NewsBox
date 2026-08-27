@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-27T00:29:26.427Z",
+  "lastUpdatedAt": "2026-08-27T13:50:39.613Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,17 +28,12 @@
         {
           "title": "도트풍 한국 설화 MMORPG, '도깨비의세계' 쇼케이스",
           "url": "https://bbs.ruliweb.com/news/read/228319",
-          "meta": "댓글 34"
+          "meta": "댓글 35"
         },
         {
           "title": "[GC] '좋아요'를 위해서 목숨도 건다, 엔씨 FPS 신작 '라이크 오어 다이' 공개",
           "url": "https://bbs.ruliweb.com/news/read/228514",
-          "meta": "댓글 64"
-        },
-        {
-          "title": "전자오락수호대, 극장용 애니메이션 10월 개봉",
-          "url": "https://bbs.ruliweb.com/news/read/228265",
-          "meta": "댓글 17"
+          "meta": "댓글 84"
         },
         {
           "title": "시원한 PC방에서 바캉스, 서울 GGX '이환 PC방캉스' 현장",
@@ -49,6 +44,11 @@
           "title": "컴투스 신작 ‘제우스: 오만의 신’이 다시 짠 MMORPG의 문법",
           "url": "https://bbs.ruliweb.com/news/read/228370",
           "meta": "댓글 16"
+        },
+        {
+          "title": "넥슨 IP 스킨 나오나!? ‘오버워치’ 국내 서비스에 대해 답하다",
+          "url": "https://bbs.ruliweb.com/news/read/228397",
+          "meta": "댓글 7"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "전야제 시작한 리니지M, 8월 4주차 '한정 및 주말 제작' 정보",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319996",
-          "meta": "리니지M · 2시간 전"
+          "title": "'페르소나4 리바이벌', 칸지·곰·나오토 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320085",
+          "meta": "페르소나4 리바이벌 · 2시간 전"
         },
         {
-          "title": "'포켓몬' 디자이너 제임스 터너 복귀...TPCi 크리에이티브 디렉터 선임",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319989",
-          "meta": "포켓몬스터 블랙&화이트2 · 6시간 전"
+          "title": "'스텔라 블레이드 컴플리트 에디션' TGS 최초 시연",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320083",
+          "meta": "스텔라 블레이드 · 2시간 전"
         },
         {
-          "title": "KT 고동빈 감독 \"마지막 5세트, 순간 질 수도 있겠다는 생각 들어\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319988",
-          "meta": "리그 오브 레전드 · 6시간 전"
+          "title": "BFX '빅라' \"자신감 넘쳐, 내일 한진 브리온도 집에 보내겠다\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320088",
+          "meta": "리그 오브 레전드 · 2시간 전"
         },
         {
-          "title": "한진 브리온 김상수 감독 \"잘했기에 더욱 아쉽다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319987",
-          "meta": "리그 오브 레전드 · 7시간 전"
+          "title": "BNK 피어엑스, 농심 3:1 격파! 한진과 맞대결",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320080",
+          "meta": "리그 오브 레전드 · 2시간 전"
         },
         {
-          "title": "디스코드, 모바일 게임까지 연동된다",
-          "url": "https://www.inven.co.kr/webzine/news/?news=319984",
-          "meta": "8시간 전"
+          "title": "하드 벨로나 선착순 격파 1위는 강은호! 10분 55초만에 클리어",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320086",
+          "meta": "메이플스토리 · 3시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
