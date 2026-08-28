@@ -3,20 +3,20 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-27T13:50:39.613Z",
+  "lastUpdatedAt": "2026-08-28T00:15:37.432Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
   "itemCount": 1,
   "offers": [
     {
-      "id": "0e44600a079e419abbb291ccf5af9ee7",
-      "title": "Caravan SandWitch",
-      "seller": "Plug In Digital SAS",
-      "url": "https://store.epicgames.com/ko/p/caravan-sandwitch-05ff58",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/95b9a9a220e8483c8c1a70ad692de4b3/caravan-sandwitch-fku42.jpg",
-      "originalPriceLabel": "₩32,000",
-      "freeUntil": "2026-08-20T15:00:00.000Z"
+      "id": "8401414902e84f2cb9afa9142f051d32",
+      "title": "Breathedge",
+      "seller": "Hypetrain Digital",
+      "url": "https://store.epicgames.com/ko/p/breathedge",
+      "imageUrl": "https://cdn1.epicgames.com/08ae29e4f70a4b62aa055e383381aa82/offer/EGS_Breathedge_RedRuinsSoftworks_S2-1200x1600-c0559585221ea11c9d48273c3a79b1ba.jpg",
+      "originalPriceLabel": "₩27,000",
+      "freeUntil": "2026-09-03T15:00:00.000Z"
     }
   ],
   "issues": {
@@ -26,14 +26,9 @@
       "sourceUrl": "https://bbs.ruliweb.com/best",
       "items": [
         {
-          "title": "도트풍 한국 설화 MMORPG, '도깨비의세계' 쇼케이스",
-          "url": "https://bbs.ruliweb.com/news/read/228319",
-          "meta": "댓글 35"
-        },
-        {
           "title": "[GC] '좋아요'를 위해서 목숨도 건다, 엔씨 FPS 신작 '라이크 오어 다이' 공개",
           "url": "https://bbs.ruliweb.com/news/read/228514",
-          "meta": "댓글 84"
+          "meta": "댓글 85"
         },
         {
           "title": "시원한 PC방에서 바캉스, 서울 GGX '이환 PC방캉스' 현장",
@@ -49,6 +44,11 @@
           "title": "넥슨 IP 스킨 나오나!? ‘오버워치’ 국내 서비스에 대해 답하다",
           "url": "https://bbs.ruliweb.com/news/read/228397",
           "meta": "댓글 7"
+        },
+        {
+          "title": "에픽세븐, 8주년 ‘인피니티’ 쇼케이스 내용",
+          "url": "https://bbs.ruliweb.com/news/read/228395",
+          "meta": "댓글 9"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "'쿠키런: 크럼블', 출시 한 달에 매출 200억원",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320093",
+          "meta": "쿠키런: 크럼블 · 7시간 전"
+        },
+        {
+          "title": "유럽 게임시장, 2025년 매출 297억 유로…91%가 디지털",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320092",
+          "meta": "9시간 전"
+        },
+        {
+          "title": "구글플레이, 2027년부터 모바일 게임 메모리·코드 최적화 의무화",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320091",
+          "meta": "9시간 전"
+        },
+        {
           "title": "'페르소나4 리바이벌', 칸지·곰·나오토 공개",
           "url": "https://www.inven.co.kr/webzine/news/?news=320085",
-          "meta": "페르소나4 리바이벌 · 2시간 전"
+          "meta": "페르소나4 리바이벌 · 12시간 전"
         },
         {
           "title": "'스텔라 블레이드 컴플리트 에디션' TGS 최초 시연",
           "url": "https://www.inven.co.kr/webzine/news/?news=320083",
-          "meta": "스텔라 블레이드 · 2시간 전"
-        },
-        {
-          "title": "BFX '빅라' \"자신감 넘쳐, 내일 한진 브리온도 집에 보내겠다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320088",
-          "meta": "리그 오브 레전드 · 2시간 전"
-        },
-        {
-          "title": "BNK 피어엑스, 농심 3:1 격파! 한진과 맞대결",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320080",
-          "meta": "리그 오브 레전드 · 2시간 전"
-        },
-        {
-          "title": "하드 벨로나 선착순 격파 1위는 강은호! 10분 55초만에 클리어",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320086",
-          "meta": "메이플스토리 · 3시간 전"
+          "meta": "스텔라 블레이드 · 12시간 전"
         }
       ]
     }
@@ -89,8 +89,8 @@
     {
       "key": "epic-free-games",
       "source": "Epic Games Store",
-      "ok": false,
-      "error": "Epic free games payload did not contain active free games."
+      "ok": true,
+      "itemCount": 1
     },
     {
       "key": "ruliweb-issues",
