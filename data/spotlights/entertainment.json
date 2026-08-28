@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-28T00:15:37.432Z",
+  "lastUpdatedAt": "2026-08-28T14:56:30.706Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "1153e6818de5b27b",
-      "issueKey": "금감원",
-      "issueTitle": "금감원",
-      "trendTitle": "금감원",
+      "id": "fa1ba1ce84e71ac8",
+      "issueKey": "코로나",
+      "issueTitle": "코로나",
+      "trendTitle": "코로나",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "어린이 인플루엔자 국가예방접종",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970732",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "코로나·독감 동시 유행 조짐…\"이런 적은 처음\" 방역당국 긴장",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/bio/general/6272546",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "벌써부터 콜록콜록?…독감 환자, 작년 유행 기준 넘겨",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260828_0003767353",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "코로나·독감 동시 유행 조짐…\"이런 적은 처음\" 방역당국 긴장",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/bio/general/6272546",
+        "publishedAt": "2026-08-28T13:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-28T13:50:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "코로나",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/bio/general/6272546",
+      "rank": 1
+    },
+    {
+      "id": "c1f3a0aac1f7869e",
+      "issueKey": "유시은",
+      "issueTitle": "유시은",
+      "trendTitle": "이관희",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "금감원 \"12월 결산 상장사, 9월15일까지 기초자료 제출\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/08/28/2026082719011537619",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
+          "title": "이관희 욕조 물 받아 놓고…♥유시은과 꿀맛 휴가 [DA★]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[게시판] 금감원, 감사인 지정제도 온라인 설명회",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1149594",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
+          "title": "'공개 열애' 이관희♥유시은, 방콕 호캉스 떠났다…\"천국 같았던 여름휴가\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260827152251683?f=p",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"12월 결산법인 내달 지정기초자료 내야\"…금감원, 온라인 설명회 개최",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2619101",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
+          "title": "‘솔로지옥3’ 이관희♥유시은, 방콕서 달달 투샷..공개연애 후 첫 여름휴가",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/28/GQYWMNZXG42WIMRWMQZGEYTDGE/",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "금감원 \"12월 결산 상장사, 9월15일까지 기초자료 제출\"",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/08/28/2026082719011537619",
-        "publishedAt": "2026-08-27T23:00:00.000Z",
+        "title": "이관희 욕조 물 받아 놓고…♥유시은과 꿀맛 휴가 [DA★]",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1",
+        "publishedAt": "2026-08-28T13:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T23:00:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "금감원",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/stock/2026/08/28/2026082719011537619",
-      "rank": 1
+      "publishedAt": "2026-08-28T13:50:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "유시은",
+      "source": "스포츠동아",
+      "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1",
+      "rank": 2
     },
     {
-      "id": "20bd908712a4f74c",
-      "issueKey": "리벨리온",
-      "issueTitle": "리벨리온",
-      "trendTitle": "리벨리온",
+      "id": "5440a1ac1ef71396",
+      "issueKey": "정연우",
+      "issueTitle": "정연우",
+      "trendTitle": "정연우",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "엔비디아·리벨리온, 왜 만났나?…업계 \"인수 가능성 낮아\"",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20260827151542",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
+          "title": "우서윤 성형 논란에…정연우 \"무례하고 가치없는 말\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260828_0003767264",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "엔비디아, 韓 R&D 거점 마곡 유력… 젠슨 황 \"한국은 최적의 장소\"",
-          "source": "뉴스21 통신",
-          "url": "https://www.news21tongsin.co.kr/news/304290",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
+          "title": "“무례하고 가치 없는 말”…‘작년 미코 진’ 정연우, 우서윤 성형 논란에 일침",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828223000608",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "젠슨 황, 리벨리온 박성현 만났다…\"인수 논의까지\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/08/24/2026082315034829653",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
+          "title": "“자연미인이면 가치 올라가나” 작년 미코 진의 일갈",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11612920",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "엔비디아·리벨리온, 왜 만났나?…업계 \"인수 가능성 낮아\"",
-        "source": "지디넷코리아",
-        "url": "https://zdnet.co.kr/view/?no=20260827151542",
-        "publishedAt": "2026-08-27T23:00:00.000Z",
+        "title": "우서윤 성형 논란에…정연우 \"무례하고 가치없는 말\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260828_0003767264",
+        "publishedAt": "2026-08-28T13:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T23:00:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "리벨리온",
-      "source": "지디넷코리아",
-      "url": "https://zdnet.co.kr/view/?no=20260827151542",
-      "rank": 2
-    },
-    {
-      "id": "a109dcd7f6f11c2e",
-      "issueKey": "회사",
-      "issueTitle": "회사",
-      "trendTitle": "회사",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한상목 ㈜해성 대표, 창녕군에 고향사랑기부금",
-          "source": "경남도민일보",
-          "url": "https://www.idomin.com/news/articleView.html?idxno=2012989",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "농업회사법인 해성 한상목 대표, 창녕군에 고향사랑기부금 500만원",
-          "source": "경남신문",
-          "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1549589&amp;gubun=",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[창녕소식]해성의 온정, 고향사랑기부금 500만원 기탁 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260824_0003759607",
-          "publishedAt": "2026-08-27T23:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "농업회사법인 해성 한상목 대표, 창녕군에 고향사랑기부금 500만원",
-        "source": "경남신문",
-        "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1549589&amp;gubun=",
-        "publishedAt": "2026-08-27T23:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-27T23:00:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "회사",
-      "source": "경남신문",
-      "url": "http://www.knnews.co.kr/news/articleView.php?idxno=1549589&amp;gubun=",
+      "publishedAt": "2026-08-28T13:50:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "정연우",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260828_0003767264",
       "rank": 3
     },
     {
-      "id": "b7e1a222b089d73a",
-      "issueKey": "박지현",
-      "issueTitle": "박지현",
-      "trendTitle": "박지현",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "85d1989aaab92e97",
+      "issueKey": "이다해",
+      "issueTitle": "이다해",
+      "trendTitle": "이다해",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[MD포토] 박지현, 'K-트로트 무대 기대하세요'",
+          "title": "'세븐♥' 이다해, 42세 출산 앞두고 백화점 나들이…D라인은 '쏙'",
           "source": "Daum",
-          "url": "https://v.daum.net/v/VTIrTNFYIo",
-          "publishedAt": "2026-08-27T22:50:00.000Z",
+          "url": "https://v.daum.net/v/20260828170127525?f=p",
+          "publishedAt": "2026-08-28T13:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "박지현, 샤방샤방 인사",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8076058",
-          "publishedAt": "2026-08-27T22:50:00.000Z",
+          "title": "'임신' 이다해, 볼록한 D라인 어디갔지…중국 상해서 맛집 투어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260827_0003764490",
+          "publishedAt": "2026-08-28T13:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[포토] 박지현, 유쾌한 미소",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/516129",
-          "publishedAt": "2026-08-27T22:50:00.000Z",
+          "title": "'11월 득녀' 이다해, D라인 전혀 티 안 나···명품 아기옷 선물도 듬뿍",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/26/GI3DQYRTHBQTCZLCGAYWMZRTGM/",
+          "publishedAt": "2026-08-28T13:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[MD포토] 박지현, 'K-트로트 무대 기대하세요'",
+        "title": "'세븐♥' 이다해, 42세 출산 앞두고 백화점 나들이…D라인은 '쏙'",
         "source": "Daum",
-        "url": "https://v.daum.net/v/VTIrTNFYIo",
-        "publishedAt": "2026-08-27T22:50:00.000Z",
+        "url": "https://v.daum.net/v/20260828170127525?f=p",
+        "publishedAt": "2026-08-28T13:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T22:50:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "박지현",
+      "publishedAt": "2026-08-28T13:40:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "이다해",
       "source": "Daum",
-      "url": "https://v.daum.net/v/VTIrTNFYIo",
+      "url": "https://v.daum.net/v/20260828170127525?f=p",
       "rank": 4
     },
     {
-      "id": "788cfb28ed751f8e",
-      "issueKey": "발로란트",
-      "issueTitle": "발로란트",
-      "trendTitle": "발로란트",
+      "id": "82d761d8dbb72368",
+      "issueKey": "외국인",
+      "issueTitle": "외국인",
+      "trendTitle": "외국인",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "아동단체들, 외국인 아동 출생등록 인정 환영 \"법률 조속 마련\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828164950086",
+          "publishedAt": "2026-08-28T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "헌재 “‘그림자 아이’도 태어난 즉시 출생 등록될 권리”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260828/134560520/2",
+          "publishedAt": "2026-08-28T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "헌재 “국내 출생 외국인의 출생등록 규정 마련하지 않은 것은 위헌”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647797",
+          "publishedAt": "2026-08-28T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아동단체들, 외국인 아동 출생등록 인정 환영 \"법률 조속 마련\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260828164950086",
+        "publishedAt": "2026-08-28T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:30:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "외국인",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260828164950086",
+      "rank": 5
+    },
+    {
+      "id": "553831c183c00304",
+      "issueKey": "국방과학연구소",
+      "issueTitle": "국방과학연구소",
+      "trendTitle": "국방과학연구소",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "아태지역 e스포츠 최강자는…부산서 발로란트 챔피언스 결승전",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260827019300051",
-          "publishedAt": "2026-08-27T22:50:00.000Z",
+          "title": "[단독] 국방과학연구소장, ‘관사 리모델링’ 위해 기관 자금 유용",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[VCT 퍼시픽] 농심, 젠지 꺾고 승자 결승 진출...'챔피언스 상하이' 확정",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112865079",
-          "publishedAt": "2026-08-27T22:50:00.000Z",
+          "title": "국방과학연구소장 해임…관사 리모델링-법카사용 부적절 의혹",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260828/134565050/1",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "아·태 '발로란트' 최정상 부산서 가린다…내달 투어 결승",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260827_0003764449",
-          "publishedAt": "2026-08-27T22:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아태지역 e스포츠 최강자는…부산서 발로란트 챔피언스 결승전",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260827019300051",
-        "publishedAt": "2026-08-27T22:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-27T22:50:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "발로란트",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260827019300051",
-      "rank": 5
-    },
-    {
-      "id": "fd974e0d00d11b07",
-      "issueKey": "민경훈",
-      "issueTitle": "민경훈",
-      "trendTitle": "민경훈",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[단독]민경훈, 11년 만에 '아는 형님' 하차..이미 마지막 녹화 마쳤다",
+          "title": "이건완 국방과학연구소장 해임…“개인 비위 의혹”",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260828060637286",
-          "publishedAt": "2026-08-27T22:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "민경훈도 떠난다...11년 만에 '아는 형님' 하차",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/08/28/2026082807233320418",
-          "publishedAt": "2026-08-27T22:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "민경훈도 ‘아는 형님’ 떠난다…11년 동행 끝, 원년 멤버 4명만 남아",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260828/134561128/1",
-          "publishedAt": "2026-08-27T22:30:00.000Z",
+          "url": "https://v.daum.net/v/20260828221148454",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[단독]민경훈, 11년 만에 '아는 형님' 하차..이미 마지막 녹화 마쳤다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260828060637286",
-        "publishedAt": "2026-08-27T22:30:00.000Z",
+        "title": "[단독] 국방과학연구소장, ‘관사 리모델링’ 위해 기관 자금 유용",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958",
+        "publishedAt": "2026-08-28T13:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T22:30:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "민경훈",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260828060637286",
+      "publishedAt": "2026-08-28T13:20:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "국방과학연구소",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958",
       "rank": 6
     },
     {
-      "id": "29db4dade0c32108",
-      "issueKey": "화사",
-      "issueTitle": "화사",
-      "trendTitle": "화사",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "44adfa5ab3141b57",
+      "issueKey": "강남",
+      "issueTitle": "강남",
+      "trendTitle": "강남",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "화사, 진짜 말랐네…이렇게 입어도 군살 없는 '납작배'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260827220131532",
-          "publishedAt": "2026-08-27T22:30:00.000Z",
+          "title": "나고야 AG KBS 해설위원 강남, 파격 데뷔 이유는?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8649311",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "화사, 아찔 비키니 입고 한껏…“좋아하는 노을” [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260827/134556095/1",
-          "publishedAt": "2026-08-27T22:30:00.000Z",
+          "title": "이영표 \"해설 맡은 아시안게임마다 축구 금메달…이번에도 자신\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260828144400005",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "마마무 화사, 살짝 접힌 뱃살마저 인간적…수영복 자태에 드러난 건강美",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/music/2026/08/27/GBTGGYRYHAYTMMTBG43WCOLGMI/",
-          "publishedAt": "2026-08-27T22:30:00.000Z",
+          "title": "[포토] 박용택-김태균 '환상의 호흡'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260828n21668",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "화사, 진짜 말랐네…이렇게 입어도 군살 없는 '납작배'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260827220131532",
-        "publishedAt": "2026-08-27T22:30:00.000Z",
+        "title": "나고야 AG KBS 해설위원 강남, 파격 데뷔 이유는?",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8649311",
+        "publishedAt": "2026-08-28T13:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T22:30:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "화사",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260827220131532",
+      "publishedAt": "2026-08-28T13:20:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "강남",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8649311",
       "rank": 7
     },
     {
-      "id": "fe655cf1d979cf3d",
-      "issueKey": "날씨",
-      "issueTitle": "날씨",
-      "trendTitle": "날씨",
-      "approxTraffic": "200000+",
-      "trafficScore": 200000,
+      "id": "b038ec600bac86bf",
+      "issueKey": "영재학교",
+      "issueTitle": "영재학교",
+      "trendTitle": "영재학교",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "오늘부터 '가을 장마'‥주말까지 최대 100mm",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847916_37012.html",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "시사IN 제990호 - 생각을 멈춘 사람들",
+          "source": "시사IN",
+          "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58441",
+          "publishedAt": "2026-08-28T13:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "주말까지 전국에 비·소나기…시간당 최고 50㎜ '집중호우'도",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828084600225",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "\"제주 AI 격차 줄인다\"… 제주기자협회-제주대, 공동 토론회",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=842204",
+          "publishedAt": "2026-08-28T13:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "28일 부울경 30~80mm 많은 비 올듯",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20260828.99099008239",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "“AI, 쓰지 말라는 게 아니다”···‘생각하는 힘’ 되찾자는 교수법 나왔다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608281714001",
+          "publishedAt": "2026-08-28T13:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "날씨",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847916_37012.html",
-        "publishedAt": "2026-08-27T22:00:00.000Z",
+        "title": "영재학교",
+        "source": "시사IN",
+        "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58441",
+        "publishedAt": "2026-08-28T13:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T22:00:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "날씨",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847916_37012.html",
+      "publishedAt": "2026-08-28T13:10:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "영재학교",
+      "source": "시사IN",
+      "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58441",
       "rank": 8
     },
     {
-      "id": "8cf9c6c497f24d87",
-      "issueKey": "골드뱅킹",
-      "issueTitle": "골드뱅킹",
-      "trendTitle": "골드뱅킹",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "944581dd2140351e",
+      "issueKey": "황혜선",
+      "issueTitle": "황혜선",
+      "trendTitle": "황혜선",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“금 사두면 언젠간 오른다” 줄지 않는 수요에…은행 최초 ‘골드바’ 온라인 판매 [머니뭐니]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/6A3NUlfzH0",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "박서진, 황혜선과 첫 소개팅에 손깍지···결국 집까지 갔다 (살림남)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608280906013",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이제 모바일로 '골드바' 살 수 있다...가능한 날짜와 방법은?",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1155479",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "박서진, 장가 가나… 미녀 코미디언 황혜선과 데이트 포착",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026082810340002544",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"금 사두면 언젠간 오른다\" 줄지 않는 수요에…은행 최초 '골드바' 온라인 판매 [머니뭐니]",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260827n32420",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "4살차 가수♥개그우먼 커플 임박…박서진·황혜선, 첫 만남에 집까지 ('살림남') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/28/GI3DONRUG42TCMRWGUZTIM3BGM/",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "골드뱅킹",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/6A3NUlfzH0",
-        "publishedAt": "2026-08-27T22:00:00.000Z",
+        "title": "박서진, 황혜선과 첫 소개팅에 손깍지···결국 집까지 갔다 (살림남)",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608280906013",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T22:00:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "골드뱅킹",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/6A3NUlfzH0",
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "황혜선",
+      "source": "스포츠경향",
+      "url": "https://sports.khan.co.kr/article/202608280906013",
       "rank": 9
     },
     {
-      "id": "a4ae4527e0b397c6",
-      "issueKey": "fc barcelona vs athletic bilbao standings",
-      "issueTitle": "fc barcelona vs athletic bilbao standings",
-      "trendTitle": "fc barcelona vs athletic bilbao standings",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "51cc98aa413155d8",
+      "issueKey": "김성현",
+      "issueTitle": "김성현",
+      "trendTitle": "김성현",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Athletic Club standout beats Barcelona stars to Man of the Match award despite defeat",
-          "source": "Get Spanish Football News",
-          "url": "https://getfootballnewsspain.com/athletic-club-standout-beats-barcelona-stars-to-man-of-the-match-award-despite-defeat/",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "SSG 김성현, 은퇴식서 특별 엔트리로 선발 2루수 출전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QejB7mB314",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Barcelona 2-0 Athletic Club: Raphinha scores again as Rodri makes debut",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c69989m7ld0lt",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "'KS 우승 2회' SSG 김성현 , 9월 5일 은퇴식…21년 선수 생활 마감",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6272555",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Hansi Flick announces Barcelona squad for La Liga match against Athletic Bilbao",
-          "source": "صوت الإمارات",
-          "url": "https://www.voiceofemirates.com/en/sport/2026/08/27/hansi-flick-announces-barcelona-squad-for-la-liga-match-against-athletic-bilbao/",
-          "publishedAt": "2026-08-27T22:00:00.000Z",
+          "title": "KBO 1149안타 남기고 떠나는 원클럽맨…특별엔트리→선발 2루수로 마지막 그라운드 밟는다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004504",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "fc barcelona vs athletic bilbao standings",
-        "source": "Get Spanish Football News",
-        "url": "https://getfootballnewsspain.com/athletic-club-standout-beats-barcelona-stars-to-man-of-the-match-award-despite-defeat/",
-        "publishedAt": "2026-08-27T22:00:00.000Z",
+        "title": "SSG 김성현, 은퇴식서 특별 엔트리로 선발 2루수 출전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/QejB7mB314",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T22:00:00.000Z",
-      "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
-      "title": "fc barcelona vs athletic bilbao standings",
-      "source": "Get Spanish Football News",
-      "url": "https://getfootballnewsspain.com/athletic-club-standout-beats-barcelona-stars-to-man-of-the-match-award-despite-defeat/",
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "김성현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/QejB7mB314",
       "rank": 10
     }
   ],
@@ -577,6 +577,52 @@
       "url": "https://v.daum.net/v/WHJxW6hDWX"
     },
     {
+      "id": "944581dd2140351e",
+      "issueKey": "황혜선",
+      "issueTitle": "황혜선",
+      "trendTitle": "황혜선",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박서진, 황혜선과 첫 소개팅에 손깍지···결국 집까지 갔다 (살림남)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202608280906013",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "박서진, 장가 가나… 미녀 코미디언 황혜선과 데이트 포착",
+          "source": "한국일보",
+          "url": "https://www.hankookilbo.com/news/article/A2026082810340002544",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "4살차 가수♥개그우먼 커플 임박…박서진·황혜선, 첫 만남에 집까지 ('살림남') - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/08/28/GI3DONRUG42TCMRWGUZTIM3BGM/",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박서진, 황혜선과 첫 소개팅에 손깍지···결국 집까지 갔다 (살림남)",
+        "source": "스포츠경향",
+        "url": "https://sports.khan.co.kr/article/202608280906013",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "황혜선",
+      "source": "스포츠경향",
+      "url": "https://sports.khan.co.kr/article/202608280906013"
+    },
+    {
       "id": "73798abdfd479bca",
       "issueKey": "정청래",
       "issueTitle": "정청래",
@@ -621,144 +667,6 @@
       "title": "정청래",
       "source": "동아일보",
       "url": "https://www.donga.com/news/Politics/article/all/20260827/134557695/1"
-    },
-    {
-      "id": "5911148c315b1673",
-      "issueKey": "유학생",
-      "issueTitle": "유학생",
-      "trendTitle": "유학생",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "중국인 여성 유학생 실종 닷새만 숨진 채 발견‥실종신고 한 중국인 강사 체포",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6847556_37004.html",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "다니던 대학 강사가 살해…범행 숨기려 '여장'까지",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008723507",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "경산 중국인 대학원생 살해 피의자는 해당 대학 강사",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826096900053",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "중국인 여성 유학생 실종 닷새만 숨진 채 발견‥실종신고 한 중국인 강사 체포",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6847556_37004.html",
-        "publishedAt": "2026-08-26T11:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T11:20:00.000Z",
-      "firstSeenAt": "2026-08-26T12:51:17.642Z",
-      "lastSeenAt": "2026-08-26T12:51:17.642Z",
-      "title": "유학생",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6847556_37004.html"
-    },
-    {
-      "id": "6daea6d8f4472f50",
-      "issueKey": "면허",
-      "issueTitle": "면허",
-      "trendTitle": "면허",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'나혼산' 제작진 \"전현무 카자흐 '즉흥 여행' 조작 아니다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825163900005",
-          "publishedAt": "2026-08-26T05:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘전현무 논란’에 주카자흐 대사관 “국제면허 운전 불가” 재공지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826094240697",
-          "publishedAt": "2026-08-26T05:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘나 혼자 산다’ 제작진, 전현무 카자흐스탄 여행 조작 의혹에 반박 나서",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260825580542",
-          "publishedAt": "2026-08-26T05:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘전현무 논란’에 주카자흐 대사관 “국제면허 운전 불가” 재공지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826094240697",
-        "publishedAt": "2026-08-26T05:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-26T05:40:00.000Z",
-      "firstSeenAt": "2026-08-26T06:49:06.831Z",
-      "lastSeenAt": "2026-08-26T06:49:06.831Z",
-      "title": "면허",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260826094240697"
-    },
-    {
-      "id": "79e8856468966f56",
-      "issueKey": "과태료",
-      "issueTitle": "과태료",
-      "trendTitle": "과태료",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"블랙박스에 딱 걸렸다\"…운전자들 '1조5000억' 토해낼 판",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026082522331",
-          "publishedAt": "2026-08-26T01:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "28일부터 아파트 민폐주차 시 과태료 부과",
-          "source": "아파트관리신문",
-          "url": "http://www.aptn.co.kr/news/articleView.html?idxno=112701",
-          "publishedAt": "2026-08-26T01:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "주차장 출입구 ‘차로 막으면’ 과태료 최대 500만원",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=842091",
-          "publishedAt": "2026-08-26T01:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "28일부터 아파트 민폐주차 시 과태료 부과",
-        "source": "아파트관리신문",
-        "url": "http://www.aptn.co.kr/news/articleView.html?idxno=112701",
-        "publishedAt": "2026-08-26T01:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-26T01:30:00.000Z",
-      "firstSeenAt": "2026-08-26T03:52:49.759Z",
-      "lastSeenAt": "2026-08-26T03:52:49.759Z",
-      "title": "과태료",
-      "source": "아파트관리신문",
-      "url": "http://www.aptn.co.kr/news/articleView.html?idxno=112701"
     },
     {
       "id": "fe2897d46ba840a4",
@@ -826,52 +734,6 @@
       "title": "김시우",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260826081653295"
-    },
-    {
-      "id": "dd81d91b759e9ad3",
-      "issueKey": "시어머니",
-      "issueTitle": "시어머니",
-      "trendTitle": "시어머니",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/26/2026082610042190929",
-          "publishedAt": "2026-08-26T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"결혼 때 보여달라\" 결혼식서 故 시어머니 영상 틀자는 시아버지 [어떻게 생각하세요]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826155508227",
-          "publishedAt": "2026-08-26T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "결혼식 날 돌아가신 시어머니 생전 영상 틀자는 시아버지 제안 거절한 예비 며느리",
-          "source": "인사이트",
-          "url": "https://www.insight.co.kr/news/570207",
-          "publishedAt": "2026-08-26T08:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "결혼식서 故시어머니 영상 틀자고?...\"내가 주인공\" 예비신부 '뭇매'",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/08/26/2026082610042190929",
-        "publishedAt": "2026-08-26T08:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T08:00:00.000Z",
-      "firstSeenAt": "2026-08-26T09:40:40.983Z",
-      "lastSeenAt": "2026-08-26T09:40:40.983Z",
-      "title": "시어머니",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/society/2026/08/26/2026082610042190929"
     },
     {
       "id": "29db4dade0c32108",
@@ -1058,372 +920,96 @@
       "url": "https://www.vietnam.vn/ko/nhan-dinh-real-madrid-vs-sociedad-02h00-ngay-27-8-ken-ken-pho-dien-suc-manh"
     },
     {
-      "id": "217aae320db5dd84",
-      "issueKey": "스마트폰",
-      "issueTitle": "스마트폰",
-      "trendTitle": "스마트폰",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "fa1ba1ce84e71ac8",
+      "issueKey": "코로나",
+      "issueTitle": "코로나",
+      "trendTitle": "코로나",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "갤럭시에 했던대로 힘줬더니 그대로 ‘우지직’…폴더블 신제품 내구성 테스트 ‘굴욕’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826141805127",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
+          "title": "어린이 인플루엔자 국가예방접종",
+          "source": "대한민국 정책브리핑",
+          "url": "https://www.korea.kr/multi/visualNewsView.do?newsId=148970732",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "설정부터 배터리 문제까지…픽셀11 문제 제미나이가 직접 해결한다",
-          "source": "케이벤치",
-          "url": "https://kbench.com/?q=node/281345",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "구글 픽셀 11 리뷰: 픽셀을 사게 만들던 가격 이점이 사라졌다",
-          "source": "Martin Cid Magazine",
-          "url": "https://ko.martincid.com/technology-ko/google-pixel-11-review-the-bargain-is-gone/",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "스마트폰",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826141805127",
-        "publishedAt": "2026-08-26T11:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T11:20:00.000Z",
-      "firstSeenAt": "2026-08-26T12:51:17.642Z",
-      "lastSeenAt": "2026-08-26T12:51:17.642Z",
-      "title": "스마트폰",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260826141805127"
-    },
-    {
-      "id": "6c16465cbd24617d",
-      "issueKey": "소방관",
-      "issueTitle": "소방관",
-      "trendTitle": "소방관",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘저 등산가방은!’···퇴근길에 종일 수색했던 실종자 행색 한눈에 알아본 소방관",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826153707314",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "퇴근길에, 휴가 중에...시민 구조한 소방관들",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/people/2026/08/26/4X42XEFYQBCNFMWDEIYMVVTP5Y/",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "수색근무 마치고 퇴근하던 소방관, 세심한 관심으로 실종자 발견",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260826056100053",
-          "publishedAt": "2026-08-26T11:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘저 등산가방은!’···퇴근길에 종일 수색했던 실종자 행색 한눈에 알아본 소방관",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826153707314",
-        "publishedAt": "2026-08-26T11:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T11:20:00.000Z",
-      "firstSeenAt": "2026-08-26T12:51:17.642Z",
-      "lastSeenAt": "2026-08-26T12:51:17.642Z",
-      "title": "소방관",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260826153707314"
-    },
-    {
-      "id": "7a837a5a9d213e5d",
-      "issueKey": "난징 지하철",
-      "issueTitle": "난징 지하철",
-      "trendTitle": "난징 지하철",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "지하철 바닥 한가득 ’꿈틀’…쏟아진 민물장어에 ’아수라장’",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260824092216WmK",
-          "publishedAt": "2026-08-26T10:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "바닥에 쏟아진 수십 마리 뱀?…순식간에 아수라장 된 中 지하철 알고보니",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026082610402158560",
-          "publishedAt": "2026-08-26T10:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"지하철에 뱀 떼 출몰?!\" 승객들 혼비백산 비명 지르게 만든 역대급 돌발 상황",
-          "source": "애니멀플래닛",
-          "url": "https://m.animalplanet.co.kr/contents/?artNo=61248",
-          "publishedAt": "2026-08-26T10:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "난징 지하철",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260824092216WmK",
-        "publishedAt": "2026-08-26T10:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T10:50:00.000Z",
-      "firstSeenAt": "2026-08-26T12:51:17.642Z",
-      "lastSeenAt": "2026-08-26T12:51:17.642Z",
-      "title": "난징 지하철",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260824092216WmK"
-    },
-    {
-      "id": "9af85d04dc734391",
-      "issueKey": "네팔",
-      "issueTitle": "네팔",
-      "trendTitle": "네팔",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "네팔·티베트 홍수로 관광객 384명 실종, 한국인 8명 포함",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202608261951001",
-          "publishedAt": "2026-08-26T10:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "두산·남동발전 \"네팔 파견직원 상황 파악중\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260826214331j2J",
-          "publishedAt": "2026-08-26T10:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "네팔 홍수로 한국인 8명 연락두절·10명 고립",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6847566_37004.html",
-          "publishedAt": "2026-08-26T10:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "네팔·티베트 홍수로 관광객 384명 실종, 한국인 8명 포함",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202608261951001",
-        "publishedAt": "2026-08-26T10:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T10:40:00.000Z",
-      "firstSeenAt": "2026-08-26T12:51:17.642Z",
-      "lastSeenAt": "2026-08-26T12:51:17.642Z",
-      "title": "네팔",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202608261951001"
-    },
-    {
-      "id": "f5262d4ab8cf8738",
-      "issueKey": "시외",
-      "issueTitle": "시외",
-      "trendTitle": "시외",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "10월부터 시외·고속버스 요금 9% 인상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826160415861",
-          "publishedAt": "2026-08-26T08:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "시외·고속버스 요금 10월부터 9% 오른다…3년여 만에 인상",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008723425",
-          "publishedAt": "2026-08-26T08:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "시외·고속버스 요금 9% 오른다… 10월부터 운임 상한 조정",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/08/26/2026082614412236109",
-          "publishedAt": "2026-08-26T08:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "10월부터 시외·고속버스 요금 9% 인상",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826160415861",
-        "publishedAt": "2026-08-26T08:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T08:10:00.000Z",
-      "firstSeenAt": "2026-08-26T09:40:40.983Z",
-      "lastSeenAt": "2026-08-26T09:40:40.983Z",
-      "title": "시외",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260826160415861"
-    },
-    {
-      "id": "1ea5c356f65344cf",
-      "issueKey": "바다",
-      "issueTitle": "바다",
-      "trendTitle": "바다",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "軍 자폭드론 첫 해상 전투실험 실패…함정서 이륙 직후 추락",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260826144857Myl",
-          "publishedAt": "2026-08-26T07:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "국내 개발 자폭드론 이륙 직후 추락…해군 “향후 또 도전”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260826/134546713/1",
-          "publishedAt": "2026-08-26T07:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "北 자폭드론 대량생산하는데…한국군 ‘바다의 벽’ 못 넘었다 [르포]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260826120209614?f=p",
-          "publishedAt": "2026-08-26T07:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "北 자폭드론 대량생산하는데…한국군 ‘바다의 벽’ 못 넘었다 [르포]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260826120209614?f=p",
-        "publishedAt": "2026-08-26T07:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-26T07:10:00.000Z",
-      "firstSeenAt": "2026-08-26T09:40:40.983Z",
-      "lastSeenAt": "2026-08-26T09:40:40.983Z",
-      "title": "바다",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260826120209614?f=p"
-    },
-    {
-      "id": "2b580e41fd0b4c0e",
-      "issueKey": "김병주",
-      "issueTitle": "김병주",
-      "trendTitle": "군수산업",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "與김병주·野유용원, 'K-방산 수출강화' 법안 6건 공동발의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260825158000001",
-          "publishedAt": "2026-08-26T05:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "美·獨 경쟁사 수주는 급증하는데… 성장세 한풀 꺾인 K-방산 어쩌나 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/industry/company/2026/08/24/LGKWCZDAOVGOLBEOHOQBNUAW2Q/",
-          "publishedAt": "2026-08-26T05:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여야 손잡고 K-방산 수출강화 패키지법 6종 입법추진",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260825010008406",
-          "publishedAt": "2026-08-26T05:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "與김병주·野유용원, 'K-방산 수출강화' 법안 6건 공동발의",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260825158000001",
-        "publishedAt": "2026-08-26T05:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-26T05:30:00.000Z",
-      "firstSeenAt": "2026-08-26T06:49:06.831Z",
-      "lastSeenAt": "2026-08-26T06:49:06.831Z",
-      "title": "김병주",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260825158000001"
-    },
-    {
-      "id": "bd979a65da618ebb",
-      "issueKey": "부대 지휘",
-      "issueTitle": "부대",
-      "trendTitle": "부대",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'폭염 달리기에 취사병 사망' 육군 8사단장 직무배제‥\"지휘관리 소홀\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6847412_36911.html",
-          "publishedAt": "2026-08-26T02:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "군, 8사단장 직무배제…“부대 지휘·관리 소홀”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8646497",
-          "publishedAt": "2026-08-26T02:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "육군 8사단장 직무배제…부대 관리 소홀",
+          "title": "코로나·독감 동시 유행 조짐…\"이런 적은 처음\" 방역당국 긴장",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/diplomacy/defense-diplomacy/6269863",
-          "publishedAt": "2026-08-26T02:20:00.000Z",
+          "url": "https://www.news1.kr/bio/general/6272546",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "벌써부터 콜록콜록?…독감 환자, 작년 유행 기준 넘겨",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260828_0003767353",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "군, 8사단장 직무배제…“부대 지휘·관리 소홀”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8646497",
-        "publishedAt": "2026-08-26T02:20:00.000Z",
+        "title": "코로나·독감 동시 유행 조짐…\"이런 적은 처음\" 방역당국 긴장",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/bio/general/6272546",
+        "publishedAt": "2026-08-28T13:50:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-08-26T02:20:00.000Z",
-      "firstSeenAt": "2026-08-26T03:52:49.759Z",
-      "lastSeenAt": "2026-08-26T03:52:49.759Z",
-      "title": "부대",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8646497"
+      "publishedAt": "2026-08-28T13:50:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "코로나",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/bio/general/6272546"
+    },
+    {
+      "id": "82d761d8dbb72368",
+      "issueKey": "외국인",
+      "issueTitle": "외국인",
+      "trendTitle": "외국인",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "아동단체들, 외국인 아동 출생등록 인정 환영 \"법률 조속 마련\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828164950086",
+          "publishedAt": "2026-08-28T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "헌재 “‘그림자 아이’도 태어난 즉시 출생 등록될 권리”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260828/134560520/2",
+          "publishedAt": "2026-08-28T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "헌재 “국내 출생 외국인의 출생등록 규정 마련하지 않은 것은 위헌”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8647797",
+          "publishedAt": "2026-08-28T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아동단체들, 외국인 아동 출생등록 인정 환영 \"법률 조속 마련\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260828164950086",
+        "publishedAt": "2026-08-28T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:30:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "외국인",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260828164950086"
     },
     {
       "id": "fd974e0d00d11b07",
@@ -1654,6 +1240,190 @@
       "title": "결혼식",
       "source": "한국경제",
       "url": "https://www.hankyung.com/article/2026082754957"
+    },
+    {
+      "id": "c1f3a0aac1f7869e",
+      "issueKey": "유시은",
+      "issueTitle": "유시은",
+      "trendTitle": "이관희",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이관희 욕조 물 받아 놓고…♥유시은과 꿀맛 휴가 [DA★]",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'공개 열애' 이관희♥유시은, 방콕 호캉스 떠났다…\"천국 같았던 여름휴가\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260827152251683?f=p",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘솔로지옥3’ 이관희♥유시은, 방콕서 달달 투샷..공개연애 후 첫 여름휴가",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/28/GQYWMNZXG42WIMRWMQZGEYTDGE/",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이관희 욕조 물 받아 놓고…♥유시은과 꿀맛 휴가 [DA★]",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1",
+        "publishedAt": "2026-08-28T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:50:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "유시은",
+      "source": "스포츠동아",
+      "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1"
+    },
+    {
+      "id": "553831c183c00304",
+      "issueKey": "국방과학연구소",
+      "issueTitle": "국방과학연구소",
+      "trendTitle": "국방과학연구소",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독] 국방과학연구소장, ‘관사 리모델링’ 위해 기관 자금 유용",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "국방과학연구소장 해임…관사 리모델링-법카사용 부적절 의혹",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260828/134565050/1",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이건완 국방과학연구소장 해임…“개인 비위 의혹”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828221148454",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독] 국방과학연구소장, ‘관사 리모델링’ 위해 기관 자금 유용",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958",
+        "publishedAt": "2026-08-28T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:20:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "국방과학연구소",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958"
+    },
+    {
+      "id": "44adfa5ab3141b57",
+      "issueKey": "강남",
+      "issueTitle": "강남",
+      "trendTitle": "강남",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "나고야 AG KBS 해설위원 강남, 파격 데뷔 이유는?",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8649311",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이영표 \"해설 맡은 아시안게임마다 축구 금메달…이번에도 자신\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260828144400005",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[포토] 박용택-김태균 '환상의 호흡'",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260828n21668",
+          "publishedAt": "2026-08-28T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "나고야 AG KBS 해설위원 강남, 파격 데뷔 이유는?",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8649311",
+        "publishedAt": "2026-08-28T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:20:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "강남",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8649311"
+    },
+    {
+      "id": "b038ec600bac86bf",
+      "issueKey": "영재학교",
+      "issueTitle": "영재학교",
+      "trendTitle": "영재학교",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "시사IN 제990호 - 생각을 멈춘 사람들",
+          "source": "시사IN",
+          "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58441",
+          "publishedAt": "2026-08-28T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"제주 AI 격차 줄인다\"… 제주기자협회-제주대, 공동 토론회",
+          "source": "제민일보",
+          "url": "https://www.jemin.com/news/articleView.html?idxno=842204",
+          "publishedAt": "2026-08-28T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“AI, 쓰지 말라는 게 아니다”···‘생각하는 힘’ 되찾자는 교수법 나왔다",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202608281714001",
+          "publishedAt": "2026-08-28T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "영재학교",
+        "source": "시사IN",
+        "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58441",
+        "publishedAt": "2026-08-28T13:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:10:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "영재학교",
+      "source": "시사IN",
+      "url": "https://www.sisain.co.kr/news/articleView.html?idxno=58441"
     },
     {
       "id": "1153e6818de5b27b",
@@ -2022,6 +1792,144 @@
       "title": "나승엽",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260827130149465"
+    },
+    {
+      "id": "5440a1ac1ef71396",
+      "issueKey": "정연우",
+      "issueTitle": "정연우",
+      "trendTitle": "정연우",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "우서윤 성형 논란에…정연우 \"무례하고 가치없는 말\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260828_0003767264",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“무례하고 가치 없는 말”…‘작년 미코 진’ 정연우, 우서윤 성형 논란에 일침",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828223000608",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“자연미인이면 가치 올라가나” 작년 미코 진의 일갈",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11612920",
+          "publishedAt": "2026-08-28T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "우서윤 성형 논란에…정연우 \"무례하고 가치없는 말\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260828_0003767264",
+        "publishedAt": "2026-08-28T13:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:50:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "정연우",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260828_0003767264"
+    },
+    {
+      "id": "85d1989aaab92e97",
+      "issueKey": "이다해",
+      "issueTitle": "이다해",
+      "trendTitle": "이다해",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'세븐♥' 이다해, 42세 출산 앞두고 백화점 나들이…D라인은 '쏙'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260828170127525?f=p",
+          "publishedAt": "2026-08-28T13:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'임신' 이다해, 볼록한 D라인 어디갔지…중국 상해서 맛집 투어",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260827_0003764490",
+          "publishedAt": "2026-08-28T13:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'11월 득녀' 이다해, D라인 전혀 티 안 나···명품 아기옷 선물도 듬뿍",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/26/GI3DQYRTHBQTCZLCGAYWMZRTGM/",
+          "publishedAt": "2026-08-28T13:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'세븐♥' 이다해, 42세 출산 앞두고 백화점 나들이…D라인은 '쏙'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260828170127525?f=p",
+        "publishedAt": "2026-08-28T13:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:40:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "이다해",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260828170127525?f=p"
+    },
+    {
+      "id": "51cc98aa413155d8",
+      "issueKey": "김성현",
+      "issueTitle": "김성현",
+      "trendTitle": "김성현",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "SSG 김성현, 은퇴식서 특별 엔트리로 선발 2루수 출전",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/QejB7mB314",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'KS 우승 2회' SSG 김성현 , 9월 5일 은퇴식…21년 선수 생활 마감",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/sports/baseball/6272555",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "KBO 1149안타 남기고 떠나는 원클럽맨…특별엔트리→선발 2루수로 마지막 그라운드 밟는다",
+          "source": "SPOTV NEWS",
+          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1004504",
+          "publishedAt": "2026-08-28T13:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "SSG 김성현, 은퇴식서 특별 엔트리로 선발 2루수 출전",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/QejB7mB314",
+        "publishedAt": "2026-08-28T13:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-28T13:00:00.000Z",
+      "firstSeenAt": "2026-08-28T14:56:30.706Z",
+      "lastSeenAt": "2026-08-28T14:56:30.706Z",
+      "title": "김성현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/QejB7mB314"
     },
     {
       "id": "20bd908712a4f74c",

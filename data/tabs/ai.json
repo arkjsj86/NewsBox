@@ -4,9 +4,36 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-08-28T00:15:37.432Z",
-  "articleCount": 15,
+  "lastUpdatedAt": "2026-08-28T14:56:30.706Z",
+  "articleCount": 16,
   "articles": [
+    {
+      "id": "fb7c26154e18354e",
+      "title": "챗GPT 필수 설정 5가지…보안·개인정보·개성까지 한 번에 정비한다면",
+      "url": "https://www.itworld.co.kr/article/4214563/%ec%b1%97gpt-%ed%95%84%ec%88%98-%ec%84%a4%ec%a0%95-5%ea%b0%80%ec%a7%80-%eb%b3%b4%ec%95%88%c2%b7%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4%c2%b7%ea%b0%9c%ec%84%b1%ea%b9%8c%ec%a7%80-%ed%95%9c-%eb%b2%88.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-28T02:07:18.000Z",
+      "summary": "챗GPT가 여전히 이모지를 너무 많이 쏟아내고 있지는 않은가? 챗GPT가 사용자에 대해 무엇을 알고 있는지, 혹은 알고 있다고 생각하는지 궁금한 적이 있는가? 그리고 챗GPT 계정은 과연 얼마나 안전한가? 챗GPT 설정은 끊임없이 바뀌는 탓에 놓치기 쉽다. 그러나 설정을 가끔씩 살펴보는 것은 충분히 가치 있는 일이다. 핵심 설정 몇 가지만 조정해도 챗GPT의 이상한 성격 특성을 바로잡고...",
+      "tab": "ai"
+    },
+    {
+      "id": "841a7fc4f4cb1adb",
+      "title": "“왜 파일럿에서 멈추는가” 에이전틱 AI 배포를 결정하는 3가지 인프라 조건",
+      "url": "https://www.itworld.co.kr/article/4214550/%ec%99%9c-%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%90%ec%84%9c-%eb%a9%88%ec%b6%94%eb%8a%94%ea%b0%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%eb%b0%b0%ed%8f%ac%eb%a5%bc-%ea%b2%b0%ec%a0%95%ed%95%98.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-28T01:48:12.000Z",
+      "summary": "이제 신용카드만 있으면 기업 내의 거의 누구나 반나절 만에 에이전트를 구축할 수 있다. 툴에 액세스해서 손쉽게 배포하기만 하면 된다. 어려운 부분은 의도한 결과를 얻는 것이다. 가트너는 2027년까지 에이전틱 AI 프로젝트의 40% 이상이 중단될 것으로 전망한다 . 또한 고위험 AI 시스템에 대한 인간의 감독을 의무화하는 EU AI 법 제14조가 2026년 8월 2일부터 발효됐다. 에이...",
+      "tab": "ai"
+    },
+    {
+      "id": "e113fb28ac43c45d",
+      "title": "학습 데이터 삭제해도 이미지는 그대로, MIT가 밝힌 확산 모델의 맹점",
+      "url": "https://www.itworld.co.kr/article/4212715/%ed%95%99%ec%8a%b5-%eb%8d%b0%ec%9d%b4%ed%84%b0-%ec%82%ad%ec%a0%9c%ed%95%b4%eb%8f%84-%ec%9d%b4%eb%af%b8%ec%a7%80%eb%8a%94-%ea%b7%b8%eb%8c%80%eb%a1%9c-mit%ea%b0%80-%eb%b0%9d%ed%9e%8c-%ed%99%95%ec%82%b0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-28T01:01:00.000Z",
+      "summary": "확산 모델의 정교함은 이제 원본에 접근할 수 없는 상황에서도 이미지를 재현할 수 있을 정도로 발전했다. MIT 컴퓨터과학 및 AI 연구소(CSAIL) 연구진은 일련의 ‘가정(what-if)’ 시나리오를 통해 다양한 학습 데이터세트를 교체해가며 원본 이미지 데이터가 완전히 제거됐을 때 이미지 출력 결과에 어떤 영향이 나타나는지 테스트했다. 테스트 결과, 규모가 충분히 커지면 아무것도 바뀌...",
+      "tab": "ai"
+    },
     {
       "id": "80b63379f261a9d7",
       "title": "슬랙, 개발자·비기술 직원 함께 쓰는 AI 코딩 채널 ‘슬랙 코드’ 출시",
@@ -122,24 +149,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-08-21T01:59:10.000Z",
       "summary": "데모에서 인상적으로 보이는 AI 에이전트를 만드는 일은 이제 숙련된 개발자라면 주말 이틀 만에도 완성할 수 있는 수준이 됐다. 그러나 실제 기업 환경에서 CRM, 데이터 웨어하우스, 고객 정보에 접근하도록 허용되는 에이전트를 구축하는 것은 전혀 다른 영역의 일이다. 에이전트를 실전 배포할 때 마주하는 난관은 모델과 거의 무관하다. 핵심 과제는 모델 주변의 인프라다. 에이전트가 어떤 신원...",
-      "tab": "ai"
-    },
-    {
-      "id": "dab6a7cf6d623b88",
-      "title": "자기이익이 지키는 개방성—오픈웨이트 생태계의 역설",
-      "url": "https://www.itworld.co.kr/article/4212239/%ec%9e%90%ea%b8%b0%ec%9d%b4%ec%9d%b5%ec%9d%b4-%ec%a7%80%ed%82%a4%eb%8a%94-%ea%b0%9c%eb%b0%a9%ec%84%b1-%ec%98%a4%ed%94%88%ec%9b%a8%ec%9d%b4%ed%8a%b8-%ec%83%9d%ed%83%9c%ea%b3%84%ec%9d%98.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-21T01:41:12.000Z",
-      "summary": "오픈웨이트 AI 모델은 중요한 화두다. 엔비디아를 비롯한 200개 이상의 기업과 기관이 지난 7월 “오픈웨이트와 미국 AI 리더십(Open Weights and American AI Leadership)” 서한에 서명하며 오픈웨이트의 중요성을 증명했다. 문제는 그 비용을 누가 부담하느냐다. 오픈웨이트가 왜 중요한가? 레드햇 전 CEO 짐 화이트허스트는 “오픈웨이트는 [오픈소스와] 동일한...",
-      "tab": "ai"
-    },
-    {
-      "id": "bb243bb29d64e173",
-      "title": "AI 추론 아키텍처, 파일럿 단계에서 결정하라…AI 추론 인프라의 5가지 원칙",
-      "url": "https://www.itworld.co.kr/article/4211748/ai-%ec%b6%94%eb%a1%a0-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ed%8c%8c%ec%9d%bc%eb%9f%bf-%eb%8b%a8%ea%b3%84%ec%97%90%ec%84%9c-%ea%b2%b0%ec%a0%95%ed%95%98%eb%9d%bc-ai-%ec%b6%94%eb%a1%a0-%ec%9d%b8.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-20T03:49:42.000Z",
-      "summary": "아직 AI 전략을 수립하는 단계에 머물러 있는 기업이 있는가 하면, 실험이나 개념 증명(POC)이 프로덕션 단계에 도달하지 못한 채 ‘파일럿 연옥’에 갇혀 있는 기업도 적지 않다. ‘기업 AI 현황(The State of AI in the Enterprise)’ 보고서에 따르면 , AI 실험의 40% 이상을 프로덕션으로 이전한 기업은 전체의 25%에 불과하다. 최근 링크드인 라이브의 한...",
       "tab": "ai"
     }
   ]
