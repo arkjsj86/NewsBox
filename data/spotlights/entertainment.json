@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-08-29T18:11:31.837Z",
+  "lastUpdatedAt": "2026-08-29T22:59:50.296Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "05bdf3b575873b5e",
-      "issueKey": "해외축구",
-      "issueTitle": "해외축구",
-      "trendTitle": "해외축구",
+      "id": "fe655cf1d979cf3d",
+      "issueKey": "날씨",
+      "issueTitle": "날씨",
+      "trendTitle": "날씨",
+      "approxTraffic": "100000+",
+      "trafficScore": 100000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "날씨｜경기남부 100㎜ 비…북부는 낮부터 소강",
+          "source": "OBC 뉴스",
+          "url": "http://www.theonetv.kr/news/articleView.html?idxno=252891",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "일요일 인천, 낮 최고 28도…10~60㎜ 비 예보",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260829_0003767999",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "토요일 경기북부, '최대 40㎜' 비 온다…\"체감 33도\" 폭염",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260829n01513",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "날씨｜경기남부 100㎜ 비…북부는 낮부터 소강",
+        "source": "OBC 뉴스",
+        "url": "http://www.theonetv.kr/news/articleView.html?idxno=252891",
+        "publishedAt": "2026-08-29T21:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T21:50:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "날씨",
+      "source": "OBC 뉴스",
+      "url": "http://www.theonetv.kr/news/articleView.html?idxno=252891",
+      "rank": 1
+    },
+    {
+      "id": "a7b8a55ee3c36bd0",
+      "issueKey": "สภาพอากาศ",
+      "issueTitle": "สภาพอากาศ",
+      "trendTitle": "สภาพอากาศ",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
+          "source": "Thansettakij",
+          "url": "https://www.thansettakij.com/general-news/667729",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "กรมอุตุนิยมวิทยา. . พยากรณ์อากาศประจำวันที่ 29 สิงหาคม 2569 ตั้งแต่เวลา 12.00 น. วันนี้ ถึงเวลา 12.00 น. วันพรุ่งนี้ https://youtu.be/8mCgLXJHgjI",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/videos/%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-29-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%84%E0%B8%A1-2569%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-/2943604582671280/",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "เหนือ อีสาน และตะวันออก เจอฝนฟ้าคะนอง ร้อยละ 70 ของพื้นที่",
+          "source": "Ch7.com",
+          "url": "https://news.ch7.com/detail/894096",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
+        "source": "Thansettakij",
+        "url": "https://www.thansettakij.com/general-news/667729",
+        "publishedAt": "2026-08-29T21:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T21:50:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "สภาพอากาศ",
+      "source": "Thansettakij",
+      "url": "https://www.thansettakij.com/general-news/667729",
+      "rank": 2
+    },
+    {
+      "id": "4d947325473f5b57",
+      "issueKey": "天气",
+      "issueTitle": "天气",
+      "trendTitle": "天气",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Heavy rain ongoing in Toyama and Ishikawa prefectures as warnings downgraded",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/08/27/japan/ishikawa-toyama-rains-flooding/",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Heavy rain and flooding in north-central Japan strands people and vehicles",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-north-central-japan-strands-people-135997582",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "天气",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
+        "publishedAt": "2026-08-29T21:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T21:50:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "天气",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
+      "rank": 3
+    },
+    {
+      "id": "8815c74ad2d3dcaf",
+      "issueKey": "thời tiết",
+      "issueTitle": "thời tiết",
+      "trendTitle": "thời tiết",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Hà Nội và loạt tỉnh thành miền Bắc mưa lớn, Biển Đông có thể xuất hiện bão",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ha-noi-va-loat-tinh-thanh-mien-bac-mua-lon-bien-dong-co-the-xuat-hien-bao",
+          "publishedAt": "2026-08-29T21:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Dự báo khu vực sắp có mưa lớn, 12 tỉnh thành chủ động ứng phó",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/moi-truong/du-bao-khu-vuc-sap-co-mua-lon-12-tinh-thanh-chu-dong-ung-pho-1758742.ldo",
+          "publishedAt": "2026-08-29T21:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Chủ động ứng phó mưa lớn, lũ, sạt lở đất dịp nghỉ lễ Quốc khánh",
+          "source": "Báo Nhân Dân điện tử",
+          "url": "https://nhandan.vn/chu-dong-ung-pho-mua-lon-lu-sat-lo-dat-dip-nghi-le-quoc-khanh-post985372.html",
+          "publishedAt": "2026-08-29T21:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "thời tiết",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ha-noi-va-loat-tinh-thanh-mien-bac-mua-lon-bien-dong-co-the-xuat-hien-bao",
+        "publishedAt": "2026-08-29T21:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T21:40:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "thời tiết",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ha-noi-va-loat-tinh-thanh-mien-bac-mua-lon-bien-dong-co-the-xuat-hien-bao",
+      "rank": 4
+    },
+    {
+      "id": "9be5e0335b583f9b",
+      "issueKey": "자산",
+      "issueTitle": "자산",
+      "trendTitle": "자산",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "등 전체를 덮은 '사무라이 문신'…日 문화 푹 빠진 '이강인 전 동료' 바르콜라",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829225237843",
-          "publishedAt": "2026-08-29T16:50:00.000Z",
+          "title": "실업자 절반이 2030… \"자산 관리? 자산 자체가 없어\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/economy/economy_general/2026/08/29/TFRDPAIJ6JEDXFI55XRXP27XAE/",
+          "publishedAt": "2026-08-29T21:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이강인 떠나고 나서야 영향력 인정했던 PSG, 이젠 성골 유스도 판다…음바예 빌라행 임박→HERE WE GO!",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260829n09570?isq=8655&amp;mid=s0401",
-          "publishedAt": "2026-08-29T16:50:00.000Z",
+          "title": "“청년 정치인에게 공정만 보장하라, 실력으로 승부 내겠다”",
+          "source": "신동아",
+          "url": "https://shindonga.donga.com/politics/article/all/13/6363268/1",
+          "publishedAt": "2026-08-29T21:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "리버풀, 바르콜라 영입 합의 … EPL 역대 2위 이적료 '2250억'",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/08/28/2026082800087.html",
-          "publishedAt": "2026-08-29T16:50:00.000Z",
+          "title": "2030, 민주당 떠나는 이유 [청년 표심의 경고]",
+          "source": "시사오늘",
+          "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=203784",
+          "publishedAt": "2026-08-29T21:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "해외축구",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260829225237843",
-        "publishedAt": "2026-08-29T16:50:00.000Z",
+        "title": "실업자 절반이 2030… \"자산 관리? 자산 자체가 없어\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/economy/economy_general/2026/08/29/TFRDPAIJ6JEDXFI55XRXP27XAE/",
+        "publishedAt": "2026-08-29T21:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-29T16:50:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "해외축구",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260829225237843",
-      "rank": 1
+      "publishedAt": "2026-08-29T21:30:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "자산",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/economy/economy_general/2026/08/29/TFRDPAIJ6JEDXFI55XRXP27XAE/",
+      "rank": 5
     },
     {
-      "id": "1978cc58b8cbb72f",
-      "issueKey": "마르무시",
-      "issueTitle": "마르무시",
-      "trendTitle": "마르무시",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'7000억 펑펑' 데 제르비 활짝! 토트넘, '맨시티 벤치' 사비우 이어 마르무시도 품었다...\"임대 후 2027년 완전 영입\" [공식발표]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828020552251?f=p",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[오피셜] 오마르 마르무시, 토트넘으로 한 시즌 간 임대",
-          "source": "Manchester City FC",
-          "url": "https://kr.mancity.com/news/mens/omar-marmoush-loan-tottenham-hotspur-63923436",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[오피셜] ‘1128억!’ 한국에서 ‘이강인 데뷔전’ 망가뜨린 맨시티 FW, 손흥민 친정 토트넘 합류",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608280303003",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'7000억 펑펑' 데 제르비 활짝! 토트넘, '맨시티 벤치' 사비우 이어 마르무시도 품었다...\"임대 후 2027년 완전 영입\" [공식발표]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260828020552251?f=p",
-        "publishedAt": "2026-08-29T16:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-29T16:40:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "마르무시",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260828020552251?f=p",
-      "rank": 2
-    },
-    {
-      "id": "7c56c8b130b3ff48",
-      "issueKey": "오마르 마르무시",
-      "issueTitle": "오마르 마르무시",
-      "trendTitle": "오마르 마르무시",
+      "id": "176494aa449dceea",
+      "issueKey": "배당",
+      "issueTitle": "배당",
+      "trendTitle": "배당",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'그는 스스로 갇혀버렸다' 이강인의 아틀레티코 에이스 훌리안 알바레즈, 아틀레티코 '바르셀로나 이적 절대 없다' 선언→아스널 아르테타 감독 제안 거부..'알바레즈 마음 고쳐먹나'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/30/MQ3TKNZQGQ3TINJTMZSDGZTBGY/",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
+          "title": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829174501091",
+          "publishedAt": "2026-08-29T21:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"세비야전 안 뛴다\" 시메오네 감독 공식 선언...'우울증 호소' 알바레스, 결장 확정→이강인과 첫 호흡 또또또 무산됐다",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/29/202608291521771535O",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
+          "title": "[경제 포커스] 두 달 만에 12% 내린 환율...이젠 삼전닉스 원화 매출 타격 우려 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/08/29/7X5MLZ2JMJCCLM4FCQA55NPKTQ/",
+          "publishedAt": "2026-08-29T21:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "어쨌든 이강인과는 작별!…'3일 연속 훈련 불참' ATM 공격수, 아스널 아닌 맨시티 하이재킹? \"마레스카가 원한다\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260829n05939",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
+          "title": "삼전닉스發 주주환원…축배의 시간?",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12138748",
+          "publishedAt": "2026-08-29T21:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "오마르 마르무시",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/08/30/MQ3TKNZQGQ3TINJTMZSDGZTBGY/",
-        "publishedAt": "2026-08-29T16:40:00.000Z",
+        "title": "배당",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260829174501091",
+        "publishedAt": "2026-08-29T21:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-29T16:40:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "오마르 마르무시",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/08/30/MQ3TKNZQGQ3TINJTMZSDGZTBGY/",
-      "rank": 3
+      "publishedAt": "2026-08-29T21:20:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "배당",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260829174501091",
+      "rank": 6
     },
     {
-      "id": "4d6da8e38ebdf30d",
-      "issueKey": "spurs vs newcastle",
-      "issueTitle": "spurs vs newcastle",
-      "trendTitle": "spurs vs newcastle",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "6973a7e2ccb58f1c",
+      "issueKey": "탄약창고",
+      "issueTitle": "탄약창고",
+      "trendTitle": "탄약창고",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Tottenham Hotspur vs Newcastle United: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/crjw5316vlzgt",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
+          "title": "러, 키이우 일대 사흘째 드론 공격…최소 37명 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830071214439",
+          "publishedAt": "2026-08-29T21:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Premier League predictions & Jones Knows' best bets: Man Utd host Ipswich as Arsenal visit Aston Villa",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/football/news/11095/13577786/premier-league-predictions-and-jones-knows-best-bets-crystal-palace-pain-man-city-to-make-it-back-to-back-wins",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
+          "title": "마을 옆 탄약창고? 러, 키이우 인근 공격…최소 27명 사망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260829044400079",
+          "publishedAt": "2026-08-29T21:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Sky Bet Spurs v Newcastle Offer: Get 50/1 on a Goal to be Scored in the Game",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/articles/trCN-AGW9UWyENEwuDjYKA/show/sky-bet-spurs-v-newcastle-offer-get-501-on-a-goal-to-be-scored-in-the-game",
-          "publishedAt": "2026-08-29T16:40:00.000Z",
+          "title": "\"러, 우크라 유명 보드카 공장 공습‥최대 400만병 증발\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6848175_36925.html",
+          "publishedAt": "2026-08-29T21:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "spurs vs newcastle",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/crjw5316vlzgt",
-        "publishedAt": "2026-08-29T16:40:00.000Z",
-        "relevanceScore": 3
+        "title": "마을 옆 탄약창고? 러, 키이우 인근 공격…최소 27명 사망",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260829044400079",
+        "publishedAt": "2026-08-29T21:00:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-08-29T16:40:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "spurs vs newcastle",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/crjw5316vlzgt",
-      "rank": 4
+      "publishedAt": "2026-08-29T21:00:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "탄약창고",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260829044400079",
+      "rank": 7
     },
     {
-      "id": "b8952a4afb68e696",
-      "issueKey": "토트넘",
-      "issueTitle": "토트넘",
-      "trendTitle": "토트넘",
+      "id": "7dff385b19c18f82",
+      "issueKey": "왕즈이",
+      "issueTitle": "왕즈이",
+      "trendTitle": "왕즈이",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "손흥민이 아꼈던 '애착 인형' 사르, 토트넘 방출 리스트 올라…\"이적시장 종료 전 떠날 것으로 예상\"",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260830n00266",
-          "publishedAt": "2026-08-29T16:30:00.000Z",
+          "title": "\"'안세영 별거 아냐! 공격이 안 돼' 대체 누가 그랬어?\"…中, 이제 전문가 평가 안 믿는다→\"블랙홀 같아, 부상 아니면 못 이겨\" 손바닥 뒤집듯 뒤집네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830043152983",
+          "publishedAt": "2026-08-29T20:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"미친 이적 시장이야, 예측 불가능해\"… 토트넘 데 제르비 감독, 이적 원하는 선수에 대해선 \"차분함 유지해라\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829084551983",
-          "publishedAt": "2026-08-29T16:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'토트넘 1121억 먹튀' 히샬리송, 명단 제외 충격!…4년간 고작 32골 '더는 못 참는다'→쫓겨나듯 다른 구단 이적 수순 [오피셜]",
-          "source": "www.xportsnews.com",
-          "url": "https://www.xportsnews.com/article/2189739",
-          "publishedAt": "2026-08-29T16:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "손흥민이 아꼈던 '애착 인형' 사르, 토트넘 방출 리스트 올라…\"이적시장 종료 전 떠날 것으로 예상\"",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260830n00266",
-        "publishedAt": "2026-08-29T16:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-29T16:30:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "토트넘",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260830n00266",
-      "rank": 5
-    },
-    {
-      "id": "e16d4743e03e607d",
-      "issueKey": "아이폰",
-      "issueTitle": "아이폰",
-      "trendTitle": "아이폰",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"한국서 성형했더니 아이폰이 날 몰라봐\"…얼굴 '퉁퉁' 부은 호주女",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829164948397",
-          "publishedAt": "2026-08-29T16:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "한국서 성형한 호주 인플루언서 “아이폰도 내 얼굴 인식 못해”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Inter/article/all/20260829/134568058/2",
-          "publishedAt": "2026-08-29T16:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"한국서 성형 수술했다가\"…아이폰 '얼굴 인식 불가'",
+          "title": "\"안세영이 온다\" 벌벌 떠는 중국 배드민턴...한첸시-한웨-왕즈이·천위페이까지 연쇄 격돌→깡그리 탈락 가능",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/08/29/2026082909333270407",
-          "publishedAt": "2026-08-29T16:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"한국서 성형했더니 아이폰이 날 몰라봐\"…얼굴 '퉁퉁' 부은 호주女",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260829164948397",
-        "publishedAt": "2026-08-29T16:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-29T16:20:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "아이폰",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260829164948397",
-      "rank": 6
-    },
-    {
-      "id": "ea96533884db9746",
-      "issueKey": "건진 리버풀",
-      "issueTitle": "건진 리버풀",
-      "trendTitle": "건진 리버풀",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "안필드서 노팅엄만 만나면 작아진다…힘겹게 2-2 무승부 건진 리버풀, 노팅엄 상대 홈에서 최근 3경기 1무 2패",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260829n12027",
-          "publishedAt": "2026-08-29T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "프리미어 리그 토트넘 대 뉴캐슬 점수 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/du-doan-ti-so-tottenham-vs-newcastle-tai-premier-league-1758499.ldo",
-          "publishedAt": "2026-08-29T15:30:00.000Z",
+          "url": "https://www.mt.co.kr/sports/2026/08/29/202608290836776116O",
+          "publishedAt": "2026-08-29T20:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘박승수 제외’ 뉴캐슬, WBA 3-2로 꺾고 리그컵 3라운드 진출",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260827/134554056/1",
-          "publishedAt": "2026-08-29T15:30:00.000Z",
+          "title": "'세계 2위 야마구치와 비교도 안 되는 수준' 안세영, 배드민턴 GOAT 논쟁에 쐐기…ELO 최초 2900점 돌파",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/08/29/GUYDCZJUMFRTGNZYMEZDKM3FMI/",
+          "publishedAt": "2026-08-29T20:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "안필드서 노팅엄만 만나면 작아진다…힘겹게 2-2 무승부 건진 리버풀, 노팅엄 상대 홈에서 최근 3경기 1무 2패",
-        "source": "네이트",
-        "url": "https://sports.news.nate.com/view/20260829n12027",
-        "publishedAt": "2026-08-29T15:30:00.000Z",
-        "relevanceScore": 3
+        "title": "\"안세영이 온다\" 벌벌 떠는 중국 배드민턴...한첸시-한웨-왕즈이·천위페이까지 연쇄 격돌→깡그리 탈락 가능",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/29/202608290836776116O",
+        "publishedAt": "2026-08-29T20:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-08-29T15:30:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "건진 리버풀",
-      "source": "네이트",
-      "url": "https://sports.news.nate.com/view/20260829n12027",
-      "rank": 7
-    },
-    {
-      "id": "c32858bf2613751a",
-      "issueKey": "김진욱",
-      "issueTitle": "김진욱",
-      "trendTitle": "김진욱",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "51분 중단-3분 만에 다시 40분 중단, 끝내 멈추지 않은 폭우...'송찬의 3안타 폭발' LG, 롯데 4연패 수렁에 빠뜨렸다 [부산 리뷰]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829222211631",
-          "publishedAt": "2026-08-29T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "170㎞ 총알 타구가 승부 갈랐다! '3안타 폭발' LG 송찬의 뜻밖의 비결 밝혔다 \"더 덤비지 않으려 한다\" [부산 현장]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/30/2026082922540755460",
-          "publishedAt": "2026-08-29T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "AG 걱정해야 하나...김진욱 '엘롯라시코' 시즌 최다 7실점, 4⅔이닝 강판 [오!쎈 부산]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112866055",
-          "publishedAt": "2026-08-29T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "AG 걱정해야 하나...김진욱 '엘롯라시코' 시즌 최다 7실점, 4⅔이닝 강판 [오!쎈 부산]",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112866055",
-        "publishedAt": "2026-08-29T15:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-29T15:10:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "김진욱",
-      "source": "OSEN",
-      "url": "https://www.osen.co.kr/article/G1112866055",
+      "publishedAt": "2026-08-29T20:50:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "왕즈이",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/sports/2026/08/29/202608290836776116O",
       "rank": 8
     },
     {
-      "id": "efcdc853f7e3b0a2",
-      "issueKey": "bournemouth vs everton",
-      "issueTitle": "bournemouth vs everton",
-      "trendTitle": "bournemouth vs everton",
+      "id": "b2ede0bda81cc25e",
+      "issueKey": "sevilla vs atlético madrid",
+      "issueTitle": "sevilla vs atlético madrid",
+      "trendTitle": "sevilla vs atlético madrid",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Lee Kang-in delivers assist and 94% passing as Atlético beat Sevilla - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/30/LQUD4V25QRGKRNJNBBAG5JOU7Q/",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Lee Kang-in sets up Baena as Atlético takes early lead at Sevilla - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/30/THZ5JMYGHJCJBJAAB6ZXKF2SPM/",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Lee Kang-in Assist, Morata Brace Help Atlético Madrid Top League",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/30/NKVD72634FFENEQY5LOSRQA2QM/",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "sevilla vs atlético madrid",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/08/30/LQUD4V25QRGKRNJNBBAG5JOU7Q/",
+        "publishedAt": "2026-08-29T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T20:40:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "sevilla vs atlético madrid",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-sports/2026/08/30/LQUD4V25QRGKRNJNBBAG5JOU7Q/",
+      "rank": 9
+    },
+    {
+      "id": "96a52b78177000d0",
+      "issueKey": "종부세",
+      "issueTitle": "종부세",
+      "trendTitle": "재산세",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Bournemouth vs Everton: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/ckm2qnyv5l51t",
-          "publishedAt": "2026-08-29T14:50:00.000Z",
+          "title": "[마이더스] 2026년 세제개편안…종부세·양도세",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260827078400980",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Everton starting XI vs Bournemouth as Harrison Armstrong decision made amid transfer speculation",
-          "source": "Everton News",
-          "url": "https://www.everton.news/everton-starting-xi-vs-bournemouth-as-harrison-armstrong-decision-made-amid-transfer-speculation/",
-          "publishedAt": "2026-08-29T14:50:00.000Z",
+          "title": "세제개편안 국회 제출 임박…비거주 세부담 완화 수준 고심",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260829_0003767996",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Premier League - AFC Bournemouth v Everton",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/premier-league-afc-bournemouth-v-everton/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX1VQMUVNOFQxOEVMRk4",
-          "publishedAt": "2026-08-29T14:50:00.000Z",
+          "title": "보유만 해도 최대 70% 깎아준다?…강남 들썩이게 한 파격혜택 [안장원의 부동산 노트]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829060232572",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Bournemouth vs Everton: Premier League preview, team news, stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/ckm2qnyv5l51t",
-        "publishedAt": "2026-08-29T14:50:00.000Z",
+        "title": "[마이더스] 2026년 세제개편안…종부세·양도세",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260827078400980",
+        "publishedAt": "2026-08-29T20:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-29T14:50:00.000Z",
-      "firstSeenAt": "2026-08-29T18:11:31.837Z",
-      "lastSeenAt": "2026-08-29T18:11:31.837Z",
-      "title": "bournemouth vs everton",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/ckm2qnyv5l51t",
-      "rank": 9
+      "publishedAt": "2026-08-29T20:40:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "종부세",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260827078400980",
+      "rank": 10
     }
   ],
   "history": [
@@ -445,8 +492,15 @@
       "approxTraffic": "200000+",
       "trafficScore": 200000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 6,
       "relatedArticles": [
+        {
+          "title": "날씨｜경기남부 100㎜ 비…북부는 낮부터 소강",
+          "source": "OBC 뉴스",
+          "url": "http://www.theonetv.kr/news/articleView.html?idxno=252891",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 3
+        },
         {
           "title": "오늘부터 '가을 장마'‥주말까지 최대 100mm",
           "source": "MBC 뉴스",
@@ -455,11 +509,25 @@
           "relevanceScore": 3
         },
         {
+          "title": "일요일 인천, 낮 최고 28도…10~60㎜ 비 예보",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260829_0003767999",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
           "title": "주말까지 전국에 비·소나기…시간당 최고 50㎜ '집중호우'도",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260828084600225",
           "publishedAt": "2026-08-27T22:00:00.000Z",
           "relevanceScore": 2
+        },
+        {
+          "title": "토요일 경기북부, '최대 40㎜' 비 온다…\"체감 33도\" 폭염",
+          "source": "네이트",
+          "url": "https://news.nate.com/view/20260829n01513",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 1
         },
         {
           "title": "28일 부울경 30~80mm 많은 비 올듯",
@@ -470,18 +538,18 @@
         }
       ],
       "representativeArticle": {
-        "title": "날씨",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847916_37012.html",
-        "publishedAt": "2026-08-27T22:00:00.000Z",
+        "title": "날씨｜경기남부 100㎜ 비…북부는 낮부터 소강",
+        "source": "OBC 뉴스",
+        "url": "http://www.theonetv.kr/news/articleView.html?idxno=252891",
+        "publishedAt": "2026-08-29T21:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-08-27T22:00:00.000Z",
+      "publishedAt": "2026-08-29T21:50:00.000Z",
       "firstSeenAt": "2026-08-28T00:15:37.432Z",
-      "lastSeenAt": "2026-08-28T00:15:37.432Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
       "title": "날씨",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6847916_37012.html"
+      "source": "OBC 뉴스",
+      "url": "http://www.theonetv.kr/news/articleView.html?idxno=252891"
     },
     {
       "id": "ea96533884db9746",
@@ -668,6 +736,52 @@
       "url": "https://sports.khan.co.kr/article/202608280906013"
     },
     {
+      "id": "176494aa449dceea",
+      "issueKey": "배당",
+      "issueTitle": "배당",
+      "trendTitle": "배당",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“어제 삼전 374원 실망하셨어요?”...석달뒤엔 ‘이만큼’받는다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260829174501091",
+          "publishedAt": "2026-08-29T21:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[경제 포커스] 두 달 만에 12% 내린 환율...이젠 삼전닉스 원화 매출 타격 우려 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/policy/policy_sub/2026/08/29/7X5MLZ2JMJCCLM4FCQA55NPKTQ/",
+          "publishedAt": "2026-08-29T21:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "삼전닉스發 주주환원…축배의 시간?",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12138748",
+          "publishedAt": "2026-08-29T21:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "배당",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260829174501091",
+        "publishedAt": "2026-08-29T21:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T21:20:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "배당",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260829174501091"
+    },
+    {
       "id": "7c56c8b130b3ff48",
       "issueKey": "오마르 마르무시",
       "issueTitle": "오마르 마르무시",
@@ -758,6 +872,52 @@
       "title": "연금",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260829061238695"
+    },
+    {
+      "id": "8815c74ad2d3dcaf",
+      "issueKey": "thời tiết",
+      "issueTitle": "thời tiết",
+      "trendTitle": "thời tiết",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Hà Nội và loạt tỉnh thành miền Bắc mưa lớn, Biển Đông có thể xuất hiện bão",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ha-noi-va-loat-tinh-thanh-mien-bac-mua-lon-bien-dong-co-the-xuat-hien-bao",
+          "publishedAt": "2026-08-29T21:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Dự báo khu vực sắp có mưa lớn, 12 tỉnh thành chủ động ứng phó",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/moi-truong/du-bao-khu-vuc-sap-co-mua-lon-12-tinh-thanh-chu-dong-ung-pho-1758742.ldo",
+          "publishedAt": "2026-08-29T21:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Chủ động ứng phó mưa lớn, lũ, sạt lở đất dịp nghỉ lễ Quốc khánh",
+          "source": "Báo Nhân Dân điện tử",
+          "url": "https://nhandan.vn/chu-dong-ung-pho-mua-lon-lu-sat-lo-dat-dip-nghi-le-quoc-khanh-post985372.html",
+          "publishedAt": "2026-08-29T21:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "thời tiết",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ha-noi-va-loat-tinh-thanh-mien-bac-mua-lon-bien-dong-co-the-xuat-hien-bao",
+        "publishedAt": "2026-08-29T21:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T21:40:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "thời tiết",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ha-noi-va-loat-tinh-thanh-mien-bac-mua-lon-bien-dong-co-the-xuat-hien-bao"
     },
     {
       "id": "9abcff492eb8cff2",
@@ -1034,6 +1194,52 @@
       "title": "화사",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260827220131532"
+    },
+    {
+      "id": "7dff385b19c18f82",
+      "issueKey": "왕즈이",
+      "issueTitle": "왕즈이",
+      "trendTitle": "왕즈이",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"'안세영 별거 아냐! 공격이 안 돼' 대체 누가 그랬어?\"…中, 이제 전문가 평가 안 믿는다→\"블랙홀 같아, 부상 아니면 못 이겨\" 손바닥 뒤집듯 뒤집네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830043152983",
+          "publishedAt": "2026-08-29T20:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"안세영이 온다\" 벌벌 떠는 중국 배드민턴...한첸시-한웨-왕즈이·천위페이까지 연쇄 격돌→깡그리 탈락 가능",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/08/29/202608290836776116O",
+          "publishedAt": "2026-08-29T20:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'세계 2위 야마구치와 비교도 안 되는 수준' 안세영, 배드민턴 GOAT 논쟁에 쐐기…ELO 최초 2900점 돌파",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/sports_general/2026/08/29/GUYDCZJUMFRTGNZYMEZDKM3FMI/",
+          "publishedAt": "2026-08-29T20:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"안세영이 온다\" 벌벌 떠는 중국 배드민턴...한첸시-한웨-왕즈이·천위페이까지 연쇄 격돌→깡그리 탈락 가능",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/08/29/202608290836776116O",
+        "publishedAt": "2026-08-29T20:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-29T20:50:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "왕즈이",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/sports/2026/08/29/202608290836776116O"
     },
     {
       "id": "b8952a4afb68e696",
@@ -1356,6 +1562,144 @@
       "title": "외국인",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260828164950086"
+    },
+    {
+      "id": "a7b8a55ee3c36bd0",
+      "issueKey": "สภาพอากาศ",
+      "issueTitle": "สภาพอากาศ",
+      "trendTitle": "สภาพอากาศ",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
+          "source": "Thansettakij",
+          "url": "https://www.thansettakij.com/general-news/667729",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "กรมอุตุนิยมวิทยา. . พยากรณ์อากาศประจำวันที่ 29 สิงหาคม 2569 ตั้งแต่เวลา 12.00 น. วันนี้ ถึงเวลา 12.00 น. วันพรุ่งนี้ https://youtu.be/8mCgLXJHgjI",
+          "source": "Facebook",
+          "url": "https://www.facebook.com/tmd.go.th/videos/%E0%B8%9E%E0%B8%A2%E0%B8%B2%E0%B8%81%E0%B8%A3%E0%B8%93%E0%B9%8C%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-29-%E0%B8%AA%E0%B8%B4%E0%B8%87%E0%B8%AB%E0%B8%B2%E0%B8%84%E0%B8%A1-2569%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B5%E0%B9%89-%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B9%80%E0%B8%A7%E0%B8%A5%E0%B8%B2-1200-%E0%B8%99-/2943604582671280/",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "เหนือ อีสาน และตะวันออก เจอฝนฟ้าคะนอง ร้อยละ 70 ของพื้นที่",
+          "source": "Ch7.com",
+          "url": "https://news.ch7.com/detail/894096",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "สภาพอากาศวันนี้ -4 ก.ย.เหนือ อีสาน กลาง ตะวันออก ฝนตกหนักถึงหนักมากบางแห่ง",
+        "source": "Thansettakij",
+        "url": "https://www.thansettakij.com/general-news/667729",
+        "publishedAt": "2026-08-29T21:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T21:50:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "สภาพอากาศ",
+      "source": "Thansettakij",
+      "url": "https://www.thansettakij.com/general-news/667729"
+    },
+    {
+      "id": "4d947325473f5b57",
+      "issueKey": "天气",
+      "issueTitle": "天气",
+      "trendTitle": "天气",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Weather tracker: More extreme rain in Japan and a tornado in France",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Heavy rain ongoing in Toyama and Ishikawa prefectures as warnings downgraded",
+          "source": "The Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/08/27/japan/ishikawa-toyama-rains-flooding/",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Heavy rain and flooding in north-central Japan strands people and vehicles",
+          "source": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://abcnews.com/International/wireStory/heavy-rain-flooding-north-central-japan-strands-people-135997582",
+          "publishedAt": "2026-08-29T21:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "天气",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france",
+        "publishedAt": "2026-08-29T21:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T21:50:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "天气",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/28/weather-tracker-extreme-rain-japan-tornado-france"
+    },
+    {
+      "id": "6973a7e2ccb58f1c",
+      "issueKey": "탄약창고",
+      "issueTitle": "탄약창고",
+      "trendTitle": "탄약창고",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "러, 키이우 일대 사흘째 드론 공격…최소 37명 사망",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260830071214439",
+          "publishedAt": "2026-08-29T21:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "마을 옆 탄약창고? 러, 키이우 인근 공격…최소 27명 사망",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260829044400079",
+          "publishedAt": "2026-08-29T21:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"러, 우크라 유명 보드카 공장 공습‥최대 400만병 증발\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6848175_36925.html",
+          "publishedAt": "2026-08-29T21:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "마을 옆 탄약창고? 러, 키이우 인근 공격…최소 27명 사망",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260829044400079",
+        "publishedAt": "2026-08-29T21:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-08-29T21:00:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "탄약창고",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260829044400079"
     },
     {
       "id": "e16d4743e03e607d",
@@ -1864,6 +2208,52 @@
       "url": "https://getfootballnewsspain.com/athletic-club-standout-beats-barcelona-stars-to-man-of-the-match-award-despite-defeat/"
     },
     {
+      "id": "b2ede0bda81cc25e",
+      "issueKey": "sevilla vs atlético madrid",
+      "issueTitle": "sevilla vs atlético madrid",
+      "trendTitle": "sevilla vs atlético madrid",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Lee Kang-in delivers assist and 94% passing as Atlético beat Sevilla - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/30/LQUD4V25QRGKRNJNBBAG5JOU7Q/",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Lee Kang-in sets up Baena as Atlético takes early lead at Sevilla - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/08/30/THZ5JMYGHJCJBJAAB6ZXKF2SPM/",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Lee Kang-in Assist, Morata Brace Help Atlético Madrid Top League",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/08/30/NKVD72634FFENEQY5LOSRQA2QM/",
+          "publishedAt": "2026-08-29T20:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "sevilla vs atlético madrid",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/08/30/LQUD4V25QRGKRNJNBBAG5JOU7Q/",
+        "publishedAt": "2026-08-29T20:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-08-29T20:40:00.000Z",
+      "firstSeenAt": "2026-08-29T22:59:50.296Z",
+      "lastSeenAt": "2026-08-29T22:59:50.296Z",
+      "title": "sevilla vs atlético madrid",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-sports/2026/08/30/LQUD4V25QRGKRNJNBBAG5JOU7Q/"
+    },
+    {
       "id": "1978cc58b8cbb72f",
       "issueKey": "마르무시",
       "issueTitle": "마르무시",
@@ -1954,328 +2344,6 @@
       "title": "spurs vs newcastle",
       "source": "BBC",
       "url": "https://www.bbc.com/sport/football/live/crjw5316vlzgt"
-    },
-    {
-      "id": "02dfcd609d1ad382",
-      "issueKey": "옌샤오난",
-      "issueTitle": "옌샤오난",
-      "trendTitle": "옌샤오난",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "레슬링 막아야 산다, 송야동의 누르마고메도프 도전",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260829105750682",
-          "publishedAt": "2026-08-29T13:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[격투기] 옌샤오난·고메스, UFC 상하이 코메인 계체 통과…29일 여성 타격가 맞대결",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260828000784",
-          "publishedAt": "2026-08-29T13:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'쿵푸키드' 랭킹 6위 中 파이터, '러시아 강자' 누르마고메도프와 격돌 \"철저히 준비했다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/27/2026082714250274905",
-          "publishedAt": "2026-08-29T13:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[격투기] 옌샤오난·고메스, UFC 상하이 코메인 계체 통과…29일 여성 타격가 맞대결",
-        "source": "뉴스핌",
-        "url": "https://www.newspim.com/news/view/20260828000784",
-        "publishedAt": "2026-08-29T13:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-29T13:00:00.000Z",
-      "firstSeenAt": "2026-08-29T14:11:05.211Z",
-      "lastSeenAt": "2026-08-29T14:11:05.211Z",
-      "title": "옌샤오난",
-      "source": "뉴스핌",
-      "url": "https://www.newspim.com/news/view/20260828000784"
-    },
-    {
-      "id": "3d6bee2d53109f73",
-      "issueKey": "박재현",
-      "issueTitle": "박재현",
-      "trendTitle": "박재현",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "몸은 가벼워졌지만 홈런은 늘었다···‘날씬한 거포’ 박재현이 무게 없이 힘을 쓰는 법",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608251041013",
-          "publishedAt": "2026-08-29T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]박재현, 내가 해냈다",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/23/202608231613775309O",
-          "publishedAt": "2026-08-29T12:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'호타준족의 상징' 20홈런-20도루…올해 유력 후보는 두 명, KIA 박재현·NC 김주원",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260824n01017",
-          "publishedAt": "2026-08-29T12:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "몸은 가벼워졌지만 홈런은 늘었다···‘날씬한 거포’ 박재현이 무게 없이 힘을 쓰는 법",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202608251041013",
-        "publishedAt": "2026-08-29T12:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-29T12:50:00.000Z",
-      "firstSeenAt": "2026-08-29T14:11:05.211Z",
-      "lastSeenAt": "2026-08-29T14:11:05.211Z",
-      "title": "박재현",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202608251041013"
-    },
-    {
-      "id": "0014caa027222748",
-      "issueKey": "lotto result 6 45",
-      "issueTitle": "lotto result 6/45",
-      "trendTitle": "lotto result 6/45",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Lotto draw results on Friday, August 28",
-          "source": "Inquirer.net",
-          "url": "https://newsinfo.inquirer.net/2294450/lotto-draw-results-on-friday-august-28",
-          "publishedAt": "2026-08-29T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Ticket sold in Cavite wins P25.4-M SuperLotto jackpot",
-          "source": "Philippine News Agency",
-          "url": "https://www.pna.gov.ph/articles/1282481",
-          "publishedAt": "2026-08-29T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "PCSO Lotto Results | August 28, 2026",
-          "source": "The Manila Times",
-          "url": "https://www.manilatimes.net/2026/08/28/videos/pcso-lotto-results-august-28-2026/2414213",
-          "publishedAt": "2026-08-29T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "lotto result 6/45",
-        "source": "Inquirer.net",
-        "url": "https://newsinfo.inquirer.net/2294450/lotto-draw-results-on-friday-august-28",
-        "publishedAt": "2026-08-29T12:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-29T12:20:00.000Z",
-      "firstSeenAt": "2026-08-29T14:11:05.211Z",
-      "lastSeenAt": "2026-08-29T14:11:05.211Z",
-      "title": "lotto result 6/45",
-      "source": "Inquirer.net",
-      "url": "https://newsinfo.inquirer.net/2294450/lotto-draw-results-on-friday-august-28"
-    },
-    {
-      "id": "404855929213686a",
-      "issueKey": "도지코인",
-      "issueTitle": "도지코인",
-      "trendTitle": "도지코인",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "도지코인 2026년 말 0.06달러 확률 28%…폴리마켓 베팅 주목",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260829n02603",
-          "publishedAt": "2026-08-28T22:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "밈코인 랠리 끝났나…차익 실현에 식어가는 도지코인·시바이누·페페",
-          "source": "코인리더스",
-          "url": "https://www.coinreaders.com/254912",
-          "publishedAt": "2026-08-28T22:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "도그의 최근 가격 조정의 원인은 무엇일까요?",
-          "source": "Traders Union",
-          "url": "https://tradersunion.com/ko/news/cryptocurrency-news/show/3145446-dog-bitcoin-slides-9-52percent-today/",
-          "publishedAt": "2026-08-28T22:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "도지코인 2026년 말 0.06달러 확률 28%…폴리마켓 베팅 주목",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260829n02603",
-        "publishedAt": "2026-08-28T22:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-28T22:20:00.000Z",
-      "firstSeenAt": "2026-08-28T23:56:37.430Z",
-      "lastSeenAt": "2026-08-28T23:56:37.430Z",
-      "title": "도지코인",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260829n02603"
-    },
-    {
-      "id": "562243375510dddd",
-      "issueKey": "유통업계",
-      "issueTitle": "유통업계",
-      "trendTitle": "유통업계",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“뷔 붙이자 5억뷰 터졌다”…유통업계, 글로벌 스타에 꽂힌 이유",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/BviInLZvg4?f=p",
-          "publishedAt": "2026-08-28T22:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "하이트진로, 뷔와 함께한 글로벌 캠페인 두 달 만에 5억뷰",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260827032200030",
-          "publishedAt": "2026-08-28T22:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"일본서 실검 1위\"…BTS 뷔 앞세운 진로, SNS 5억뷰 돌파",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/living/2026/08/27/2026082709302281217",
-          "publishedAt": "2026-08-28T22:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“뷔 붙이자 5억뷰 터졌다”…유통업계, 글로벌 스타에 꽂힌 이유",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/BviInLZvg4?f=p",
-        "publishedAt": "2026-08-28T22:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-28T22:10:00.000Z",
-      "firstSeenAt": "2026-08-28T23:56:37.430Z",
-      "lastSeenAt": "2026-08-28T23:56:37.430Z",
-      "title": "유통업계",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/BviInLZvg4?f=p"
-    },
-    {
-      "id": "c1f3a0aac1f7869e",
-      "issueKey": "유시은",
-      "issueTitle": "유시은",
-      "trendTitle": "이관희",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이관희 욕조 물 받아 놓고…♥유시은과 꿀맛 휴가 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1",
-          "publishedAt": "2026-08-28T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'공개 열애' 이관희♥유시은, 방콕 호캉스 떠났다…\"천국 같았던 여름휴가\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260827152251683?f=p",
-          "publishedAt": "2026-08-28T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘솔로지옥3’ 이관희♥유시은, 방콕서 달달 투샷..공개연애 후 첫 여름휴가",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/08/28/GQYWMNZXG42WIMRWMQZGEYTDGE/",
-          "publishedAt": "2026-08-28T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이관희 욕조 물 받아 놓고…♥유시은과 꿀맛 휴가 [DA★]",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1",
-        "publishedAt": "2026-08-28T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-28T13:50:00.000Z",
-      "firstSeenAt": "2026-08-28T14:56:30.706Z",
-      "lastSeenAt": "2026-08-28T14:56:30.706Z",
-      "title": "유시은",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260827/134556329/1"
-    },
-    {
-      "id": "553831c183c00304",
-      "issueKey": "국방과학연구소",
-      "issueTitle": "국방과학연구소",
-      "trendTitle": "국방과학연구소",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[단독] 국방과학연구소장, ‘관사 리모델링’ 위해 기관 자금 유용",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958",
-          "publishedAt": "2026-08-28T13:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "국방과학연구소장 해임…관사 리모델링-법카사용 부적절 의혹",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20260828/134565050/1",
-          "publishedAt": "2026-08-28T13:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이건완 국방과학연구소장 해임…“개인 비위 의혹”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260828221148454",
-          "publishedAt": "2026-08-28T13:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독] 국방과학연구소장, ‘관사 리모델링’ 위해 기관 자금 유용",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958",
-        "publishedAt": "2026-08-28T13:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-28T13:20:00.000Z",
-      "firstSeenAt": "2026-08-28T14:56:30.706Z",
-      "lastSeenAt": "2026-08-28T14:56:30.706Z",
-      "title": "국방과학연구소",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8648958"
     }
   ]
 }
