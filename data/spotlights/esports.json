@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-08-29T06:27:26.597Z",
+  "lastUpdatedAt": "2026-08-29T14:11:05.211Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 3 2026",
   "primaryBlockName": "Playoffs",
-  "matchCount": 10,
+  "matchCount": 9,
   "matches": [
-    {
-      "id": "117030752644841589",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 3 2026",
-      "blockName": "Playoffs",
-      "startTime": "2026-08-29T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        },
-        {
-          "name": "BNK FEARX",
-          "code": "BFX",
-          "imageUrl": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "117030752644841595",
       "leagueKey": "lck",
@@ -122,9 +99,9 @@
           "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "BNK FEARX",
+          "code": "BFX",
+          "imageUrl": "http://static.lolesports.com/teams/1734691810721_BFXfullcolorfordarkbg.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -250,7 +227,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 10
+      "matchCount": 9
     },
     {
       "key": "ewc",
