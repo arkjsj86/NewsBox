@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-29T22:59:50.296Z",
+  "lastUpdatedAt": "2026-08-30T03:59:10.744Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -33,7 +33,12 @@
         {
           "title": "배우 박지현 품은 웰메이드 MMORPG, 제우스: 오만의 신",
           "url": "https://bbs.ruliweb.com/news/read/228678",
-          "meta": "댓글 28"
+          "meta": "댓글 31"
+        },
+        {
+          "title": "[GC] 총쏘고 블록쌓는 생존 경쟁, '라이크 오어 다이' 인터뷰",
+          "url": "https://bbs.ruliweb.com/news/read/228673",
+          "meta": "댓글 15"
         },
         {
           "title": "[GC] 죽어도 성장은 계속된다, 로그라이트 배틀로얄 ‘PUBG: 데드넷’ 인터뷰",
@@ -44,11 +49,6 @@
           "title": "넥슨 IP 스킨 나오나!? ‘오버워치’ 국내 서비스에 대해 답하다",
           "url": "https://bbs.ruliweb.com/news/read/228397",
           "meta": "댓글 7"
-        },
-        {
-          "title": "[GC] 총쏘고 블록쌓는 생존 경쟁, '라이크 오어 다이' 인터뷰",
-          "url": "https://bbs.ruliweb.com/news/read/228673",
-          "meta": "댓글 14"
         }
       ]
     },
@@ -60,27 +60,27 @@
         {
           "title": "'도란' \"다전제 경험 많은 T1, 1:2 상황에도 압박감 없었다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=320183",
-          "meta": "리그 오브 레전드 · 5시간 전"
+          "meta": "리그 오브 레전드 · 15시간 전"
         },
         {
           "title": "깜짝 픽 나서스 등장! T1, 4세트 승리로 '승부원점'",
           "url": "https://www.inven.co.kr/webzine/news/?news=320181",
-          "meta": "리그 오브 레전드 · 6시간 전"
+          "meta": "리그 오브 레전드 · 16시간 전"
         },
         {
           "title": "BNK 피어엑스, T1 상대로 2:1 매치 포인트",
           "url": "https://www.inven.co.kr/webzine/news/?news=320179",
-          "meta": "리그 오브 레전드 · 8시간 전"
+          "meta": "리그 오브 레전드 · 17시간 전"
         },
         {
           "title": "T1 홀린 '빅라'의 백발백중 매혹! BFX, 2세트 반격 성공",
           "url": "https://www.inven.co.kr/webzine/news/?news=320176",
-          "meta": "리그 오브 레전드 · 9시간 전"
+          "meta": "리그 오브 레전드 · 18시간 전"
         },
         {
           "title": "침착하게 굴러간 스노우볼...T1, BFX에 1세트 완승",
           "url": "https://www.inven.co.kr/webzine/news/?news=320173",
-          "meta": "리그 오브 레전드 · 9시간 전"
+          "meta": "리그 오브 레전드 · 19시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
