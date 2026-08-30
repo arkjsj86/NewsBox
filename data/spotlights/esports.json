@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-08-30T03:59:10.744Z",
+  "lastUpdatedAt": "2026-08-30T11:23:06.366Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 3 2026",
   "primaryBlockName": "Playoffs",
-  "matchCount": 9,
+  "matchCount": 8,
   "matches": [
-    {
-      "id": "117030752644841595",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 3 2026",
-      "blockName": "Playoffs",
-      "startTime": "2026-08-30T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Dplus KIA",
-          "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-        },
-        {
-          "name": "kt Rolster",
-          "code": "KT",
-          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "117030752644841601",
       "leagueKey": "lck",
@@ -48,14 +25,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
           "name": "Gen.G Esports",
           "code": "GEN",
           "imageUrl": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
+        },
+        {
+          "name": "kt Rolster",
+          "code": "KT",
+          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -71,14 +48,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
           "name": "Hanwha Life Esports",
           "code": "HLE",
           "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
+        },
+        {
+          "name": "T1",
+          "code": "T1",
+          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
@@ -94,9 +71,9 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Dplus KIA",
+          "code": "DK",
+          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
         },
         {
           "name": "BNK FEARX",
@@ -227,7 +204,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 9
+      "matchCount": 8
     },
     {
       "key": "ewc",
