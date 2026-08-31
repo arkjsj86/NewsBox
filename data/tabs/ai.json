@@ -4,9 +4,45 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-08-30T23:14:09.046Z",
-  "articleCount": 16,
+  "lastUpdatedAt": "2026-08-31T04:03:53.915Z",
+  "articleCount": 17,
   "articles": [
+    {
+      "id": "1d06e2e21c1fdd7e",
+      "title": "하이퍼스케일러 vs. 네오클라우드, AI 컴퓨트 주도권 경쟁의 향방",
+      "url": "https://www.itworld.co.kr/article/4215575/%ed%95%98%ec%9d%b4%ed%8d%bc%ec%8a%a4%ec%bc%80%ec%9d%bc%eb%9f%ac-vs-%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-ai-%ec%bb%b4%ed%93%a8%ed%8a%b8-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ea%b2%bd.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-31T01:39:53.000Z",
+      "summary": "네오클라우드가 저비용 GPU 기반 대안과 AI 훈련·추론 전용 기능을 내세우며 AI 컴퓨트 인프라 시장에서 입지를 굳혀가고 있다. 그렇다면 새로운 유형의 클라우드가 하이퍼스케일러의 고객을 실제로 빼앗아올 수 있을까? AI 네이티브 워크로드 시장에서 네오클라우드의 점유율이 빠르게 늘어날 것이라는 주장도 나온다. 시너지 리서치 그룹(Synergy Research Group)에 따르면 202...",
+      "tab": "ai"
+    },
+    {
+      "id": "a7a8caba54ac6847",
+      "title": "AI 투자 급증의 역설 “개인 생산성이 기업에 짐이 된다면”",
+      "url": "https://www.itworld.co.kr/article/4215595/ai-%ed%88%ac%ec%9e%90-%ea%b8%89%ec%a6%9d%ec%9d%98-%ec%97%ad%ec%84%a4-%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%b4-%ea%b8%b0%ec%97%85%ec%97%90-%ec%a7%90%ec%9d%b4-%eb%90%9c%eb%8b%a4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-31T01:39:38.000Z",
+      "summary": "1987년, 노벨 경제학상 수상자 로버트 솔로는 ” “컴퓨터 혁명은 세상 모든 곳에 왔다. 생산성 통계만 빼고”라고 말한 바 있다. 오늘날 AI에 대해서도 같은 말을 할 수 있다. 가트너는 2026년 전 세계 AI 지출이 2조 5,900억 달러에 달할 것으로 전망했다 . 전년 대비 47% 급증한 규모로, 다양한 추산에 따르면 미국이 그중 최소 절반을 차지할 것으로 보인다. 하지만 미국에...",
+      "tab": "ai"
+    },
+    {
+      "id": "79d9aabb9e4d325d",
+      "title": "데모는 성공하는데 운영은 왜 무너지나…AI 프로젝트가 반복 실패하는 이유",
+      "url": "https://www.itworld.co.kr/article/4215570/%eb%8d%b0%eb%aa%a8%eb%8a%94-%ec%84%b1%ea%b3%b5%ed%95%98%eb%8a%94%eb%8d%b0-%ec%9a%b4%ec%98%81%ec%9d%80-%ec%99%9c-%eb%ac%b4%eb%84%88%ec%a7%80%eb%82%98-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ea%b0%80.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-31T00:34:41.000Z",
+      "summary": "필자는 지난 3년간 독립적인 클라우드·AI 컨설턴트, 어드바이저, 업계 인플루언서로서 전문성을 필요로 하는 수많은 기업과 협업했다. 기업의 생성형 AI 및 에이전틱 AI 이니셔티브를 평가하고 최적화하며 코칭하고 지원하는 역할을 맡았다. 이 작업들은 단순한 이론적 논의나 공급업체 주도의 개념 검증에 그치지 않았다. 아키텍처 설계, 기술 선택, 배포 계획, 거버넌스 프레임워크, 통합, 비용...",
+      "tab": "ai"
+    },
+    {
+      "id": "52acc504835479e0",
+      "title": "받은 편지함의 이메일, AI는 다른 내용을 읽는다?",
+      "url": "https://www.itworld.co.kr/article/4215550/%eb%b0%9b%ec%9d%80-%ed%8e%b8%ec%a7%80%ed%95%a8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc-ai%eb%8a%94-%eb%8b%a4%eb%a5%b8-%eb%82%b4%ec%9a%a9%ec%9d%84-%ec%9d%bd%eb%8a%94%eb%8b%a4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-08-30T23:58:17.000Z",
+      "summary": "보안 연구진이 사용자와 AI 어시스턴트가 서로 다른 이메일을 읽는 상황이 실제로 가능하다고 주장하고 나섰다. 사이버보안 기업 포스포인트(Forcepoint) X-랩스는 눈에 보이지 않는 HTML 코드 몇 줄을 이메일에 심는 것만으로 AI 이메일 요약기가 명령으로 인식하고 실행하도록 만들 수 있음을 시연했다. 연구진은 통제된 환경에서 아웃룩(Outlook)에서는 텍스트를 보이지 않게 처리...",
+      "tab": "ai"
+    },
     {
       "id": "fb7c26154e18354e",
       "title": "챗GPT 필수 설정 5가지…보안·개인정보·개성까지 한 번에 정비한다면",
@@ -122,33 +158,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-08-24T01:05:31.000Z",
       "summary": "경쟁사들이 사용자의 가장 민감한 데이터에 접근하려 한다는 애플의 경고는 결코 과장이 아니었다. 오픈AI의 챗GPT가 맥에서 애플 메시지 앱을 제어할 수 있는 새 플러그인을 출시했다. 앞서 맥에서의 사용자 활동을 모니터링하는 ‘컴퓨터 히스토리(Computer History)’ 기능이 도입된 데 이은 행보다. 현시점에서 애플이 맥에서의 새 기능에 이의를 제기할 가능성은 낮지만, 다른 플랫폼...",
-      "tab": "ai"
-    },
-    {
-      "id": "66a54e049a7274ce",
-      "title": "AI가 설명할수록 인간 판단력 저하…LLM 추천 근거의 역설",
-      "url": "https://www.itworld.co.kr/article/4212648/ai%ea%b0%80-%ec%84%a4%eb%aa%85%ed%95%a0%ec%88%98%eb%a1%9d-%ec%9d%b8%ea%b0%84-%ed%8c%90%eb%8b%a8%eb%a0%a5-%ec%a0%80%ed%95%98llm-%ec%b6%94%ec%b2%9c-%ea%b7%bc%ea%b1%b0%ec%9d%98-%ec%97%ad.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-24T00:40:44.000Z",
-      "summary": "대규모 언어 모델(LLM)이 생성한 추천 근거를 함께 제시할 경우, 평가자의 생산적인 이견 제기를 억제하고 잠재력 높은 아이디어를 탈락시킬 수 있다는 연구 결과가 나왔다. AI가 자신 있게 오답을 내놓는다는 사실은 잘 알려져 있다. 이제 AI는 인간마저 같은 방식으로 행동하도록 유도하고 있다. 새로운 연구에서 연구진은 혁신 제안서를 검토하는 인간 평가자에게 AI가 미치는 영향을 실험했다...",
-      "tab": "ai"
-    },
-    {
-      "id": "29334758a160f3ec",
-      "title": "애플, 비전 프로·시리 팀 200명 감원으로 AI 전략 재편",
-      "url": "https://www.itworld.co.kr/article/4212639/%ec%95%a0%ed%94%8c-%eb%b9%84%ec%a0%84-%ed%94%84%eb%a1%9c%c2%b7%ec%8b%9c%eb%a6%ac-%ed%8c%80-200%eb%aa%85-%ea%b0%90%ec%9b%90%ec%9c%bc%eb%a1%9c-ai-%ec%a0%84%eb%9e%b5-%ec%9e%ac%ed%8e%b8.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-23T23:28:52.000Z",
-      "summary": "블룸버그 보도에 따르면, 애플은 “신규 기기와 AI에 집중”하기 위해 여러 부서에서 직원을 정리해고하고 “재배치”하고 있다. 약 200명이 조정 대상이다. 비전 프로 팀에서는 100개 직위가 줄었으며, 감원 대부분은 게임 및 몰입형 비디오 관련 팀에서 이뤄졌다. 보도에 따르면 애플은 직원에게 비전 프로 고객 실사용 패턴에 보다 효과적으로 대응하기 위한 조치라고 설명했다. 특히 몰입형 비...",
-      "tab": "ai"
-    },
-    {
-      "id": "02f9a96532515fe3",
-      "title": "데모 에이전트와 배포 에이전트 사이를 가로막는 5개의 장벽",
-      "url": "https://www.itworld.co.kr/article/4212247/%eb%8d%b0%eb%aa%a8-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%99%80-%eb%b0%b0%ed%8f%ac-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%82%ac%ec%9d%b4%eb%a5%bc-%ea%b0%80%eb%a1%9c%eb%a7%89%eb%8a%94-5%ea%b0%9c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-21T01:59:10.000Z",
-      "summary": "데모에서 인상적으로 보이는 AI 에이전트를 만드는 일은 이제 숙련된 개발자라면 주말 이틀 만에도 완성할 수 있는 수준이 됐다. 그러나 실제 기업 환경에서 CRM, 데이터 웨어하우스, 고객 정보에 접근하도록 허용되는 에이전트를 구축하는 것은 전혀 다른 영역의 일이다. 에이전트를 실전 배포할 때 마주하는 난관은 모델과 거의 무관하다. 핵심 과제는 모델 주변의 인프라다. 에이전트가 어떤 신원...",
       "tab": "ai"
     }
   ]
