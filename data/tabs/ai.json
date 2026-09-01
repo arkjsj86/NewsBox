@@ -4,9 +4,45 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-01T00:24:15.352Z",
-  "articleCount": 18,
+  "lastUpdatedAt": "2026-09-01T08:20:56.355Z",
+  "articleCount": 19,
   "articles": [
+    {
+      "id": "6b4914cb83f7419c",
+      "title": "“발열 관리가 성능 좌우” 레노버 씽크스테이션 P4, 워크스테이션 수랭식 냉각으로 안정성 강화",
+      "url": "https://www.itworld.co.kr/article/4216764/%eb%b0%9c%ec%97%b4-%ea%b4%80%eb%a6%ac%ea%b0%80-%ec%84%b1%eb%8a%a5-%ec%a2%8c%ec%9a%b0-%eb%a0%88%eb%85%b8%eb%b2%84-%ec%94%bd%ed%81%ac%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%85%98-p4-%ec%9b%8c%ed%81%ac.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-01T04:49:18.000Z",
+      "summary": "온디바이스 AI 시대가 본격화되면서 고성능 데스크톱 워크스테이션 수요가 빠르게 증가하고 있다. 설계 엔지니어링, 콘텐츠 제작, 데이터 분석 등 고부하 연산이 필요한 전문 분야에서 로컬 환경의 AI 처리 능력이 새로운 경쟁력이 되고 있다. 한국레노버가 9월 1일 미디어 쇼케이스를 개최해 AMD 라이젠 프로 9000 시리즈를 탑재한 전문가용 워크스테이션 ‘씽크스테이션 P4’의 국내 출시를...",
+      "tab": "ai"
+    },
+    {
+      "id": "681d42bb21dc7eb0",
+      "title": "원스토어, AI 캐릭터 채팅 서비스 ‘원챗’ 오픈",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=307935",
+      "source": "경향게임스",
+      "publishedAt": "2026-09-01T03:24:00.000Z",
+      "summary": "원스토어가 콘텐츠 플랫폼 원스토리를 통해 AI 캐릭터 채팅 서비스 ‘원챗(ONEchat)’을 정식 오픈했다고 1일 밝혔다. 원챗은 이용자가 다양한 AI 캐릭터와 대화를 나누며 캐릭터별 이야기와 이미지·영상 콘텐츠를 수집할 수 있는 서비스다. 대화 내용과 흐름에 따라 새로운 이야기와 보상 콘텐츠가 순차적으로 해금되는 방식이다.서비스에는 캐릭터마다 고유한 설정과 서사가 적용됐다. 이용자는...",
+      "tab": "ai"
+    },
+    {
+      "id": "4785e320e1cf72a3",
+      "title": "에이전틱 AI의 청사진 오픈클로, 2.0 버전으로 귀환",
+      "url": "https://www.itworld.co.kr/article/4216734/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai%ec%9d%98-%ec%b2%ad%ec%82%ac%ec%a7%84-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-2-0-%eb%b2%84%ec%a0%84%ec%9c%bc%eb%a1%9c-%ea%b7%80%ed%99%98.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-01T02:54:58.000Z",
+      "summary": "오픈클로를 기억하는가? PC에 설치돼 사용자가 자는 동안에도 묵묵히 지시를 수행하던 소박한 AI 도구, 오픈클로는 2026년 초 혜성처럼 등장해 놀랍고도 섬뜩한 에이전틱 AI 능력으로 세간의 이목을 사로잡았고, 수많은 클로 계열 클론의 탄생을 이끌며 순식간에 화제의 중심에 올랐다. 화려한 데뷔로부터 약 8개월이 지난 지금, 오픈클로를 둘러싼 열기는 크게 가라앉았다. 보안 강화와 설치 편...",
+      "tab": "ai"
+    },
+    {
+      "id": "7f2c05105982eb0b",
+      "title": "AI 에이전트 시대, ‘빅 볼 오브 머드’는 이제 과거의 유물인가",
+      "url": "https://www.itworld.co.kr/article/4215672/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8b%9c%eb%8c%80-%eb%b9%85-%eb%b3%bc-%ec%98%a4%eb%b8%8c-%eb%a8%b8%eb%93%9c%eb%8a%94-%ec%9d%b4%ec%a0%9c-%ea%b3%bc%ea%b1%b0%ec%9d%98-%ec%9c%a0%eb%ac%bc.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-01T01:02:00.000Z",
+      "summary": "거대한 진흙 덩어리(big ball of mud)는 피할 수 없는 숙명처럼 보인다. 필자는 방대하고 유지보수하기 어려운 코드베이스가 어디서 비롯되는지, 그리고 어떻게 대처할 수 있는지를 앞서 다룬 바 있다. 뾰족한 해결책이 없어 보이는 것도 사실이다. 하지만 이제 AI 코딩 에이전트가 등장한 이상, 이야기가 달라질지도 모른다. 모든 의도는 처음에는 훌륭하다. 아름다운 설계를 갖추고, 공...",
+      "tab": "ai"
+    },
     {
       "id": "b44e74815289abc3",
       "title": "넥슨, AI 시대 맞춰 NYPC 전면 개편... 베트남 참가자와 글로벌 가능성 확인",
@@ -140,33 +176,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-08-25T01:56:31.000Z",
       "summary": "AI 애플리케이션을 구축하는 팀은 흔히 오래된 습관에 의존한다. 관련성이 있을 법한 데이터를 모두 수집하고, 무엇이 중요한지는 나중에 판단하는 방식이다. 원시 로그나 전체 테이블 같은 완전한 데이터셋을 프롬프트나 벡터 데이터베이스에 그대로 밀어 넣으면서도, 사전에 가치 있는 데이터를 선별하지 않는다. 데이터 웨어하우스에서라면 문제없이 작동하는 방식이다. 쿼리가 필요한 행으로 곧바로 이동...",
-      "tab": "ai"
-    },
-    {
-      "id": "60fe4162dad427ef",
-      "title": "오픈AI, 프롬프트 보유 없이 AI 오용 패턴 탐지하는 ‘프라이빗 세이프티 프로세싱’ 공개",
-      "url": "https://www.itworld.co.kr/article/4213336/%ec%98%a4%ed%94%88ai-%ed%94%84%eb%a1%ac%ed%94%84%ed%8a%b8-%eb%b3%b4%ec%9c%a0-%ec%97%86%ec%9d%b4-ai-%ec%98%a4%ec%9a%a9-%ed%8c%a8%ed%84%b4-%ed%83%90%ec%a7%80%ed%95%98%eb%8a%94-%ed%94%84%eb%9d%bc.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-25T01:36:16.000Z",
-      "summary": "오픈AI가 여러 상호작용에 걸쳐 AI 시스템의 오용을 탐지하면서도 프롬프트나 응답을 보유하지 않는 새 안전 기능을 추가했다. 기업 고객이 제로 데이터 리텐션(ZDR, Zero Data Retention) 정책을 유지하면서도 위험 모니터링을 수행할 수 있도록 설계됐다. 오픈AI는 블로그 게시물에서 ZDR 방식을 설명하며, 요청 처리 후 프롬프트나 모델 응답을 보유하지 않는다고 밝혔다. 프...",
-      "tab": "ai"
-    },
-    {
-      "id": "8f5788e4571e3ac8",
-      "title": "링크드인 ‘AI 슬롭 신고’ 버튼, 출시 3주 만에 100만 클릭 돌파",
-      "url": "https://www.itworld.co.kr/article/4213312/%eb%a7%81%ed%81%ac%eb%93%9c%ec%9d%b8-ai-%ec%8a%ac%eb%a1%ad-%ec%8b%a0%ea%b3%a0-%eb%b2%84%ed%8a%bc-%ec%b6%9c%ec%8b%9c-3%ec%a3%bc-%eb%a7%8c%ec%97%90-100%eb%a7%8c-%ed%81%b4%eb%a6%ad-%eb%8f%8c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-25T01:18:10.000Z",
-      "summary": "몇 주 전, 링크드인은 소셜미디어 플랫폼 내 스팸 의심 게시물을 신고하는 “AI 슬롭 같음(seems like AI slop)”을 신고하는 버튼 테스트를 시작했다. ‘AI 슬롭’은 AI가 생성한 저품질·무성의 콘텐츠를 일컫는 신조어다. 신고 버튼은 출시 직후부터 폭발적인 반응을 얻고 있다. 링크드인 최고제품책임자(CPO) 하리 스리니바산에 따르면, 신고 버튼은 이미 100만 회 이상 사...",
-      "tab": "ai"
-    },
-    {
-      "id": "c227a3d25e1dd8f3",
-      "title": "챗GPT, 맥 메시지 완전 접근 요구…’프라이버시의 새로운 경계’",
-      "url": "https://www.itworld.co.kr/article/4212670/%ec%b1%97gpt-%eb%a7%a5-%eb%a9%94%ec%8b%9c%ec%a7%80-%ec%99%84%ec%a0%84-%ec%a0%91%ea%b7%bc-%ec%9a%94%ea%b5%ac-%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b2%84%ec%8b%9c%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-24T01:05:31.000Z",
-      "summary": "경쟁사들이 사용자의 가장 민감한 데이터에 접근하려 한다는 애플의 경고는 결코 과장이 아니었다. 오픈AI의 챗GPT가 맥에서 애플 메시지 앱을 제어할 수 있는 새 플러그인을 출시했다. 앞서 맥에서의 사용자 활동을 모니터링하는 ‘컴퓨터 히스토리(Computer History)’ 기능이 도입된 데 이은 행보다. 현시점에서 애플이 맥에서의 새 기능에 이의를 제기할 가능성은 낮지만, 다른 플랫폼...",
       "tab": "ai"
     }
   ]
