@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-08-31T20:40:19.820Z",
+  "lastUpdatedAt": "2026-09-01T00:24:15.352Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -33,12 +33,12 @@
         {
           "title": "배우 박지현 품은 웰메이드 MMORPG, 제우스: 오만의 신",
           "url": "https://bbs.ruliweb.com/news/read/228678",
-          "meta": "댓글 36"
+          "meta": "댓글 38"
         },
         {
           "title": "[GC] 총쏘고 블록쌓는 생존 경쟁, '라이크 오어 다이' 인터뷰",
           "url": "https://bbs.ruliweb.com/news/read/228673",
-          "meta": "댓글 21"
+          "meta": "댓글 22"
         },
         {
           "title": "[GC] 독일에서 만난 반가운 한국 풍경, 삼성전자 ‘#플레이삼성’",
@@ -60,27 +60,27 @@
         {
           "title": "16강 조지명식 완료 7일 A조 박상현 VS 김윤중 대결",
           "url": "https://www.inven.co.kr/webzine/news/?news=320248",
-          "meta": "스타크래프트 · 1시간 전"
+          "meta": "스타크래프트 · 13시간 전"
         },
         {
           "title": "8/31 세나리 라이브 정리, 신규 영웅 '하연' 온다!",
           "url": "https://www.inven.co.kr/webzine/news/?news=320247",
-          "meta": "세븐나이츠 리버스 · 2시간 전"
+          "meta": "세븐나이츠 리버스 · 14시간 전"
         },
         {
           "title": "한국게임개발자협회, 현장교육 참여 게임사 3차 모집",
           "url": "https://www.inven.co.kr/webzine/news/?news=320242",
-          "meta": "5시간 전"
+          "meta": "17시간 전"
         },
         {
           "title": "주머니에 쏙 들어가는 폴더블 마우스 MOBI FOLD, 전국 25개 PC 아레나서 프로모션 진행",
           "url": "https://www.inven.co.kr/webzine/news/?news=320240",
-          "meta": "6시간 전"
+          "meta": "18시간 전"
         },
         {
           "title": "추석 전 플레이 환경 업그레이드의 기회! 'MSI 익스프리언스 데이' 참가자 모집",
           "url": "https://www.inven.co.kr/webzine/news/?news=320239",
-          "meta": "6시간 전"
+          "meta": "18시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
