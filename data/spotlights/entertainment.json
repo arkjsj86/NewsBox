@@ -7,86 +7,462 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-01T13:57:43.834Z",
+  "lastUpdatedAt": "2026-09-01T18:11:02.994Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "0ac9857747e3f776",
-      "issueKey": "패스 제도란",
-      "issueTitle": "패스 제도란",
-      "trendTitle": "패스 제도란",
+      "id": "556dcbf069a950eb",
+      "issueKey": "하나",
+      "issueTitle": "하나",
+      "trendTitle": "하나",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "중국 엔터, 쯔위 영입해 '하나의 중국' 띄우나",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090109060586043",
+          "publishedAt": "2026-09-01T16:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "트와이스 쯔위에 “하나의 중국 밝히면 활동 지원” 대만 ‘시끌’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609010814003",
+          "publishedAt": "2026-09-01T16:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"하나의 중국 지지해\"…트와이스 쯔위, 中 압박 속 JYP와 재계약 논의[SC이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/01/GZSDANJWGZSDCYJUMM3TSZRRMQ/",
+          "publishedAt": "2026-09-01T16:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "중국 엔터, 쯔위 영입해 '하나의 중국' 띄우나",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090109060586043",
+        "publishedAt": "2026-09-01T16:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T16:40:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "하나",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/09/01/2026090109060586043",
+      "rank": 1
+    },
+    {
+      "id": "0d215abf08f00246",
+      "issueKey": "기아 쏘렌토",
+      "issueTitle": "기아 쏘렌토",
+      "trendTitle": "기아 쏘렌토",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "기아, 두 달 연속 내수 1위…8월 완성차 5사 판매 28.3% 급감",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260901162757",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현대차 8월 판매 14% 감소 28.8만대…4년7개월만에 30만대 하회",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901194237150",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "현대차 내수 6년 6개월 만에 최대 감소… 파업 후폭풍에 41% 뚝 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/car/2026/09/01/LZFPZWD7JRDV5LZA56ELV4YRVE/",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기아 쏘렌토",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260901162757",
+        "publishedAt": "2026-09-01T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T15:20:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "기아 쏘렌토",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260901162757",
+      "rank": 2
+    },
+    {
+      "id": "fcb6bd4e3d7493ee",
+      "issueKey": "박신혜",
+      "issueTitle": "박신혜",
+      "trendTitle": "박신혜",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'둘째 임신' 박신혜, 임신부 맞아? D라인 실종 '美친 미모' [N샷]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901171752416",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'최태준♥' 박신혜, 둘째 출산 코앞인데 만삭 'D라인' 없는 여신 자태 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/01/MM4DGOLBHBTDMMZQHBSGMMZVME/",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘최태준♥’ 박신혜, 둘째 출산 앞둔 드레스 자태…‘D라인 실종’ [IS하이컷]",
+          "source": "일간스포츠",
+          "url": "https://isplus.com/article/view/isp202609010206",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'둘째 임신' 박신혜, 임신부 맞아? D라인 실종 '美친 미모' [N샷]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901171752416",
+        "publishedAt": "2026-09-01T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T15:20:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "박신혜",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901171752416",
+      "rank": 3
+    },
+    {
+      "id": "7b32507900c21dd9",
+      "issueKey": "이민정",
+      "issueTitle": "이민정",
+      "trendTitle": "이민정",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'MJ' 이민정 \"중국에서 골프는 처음\"…3대 가족 해외여행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901183950789",
+          "publishedAt": "2026-09-01T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이병헌 母, 카메라 포착…이민정, 효도 관광",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260901_0003772189",
+          "publishedAt": "2026-09-01T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'MJ' 이민정 \"아들, 아빠 같아\"…동생 챙기는 모습에 흐뭇",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6276732",
+          "publishedAt": "2026-09-01T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'MJ' 이민정 \"중국에서 골프는 처음\"…3대 가족 해외여행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901183950789",
+        "publishedAt": "2026-09-01T15:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T15:10:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "이민정",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901183950789",
+      "rank": 4
+    },
+    {
+      "id": "4ad896fa4243aa6e",
+      "issueKey": "조국",
+      "issueTitle": "조국",
+      "trendTitle": "조국",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901121307568",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "조국 \"李대통령 공소취소 밀어붙이면 낭패…조작기소 확인돼야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901097000001",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "조국 \"李 유죄\" 발언에 여권 소용돌이 … 떨어진 지지율에 살아난 사법 리스크",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/01/2026090100277.html",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901121307568",
+        "publishedAt": "2026-09-01T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T13:30:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "조국",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901121307568",
+      "rank": 5
+    },
+    {
+      "id": "1e1de6b4264f4ce1",
+      "issueKey": "과즙세연",
+      "issueTitle": "과즙세연",
+      "trendTitle": "케이",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901191100004",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'공개 열애' 과즙세연·케이, 향정신성의약품 투약 혐의 입건",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/01/2026090122221335412",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'과즙세연 연인' BJ 케이, 수면제 대리처방 의혹에... \"나 맞다, 성실하게 조사 받아\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608280619270479",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260901191100004",
+        "publishedAt": "2026-09-01T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T13:30:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "과즙세연",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260901191100004",
+      "rank": 6
+    },
+    {
+      "id": "5f3f01908463994f",
+      "issueKey": "김신영",
+      "issueTitle": "김신영",
+      "trendTitle": "정오의 희망곡",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“제2 인생 위해”…김신영, 14년 진행 ‘정오의 희망곡’ 잠시 떠난다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901233437415",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김신영, 14년 진행한 '정오의 희망곡' DJ 하차…\"3개월 휴식\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260901_0003771424",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김신영, 전성기 맞았는데 14년만에 '정희' 하차..\"3개월 휴식, 회사 집중\" [공식입장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/01/MYYDQZJYHE2GMMLDMRRWCMJQGA/",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“제2 인생 위해”…김신영, 14년 진행 ‘정오의 희망곡’ 잠시 떠난다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901233437415",
+        "publishedAt": "2026-09-01T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T13:30:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "김신영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901233437415",
+      "rank": 7
+    },
+    {
+      "id": "b61e6d9ef282d4ef",
+      "issueKey": "유튜브 광고",
+      "issueTitle": "유튜브 광고",
+      "trendTitle": "유튜브 광고",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "대중교통 소득공제 없어진다…내년부터 K-패스 환급으로 전환",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901114550988?f=p",
-          "publishedAt": "2026-09-01T12:50:00.000Z",
+          "title": "금융상품 광고 심사 깐깐해진다…온라인 '뒷광고' 점검 강화",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901113300002",
+          "publishedAt": "2026-09-01T13:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "K-패스 제도란?",
-          "source": "우먼스토리뉴스",
-          "url": "http://www.woman-story.co.kr/news/articleView.html?idxno=13507",
-          "publishedAt": "2026-09-01T12:50:00.000Z",
+          "title": "“지금이 바겐세일” “상장 후는 늦습니다”…이런 광고 앞으론 금지",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8651558",
+          "publishedAt": "2026-09-01T13:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "내년부터 대중교통 소득공제 폐지 ... K-패스 환급으로 전환해 955만명 지원",
-          "source": "Queen 이코노미퀸",
-          "url": "https://www.queen.co.kr/news/articleView.html?idxno=462639",
-          "publishedAt": "2026-09-01T12:50:00.000Z",
+          "title": "유튜브 ETF 광고도 금투협 심사받는다…금융상품 ‘뒷광고’ 차단",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1151678",
+          "publishedAt": "2026-09-01T13:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "K-패스 제도란?",
-        "source": "우먼스토리뉴스",
-        "url": "http://www.woman-story.co.kr/news/articleView.html?idxno=13507",
-        "publishedAt": "2026-09-01T12:50:00.000Z",
-        "relevanceScore": 2
+        "title": "유튜브 광고",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260901113300002",
+        "publishedAt": "2026-09-01T13:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-09-01T12:50:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "패스 제도란",
-      "source": "우먼스토리뉴스",
-      "url": "http://www.woman-story.co.kr/news/articleView.html?idxno=13507",
-      "rank": 1
+      "publishedAt": "2026-09-01T13:20:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "유튜브 광고",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260901113300002",
+      "rank": 8
+    },
+    {
+      "id": "a40d92abf6846c9b",
+      "issueKey": "공무원 노동조합",
+      "issueTitle": "공무원 노동조합",
+      "trendTitle": "공무원 노동조합",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "장흥군공무원노조·의회, ‘존중’으로 갈등 막고 협력문화 만든다",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260901501197",
+          "publishedAt": "2026-09-01T13:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "장흥군 노조·의회 상호존중 협약...건전한 지방자치 문화 조성",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20260901000768",
+          "publishedAt": "2026-09-01T13:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장흥군의회-공무원노조, 상호존중 협약 체결",
+          "source": "일등방송",
+          "url": "http://m.ibnews.or.kr/a.html?uid=132554&amp;section=sc10&amp;section2=%EC%9E%90%EC%B9%98",
+          "publishedAt": "2026-09-01T13:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "공무원 노동조합",
+        "source": "브릿지경제",
+        "url": "https://www.viva100.com/article/20260901501197",
+        "publishedAt": "2026-09-01T13:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T13:10:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "공무원 노동조합",
+      "source": "브릿지경제",
+      "url": "https://www.viva100.com/article/20260901501197",
+      "rank": 9
     },
     {
       "id": "f630895e9c68aa5c",
       "issueKey": "강민구",
       "issueTitle": "강민구",
       "trendTitle": "강민구",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
+        {
+          "title": "[단독] “정청래 세력들, 김기표에 작업”…민주당 윤리감찰단 인선 놓고 계파 갈등 표면화하나",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901194728227",
+          "publishedAt": "2026-09-01T12:50:00.000Z",
+          "relevanceScore": 3
+        },
         {
           "title": "김민석, '정청래 측 개입 정황 주장' 강민구 윤리감찰단 부단장 해임",
           "source": "MBC 뉴스",
           "url": "https://imnews.imbc.com/news/2026/politics/article/6848927_36911.html",
           "publishedAt": "2026-09-01T12:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "與감찰단, 친명 최고위원에 \"정청래 세력이 김기표 작업\" 문자",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/09/01/SN25YMPFDJDUTKBCXNSMYFA22I/",
-          "publishedAt": "2026-09-01T12:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“정청래 세력이 작업 들어와” 문자 파문…與감찰부단장 해임",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901210036876",
+          "title": "“정청래, 김기표에 작업”…민주당 윤리감찰단 인선 논란에 부단장 해임",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000008173",
           "publishedAt": "2026-09-01T12:50:00.000Z",
           "relevanceScore": 1
         }
@@ -96,344 +472,15 @@
         "source": "MBC 뉴스",
         "url": "https://imnews.imbc.com/news/2026/politics/article/6848927_36911.html",
         "publishedAt": "2026-09-01T12:50:00.000Z",
-        "relevanceScore": 3
+        "relevanceScore": 2
       },
       "publishedAt": "2026-09-01T12:50:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
       "title": "강민구",
       "source": "MBC 뉴스",
       "url": "https://imnews.imbc.com/news/2026/politics/article/6848927_36911.html",
-      "rank": 2
-    },
-    {
-      "id": "c664a23b5edb0674",
-      "issueKey": "회계사",
-      "issueTitle": "회계사",
-      "trendTitle": "회계사",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "올해 공인회계사 시험 1천150명 최종 합격",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260901134700002",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "올해 공인회계사 합격자 1150명, 합격률 26.3%",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/09/01/2026090116513650183",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "올해 공인회계사 1150명 최종 합격…합격률 26.3%",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1151701",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "올해 공인회계사 시험 1천150명 최종 합격",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260901134700002",
-        "publishedAt": "2026-09-01T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-01T12:40:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "회계사",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260901134700002",
-      "rank": 3
-    },
-    {
-      "id": "0c6a663998f4b25b",
-      "issueKey": "김신영",
-      "issueTitle": "김신영",
-      "trendTitle": "김신영",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김신영, 14년 진행 '정오의 희망곡' 3개월간 떠난다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901171556302?f=m",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김신영, 14년 지킨 '정희' 3개월간 휴식기…\"제2의 인생 위해 재정비\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6276305",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김신영, 14년 진행한 '정오의 희망곡' DJ 하차…\"3개월 휴식\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260901_0003771424",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김신영, 14년 진행 '정오의 희망곡' 3개월간 떠난다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260901171556302?f=m",
-        "publishedAt": "2026-09-01T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-01T12:40:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "김신영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260901171556302?f=m",
-      "rank": 4
-    },
-    {
-      "id": "25cec95145aa02b9",
-      "issueKey": "들쥐",
-      "issueTitle": "들쥐",
-      "trendTitle": "들쥐",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "1인2역 류준열 ‘들쥐’, 넷플 세계 8위…“메시의 삶 궁금해요”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/culture/culture_general/1275684.html",
-          "publishedAt": "2026-09-01T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘들쥐’·‘유부녀 킬러’, 나란히 흥행…카카오엔터 IP 파워",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0117_202609011019419797",
-          "publishedAt": "2026-09-01T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이상운, ‘들쥐’ 도박중독자 재철役 눈도장…설경구와 호흡",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901204437507",
-          "publishedAt": "2026-09-01T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "1인2역 류준열 ‘들쥐’, 넷플 세계 8위…“메시의 삶 궁금해요”",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/culture/culture_general/1275684.html",
-        "publishedAt": "2026-09-01T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-01T12:30:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "들쥐",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/culture/culture_general/1275684.html",
-      "rank": 5
-    },
-    {
-      "id": "5b6b5a16786532a0",
-      "issueKey": "부부",
-      "issueTitle": "부부",
-      "trendTitle": "부부",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이 대통령 \"내년 7월부터 확대될 출산아동수당, 1월생부터 주자\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6848815_36911.html",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "혼인지원금 대폭 증가에 성평등부 예산 ‘역대 최대’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609012140005",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘저출생 3종’ 패키지 신설… 셋째 아이에 최대 7500만원 준다 [2027년 예산안]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901190332375",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "부부",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6848815_36911.html",
-        "publishedAt": "2026-09-01T12:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-01T12:20:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "부부",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6848815_36911.html",
-      "rank": 6
-    },
-    {
-      "id": "a4fe98b7a79f0ee0",
-      "issueKey": "김용빈",
-      "issueTitle": "김용빈",
-      "trendTitle": "김용빈",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이재정 “19일부터 아시안게임 시작…‘올공’ 선수단 장비 반출 등 매듭 지어야”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901185611182",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김용빈, 9월 콘서트 취소…올공 시위 여파",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12316092",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"이러다 선수들 대학 못 간다\"…석달째 닫힌 올림픽공원에 입 연 문체위",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026090170067",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김용빈, 9월 콘서트 취소…올공 시위 여파",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12316092",
-        "publishedAt": "2026-09-01T12:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-01T12:20:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "김용빈",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12316092",
-      "rank": 7
-    },
-    {
-      "id": "24be6c24ae469f02",
-      "issueKey": "실업",
-      "issueTitle": "실업",
-      "trendTitle": "실업",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "실업급여 내년부터 月198만→176만원…‘시럽급여’ 논란 없앤다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901173948504",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "실업급여 ‘월 198만→176만원’으로 줄인다",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/economy/2026/09/02/20260902031002",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "고용보험료율 ‘1.8% → 2%’…월급 300만원이면 매달 3000원 인상",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609012118015",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "실업급여 내년부터 月198만→176만원…‘시럽급여’ 논란 없앤다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260901173948504",
-        "publishedAt": "2026-09-01T12:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-01T12:20:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "실업",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260901173948504",
-      "rank": 8
-    },
-    {
-      "id": "56ae18d5d803525c",
-      "issueKey": "대학에 부산대",
-      "issueTitle": "대학에 부산대",
-      "trendTitle": "대학에 부산대",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "부산대-전남대-충남대, ‘서울대 10개 만들기’ 첫 거점국립대 선정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901172749901",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'서울대 10개 만들기' 지원대학 경북대 탈락…국민의힘 이인선 의원 \"정치적 결정 용납못해\"",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026090122231817162",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정부 ‘서울대 10개 만들기’ 지원 대학에 부산대·전남대·충남대",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8651661",
-          "publishedAt": "2026-09-01T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "정부 ‘서울대 10개 만들기’ 지원 대학에 부산대·전남대·충남대",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8651661",
-        "publishedAt": "2026-09-01T12:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-09-01T12:20:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "대학에 부산대",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8651661",
-      "rank": 9
+      "rank": 10
     }
   ],
   "history": [
@@ -668,98 +715,6 @@
       "url": "https://v.daum.net/v/20260831080951016"
     },
     {
-      "id": "4f2c8b79255b6df1",
-      "issueKey": "쿠쿠레야",
-      "issueTitle": "쿠쿠레야",
-      "trendTitle": "쿠쿠레야",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"105G 음바페 VS 86G 호날두\" 레알 공격포인트 100개 비교해보니..,그래도 무리뉴의 新 최애는 음바페!",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/08/28/G5QTGZJQG5RTCZBZGQ3WGM3GMQ/",
-          "publishedAt": "2026-08-30T14:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[스포츠머그] \"팬들이 웃으며 돌아가 기쁘다\"…'레알 홈 복귀전' 완승 이끈 무리뉴의 명품 리더십",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260827n32007",
-          "publishedAt": "2026-08-30T14:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'명문의 품격' 레알, 우리 팀 쿠쿠레야·상대 팀 오야르사발 월드컵 우승 함께 축하",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260827105527319",
-          "publishedAt": "2026-08-30T14:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'명문의 품격' 레알, 우리 팀 쿠쿠레야·상대 팀 오야르사발 월드컵 우승 함께 축하",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260827105527319",
-        "publishedAt": "2026-08-30T14:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-08-30T14:10:00.000Z",
-      "firstSeenAt": "2026-08-30T16:09:59.854Z",
-      "lastSeenAt": "2026-08-30T16:09:59.854Z",
-      "title": "쿠쿠레야",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260827105527319"
-    },
-    {
-      "id": "c4cad52ad8737ff3",
-      "issueKey": "세대 개발",
-      "issueTitle": "세대 개발",
-      "trendTitle": "세대 개발",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "KAI KF-21 잇는 6세대 스텔스기 첫발…韓 방사청 개념연구 착수",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/08/202608300623031817e8b8a793f7_1",
-          "publishedAt": "2026-08-30T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“한국보다 뛰어난 中 전투기 엔진”…6세대 개발이 어려운 이유 [밀리터리+]",
-          "source": "나우뉴스",
-          "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260830601017",
-          "publishedAt": "2026-08-30T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "KF-21 다음은 6세대… 한국이 뒤늦게 서두르는 이유 [박수찬의 軍]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260828503526",
-          "publishedAt": "2026-08-30T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“한국보다 뛰어난 中 전투기 엔진”…6세대 개발이 어려운 이유 [밀리터리+]",
-        "source": "나우뉴스",
-        "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260830601017",
-        "publishedAt": "2026-08-30T13:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-08-30T13:50:00.000Z",
-      "firstSeenAt": "2026-08-30T16:09:59.854Z",
-      "lastSeenAt": "2026-08-30T16:09:59.854Z",
-      "title": "세대 개발",
-      "source": "나우뉴스",
-      "url": "https://nownews.seoul.co.kr/news/newsView.php?id=20260830601017"
-    },
-    {
       "id": "25cec95145aa02b9",
       "issueKey": "들쥐",
       "issueTitle": "들쥐",
@@ -942,52 +897,6 @@
       "title": "강호동",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260901101009953"
-    },
-    {
-      "id": "94b794ec199f56b6",
-      "issueKey": "맨유",
-      "issueTitle": "맨유",
-      "trendTitle": "맨유",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“100% 의심의 여지 없다” 캐릭 맨유 감독, 욕 먹고 있는 ‘최악의 7번’ 선수 보호 “그는 정말 뛰어난 선수”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260830213038954",
-          "publishedAt": "2026-08-30T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'맨유 7번'이 돌아온다...'헐시티전 충격패' 맨유, 입스위치 타운전 앞두고 부상자 복귀",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/08/30/202608291536770434O",
-          "publishedAt": "2026-08-30T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[PL LINE UP] 헐시티에 졸전 끝 패배→또 승격팀과 대결…맨유, 래시포드 선발 내세웠다! 입스위치전 명단 공개",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260831n00248",
-          "publishedAt": "2026-08-30T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“100% 의심의 여지 없다” 캐릭 맨유 감독, 욕 먹고 있는 ‘최악의 7번’ 선수 보호 “그는 정말 뛰어난 선수”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260830213038954",
-        "publishedAt": "2026-08-30T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-30T14:30:00.000Z",
-      "firstSeenAt": "2026-08-30T16:09:59.854Z",
-      "lastSeenAt": "2026-08-30T16:09:59.854Z",
-      "title": "맨유",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260830213038954"
     },
     {
       "id": "56ae18d5d803525c",
@@ -1450,6 +1359,190 @@
       "url": "https://programs.sbs.co.kr/culture/unansweredquestions/vod/55075/22000635017"
     },
     {
+      "id": "0d215abf08f00246",
+      "issueKey": "기아 쏘렌토",
+      "issueTitle": "기아 쏘렌토",
+      "trendTitle": "기아 쏘렌토",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "기아, 두 달 연속 내수 1위…8월 완성차 5사 판매 28.3% 급감",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260901162757",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현대차 8월 판매 14% 감소 28.8만대…4년7개월만에 30만대 하회",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901194237150",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "현대차 내수 6년 6개월 만에 최대 감소… 파업 후폭풍에 41% 뚝 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/car/2026/09/01/LZFPZWD7JRDV5LZA56ELV4YRVE/",
+          "publishedAt": "2026-09-01T15:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "기아 쏘렌토",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260901162757",
+        "publishedAt": "2026-09-01T15:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T15:20:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "기아 쏘렌토",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260901162757"
+    },
+    {
+      "id": "7b32507900c21dd9",
+      "issueKey": "이민정",
+      "issueTitle": "이민정",
+      "trendTitle": "이민정",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'MJ' 이민정 \"중국에서 골프는 처음\"…3대 가족 해외여행",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901183950789",
+          "publishedAt": "2026-09-01T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이병헌 母, 카메라 포착…이민정, 효도 관광",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260901_0003772189",
+          "publishedAt": "2026-09-01T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'MJ' 이민정 \"아들, 아빠 같아\"…동생 챙기는 모습에 흐뭇",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/broadcast-tv/6276732",
+          "publishedAt": "2026-09-01T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'MJ' 이민정 \"중국에서 골프는 처음\"…3대 가족 해외여행",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901183950789",
+        "publishedAt": "2026-09-01T15:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T15:10:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "이민정",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901183950789"
+    },
+    {
+      "id": "4ad896fa4243aa6e",
+      "issueKey": "조국",
+      "issueTitle": "조국",
+      "trendTitle": "조국",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901121307568",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "조국 \"李대통령 공소취소 밀어붙이면 낭패…조작기소 확인돼야\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901097000001",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "조국 \"李 유죄\" 발언에 여권 소용돌이 … 떨어진 지지율에 살아난 사법 리스크",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/09/01/2026090100277.html",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "조국 “李 대통령 임기 후 재개될 2심, 유죄 가능성 매우 높다”",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901121307568",
+        "publishedAt": "2026-09-01T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T13:30:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "조국",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901121307568"
+    },
+    {
+      "id": "5f3f01908463994f",
+      "issueKey": "김신영",
+      "issueTitle": "김신영",
+      "trendTitle": "정오의 희망곡",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“제2 인생 위해”…김신영, 14년 진행 ‘정오의 희망곡’ 잠시 떠난다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901233437415",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김신영, 14년 진행한 '정오의 희망곡' DJ 하차…\"3개월 휴식\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260901_0003771424",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김신영, 전성기 맞았는데 14년만에 '정희' 하차..\"3개월 휴식, 회사 집중\" [공식입장]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/01/MYYDQZJYHE2GMMLDMRRWCMJQGA/",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“제2 인생 위해”…김신영, 14년 진행 ‘정오의 희망곡’ 잠시 떠난다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901233437415",
+        "publishedAt": "2026-09-01T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T13:30:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "김신영",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901233437415"
+    },
+    {
       "id": "24be6c24ae469f02",
       "issueKey": "실업",
       "issueTitle": "실업",
@@ -1724,6 +1817,52 @@
       "title": "태국",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260830222638494"
+    },
+    {
+      "id": "1e1de6b4264f4ce1",
+      "issueKey": "과즙세연",
+      "issueTitle": "과즙세연",
+      "trendTitle": "케이",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260901191100004",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'공개 열애' 과즙세연·케이, 향정신성의약품 투약 혐의 입건",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/01/2026090122221335412",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'과즙세연 연인' BJ 케이, 수면제 대리처방 의혹에... \"나 맞다, 성실하게 조사 받아\"",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202608280619270479",
+          "publishedAt": "2026-09-01T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "BJ 과즙세연·케이 나란히 입건…향정신성 수면제 투약 혐의",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260901191100004",
+        "publishedAt": "2026-09-01T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-01T13:30:00.000Z",
+      "firstSeenAt": "2026-09-01T18:11:02.994Z",
+      "lastSeenAt": "2026-09-01T18:11:02.994Z",
+      "title": "과즙세연",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260901191100004"
     },
     {
       "id": "4fdc11d2ef82bd3d",
@@ -2184,98 +2323,6 @@
       "title": "저축은행",
       "source": "에너지경제신문",
       "url": "https://www.ekn.kr/web/view.php?key=20260830027568202"
-    },
-    {
-      "id": "0b421f40c98b7a97",
-      "issueKey": "탬파베이 레이스",
-      "issueTitle": "탬파베이 레이스",
-      "trendTitle": "탬파베이 레이스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'연장 끝내기' 축하 세례 받는 마테오",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo_view.html?pict_id=NISI20260831_0002225214&amp;pID=1&amp;cID=&amp;sID=1&amp;type=Main&amp;idx=4",
-          "publishedAt": "2026-08-31T02:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"계좌 조사해 봐라\" 송성문 동료들 비판 쇄도! '기대 타율 1푼' 타구가 홈런으로 둔갑…수비 실수 2개에 '충격 역전패'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260831n15794",
-          "publishedAt": "2026-08-31T02:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'글러브 맞고 넘어간' 9회 동점포? 탬파베이, 샌디에이고 메이슨 밀러 무너뜨리고 연장 11회 끝내기 승리",
-          "source": "https://www.mlbkor.com/",
-          "url": "https://www.mlbkor.com/news/articleView.html?idxno=32570",
-          "publishedAt": "2026-08-31T02:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "탬파베이 레이스",
-        "source": "https://www.mlbkor.com/",
-        "url": "https://www.mlbkor.com/news/articleView.html?idxno=32570",
-        "publishedAt": "2026-08-31T02:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-31T02:30:00.000Z",
-      "firstSeenAt": "2026-08-31T04:03:53.915Z",
-      "lastSeenAt": "2026-08-31T04:03:53.915Z",
-      "title": "탬파베이 레이스",
-      "source": "https://www.mlbkor.com/",
-      "url": "https://www.mlbkor.com/news/articleView.html?idxno=32570"
-    },
-    {
-      "id": "c664a23b5edb0674",
-      "issueKey": "회계사",
-      "issueTitle": "회계사",
-      "trendTitle": "회계사",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "올해 공인회계사 시험 1천150명 최종 합격",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260901134700002",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "올해 공인회계사 합격자 1150명, 합격률 26.3%",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/09/01/2026090116513650183",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "올해 공인회계사 1150명 최종 합격…합격률 26.3%",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1151701",
-          "publishedAt": "2026-09-01T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "올해 공인회계사 시험 1천150명 최종 합격",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260901134700002",
-        "publishedAt": "2026-09-01T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-01T12:40:00.000Z",
-      "firstSeenAt": "2026-09-01T13:57:43.834Z",
-      "lastSeenAt": "2026-09-01T13:57:43.834Z",
-      "title": "회계사",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260901134700002"
     }
   ]
 }
