@@ -7,300 +7,347 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-02T20:35:30.158Z",
+  "lastUpdatedAt": "2026-09-02T23:00:50.928Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "25bf7268f0becdea",
-      "issueKey": "vfl 오스나브뤼크 대 바이에른",
-      "issueTitle": "vfl 오스나브뤼크 대 바이에른",
-      "trendTitle": "vfl 오스나브뤼크 대 바이에른",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Preview: VfL Osnabrück vs. FC Bayern, DFB Cup first round",
-          "source": "FC Bayern",
-          "url": "https://fcbayern.com/en/news/matchpreviews/2026/09/preview-vfl-osnabrueck-vs.-fc-bayern-dfb-cup-first-round",
-          "publishedAt": "2026-09-02T17:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Confirmed DFB-Pokal lineups: VfL Osnabrück vs. FC Bayern Munich",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/confirmed-dfb-pokal-lineups-vfl-175500397.html",
-          "publishedAt": "2026-09-02T17:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Urbig to replace Neuer in goal against Osnabrück, Kompany confirms",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/news/urbig-to-replace-neuer-in-goal-against-osnabrueck-kompany-confirms-43380345",
-          "publishedAt": "2026-09-02T17:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "vfl 오스나브뤼크 대 바이에른",
-        "source": "FC Bayern",
-        "url": "https://fcbayern.com/en/news/matchpreviews/2026/09/preview-vfl-osnabrueck-vs.-fc-bayern-dfb-cup-first-round",
-        "publishedAt": "2026-09-02T17:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-02T17:50:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "vfl 오스나브뤼크 대 바이에른",
-      "source": "FC Bayern",
-      "url": "https://fcbayern.com/en/news/matchpreviews/2026/09/preview-vfl-osnabrueck-vs.-fc-bayern-dfb-cup-first-round",
-      "rank": 1
-    },
-    {
-      "id": "b0983b0467fe85f0",
-      "issueKey": "폭로",
-      "issueTitle": "폭로",
-      "trendTitle": "폭로",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "日 배우 폭로, '라디오스타' 불러놓고 \"통역사 없어 당황…절대 보지마세요\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260902n26057",
-          "publishedAt": "2026-09-02T16:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "카사마츠 쇼, 한국 인기 기대했다가 '굴욕'…\"공항에 안유진 팬들만\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/03/2026090304113493554",
-          "publishedAt": "2026-09-02T16:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "카사마츠 쇼, 통역 없이 '라스' 출격…한국어 실력에 깜짝",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6278135",
-          "publishedAt": "2026-09-02T16:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "日 배우 폭로, '라디오스타' 불러놓고 \"통역사 없어 당황…절대 보지마세요\"",
-        "source": "네이트",
-        "url": "https://news.nate.com/view/20260902n26057",
-        "publishedAt": "2026-09-02T16:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-02T16:40:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "폭로",
-      "source": "네이트",
-      "url": "https://news.nate.com/view/20260902n26057",
-      "rank": 2
-    },
-    {
-      "id": "55a265db314fe6c1",
-      "issueKey": "투표용지",
-      "issueTitle": "투표용지",
-      "trendTitle": "투표용지",
+      "id": "b610d14f1645c709",
+      "issueKey": "한일전",
+      "issueTitle": "한일전",
+      "trendTitle": "한일전",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "헌재, ‘6·3 지선 투표용지 부족’ 헌법소원 각하…4건 모두 종결",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260902/134594491/1",
-          "publishedAt": "2026-09-02T16:20:00.000Z",
+          "title": "15년 멈춘 '완전체 한일전' AI로 붙여보니... '韓 100전 42승' 근소 우위 \"손흥민 파괴력, 日도 못 막아\" [창간22 기획②]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901041350690",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "조 의장 \"선거관리 부실 우려 해소 안 돼…문제·개혁방안 완결해야\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260831_0003770319",
-          "publishedAt": "2026-09-02T16:20:00.000Z",
+          "title": "아시안게임 전 등장한 '음주운전 뺑소니' 이슈…이민성 감독 고개 숙였다 \"내 평생의 아킬레스건, 지금도 죄송하다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903030207310",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "3만5000명 제기한 '투표용지 부족' 헌법소원 각하…4건 모두 종결",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/02/2026090219570252004",
-          "publishedAt": "2026-09-02T16:20:00.000Z",
+          "title": "이민성호, AG 4연패 도전 시작!…“승률 42%? 그런 경험이 보약될 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8652269",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "헌재, ‘6·3 지선 투표용지 부족’ 헌법소원 각하…4건 모두 종결",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Society/article/all/20260902/134594491/1",
-        "publishedAt": "2026-09-02T16:20:00.000Z",
+        "title": "15년 멈춘 '완전체 한일전' AI로 붙여보니... '韓 100전 42승' 근소 우위 \"손흥민 파괴력, 日도 못 막아\" [창간22 기획②]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901041350690",
+        "publishedAt": "2026-09-02T21:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-02T16:20:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "투표용지",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Society/article/all/20260902/134594491/1",
+      "publishedAt": "2026-09-02T21:50:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "한일전",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901041350690",
+      "rank": 1
+    },
+    {
+      "id": "412ed2a1d71a122c",
+      "issueKey": "강호순",
+      "issueTitle": "강호순",
+      "trendTitle": "강호순",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902232037615?f=m",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260902n39162?sect=ent&amp;list=rank&amp;cate=interest",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/09/02/2026090223095640401",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'도박→징역' 신정환 \"연쇄살인마 강호순, 구치소서 만나\" 고백 [닭터신]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260902232037615?f=m",
+        "publishedAt": "2026-09-02T21:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-02T21:50:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "강호순",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260902232037615?f=m",
+      "rank": 2
+    },
+    {
+      "id": "e121449ea0f18b39",
+      "issueKey": "수의사",
+      "issueTitle": "수의사",
+      "trendTitle": "수의사",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"밤새 동물 살렸는데\"…거리로 나선 수의사들, 면허증 불태웠다",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/industry/general-industry/6277987",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“분쟁 해결 아닌 전쟁터 될 것” 여야 의원 지적에 수의사법 수정 의결",
+          "source": "데일리벳",
+          "url": "https://www.dailyvet.co.kr/news/policy/295473",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[반려동물] 정부 \"동물병원 진료비 공개\"…수의계 \"단순 비교 안돼\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902034800030",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"밤새 동물 살렸는데\"…거리로 나선 수의사들, 면허증 불태웠다",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/industry/general-industry/6277987",
+        "publishedAt": "2026-09-02T21:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-02T21:50:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "수의사",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/industry/general-industry/6277987",
       "rank": 3
     },
     {
-      "id": "ca3a826ae07e715d",
-      "issueKey": "여자 야구",
-      "issueTitle": "여자 야구",
-      "trendTitle": "여자 야구",
+      "id": "af72c56f3866efef",
+      "issueKey": "해군함정",
+      "issueTitle": "해군함정",
+      "trendTitle": "해군함정",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘야구여왕2’ 국대 출신 9명 보유 강팀과 붙는다…선발 ‘1+1’ 파격 기용",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609021612003",
-          "publishedAt": "2026-09-02T14:50:00.000Z",
+          "title": "\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902179800071",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"왜 우리에게 이런 시련을\"…이대형, '13번 우승' 강팀 잡을 파격 카드 ('야구여왕2')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260902085220227",
-          "publishedAt": "2026-09-02T14:50:00.000Z",
+          "title": "미국 해외 건조 전투함 놓고 한국 일본 튀르키예 저울질, 한화오션 필리조선소로 유리한 고지",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=446209",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[9회예고] “꼭 이기고 싶습니다” 아찔한 송아 부상에0 완벽하게 각성한 블랙퀸즈 에이스 박민서",
-          "source": "채널A",
-          "url": "https://ichannela.com/program/clip/000000547922.do",
-          "publishedAt": "2026-09-02T14:50:00.000Z",
+          "title": "美 해군함정 후보에 韓·日·튀르키예 함정 올라…충남급 호위함 검토\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6278217",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "여자 야구",
-        "source": "스포츠경향",
-        "url": "https://sports.khan.co.kr/article/202609021612003",
-        "publishedAt": "2026-09-02T14:50:00.000Z",
+        "title": "\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260902179800071",
+        "publishedAt": "2026-09-02T21:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-02T14:50:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "여자 야구",
-      "source": "스포츠경향",
-      "url": "https://sports.khan.co.kr/article/202609021612003",
+      "publishedAt": "2026-09-02T21:40:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "해군함정",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260902179800071",
       "rank": 4
     },
     {
-      "id": "435699c41f192c64",
-      "issueKey": "박재홍",
-      "issueTitle": "박재홍",
-      "trendTitle": "박재홍",
+      "id": "f10c38240cfaf449",
+      "issueKey": "뉴욕증시",
+      "issueTitle": "뉴욕증시",
+      "trendTitle": "뉴욕증시",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"밤 10시 트랙 돌다 쓰러져\"…박재홍 아나운서, 뇌경색 당시 상황 [헬스톡]",
+          "title": "뉴욕증시, 국채금리 숨고르기에 4일만에 반등…다우 0.6%↑(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260903050111822",
-          "publishedAt": "2026-09-02T14:30:00.000Z",
+          "url": "https://v.daum.net/v/20260903062952573",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "응급실 실려갔다...'한판승부' 박재홍, 자리 비운 이유",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/02/2026090220594042013",
-          "publishedAt": "2026-09-02T14:30:00.000Z",
+          "title": "코스피 4% 급락 뒤 엔비디아 3%↑…외국인 ‘현·선물 4조 매도’가 첫 시험대",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349119",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "휠체어 탄 박재홍 아나, 운동 중 쓰러져 뇌경색 진단 “억측 막기 위해”[전문]",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202609021818330310",
-          "publishedAt": "2026-09-02T14:30:00.000Z",
+          "title": "[글로벌증시] 국채금리 숨고르기에 뉴욕증시 일제 상승",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260903064927ilQ",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"밤 10시 트랙 돌다 쓰러져\"…박재홍 아나운서, 뇌경색 당시 상황 [헬스톡]",
+        "title": "뉴욕증시, 국채금리 숨고르기에 4일만에 반등…다우 0.6%↑(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260903050111822",
-        "publishedAt": "2026-09-02T14:30:00.000Z",
+        "url": "https://v.daum.net/v/20260903062952573",
+        "publishedAt": "2026-09-02T21:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-02T14:30:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "박재홍",
+      "publishedAt": "2026-09-02T21:40:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "뉴욕증시",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260903050111822",
+      "url": "https://v.daum.net/v/20260903062952573",
       "rank": 5
     },
     {
-      "id": "ed5308b4d65eff72",
-      "issueKey": "최대 라이벌",
-      "issueTitle": "최대 라이벌",
-      "trendTitle": "최대 라이벌",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "7cb205f50c21ab46",
+      "issueKey": "연비",
+      "issueTitle": "연비",
+      "trendTitle": "연비",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'한국킬러 불참 확률↑' AG 금메달 최대 라이벌, 악재 발생…엔트리 대폭 바뀌나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/02/HFSDIM3GGQ3TKZBXGI2DKMJXGI/",
-          "publishedAt": "2026-09-02T14:20:00.000Z",
+          "title": "\"구형이라 무시했는데\"... 오너들은 대만족, 평점 9.1점 갓성비 패밀리카는?",
+          "source": "오토트리뷴",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=45010",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'한국 킬러' 린위민 포함 대만 야구, 아시안게임 최종 엔트리 조정 가능성",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260902n06642",
-          "publishedAt": "2026-09-02T14:20:00.000Z",
+          "title": "아빠들 만족도 9.5점 SUV, 연비 15.7km에 혹했는데 가격표 보니",
+          "source": "뉴스와",
+          "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/31/20260831500093",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"한국 선수들 꼭 군대 보낸다!\"…대만, 벌써 日 AG 도발 시작했나→\"2023년 원태인 만나 홈런 쳤어, 金메달 우리 것\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260901010150155",
-          "publishedAt": "2026-09-02T14:20:00.000Z",
+          "title": "\"이러니 아빠들이 이것만 찾지\"... 연비 16km/L에 평점 9.1점 맞은 ‘하이브리드 SUV’",
+          "source": "토픽트리",
+          "url": "https://topictree.co.kr/automobiles/news/2026-kia-sportage-hybrid-owner-satisfaction/",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'한국킬러 불참 확률↑' AG 금메달 최대 라이벌, 악재 발생…엔트리 대폭 바뀌나",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/09/02/HFSDIM3GGQ3TKZBXGI2DKMJXGI/",
-        "publishedAt": "2026-09-02T14:20:00.000Z",
+        "title": "아빠들 만족도 9.5점 SUV, 연비 15.7km에 혹했는데 가격표 보니",
+        "source": "뉴스와",
+        "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/31/20260831500093",
+        "publishedAt": "2026-09-02T21:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-02T21:30:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "연비",
+      "source": "뉴스와",
+      "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/31/20260831500093",
+      "rank": 6
+    },
+    {
+      "id": "89b297beb0bdee5f",
+      "issueKey": "디에고 시메오네",
+      "issueTitle": "디에고 시메오네",
+      "trendTitle": "디에고 시메오네",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이강인 이렇게 쓰는 거였구나! 시메오네 드디어 '정답' 찾았나…전반 4분 만에 AS→西 매체 \"패스 한 방으로 수비 무너뜨려\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902040107283",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "스페인어로 꿈꾼다는 “강인리”…줄무늬 유니폼 입고 역사 쓰나",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/soccer/1275881.html",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"공격 만들려면 항상 경기장에 있어야\" ATM 전설도 이강인에 반했다...3경기 1골 1도움 '필수 선수' 등극",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/01/202609011003774634O",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "디에고 시메오네",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260902040107283",
+        "publishedAt": "2026-09-02T21:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-02T14:20:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "최대 라이벌",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/baseball/2026/09/02/HFSDIM3GGQ3TKZBXGI2DKMJXGI/",
-      "rank": 6
+      "publishedAt": "2026-09-02T21:30:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "디에고 시메오네",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260902040107283",
+      "rank": 7
     },
     {
       "id": "29969b905dcdb7d0",
       "issueKey": "뷰티",
       "issueTitle": "뷰티",
       "trendTitle": "뷰티",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -308,21 +355,21 @@
           "title": "MBK파트너스, 2년 만에 국내 바이아웃⋯뷰티ㆍ건기식 기업 인수",
           "source": "이투데이",
           "url": "https://www.etoday.co.kr/news/view/2621238",
-          "publishedAt": "2026-09-02T14:20:00.000Z",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 3
         },
         {
           "title": "MBK, 스킨이데아·라이프앤바이오 인수한다",
           "source": "네이트",
           "url": "https://news.nate.com/view/20260902n33977",
-          "publishedAt": "2026-09-02T14:20:00.000Z",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 2
         },
         {
           "title": "모건스탠리PE, '메디필' 스킨이데아 MBK에 매각",
           "source": "인베스트조선",
           "url": "https://www.investchosun.com/site/data/html_dir/2026/09/02/2026090280208.html",
-          "publishedAt": "2026-09-02T14:20:00.000Z",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 1
         }
       ],
@@ -330,157 +377,63 @@
         "title": "MBK파트너스, 2년 만에 국내 바이아웃⋯뷰티ㆍ건기식 기업 인수",
         "source": "이투데이",
         "url": "https://www.etoday.co.kr/news/view/2621238",
-        "publishedAt": "2026-09-02T14:20:00.000Z",
+        "publishedAt": "2026-09-02T21:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-02T14:20:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
+      "publishedAt": "2026-09-02T21:30:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
       "title": "뷰티",
       "source": "이투데이",
       "url": "https://www.etoday.co.kr/news/view/2621238",
-      "rank": 7
-    },
-    {
-      "id": "b9d1a4251f67bc73",
-      "issueKey": "포항시장",
-      "issueTitle": "포항시장",
-      "trendTitle": "포항시장",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "경찰, 박용선 포항시장 선거법 위반 혐의 검찰 재송치",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260902161900053",
-          "publishedAt": "2026-09-02T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "경찰, 박용선 포항시장 선거법 위반·횡령 혐의 검찰 재송치",
-          "source": "경북일보",
-          "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4083016",
-          "publishedAt": "2026-09-02T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "박용선 포항시장 검찰 송치…선거법위반·횡령 혐의",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260902_0003773963",
-          "publishedAt": "2026-09-02T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "경찰, 박용선 포항시장 선거법 위반 혐의 검찰 재송치",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260902161900053",
-        "publishedAt": "2026-09-02T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-02T13:50:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "포항시장",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260902161900053",
       "rank": 8
     },
     {
-      "id": "48681a7cf6535b38",
-      "issueKey": "리사",
-      "issueTitle": "리사",
-      "trendTitle": "리사",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "0829c97b946c78a1",
+      "issueKey": "이찬원",
+      "issueTitle": "이찬원",
+      "trendTitle": "이찬원",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "리사, 교토서 찾은 여유…고혹적인 드레스 자태에 \"현실 공주\"",
+          "title": "'톡파원 25시' 대구계 미국인 제이슨, 이찬원과 사투리 폭발!…'찐 대구 사람' 인증",
           "source": "Daum",
-          "url": "https://v.daum.net/v/xtYopeWITO?f=p",
-          "publishedAt": "2026-09-02T13:20:00.000Z",
+          "url": "https://v.daum.net/v/20260902094916091",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'태국 차은우와 열애설' 리사, 日 교토 여행 중 여신 아우라 폭발 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/tv/2026/09/01/GJSDQNJUMEYGMMRRMQYWEOBWHA/",
-          "publishedAt": "2026-09-02T13:20:00.000Z",
+          "title": "이찬원, 외국인에게 사투리로 기강 잡혔다 ‘폭소’ (톡파원)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260902/134588502/1",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "리사, 신곡 '사와디카' 티저 이미지 공개 '강렬 카리스마'",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260901n30489",
-          "publishedAt": "2026-09-02T13:20:00.000Z",
+          "title": "“줘도 안 살아” 전현무 큰소리 쳤는데‥710억 최고가 집 “관리비 2700만원” (톡파원25시)[어제TV]",
+          "source": "뉴스엔",
+          "url": "https://www.newsen.com/news_view.php?uid=202609030450291710&amp;code=100100",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "리사, 교토서 찾은 여유…고혹적인 드레스 자태에 \"현실 공주\"",
+        "title": "'톡파원 25시' 대구계 미국인 제이슨, 이찬원과 사투리 폭발!…'찐 대구 사람' 인증",
         "source": "Daum",
-        "url": "https://v.daum.net/v/xtYopeWITO?f=p",
-        "publishedAt": "2026-09-02T13:20:00.000Z",
+        "url": "https://v.daum.net/v/20260902094916091",
+        "publishedAt": "2026-09-02T21:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-02T13:20:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "리사",
+      "publishedAt": "2026-09-02T21:30:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "이찬원",
       "source": "Daum",
-      "url": "https://v.daum.net/v/xtYopeWITO?f=p",
+      "url": "https://v.daum.net/v/20260902094916091",
       "rank": 9
-    },
-    {
-      "id": "3985b7dc72160b37",
-      "issueKey": "보물",
-      "issueTitle": "보물",
-      "trendTitle": "보물",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "임실 중기사 소장 '진구사지 철조여래좌상' 보물 승격",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/jeonbuk/6277336",
-          "publishedAt": "2026-09-02T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "임실 진구사지 철조여래좌상, 국가지정문화유산 '보물' 승격",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260902000532",
-          "publishedAt": "2026-09-02T13:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "통일신라 철불 양식 보여주는 ‘임실 진구사지 철조여래좌상’ 보물 지정",
-          "source": "프레시안",
-          "url": "https://www.pressian.com/pages/articles/2026090213551592687",
-          "publishedAt": "2026-09-02T13:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "임실 중기사 소장 '진구사지 철조여래좌상' 보물 승격",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/jeonbuk/6277336",
-        "publishedAt": "2026-09-02T13:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-02T13:10:00.000Z",
-      "firstSeenAt": "2026-09-02T20:35:30.158Z",
-      "lastSeenAt": "2026-09-02T20:35:30.158Z",
-      "title": "보물",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/local/jeonbuk/6277336",
-      "rank": 10
     }
   ],
   "history": [
@@ -860,6 +813,52 @@
       "url": "https://sports.khan.co.kr/article/202609021612003"
     },
     {
+      "id": "af72c56f3866efef",
+      "issueKey": "해군함정",
+      "issueTitle": "해군함정",
+      "trendTitle": "해군함정",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902179800071",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "미국 해외 건조 전투함 놓고 한국 일본 튀르키예 저울질, 한화오션 필리조선소로 유리한 고지",
+          "source": "비즈니스포스트",
+          "url": "https://www.businesspost.co.kr/BP?command=article_view&amp;num=446209",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "美 해군함정 후보에 韓·日·튀르키예 함정 올라…충남급 호위함 검토\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6278217",
+          "publishedAt": "2026-09-02T21:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"美 해군함정, 韓·日·튀르키예 검토…충남급 호위함 포함\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260902179800071",
+        "publishedAt": "2026-09-02T21:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-02T21:40:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "해군함정",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260902179800071"
+    },
+    {
       "id": "25bf7268f0becdea",
       "issueKey": "vfl 오스나브뤼크 대 바이에른",
       "issueTitle": "vfl 오스나브뤼크 대 바이에른",
@@ -1090,98 +1089,6 @@
       "url": "https://www.yonhapnewstv.co.kr/news/MYH20260901072839hVA"
     },
     {
-      "id": "c1d8da88be004cdf",
-      "issueKey": "경기 예측",
-      "issueTitle": "경기 예측",
-      "trendTitle": "경기 예측",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "바르셀로나 vs 라요 바예카노 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-rayo-vallecano-chu-nha-noi-dai-mach-thang-hoa",
-          "publishedAt": "2026-08-31T19:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "라리가 바르셀로나 대 라요 바예카노 축구 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-barcelona-vs-rayo-vallecano-tai-la-liga-1759027.ldo",
-          "publishedAt": "2026-08-31T19:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "8월 31일 오늘 축구 경기 결과 및 일정: 아스널과 바르셀로나의 경기가 펼쳐집니다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/ket-qua-lich-thi-dau-bong-da-hom-nay-31-8-arsenal-barcelona-ra-san",
-          "publishedAt": "2026-08-31T19:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "바르셀로나 vs 라요 바예카노 경기 예측: 홈팀이 연승 행진을 이어갈 수 있을까요?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-rayo-vallecano-chu-nha-noi-dai-mach-thang-hoa",
-        "publishedAt": "2026-08-31T19:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-31T19:00:00.000Z",
-      "firstSeenAt": "2026-08-31T20:40:19.820Z",
-      "lastSeenAt": "2026-08-31T20:40:19.820Z",
-      "title": "경기 예측",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-barcelona-vs-rayo-vallecano-chu-nha-noi-dai-mach-thang-hoa"
-    },
-    {
-      "id": "cf29c87eb3f114fe",
-      "issueKey": "아스널 프리뷰",
-      "issueTitle": "아스널 프리뷰",
-      "trendTitle": "아스널 프리뷰",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "아스톤 빌라 vs 아스널 프리뷰: 우승 경쟁의 뜨거운 승부",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-aston-villa-vs-arsenal-diem-nong-cuoc-dua-top-dau",
-          "publishedAt": "2026-08-31T18:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "미켈 아르테타와 아스날과 함께한 250경기 역사적 이정표",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/mikel-arteta-va-cot-moc-250-tran-lich-su-cung-arsenal-1759471.ldo",
-          "publishedAt": "2026-08-31T18:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "잉글랜드 프리미어 리그 경기 결과 예측: 아스톤 빌라는 아스널을 막을 수 없을 것이다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/du-doan-ti-so-ngoai-hang-anh-aston-villa-khong-can-noi-arsenal",
-          "publishedAt": "2026-08-31T18:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아스톤 빌라 vs 아스널 프리뷰: 우승 경쟁의 뜨거운 승부",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-aston-villa-vs-arsenal-diem-nong-cuoc-dua-top-dau",
-        "publishedAt": "2026-08-31T18:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-08-31T18:10:00.000Z",
-      "firstSeenAt": "2026-08-31T20:40:19.820Z",
-      "lastSeenAt": "2026-08-31T20:40:19.820Z",
-      "title": "아스널 프리뷰",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-aston-villa-vs-arsenal-diem-nong-cuoc-dua-top-dau"
-    },
-    {
       "id": "48681a7cf6535b38",
       "issueKey": "리사",
       "issueTitle": "리사",
@@ -1240,6 +1147,52 @@
       "title": "리사",
       "source": "Chosunbiz",
       "url": "https://biz.chosun.com/entertainment/tv/2026/09/01/GJSDQNJUMEYGMMRRMQYWEOBWHA/"
+    },
+    {
+      "id": "7cb205f50c21ab46",
+      "issueKey": "연비",
+      "issueTitle": "연비",
+      "trendTitle": "연비",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"구형이라 무시했는데\"... 오너들은 대만족, 평점 9.1점 갓성비 패밀리카는?",
+          "source": "오토트리뷴",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=45010",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "아빠들 만족도 9.5점 SUV, 연비 15.7km에 혹했는데 가격표 보니",
+          "source": "뉴스와",
+          "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/31/20260831500093",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"이러니 아빠들이 이것만 찾지\"... 연비 16km/L에 평점 9.1점 맞은 ‘하이브리드 SUV’",
+          "source": "토픽트리",
+          "url": "https://topictree.co.kr/automobiles/news/2026-kia-sportage-hybrid-owner-satisfaction/",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "아빠들 만족도 9.5점 SUV, 연비 15.7km에 혹했는데 가격표 보니",
+        "source": "뉴스와",
+        "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/31/20260831500093",
+        "publishedAt": "2026-09-02T21:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-02T21:30:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "연비",
+      "source": "뉴스와",
+      "url": "https://www.news-wa.com/article/automobiles/new-car/2026/08/31/20260831500093"
     },
     {
       "id": "7f916f91b7e81840",
@@ -2070,6 +2023,98 @@
       "url": "https://v.daum.net/v/20260901044442888"
     },
     {
+      "id": "b610d14f1645c709",
+      "issueKey": "한일전",
+      "issueTitle": "한일전",
+      "trendTitle": "한일전",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "15년 멈춘 '완전체 한일전' AI로 붙여보니... '韓 100전 42승' 근소 우위 \"손흥민 파괴력, 日도 못 막아\" [창간22 기획②]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260901041350690",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "아시안게임 전 등장한 '음주운전 뺑소니' 이슈…이민성 감독 고개 숙였다 \"내 평생의 아킬레스건, 지금도 죄송하다\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903030207310",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이민성호, AG 4연패 도전 시작!…“승률 42%? 그런 경험이 보약될 것”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8652269",
+          "publishedAt": "2026-09-02T21:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "15년 멈춘 '완전체 한일전' AI로 붙여보니... '韓 100전 42승' 근소 우위 \"손흥민 파괴력, 日도 못 막아\" [창간22 기획②]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260901041350690",
+        "publishedAt": "2026-09-02T21:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-02T21:50:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "한일전",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260901041350690"
+    },
+    {
+      "id": "89b297beb0bdee5f",
+      "issueKey": "디에고 시메오네",
+      "issueTitle": "디에고 시메오네",
+      "trendTitle": "디에고 시메오네",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이강인 이렇게 쓰는 거였구나! 시메오네 드디어 '정답' 찾았나…전반 4분 만에 AS→西 매체 \"패스 한 방으로 수비 무너뜨려\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260902040107283",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "스페인어로 꿈꾼다는 “강인리”…줄무늬 유니폼 입고 역사 쓰나",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/sports/soccer/1275881.html",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"공격 만들려면 항상 경기장에 있어야\" ATM 전설도 이강인에 반했다...3경기 1골 1도움 '필수 선수' 등극",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/01/202609011003774634O",
+          "publishedAt": "2026-09-02T21:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "디에고 시메오네",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260902040107283",
+        "publishedAt": "2026-09-02T21:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-02T21:30:00.000Z",
+      "firstSeenAt": "2026-09-02T23:00:50.928Z",
+      "lastSeenAt": "2026-09-02T23:00:50.928Z",
+      "title": "디에고 시메오네",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260902040107283"
+    },
+    {
       "id": "55a265db314fe6c1",
       "issueKey": "투표용지",
       "issueTitle": "투표용지",
@@ -2252,98 +2297,6 @@
       "title": "넥슨",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260902153837163"
-    },
-    {
-      "id": "85c07ca7c6a1ba97",
-      "issueKey": "행정",
-      "issueTitle": "공공기관",
-      "trendTitle": "공공기관",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "정부, 내일 오전 행정기관 이전계획 발표",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20260902.99099000570",
-          "publishedAt": "2026-09-02T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "유의동 국토위원장 “공항 공사 통폐합은 아직, 전국 PA 통합은 힘들 듯…정부 결단 쉽지 않을 것”",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1331050",
-          "publishedAt": "2026-09-02T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "행정·공공기관 지방이전 밑그림 내일 발표…공론화 본격화",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260902192851353",
-          "publishedAt": "2026-09-02T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "행정·공공기관 지방이전 밑그림 내일 발표…공론화 본격화",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260902192851353",
-        "publishedAt": "2026-09-02T09:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-09-02T09:20:00.000Z",
-      "firstSeenAt": "2026-09-02T10:45:46.728Z",
-      "lastSeenAt": "2026-09-02T10:45:46.728Z",
-      "title": "공공기관",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260902192851353"
-    },
-    {
-      "id": "be532f9b8bb02fd0",
-      "issueKey": "신병",
-      "issueTitle": "신병",
-      "trendTitle": "신병",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“여기가 진짜 생활관?”…‘신병4’ 팝업, 팬들 발길 몰렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260902144445162",
-          "publishedAt": "2026-09-02T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'신병4' 김민호, 이원정 멱살잡이 분노 폭발...자체 최고 3.6% 월화극 1위[종합]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/02/2026090208287237873",
-          "publishedAt": "2026-09-02T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "대사 몇 줄로 하드캐리…‘신병4’ 전승훈, 무표정 촌철살인 “이게 바로 신스틸러”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609021638003",
-          "publishedAt": "2026-09-02T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“여기가 진짜 생활관?”…‘신병4’ 팝업, 팬들 발길 몰렸다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260902144445162",
-        "publishedAt": "2026-09-02T09:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-02T09:20:00.000Z",
-      "firstSeenAt": "2026-09-02T10:45:46.728Z",
-      "lastSeenAt": "2026-09-02T10:45:46.728Z",
-      "title": "신병",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260902144445162"
     }
   ]
 }
