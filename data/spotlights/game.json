@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-02T03:13:02.121Z",
+  "lastUpdatedAt": "2026-09-02T10:45:46.728Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -31,14 +31,9 @@
           "meta": "댓글 46"
         },
         {
-          "title": "[GC] '좋아요'를 위해서 목숨도 건다, 엔씨 FPS 신작 '라이크 오어 다이' 공개",
-          "url": "https://bbs.ruliweb.com/news/read/228514",
-          "meta": "댓글 88"
-        },
-        {
           "title": "9월에 출시되는 PC·모바일 게임 목록",
           "url": "https://bbs.ruliweb.com/news/read/228790",
-          "meta": "댓글 16"
+          "meta": "댓글 18"
         },
         {
           "title": "[GC] 독일에서 만난 반가운 한국 풍경, 삼성전자 ‘#플레이삼성’",
@@ -49,6 +44,11 @@
           "title": "[GC] 총쏘고 블록쌓는 생존 경쟁, '라이크 오어 다이' 인터뷰",
           "url": "https://bbs.ruliweb.com/news/read/228673",
           "meta": "댓글 24"
+        },
+        {
+          "title": "[GC] 죽어도 성장은 계속된다, 로그라이트 배틀로얄 ‘PUBG: 데드넷’ 인터뷰",
+          "url": "https://bbs.ruliweb.com/news/read/228602",
+          "meta": "댓글 6"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "[9월 2일 간추린 뉴스] 낮엔 인간, 밤은 뱀파이어 '더 블러드 오브 던워커'",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320293",
-          "meta": "더 블러드 오브 던워커 · 1시간 전"
+          "title": "한화생명e스포츠, '제칼리' 활약에 한 점 추격...1:2",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320339",
+          "meta": "리그 오브 레전드 · 19분 전"
         },
         {
-          "title": "유상욱 감독 \"1세트 고난도 조합 승리, 시리즈 흐름 탔다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320301",
-          "meta": "리그 오브 레전드 · 12시간 전"
+          "title": "슈퍼셀, '머지 맨션' 개발사 메타코어 인수 계약",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320338",
+          "meta": "슈퍼셀 · 38분 전"
         },
         {
-          "title": "고동빈 감독 \"패자조, 남은 기간 잘 준비해 꼭 이기겠다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320300",
-          "meta": "리그 오브 레전드 · 12시간 전"
+          "title": "승리를 당긴 블리츠크랭크...T1, 2세트도 승리",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320337",
+          "meta": "리그 오브 레전드 · 1시간 전"
         },
         {
-          "title": "KT 집어삼킨 집채만 한 초가스, 젠지 2:0 매치 포인트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320298",
-          "meta": "리그 오브 레전드 · 13시간 전"
+          "title": "전장 지배한 14킬 칼리...T1, '페이즈' 하드 캐리로 선승",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320334",
+          "meta": "리그 오브 레전드 · 2시간 전"
         },
         {
-          "title": "두 번의 장로 스틸, 승리도 스틸...젠지, PO 2R KT전 선승",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320297",
-          "meta": "리그 오브 레전드 · 14시간 전"
+          "title": "정연욱 의원 \"지스타 이전 및 유치 경쟁 용납 못 해\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320332",
+          "meta": "3시간 전"
         }
       ]
     }
@@ -89,14 +89,20 @@
     {
       "key": "epic-free-games",
       "source": "Epic Games Store",
-      "ok": true,
-      "itemCount": 1
+      "ok": false,
+      "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }

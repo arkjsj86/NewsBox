@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-09-02T03:13:02.121Z",
+  "lastUpdatedAt": "2026-09-02T10:45:46.728Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "s5Pxpm3dwoI",
+      "title": "Unity Webinar: Unity Ads Vector 베스트 프랙티스: UA 실전 전략",
+      "url": "https://www.youtube.com/watch?v=s5Pxpm3dwoI",
+      "publishedAt": "2026-08-31T09:24:12.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/s5Pxpm3dwoI/hqdefault.jpg"
+    },
+    {
       "id": "pdeSwmo7mqw",
       "title": "새로운 파이프라인 Unity CLI를 살펴봅시다 - 유니티 라이브 2026.08",
       "url": "https://www.youtube.com/watch?v=pdeSwmo7mqw",
       "publishedAt": "2026-08-26T09:07:44.000Z",
       "thumbnailUrl": "https://i1.ytimg.com/vi/pdeSwmo7mqw/hqdefault.jpg"
-    },
-    {
-      "id": "wBuH9Fyv1Uo",
-      "title": "AI가 코드를 짜는 시대… 개발자는 끝일까? SOLID와 디자인패턴 실전 Part.5",
-      "url": "https://www.youtube.com/watch?v=wBuH9Fyv1Uo",
-      "publishedAt": "2026-08-24T05:03:35.000Z",
-      "thumbnailUrl": "https://i4.ytimg.com/vi/wBuH9Fyv1Uo/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
