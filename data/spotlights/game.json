@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-03T15:54:02.323Z",
+  "lastUpdatedAt": "2026-09-03T20:35:06.227Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,12 +28,12 @@
         {
           "title": "배우 박지현 품은 웰메이드 MMORPG, 제우스: 오만의 신",
           "url": "https://bbs.ruliweb.com/news/read/228678",
-          "meta": "댓글 46"
+          "meta": "댓글 48"
         },
         {
           "title": "9월에 출시되는 PC·모바일 게임 목록",
           "url": "https://bbs.ruliweb.com/news/read/228790",
-          "meta": "댓글 21"
+          "meta": "댓글 23"
         },
         {
           "title": "[GC] 독일에서 만난 반가운 한국 풍경, 삼성전자 ‘#플레이삼성’",
@@ -41,14 +41,14 @@
           "meta": "댓글 5"
         },
         {
-          "title": "[GC] 총쏘고 블록쌓는 생존 경쟁, '라이크 오어 다이' 인터뷰",
-          "url": "https://bbs.ruliweb.com/news/read/228673",
-          "meta": "댓글 24"
+          "title": "[GC] 나만의 행성 만들기... 별바다를 여행하는 힐링 라이프, 쁘띠 플래닛",
+          "url": "https://bbs.ruliweb.com/news/read/228747",
+          "meta": "댓글 17"
         },
         {
-          "title": "[GC] 죽어도 성장은 계속된다, 로그라이트 배틀로얄 ‘PUBG: 데드넷’ 인터뷰",
-          "url": "https://bbs.ruliweb.com/news/read/228602",
-          "meta": "댓글 6"
+          "title": "에픽세븐, 8주년 기념 ‘영속의 계승제’ 현장 및 개발진 밋업",
+          "url": "https://bbs.ruliweb.com/news/read/228743",
+          "meta": "댓글 5"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "경희대 2026 다나와 아카데미 페스티벌을 빛낸 HyperX 부스",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320410",
+          "meta": "7시간 전"
+        },
+        {
+          "title": "DK '쇼메이커' \"내일 KT전, 모든 게 걸린 매치\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320407",
+          "meta": "리그 오브 레전드 · 8시간 전"
+        },
+        {
+          "title": "DK, 4세트도 승리하며 승부는 2:2 동점",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320405",
+          "meta": "리그 오브 레전드 · 9시간 전"
+        },
+        {
+          "title": "오랜만에 맛보는 달콤한 승리.. DK, 1:2 추격 시작",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320404",
+          "meta": "리그 오브 레전드 · 10시간 전"
+        },
+        {
           "title": "꾸준히 성공한 바론 사냥.. BFX, DK에 2:0 리드",
           "url": "https://www.inven.co.kr/webzine/news/?news=320403",
-          "meta": "리그 오브 레전드 · 40분 전"
-        },
-        {
-          "title": "뛰어난 교전 능력 보여주 BFX, DK에 1세트 선취",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320401",
-          "meta": "리그 오브 레전드 · 2시간 전"
-        },
-        {
-          "title": "신규 영웅 '하연' 합류, 심연 토벌전 콘텐츠 추가!",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320394",
-          "meta": "세븐나이츠 리버스 · 3시간 전"
-        },
-        {
-          "title": "가더 추가로 재료 시세 급등! 거래소 시세 살펴보기",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320399",
-          "meta": "솔: 인챈트 · 4시간 전"
-        },
-        {
-          "title": "보스 핑크빈 추가, 소환·강화에 천장 적용! 메이플 키우기 9/3 업데이트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320398",
-          "meta": "메이플 키우기 · 4시간 전"
+          "meta": "리그 오브 레전드 · 10시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "error": "Epic free games payload did not contain active free games."
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
