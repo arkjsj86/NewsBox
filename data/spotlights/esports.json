@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-09-04T03:13:20.145Z",
+  "lastUpdatedAt": "2026-09-04T10:44:55.335Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 3 2026",
   "primaryBlockName": "Playoffs",
-  "matchCount": 5,
+  "matchCount": 4,
   "matches": [
-    {
-      "id": "117030752644841625",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 3 2026",
-      "blockName": "Playoffs",
-      "startTime": "2026-09-04T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "kt Rolster",
-          "code": "KT",
-          "imageUrl": "http://static.lolesports.com/teams/kt_darkbackground.png"
-        },
-        {
-          "name": "Dplus KIA",
-          "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "117030752644841619",
       "leagueKey": "lck",
@@ -135,7 +112,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 5
+      "matchCount": 4
     },
     {
       "key": "ewc",

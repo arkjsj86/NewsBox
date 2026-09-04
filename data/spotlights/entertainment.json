@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-04T03:13:20.145Z",
+  "lastUpdatedAt": "2026-09-04T10:44:55.335Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "c9d5347555f28f3d",
-      "issueKey": "츠베레프",
-      "issueTitle": "츠베레프",
-      "trendTitle": "츠베레프",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'1번 시드' 츠베레프, 1박 2일 승부 끝에 US오픈 1회전 통과(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260902030051007",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'1번 시드' 츠베레프, 1박 2일 5시간 혈투 끝 2회전행… 코볼리도 대역전승",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=433146",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘1번시드’ 츠베레프, 힘겹게 US오픈 1회전 통과",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11614049",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'1번 시드' 츠베레프, 1박 2일 승부 끝에 US오픈 1회전 통과(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260902030051007",
-        "publishedAt": "2026-09-04T01:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-04T01:40:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "츠베레프",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260902030051007",
-      "rank": 1
-    },
-    {
-      "id": "eabeeb1fb4f27a57",
-      "issueKey": "정상회담",
-      "issueTitle": "정상회담",
-      "trendTitle": "정상회담",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[그래픽] 이재명 대통령 프랑스 국빈방문 주요 일정",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904114853136",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "李, 6~9일 프랑스 국빈방문… 마크롱과 AI·우주기술 협력 모색",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11614571",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이 대통령 6~9일 프랑스 국빈방문‥뤼미에르 서밋 공동의장 자격 참석",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6849603_36911.html",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "정상회담",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260904114853136",
-        "publishedAt": "2026-09-04T01:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-04T01:40:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "정상회담",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260904114853136",
-      "rank": 2
-    },
-    {
-      "id": "ea53208e96609fee",
-      "issueKey": "최강희",
-      "issueTitle": "최강희",
-      "trendTitle": "최강희",
+      "id": "e4a160c69625b810",
+      "issueKey": "만전자",
+      "issueTitle": "만전자",
+      "trendTitle": "노무라 증권",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"옷이 다 맞아\"…최강희, 30일 복근챌린지 일단 '눈바디'는 합격",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260903_0003775145",
-          "publishedAt": "2026-09-04T01:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“몸통이 엄청 줄었다”...최강희, 30일 복근 챌린지 결과 보니",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12144243",
-          "publishedAt": "2026-09-04T01:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "49세 최강희, 30일 복근 챌린지…“몸통 사이즈 엄청 줄었다” [셀럽 건강]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/04/20260904500058",
-          "publishedAt": "2026-09-04T01:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"옷이 다 맞아\"…최강희, 30일 복근챌린지 일단 '눈바디'는 합격",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260903_0003775145",
-        "publishedAt": "2026-09-04T01:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-04T01:30:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "최강희",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260903_0003775145",
-      "rank": 3
-    },
-    {
-      "id": "fc9af8970eb9fa28",
-      "issueKey": "일본은행",
-      "issueTitle": "일본은행",
-      "trendTitle": "일본은행",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "엔화값 단숨에 155엔대 급등…日銀 매파 발언, 금리인상 가속 기대",
+          "title": "\"삼전닉스 조정 끝\" \"67만전자·470만닉스 간다\"…해외IB 낙관 이유",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260904112113923",
-          "publishedAt": "2026-09-04T01:20:00.000Z",
+          "url": "https://v.daum.net/v/20260904160153868",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"2년 전 공포 떠오른다\"…어제 코스피 '출렁'였던 이유가 [분석+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026090435676",
-          "publishedAt": "2026-09-04T01:20:00.000Z",
+          "title": "노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260904580307",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "일본은행 ‘빅스텝’ 전망까지…2년 전 ‘앤캐리 청산’ 증시 폭락 또?",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1276202.html",
-          "publishedAt": "2026-09-04T01:20:00.000Z",
+          "title": "\"본전 오면 다 던진다\" … 역대급 개미 매물대에 숨통 막힌 '삼전닉스'",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/04/2026090400078.html",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "일본은행 ‘빅스텝’ 전망까지…2년 전 ‘앤캐리 청산’ 증시 폭락 또?",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/economy/finance/1276202.html",
-        "publishedAt": "2026-09-04T01:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-09-04T01:20:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "일본은행",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1276202.html",
-      "rank": 4
-    },
-    {
-      "id": "07ee5c3176a98523",
-      "issueKey": "트레이드",
-      "issueTitle": "트레이드",
-      "trendTitle": "트레이드",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"다저스 트레이드, 평생 감사합니다\" 김혜성한테 밀려서 방출됐는데…인생을 바꾼 '행운' 어찌 잊을 수 있나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904005153535",
-          "publishedAt": "2026-09-04T01:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "하주석 KIA 트레이드 직후 복덩이었는데…너무 오랜만에 달렸나, 친정 방문+아내 직관응원 이후 '주춤'",
-          "source": "네이트",
-          "url": "https://sports.news.nate.com/view/20260904n10551",
-          "publishedAt": "2026-09-04T01:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "하주석-이호연의 ‘하이(Hi) 타이거즈’, ‘타이거즈 하이(High)’",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202608271152003",
-          "publishedAt": "2026-09-04T01:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"다저스 트레이드, 평생 감사합니다\" 김혜성한테 밀려서 방출됐는데…인생을 바꾼 '행운' 어찌 잊을 수 있나",
+        "title": "\"삼전닉스 조정 끝\" \"67만전자·470만닉스 간다\"…해외IB 낙관 이유",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260904005153535",
-        "publishedAt": "2026-09-04T01:00:00.000Z",
+        "url": "https://v.daum.net/v/20260904160153868",
+        "publishedAt": "2026-09-04T09:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-04T01:00:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "트레이드",
+      "publishedAt": "2026-09-04T09:40:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "만전자",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260904005153535",
-      "rank": 5
+      "url": "https://v.daum.net/v/20260904160153868",
+      "rank": 1
     },
     {
-      "id": "1ec4155258d166af",
-      "issueKey": "국립 대학",
-      "issueTitle": "국립 대학",
-      "trendTitle": "국립 대학",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "a3483f9a267174c1",
+      "issueKey": "안성시",
+      "issueTitle": "안성시",
+      "trendTitle": "안성시",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'서울대 10개' 충남대 선정…공주대 통합 새 국면 맞나",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903183054835",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "개교 80주년 부산대, ‘성장엔진·AI’ 날개 달고 국가대표 대학으로",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4433444",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'서울대 10개 만들기' 전북대 탈락에 \"지역 소멸 가속화\" 우려",
+          "title": "속초시 고향사랑기부대상 2년 연속 수상…비결은?",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260903034600055",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "url": "https://www.yna.co.kr/view/AKR20260904095000062",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[인터뷰] 윤호중 장관 \"'고향사랑기부금' 10만 원 내면 세액공제, 3만 원 이득까지…5천억 달성 기대\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008738214",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "기부가 만든 고향의 변화, 고향사랑의 날 기념 고향사랑기부대상 시상식 개최",
+          "source": "서울Pn",
+          "url": "https://go.seoul.co.kr/news/prnewsView.php?id=445796",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "국립 대학",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903183054835",
-        "publishedAt": "2026-09-04T00:50:00.000Z",
+        "title": "안성시",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260904095000062",
+        "publishedAt": "2026-09-04T09:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-04T00:50:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "국립 대학",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260903183054835",
-      "rank": 6
+      "publishedAt": "2026-09-04T09:40:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "안성시",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260904095000062",
+      "rank": 2
     },
     {
-      "id": "6c21e63a8cb10dcb",
-      "issueKey": "수익성",
-      "issueTitle": "수익성",
-      "trendTitle": "수익성",
+      "id": "2422fcd3f8ee2b46",
+      "issueKey": "대구시",
+      "issueTitle": "대구시",
+      "trendTitle": "대구시",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"글로벌 성장 발판\"…스카이랩스, 코스닥 '입성'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260904_0003776066",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "title": "대구시, ‘데이터+AI 혁신 챌린지’ 참가자 모집…미개방 데이터로 지역 현안 푼다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904190745792",
+          "publishedAt": "2026-09-04T09:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[새내기주 SWOT] 스카이랩스, 상장 시초가 '따블'...수익성·오버행 리스크는 과제",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=349229",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "title": "대구시, '2026데이터+AI혁신 챌린지:데이터안심구역 경진대회' 참가자 모집",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260904000279",
+          "publishedAt": "2026-09-04T09:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "기술특례 300社 시대…코스닥 IPO 시총 62% 차지",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1153688",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "title": "대구광역시, '데이터 기술 세미나'...피지컬 AI·공공데이터로 중소기업 매출 해법 제시",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3684154",
+          "publishedAt": "2026-09-04T09:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[새내기주 SWOT] 스카이랩스, 상장 시초가 '따블'...수익성·오버행 리스크는 과제",
-        "source": "녹색경제신문",
-        "url": "https://www.greened.kr/news/articleView.html?idxno=349229",
-        "publishedAt": "2026-09-04T00:50:00.000Z",
-        "relevanceScore": 2
+        "title": "대구시, ‘데이터+AI 혁신 챌린지’ 참가자 모집…미개방 데이터로 지역 현안 푼다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904190745792",
+        "publishedAt": "2026-09-04T09:30:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-09-04T00:50:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "수익성",
-      "source": "녹색경제신문",
-      "url": "https://www.greened.kr/news/articleView.html?idxno=349229",
-      "rank": 7
+      "publishedAt": "2026-09-04T09:30:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "대구시",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260904190745792",
+      "rank": 3
     },
     {
-      "id": "9d9a821c389ec237",
-      "issueKey": "더니",
-      "issueTitle": "더니",
-      "trendTitle": "안셀 엘고트",
+      "id": "7ba7d1ed8b918e46",
+      "issueKey": "박준형",
+      "issueTitle": "박준형",
+      "trendTitle": "박준형",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"실루엣만 봐도 예뻐\"…박준형 '14살 연하' ♥아내 최초 공개, 여배우인 줄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904110237953",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "god 박준형, '14살 연하' 미모의 ♥아내 최초 공개…12년 만 데이트 \"보고 싶어서 왔다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-04/202609040100031390001929",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "god 박준형, '14살 연하' 승무원 출신 아내 방송 최초 공개→\"연예인인 줄\" 반응 폭주 [RE:뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904153909895",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"실루엣만 봐도 예뻐\"…박준형 '14살 연하' ♥아내 최초 공개, 여배우인 줄",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904110237953",
+        "publishedAt": "2026-09-04T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-04T09:10:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "박준형",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260904110237953",
+      "rank": 4
+    },
+    {
+      "id": "b19d7081708d9974",
+      "issueKey": "서울 수도권",
+      "issueTitle": "서울 수도권",
+      "trendTitle": "서울 수도권",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "BTS RM·뷔 만나며 “한국 문화 좋다”더니···‘유카타’ 입고 등장한 배우, 일본인 아내 때문?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609040943001",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "title": "‘닥치고 공급’ 한다더니… 올 수도권 주택착공 실적 29%",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11614600",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "할리우드 스타 엘고트, 서울 K컬처 행사에 日 '유카타' 옷…주최측 말도 무시",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6279732",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "title": "\"집 짓겠다며 대출은 막는다\"…국토위 국감, 서민·청년 주거난 정조준할까",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260903111849345",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"서울 행사에 기모노\" 비난세례 안셀 엘고트 누구? 日약혼녀→성폭행 물의 美스타",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/04/HFRWGZDDMI3DKMTDHFSGEMRTMQ/",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "title": "[브릿지 칼럼] 8·13 대책, ‘공급’보다 ‘현실성’부터",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20260903500083",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "BTS RM·뷔 만나며 “한국 문화 좋다”더니···‘유카타’ 입고 등장한 배우, 일본인 아내 때문?",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609040943001",
-        "publishedAt": "2026-09-04T00:50:00.000Z",
+        "title": "서울 수도권",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11614600",
+        "publishedAt": "2026-09-04T09:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-04T00:50:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "더니",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202609040943001",
+      "publishedAt": "2026-09-04T09:10:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "서울 수도권",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11614600",
+      "rank": 5
+    },
+    {
+      "id": "de085eaf9b32dd1d",
+      "issueKey": "등반",
+      "issueTitle": "등반",
+      "trendTitle": "등반",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "출근길이 120m 암벽 등반…아슬아슬한 편의점 '화제'",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20260903091806",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "15시간 사투 방전된 체력 그리고, 눈물 [강의실에서 히말라야로 ⑦ 마지막회]",
+          "source": "월간산",
+          "url": "http://san.chosun.com/news/articleView.html?idxno=26116",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "50대 직장인 일반여성 '코리아강’ 완등",
+          "source": "월간산",
+          "url": "https://san.chosun.com/news/articleView.html?idxno=26123",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "출근길이 120m 암벽 등반…아슬아슬한 편의점 '화제'",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20260903091806",
+        "publishedAt": "2026-09-04T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-04T09:10:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "등반",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20260903091806",
+      "rank": 6
+    },
+    {
+      "id": "128f9d0001a6ae63",
+      "issueKey": "천연가스",
+      "issueTitle": "천연가스",
+      "trendTitle": "천연가스",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "유럽, 올겨울 혹한 두렵다…천연가스 비축량 역대 최저",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904082803135",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[기고]호르무즈가 남긴 교훈",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260903000143",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "여름 폭염 난리였는데 올 겨울 난방도 '비상'…15년 만에 가장 빈 유럽 가스 저장고",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026090408363381008",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "유럽, 올겨울 혹한 두렵다…천연가스 비축량 역대 최저",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904082803135",
+        "publishedAt": "2026-09-04T09:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-04T09:00:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "천연가스",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260904082803135",
+      "rank": 7
+    },
+    {
+      "id": "f7ebff6005029871",
+      "issueKey": "차태현",
+      "issueTitle": "차태현",
+      "trendTitle": "차태현",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "차태현 아내마저 \"너 어떡하냐\"…첫사랑과 결혼한 '국민 사랑꾼', 알고 보니 오해? (비서진)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904094636158",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "무엇이든 해줄지니 - 비서진 : [선공개] ‘대한민국 유일무이 my스타’ 차태현, 사무실에서 뽐내는 놀라운 인맥",
+          "source": "programs.sbs.co.kr",
+          "url": "https://programs.sbs.co.kr/enter/mygeniesecretary/clip/90105/OC481639427",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "차태현, 유재석·박보영 플렉스한 사무실 살림 최초 공개 (비서진)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12143937",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "차태현 아내마저 \"너 어떡하냐\"…첫사랑과 결혼한 '국민 사랑꾼', 알고 보니 오해? (비서진)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904094636158",
+        "publishedAt": "2026-09-04T09:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-04T09:00:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "차태현",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260904094636158",
       "rank": 8
     },
     {
-      "id": "ed0e90733d1a21cf",
-      "issueKey": "과일",
-      "issueTitle": "과일",
-      "trendTitle": "과일",
+      "id": "5ab76476fbaff313",
+      "issueKey": "경상수지",
+      "issueTitle": "경상수지",
+      "trendTitle": "경상수지",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보] 靑 \"호르무즈 기여, 대비태세 손상없는 범위 내서 운신할수도\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260904071400001",
+          "publishedAt": "2026-09-04T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "7월 경상수지 흑자 동월 기준 ‘역대 최대’···외국인 국내주식 반년만에 ‘순매수’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609040815001",
+          "publishedAt": "2026-09-04T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "반도체 호황으로 수출·배당 '쌍끌이'…두 달 연속 역대급 경상흑자",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/economy/2026/09/04/2026090413332160646",
+          "publishedAt": "2026-09-04T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "7월 경상수지 흑자 동월 기준 ‘역대 최대’···외국인 국내주식 반년만에 ‘순매수’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609040815001",
+        "publishedAt": "2026-09-04T08:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-04T08:50:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "경상수지",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202609040815001",
+      "rank": 9
+    },
+    {
+      "id": "90a88624d2f5907e",
+      "issueKey": "자릿수",
+      "issueTitle": "자릿수",
+      "trendTitle": "자릿수",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“반값이어도 안 사요”…3만→1만원 추락한 ‘샤인머스캣’, 맛 변한 진짜 이유 [일상톡톡 플러스]",
+          "title": "K방산 성장에 채용도 날개…LIG 세 자릿수·KAI 전 직군 모집",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260904050245700",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "url": "https://v.daum.net/v/1qGCdSgRC3",
+          "publishedAt": "2026-09-04T08:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "비싸도 달아서 유명했는데…‘2만2000원→8000원’ 떨어진 이 과일",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/business/12143917",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "title": "LIG D＆A, 하반기 세자릿수 신입·경력 공채…\"첨단 인재 확보\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260902032000003",
+          "publishedAt": "2026-09-04T08:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[경북소식]'데일리' 과일, 전국 하나로마트서 특별전…18% 할인 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260903_0003775063",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
+          "title": "[LIG D&A 50년-64] 판교연구소와 2판교하우스, 新 R&D 거점 확보",
+          "source": "빅데이터뉴스",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202609031812546350570d99e4c8_23",
+          "publishedAt": "2026-09-04T08:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "비싸도 달아서 유명했는데…‘2만2000원→8000원’ 떨어진 이 과일",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/business/12143917",
-        "publishedAt": "2026-09-04T00:50:00.000Z",
-        "relevanceScore": 2
+        "title": "K방산 성장에 채용도 날개…LIG 세 자릿수·KAI 전 직군 모집",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/1qGCdSgRC3",
+        "publishedAt": "2026-09-04T08:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-09-04T00:50:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "과일",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/business/12143917",
-      "rank": 9
+      "publishedAt": "2026-09-04T08:50:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "자릿수",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/1qGCdSgRC3",
+      "rank": 10
     }
   ],
   "history": [
@@ -1241,6 +1288,52 @@
       "url": "https://biz.chosun.com/entertainment/tv/2026/09/01/GJSDQNJUMEYGMMRRMQYWEOBWHA/"
     },
     {
+      "id": "7ba7d1ed8b918e46",
+      "issueKey": "박준형",
+      "issueTitle": "박준형",
+      "trendTitle": "박준형",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"실루엣만 봐도 예뻐\"…박준형 '14살 연하' ♥아내 최초 공개, 여배우인 줄",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904110237953",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "god 박준형, '14살 연하' 미모의 ♥아내 최초 공개…12년 만 데이트 \"보고 싶어서 왔다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-04/202609040100031390001929",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "god 박준형, '14살 연하' 승무원 출신 아내 방송 최초 공개→\"연예인인 줄\" 반응 폭주 [RE:뷰]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904153909895",
+          "publishedAt": "2026-09-04T09:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"실루엣만 봐도 예뻐\"…박준형 '14살 연하' ♥아내 최초 공개, 여배우인 줄",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904110237953",
+        "publishedAt": "2026-09-04T09:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-04T09:10:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "박준형",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260904110237953"
+    },
+    {
       "id": "c9d5347555f28f3d",
       "issueKey": "츠베레프",
       "issueTitle": "츠베레프",
@@ -1977,6 +2070,98 @@
       "url": "https://v.daum.net/v/20260902183600148?f=m"
     },
     {
+      "id": "2422fcd3f8ee2b46",
+      "issueKey": "대구시",
+      "issueTitle": "대구시",
+      "trendTitle": "대구시",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "대구시, ‘데이터+AI 혁신 챌린지’ 참가자 모집…미개방 데이터로 지역 현안 푼다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904190745792",
+          "publishedAt": "2026-09-04T09:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "대구시, '2026데이터+AI혁신 챌린지:데이터안심구역 경진대회' 참가자 모집",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260904000279",
+          "publishedAt": "2026-09-04T09:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "대구광역시, '데이터 기술 세미나'...피지컬 AI·공공데이터로 중소기업 매출 해법 제시",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3684154",
+          "publishedAt": "2026-09-04T09:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "대구시, ‘데이터+AI 혁신 챌린지’ 참가자 모집…미개방 데이터로 지역 현안 푼다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904190745792",
+        "publishedAt": "2026-09-04T09:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-04T09:30:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "대구시",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260904190745792"
+    },
+    {
+      "id": "128f9d0001a6ae63",
+      "issueKey": "천연가스",
+      "issueTitle": "천연가스",
+      "trendTitle": "천연가스",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "유럽, 올겨울 혹한 두렵다…천연가스 비축량 역대 최저",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904082803135",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[기고]호르무즈가 남긴 교훈",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20260903000143",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "여름 폭염 난리였는데 올 겨울 난방도 '비상'…15년 만에 가장 빈 유럽 가스 저장고",
+          "source": "아시아경제",
+          "url": "https://view.asiae.co.kr/article/2026090408363381008",
+          "publishedAt": "2026-09-04T09:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "유럽, 올겨울 혹한 두렵다…천연가스 비축량 역대 최저",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904082803135",
+        "publishedAt": "2026-09-04T09:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-04T09:00:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "천연가스",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260904082803135"
+    },
+    {
       "id": "6c21e63a8cb10dcb",
       "issueKey": "수익성",
       "issueTitle": "수익성",
@@ -2115,188 +2300,50 @@
       "url": "https://www.osen.co.kr/article/G1112868818"
     },
     {
-      "id": "ea53208e96609fee",
-      "issueKey": "최강희",
-      "issueTitle": "최강희",
-      "trendTitle": "최강희",
+      "id": "e4a160c69625b810",
+      "issueKey": "만전자",
+      "issueTitle": "만전자",
+      "trendTitle": "노무라 증권",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"옷이 다 맞아\"…최강희, 30일 복근챌린지 일단 '눈바디'는 합격",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260903_0003775145",
-          "publishedAt": "2026-09-04T01:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“몸통이 엄청 줄었다”...최강희, 30일 복근 챌린지 결과 보니",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12144243",
-          "publishedAt": "2026-09-04T01:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "49세 최강희, 30일 복근 챌린지…“몸통 사이즈 엄청 줄었다” [셀럽 건강]",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/entertainment/starinterN/2026/09/04/20260904500058",
-          "publishedAt": "2026-09-04T01:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"옷이 다 맞아\"…최강희, 30일 복근챌린지 일단 '눈바디'는 합격",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260903_0003775145",
-        "publishedAt": "2026-09-04T01:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-04T01:30:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "최강희",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260903_0003775145"
-    },
-    {
-      "id": "9d9a821c389ec237",
-      "issueKey": "더니",
-      "issueTitle": "더니",
-      "trendTitle": "안셀 엘고트",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "BTS RM·뷔 만나며 “한국 문화 좋다”더니···‘유카타’ 입고 등장한 배우, 일본인 아내 때문?",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609040943001",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "할리우드 스타 엘고트, 서울 K컬처 행사에 日 '유카타' 옷…주최측 말도 무시",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6279732",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"서울 행사에 기모노\" 비난세례 안셀 엘고트 누구? 日약혼녀→성폭행 물의 美스타",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/09/04/HFRWGZDDMI3DKMTDHFSGEMRTMQ/",
-          "publishedAt": "2026-09-04T00:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "BTS RM·뷔 만나며 “한국 문화 좋다”더니···‘유카타’ 입고 등장한 배우, 일본인 아내 때문?",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609040943001",
-        "publishedAt": "2026-09-04T00:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-04T00:50:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "더니",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202609040943001"
-    },
-    {
-      "id": "eabeeb1fb4f27a57",
-      "issueKey": "정상회담",
-      "issueTitle": "정상회담",
-      "trendTitle": "정상회담",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[그래픽] 이재명 대통령 프랑스 국빈방문 주요 일정",
+          "title": "\"삼전닉스 조정 끝\" \"67만전자·470만닉스 간다\"…해외IB 낙관 이유",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260904114853136",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
+          "url": "https://v.daum.net/v/20260904160153868",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "李, 6~9일 프랑스 국빈방문… 마크롱과 AI·우주기술 협력 모색",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11614571",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
+          "title": "노무라 “삼성전자·SK하이닉스 심각한 저평가…67만원·470만원 간다”",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260904580307",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이 대통령 6~9일 프랑스 국빈방문‥뤼미에르 서밋 공동의장 자격 참석",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6849603_36911.html",
-          "publishedAt": "2026-09-04T01:40:00.000Z",
+          "title": "\"본전 오면 다 던진다\" … 역대급 개미 매물대에 숨통 막힌 '삼전닉스'",
+          "source": "뉴데일리",
+          "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/04/2026090400078.html",
+          "publishedAt": "2026-09-04T09:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "정상회담",
+        "title": "\"삼전닉스 조정 끝\" \"67만전자·470만닉스 간다\"…해외IB 낙관 이유",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260904114853136",
-        "publishedAt": "2026-09-04T01:40:00.000Z",
+        "url": "https://v.daum.net/v/20260904160153868",
+        "publishedAt": "2026-09-04T09:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-04T01:40:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "정상회담",
+      "publishedAt": "2026-09-04T09:40:00.000Z",
+      "firstSeenAt": "2026-09-04T10:44:55.335Z",
+      "lastSeenAt": "2026-09-04T10:44:55.335Z",
+      "title": "만전자",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260904114853136"
-    },
-    {
-      "id": "fc9af8970eb9fa28",
-      "issueKey": "일본은행",
-      "issueTitle": "일본은행",
-      "trendTitle": "일본은행",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "엔화값 단숨에 155엔대 급등…日銀 매파 발언, 금리인상 가속 기대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904112113923",
-          "publishedAt": "2026-09-04T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"2년 전 공포 떠오른다\"…어제 코스피 '출렁'였던 이유가 [분석+]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026090435676",
-          "publishedAt": "2026-09-04T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "일본은행 ‘빅스텝’ 전망까지…2년 전 ‘앤캐리 청산’ 증시 폭락 또?",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/economy/finance/1276202.html",
-          "publishedAt": "2026-09-04T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "일본은행 ‘빅스텝’ 전망까지…2년 전 ‘앤캐리 청산’ 증시 폭락 또?",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/economy/finance/1276202.html",
-        "publishedAt": "2026-09-04T01:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-09-04T01:20:00.000Z",
-      "firstSeenAt": "2026-09-04T03:13:20.145Z",
-      "lastSeenAt": "2026-09-04T03:13:20.145Z",
-      "title": "일본은행",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/economy/finance/1276202.html"
+      "url": "https://v.daum.net/v/20260904160153868"
     }
   ]
 }

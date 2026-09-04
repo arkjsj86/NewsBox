@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-04T03:13:20.145Z",
-  "articleCount": 15,
+  "lastUpdatedAt": "2026-09-04T10:44:55.335Z",
+  "articleCount": 17,
   "articles": [
+    {
+      "id": "4b6baa970c44d5de",
+      "title": "문화산업 사회학자 고윤화 \"K-팝, 이미 AI 최적화된 '거대한 실험실'\"",
+      "url": "https://www.newsis.com/view/NISX20260904_0003776708",
+      "source": "뉴시스 연예",
+      "publishedAt": "2026-09-04T09:51:21.000Z",
+      "summary": "[서울=뉴시스]이재훈 기자 = K-팝이 인공지능(AI)과 빠르고 유기적으로 결합할 수 있었던 이유는 기술의 단순한 다량 도입을 넘어, K-팝 생태계 자체가 이미 AI를 검증하고 안착시키기에 최적화된 '거대한 실험실'이었기 때문이라는 분석이 나왔다. 문화산업 사회학자인 고윤화 서울대학교 아시아연구소 한류연구센터 연구원은 4일 서울 상암 큐브컨벤션센터에서 열린 '2026 MWM 콘퍼런스'에...",
+      "tab": "ai"
+    },
+    {
+      "id": "51b151a6dc948f8b",
+      "title": "로컬 AI의 새 선택지, 언슬로스 데스크톱의 가능성",
+      "url": "https://www.itworld.co.kr/article/4218508/%eb%a1%9c%ec%bb%ac-ai%ec%9d%98-%ec%83%88-%ec%84%a0%ed%83%9d%ec%a7%80-%ec%96%b8%ec%8a%ac%eb%a1%9c%ec%8a%a4-%eb%8d%b0%ec%8a%a4%ed%81%ac%ed%86%b1%ec%9d%98-%ea%b0%80%eb%8a%a5%ec%84%b1.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-04T03:21:25.000Z",
+      "summary": "언슬로스 데스크톱(Unsloth Desktop)은 LM 스튜디오(LM Studio)와 마찬가지로 로컬 하드웨어에서 생성형 AI 모델을 실행할 수 있게 해준다. 또한 편리한 웹 기반 UI를 사용해 다단계 워크플로우를 만들고 새 모델을 학습시킬 수도 있다. LM 스튜디오를 사용하면 누구나 자신의 하드웨어에서 손쉽게 LLM을 실행할 수 있다. 데스크톱 앱으로 실행할 수도 있고 기업 내 다른...",
+      "tab": "ai"
+    },
     {
       "id": "be27bf6bb8d562dd",
       "title": "네오클라우드가 AI 컴퓨팅 시장을 장악할 수 있을까?",
@@ -89,6 +107,15 @@
       "tab": "ai"
     },
     {
+      "id": "b44e74815289abc3",
+      "title": "넥슨, AI 시대 맞춰 NYPC 전면 개편... 베트남 참가자와 글로벌 가능성 확인",
+      "url": "https://www.etnews.com/20260831000218",
+      "source": "전자신문 게임",
+      "publishedAt": "2026-08-31T04:08:42.000Z",
+      "summary": "넥슨이 인공지능(AI) 시대에 맞춰 프로그래밍 대회 '넥슨 영 프로그래머스 컵(NYPC)'을 전면 개편했다. 단순 코딩 실력을 겨루는 방식에서 AI를 활용하면서도 참가자가 직접 문제 해결 전략을 설계하는 대회로 변화를 꾀했다. 넥슨은 지난 29일 서울 강남구 가로수길에서 NYPC 파이널 라운드를 개최했다고 31일 밝혔다. 온라인 예선을 거쳐 선발된 144명이 참가했다. 올해 NYPC는...",
+      "tab": "ai"
+    },
+    {
       "id": "1d06e2e21c1fdd7e",
       "title": "하이퍼스케일러 vs. 네오클라우드, AI 컴퓨트 주도권 경쟁의 향방",
       "url": "https://www.itworld.co.kr/article/4215575/%ed%95%98%ec%9d%b4%ed%8d%bc%ec%8a%a4%ec%bc%80%ec%9d%bc%eb%9f%ac-vs-%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-ai-%ec%bb%b4%ed%93%a8%ed%8a%b8-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ea%b2%bd.html",
@@ -131,15 +158,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-08-28T02:07:18.000Z",
       "summary": "챗GPT가 여전히 이모지를 너무 많이 쏟아내고 있지는 않은가? 챗GPT가 사용자에 대해 무엇을 알고 있는지, 혹은 알고 있다고 생각하는지 궁금한 적이 있는가? 그리고 챗GPT 계정은 과연 얼마나 안전한가? 챗GPT 설정은 끊임없이 바뀌는 탓에 놓치기 쉽다. 그러나 설정을 가끔씩 살펴보는 것은 충분히 가치 있는 일이다. 핵심 설정 몇 가지만 조정해도 챗GPT의 이상한 성격 특성을 바로잡고...",
-      "tab": "ai"
-    },
-    {
-      "id": "841a7fc4f4cb1adb",
-      "title": "“왜 파일럿에서 멈추는가” 에이전틱 AI 배포를 결정하는 3가지 인프라 조건",
-      "url": "https://www.itworld.co.kr/article/4214550/%ec%99%9c-%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%97%90%ec%84%9c-%eb%a9%88%ec%b6%94%eb%8a%94%ea%b0%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-ai-%eb%b0%b0%ed%8f%ac%eb%a5%bc-%ea%b2%b0%ec%a0%95%ed%95%98.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-28T01:48:12.000Z",
-      "summary": "이제 신용카드만 있으면 기업 내의 거의 누구나 반나절 만에 에이전트를 구축할 수 있다. 툴에 액세스해서 손쉽게 배포하기만 하면 된다. 어려운 부분은 의도한 결과를 얻는 것이다. 가트너는 2027년까지 에이전틱 AI 프로젝트의 40% 이상이 중단될 것으로 전망한다 . 또한 고위험 AI 시스템에 대한 인간의 감독을 의무화하는 EU AI 법 제14조가 2026년 8월 2일부터 발효됐다. 에이...",
       "tab": "ai"
     }
   ]
