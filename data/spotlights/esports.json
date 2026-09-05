@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-09-05T03:16:17.460Z",
+  "lastUpdatedAt": "2026-09-05T10:02:35.356Z",
   "activeLeagueKey": "lck",
   "activeLeagueLabel": "LCK",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "Split 3 2026",
   "primaryBlockName": "Playoffs",
-  "matchCount": 4,
+  "matchCount": 3,
   "matches": [
-    {
-      "id": "117030752644841619",
-      "leagueKey": "lck",
-      "leagueLabel": "LCK",
-      "tournamentName": "Split 3 2026",
-      "blockName": "Playoffs",
-      "startTime": "2026-09-05T08:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Gen.G Esports",
-          "code": "GEN",
-          "imageUrl": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-        },
-        {
-          "name": "Hanwha Life Esports",
-          "code": "HLE",
-          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/lck"
-    },
     {
       "id": "117030752644841631",
       "leagueKey": "lck",
@@ -112,7 +89,7 @@
       "key": "lck",
       "label": "LCK",
       "ok": true,
-      "matchCount": 4
+      "matchCount": 3
     },
     {
       "key": "ewc",

@@ -7,436 +7,529 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-05T03:16:17.460Z",
+  "lastUpdatedAt": "2026-09-05T10:02:35.356Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "2db98b31c1594207",
-      "issueKey": "테니스 선수",
-      "issueTitle": "테니스 선수",
-      "trendTitle": "테니스 선수",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘테니스 엔터테이너’ 몽피스, 메이저 무대와 작별",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260905/134609640/2",
-          "publishedAt": "2026-09-05T02:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[US오픈] '내 샷을 받아라'",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3684942",
-          "publishedAt": "2026-09-05T02:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "인연도 이런 인연이 있을까",
-          "source": "테니스피플",
-          "url": "http://www.tennispeople.kr/news/articleView.html?idxno=19382",
-          "publishedAt": "2026-09-05T02:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "테니스 선수",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260905/134609640/2",
-        "publishedAt": "2026-09-05T02:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-05T02:10:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "테니스 선수",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Sports/article/all/20260905/134609640/2",
-      "rank": 1
-    },
-    {
-      "id": "26dc7b8373b59f4a",
-      "issueKey": "최민식",
-      "issueTitle": "최민식",
-      "trendTitle": "인턴",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "37년차 막내와 3년차 CEO의 따뜻한 동행…최민식·한소희 '인턴'",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260905001700005",
-          "publishedAt": "2026-09-05T01:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "따뜻한 어른의 위로가 필요할 때, 영화 '인턴' [TF사진관]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8X4UzhLxNe",
-          "publishedAt": "2026-09-05T01:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "류혜영 \"AI로 점성학 통해 내 미래 물으며 잠들어\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260904_0003777272",
-          "publishedAt": "2026-09-05T01:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "37년차 막내와 3년차 CEO의 따뜻한 동행…최민식·한소희 '인턴'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260905001700005",
-        "publishedAt": "2026-09-05T01:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-05T01:50:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "최민식",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260905001700005",
-      "rank": 2
-    },
-    {
-      "id": "f71008f41865d0eb",
-      "issueKey": "현아",
-      "issueTitle": "현아",
-      "trendTitle": "현아",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "현아♥용준형, 미국서 제대로 붙어 다니네…안경까지 맞춘 '커플룩'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260904235451750",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "현아, 술병 들고 신났네…감출 수 없는 미소 [DA★]",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260905/134610623/1",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "현아, 남편 용준형과 美 LA에서 휴가 만끽…다정한 부부 [N샷]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6280917",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "현아♥용준형, 미국서 제대로 붙어 다니네…안경까지 맞춘 '커플룩'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260904235451750",
-        "publishedAt": "2026-09-05T01:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-05T01:20:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "현아",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260904235451750",
-      "rank": 3
-    },
-    {
-      "id": "9af85d04dc734391",
-      "issueKey": "네팔",
-      "issueTitle": "네팔",
-      "trendTitle": "네팔",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "네팔군, 한국 구호대 한국인 9명 실종 지역 도보수색 불허",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6849744_36925.html",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사실은] 중국 겨누다 물러선 네팔?…'기후 보상' 어떻게",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905105100362",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "한국인 실종지 도로 수색 불허...\"항공 수색 성과 없어\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0104_202609050948481181",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "네팔군, 한국 구호대 한국인 9명 실종 지역 도보수색 불허",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/world/article/6849744_36925.html",
-        "publishedAt": "2026-09-05T01:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-05T01:20:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "네팔",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/world/article/6849744_36925.html",
-      "rank": 4
-    },
-    {
-      "id": "e62cc59975d0e153",
-      "issueKey": "고단백",
-      "issueTitle": "식이",
-      "trendTitle": "식이",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"운동할 때만?\" 단백질, 면·샌드위치 등 일상식으로 즐긴다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260902_0003773516",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대상 청정원, '콩담백면 플러스' 출시…고단백·고칼슘·고식이섬유 강화",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20260902000235",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[신상브리핑] LG생활건강 유시몰, 롯데마트·슈퍼, 컬리, 파라다이스시티, 세븐일레븐, 아워홈 外",
-          "source": "데일리한국",
-          "url": "https://daily.hankooki.com/news/articleView.html?idxno=1401770",
-          "publishedAt": "2026-09-05T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대상 청정원, '콩담백면 플러스' 출시…고단백·고칼슘·고식이섬유 강화",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20260902000235",
-        "publishedAt": "2026-09-05T01:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-05T01:20:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "식이",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20260902000235",
-      "rank": 5
-    },
-    {
-      "id": "d343231110081b06",
-      "issueKey": "홍명보",
-      "issueTitle": "홍명보",
-      "trendTitle": "홍명보",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "박항서 \"손흥민이 찾아왔었다… 축구협회 카르텔 있어\" 작심 폭로",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/people/2026/09/05/SCMN5OZ2LFGUPA42KJINXAU3X4/",
-          "publishedAt": "2026-09-05T01:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "축협 비판한 박항서...이영표",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/04/2026090420350867533",
-          "publishedAt": "2026-09-05T01:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"암적인 폐습 모두 뜯어고쳐야\" 무너질 대로 무너진 한국축구 신뢰, 어떻게 회복할 수 있을까 [창간 ③]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905060250232",
-          "publishedAt": "2026-09-05T01:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "홍명보",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/people/2026/09/05/SCMN5OZ2LFGUPA42KJINXAU3X4/",
-        "publishedAt": "2026-09-05T01:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-05T01:00:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "홍명보",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/people/2026/09/05/SCMN5OZ2LFGUPA42KJINXAU3X4/",
-      "rank": 6
-    },
-    {
-      "id": "3985b6b63d34eb1d",
-      "issueKey": "이영표",
-      "issueTitle": "이영표",
-      "trendTitle": "이영표",
+      "id": "3bc6235e1d18162f",
+      "issueKey": "오늘",
+      "issueTitle": "오늘",
+      "trendTitle": "오늘",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“홍명보 감독보다 더 큰 재앙 올 것 같아” 팬들 우려와 달리…이영표 해설위원 긍정적 전망 “아시안게임 4연속 금메달 딸 수 있을 것”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905061909373",
-          "publishedAt": "2026-09-05T00:30:00.000Z",
+          "title": "“보스턴다이내믹스 몸값 45조 vs 적자 2조”… 현대차 로봇 홀로서기 성공할까",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169539",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘너네 군대가라 슛’ 이영표 해설위원 “그 친구들에게 정말 미안했다…국방부에게는 큰 일조를 했다” 웃음벨…”이민성호 AG 4연패 가능”",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/04/202609041741776634O",
-          "publishedAt": "2026-09-05T00:30:00.000Z",
+          "title": "현대모비스, 로봇 매출 최대 1.4조 기대...아틀라스 액추에이터 전량 수주 [오늘, 이 종목]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12142238",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "이민성호 ‘아시안게임 4연패 정조준’…한국 축구 명예회복 나선다",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260903580207",
-          "publishedAt": "2026-09-05T00:30:00.000Z",
+          "title": "현대모비스, 아틀라스 31개 액추에이터 전량수주…LG유플러스, 배당・자사주 매입 함께 늘린다 [株토피아]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6IGom6FYN5",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“홍명보 감독보다 더 큰 재앙 올 것 같아” 팬들 우려와 달리…이영표 해설위원 긍정적 전망 “아시안게임 4연속 금메달 딸 수 있을 것”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905061909373",
-        "publishedAt": "2026-09-05T00:30:00.000Z",
-        "relevanceScore": 3
+        "title": "현대모비스, 로봇 매출 최대 1.4조 기대...아틀라스 액추에이터 전량 수주 [오늘, 이 종목]",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12142238",
+        "publishedAt": "2026-09-05T08:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-09-05T00:30:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "이영표",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260905061909373",
-      "rank": 7
+      "publishedAt": "2026-09-05T08:50:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "오늘",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/business/12142238",
+      "rank": 1
     },
     {
-      "id": "a9f7f31a6eb09621",
-      "issueKey": "투자자에 채용",
-      "issueTitle": "투자자에 채용",
-      "trendTitle": "투자자에 채용",
+      "id": "ef0329ebe6a54a65",
+      "issueKey": "이기헌",
+      "issueTitle": "이기헌",
+      "trendTitle": "이기헌",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“혈세로 간 유학, 복귀 하루 만에 퇴직”…외교부, 유학비 환수 조치",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260905/134610500/1",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "외교관 혈세 들여 유학 보냈더니 딴길로…'모럴해저드' 논란",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905063157461",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "혈세로 하버드·스탠퍼드 보내는데… 외교관 해외연수 후 의무복무 '구멍'",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349316",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이기헌",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260905/134610500/1",
+        "publishedAt": "2026-09-05T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T08:50:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "이기헌",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Politics/article/all/20260905/134610500/1",
+      "rank": 2
+    },
+    {
+      "id": "954be2ce34d933df",
+      "issueKey": "seoul fireworks festival 2026",
+      "issueTitle": "seoul fireworks festival 2026",
+      "trendTitle": "seoul fireworks festival 2026",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Subway crowd control for fireworks fest",
+          "source": "Yonhap News Agency",
+          "url": "https://en.yna.co.kr/view/PYH20260905039100315?section=image/general",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Citizens Vie for Prime Spots at Seoul International Fireworks Festival",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/national-en/2026/09/05/MM7BBC4HVBGTTC3IJDCGVAZVXM/",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "300,000-Won Mats, 6 Million-Won Menus: Controversy Over Speculative \"Spot-Hoarding\" at Hangang Park",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008738674",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "seoul fireworks festival 2026",
+        "source": "Yonhap News Agency",
+        "url": "https://en.yna.co.kr/view/PYH20260905039100315?section=image/general",
+        "publishedAt": "2026-09-05T08:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T08:50:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "seoul fireworks festival 2026",
+      "source": "Yonhap News Agency",
+      "url": "https://en.yna.co.kr/view/PYH20260905039100315?section=image/general",
+      "rank": 3
+    },
+    {
+      "id": "a2c573175f69de3b",
+      "issueKey": "이재학",
+      "issueTitle": "이재학",
+      "trendTitle": "이재학",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "보링 컴퍼니, 최신 투자 라운드에서 기업 가치 200억 달러 달성",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/stock-market-news/article-2084987",
-          "publishedAt": "2026-09-05T00:20:00.000Z",
+          "title": "프로야구 6위 NC, 또 기적 쓰나…키움 잡고 6연승",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260904213012985",
+          "publishedAt": "2026-09-05T08:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "머스크 보링컴퍼니, 투자자에 채용·사업개발 지원 요구",
-          "source": "IT조선",
-          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169474",
-          "publishedAt": "2026-09-05T00:20:00.000Z",
+          "title": "두산 꼬리 보인다! “작년에도 어렵다고 했지만 결국…” 라일리, 8G 연속 QS→NC 340일 만의 6연승",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/202609042338776317O",
+          "publishedAt": "2026-09-05T08:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "머스크 보링컴퍼니, 투자자에 채용·사업개발까지 요구",
-          "source": "글로벌이코노믹",
-          "url": "https://www.g-enews.com/article/Global-Biz/2026/09/2026090417241716229a1f309431_1",
-          "publishedAt": "2026-09-05T00:20:00.000Z",
+          "title": "\"오랜만에 고척이라 긴장했는데…\" 친정팀 만나 더 뜨거웠다! 김휘집, 안우진 상대 2루타 '쾅'→NC 340일 만의 6연승",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/05/HAZGCNTFMQ2TMNDDME2DCOBSMI/",
+          "publishedAt": "2026-09-05T08:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "머스크 보링컴퍼니, 투자자에 채용·사업개발 지원 요구",
-        "source": "IT조선",
-        "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169474",
-        "publishedAt": "2026-09-05T00:20:00.000Z",
-        "relevanceScore": 2
+        "title": "이재학",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260904213012985",
+        "publishedAt": "2026-09-05T08:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-09-05T00:20:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "투자자에 채용",
-      "source": "IT조선",
-      "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169474",
-      "rank": 8
+      "publishedAt": "2026-09-05T08:40:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "이재학",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260904213012985",
+      "rank": 4
     },
     {
-      "id": "2e723a9794806dd8",
-      "issueKey": "산불",
-      "issueTitle": "산불",
-      "trendTitle": "산불",
+      "id": "ae34065422ff7131",
+      "issueKey": "올트먼",
+      "issueTitle": "올트먼",
+      "trendTitle": "올트먼",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "산불 현장마다 나타나…'혈세 700억 원' 빼돌렸다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xrO6UHEoUF",
-          "publishedAt": "2026-09-05T00:10:00.000Z",
+          "title": "'샘 올트먼' 오픈 AI CEO \"휴머노이드 로봇 개발하고 있다\"",
+          "source": "로봇신문",
+          "url": "https://www.irobotnews.com/news/articleView.html?idxno=48293",
+          "publishedAt": "2026-09-05T08:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "국가재정 갉아먹고 국민의 터전 복구 방치한 '메뚜기 입찰 산불 유령업체' 세무조사 실시",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/briefing/pressReleaseView.do?newsId=156780145&amp;repCode=B00004&amp;repCodeType=%EC%A0%95%EB%B6%80%EB%B6%80%EC%B2%98&amp;pWiseMinistry=ministryNews",
-          "publishedAt": "2026-09-05T00:10:00.000Z",
+          "title": "오픈AI, 챗GPT 넘어 로봇으로…휴머노이드 개발 공식화",
+          "source": "엠투데이",
+          "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=600165",
+          "publishedAt": "2026-09-05T08:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'메뚜기 입찰' 산불카르텔 10곳 세무조사",
-          "source": "YTN 사이언스",
-          "url": "https://m.science.ytn.co.kr/program/view_today.php?s_mcd=0082&amp;key=202609041102426517",
-          "publishedAt": "2026-09-05T00:10:00.000Z",
+          "title": "[빅테크칼럼] “로봇의 뇌” 넘보던 오픈AI, 이제 몸까지 만든다…샘 올트먼의 휴머노이드 승부수",
+          "source": "뉴스스페이스",
+          "url": "https://newsspace.kr/news/article.html?no=15498",
+          "publishedAt": "2026-09-05T08:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "산불 현장마다 나타나…'혈세 700억 원' 빼돌렸다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/xrO6UHEoUF",
-        "publishedAt": "2026-09-05T00:10:00.000Z",
+        "title": "'샘 올트먼' 오픈 AI CEO \"휴머노이드 로봇 개발하고 있다\"",
+        "source": "로봇신문",
+        "url": "https://www.irobotnews.com/news/articleView.html?idxno=48293",
+        "publishedAt": "2026-09-05T08:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-05T00:10:00.000Z",
-      "firstSeenAt": "2026-09-05T03:16:17.460Z",
-      "lastSeenAt": "2026-09-05T03:16:17.460Z",
-      "title": "산불",
+      "publishedAt": "2026-09-05T08:30:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "올트먼",
+      "source": "로봇신문",
+      "url": "https://www.irobotnews.com/news/articleView.html?idxno=48293",
+      "rank": 5
+    },
+    {
+      "id": "279df824c7e92ad9",
+      "issueKey": "inde navarrette",
+      "issueTitle": "inde navarrette",
+      "trendTitle": "inde navarrette",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Inde Navarrette to Star in Sci-Fi Thriller ‘The Waffle House Index’ for Apple Original Films",
+          "source": "The Hollywood Reporter",
+          "url": "https://www.hollywoodreporter.com/movies/movie-news/inde-navarrette-the-waffle-house-index-for-apple-1236689823/",
+          "publishedAt": "2026-09-05T08:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Waffle House Movie in the Works Starring X-Men’s Inde Navarrette",
+          "source": "IGN",
+          "url": "https://www.ign.com/articles/waffle-house-index-movie-inde-navarrette-x-men",
+          "publishedAt": "2026-09-05T08:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'Obsession' Breakout Inde Navarrette Finds Her Next Big Sci-fi Thriller",
+          "source": "Polygon.com",
+          "url": "https://www.polygon.com/inde-navarrette-apple-waffle-house-index/",
+          "publishedAt": "2026-09-05T08:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Inde Navarrette to Star in Sci-Fi Thriller ‘The Waffle House Index’ for Apple Original Films",
+        "source": "The Hollywood Reporter",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/inde-navarrette-the-waffle-house-index-for-apple-1236689823/",
+        "publishedAt": "2026-09-05T08:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T08:30:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "inde navarrette",
+      "source": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/movies/movie-news/inde-navarrette-the-waffle-house-index-for-apple-1236689823/",
+      "rank": 6
+    },
+    {
+      "id": "26079f5bf8d8c816",
+      "issueKey": "라이머",
+      "issueTitle": "라이머",
+      "trendTitle": "라이머",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘49살’ 라이머, 돌싱 3년만 ‘신랑수업’ 받는다..“항상 재혼 생각有” [Oh!쎈 예고]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905072712915?f=p",
+          "publishedAt": "2026-09-05T08:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "라이머, 안현모와 이혼 3년 만에 재혼 의지…\"누군가 만나는 것 기대\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-05/202609050100034510002205",
+          "publishedAt": "2026-09-05T08:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "라이머, 이혼 3년 만 재혼 기대감..\"받아들일 준비 돼\"[신랑수업][스타이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905112950849?f=p",
+          "publishedAt": "2026-09-05T08:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘49살’ 라이머, 돌싱 3년만 ‘신랑수업’ 받는다..“항상 재혼 생각有” [Oh!쎈 예고]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905072712915?f=p",
+        "publishedAt": "2026-09-05T08:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T08:10:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "라이머",
       "source": "Daum",
-      "url": "https://v.daum.net/v/xrO6UHEoUF",
+      "url": "https://v.daum.net/v/20260905072712915?f=p",
+      "rank": 7
+    },
+    {
+      "id": "51cc98aa413155d8",
+      "issueKey": "김성현",
+      "issueTitle": "김성현",
+      "trendTitle": "김성현",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘21년 원클럽맨’ 김성현, 1번 2루수 선발 출장…마지막으로 그라운드 밟는다 “후회 없다고 생각했는데…” [오!쎈 인천]",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/05/202609051518775191O",
+          "publishedAt": "2026-09-05T08:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'21년 원클럽맨' SSG 김성현, 은퇴식 특별 엔트리 등록…2루수 선발 출전",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777633",
+          "publishedAt": "2026-09-05T08:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "선수 '큐티 식스'의 마지막…\"팬 덕분에 행복하게 야구했어요\"",
+          "source": "네이트",
+          "url": "https://m.news.nate.com/view/20260905n10229?mid=s21&amp;list=recent&amp;cpcd=",
+          "publishedAt": "2026-09-05T08:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘21년 원클럽맨’ 김성현, 1번 2루수 선발 출장…마지막으로 그라운드 밟는다 “후회 없다고 생각했는데…” [오!쎈 인천]",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/sports/2026/09/05/202609051518775191O",
+        "publishedAt": "2026-09-05T08:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T08:00:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "김성현",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/sports/2026/09/05/202609051518775191O",
+      "rank": 8
+    },
+    {
+      "id": "c1d88317a5ff15d9",
+      "issueKey": "베트남 아내",
+      "issueTitle": "베트남 아내",
+      "trendTitle": "국제결혼",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"베트남 아내, 성병에 온몸 문신\"…국제결혼 90일 만에 사망한 50대 남성",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905135841343",
+          "publishedAt": "2026-09-05T07:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "베트남 아내와 결혼 90일 만에 숨진 50대…유서엔 \"너무 많이 맞아\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/04/2026090414101511209",
+          "publishedAt": "2026-09-05T07:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“베트남 아내, 문신에 성병”…국제결혼 90일 만에 숨진 50대",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/entertainment/broadcastN/2026/09/05/20260905500027",
+          "publishedAt": "2026-09-05T07:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"베트남 아내, 성병에 온몸 문신\"…국제결혼 90일 만에 사망한 50대 남성",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905135841343",
+        "publishedAt": "2026-09-05T07:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T07:50:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "베트남 아내",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260905135841343",
       "rank": 9
+    },
+    {
+      "id": "99d332cd320abaa4",
+      "issueKey": "덮쳐",
+      "issueTitle": "덮쳐",
+      "trendTitle": "열대 저기압",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "제주항서 강풍에 크레인 쓰러져 2명 덮쳐···1명 심정지",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609041727001",
+          "publishedAt": "2026-09-05T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "사망자까지 발생…제주서 이틀째 피해 속출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905163301994",
+          "publishedAt": "2026-09-05T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "태풍 ‘크로반’ 제주 덮쳤다…한라산 전면 통제·여객선 줄줄이 결항",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260904580313",
+          "publishedAt": "2026-09-05T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "제주항서 강풍에 크레인 쓰러져 2명 덮쳐···1명 심정지",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609041727001",
+        "publishedAt": "2026-09-05T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T07:40:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "덮쳐",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202609041727001",
+      "rank": 10
     }
   ],
   "history": [
+    {
+      "id": "c1d88317a5ff15d9",
+      "issueKey": "베트남 아내",
+      "issueTitle": "베트남 아내",
+      "trendTitle": "국제결혼",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"베트남 아내, 성병에 온몸 문신\"…국제결혼 90일 만에 사망한 50대 남성",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905135841343",
+          "publishedAt": "2026-09-05T07:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "베트남 아내와 결혼 90일 만에 숨진 50대…유서엔 \"너무 많이 맞아\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/04/2026090414101511209",
+          "publishedAt": "2026-09-05T07:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“베트남 아내, 문신에 성병”…국제결혼 90일 만에 숨진 50대",
+          "source": "서울신문",
+          "url": "https://www.seoul.co.kr/news/entertainment/broadcastN/2026/09/05/20260905500027",
+          "publishedAt": "2026-09-05T07:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"베트남 아내, 성병에 온몸 문신\"…국제결혼 90일 만에 사망한 50대 남성",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905135841343",
+        "publishedAt": "2026-09-05T07:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T07:50:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "베트남 아내",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260905135841343"
+    },
     {
       "id": "d343231110081b06",
       "issueKey": "홍명보",
@@ -806,50 +899,96 @@
       "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages"
     },
     {
-      "id": "79522fedfa95b2ed",
-      "issueKey": "예금",
-      "issueTitle": "예금",
-      "trendTitle": "예금",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "ef0329ebe6a54a65",
+      "issueKey": "이기헌",
+      "issueTitle": "이기헌",
+      "trendTitle": "이기헌",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[단독] “세금 아끼려고”…‘차명예금’ 110억 든 새마을금고 이사장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260902214350497",
-          "publishedAt": "2026-09-03T02:10:00.000Z",
+          "title": "“혈세로 간 유학, 복귀 하루 만에 퇴직”…외교부, 유학비 환수 조치",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260905/134610500/1",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[단독] “별장 잡초 뽑아라”…갑질 폭로에는 ‘판단 잘해라’ 협박",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8653302",
-          "publishedAt": "2026-09-03T02:10:00.000Z",
+          "title": "외교관 혈세 들여 유학 보냈더니 딴길로…'모럴해저드' 논란",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905063157461",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "110억 차명 예금 만든 새마을금고 이사장 수사",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20086544",
-          "publishedAt": "2026-09-03T02:10:00.000Z",
+          "title": "혈세로 하버드·스탠퍼드 보내는데… 외교관 해외연수 후 의무복무 '구멍'",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=349316",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[단독] “세금 아끼려고”…‘차명예금’ 110억 든 새마을금고 이사장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260902214350497",
-        "publishedAt": "2026-09-03T02:10:00.000Z",
+        "title": "이기헌",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Politics/article/all/20260905/134610500/1",
+        "publishedAt": "2026-09-05T08:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-03T02:10:00.000Z",
-      "firstSeenAt": "2026-09-03T03:16:39.481Z",
-      "lastSeenAt": "2026-09-03T03:16:39.481Z",
-      "title": "예금",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260902214350497"
+      "publishedAt": "2026-09-05T08:50:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "이기헌",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Politics/article/all/20260905/134610500/1"
+    },
+    {
+      "id": "99d332cd320abaa4",
+      "issueKey": "덮쳐",
+      "issueTitle": "덮쳐",
+      "trendTitle": "열대 저기압",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "제주항서 강풍에 크레인 쓰러져 2명 덮쳐···1명 심정지",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609041727001",
+          "publishedAt": "2026-09-05T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "사망자까지 발생…제주서 이틀째 피해 속출",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905163301994",
+          "publishedAt": "2026-09-05T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "태풍 ‘크로반’ 제주 덮쳤다…한라산 전면 통제·여객선 줄줄이 결항",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20260904580313",
+          "publishedAt": "2026-09-05T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "제주항서 강풍에 크레인 쓰러져 2명 덮쳐···1명 심정지",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609041727001",
+        "publishedAt": "2026-09-05T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T07:40:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "덮쳐",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202609041727001"
     },
     {
       "id": "f71008f41865d0eb",
@@ -1496,98 +1635,6 @@
       "url": "https://v.daum.net/v/WmKrjFLxZW"
     },
     {
-      "id": "0776f31eb7c9a9d3",
-      "issueKey": "천위페이",
-      "issueTitle": "천위페이",
-      "trendTitle": "김가은",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"안세영에 도전장\" 中 걱정, 천위페이·한웨도 없는데... 유망주가 '세계 1위 여제'와 붙는다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260903065609000",
-          "publishedAt": "2026-09-03T02:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘안세영 한판 붙자!’ 중국의 마지막 자존심 왕즈이, 38분 만에 2-0 셧아웃 승리...16강 진출",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/02/MY3DOOBUGRRTMMJXMNTDIMBQMM/",
-          "publishedAt": "2026-09-03T02:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "안세영, 린샹티 꺾고 16강 안착",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260902_0002227618",
-          "publishedAt": "2026-09-03T02:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"안세영에 도전장\" 中 걱정, 천위페이·한웨도 없는데... 유망주가 '세계 1위 여제'와 붙는다",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260903065609000",
-        "publishedAt": "2026-09-03T02:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-03T02:10:00.000Z",
-      "firstSeenAt": "2026-09-03T03:16:39.481Z",
-      "lastSeenAt": "2026-09-03T03:16:39.481Z",
-      "title": "천위페이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260903065609000"
-    },
-    {
-      "id": "bc7eb69d72c08d65",
-      "issueKey": "강풍",
-      "issueTitle": "강풍",
-      "trendTitle": "강풍",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한풀 꺾인 늦더위…24호 태풍 ’크로반’ 영향은?",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260903052104YV2",
-          "publishedAt": "2026-09-03T00:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "오키나와까지 북상한 태풍 '크로반' 이례적 진로…한반도 영향은?",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260903n15949",
-          "publishedAt": "2026-09-03T00:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"태풍의 길 열릴 수도\"...가을 태풍 안심 못 해 [자막뉴스]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202609031006464700",
-          "publishedAt": "2026-09-03T00:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "강풍",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20260903052104YV2",
-        "publishedAt": "2026-09-03T00:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-03T00:50:00.000Z",
-      "firstSeenAt": "2026-09-03T03:16:39.481Z",
-      "lastSeenAt": "2026-09-03T03:16:39.481Z",
-      "title": "강풍",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20260903052104YV2"
-    },
-    {
       "id": "d843344e916dcf01",
       "issueKey": "권은비",
       "issueTitle": "권은비",
@@ -1653,6 +1700,52 @@
       "title": "권은비",
       "source": "YTN",
       "url": "https://www.ytn.co.kr/_sn/0117_202609030700021003"
+    },
+    {
+      "id": "3bc6235e1d18162f",
+      "issueKey": "오늘",
+      "issueTitle": "오늘",
+      "trendTitle": "오늘",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“보스턴다이내믹스 몸값 45조 vs 적자 2조”… 현대차 로봇 홀로서기 성공할까",
+          "source": "IT조선",
+          "url": "https://it.chosun.com/news/articleView.html?idxno=2023092169539",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "현대모비스, 로봇 매출 최대 1.4조 기대...아틀라스 액추에이터 전량 수주 [오늘, 이 종목]",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/business/12142238",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "현대모비스, 아틀라스 31개 액추에이터 전량수주…LG유플러스, 배당・자사주 매입 함께 늘린다 [株토피아]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/6IGom6FYN5",
+          "publishedAt": "2026-09-05T08:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "현대모비스, 로봇 매출 최대 1.4조 기대...아틀라스 액추에이터 전량 수주 [오늘, 이 종목]",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/business/12142238",
+        "publishedAt": "2026-09-05T08:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-05T08:50:00.000Z",
+      "firstSeenAt": "2026-09-05T10:02:35.356Z",
+      "lastSeenAt": "2026-09-05T10:02:35.356Z",
+      "title": "오늘",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/business/12142238"
     },
     {
       "id": "3985b6b63d34eb1d",
@@ -2251,52 +2344,6 @@
       "title": "멸종",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260903210609683"
-    },
-    {
-      "id": "9630c6227715da13",
-      "issueKey": "은행",
-      "issueTitle": "은행",
-      "trendTitle": "은행",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "국민은행, 경영진 대상 '생성형 AI 실습 교육' 실시…이환주 행장 참여",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/09/03/2026090311081094352",
-          "publishedAt": "2026-09-03T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“여행 간다” 하니 환전·보험 ‘뚝딱’…KB가 찾은 미래금융 아이디어",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20086410",
-          "publishedAt": "2026-09-03T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이환주 행장, AI로 사업계획 세워…KB국민은행, 경영진 'AI 실습' 교육",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260903_0003775248",
-          "publishedAt": "2026-09-03T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "국민은행, 경영진 대상 '생성형 AI 실습 교육' 실시…이환주 행장 참여",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/finance/2026/09/03/2026090311081094352",
-        "publishedAt": "2026-09-03T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-03T14:30:00.000Z",
-      "firstSeenAt": "2026-09-03T15:54:02.323Z",
-      "lastSeenAt": "2026-09-03T15:54:02.323Z",
-      "title": "은행",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/finance/2026/09/03/2026090311081094352"
     }
   ]
 }
