@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-05T19:59:38.048Z",
+  "lastUpdatedAt": "2026-09-05T22:40:00.740Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -60,27 +60,27 @@
         {
           "title": "젠지전 패배 윤성영 감독 \"나서스 밴픽 미스... 생각보다 더 좋지 못했다\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=320478",
-          "meta": "리그 오브 레전드 · 5시간 전"
+          "meta": "리그 오브 레전드 · 10시간 전"
         },
         {
           "title": "월드 거래소로 구도 개편! 9/5(토) 신 선출 결과",
           "url": "https://www.inven.co.kr/webzine/news/?news=320477",
-          "meta": "솔: 인챈트 · 5시간 전"
+          "meta": "솔: 인챈트 · 11시간 전"
         },
         {
           "title": "후반에도 떨어지지 않았던 젠지의 집중력.. 2:1 매치 포인트",
           "url": "https://www.inven.co.kr/webzine/news/?news=320475",
-          "meta": "리그 오브 레전드 · 6시간 전"
+          "meta": "리그 오브 레전드 · 12시간 전"
         },
         {
           "title": "젠지, 45분 혈투 끝에 승리하며 1:1 동점",
           "url": "https://www.inven.co.kr/webzine/news/?news=320474",
-          "meta": "리그 오브 레전드 · 7시간 전"
+          "meta": "리그 오브 레전드 · 13시간 전"
         },
         {
           "title": "'제우스' 제이스 맹활약... 한화생명, 젠지에 1:0 리드",
           "url": "https://www.inven.co.kr/webzine/news/?news=320473",
-          "meta": "리그 오브 레전드 · 8시간 전"
+          "meta": "리그 오브 레전드 · 14시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
