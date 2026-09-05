@@ -7,11 +7,58 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-05T17:10:26.179Z",
+  "lastUpdatedAt": "2026-09-05T19:59:38.048Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "0573037165df9cf5",
+      "issueKey": "석유",
+      "issueTitle": "석유",
+      "trendTitle": "석유",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이란 “미군, 이란 유조선 공격”…원유 수출 하르그섬 인근 폭발음",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/international_general/1276397.html",
+          "publishedAt": "2026-09-05T16:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "미군 \"이란 유조선 3척 보복 타격\"…이란 \"불법 전쟁범죄\"(종합3보)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260906_0003777798",
+          "publishedAt": "2026-09-05T16:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "미군 \"미 군함 겨냥 미사일 발사 대응해 이란 유조선 3척 타격\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202609060016327657",
+          "publishedAt": "2026-09-05T16:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "석유",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/international/international_general/1276397.html",
+        "publishedAt": "2026-09-05T16:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T16:40:00.000Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
+      "title": "석유",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/international/international_general/1276397.html",
+      "rank": 1
+    },
     {
       "id": "a49f60628de93e45",
       "issueKey": "김민재",
@@ -52,20 +99,20 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-09-05T15:50:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
       "title": "김민재",
       "source": "Daum",
       "url": "https://v.daum.net/v/3HZQKXDgCb",
-      "rank": 1
+      "rank": 2
     },
     {
       "id": "c1d8da88be004cdf",
       "issueKey": "경기 예측",
       "issueTitle": "경기 예측",
       "trendTitle": "경기 예측",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -77,16 +124,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "분데스리가 샬케 04 대 바이에른 뮌헨 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-schalke-04-vs-bayern-munich-tai-bundesliga-1761700.ldo",
+          "title": "‘역대급 실책’ 골키퍼는 잊어라! 케인 슛 선방하며 MOM 선정, 카리우스 감동적인 빅리그 복귀전",
+          "source": "풋볼리스트",
+          "url": "http://www.footballist.co.kr/news/articleView.html?idxno=214419",
           "publishedAt": "2026-09-05T15:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "샬케 대 바이에른 뮌헨 경기 예측, 9월 5일 23시 30분: 홈팀을 완파할 것.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-vs-bayern-munich-23h30-ngay-5-9-vui-dap-chu-nha",
+          "title": "분데스리가 샬케 04 대 바이에른 뮌헨 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-schalke-04-vs-bayern-munich-tai-bundesliga-1761700.ldo",
           "publishedAt": "2026-09-05T15:30:00.000Z",
           "relevanceScore": 1
         }
@@ -99,12 +146,59 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-09-05T15:30:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
       "title": "경기 예측",
       "source": "Vietnam.vn",
       "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao",
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "id": "2846ab19fed57285",
+      "issueKey": "이강인",
+      "issueTitle": "이강인",
+      "trendTitle": "이강인",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'통한의 골대 강타' 이강인, 58분 만에 OUT... '와르르' 아틀레티코, 0",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090521365778909",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'이강인이 잘하고 있는데 변화 줄 필요는 없다'…아틀레티코 마드리드, 선발 명단 고정 추측",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905150327997?f=p",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+        "publishedAt": "2026-09-05T15:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T15:30:00.000Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
+      "title": "이강인",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+      "rank": 4
     },
     {
       "id": "3f524cdc07a11d7c",
@@ -124,16 +218,16 @@
           "relevanceScore": 3
         },
         {
-          "title": "F1 Italian GP LIVE: Final Practice and Qualifying updates, results, stream, highlights from Formula 1 race weekend at Monza",
-          "source": "Sky Sports",
-          "url": "https://www.skysports.com/f1/live-blog/12433/13581626/f1-italian-gp-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-at-monza",
+          "title": "F1 qualifying LIVE: Reaction as Pierre Gasly takes Italian Grand Prix pole",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/formula1/live/c8ejw95jj4rt",
           "publishedAt": "2026-09-05T15:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "F1 qualifying LIVE: Reaction as Pierre Gasly takes Italian Grand Prix pole",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/formula1/live/c8ejw95jj4rt",
+          "title": "Colapinto on Alpine's historic Monza qualy: 'Happy, but more was on'",
+          "source": "OneFootball",
+          "url": "https://onefootball.com/en/news/colapinto-on-alpines-historic-monza-qualy-happy-but-more-was-on-43408361",
           "publishedAt": "2026-09-05T15:10:00.000Z",
           "relevanceScore": 1
         }
@@ -146,105 +240,11 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-09-05T15:10:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
       "title": "f1",
       "source": "Formula 1",
       "url": "https://www.formula1.com/en/latest/article/gasly-charges-to-sensational-maiden-f1-pole-at-monza-over-russell-and-piastri.4CKkkbvgmqL04ijMNBfuXF",
-      "rank": 3
-    },
-    {
-      "id": "1a3e9f249b666362",
-      "issueKey": "agi",
-      "issueTitle": "agi",
-      "trendTitle": "agi",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "OpenAI Unveils Astra AI With Evasion Capabilities",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/english/industry-en/2026/09/05/5PK67HFKHVB3NLAP46JIYLNMOY/",
-          "publishedAt": "2026-09-05T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"Welcome to the AGI Era\"—OpenAI's New Model Surpasses Claude in Coding",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/business/12144767",
-          "publishedAt": "2026-09-05T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"Strengths in Advanced Reasoning and Mathematics\" GPT-6 Astra Performance Reviewed... Price Also Up 2.5 Times",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/en/article/2026090415280432886",
-          "publishedAt": "2026-09-05T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"Welcome to the AGI Era\"—OpenAI's New Model Surpasses Claude in Coding",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/en/business/12144767",
-        "publishedAt": "2026-09-05T15:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-05T15:10:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
-      "title": "agi",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/en/business/12144767",
-      "rank": 4
-    },
-    {
-      "id": "d908c891db2bd869",
-      "issueKey": "토트넘 노팅엄",
-      "issueTitle": "토트넘 노팅엄",
-      "trendTitle": "토트넘 노팅엄",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "5500억 썼지만 달라진 게 없다…토트넘이 못산 '위닝 멘털리티'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/WTxuKnb01x",
-          "publishedAt": "2026-09-05T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "英 BBC 일침! ‘5500억 사용→꼴찌’ 토트넘에 ‘촌철살인’···“위닝 멘탈리티는 돈만 주고 얻을 수 없다”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609040707003",
-          "publishedAt": "2026-09-05T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[PL REVIEW] '또 무득점' 토트넘 답이 안 보인다…'무드리크 데뷔전'→졸전 끝 노팅엄과 0-0 무, 리그 3경기 1무 2패",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260906n00326",
-          "publishedAt": "2026-09-05T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "토트넘 노팅엄",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/WTxuKnb01x",
-        "publishedAt": "2026-09-05T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-05T14:30:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
-      "title": "토트넘 노팅엄",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/WTxuKnb01x",
       "rank": 5
     },
     {
@@ -287,8 +287,8 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-09-05T14:30:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
       "title": "선발 제외",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260905143207699",
@@ -305,40 +305,40 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still winless",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt",
+          "title": "Tottenham's £370M Squad Draws 0-0, Three Straight Blanked Matches",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/06/NTQL55IRDNCJTECQVFO6RGX6EM/",
           "publishedAt": "2026-09-05T14:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Forest host Spurs, Mudryk on bench as Delap handed first start",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/id/berita/forest-host-spurs-mudryk-on-bench-as-delap-handed-first-start-43406686",
+          "title": "Nottingham Forest 0-0 Tottenham: Scrappy draw leaves both sides still winless",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt",
           "publishedAt": "2026-09-05T14:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/nottingham-forest-vs-tottenham-hotspur-123000155.html",
+          "title": "Big-spending Spurs must make better attacking decisions, says De Zerbi",
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260905-big-spending-spurs-must-make-better-attacking-decisions-says-de-zerbi",
           "publishedAt": "2026-09-05T14:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "nottm forest vs spurs",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/english/sports-en/2026/09/06/NTQL55IRDNCJTECQVFO6RGX6EM/",
         "publishedAt": "2026-09-05T14:20:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-09-05T14:20:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
       "title": "nottm forest vs spurs",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/c50m31j84m8xt",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/english/sports-en/2026/09/06/NTQL55IRDNCJTECQVFO6RGX6EM/",
       "rank": 7
     },
     {
@@ -352,40 +352,40 @@
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "¿Juega Julián Álvarez hoy con el Atlético de Madrid vs Athletic Club en LaLiga?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/futbol/juega-julian-alvarez-hoy-con-el-atletico-de-madrid-vs-athletic-club-en-laliga",
+          "title": "'Golazo que golpeó el poste' Lee Kang-in, fuera a los 58 minutos... 'Colapso' del Atlético, 0-2 'Consecutivos goles en contra'",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/es/sports/2026/09/06/2026090521365778909",
           "publishedAt": "2026-09-05T14:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Nico Williams entra por Berenguer y Simeone repite el once, con Julián Álvarez suplente",
+          "title": "Diego Simeone, tras la derrota del Atlético ante Athletic: “Estamos en construcción»",
           "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/nico-williams-entra-berenguer-simeone-142101863.html",
+          "url": "https://es-us.noticias.yahoo.com/deportes/diego-simeone-derrota-atl%C3%A9tico-athletic-184500521.html",
           "publishedAt": "2026-09-05T14:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "El Atlético paga cara la falta de efectividad en San Mamés",
-          "source": "VAVEL.com",
-          "url": "https://www.vavel.com/es/futbol/2026/09/05/atletico-de-madrid/1270264-cronica-athletic-atletico.html",
+          "title": "Robert Navarro: \"Hemos arrancado la 2ª parte de forma espectacular\"",
+          "source": "kirolakeitb.eus",
+          "url": "https://kirolakeitb.eus/es/futbol/equipos/athletic-club/2026/09/05/robert-navarro-declaraciones-victoria-athletic-atletico-madrid-san-mames-laliga/",
           "publishedAt": "2026-09-05T14:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
         "title": "athletic vs atlético madrid",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/es-us/futbol/juega-julian-alvarez-hoy-con-el-atletico-de-madrid-vs-athletic-club-en-laliga",
+        "source": "스타뉴스",
+        "url": "https://www.starnewskorea.com/es/sports/2026/09/06/2026090521365778909",
         "publishedAt": "2026-09-05T14:00:00.000Z",
         "relevanceScore": 3
       },
       "publishedAt": "2026-09-05T14:00:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
       "title": "athletic vs atlético madrid",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/es-us/futbol/juega-julian-alvarez-hoy-con-el-atletico-de-madrid-vs-athletic-club-en-laliga",
+      "source": "스타뉴스",
+      "url": "https://www.starnewskorea.com/es/sports/2026/09/06/2026090521365778909",
       "rank": 8
     },
     {
@@ -393,8 +393,8 @@
       "issueKey": "판매점은 어디",
       "issueTitle": "판매점은 어디",
       "trendTitle": "판매점은 어디",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -413,9 +413,9 @@
           "relevanceScore": 2
         },
         {
-          "title": "로또 1등 당첨자 16명 17.9억씩 받는다…전국 명당 판매처 보니",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12145165",
+          "title": "로또 1등 당첨금 18억씩 받는다…명당 판매점 16곳은 어디",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20087529",
           "publishedAt": "2026-09-05T13:30:00.000Z",
           "relevanceScore": 1
         }
@@ -428,59 +428,12 @@
         "relevanceScore": 2
       },
       "publishedAt": "2026-09-05T13:30:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
+      "firstSeenAt": "2026-09-05T19:59:38.048Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
       "title": "판매점은 어디",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260905204720260",
       "rank": 9
-    },
-    {
-      "id": "e7c3a1919b76bb5d",
-      "issueKey": "man city vs coventry",
-      "issueTitle": "man city vs coventry",
-      "trendTitle": "man city vs coventry",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Manchester City vs Coventry City: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c6dj4d7xzjzkt",
-          "publishedAt": "2026-09-05T13:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Haaland scores again as Man City maintains perfect start to the Premier League season",
-          "source": "iNFOnews.ca",
-          "url": "https://infonews.ca/news/7861326/haaland-scores-again-as-man-city-maintains-perfect-start-to-the-premier-league-season/",
-          "publishedAt": "2026-09-05T13:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Hull City vs Aston Villa Premier League: How to watch and live stream for FREE and without cable",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/watch-live-stream-hull-city-aston-villa-free/blt8bbc1ebef60f29e9",
-          "publishedAt": "2026-09-05T13:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "man city vs coventry",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c6dj4d7xzjzkt",
-        "publishedAt": "2026-09-05T13:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-05T13:30:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
-      "title": "man city vs coventry",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/c6dj4d7xzjzkt",
-      "rank": 10
     }
   ],
   "history": [
@@ -630,14 +583,28 @@
       "approxTraffic": "10000+",
       "trafficScore": 10000,
       "relevanceScore": 3,
-      "articleCount": 3,
+      "articleCount": 6,
       "relatedArticles": [
+        {
+          "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 3
+        },
         {
           "title": "이강인, 빌바오전 선발 출격…'연속 공격포인트' 정조준",
           "source": "뉴시스",
           "url": "https://www.newsis.com/view/NISX20260905_0003777760",
           "publishedAt": "2026-09-05T13:20:00.000Z",
           "relevanceScore": 3
+        },
+        {
+          "title": "'통한의 골대 강타' 이강인, 58분 만에 OUT... '와르르' 아틀레티코, 0",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/09/06/2026090521365778909",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 2
         },
         {
           "title": "'벌써 1골 1도움' 이강인, 3경기 연속 선발 출격 확정... 아틀레티코",
@@ -652,21 +619,81 @@
           "url": "https://www.osen.co.kr/article/G1112870274",
           "publishedAt": "2026-09-05T13:20:00.000Z",
           "relevanceScore": 1
+        },
+        {
+          "title": "'이강인이 잘하고 있는데 변화 줄 필요는 없다'…아틀레티코 마드리드, 선발 명단 고정 추측",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905150327997?f=p",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "이강인, 빌바오전 선발 출격…'연속 공격포인트' 정조준",
+        "title": "'이강인 골대·59분 출전' 아틀레티코, 빌바오 원정서 시즌 첫 패배",
         "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260905_0003777760",
-        "publishedAt": "2026-09-05T13:20:00.000Z",
+        "url": "https://www.newsis.com/view/NISX20260905_0003777771",
+        "publishedAt": "2026-09-05T15:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-05T13:20:00.000Z",
+      "publishedAt": "2026-09-05T15:30:00.000Z",
       "firstSeenAt": "2026-09-05T14:42:18.493Z",
-      "lastSeenAt": "2026-09-05T14:42:18.493Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
       "title": "이강인",
       "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260905_0003777760"
+      "url": "https://www.newsis.com/view/NISX20260905_0003777771"
+    },
+    {
+      "id": "c1d8da88be004cdf",
+      "issueKey": "경기 예측",
+      "issueTitle": "경기 예측",
+      "trendTitle": "경기 예측",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
+      "relevanceScore": 3,
+      "articleCount": 4,
+      "relatedArticles": [
+        {
+          "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘역대급 실책’ 골키퍼는 잊어라! 케인 슛 선방하며 MOM 선정, 카리우스 감동적인 빅리그 복귀전",
+          "source": "풋볼리스트",
+          "url": "http://www.footballist.co.kr/news/articleView.html?idxno=214419",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "분데스리가 샬케 04 대 바이에른 뮌헨 경기 예측",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-schalke-04-vs-bayern-munich-tai-bundesliga-1761700.ldo",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "샬케 대 바이에른 뮌헨 경기 예측, 9월 5일 23시 30분: 홈팀을 완파할 것.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-vs-bayern-munich-23h30-ngay-5-9-vui-dap-chu-nha",
+          "publishedAt": "2026-09-05T15:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao",
+        "publishedAt": "2026-09-05T15:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-05T15:30:00.000Z",
+      "firstSeenAt": "2026-09-05T17:10:26.179Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
+      "title": "경기 예측",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao"
     },
     {
       "id": "9af85d04dc734391",
@@ -853,52 +880,6 @@
       "url": "https://arcprize.org/blog/astra"
     },
     {
-      "id": "c1d8da88be004cdf",
-      "issueKey": "경기 예측",
-      "issueTitle": "경기 예측",
-      "trendTitle": "경기 예측",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao",
-          "publishedAt": "2026-09-05T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "분데스리가 샬케 04 대 바이에른 뮌헨 경기 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/nhan-dinh-schalke-04-vs-bayern-munich-tai-bundesliga-1761700.ldo",
-          "publishedAt": "2026-09-05T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "샬케 대 바이에른 뮌헨 경기 예측, 9월 5일 23시 30분: 홈팀을 완파할 것.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-schalke-vs-bayern-munich-23h30-ngay-5-9-vui-dap-chu-nha",
-          "publishedAt": "2026-09-05T15:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "FC 샬케 04 vs 바이에른 뮌헨 경기 예측: 원정팀이 연승 행진을 이어갈 수 있을까요?",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao",
-        "publishedAt": "2026-09-05T15:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-05T15:30:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
-      "title": "경기 예측",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-fc-schalke-04-vs-bayern-munchen-khach-tiep-tuc-bay-cao"
-    },
-    {
       "id": "ed516472c780e239",
       "issueKey": "공무원 아빠",
       "issueTitle": "공무원 아빠",
@@ -989,6 +970,59 @@
       "title": "chatgpt",
       "source": "Axios",
       "url": "https://www.axios.com/2026/09/03/chatgpt-claude-grok-outages"
+    },
+    {
+      "id": "f3102a38497af300",
+      "issueKey": "판매점은 어디",
+      "issueTitle": "판매점은 어디",
+      "trendTitle": "판매점은 어디",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 4,
+      "relatedArticles": [
+        {
+          "title": "로또 1240회 1등 16명···각 17억9000만원씩",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609052112001",
+          "publishedAt": "2026-09-05T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이번 주 로또 1등 16명…당첨번호와 판매점은 어디?",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260905204720260",
+          "publishedAt": "2026-09-05T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "로또 1등 당첨자 16명 17.9억씩 받는다…전국 명당 판매처 보니",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/society/12145165",
+          "publishedAt": "2026-09-05T13:30:00.000Z",
+          "relevanceScore": 1
+        },
+        {
+          "title": "로또 1등 당첨금 18억씩 받는다…명당 판매점 16곳은 어디",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20087529",
+          "publishedAt": "2026-09-05T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이번 주 로또 1등 16명…당첨번호와 판매점은 어디?",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260905204720260",
+        "publishedAt": "2026-09-05T13:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-05T13:30:00.000Z",
+      "firstSeenAt": "2026-09-05T17:10:26.179Z",
+      "lastSeenAt": "2026-09-05T19:59:38.048Z",
+      "title": "판매점은 어디",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260905204720260"
     },
     {
       "id": "c77f6270fec5d747",
@@ -1746,52 +1780,6 @@
       "title": "권은비",
       "source": "YTN",
       "url": "https://www.ytn.co.kr/_sn/0117_202609030700021003"
-    },
-    {
-      "id": "f3102a38497af300",
-      "issueKey": "판매점은 어디",
-      "issueTitle": "판매점은 어디",
-      "trendTitle": "판매점은 어디",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "로또 1240회 1등 16명···각 17억9000만원씩",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609052112001",
-          "publishedAt": "2026-09-05T13:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이번 주 로또 1등 16명…당첨번호와 판매점은 어디?",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260905204720260",
-          "publishedAt": "2026-09-05T13:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "로또 1등 당첨자 16명 17.9억씩 받는다…전국 명당 판매처 보니",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12145165",
-          "publishedAt": "2026-09-05T13:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이번 주 로또 1등 16명…당첨번호와 판매점은 어디?",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260905204720260",
-        "publishedAt": "2026-09-05T13:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-05T13:30:00.000Z",
-      "firstSeenAt": "2026-09-05T17:10:26.179Z",
-      "lastSeenAt": "2026-09-05T17:10:26.179Z",
-      "title": "판매점은 어디",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260905204720260"
     },
     {
       "id": "011ffc3b8ade2b6c",
