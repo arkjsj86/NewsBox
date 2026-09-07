@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-06T22:43:39.973Z",
+  "lastUpdatedAt": "2026-09-07T03:14:07.959Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,12 +28,12 @@
         {
           "title": "9월에 출시되는 PC·모바일 게임 목록",
           "url": "https://bbs.ruliweb.com/news/read/228790",
-          "meta": "댓글 23"
+          "meta": "댓글 24"
         },
         {
           "title": "㈜엔씨 퍼플, ‘창세기전 외전: 서풍의 광시곡 리마스터’ 5일(토) 입점",
           "url": "https://bbs.ruliweb.com/news/read/229010",
-          "meta": "댓글 59"
+          "meta": "댓글 60"
         },
         {
           "title": "엔비디아, ‘DLSS 5’ 9월 4일 출시... ‘NBA 2K27’에서 첫 선",
@@ -46,9 +46,9 @@
           "meta": "댓글 5"
         },
         {
-          "title": "에이수스 코리아, 오늘(1일) 현대백화점 판교점서 ‘ROG 브랜드 런칭 20주년 기념 팝업’ 개최",
-          "url": "https://bbs.ruliweb.com/news/read/228800",
-          "meta": "댓글 5"
+          "title": "스마일게이트 ‘이클립스: 더 어웨이크닝’ 론칭 프리뷰 라이브 방송 정보",
+          "url": "https://bbs.ruliweb.com/news/read/229025",
+          "meta": "댓글 3"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "발라카스 반왕 진압! 새로운 구도, 12차 공성전 주요 이슈",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320494",
-          "meta": "리니지 클래식 · 4분 전"
+          "title": "야외에서 더욱 강력하게! JBL, 블루투스 스피커 Xtreme 5 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320514",
+          "meta": "4분 전"
         },
         {
-          "title": "T1 임재현 대행 \"평소와 다른 패턴으로 승리 고무적\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320492",
-          "meta": "리그 오브 레전드 · 3시간 전"
+          "title": "'마블 울버린' 팝업 '더 클로' 11일 홍대 오픈",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320513",
+          "meta": "마블 울버린 · 7분 전"
         },
         {
-          "title": "증명한 '페이커'의 로크, T1 매치포인트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320487",
-          "meta": "리그 오브 레전드 · 4시간 전"
+          "title": "넥슨 '메이플 어택! 위드 롯데', 올해의 브랜드 대상 수상",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320510",
+          "meta": "메이플스토리 · 39분 전"
         },
         {
-          "title": "디플러스 기아, 대역전으로 승부 원점",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320486",
-          "meta": "리그 오브 레전드 · 5시간 전"
+          "title": "'삼국지 전략판', 글로벌 시나리오 '병연춘추' 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320509",
+          "meta": "삼국지 전략판 · 39분 전"
         },
         {
-          "title": "T1, 영혼 걸린 한타 승리로 1세트 선취",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320485",
-          "meta": "리그 오브 레전드 · 6시간 전"
+          "title": "'아키에이지 S: 자유의 해협' BI·키비주얼 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320508",
+          "meta": "아키에이지 S: 자유의 해협 · 39분 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }

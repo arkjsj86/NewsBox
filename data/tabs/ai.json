@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-06T22:43:39.973Z",
-  "articleCount": 17,
+  "lastUpdatedAt": "2026-09-07T03:14:07.959Z",
+  "articleCount": 16,
   "articles": [
+    {
+      "id": "00ce722c534e8754",
+      "title": "AI 3사 동시 다운, 기업 재해복구 계획의 사각지대 드러나",
+      "url": "https://www.itworld.co.kr/article/4218981/ai-3%ec%82%ac-%eb%8f%99%ec%8b%9c-%eb%8b%a4%ec%9a%b4-%ea%b8%b0%ec%97%85-%ec%9e%ac%ed%95%b4%eb%b3%b5%ea%b5%ac-%ea%b3%84%ed%9a%8d%ec%9d%98-%ec%82%ac%ea%b0%81%ec%a7%80%eb%8c%80-%eb%93%9c%eb%9f%ac.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-07T01:10:02.000Z",
+      "summary": "AI 시대를 맞은 기업이 불안한 새 질문에 직면했다. AI 에이전트가 갑자기 작동을 멈추면 어떻게 될까? 목요일, 오픈AI의 챗GPT, 앤트로픽의 클로드, 스페이스XAI의 그록이 거의 동시에, 다소 의문스러운 방식으로 장시간 대규모 서비스 장애를 일으키면서 가상의 시나리오가 현실이 됐다. 미국 동부시간 오전부터 시작해 챗GPT 일부 모델은 약 2시간, 클로드 모델은 약 4시간, 그록 모...",
+      "tab": "ai"
+    },
+    {
+      "id": "4c47a6cbf41c7cd3",
+      "title": "엔비디아의 허깅페이스 인수, 기업 AI 전략 재편 신호탄",
+      "url": "https://www.itworld.co.kr/article/4218969/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b8%ec%88%98-%ea%b8%b0%ec%97%85-ai-%ec%a0%84%eb%9e%b5-%ec%9e%ac%ed%8e%b8-%ec%8b%a0%ed%98%b8%ed%83%84.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-07T00:51:20.000Z",
+      "summary": "IT 업계 전문가와 애널리스트는 엔비디아가 오픈소스 AI 기업 허깅페이스(Hugging Face)를 129억 달러에 인수하겠다는 깜짝 계획을 아직도 파악하는 중이다. 엔비디아는 GPU로 AI 시장을 주도하며, 빠르게 진화하는 기술에 대한 독자적인 접근 방식으로 수십억 달러의 수익을 창출하고 있다. 반면 허깅페이스는 오픈 모델을 호스팅하며 칩 업체와 모델 랩 사이에서 중립적인 역할을 해왔...",
+      "tab": "ai"
+    },
     {
       "id": "ddc84615f4a14f96",
       "title": "텐센트, 초대형 AI 오픈소스 모델 ‘혼원 Hy4’ 공개",
@@ -131,33 +149,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-08-31T01:39:38.000Z",
       "summary": "1987년, 노벨 경제학상 수상자 로버트 솔로는 ” “컴퓨터 혁명은 세상 모든 곳에 왔다. 생산성 통계만 빼고”라고 말한 바 있다. 오늘날 AI에 대해서도 같은 말을 할 수 있다. 가트너는 2026년 전 세계 AI 지출이 2조 5,900억 달러에 달할 것으로 전망했다 . 전년 대비 47% 급증한 규모로, 다양한 추산에 따르면 미국이 그중 최소 절반을 차지할 것으로 보인다. 하지만 미국에...",
-      "tab": "ai"
-    },
-    {
-      "id": "79d9aabb9e4d325d",
-      "title": "데모는 성공하는데 운영은 왜 무너지나…AI 프로젝트가 반복 실패하는 이유",
-      "url": "https://www.itworld.co.kr/article/4215570/%eb%8d%b0%eb%aa%a8%eb%8a%94-%ec%84%b1%ea%b3%b5%ed%95%98%eb%8a%94%eb%8d%b0-%ec%9a%b4%ec%98%81%ec%9d%80-%ec%99%9c-%eb%ac%b4%eb%84%88%ec%a7%80%eb%82%98-ai-%ed%94%84%eb%a1%9c%ec%a0%9d%ed%8a%b8%ea%b0%80.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-31T00:34:41.000Z",
-      "summary": "필자는 지난 3년간 독립적인 클라우드·AI 컨설턴트, 어드바이저, 업계 인플루언서로서 전문성을 필요로 하는 수많은 기업과 협업했다. 기업의 생성형 AI 및 에이전틱 AI 이니셔티브를 평가하고 최적화하며 코칭하고 지원하는 역할을 맡았다. 이 작업들은 단순한 이론적 논의나 공급업체 주도의 개념 검증에 그치지 않았다. 아키텍처 설계, 기술 선택, 배포 계획, 거버넌스 프레임워크, 통합, 비용...",
-      "tab": "ai"
-    },
-    {
-      "id": "52acc504835479e0",
-      "title": "받은 편지함의 이메일, AI는 다른 내용을 읽는다?",
-      "url": "https://www.itworld.co.kr/article/4215550/%eb%b0%9b%ec%9d%80-%ed%8e%b8%ec%a7%80%ed%95%a8%ec%9d%98-%ec%9d%b4%eb%a9%94%ec%9d%bc-ai%eb%8a%94-%eb%8b%a4%eb%a5%b8-%eb%82%b4%ec%9a%a9%ec%9d%84-%ec%9d%bd%eb%8a%94%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-30T23:58:17.000Z",
-      "summary": "보안 연구진이 사용자와 AI 어시스턴트가 서로 다른 이메일을 읽는 상황이 실제로 가능하다고 주장하고 나섰다. 사이버보안 기업 포스포인트(Forcepoint) X-랩스는 눈에 보이지 않는 HTML 코드 몇 줄을 이메일에 심는 것만으로 AI 이메일 요약기가 명령으로 인식하고 실행하도록 만들 수 있음을 시연했다. 연구진은 통제된 환경에서 아웃룩(Outlook)에서는 텍스트를 보이지 않게 처리...",
-      "tab": "ai"
-    },
-    {
-      "id": "fb7c26154e18354e",
-      "title": "챗GPT 필수 설정 5가지…보안·개인정보·개성까지 한 번에 정비한다면",
-      "url": "https://www.itworld.co.kr/article/4214563/%ec%b1%97gpt-%ed%95%84%ec%88%98-%ec%84%a4%ec%a0%95-5%ea%b0%80%ec%a7%80-%eb%b3%b4%ec%95%88%c2%b7%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4%c2%b7%ea%b0%9c%ec%84%b1%ea%b9%8c%ec%a7%80-%ed%95%9c-%eb%b2%88.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-28T02:07:18.000Z",
-      "summary": "챗GPT가 여전히 이모지를 너무 많이 쏟아내고 있지는 않은가? 챗GPT가 사용자에 대해 무엇을 알고 있는지, 혹은 알고 있다고 생각하는지 궁금한 적이 있는가? 그리고 챗GPT 계정은 과연 얼마나 안전한가? 챗GPT 설정은 끊임없이 바뀌는 탓에 놓치기 쉽다. 그러나 설정을 가끔씩 살펴보는 것은 충분히 가치 있는 일이다. 핵심 설정 몇 가지만 조정해도 챗GPT의 이상한 성격 특성을 바로잡고...",
       "tab": "ai"
     }
   ]
