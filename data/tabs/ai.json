@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-07T21:11:01.210Z",
-  "articleCount": 14,
+  "lastUpdatedAt": "2026-09-08T03:22:10.296Z",
+  "articleCount": 13,
   "articles": [
+    {
+      "id": "ed770dd13b636327",
+      "title": "‘AI 퍼스트 개발’ 선택 아닌 필수인 이유",
+      "url": "https://www.itworld.co.kr/article/4219375/ai-%ed%8d%bc%ec%8a%a4%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%84%a0%ed%83%9d-%ec%95%84%eb%8b%8c-%ed%95%84%ec%88%98%ec%9d%b8-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-08T00:19:12.000Z",
+      "summary": "AI를 소프트웨어 개발 프로세스의 단순한 구성 요소가 아닌 핵심 중심축으로 삼는 기업이 빠르게 늘고 있다. 이런 기업은 AI 퍼스트 개발 전략으로 전환하고 있다. AI 퍼스트 개발 전략은 프로세스 진행 중 선택적으로 사용하는 기능이 아니라, 소프트웨어 개발 생애주기의 모든 단계에 AI를 통합하는 방식을 가리킨다. 대다수 경우 에이전트형 워크플로의 전환을 의미하며, 개발자가 AI 에이전트...",
+      "tab": "ai"
+    },
+    {
+      "id": "5c749a7e8dce381c",
+      "title": "GPT-6 아스트라 출시 ‘혼선’…발표와 실제 접근 사이의 간극",
+      "url": "https://www.itworld.co.kr/article/4219371/gpt-6-%ec%95%84%ec%8a%a4%ed%8a%b8%eb%9d%bc-%ec%b6%9c%ec%8b%9c-%ed%98%bc%ec%84%a0%eb%b0%9c%ed%91%9c%ec%99%80-%ec%8b%a4%ec%a0%9c-%ec%a0%91%ea%b7%bc-%ec%82%ac%ec%9d%b4%ec%9d%98-%ea%b0%84.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-08T00:00:28.000Z",
+      "summary": "오픈AI의 GPT-6 아스트라(Astra) 출시 과정에서 초기 접근 문제가 발생했다. 유료 챗GPT 사용자가 서비스 출시 직후 시스템에 접근하지 못하는 상황이 벌어졌으며, 오픈AI CEO 샘 올트먼은 공개 사과와 함께 출시 과정이 “엉망이었다”고 인정했다. 올트먼은 X에 올린 게시물에서 “먼저, 혼란스러운 출시에 대해 사과드린다”라며 “우리가 실수를 저지르면, 바로잡으려 노력한다”라고...",
+      "tab": "ai"
+    },
     {
       "id": "00ce722c534e8754",
       "title": "AI 3사 동시 다운, 기업 재해복구 계획의 사각지대 드러나",
@@ -104,33 +122,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-09-01T02:54:58.000Z",
       "summary": "오픈클로를 기억하는가? PC에 설치돼 사용자가 자는 동안에도 묵묵히 지시를 수행하던 소박한 AI 도구, 오픈클로는 2026년 초 혜성처럼 등장해 놀랍고도 섬뜩한 에이전틱 AI 능력으로 세간의 이목을 사로잡았고, 수많은 클로 계열 클론의 탄생을 이끌며 순식간에 화제의 중심에 올랐다. 화려한 데뷔로부터 약 8개월이 지난 지금, 오픈클로를 둘러싼 열기는 크게 가라앉았다. 보안 강화와 설치 편...",
-      "tab": "ai"
-    },
-    {
-      "id": "7f2c05105982eb0b",
-      "title": "AI 에이전트 시대, ‘빅 볼 오브 머드’는 이제 과거의 유물인가",
-      "url": "https://www.itworld.co.kr/article/4215672/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8b%9c%eb%8c%80-%eb%b9%85-%eb%b3%bc-%ec%98%a4%eb%b8%8c-%eb%a8%b8%eb%93%9c%eb%8a%94-%ec%9d%b4%ec%a0%9c-%ea%b3%bc%ea%b1%b0%ec%9d%98-%ec%9c%a0%eb%ac%bc.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-01T01:02:00.000Z",
-      "summary": "거대한 진흙 덩어리(big ball of mud)는 피할 수 없는 숙명처럼 보인다. 필자는 방대하고 유지보수하기 어려운 코드베이스가 어디서 비롯되는지, 그리고 어떻게 대처할 수 있는지를 앞서 다룬 바 있다. 뾰족한 해결책이 없어 보이는 것도 사실이다. 하지만 이제 AI 코딩 에이전트가 등장한 이상, 이야기가 달라질지도 모른다. 모든 의도는 처음에는 훌륭하다. 아름다운 설계를 갖추고, 공...",
-      "tab": "ai"
-    },
-    {
-      "id": "1d06e2e21c1fdd7e",
-      "title": "하이퍼스케일러 vs. 네오클라우드, AI 컴퓨트 주도권 경쟁의 향방",
-      "url": "https://www.itworld.co.kr/article/4215575/%ed%95%98%ec%9d%b4%ed%8d%bc%ec%8a%a4%ec%bc%80%ec%9d%bc%eb%9f%ac-vs-%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c-ai-%ec%bb%b4%ed%93%a8%ed%8a%b8-%ec%a3%bc%eb%8f%84%ea%b6%8c-%ea%b2%bd.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-31T01:39:53.000Z",
-      "summary": "네오클라우드가 저비용 GPU 기반 대안과 AI 훈련·추론 전용 기능을 내세우며 AI 컴퓨트 인프라 시장에서 입지를 굳혀가고 있다. 그렇다면 새로운 유형의 클라우드가 하이퍼스케일러의 고객을 실제로 빼앗아올 수 있을까? AI 네이티브 워크로드 시장에서 네오클라우드의 점유율이 빠르게 늘어날 것이라는 주장도 나온다. 시너지 리서치 그룹(Synergy Research Group)에 따르면 202...",
-      "tab": "ai"
-    },
-    {
-      "id": "a7a8caba54ac6847",
-      "title": "AI 투자 급증의 역설 “개인 생산성이 기업에 짐이 된다면”",
-      "url": "https://www.itworld.co.kr/article/4215595/ai-%ed%88%ac%ec%9e%90-%ea%b8%89%ec%a6%9d%ec%9d%98-%ec%97%ad%ec%84%a4-%ea%b0%9c%ec%9d%b8-%ec%83%9d%ec%82%b0%ec%84%b1%ec%9d%b4-%ea%b8%b0%ec%97%85%ec%97%90-%ec%a7%90%ec%9d%b4-%eb%90%9c%eb%8b%a4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-08-31T01:39:38.000Z",
-      "summary": "1987년, 노벨 경제학상 수상자 로버트 솔로는 ” “컴퓨터 혁명은 세상 모든 곳에 왔다. 생산성 통계만 빼고”라고 말한 바 있다. 오늘날 AI에 대해서도 같은 말을 할 수 있다. 가트너는 2026년 전 세계 AI 지출이 2조 5,900억 달러에 달할 것으로 전망했다 . 전년 대비 47% 급증한 규모로, 다양한 추산에 따르면 미국이 그중 최소 절반을 차지할 것으로 보인다. 하지만 미국에...",
       "tab": "ai"
     }
   ]
