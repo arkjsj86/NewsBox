@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-09T22:58:30.624Z",
-  "articleCount": 10,
+  "lastUpdatedAt": "2026-09-10T03:25:17.796Z",
+  "articleCount": 9,
   "articles": [
+    {
+      "id": "963dd83e5c75fe48",
+      "title": "동의 없는 녹음이 불러온 법정 다툼, AI 노트 필기 앱의 법적 리스크",
+      "url": "https://www.itworld.co.kr/article/4220445/%eb%8f%99%ec%9d%98-%ec%97%86%eb%8a%94-%eb%85%b9%ec%9d%8c%ec%9d%b4-%eb%b6%88%eb%9f%ac%ec%98%a8-%eb%b2%95%ec%a0%95-%eb%8b%a4%ed%88%bc-ai-%eb%85%b8%ed%8a%b8-%ed%95%84%ea%b8%b0-%ec%95%b1%ec%9d%98.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-10T00:58:49.000Z",
+      "summary": "AI 노트테이킹 앱은 회의 녹음, 대화 요약 생성, 회의 후 액션 아이템 제안 등의 목적으로 직장인 사이에서 점점 더 널리 활용되고 있다. 직접 노트를 필기하는 대신 회의에 집중할 수 있게 해준다는 생산성 향상 효과를 약속하지만, AI 도구의 부상은 동시에 개인정보 보호 관련 의문을 불러일으키고 있다. 특히 회의 참여자들로부터 사전 동의를 받는 절차가 핵심 쟁점으로 부상했으며, 그 우려...",
+      "tab": "ai"
+    },
     {
       "id": "ed770dd13b636327",
       "title": "‘AI 퍼스트 개발’ 선택 아닌 필수인 이유",
@@ -77,24 +86,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-09-03T02:28:53.000Z",
       "summary": "2026년 기업의 생존 전략은 개별 AI 모델의 도입을 넘어, AI가 기업의 모든 의사결정에 스며드는 ‘에이전틱 워크플로우(Agentic Workflow)’의 완성에 달려 있다. 기업이 직면한 과제는 더 이상 AI 도입의 유무가 아니라, 경쟁사보다 먼저 AI를 정통하게 이해하고 운영하는 역량의 확보다. CIO Korea와 ITWorld가 주최한 ‘AI Infrastructure & Da...",
-      "tab": "ai"
-    },
-    {
-      "id": "0d0c7853fa96e39c",
-      "title": "문자 한 통이 악몽의 시작—AI 시대 디지털 재난 대비 3단계",
-      "url": "https://www.itworld.co.kr/article/4217730/%eb%ac%b8%ec%9e%90-%ed%95%9c-%ed%86%b5%ec%9d%b4-%ec%95%85%eb%aa%bd%ec%9d%98-%ec%8b%9c%ec%9e%91-ai-%ec%8b%9c%eb%8c%80-%eb%94%94%ec%a7%80%ed%84%b8-%ec%9e%ac%eb%82%9c-%eb%8c%80%eb%b9%84-3.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-03T01:43:52.000Z",
-      "summary": "AI가 사이버 공격의 위협을 키우고 있다. 그러나 오늘날의 위험에 맞서 디지털 생활을 더 견고하게 만드는 것은 충분히 가능하다. 디지털 재난 대비 계획을 세우는 방법을 소개한다. 홍수, 화재, 태풍, 지진 같은 현실의 재난 시나리오에 대비하듯, 디지털 생활에서의 최악의 상황도 대비해야 한다. 특히 AI 시대에는 더욱 그렇다. 디지털 재난 대비에 아직 진지하게 생각해본 적이 없다면, 지금...",
-      "tab": "ai"
-    },
-    {
-      "id": "080dd7f8d452189d",
-      "title": "독점 AI를 넘어서는 오픈 모델의 부상",
-      "url": "https://www.itworld.co.kr/article/4217250/%eb%8f%85%ec%a0%90-ai%eb%a5%bc-%eb%84%98%ec%96%b4%ec%84%9c%eb%8a%94-%ec%98%a4%ed%94%88-%eb%aa%a8%eb%8d%b8%ec%9d%98-%eb%b6%80%ec%83%81.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-02T01:12:08.000Z",
-      "summary": "기술 업계는 2022년 말 오픈AI의 챗GPT 등장으로 일종의 전환점을 맞았다. 챗GPT는 마치 마법처럼 질문에 답하는 단순한 챗봇이었다. 오픈AI와 앤트로픽, 구글 등 많은 기업이 선보인 초기 프런티어 대규모 언어 모델은 추론하고, 문제를 해결하며, 자연어로 제기된 세부 질문에 답할 수 있었다. 그러나 서비스를 뒷받침하는 대규모 언어 모델의 블랙박스 내부가 정확히 무엇인지는 아무도 알...",
       "tab": "ai"
     }
   ]
