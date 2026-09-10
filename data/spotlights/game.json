@@ -3,20 +3,29 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-10T10:45:54.821Z",
+  "lastUpdatedAt": "2026-09-10T15:55:37.417Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
-  "itemCount": 1,
+  "itemCount": 2,
   "offers": [
     {
-      "id": "b8cc76ce7d6645f0a282b843a072cc78",
-      "title": "Alone With You",
-      "seller": "BancyCo",
-      "url": "https://store.epicgames.com/ko/p/alone-with-you-028a15",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/04b7a1d78c904065b5c24f9e7816c99a/alone-with-you-ven8l.png",
+      "id": "e9bb092228f544c582e2c9395fae96f3",
+      "title": "Astral Ascent",
+      "seller": "Hibernian Workshop",
+      "url": "https://store.epicgames.com/ko/p/astral-ascent-b33bc2",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-15n1j.jpg",
+      "originalPriceLabel": "₩26,000",
+      "freeUntil": "2026-09-17T15:00:00.000Z"
+    },
+    {
+      "id": "c76046dddcdb43619c33ce0395941033",
+      "title": "Luftrausers",
+      "seller": "Devolver Digital, Inc.",
+      "url": "https://store.epicgames.com/ko/p/luftrausers-51e5e9",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-11phb.png",
       "originalPriceLabel": "₩10,200",
-      "freeUntil": "2026-09-10T15:00:00.000Z"
+      "freeUntil": "2026-09-17T15:00:00.000Z"
     }
   ],
   "issues": {
@@ -58,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "유니티, 클로드 코드용 공식 유니티 플러그인 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320700",
+          "meta": "4시간 전"
+        },
+        {
           "title": "전 직업 캔슬 이동기 추가 및 경제 시스템 개편! 9/10 Maple Now",
           "url": "https://www.inven.co.kr/webzine/news/?news=320689",
-          "meta": "메이플스토리 · 42분 전"
+          "meta": "메이플스토리 · 6시간 전"
         },
         {
           "title": "넥써쓰, 제3자배정 유상증자로 약 38억원 조달",
           "url": "https://www.inven.co.kr/webzine/news/?news=320693",
-          "meta": "넥써쓰 · 3시간 전"
+          "meta": "넥써쓰 · 8시간 전"
         },
         {
           "title": "아크시스템웍스 아시아, 가을 세일 진행... 최대 88% 할인",
           "url": "https://www.inven.co.kr/webzine/news/?news=320692",
-          "meta": "3시간 전"
+          "meta": "8시간 전"
         },
         {
           "title": "넥슨, 오버워치 이관 기념 사내 e스포츠 대회 '넥슨컵' 개최",
           "url": "https://www.inven.co.kr/webzine/news/?news=320678",
-          "meta": "오버워치 · 3시간 전"
-        },
-        {
-          "title": "'FC 모바일' K리그 클래스 출시, 경기장 이벤트 연다",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320688",
-          "meta": "3시간 전"
+          "meta": "오버워치 · 8시간 전"
         }
       ]
     }
@@ -90,7 +99,7 @@
       "key": "epic-free-games",
       "source": "Epic Games Store",
       "ok": true,
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "key": "ruliweb-issues",
