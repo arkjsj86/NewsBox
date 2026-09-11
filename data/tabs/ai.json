@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-10T22:56:47.741Z",
+  "lastUpdatedAt": "2026-09-11T03:20:38.867Z",
   "articleCount": 9,
   "articles": [
+    {
+      "id": "17a97254a1084c79",
+      "title": "“도구보다 강력한 조직 구조” AI 집착 없이 생산성 3배를 달성하다",
+      "url": "https://www.itworld.co.kr/article/4220556/%eb%8f%84%ea%b5%ac%eb%b3%b4%eb%8b%a4-%ea%b0%95%eb%a0%a5%ed%95%9c-%ec%a1%b0%ec%a7%81-%ea%b5%ac%ec%a1%b0-ai-%ec%a7%91%ec%b0%a9-%ec%97%86%ec%9d%b4-%ec%83%9d%ec%82%b0%ec%84%b1-3%eb%b0%b0%eb%a5%bc.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-11T01:53:25.000Z",
+      "summary": "18개월 전 실리콘밸리의 한 컨퍼런스에서 AI 에이전트가 프로덕션 품질의 코드를 작성하는 모습을 실시간으로 본 후, 필자는 엔지니어링 모델의 변화를 예감했다. 그로부터 몇 주 후 필자가 소속한 팀은 AI 도입 여부를 논의하는 단계를 이미 넘어서 AI 에이전트 중심의 법률 소프트웨어 구축 방식을 어디까지 재설계할지를 고민하게 됐다. 그 결과 R&D 기업 전체에서 엔지니어 1인당 산출량은...",
+      "tab": "ai"
+    },
+    {
+      "id": "5c8b884f26487f75",
+      "title": "“정책에서 코드로, 규칙에서 엔진으로” AI 거버넌스의 구현 전략",
+      "url": "https://www.itworld.co.kr/article/4220552/%ec%a0%95%ec%b1%85%ec%97%90%ec%84%9c-%ec%bd%94%eb%93%9c%eb%a1%9c-%ea%b7%9c%ec%b9%99%ec%97%90%ec%84%9c-%ec%97%94%ec%a7%84%ec%9c%bc%eb%a1%9c-ai-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4%ec%9d%98.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-11T01:01:00.000Z",
+      "summary": "설계부터 내재화된 거버넌스(Governance by design)란 액세스를 통제하고 행동을 제한하고 증거를 수집하고 드리프트를 측정하는 빌드 및 런타임 컨트롤에 정책을 내재화하는 것을 의미한다. AI에 이를 구현하는 방법은 다음과 같다. 거버넌스는 생성형 AI 프로그램이 파일럿에 머무를지, 아니면 지속적인 역량으로 발전할지를 좌우하는 요소다. 필자는 거버넌스를 엔지니어링 작업으로 취급...",
+      "tab": "ai"
+    },
     {
       "id": "963dd83e5c75fe48",
       "title": "동의 없는 녹음이 불러온 법정 다툼, AI 노트 필기 앱의 법적 리스크",
@@ -68,24 +86,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-09-04T01:29:00.000Z",
       "summary": "저비용 GPU 기반 대안과 AI 학습 및 추론을 위한 특화 기능을 앞세워 AI 컴퓨팅 인프라 시장을 파고든 새로운 유형의 대체 클라우드인 네오클라우드가 실제로 하이퍼스케일러의 비즈니스를 빼앗을 수 있을까? 일각에서는 네오클라우드가 AI 네이티브 워크로드에서 차지하는 비중이 점점 더 늘어날 것이라고 주장한다. 시너지 리서치 그룹(Synergy Research Group)에 따르면 네오클라...",
-      "tab": "ai"
-    },
-    {
-      "id": "54230a9e7e52dfba",
-      "title": "‘빠를수록 무너지는’ 바이브 코딩의 치명적 실수 7가지",
-      "url": "https://www.itworld.co.kr/article/4217755/%eb%b9%a0%eb%a5%bc%ec%88%98%eb%a1%9d-%eb%ac%b4%eb%84%88%ec%a7%80%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9d%98-%ec%b9%98%eb%aa%85%ec%a0%81-%ec%8b%a4%ec%88%98-7%ea%b0%80%ec%a7%80.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-03T03:04:15.000Z",
-      "summary": "애플리케이션이나 AI 에이전트를 바이브 코딩한다는 것은 실화라고 믿기 어려울 만큼 매력적으로 들린다. 개발자 한 명이 프롬프트만으로 계획을 진행하면, 며칠이 아닌 단 몇 분 만에 작동하는 프로토타입 코드를 얻을 수 있다. 이후 반복 작업을 통해 수정과 개선을 거듭하다 보면 원하는 결과물에 도달한다. 스테이트 오브 코드 개발자 설문조사(State of Code Developer Surve...",
-      "tab": "ai"
-    },
-    {
-      "id": "df9307ee3fa82c88",
-      "title": "“모델보다 인프라, 기술보다 거버넌스” AI Infrastructure & Data 2026 에이전틱 AI 수용 전략 제시",
-      "url": "https://www.itworld.co.kr/article/4217744/%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%ec%9d%b8%ed%94%84%eb%9d%bc-%ea%b8%b0%ec%88%a0%eb%b3%b4%eb%8b%a4-%ea%b1%b0%eb%b2%84%eb%84%8c%ec%8a%a4-ai-infrastructure-data-2026-%ec%97%90%ec%9d%b4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-03T02:28:53.000Z",
-      "summary": "2026년 기업의 생존 전략은 개별 AI 모델의 도입을 넘어, AI가 기업의 모든 의사결정에 스며드는 ‘에이전틱 워크플로우(Agentic Workflow)’의 완성에 달려 있다. 기업이 직면한 과제는 더 이상 AI 도입의 유무가 아니라, 경쟁사보다 먼저 AI를 정통하게 이해하고 운영하는 역량의 확보다. CIO Korea와 ITWorld가 주최한 ‘AI Infrastructure & Da...",
       "tab": "ai"
     }
   ]

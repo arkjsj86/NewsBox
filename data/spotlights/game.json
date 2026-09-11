@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-10T22:56:47.741Z",
+  "lastUpdatedAt": "2026-09-11T03:20:38.867Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -37,7 +37,12 @@
         {
           "title": "㈜엔씨 퍼플, ‘창세기전 외전: 서풍의 광시곡 리마스터’ 5일(토) 입점",
           "url": "https://bbs.ruliweb.com/news/read/229010",
-          "meta": "댓글 61"
+          "meta": "댓글 62"
+        },
+        {
+          "title": "10월 8일 출시, 동양풍 MMORPG '도깨비의세계' 쇼케이스",
+          "url": "https://bbs.ruliweb.com/news/read/229116",
+          "meta": "댓글 31"
         },
         {
           "title": "안녕, 나의 판타지 라이프… ‘마비노기 이터니티’ 알파 테스트 체험",
@@ -45,19 +50,14 @@
           "meta": "댓글 43"
         },
         {
-          "title": "10월 8일 출시, 동양풍 MMORPG '도깨비의세계' 쇼케이스",
-          "url": "https://bbs.ruliweb.com/news/read/229116",
-          "meta": "댓글 28"
-        },
-        {
           "title": "한층 저렴해진 무선 스피커 헤드 쿠션, ‘레이저(RAZER) 클리오 X(CLIO X)’ 공개",
           "url": "https://bbs.ruliweb.com/news/read/229064",
           "meta": "댓글 5"
         },
         {
-          "title": "스마일게이트 ‘이클립스: 더 어웨이크닝’ 론칭 프리뷰 라이브 방송 정보",
-          "url": "https://bbs.ruliweb.com/news/read/229025",
-          "meta": "댓글 3"
+          "title": "스마일게이트 MMORPG 신작 ‘이클립스: 더 어웨이크닝’ 오늘(10일) 정식 출시",
+          "url": "https://bbs.ruliweb.com/news/read/229231",
+          "meta": "댓글 12"
         }
       ]
     },
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "유니티, 클로드 코드용 공식 유니티 플러그인 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320700",
-          "meta": "4시간 전"
+          "title": "'언더 나이트 인버스2' 신규 캐릭터 '조하루' 16일 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320729",
+          "meta": "언더 나이트 인버스2 시스타셀레스 · 6분 전"
         },
         {
-          "title": "전 직업 캔슬 이동기 추가 및 경제 시스템 개편! 9/10 Maple Now",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320689",
-          "meta": "메이플스토리 · 6시간 전"
+          "title": "영화 감상부로 위장한 마법사 클랜, '아키나 괴담 연구소'",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320686",
+          "meta": "아스트라에 오라티오 · 20분 전"
         },
         {
-          "title": "넥써쓰, 제3자배정 유상증자로 약 38억원 조달",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320693",
-          "meta": "넥써쓰 · 8시간 전"
+          "title": "크래프톤, '대한민국 일자리 으뜸기업' 5번째 선정",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320727",
+          "meta": "크래프톤 · 23분 전"
         },
         {
-          "title": "아크시스템웍스 아시아, 가을 세일 진행... 최대 88% 할인",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320692",
-          "meta": "8시간 전"
+          "title": "체급의 한화생명과 노련함의 T1, KSPO돔 뒤흔들 팀은?",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320724",
+          "meta": "리그 오브 레전드 · 56분 전"
         },
         {
-          "title": "넥슨, 오버워치 이관 기념 사내 e스포츠 대회 '넥슨컵' 개최",
-          "url": "https://www.inven.co.kr/webzine/news/?news=320678",
-          "meta": "오버워치 · 8시간 전"
+          "title": "'언디셈버' 신규 시즌 '침식의 저편' 개막",
+          "url": "https://www.inven.co.kr/webzine/news/?news=320723",
+          "meta": "언디셈버 · 1시간 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
