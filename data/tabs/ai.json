@@ -4,9 +4,36 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-13T22:55:29.790Z",
-  "articleCount": 9,
+  "lastUpdatedAt": "2026-09-14T03:41:48.327Z",
+  "articleCount": 10,
   "articles": [
+    {
+      "id": "a816e2a5b9d8e1e1",
+      "title": "“상시 청취하되 녹음은 없다” 애플, AI 프라이버시 보호 방법 공개",
+      "url": "https://www.itworld.co.kr/article/4221452/%ec%83%81%ec%8b%9c-%ec%b2%ad%ec%b7%a8%ed%95%98%eb%90%98-%eb%85%b9%ec%9d%8c%ec%9d%80-%ec%97%86%eb%8b%a4-%ec%95%a0%ed%94%8c-ai-%ed%94%84%eb%9d%bc%ec%9d%b4%eb%b2%84%ec%8b%9c-%eb%b3%b4%ed%98%b8.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-14T01:09:53.000Z",
+      "summary": "애플워치 시리즈 12와 울트라 4에서 애플은 실용적이고 흥미로운 새 음성 기반 AI 기능을 선보인다. 새로운 S11 프로세서는 배터리 수명을 단축하지 않고 음성을 지속적으로 청취하고 (가볍게) 처리할 수 있는 하드웨어를 탑재했다. 애플은 S11 프로세서의 상시 처리 능력을 활용해 네 가지 새로운 AI 기반 기능을 선보이며, 브랜딩을 빠뜨리는 법이 없는 만큼 이 기능 모음을 ‘오디오 인텔...",
+      "tab": "ai"
+    },
+    {
+      "id": "99c70bac5e04a37d",
+      "title": "“에이전트가 DB를 삭제하는 시대” 에이전틱 시스템 확산이 바꾼 LLM 보안 위협 지형도",
+      "url": "https://www.itworld.co.kr/article/4221436/%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-db%eb%a5%bc-%ec%82%ad%ec%a0%9c%ed%95%98%eb%8a%94-%ec%8b%9c%eb%8c%80-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8b%b1-%ec%8b%9c%ec%8a%a4%ed%85%9c-%ed%99%95.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-14T00:52:40.000Z",
+      "summary": "기술의 빠른 발전과 다양한 비즈니스 활용 사례의 등장으로 기업의 생성형 AI 기술 도입이 폭발적으로 늘어나고 있다. 다만 대규모 언어 모델(LLM)은 유해한 결과물을 실수로 생성하거나, 정보를 유출하거나, 위협 행위자에게 노출될 수 있다. 기술이 발전하고 공격자가 시스템을 침해하는 새로운 방법을 찾아냄에 따라 이런 취약점도 변화하고 있다. 기업 입장에서는 부정적인 언론 보도, 컴플라이언...",
+      "tab": "ai"
+    },
+    {
+      "id": "1d25e938f6231f0b",
+      "title": "앤트로픽, 클로드의 4번째 탈출 사례 추가 확인…클로드 탈출 사례 총 4건 집계",
+      "url": "https://www.itworld.co.kr/article/4221424/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%9d%98-4%eb%b2%88%ec%a7%b8-%ed%83%88%ec%b6%9c-%ec%82%ac%eb%a1%80-%ec%b6%94%ea%b0%80-%ed%99%95%ec%9d%b8-%ed%81%b4%eb%a1%9c%eb%93%9c.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-13T23:54:37.000Z",
+      "summary": "앤트로픽이 AI 모델 클로드가 폐쇄 시스템으로 알려진 환경에서 사이버보안 역량 평가를 진행하는 도중 열린 인터넷으로 탈출해 다른 기업을 공격한 네 번째 보안 사고를 인정했다. 앤트로픽은 지난 7월에도 예비 조사를 거쳐 유사한 사고 3건을 공개한 바 있다. 그러나 앤트로픽은 위험에 노출됐을 것으로 판단된 14만 1,000건의 채팅 기록을 재검토하는 과정에서, 1월에 발생한 네 번째 컴퓨터...",
+      "tab": "ai"
+    },
     {
       "id": "17a97254a1084c79",
       "title": "“도구보다 강력한 조직 구조” AI 집착 없이 생산성 3배를 달성하다",
@@ -68,24 +95,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-09-07T00:51:20.000Z",
       "summary": "IT 업계 전문가와 애널리스트는 엔비디아가 오픈소스 AI 기업 허깅페이스(Hugging Face)를 129억 달러에 인수하겠다는 깜짝 계획을 아직도 파악하는 중이다. 엔비디아는 GPU로 AI 시장을 주도하며, 빠르게 진화하는 기술에 대한 독자적인 접근 방식으로 수십억 달러의 수익을 창출하고 있다. 반면 허깅페이스는 오픈 모델을 호스팅하며 칩 업체와 모델 랩 사이에서 중립적인 역할을 해왔...",
-      "tab": "ai"
-    },
-    {
-      "id": "51b151a6dc948f8b",
-      "title": "로컬 AI의 새 선택지, 언슬로스 데스크톱의 가능성",
-      "url": "https://www.itworld.co.kr/article/4218508/%eb%a1%9c%ec%bb%ac-ai%ec%9d%98-%ec%83%88-%ec%84%a0%ed%83%9d%ec%a7%80-%ec%96%b8%ec%8a%ac%eb%a1%9c%ec%8a%a4-%eb%8d%b0%ec%8a%a4%ed%81%ac%ed%86%b1%ec%9d%98-%ea%b0%80%eb%8a%a5%ec%84%b1.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-04T03:21:25.000Z",
-      "summary": "언슬로스 데스크톱(Unsloth Desktop)은 LM 스튜디오(LM Studio)와 마찬가지로 로컬 하드웨어에서 생성형 AI 모델을 실행할 수 있게 해준다. 또한 편리한 웹 기반 UI를 사용해 다단계 워크플로우를 만들고 새 모델을 학습시킬 수도 있다. LM 스튜디오를 사용하면 누구나 자신의 하드웨어에서 손쉽게 LLM을 실행할 수 있다. 데스크톱 앱으로 실행할 수도 있고 기업 내 다른...",
-      "tab": "ai"
-    },
-    {
-      "id": "be27bf6bb8d562dd",
-      "title": "네오클라우드가 AI 컴퓨팅 시장을 장악할 수 있을까?",
-      "url": "https://www.itworld.co.kr/article/4218335/%eb%84%a4%ec%98%a4%ed%81%b4%eb%9d%bc%ec%9a%b0%eb%93%9c%ea%b0%80-ai-%ec%bb%b4%ed%93%a8%ed%8c%85-%ec%8b%9c%ec%9e%a5%ec%9d%84-%ec%9e%a5%ec%95%85%ed%95%a0-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-04T01:29:00.000Z",
-      "summary": "저비용 GPU 기반 대안과 AI 학습 및 추론을 위한 특화 기능을 앞세워 AI 컴퓨팅 인프라 시장을 파고든 새로운 유형의 대체 클라우드인 네오클라우드가 실제로 하이퍼스케일러의 비즈니스를 빼앗을 수 있을까? 일각에서는 네오클라우드가 AI 네이티브 워크로드에서 차지하는 비중이 점점 더 늘어날 것이라고 주장한다. 시너지 리서치 그룹(Synergy Research Group)에 따르면 네오클라...",
       "tab": "ai"
     }
   ]
