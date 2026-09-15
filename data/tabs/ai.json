@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-14T23:41:54.983Z",
+  "lastUpdatedAt": "2026-09-15T03:42:40.573Z",
   "articleCount": 10,
   "articles": [
+    {
+      "id": "d6cdb3360c8f0e67",
+      "title": "iOS 27, 구형 아이폰 성능 되살리다",
+      "url": "https://www.itworld.co.kr/article/4221847/ios-27-%ea%b5%ac%ed%98%95-%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%84%b1%eb%8a%a5-%eb%90%98%ec%82%b4%eb%a6%ac%eb%8b%a4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-15T03:35:44.000Z",
+      "summary": "iOS 27의 핵심은 인공지능(AI)이지만, 구형 기기 사용자도 이번 업데이트로 의미 있는 개선을 경험할 수 있다. 9월 14일 출시되는 iOS 27의 주요 특징은 AI로, 아이폰 15 프로 및 아이폰 16 이후 모델에서만 사용할 수 있다. 애플 공식 사이트의 iOS 27 페이지에 접속하면 새로운 시리 AI, 애플 인텔리전스, 그리고 최신 하드웨어가 필요한 기능들에 대한 설명이 대부분을...",
+      "tab": "ai"
+    },
+    {
+      "id": "dbe2a538c957774a",
+      "title": "엔비디아, 미디어텍에 35억 달러 투자로 AI 인프라 주도권 확보",
+      "url": "https://www.itworld.co.kr/article/4221572/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84-%eb%af%b8%eb%94%94%ec%96%b4%ed%85%8d%ec%97%90-35%ec%96%b5-%eb%8b%ac%eb%9f%ac-%ed%88%ac%ec%9e%90%eb%a1%9c-ai-%ec%9d%b8%ed%94%84%eb%9d%bc-%ec%a3%bc%eb%8f%84.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-15T01:06:00.000Z",
+      "summary": "엔비디아가 AI 기업에 대한 대규모 투자를 이어가고 있다. 이번에는 반도체 업체 미디어텍(MediaTek)에 35억 달러를 투자하고, 그 대가로 미디어텍이 엔비디아 기술을 라이선스하기로 했다. 엔비디아는 미디어텍이 발행하는 35억 달러 규모의 전환사채를 인수한다. 미디어텍은 그 대가로 엔비디아의 NV링크 퓨전 기술을 채택한다. NV링크 퓨전을 활용하면 고객사는 엔비디아 기반 AI 인프라...",
+      "tab": "ai"
+    },
     {
       "id": "a816e2a5b9d8e1e1",
       "title": "“상시 청취하되 녹음은 없다” 애플, AI 프라이버시 보호 방법 공개",
@@ -77,24 +95,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-09-08T00:00:28.000Z",
       "summary": "오픈AI의 GPT-6 아스트라(Astra) 출시 과정에서 초기 접근 문제가 발생했다. 유료 챗GPT 사용자가 서비스 출시 직후 시스템에 접근하지 못하는 상황이 벌어졌으며, 오픈AI CEO 샘 올트먼은 공개 사과와 함께 출시 과정이 “엉망이었다”고 인정했다. 올트먼은 X에 올린 게시물에서 “먼저, 혼란스러운 출시에 대해 사과드린다”라며 “우리가 실수를 저지르면, 바로잡으려 노력한다”라고...",
-      "tab": "ai"
-    },
-    {
-      "id": "00ce722c534e8754",
-      "title": "AI 3사 동시 다운, 기업 재해복구 계획의 사각지대 드러나",
-      "url": "https://www.itworld.co.kr/article/4218981/ai-3%ec%82%ac-%eb%8f%99%ec%8b%9c-%eb%8b%a4%ec%9a%b4-%ea%b8%b0%ec%97%85-%ec%9e%ac%ed%95%b4%eb%b3%b5%ea%b5%ac-%ea%b3%84%ed%9a%8d%ec%9d%98-%ec%82%ac%ea%b0%81%ec%a7%80%eb%8c%80-%eb%93%9c%eb%9f%ac.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-07T01:10:02.000Z",
-      "summary": "AI 시대를 맞은 기업이 불안한 새 질문에 직면했다. AI 에이전트가 갑자기 작동을 멈추면 어떻게 될까? 목요일, 오픈AI의 챗GPT, 앤트로픽의 클로드, 스페이스XAI의 그록이 거의 동시에, 다소 의문스러운 방식으로 장시간 대규모 서비스 장애를 일으키면서 가상의 시나리오가 현실이 됐다. 미국 동부시간 오전부터 시작해 챗GPT 일부 모델은 약 2시간, 클로드 모델은 약 4시간, 그록 모...",
-      "tab": "ai"
-    },
-    {
-      "id": "4c47a6cbf41c7cd3",
-      "title": "엔비디아의 허깅페이스 인수, 기업 AI 전략 재편 신호탄",
-      "url": "https://www.itworld.co.kr/article/4218969/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%9d%98-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b8%ec%88%98-%ea%b8%b0%ec%97%85-ai-%ec%a0%84%eb%9e%b5-%ec%9e%ac%ed%8e%b8-%ec%8b%a0%ed%98%b8%ed%83%84.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-07T00:51:20.000Z",
-      "summary": "IT 업계 전문가와 애널리스트는 엔비디아가 오픈소스 AI 기업 허깅페이스(Hugging Face)를 129억 달러에 인수하겠다는 깜짝 계획을 아직도 파악하는 중이다. 엔비디아는 GPU로 AI 시장을 주도하며, 빠르게 진화하는 기술에 대한 독자적인 접근 방식으로 수십억 달러의 수익을 창출하고 있다. 반면 허깅페이스는 오픈 모델을 호스팅하며 칩 업체와 모델 랩 사이에서 중립적인 역할을 해왔...",
       "tab": "ai"
     }
   ]
