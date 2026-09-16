@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-09-16T03:39:27.141Z",
+  "lastUpdatedAt": "2026-09-16T10:56:40.799Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "m8P6EVE5Cq4",
-      "title": "Unity Ads UA 캠페인 운영 방법",
-      "url": "https://www.youtube.com/watch?v=m8P6EVE5Cq4",
-      "publishedAt": "2026-09-14T09:22:33.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/m8P6EVE5Cq4/hqdefault.jpg"
+      "id": "tI3Wlu_Sn4M",
+      "title": "Unity Japan 인기 쇼츠 시리즈! Unity CLI 기능 완전하게 사용하기",
+      "url": "https://www.youtube.com/shorts/tI3Wlu_Sn4M",
+      "publishedAt": "2026-09-16T07:13:24.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/tI3Wlu_Sn4M/hqdefault.jpg"
     },
     {
-      "id": "uWy9Rwv7DBs",
-      "title": "[2D 게임 개발 꿀팁 시리즈] Variant Sprite Atlas",
-      "url": "https://www.youtube.com/shorts/uWy9Rwv7DBs",
-      "publishedAt": "2026-09-14T07:03:44.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/uWy9Rwv7DBs/hqdefault.jpg"
+      "id": "s5Pxpm3dwoI",
+      "title": "Unity Webinar: Unity Ads Vector 베스트 프랙티스: UA 실전 전략",
+      "url": "https://www.youtube.com/watch?v=s5Pxpm3dwoI",
+      "publishedAt": "2026-08-31T09:24:12.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/s5Pxpm3dwoI/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
