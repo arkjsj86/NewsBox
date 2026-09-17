@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-16T23:34:37.783Z",
+  "lastUpdatedAt": "2026-09-17T03:44:23.062Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -42,7 +42,7 @@
         {
           "title": "[블리즈컨] 영원한 고향, 가장 좋은 출발점... WoW: 포에버 인터뷰",
           "url": "https://bbs.ruliweb.com/news/read/229312",
-          "meta": "댓글 29"
+          "meta": "댓글 32"
         },
         {
           "title": "애니모, 수집과 육성에 ‘트와인’으로 변주",
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "스트리트 파이터6, C.바이퍼 아웃핏4 10월 13일 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321023",
-          "meta": "스트리트 파이터6 · 6시간 전"
+          "title": "'동방스펠버블', 이부키 스이카 DLC 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321067",
+          "meta": "동방스펠버블 · 12분 전"
         },
         {
-          "title": "드래곤즈 도그마2: 다크 어리즌, 메인 트레일러 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321022",
-          "meta": "드래곤즈 도그마2 · 6시간 전"
+          "title": "'파레이돌리아' 공식 플레이 공개... 컷신, 전투 연출은 물론 교감까지",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321065",
+          "meta": "파레이돌리아 · 21분 전"
         },
         {
-          "title": "요괴를 찾고, 퇴치하고, 계약하라 '케무리' TGS 2026 영상 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321019",
-          "meta": "케무리 · 8시간 전"
+          "title": "넥슨, '카트라이더 러쉬플러스' 시즌41 '갤럭시' 업데이트",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321064",
+          "meta": "카트라이더 러쉬+ · 29분 전"
         },
         {
-          "title": "팬들을 위한 종합선물세트! 15시즌 지옥의 유산 살펴보기",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321007",
-          "meta": "디아블로4 · 13시간 전"
+          "title": "'메이플스토리' 신규 던전·퍼스널 버닝 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321063",
+          "meta": "메이플스토리 · 29분 전"
         },
         {
-          "title": "리니지M, 9월 3주차 '한정·주말·에피소드 특별 제작' 정보",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321012",
-          "meta": "리니지M · 13시간 전"
+          "title": "'아르티스 임팩트' 스위치 한국어 패키지 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321062",
+          "meta": "아르티스 임팩트 · 29분 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
