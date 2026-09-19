@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-18T23:03:26.993Z",
+  "lastUpdatedAt": "2026-09-19T03:27:43.153Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "\"과연, 도쿄의 마법은 화려하군요\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321168",
+          "meta": "아스트라에 오라티오 · 27분 전"
+        },
+        {
           "title": "'BOMBANANA!', 출시 2주 이용자 100만",
           "url": "https://www.inven.co.kr/webzine/news/?news=321174",
-          "meta": "봄바나나! · 6시간 전"
+          "meta": "봄바나나! · 13시간 전"
         },
         {
           "title": "크라운급 지휘관도 이해할 수 있는 길티 : 마이티 바니 사용법",
           "url": "https://www.inven.co.kr/webzine/news/?news=321167",
-          "meta": "승리의 여신: 니케 · 12시간 전"
+          "meta": "승리의 여신: 니케 · 19시간 전"
         },
         {
           "title": "스페이스본: 어웨이크닝, 신규 플레이 공개",
           "url": "https://www.inven.co.kr/webzine/news/?news=321164",
-          "meta": "스페이스본: 어웨이크닝 · 13시간 전"
+          "meta": "스페이스본: 어웨이크닝 · 20시간 전"
         },
         {
           "title": "스토브, 스페셜포스 리마스터 정식 출시",
           "url": "https://www.inven.co.kr/webzine/news/?news=321163",
-          "meta": "스페셜포스 리마스터 · 13시간 전"
-        },
-        {
-          "title": "이스케이프 프롬 타르코프: 아레나 시즌3 시작",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321162",
-          "meta": "이스케이프 프롬 타르코프 · 13시간 전"
+          "meta": "스페셜포스 리마스터 · 20시간 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
