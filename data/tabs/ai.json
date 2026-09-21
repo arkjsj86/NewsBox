@@ -4,9 +4,36 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-09-20T23:01:40.133Z",
-  "articleCount": 12,
+  "lastUpdatedAt": "2026-09-21T03:39:47.910Z",
+  "articleCount": 15,
   "articles": [
+    {
+      "id": "10489545c47fc3fc",
+      "title": "‘안전’ 뒤에 감춰진 AI 업계의 속도 조절 이유",
+      "url": "https://www.itworld.co.kr/article/4224149/%ec%95%88%ec%a0%84-%eb%92%a4%ec%97%90-%ea%b0%90%ec%b6%b0%ec%a7%84-ai-%ec%97%85%ea%b3%84%ec%9d%98-%ec%86%8d%eb%8f%84-%ec%a1%b0%ec%a0%88-%ec%9d%b4%ec%9c%a0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-21T01:51:07.000Z",
+      "summary": "프런티어 AI 개발이 테스트·모니터링·거버넌스·통제 능력을 앞서는 속도로 발전하고 있다는 주장이 나오고 있다. 그러나 과연 그럴까? 안전은 AI 기업의 주된 동기와는 거리가 멀다. AI 리더의 상투적인 말잔치를 듣고 있었다. AI는 훌륭하다! AI가 암을 치료할 것이다! AI의 영향은 “전례 없는 것으로, 어쩌면 산업혁명의 10배 속도로 10배의 효과를 낼 것”이라고 했다! AI가 “세...",
+      "tab": "ai"
+    },
+    {
+      "id": "db8f660309ecd427",
+      "title": "빅테크의 AI 안전 노선 갈등과 공급 리스크의 현실화",
+      "url": "https://www.itworld.co.kr/article/4224135/%eb%b9%85%ed%85%8c%ed%81%ac%ec%9d%98-ai-%ec%95%88%ec%a0%84-%eb%85%b8%ec%84%a0-%ea%b0%88%eb%93%b1%ea%b3%bc-%ea%b3%b5%ea%b8%89-%eb%a6%ac%ec%8a%a4%ed%81%ac%ec%9d%98-%ed%98%84%ec%8b%a4%ed%99%94.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-21T01:41:47.000Z",
+      "summary": "선도적인 AI 기업 사이에서 점점 강력해지는 모델의 안전 관리 방식을 둘러싼 견해 차이가 커지면서, 기업 IT에도 도전 과제로 이어지기 시작했다. 기업이 AI 시스템에 접근하고, 도입하고, 거버넌스를 수립하는 방식에도 파급효과가 미칠 전망이다. 최근 갈등의 도화선은 메타 CEO 마크 저커버그가 중립적인 평가자가 AI 모델을 독립적으로 테스트해야 한다고 주장하면서 불거졌다. 개발 속도를...",
+      "tab": "ai"
+    },
+    {
+      "id": "2a5091666cef2ad0",
+      "title": "AI가 고쳤다는 테스트, 올바른 대상을 가리킬까 “AI 테스트 자동화의 맹점”",
+      "url": "https://www.itworld.co.kr/article/4224133/ai%ea%b0%80-%ea%b3%a0%ec%b3%a4%eb%8b%a4%eb%8a%94-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%98%ac%eb%b0%94%eb%a5%b8-%eb%8c%80%ec%83%81%ec%9d%84-%ea%b0%80%eb%a6%ac%ed%82%ac%ea%b9%8c-ai-%ed%85%8c%ec%8a%a4.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-09-21T01:30:40.000Z",
+      "summary": "AI가 방금 그 실패한 테스트를 ‘수정’했다. 하지만 정말 올바른 문제를 고친 것일까, 아니면 단순히 빨간불을 초록불로 바꾸는 방법을 찾아낸 것일까? 초록 대시보드는 소프트웨어 엔지니어링에서 가장 안심이 되는 지표다. 빌드가 통과됐고, 테스트가 통과됐으며, 서비스가 정상이고 인시던트 대기열도 조용하다는 신호이기 때문이다. 그러나 AI 에이전트가 코드를 작성하거나 테스트를 수정할 때, 초...",
+      "tab": "ai"
+    },
     {
       "id": "071779e1bde8cd35",
       "title": "‘탄력성과 비용’ 서버리스 AI의 두 얼굴",
