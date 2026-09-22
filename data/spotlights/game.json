@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-22T20:57:30.210Z",
+  "lastUpdatedAt": "2026-09-22T23:32:11.118Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "4강 진출 이재호 \"Bo7 테테전? 자신 있는 편이다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321359",
-          "meta": "스타크래프트 · 4시간 전"
+          "title": "넷마블, '페이트/그랜드 오더' 고금초 이벤트",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321370",
+          "meta": "페이트/그랜드 오더 · 8분 전"
         },
         {
-          "title": "소리없이 강한 이재호, 김정우 3:1로 잡고 4강 진출",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321358",
-          "meta": "스타크래프트 · 5시간 전"
+          "title": "크림, AGF 2026 첫 공식 굿즈 8종 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321369",
+          "meta": "9분 전"
         },
         {
-          "title": "'갈바테인: 모험가 길드 사무소', 스팀 얼리 액세스 시작",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321353",
-          "meta": "갈바테인: 모험가 길드 사무소 · 9시간 전"
+          "title": "종합 서브컬처 이벤트 '일러스타 페스 14', 10월 킨텍스 개최",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321368",
+          "meta": "10분 전"
         },
         {
-          "title": "이클립스: 더 어웨이크닝, 근거리 클래스 2종 상향 예고",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321351",
-          "meta": "이클립스: 더 어웨이크닝 · 9시간 전"
+          "title": "경콘진, 콘텐츠 기업 9개사에 95억원 투자 연계",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321367",
+          "meta": "12분 전"
         },
         {
-          "title": "루미마스터, 주요 지역 앱스토어 1위",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321352",
-          "meta": "루미마스터 · 9시간 전"
+          "title": "아시안게임 2연패 도전 LoL 국대, 첫 경기는 9월 30일",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321366",
+          "meta": "리그 오브 레전드 · 43분 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
