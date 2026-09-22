@@ -7,18 +7,394 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-22T16:24:11.905Z",
+  "lastUpdatedAt": "2026-09-22T20:57:30.210Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
+    {
+      "id": "483b66ad0cc4f7d5",
+      "issueKey": "보험",
+      "issueTitle": "보험",
+      "trendTitle": "보험",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“100세에도 매일 출근해 새 계약 따내”…최고령 보험설계사",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20260922/134719600/1",
+          "publishedAt": "2026-09-22T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“100세에도 매일 출근해 신계약”…한화손보, 현역 보험설계사 헌정식",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=03161926645582744&amp;mediaCodeNo=257",
+          "publishedAt": "2026-09-22T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "100세 현역 설계사 헌신에… 한화손보 ‘최고령’ 헌정 행사",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922211310233",
+          "publishedAt": "2026-09-22T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“100세에도 매일 출근해 새 계약 따내”…최고령 보험설계사",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20260922/134719600/1",
+        "publishedAt": "2026-09-22T19:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T19:50:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "보험",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Economy/article/all/20260922/134719600/1",
+      "rank": 1
+    },
+    {
+      "id": "3e934470b5acad72",
+      "issueKey": "노시환 투런포",
+      "issueTitle": "노시환 투런포",
+      "trendTitle": "성영탁",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[아시안게임] 노시환 투런포·조형우 만루포…한국 야구, 홍콩에 '팀 퍼펙트'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922192800007",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "류지현호, 홍콩에 콜드게임 대승‥슈퍼라운드 진출 눈앞",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853588_37004.html",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘팀 퍼펙트’ 야구 대표팀, 홍콩에 13 대 0 콜드게임 승리",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669739",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[아시안게임] 노시환 투런포·조형우 만루포…한국 야구, 홍콩에 '팀 퍼펙트'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260922192800007",
+        "publishedAt": "2026-09-22T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T19:30:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "노시환 투런포",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260922192800007",
+      "rank": 2
+    },
+    {
+      "id": "abcbba2ee02c22df",
+      "issueKey": "이재명 지지율",
+      "issueTitle": "이재명 지지율",
+      "trendTitle": "이재명 지지율",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이 대통령 기자회견, ‘잘못했다’ 57.7%…‘잘했다’ 39.2%[리얼미터]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922165527548",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이 대통령 지지층 ‘중도·서울·30대·뉴이재명’ 이탈 많았다",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1279171.html",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[속보]국민 과반 이상, 李 대통령 기자 회견 “잘못했다”-리얼미터",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11619000",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이재명 지지율",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260922165527548",
+        "publishedAt": "2026-09-22T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T19:30:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "이재명 지지율",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260922165527548",
+      "rank": 3
+    },
+    {
+      "id": "9553a076b0afc670",
+      "issueKey": "한다감",
+      "issueTitle": "한다감",
+      "trendTitle": "한다감",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'47세 최고령 임신' 한다감, 드디어 엄마 됐다..건강한 첫 득남 [단독]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/y0ueUpXSlQ",
+          "publishedAt": "2026-09-22T19:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "배우 한다감, 아들 출산…\"산모와 아이 모두 건강\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922197500005",
+          "publishedAt": "2026-09-22T19:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한다감, 출산 앞두고 고급 외제차 선물 \"내 이미지와 맞아\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260921_0003798805",
+          "publishedAt": "2026-09-22T19:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'47세 최고령 임신' 한다감, 드디어 엄마 됐다..건강한 첫 득남 [단독]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/y0ueUpXSlQ",
+        "publishedAt": "2026-09-22T19:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T19:10:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "한다감",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/y0ueUpXSlQ",
+      "rank": 4
+    },
+    {
+      "id": "57dbff2898415dad",
+      "issueKey": "미사일",
+      "issueTitle": "미사일",
+      "trendTitle": "미사일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이 대통령 \"북한 더 이상 고립국 아냐\" '현실적 해법' 제시",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853600_37004.html",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "李 “북핵-ICBM 개발 중단… 美 대북제재 완화와 교환을”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260923/134723640/2",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[뉴스특보 LIVE] 이 대통령, 유엔총회 연설",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923041210757",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "미사일",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853600_37004.html",
+        "publishedAt": "2026-09-22T19:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T19:00:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "미사일",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853600_37004.html",
+      "rank": 5
+    },
+    {
+      "id": "2e144916046c2a6f",
+      "issueKey": "음식 준비",
+      "issueTitle": "음식",
+      "trendTitle": "음식",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "추석 연휴 ‘기도 폐쇄’ 1.7배↑…환자 86%는 60세 이상",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922151940586",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "음식 준비·섭취 느는 추석, 목막힘·화상 사고도 2배가량 증가",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6853541_36918.html",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "추석 응급의료센터 내원, 평일의 '2배'…\"경증은 병의원 권장\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922136600530",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "음식 준비·섭취 느는 추석, 목막힘·화상 사고도 2배가량 증가",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6853541_36918.html",
+        "publishedAt": "2026-09-22T19:00:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-22T19:00:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "음식",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6853541_36918.html",
+      "rank": 6
+    },
+    {
+      "id": "a039875519f8af81",
+      "issueKey": "opus 5 5",
+      "issueTitle": "opus 5.5",
+      "trendTitle": "opus 5.5",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Introducing GPT-6 Sol and Luna",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+          "publishedAt": "2026-09-22T18:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Introducing Claude Opus 5.5",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "publishedAt": "2026-09-22T18:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Anthropic Unveils More Cost-Efficient Opus 5.5 Model Before IPO",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-22/anthropic-unveils-more-cost-efficient-opus-5-5-model-before-ipo",
+          "publishedAt": "2026-09-22T18:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Introducing Claude Opus 5.5",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "publishedAt": "2026-09-22T18:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-22T18:40:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "opus 5.5",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "rank": 7
+    },
+    {
+      "id": "4b585bc5692d4089",
+      "issueKey": "유리",
+      "issueTitle": "유리",
+      "trendTitle": "유리",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "유리, 제주 정착 3년만에 '전국노래자랑'까지…도민들 사이 흥 폭발 [엑's 이슈]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/bwUI1kLxXE",
+          "publishedAt": "2026-09-22T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이래도 이효리 따라하기? 소녀시대 유리, 제주도 전국노래자랑 관람 포착 [Oh!쎈 이슈] - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/22/GJSDEZJXMQ3DCNZZHFSTGOLBGU/",
+          "publishedAt": "2026-09-22T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "유리, '전국노래자랑'서 손뼉 치며…찐 제주도민 된 근황",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260922_0003800365",
+          "publishedAt": "2026-09-22T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "유리, 제주 정착 3년만에 '전국노래자랑'까지…도민들 사이 흥 폭발 [엑's 이슈]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/bwUI1kLxXE",
+        "publishedAt": "2026-09-22T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T15:00:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "유리",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/bwUI1kLxXE",
+      "rank": 8
+    },
     {
       "id": "73f381e31e823f6e",
       "issueKey": "죽음",
       "issueTitle": "죽음",
       "trendTitle": "죽음",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -52,435 +428,12 @@
         "relevanceScore": 3
       },
       "publishedAt": "2026-09-22T14:30:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
       "title": "죽음",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260922201244889",
-      "rank": 1
-    },
-    {
-      "id": "1446d6f57acb2baf",
-      "issueKey": "이정현",
-      "issueTitle": "이정현",
-      "trendTitle": "이정현",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘신병4’ 2중대 ‘전원 전사’ 충격에 각성…3회 연속 시청률 4.6% 콘크리트 [차트IS]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922091439394",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'신병4' 이정현, 개과천선 빌런의 전역...뭉클한 작별",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092214107220939",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "땅개X해병아저씨 '완벽 공조'..서로를 업고 산 내려왔다 (‘신병4’)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112879856",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'신병4' 이정현, 개과천선 빌런의 전역...뭉클한 작별",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092214107220939",
-        "publishedAt": "2026-09-22T14:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-22T14:30:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "이정현",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092214107220939",
-      "rank": 2
-    },
-    {
-      "id": "bdfdc854f1d99ddf",
-      "issueKey": "김혜수",
-      "issueTitle": "김혜수",
-      "trendTitle": "김혜수",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"김혜수·엄정화 애 안 낳아 안 늙은 것 아냐\" 백지연 소신 발언",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/22/2026092209511418403",
-          "publishedAt": "2026-09-22T13:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "백지연 \"김혜수씨 사진에 '역시 애를 안 낳아서' 이런 말 있는데…\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260922_0003799435",
-          "publishedAt": "2026-09-22T13:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“애 안낳아 안 늙었다고?” 밤거리 달린 56세 김혜수…러닝화엔 ‘hyesoo·700905’",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1636908",
-          "publishedAt": "2026-09-22T13:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"김혜수·엄정화 애 안 낳아 안 늙은 것 아냐\" 백지연 소신 발언",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/society/2026/09/22/2026092209511418403",
-        "publishedAt": "2026-09-22T13:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-22T13:40:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "김혜수",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/society/2026/09/22/2026092209511418403",
-      "rank": 3
-    },
-    {
-      "id": "f750636ca108c9cd",
-      "issueKey": "무신사",
-      "issueTitle": "무신사",
-      "trendTitle": "무신사",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "무신사, 라코스테·핏더사이즈 협업 에디션 선봬",
-          "source": "로이슈",
-          "url": "https://www.lawissue.co.kr/view.php?ud=202609220920494747204ead0791_12",
-          "publishedAt": "2026-09-22T13:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "무신사, 라코스테·핏더사이즈 단독판 흥행…랭킹 1~8위",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260922000082",
-          "publishedAt": "2026-09-22T13:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[패션브리핑] 무신사, '라코스테·핏더사이즈' 단독 에디션 출시 외",
-          "source": "서울파이낸스",
-          "url": "https://www.seoulfn.com/news/articleView.html?idxno=638577",
-          "publishedAt": "2026-09-22T13:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "무신사, 라코스테·핏더사이즈 협업 에디션 선봬",
-        "source": "로이슈",
-        "url": "https://www.lawissue.co.kr/view.php?ud=202609220920494747204ead0791_12",
-        "publishedAt": "2026-09-22T13:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-22T13:10:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "무신사",
-      "source": "로이슈",
-      "url": "https://www.lawissue.co.kr/view.php?ud=202609220920494747204ead0791_12",
-      "rank": 4
-    },
-    {
-      "id": "d24e93bf93af1f39",
-      "issueKey": "대통령",
-      "issueTitle": "대통령",
-      "trendTitle": "대통령",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"지금까지 국민 속인 것\" 날 선 발언…또 이 대통령 직격",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922180011381",
-          "publishedAt": "2026-09-22T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김민석, '신발 속 돌멩이' 언급 유시민에 \"상대가 희롱이라 느끼면 희롱\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6853458_36911.html",
-          "publishedAt": "2026-09-22T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "유시민 \"李대통령, 검찰개혁 놓고 지금까지 국민 속였다\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/09/22/MOQAQ7KXCJDP5MC2ZG4HISKMVU/",
-          "publishedAt": "2026-09-22T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"지금까지 국민 속인 것\" 날 선 발언…또 이 대통령 직격",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260922180011381",
-        "publishedAt": "2026-09-22T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-22T12:40:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "대통령",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260922180011381",
-      "rank": 5
-    },
-    {
-      "id": "590f2a3e6ebd6540",
-      "issueKey": "편의점",
-      "issueTitle": "편의점",
-      "trendTitle": "편의점",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "상어 '부캉이' 장기체류 조짐…추석 연휴 후 외해 유도 검토(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260922142851051",
-          "publishedAt": "2026-09-22T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[신준봉의 뉴스터치] 부산 상어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260923000937064",
-          "publishedAt": "2026-09-22T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "부산 북항 상어 닷새째 목격...안 떠나는 이유는?",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0115_202609221138250376",
-          "publishedAt": "2026-09-22T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "편의점",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260922142851051",
-        "publishedAt": "2026-09-22T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-22T12:40:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "편의점",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260922142851051",
-      "rank": 6
-    },
-    {
-      "id": "5976de82a17d3e69",
-      "issueKey": "박남정",
-      "issueTitle": "박남정",
-      "trendTitle": "박남정",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "가정사 공개한 박남정 \"아버지 얼굴도 이름도 모른다\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260922_0003800924",
-          "publishedAt": "2026-09-22T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"아버지 얼굴도, 이름도 모른다\" 박남정, 가정사 고백 ('새롭게 하소서')",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/22/GJTDCYJSGZRDKMLFGRRGCMZWGQ/",
-          "publishedAt": "2026-09-22T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "박남정 “아버지 얼굴·이름도 몰라…어머니에게 묻지 않았다”",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260922/134719536/1",
-          "publishedAt": "2026-09-22T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "가정사 공개한 박남정 \"아버지 얼굴도 이름도 모른다\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260922_0003800924",
-        "publishedAt": "2026-09-22T12:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-22T12:20:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "박남정",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260922_0003800924",
-      "rank": 7
-    },
-    {
-      "id": "ab16e138709274f5",
-      "issueKey": "노원구",
-      "issueTitle": "노원구",
-      "trendTitle": "노원구",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘강북 중저가’ 옛말…‘성북의 반란’ 어디까지",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/economy/12158202",
-          "publishedAt": "2026-09-22T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전세 알아보다 '화들짝'… 노원 30년 된 구축 9억 찍었다",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/visual-news/article/2026092215454125283",
-          "publishedAt": "2026-09-22T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"집 사려면 올해 안에 … 한강벨트 유망, 청약보다 기존주택\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922174508778",
-          "publishedAt": "2026-09-22T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "노원구",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/economy/12158202",
-        "publishedAt": "2026-09-22T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-22T12:10:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "노원구",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/economy/12158202",
-      "rank": 8
-    },
-    {
-      "id": "2763d01cd1e85100",
-      "issueKey": "삼성전기",
-      "issueTitle": "삼성전기",
-      "trendTitle": "삼성전기",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[현장칼럼] 'MLCC의 법칙' 제안한 삼성전기",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436066",
-          "publishedAt": "2026-09-22T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[오늘 이 종목] AI 서버 수주부터 가스터빈까지…공급 부족 수혜주는?",
-          "source": "MTN 머니투데이방송",
-          "url": "https://news.mtn.co.kr/news-detail/2026092111561081902",
-          "publishedAt": "2026-09-22T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[특징주] 삼성전기, MLCC·FC-BGA 공급난에 5%대 강세",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922104105387?sicode=01",
-          "publishedAt": "2026-09-22T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[현장칼럼] 'MLCC의 법칙' 제안한 삼성전기",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436066",
-        "publishedAt": "2026-09-22T12:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-22T12:00:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "삼성전기",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436066",
       "rank": 9
-    },
-    {
-      "id": "e4496bdf2ad3ee52",
-      "issueKey": "이대역 화재",
-      "issueTitle": "이대역 화재",
-      "trendTitle": "이대역 화재",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[속보] 美·덴마크·그린란드, '미군 주둔 강화' 3자 협정 서명",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260923004337434",
-          "publishedAt": "2026-09-22T11:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "지하철 2호선 이대역서 연기 발생…무정차 통과 중",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669740",
-          "publishedAt": "2026-09-22T11:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "서울 2호선 이대역 화재·안전문 고장으로 무정차 통과…2시간 만에 정상화",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609222046001",
-          "publishedAt": "2026-09-22T11:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서울 2호선 이대역 화재·안전문 고장으로 무정차 통과…2시간 만에 정상화",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609222046001",
-        "publishedAt": "2026-09-22T11:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-09-22T11:50:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "이대역 화재",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202609222046001",
-      "rank": 10
     }
   ],
   "history": [
@@ -663,6 +616,52 @@
       "title": "이강인",
       "source": "조선일보",
       "url": "https://www.chosun.com/international/international_general/2026/09/21/DCYXYV5Z4ZC6NIF6QXO6ZYREEM/"
+    },
+    {
+      "id": "3e934470b5acad72",
+      "issueKey": "노시환 투런포",
+      "issueTitle": "노시환 투런포",
+      "trendTitle": "성영탁",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[아시안게임] 노시환 투런포·조형우 만루포…한국 야구, 홍콩에 '팀 퍼펙트'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922192800007",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "류지현호, 홍콩에 콜드게임 대승‥슈퍼라운드 진출 눈앞",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853588_37004.html",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘팀 퍼펙트’ 야구 대표팀, 홍콩에 13 대 0 콜드게임 승리",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8669739",
+          "publishedAt": "2026-09-22T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[아시안게임] 노시환 투런포·조형우 만루포…한국 야구, 홍콩에 '팀 퍼펙트'",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260922192800007",
+        "publishedAt": "2026-09-22T19:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T19:30:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "노시환 투런포",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260922192800007"
     },
     {
       "id": "c862c9fd50dcf936",
@@ -900,6 +899,98 @@
       "title": "김영범",
       "source": "MBC 뉴스",
       "url": "https://imnews.imbc.com/news/2026/sports/article/6853336_36946.html"
+    },
+    {
+      "id": "73f381e31e823f6e",
+      "issueKey": "죽음",
+      "issueTitle": "죽음",
+      "trendTitle": "죽음",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[공감]죽음의 메시지",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260922201244889",
+          "publishedAt": "2026-09-22T14:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "죽음, 삶의 끝에서 만나는 질문",
+          "source": "브런치",
+          "url": "https://brunch.co.kr/@heroyw1/547",
+          "publishedAt": "2026-09-22T14:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“사후세계 있다” 40년 연구한 서울대병원 의사의 고백",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260919060239429?f=p",
+          "publishedAt": "2026-09-22T14:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[공감]죽음의 메시지",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260922201244889",
+        "publishedAt": "2026-09-22T14:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T14:30:00.000Z",
+      "firstSeenAt": "2026-09-22T16:24:11.905Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "죽음",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260922201244889"
+    },
+    {
+      "id": "57dbff2898415dad",
+      "issueKey": "미사일",
+      "issueTitle": "미사일",
+      "trendTitle": "미사일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이 대통령 \"북한 더 이상 고립국 아냐\" '현실적 해법' 제시",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853600_37004.html",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "李 “북핵-ICBM 개발 중단… 美 대북제재 완화와 교환을”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Politics/article/all/20260923/134723640/2",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[뉴스특보 LIVE] 이 대통령, 유엔총회 연설",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260923041210757",
+          "publishedAt": "2026-09-22T19:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "미사일",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853600_37004.html",
+        "publishedAt": "2026-09-22T19:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T19:00:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "미사일",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6853600_37004.html"
     },
     {
       "id": "3b4b7bc6b9627947",
@@ -1408,52 +1499,6 @@
       "url": "https://v.daum.net/v/20260921103001554"
     },
     {
-      "id": "21c41c51c0df1b08",
-      "issueKey": "황금 왼발",
-      "issueTitle": "황금 왼발",
-      "trendTitle": "황금 왼발",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'무려' 레알 마드리드 무너뜨린 이강인 황금 왼발, 스페인 현지 극찬 \"LEE 발끝에서 결승골 시작\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/FdKmw1yOWr",
-          "publishedAt": "2026-09-20T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이강인, 음바페와 적으로 재회…첫 마드리드 더비서 승리",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026092101582493591",
-          "publishedAt": "2026-09-20T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'패스 성공률 81% 기회 창출 1회' 이강인 선발로 나선 마드리드 더비, 0",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/21/202609202312774038O",
-          "publishedAt": "2026-09-20T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'무려' 레알 마드리드 무너뜨린 이강인 황금 왼발, 스페인 현지 극찬 \"LEE 발끝에서 결승골 시작\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/FdKmw1yOWr",
-        "publishedAt": "2026-09-20T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-20T14:30:00.000Z",
-      "firstSeenAt": "2026-09-20T20:25:00.603Z",
-      "lastSeenAt": "2026-09-20T20:25:00.603Z",
-      "title": "황금 왼발",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/FdKmw1yOWr"
-    },
-    {
       "id": "67d90e3d6665e80f",
       "issueKey": "구글",
       "issueTitle": "구글",
@@ -1519,6 +1564,98 @@
       "title": "구글",
       "source": "지디넷코리아",
       "url": "https://zdnet.co.kr/view/?no=20260921155254"
+    },
+    {
+      "id": "9553a076b0afc670",
+      "issueKey": "한다감",
+      "issueTitle": "한다감",
+      "trendTitle": "한다감",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'47세 최고령 임신' 한다감, 드디어 엄마 됐다..건강한 첫 득남 [단독]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/y0ueUpXSlQ",
+          "publishedAt": "2026-09-22T19:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "배우 한다감, 아들 출산…\"산모와 아이 모두 건강\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260922197500005",
+          "publishedAt": "2026-09-22T19:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한다감, 출산 앞두고 고급 외제차 선물 \"내 이미지와 맞아\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260921_0003798805",
+          "publishedAt": "2026-09-22T19:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'47세 최고령 임신' 한다감, 드디어 엄마 됐다..건강한 첫 득남 [단독]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/y0ueUpXSlQ",
+        "publishedAt": "2026-09-22T19:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-22T19:10:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "한다감",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/y0ueUpXSlQ"
+    },
+    {
+      "id": "a039875519f8af81",
+      "issueKey": "opus 5 5",
+      "issueTitle": "opus 5.5",
+      "trendTitle": "opus 5.5",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Introducing GPT-6 Sol and Luna",
+          "source": "OpenAI",
+          "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+          "publishedAt": "2026-09-22T18:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Introducing Claude Opus 5.5",
+          "source": "Anthropic",
+          "url": "https://www.anthropic.com/claude-opus-5-5",
+          "publishedAt": "2026-09-22T18:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Anthropic Unveils More Cost-Efficient Opus 5.5 Model Before IPO",
+          "source": "Bloomberg.com",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-22/anthropic-unveils-more-cost-efficient-opus-5-5-model-before-ipo",
+          "publishedAt": "2026-09-22T18:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Introducing Claude Opus 5.5",
+        "source": "Anthropic",
+        "url": "https://www.anthropic.com/claude-opus-5-5",
+        "publishedAt": "2026-09-22T18:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-22T18:40:00.000Z",
+      "firstSeenAt": "2026-09-22T20:57:30.210Z",
+      "lastSeenAt": "2026-09-22T20:57:30.210Z",
+      "title": "opus 5.5",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/claude-opus-5-5"
     },
     {
       "id": "bdfdc854f1d99ddf",
@@ -2321,218 +2458,6 @@
       "title": "맨시티",
       "source": "Chosunbiz",
       "url": "https://biz.chosun.com/sports/football/2026/09/21/MNRTENJQGI3GIZRXGAYWCY3BMY/"
-    },
-    {
-      "id": "4f109d3a3c349fb6",
-      "issueKey": "윤동희",
-      "issueTitle": "윤동희",
-      "trendTitle": "윤동희",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 5,
-      "relatedArticles": [
-        {
-          "title": "롯데 2군선수 국대 승선 논란, 대타 쐐기포 폭발→솔직 심경 밝혔다 “난 대표팀에 어울리지 않는 선수인데…” [오!쎈 오카자키]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/22/202609220023771335O",
-          "publishedAt": "2026-09-21T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922072408090",
-          "publishedAt": "2026-09-21T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'대타 쐐기포' 윤동희 \"대표팀 승선 부담됐지만…한시름 놓았다\"[AG]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/5KqDkHlwXB",
-          "publishedAt": "2026-09-21T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'절치부심 특타 동기' 박준순·윤동희의 불방망이…질타에 2군행 아픔 '훨훨'",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6581673",
-          "publishedAt": "2026-09-21T12:30:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "유일한 2군 선수가 홈런 때렸다… 윤동희 “홈런 기뻐, 한시름 덜었다”",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20260921155002106",
-          "publishedAt": "2026-09-21T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'국대' 윤동희, 태극마크 자격 증명했다…\"대표팀에 안 어울리는 성적이라 마음 무거웠어\" [AG 현장]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260922072408090",
-        "publishedAt": "2026-09-21T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-21T12:30:00.000Z",
-      "firstSeenAt": "2026-09-21T19:52:30.606Z",
-      "lastSeenAt": "2026-09-21T23:51:18.571Z",
-      "title": "윤동희",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260922072408090"
-    },
-    {
-      "id": "44e334b940fb9129",
-      "issueKey": "양승혜",
-      "issueTitle": "양승혜",
-      "trendTitle": "양승혜",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 5,
-      "relatedArticles": [
-        {
-          "title": "“AI가 만든 이미지인줄” 외신도 감탄한 韓펜싱 국대",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260921/134713093/1",
-          "publishedAt": "2026-09-21T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“AI가 만든 줄”…태국 언론도 놀란 韓 20세 ‘펜싱 국대’",
-          "source": "주간조선",
-          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55493",
-          "publishedAt": "2026-09-21T06:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“AI로 만든 이미지인 줄” 해외에서 미모로 화제 모으는 양승혜, 경기력도 집중 조명 “펜싱 국제무대 서는 배경은 경기력”",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922010444100",
-          "publishedAt": "2026-09-21T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"AI 미녀야?\"…韓 펜싱 국대 양승혜, 해외 언론도 주목[AG]",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6297240",
-          "publishedAt": "2026-09-21T06:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"AI 캐릭터인 줄\"…외신도 놀란 한국 '펜싱 아이돌'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609217763H",
-          "publishedAt": "2026-09-21T06:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“AI로 만든 이미지인 줄” 해외에서 미모로 화제 모으는 양승혜, 경기력도 집중 조명 “펜싱 국제무대 서는 배경은 경기력”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260922010444100",
-        "publishedAt": "2026-09-21T06:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-21T06:30:00.000Z",
-      "firstSeenAt": "2026-09-21T12:09:31.484Z",
-      "lastSeenAt": "2026-09-21T19:52:30.606Z",
-      "title": "양승혜",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260922010444100"
-    },
-    {
-      "id": "73f381e31e823f6e",
-      "issueKey": "죽음",
-      "issueTitle": "죽음",
-      "trendTitle": "죽음",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[공감]죽음의 메시지",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922201244889",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "죽음, 삶의 끝에서 만나는 질문",
-          "source": "브런치",
-          "url": "https://brunch.co.kr/@heroyw1/547",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“사후세계 있다” 40년 연구한 서울대병원 의사의 고백",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260919060239429?f=p",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[공감]죽음의 메시지",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260922201244889",
-        "publishedAt": "2026-09-22T14:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-22T14:30:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "죽음",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260922201244889"
-    },
-    {
-      "id": "1446d6f57acb2baf",
-      "issueKey": "이정현",
-      "issueTitle": "이정현",
-      "trendTitle": "이정현",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘신병4’ 2중대 ‘전원 전사’ 충격에 각성…3회 연속 시청률 4.6% 콘크리트 [차트IS]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260922091439394",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'신병4' 이정현, 개과천선 빌런의 전역...뭉클한 작별",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092214107220939",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "땅개X해병아저씨 '완벽 공조'..서로를 업고 산 내려왔다 (‘신병4’)",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112879856",
-          "publishedAt": "2026-09-22T14:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'신병4' 이정현, 개과천선 빌런의 전역...뭉클한 작별",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092214107220939",
-        "publishedAt": "2026-09-22T14:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-22T14:30:00.000Z",
-      "firstSeenAt": "2026-09-22T16:24:11.905Z",
-      "lastSeenAt": "2026-09-22T16:24:11.905Z",
-      "title": "이정현",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/09/22/2026092214107220939"
     }
   ]
 }
