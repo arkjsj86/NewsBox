@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-23T10:53:46.271Z",
+  "lastUpdatedAt": "2026-09-23T16:14:25.763Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -42,12 +42,12 @@
         {
           "title": "[TGS] 여동생 운전 가르치기, 친여동생보다 짜증난다",
           "url": "https://bbs.ruliweb.com/news/read/229699",
-          "meta": "댓글 22"
+          "meta": "댓글 25"
         },
         {
           "title": "[TGS] 스마일게이트, 일본 IP가 성공을 보장하지는 않는다",
           "url": "https://bbs.ruliweb.com/news/read/229676",
-          "meta": "댓글 17"
+          "meta": "댓글 18"
         },
         {
           "title": "[TGS] 특구청을 현실로, ‘아스트라에 오라티오’ 부스",
@@ -55,8 +55,8 @@
           "meta": "댓글 10"
         },
         {
-          "title": "㈜뉴노멀소프트 ‘창세기전 키우기: 무한 파밍’, Steam 동시 접속자 3만 7천 명 돌파",
-          "url": "https://bbs.ruliweb.com/news/read/229473",
+          "title": "[TGS] 타소가레관에서 메이츠들과 일상을, ‘파레이돌리아’ 부스",
+          "url": "https://bbs.ruliweb.com/news/read/229604",
           "meta": "댓글 3"
         }
       ]
@@ -67,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "특성 프리셋 및 신규 페이지 추가! 9월 23일(수) 패치 핵심 요약",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321400",
-          "meta": "솔: 인챈트 · 7분 전"
+          "title": "건즈 앤 드래곤즈, 테스트 30일까지 연장",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321433",
+          "meta": "건즈 앤 드래곤즈 · 28분 전"
         },
         {
-          "title": "송편 모아 버프템+MP 즉시 회복! 추석 이벤트 활용 포인트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321397",
-          "meta": "리니지 클래식 · 25분 전"
+          "title": "PvP는 물론, PvE 고점까지? 각성 아일린 살펴보기",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321355",
+          "meta": "세븐나이츠 리버스 · 6시간 전"
         },
         {
-          "title": "일곱 개의 대죄: 그랜드 크로스, 8500만 기념 업데이트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321395",
-          "meta": "일곱 개의 대죄: 그랜드크로스 · 50분 전"
+          "title": "1차 1시간, 2차 5시간... 카카오게임즈 '도깨비의세계' 신규 서버 추가",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321425",
+          "meta": "도깨비의세계 · 7시간 전"
         },
         {
-          "title": "카카오게임즈 아키에이지 워, '사계의 환영' 밸런스 개편",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321394",
-          "meta": "아키에이지 워 · 51분 전"
+          "title": "+9 강화 영웅 벨트 등장! 거래소 시세 살펴보기",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321423",
+          "meta": "솔: 인챈트 · 8시간 전"
         },
         {
-          "title": "스마일게이트, TGS 2026 신작 2종 시연 마쳐",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321393",
-          "meta": "미래시 · 52분 전"
+          "title": "게임 영상물 사이, '성세천하'가 보여준 중국 콘텐츠 심사의 경계",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321422",
+          "meta": "성세천하: 여제의 탄생 · 8시간 전"
         }
       ]
     }
@@ -102,10 +102,16 @@
       "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
