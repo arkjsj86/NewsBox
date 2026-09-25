@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-24T21:12:42.325Z",
+  "lastUpdatedAt": "2026-09-25T03:45:25.549Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,12 +28,12 @@
         {
           "title": "[TGS] 3D·전투·집무실… 1년 사이 무엇이 달라졌나, ‘미래시’ 인터뷰",
           "url": "https://bbs.ruliweb.com/news/read/229681",
-          "meta": "댓글 18"
+          "meta": "댓글 19"
         },
         {
           "title": "[TGS] 여동생 운전 가르치기, 친여동생보다 짜증난다",
           "url": "https://bbs.ruliweb.com/news/read/229699",
-          "meta": "댓글 25"
+          "meta": "댓글 26"
         },
         {
           "title": "[TGS] 스마일게이트, 일본 IP가 성공을 보장하지는 않는다",
@@ -60,12 +60,12 @@
         {
           "title": "디아블로4 개발진, 한국 팬들에게 추석 인사…\"30년 동행에 감사\"",
           "url": "https://www.inven.co.kr/webzine/news/?news=321443",
-          "meta": "디아블로4: 증오의 군주 · 10시간 전"
+          "meta": "디아블로4: 증오의 군주 · 21시간 전"
         },
         {
           "title": "한국, AG e풋볼 카타르전 부전승…카타르 측 안내 오류 주장",
           "url": "https://www.inven.co.kr/webzine/news/?news=321441",
-          "meta": "e풋볼 · 15시간 전"
+          "meta": "e풋볼 · 2026-09-24"
         },
         {
           "title": "건즈 앤 드래곤즈, 테스트 30일까지 연장",
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
