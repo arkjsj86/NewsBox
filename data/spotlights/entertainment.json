@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-26T10:54:51.607Z",
+  "lastUpdatedAt": "2026-09-26T15:54:53.928Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "19296bb5c95e527e",
-      "issueKey": "오상욱",
-      "issueTitle": "오상욱",
-      "trendTitle": "오상욱",
+      "id": "59036fd87f0e1e22",
+      "issueKey": "윤아",
+      "issueTitle": "윤아",
+      "trendTitle": "윤아",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "임윤아, 이탈리아가 깜짝 놀란 미모…이날 얼마나 예뻤길래",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260926210451160",
+          "publishedAt": "2026-09-26T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[사진]윤아,'마스크로 가려도 아름다워' - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/entertainment_photo/2026/09/26/HA2TKZBSGVQTMNTEG43WCM3FGI/",
+          "publishedAt": "2026-09-26T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘융프로디테’ 임윤아, 단발병 유발하겠네…밀라노 홀린 미모",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20260926/134735158/1",
+          "publishedAt": "2026-09-26T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임윤아, 이탈리아가 깜짝 놀란 미모…이날 얼마나 예뻤길래",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260926210451160",
+        "publishedAt": "2026-09-26T14:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-26T14:50:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "윤아",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260926210451160",
+      "rank": 1
+    },
+    {
+      "id": "3ab5080c2dcdb98f",
+      "issueKey": "왕사남",
+      "issueTitle": "왕사남",
+      "trendTitle": "왕사남",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12156590",
+          "publishedAt": "2026-09-26T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "추석 안방에 ‘왕사남’ 뜬다…연휴에 볼만한 영화들",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1279386.html",
+          "publishedAt": "2026-09-26T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘왕과 사는 남자’ 촬영지는 영월·문경…관객 1692만",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=459563",
+          "publishedAt": "2026-09-26T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "추석 안방에 ‘왕사남’ 뜬다…연휴에 볼만한 영화들",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/culture/culture_general/1279386.html",
+        "publishedAt": "2026-09-26T13:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-26T13:50:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "왕사남",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/culture/culture_general/1279386.html",
+      "rank": 2
+    },
+    {
+      "id": "1069c8a09f41d589",
+      "issueKey": "지선",
+      "issueTitle": "지선",
+      "trendTitle": "지선",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "600대 1 경쟁률 뚫었는데…러브홀릭 지선, 팀 탈퇴한 이유?(‘백투더뮤직2’)",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12161642",
+          "publishedAt": "2026-09-26T13:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[채널예약] ‘러브홀릭’ 보컬 지선, 600대 1 경쟁 뚫은 ‘로커 소녀’의 음악 인생 (백투더뮤직 시즌2)",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609261030003",
+          "publishedAt": "2026-09-26T13:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘러브홀릭’ 지선, ‘백투더뮤직2’서 전하는 인생 2막 풀스토리",
+          "source": "비즈엔터",
+          "url": "https://enter.etoday.co.kr/news/view/302922",
+          "publishedAt": "2026-09-26T13:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "600대 1 경쟁률 뚫었는데…러브홀릭 지선, 팀 탈퇴한 이유?(‘백투더뮤직2’)",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/broadcasting-service/12161642",
+        "publishedAt": "2026-09-26T13:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-26T13:20:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "지선",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/broadcasting-service/12161642",
+      "rank": 3
+    },
+    {
+      "id": "526c5c08e617f01d",
+      "issueKey": "휴게소",
+      "issueTitle": "휴게소",
+      "trendTitle": "휴게소",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "오상욱이 뒤집었다… ‘어펜저스’ 4연속 金",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_special/2026/09/26/3WPHRFBCH5HM3J3GP4SGE44KXQ/",
-          "publishedAt": "2026-09-26T09:50:00.000Z",
+          "title": "10명 숨지고 92명 다쳤다…불안한 '휴게소 안전'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260926173606543",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "한국 펜싱 남자 사브르, 아시안게임 단체전 4연패…오상욱 2관왕",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671896",
-          "publishedAt": "2026-09-26T09:50:00.000Z",
+          "title": "대보유통, 명절 귀성객 맞이 휴게소 위생·안전 강화",
+          "source": "공공뉴스",
+          "url": "https://www.00news.co.kr/news/articleView.html?idxno=106779",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "공격하는 도경동",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260926_0021458921",
-          "publishedAt": "2026-09-26T09:50:00.000Z",
+          "title": "[단독] 휴게시설 설치 기준 벗어난 영동고속도로(용인→안산 50㎞ 구간) 논란",
+          "source": "경기신문",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=912810",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "오상욱이 뒤집었다… ‘어펜저스’ 4연속 金",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_special/2026/09/26/3WPHRFBCH5HM3J3GP4SGE44KXQ/",
-        "publishedAt": "2026-09-26T09:50:00.000Z",
+        "title": "10명 숨지고 92명 다쳤다…불안한 '휴게소 안전'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260926173606543",
+        "publishedAt": "2026-09-26T12:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-26T09:50:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "오상욱",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_special/2026/09/26/3WPHRFBCH5HM3J3GP4SGE44KXQ/",
-      "rank": 1
+      "publishedAt": "2026-09-26T12:40:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "휴게소",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260926173606543",
+      "rank": 4
     },
     {
-      "id": "07b05efaeed85ad2",
-      "issueKey": "정미애",
-      "issueTitle": "정미애",
-      "trendTitle": "정미애",
+      "id": "86ac037b98d8c265",
+      "issueKey": "조현아",
+      "issueTitle": "조현아",
+      "trendTitle": "조현아",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583300",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
+          "title": "'17㎏ 감량' 조현아, 몰라보게 늘씬해진 모습 '눈길'",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260926503910",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"심수봉, 스스로 사망 선고한 것\"…'김다현 저격'에 유퉁 쓴소리",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/25/2026092520181620227",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"심수봉, 일반인에 훈계\" 녹화장 폭로…김다현 사과에도 과거 파묘",
-          "source": "TV조선뉴스",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/25/2026092590085.html",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6583300",
-        "publishedAt": "2026-09-26T09:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T09:30:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "정미애",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6583300",
-      "rank": 2
-    },
-    {
-      "id": "d2a4e45a469d190f",
-      "issueKey": "엔비디아",
-      "issueTitle": "엔비디아",
-      "trendTitle": "엔비디아",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"10년 전 1억 주고 샀다면 지금쯤…\" 압도적 수익률 1위는",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026092665447",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"엔비디아 138억·강남 아파트 2.9억\"...10년 전 1억 투자 '승자'는",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/09/26/2026092608170096601",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "10년 전 1억 투자했다면…엔비디아 138억·SK하닉 47억·은마아파트 2.9억",
+          "title": "'위고비 중단' 조현아, 62kg 요요 딛고 '17kg 감량' 성공…날렵해진 턱선 눈길 [RE:스타]",
           "source": "Daum",
-          "url": "https://v.daum.net/v/6YfeNUAitQ",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"엔비디아 138억·강남 아파트 2.9억\"...10년 전 1억 투자 '승자'는",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/09/26/2026092608170096601",
-        "publishedAt": "2026-09-26T09:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-26T09:30:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "엔비디아",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/stock/2026/09/26/2026092608170096601",
-      "rank": 3
-    },
-    {
-      "id": "03184555e9907cc1",
-      "issueKey": "주천희",
-      "issueTitle": "주천희",
-      "trendTitle": "주천희",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "세계 1위 신유빈-임종훈, 통한의 역전패..또 동메달",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260925580172",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "’노골드’ 한국탁구, 동메달 3개로 아시안게임 조기 마감",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260926191909z0k",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
+          "url": "https://v.daum.net/v/20260926155408315",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "신유빈, 8강서 ‘한국戰 51승 무패’ 중국 왕만위에 0대4 완패",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_special/2026/09/26/7BVHR5FKNJDI3ERGWY6JUPUHTI/",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
+          "title": "조현아, 확 달라진 미모…위고비 중단 후에도 늘씬 자태 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6301904",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "주천희",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20260925580172",
-        "publishedAt": "2026-09-26T09:30:00.000Z",
+        "title": "'17㎏ 감량' 조현아, 몰라보게 늘씬해진 모습 '눈길'",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260926503910",
+        "publishedAt": "2026-09-26T12:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-26T09:30:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "주천희",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20260925580172",
-      "rank": 4
-    },
-    {
-      "id": "0a06a1ba1c53a4b4",
-      "issueKey": "두산",
-      "issueTitle": "두산",
-      "trendTitle": "두산",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[25일 프리뷰] ‘5연패’ 두산 최승용, 6연승 롯데 상대로 반등할까",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112881815",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“실수했다고 이닝 중간에 교체한 건 처음이다” 아찔한 실수를 2번이나…왜 2루 베이스 비웠나, 나름 이유는 있었다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926104249582",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "어이없는 실책은 쓴소리, 어쩔 수 없는 실책은 위로…80억 유격수, 이래서 우승 내야 사령관인가",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/25/202609251227775714O",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[25일 프리뷰] ‘5연패’ 두산 최승용, 6연승 롯데 상대로 반등할까",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112881815",
-        "publishedAt": "2026-09-26T09:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T09:30:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "두산",
-      "source": "OSEN",
-      "url": "https://www.osen.co.kr/article/G1112881815",
+      "publishedAt": "2026-09-26T12:40:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "조현아",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20260926503910",
       "rank": 5
     },
     {
-      "id": "454265f3c417bd17",
-      "issueKey": "배성우",
-      "issueTitle": "끝장수사",
-      "trendTitle": "끝장수사",
+      "id": "2149454ad2a43a45",
+      "issueKey": "elevator breakdown at daejeon hypermarket traps 5 people before rescue",
+      "issueTitle": "Elevator Breakdown at Daejeon Hypermarket Traps 5 People Before Rescue",
+      "trendTitle": "Elevator Breakdown at Daejeon Hypermarket Traps 5 People Before Rescue",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Elevator Breakdown at Daejeon Hypermarket Traps 5 People Before Rescue",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008770723",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Ahn Se-young cruises into Asian Games quarterfinals - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/26/W7JRNAOTIRD3TORBVRFGTI7UGQ/",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "An Se-young Advances to Quarterfinals After Two Matches in One Day",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/english/sports-en/2026/09/26/QDSZKN7EQ5DFBBPD6SNOGVMQDI/",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Elevator Breakdown at Daejeon Hypermarket Traps 5 People Before Rescue",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008770723",
+        "publishedAt": "2026-09-26T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-26T12:40:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "Elevator Breakdown at Daejeon Hypermarket Traps 5 People Before Rescue",
+      "source": "news.sbs.co.kr",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008770723",
+      "rank": 6
+    },
+    {
+      "id": "30a74486fe7d7bfb",
+      "issueKey": "한소희",
+      "issueTitle": "한소희",
+      "trendTitle": "한소희",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'인턴' 한소희가 선택한 구리 52억 펜트하우스는[누구집]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01994246645584056&amp;mediaCodeNo=257",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘인턴’ 흥행하자 한소희 집도 떴다…52억 ‘아르카디아 시그니처’ 들여다보니",
+          "source": "대한청년일보",
+          "url": "https://www.koreayouthdaily.com/news/554156",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'인턴' 한소희, 갑질(?) 현장 포착..남배우한테 주먹 날렸다",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/09/26/2026092617544839199",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'인턴' 한소희가 선택한 구리 52억 펜트하우스는[누구집]",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=01994246645584056&amp;mediaCodeNo=257",
+        "publishedAt": "2026-09-26T12:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-26T12:30:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "한소희",
+      "source": "이데일리",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01994246645584056&amp;mediaCodeNo=257",
+      "rank": 7
+    },
+    {
+      "id": "810c6e137081c1fd",
+      "issueKey": "정시아",
+      "issueTitle": "정시아",
+      "trendTitle": "정시아",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "7년 동안 창고에 처박혀 있었는데... 넷플릭스 공개되자마자 1위 오른 이 영화",
+          "title": "정시아 \"VIP 조리원, 아이 딱 4명...양현석 아들도 있었다\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"신생아실에 오직 아기 4명‥양현석 子도 있었다\" 정시아, 산후조리원 VIP였네",
           "source": "Daum",
-          "url": "https://v.daum.net/v/BoACjxyOeN",
-          "publishedAt": "2026-09-26T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "개봉 5개월 만에...추석 연휴 첫날 넷플릭스 1위 오른 대반전 '한국 영화'",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1161864",
-          "publishedAt": "2026-09-26T09:20:00.000Z",
+          "url": "https://v.daum.net/v/tJ5gO1LxyR",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "영화 ‘끝장수사’ “끝난 사건이란 없다! 배성우·정가람·이솜·윤경호·조한철 출연”",
-          "source": "한국강사신문",
-          "url": "https://www.lecturernews.com/news/articleView.html?idxno=211136",
-          "publishedAt": "2026-09-26T09:20:00.000Z",
+          "title": "\"♥백도빈이 직접 꾸며\" 정시아, 입주민 전용 헬스장 공개 ('아시정')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112881665",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "영화 ‘끝장수사’ “끝난 사건이란 없다! 배성우·정가람·이솜·윤경호·조한철 출연”",
-        "source": "한국강사신문",
-        "url": "https://www.lecturernews.com/news/articleView.html?idxno=211136",
-        "publishedAt": "2026-09-26T09:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-09-26T09:20:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "끝장수사",
-      "source": "한국강사신문",
-      "url": "https://www.lecturernews.com/news/articleView.html?idxno=211136",
-      "rank": 6
-    },
-    {
-      "id": "344954af9f1273bd",
-      "issueKey": "암표",
-      "issueTitle": "암표",
-      "trendTitle": "암표",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "KTX 예매 어렵더니…\"이러니 못 샀지\" 4000장 싹쓸이",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202609221465i",
-          "publishedAt": "2026-09-26T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[날씨] 추석 연휴 첫날, 용산역 귀성객으로 북적...열차 예매율 83.2%",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202609241617295123",
-          "publishedAt": "2026-09-26T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“원하는 열차 좌석 확보해드립니다”···명절되니 고개든 불법 ‘열차 취소표 구매 대행’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609241140001",
-          "publishedAt": "2026-09-26T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "암표",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202609221465i",
-        "publishedAt": "2026-09-26T09:10:00.000Z",
+        "title": "정시아 \"VIP 조리원, 아이 딱 4명...양현석 아들도 있었다\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317",
+        "publishedAt": "2026-09-26T12:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-26T09:10:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "암표",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202609221465i",
-      "rank": 7
-    },
-    {
-      "id": "d8c615c57632cbf5",
-      "issueKey": "배재민",
-      "issueTitle": "배재민",
-      "trendTitle": "배재민",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "평균 41.7세 ‘오락실 아재들’, 대전게임 종주국 日 넘고 金",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_special/2026/09/26/S3D2BKMU5VD5DPDUHKLKJ3SSFM/",
-          "publishedAt": "2026-09-26T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "평균나이 41.7세 형님들의 승리…‘대전격투’서 韓 e스포츠 첫 금메달",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926185251509",
-          "publishedAt": "2026-09-26T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이광노-연제길-배재민 '금메달과 함께'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20260926_0021459162",
-          "publishedAt": "2026-09-26T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이광노-연제길-배재민 '금메달과 함께'",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20260926_0021459162",
-        "publishedAt": "2026-09-26T09:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-09-26T09:10:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "배재민",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISI20260926_0021459162",
+      "publishedAt": "2026-09-26T12:30:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "정시아",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317",
       "rank": 8
     },
     {
-      "id": "7696918a091aef55",
-      "issueKey": "사교육",
-      "issueTitle": "사교육",
-      "trendTitle": "사교육",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "727c4516945f0391",
+      "issueKey": "로또",
+      "issueTitle": "로또",
+      "trendTitle": "로또",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'쉬었음' 청년 7개월째 줄었는데 취업자는 46개월째↓…청년 고용 착시 '우려'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926070139825",
-          "publishedAt": "2026-09-26T08:50:00.000Z",
+          "title": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609262248001",
+          "publishedAt": "2026-09-26T12:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "10명 중 9명, 취업조차 '사교육'…평균비용 연 360만원",
-          "source": "아시아경제",
-          "url": "https://view.asiae.co.kr/article/2026092310444711901",
-          "publishedAt": "2026-09-26T08:50:00.000Z",
+          "title": "밤 10시 넘었는데…로또 추첨, 아시안게임 야구 경기로 지연",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/26/2026092622255739524",
+          "publishedAt": "2026-09-26T12:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "반도체 호황인데, 청년층 ‘취업 한파’는 계속…20대 고용률 5년만 60% 아래로",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20260926503153",
-          "publishedAt": "2026-09-26T08:50:00.000Z",
+          "title": "1243회 로또 1등 12명… 당첨금 각 25.9억원 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/26/TQGIFRGYFNG5ZNCD253IR2KMR4/",
+          "publishedAt": "2026-09-26T12:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "10명 중 9명, 취업조차 '사교육'…평균비용 연 360만원",
-        "source": "아시아경제",
-        "url": "https://view.asiae.co.kr/article/2026092310444711901",
-        "publishedAt": "2026-09-26T08:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-26T08:50:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "사교육",
-      "source": "아시아경제",
-      "url": "https://view.asiae.co.kr/article/2026092310444711901",
-      "rank": 9
-    },
-    {
-      "id": "5856488cb29a3f16",
-      "issueKey": "구자욱",
-      "issueTitle": "구자욱",
-      "trendTitle": "구자욱",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "구자욱 저리 잘하는데, \"고민이다\" 박진만은 왜?…적장 이숭용은 \"경지에 오른 것 같다\" 극찬",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926083839912",
-          "publishedAt": "2026-09-26T08:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "3안타 5타점 치고 갑자기 교체 '가슴 철렁'…삼성 천만다행, 구자욱 19일 사직 롯데전 정상 출격 [오!쎈 부산]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260919n08349",
-          "publishedAt": "2026-09-26T08:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"좀 덜 뛰는 편이..\" 시한폭탄, 타격왕의 조마조마 햄스트링, 모두가 불안하다",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/09/20/GFRTKMRRGU3WGMBZMVSGMYLGMQ/",
-          "publishedAt": "2026-09-26T08:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "구자욱 저리 잘하는데, \"고민이다\" 박진만은 왜?…적장 이숭용은 \"경지에 오른 것 같다\" 극찬",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260926083839912",
-        "publishedAt": "2026-09-26T08:30:00.000Z",
+        "title": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609262248001",
+        "publishedAt": "2026-09-26T12:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-26T08:30:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "구자욱",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260926083839912",
-      "rank": 10
+      "publishedAt": "2026-09-26T12:20:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "로또",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202609262248001",
+      "rank": 9
     }
   ],
   "history": [
@@ -531,50 +484,50 @@
       "url": "https://v.daum.net/v/20260925214622502"
     },
     {
-      "id": "f0445872cdcaf60e",
-      "issueKey": "손흥민",
-      "issueTitle": "손흥민",
-      "trendTitle": "손흥민",
-      "approxTraffic": "100000+",
-      "trafficScore": 100000,
+      "id": "727c4516945f0391",
+      "issueKey": "로또",
+      "issueTitle": "로또",
+      "trendTitle": "로또",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[속보] 한국 에콰도르 축구 선발라인업 발표...손흥민·김민재 포함",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3705585",
-          "publishedAt": "2026-09-24T10:00:00.000Z",
+          "title": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202609262248001",
+          "publishedAt": "2026-09-26T12:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"대한민국 파이팅!\"…모레노호 데뷔·첫 국내 A매치에 빅버드 '활기'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260924_0003803104",
-          "publishedAt": "2026-09-24T10:00:00.000Z",
+          "title": "밤 10시 넘었는데…로또 추첨, 아시안게임 야구 경기로 지연",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/26/2026092622255739524",
+          "publishedAt": "2026-09-26T12:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'모레노호' 첫 시험대...오늘 밤 남미 강호 에콰도르와 평가전",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0107_202609241629415210",
-          "publishedAt": "2026-09-24T10:00:00.000Z",
+          "title": "1243회 로또 1등 12명… 당첨금 각 25.9억원 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/topics/topics_social/2026/09/26/TQGIFRGYFNG5ZNCD253IR2KMR4/",
+          "publishedAt": "2026-09-26T12:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[속보] 한국 에콰도르 축구 선발라인업 발표...손흥민·김민재 포함",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3705585",
-        "publishedAt": "2026-09-24T10:00:00.000Z",
+        "title": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202609262248001",
+        "publishedAt": "2026-09-26T12:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-24T10:00:00.000Z",
-      "firstSeenAt": "2026-09-24T11:13:13.181Z",
-      "lastSeenAt": "2026-09-24T11:13:13.181Z",
-      "title": "손흥민",
-      "source": "국제뉴스",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3705585"
+      "publishedAt": "2026-09-26T12:20:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "로또",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202609262248001"
     },
     {
       "id": "4062ec403262d9da",
@@ -934,6 +887,52 @@
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20260925103112ZXn"
     },
     {
+      "id": "526c5c08e617f01d",
+      "issueKey": "휴게소",
+      "issueTitle": "휴게소",
+      "trendTitle": "휴게소",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "10명 숨지고 92명 다쳤다…불안한 '휴게소 안전'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260926173606543",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "대보유통, 명절 귀성객 맞이 휴게소 위생·안전 강화",
+          "source": "공공뉴스",
+          "url": "https://www.00news.co.kr/news/articleView.html?idxno=106779",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[단독] 휴게시설 설치 기준 벗어난 영동고속도로(용인→안산 50㎞ 구간) 논란",
+          "source": "경기신문",
+          "url": "https://www.kgnews.co.kr/news/article.html?no=912810",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "10명 숨지고 92명 다쳤다…불안한 '휴게소 안전'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260926173606543",
+        "publishedAt": "2026-09-26T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-26T12:40:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "휴게소",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260926173606543"
+    },
+    {
       "id": "19296bb5c95e527e",
       "issueKey": "오상욱",
       "issueTitle": "오상욱",
@@ -1183,6 +1182,98 @@
       "title": "박찬호",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260924174527790"
+    },
+    {
+      "id": "86ac037b98d8c265",
+      "issueKey": "조현아",
+      "issueTitle": "조현아",
+      "trendTitle": "조현아",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'17㎏ 감량' 조현아, 몰라보게 늘씬해진 모습 '눈길'",
+          "source": "세계일보",
+          "url": "https://www.segye.com/newsView/20260926503910",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'위고비 중단' 조현아, 62kg 요요 딛고 '17kg 감량' 성공…날렵해진 턱선 눈길 [RE:스타]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260926155408315",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "조현아, 확 달라진 미모…위고비 중단 후에도 늘씬 자태 [N샷]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6301904",
+          "publishedAt": "2026-09-26T12:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'17㎏ 감량' 조현아, 몰라보게 늘씬해진 모습 '눈길'",
+        "source": "세계일보",
+        "url": "https://www.segye.com/newsView/20260926503910",
+        "publishedAt": "2026-09-26T12:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-26T12:40:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "조현아",
+      "source": "세계일보",
+      "url": "https://www.segye.com/newsView/20260926503910"
+    },
+    {
+      "id": "30a74486fe7d7bfb",
+      "issueKey": "한소희",
+      "issueTitle": "한소희",
+      "trendTitle": "한소희",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'인턴' 한소희가 선택한 구리 52억 펜트하우스는[누구집]",
+          "source": "이데일리",
+          "url": "https://www.edaily.co.kr/News/Read?newsId=01994246645584056&amp;mediaCodeNo=257",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘인턴’ 흥행하자 한소희 집도 떴다…52억 ‘아르카디아 시그니처’ 들여다보니",
+          "source": "대한청년일보",
+          "url": "https://www.koreayouthdaily.com/news/554156",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'인턴' 한소희, 갑질(?) 현장 포착..남배우한테 주먹 날렸다",
+          "source": "스타뉴스",
+          "url": "https://www.starnewskorea.com/star/2026/09/26/2026092617544839199",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'인턴' 한소희가 선택한 구리 52억 펜트하우스는[누구집]",
+        "source": "이데일리",
+        "url": "https://www.edaily.co.kr/News/Read?newsId=01994246645584056&amp;mediaCodeNo=257",
+        "publishedAt": "2026-09-26T12:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-26T12:30:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "한소희",
+      "source": "이데일리",
+      "url": "https://www.edaily.co.kr/News/Read?newsId=01994246645584056&amp;mediaCodeNo=257"
     },
     {
       "id": "07b05efaeed85ad2",
@@ -1829,142 +1920,96 @@
       "url": "https://view.asiae.co.kr/article/2026092413490077989"
     },
     {
-      "id": "5bf49e72337ae309",
-      "issueKey": "김경문",
-      "issueTitle": "김경문",
-      "trendTitle": "김경문",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "3ab5080c2dcdb98f",
+      "issueKey": "왕사남",
+      "issueTitle": "왕사남",
+      "trendTitle": "왕사남",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'누가 김경문 재계약 불가 단언하는가?' 19년 만의 준우승 업적 인정해야…종합적으로 판단해야 할 6가지 조건",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/78mwGV71YH",
-          "publishedAt": "2026-09-24T09:20:00.000Z",
+          "title": "",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/broadcasting-service/12156590",
+          "publishedAt": "2026-09-26T13:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'1위' 이강철 재계약 청신호, 가을야구 멀어진 김경문-김태형 '위태'",
-          "source": "오마이스타",
-          "url": "https://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0003267982",
-          "publishedAt": "2026-09-24T09:20:00.000Z",
+          "title": "추석 안방에 ‘왕사남’ 뜬다…연휴에 볼만한 영화들",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/culture_general/1279386.html",
+          "publishedAt": "2026-09-26T13:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "KT 이강철 재계약, LG 염경엽 30억 깰까?…재계약 규모, 한국시리즈 우승이 변수",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260918110751866",
-          "publishedAt": "2026-09-24T09:20:00.000Z",
+          "title": "‘왕과 사는 남자’ 촬영지는 영월·문경…관객 1692만",
+          "source": "제주교통복지신문",
+          "url": "https://www.jejutwn.com/news/article.html?no=459563",
+          "publishedAt": "2026-09-26T13:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'누가 김경문 재계약 불가 단언하는가?' 19년 만의 준우승 업적 인정해야…종합적으로 판단해야 할 6가지 조건",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/78mwGV71YH",
-        "publishedAt": "2026-09-24T09:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-24T09:20:00.000Z",
-      "firstSeenAt": "2026-09-24T11:13:13.181Z",
-      "lastSeenAt": "2026-09-24T11:13:13.181Z",
-      "title": "김경문",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/78mwGV71YH"
-    },
-    {
-      "id": "ed457bfaa6ab123f",
-      "issueKey": "여홍철",
-      "issueTitle": "여홍철",
-      "trendTitle": "여홍철",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘체조요정’ 여서정 金 땄다…파리 아픔 딛고 8년만에 AG 정상",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924185909652",
-          "publishedAt": "2026-09-24T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘도마 여왕’ 여서정 또 금메달…여홍철 반열에 섰다",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260924/134731891/1",
-          "publishedAt": "2026-09-24T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여서정, 북한 안창옥 꺾고 8년 만에 도마 금메달…아빠 여홍철과 어깨 나란히",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671264",
-          "publishedAt": "2026-09-24T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘도마 여왕’ 여서정 또 금메달…여홍철 반열에 섰다",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260924/134731891/1",
-        "publishedAt": "2026-09-24T09:10:00.000Z",
+        "title": "추석 안방에 ‘왕사남’ 뜬다…연휴에 볼만한 영화들",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/culture/culture_general/1279386.html",
+        "publishedAt": "2026-09-26T13:50:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-09-24T09:10:00.000Z",
-      "firstSeenAt": "2026-09-24T11:13:13.181Z",
-      "lastSeenAt": "2026-09-24T11:13:13.181Z",
-      "title": "여홍철",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Sports/article/all/20260924/134731891/1"
+      "publishedAt": "2026-09-26T13:50:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "왕사남",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/culture/culture_general/1279386.html"
     },
     {
-      "id": "d3209e978f170796",
-      "issueKey": "우지원",
-      "issueTitle": "우지원",
-      "trendTitle": "우지원",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "810c6e137081c1fd",
+      "issueKey": "정시아",
+      "issueTitle": "정시아",
+      "trendTitle": "정시아",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'성형 논란' 우지원 딸 우서윤, 175cm 한복 자태..\"우리의 아름다움\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260924092051884",
-          "publishedAt": "2026-09-24T08:50:00.000Z",
+          "title": "정시아 \"VIP 조리원, 아이 딱 4명...양현석 아들도 있었다\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "우지원 딸 미스코리아 진 우서윤 \"따뜻한 한가위 되길\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260924_0003803001",
-          "publishedAt": "2026-09-24T08:50:00.000Z",
+          "title": "\"신생아실에 오직 아기 4명‥양현석 子도 있었다\" 정시아, 산후조리원 VIP였네",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/tJ5gO1LxyR",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[MD포토] 박민우 `1타점 3루타의 짜릿함`",
-          "source": "마이데일리",
-          "url": "https://www.mydaily.co.kr/page/view/2026092320084939854",
-          "publishedAt": "2026-09-24T08:50:00.000Z",
+          "title": "\"♥백도빈이 직접 꾸며\" 정시아, 입주민 전용 헬스장 공개 ('아시정')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112881665",
+          "publishedAt": "2026-09-26T12:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'성형 논란' 우지원 딸 우서윤, 175cm 한복 자태..\"우리의 아름다움\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260924092051884",
-        "publishedAt": "2026-09-24T08:50:00.000Z",
+        "title": "정시아 \"VIP 조리원, 아이 딱 4명...양현석 아들도 있었다\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317",
+        "publishedAt": "2026-09-26T12:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-24T08:50:00.000Z",
-      "firstSeenAt": "2026-09-24T11:13:13.181Z",
-      "lastSeenAt": "2026-09-24T11:13:13.181Z",
-      "title": "우지원",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260924092051884"
+      "publishedAt": "2026-09-26T12:30:00.000Z",
+      "firstSeenAt": "2026-09-26T15:54:53.928Z",
+      "lastSeenAt": "2026-09-26T15:54:53.928Z",
+      "title": "정시아",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317"
     },
     {
       "id": "03184555e9907cc1",
@@ -2287,98 +2332,6 @@
       "title": "스텔스 기",
       "source": "국제신문",
       "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20260924.22002008276"
-    },
-    {
-      "id": "2838defc5ca397bf",
-      "issueKey": "australia vs brazil",
-      "issueTitle": "australia vs brazil",
-      "trendTitle": "australia vs brazil",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Socceroos vs. Brazil live: Australia hosts Raphinha and Co. in Townsville",
-          "source": "ESPN",
-          "url": "https://www.espn.com/soccer/story/_/id/50017773/socceroos-vs-brazil-live-australia-hosts-raphinha-co-townsville",
-          "publishedAt": "2026-09-25T09:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Australia v Brazil: men’s international football friendly – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
-          "publishedAt": "2026-09-25T09:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "How to watch Australia vs. Brazil online for free",
-          "source": "Mashable",
-          "url": "https://mashable.com/entertainment/australia-brazil-international-friendly-2026-live-stream-for-free",
-          "publishedAt": "2026-09-25T09:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "australia vs brazil",
-        "source": "ESPN",
-        "url": "https://www.espn.com/soccer/story/_/id/50017773/socceroos-vs-brazil-live-australia-hosts-raphinha-co-townsville",
-        "publishedAt": "2026-09-25T09:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-25T09:10:00.000Z",
-      "firstSeenAt": "2026-09-25T11:18:13.153Z",
-      "lastSeenAt": "2026-09-25T11:18:13.153Z",
-      "title": "australia vs brazil",
-      "source": "ESPN",
-      "url": "https://www.espn.com/soccer/story/_/id/50017773/socceroos-vs-brazil-live-australia-hosts-raphinha-co-townsville"
-    },
-    {
-      "id": "63d2f84def1f1be2",
-      "issueKey": "통폐합에 정원",
-      "issueTitle": "통폐합에 정원",
-      "trendTitle": "통폐합에 정원",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "대학 통폐합에 정원·학생수 줄었지만…교원·학과는 다시 늘어",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/u9QPKHlwG2?f=p",
-          "publishedAt": "2026-09-25T00:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘지역소멸 해법’ 대학 통·폐합…현장은 진통중",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260922010008472",
-          "publishedAt": "2026-09-25T00:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "대학 통폐합, 신입생 유치 효과 뚜렷…인력·학과 구조조정은 지속성 한계",
-          "source": "서울뉴스통신",
-          "url": "http://www.snakorea.com/news/articleView.html?idxno=1052520",
-          "publishedAt": "2026-09-25T00:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "대학 통폐합에 정원·학생수 줄었지만…교원·학과는 다시 늘어",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/u9QPKHlwG2?f=p",
-        "publishedAt": "2026-09-25T00:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-25T00:30:00.000Z",
-      "firstSeenAt": "2026-09-25T03:45:25.549Z",
-      "lastSeenAt": "2026-09-25T03:45:25.549Z",
-      "title": "통폐합에 정원",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/u9QPKHlwG2?f=p"
     }
   ]
 }
