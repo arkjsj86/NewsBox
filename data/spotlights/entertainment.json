@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-26T23:23:23.634Z",
+  "lastUpdatedAt": "2026-09-27T04:00:40.497Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "c1e0f44cad0903fb",
-      "issueKey": "9월 4주차 두산에너빌리티 주가 변동성 확대",
-      "issueTitle": "9월 4주차 두산에너빌리티 주가 변동성 확대",
-      "trendTitle": "9월 4주차 두산에너빌리티 주가 변동성 확대",
+      "id": "889c88eb7a1b0ded",
+      "issueKey": "노윤서",
+      "issueTitle": "노윤서",
+      "trendTitle": "노윤서",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“비키니 몸매 비결?”…노윤서가 꾸준히 한다는 필라테스, 다이어트 효과는",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Entertainment/article/all/20260927/134735383/1",
+          "publishedAt": "2026-09-27T01:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "노윤서·리정, 하와이 달군 비키니 투샷…청순vs건강미 ‘극과 극’",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202609270943003",
+          "publishedAt": "2026-09-27T01:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "노윤서, 하와이서 호피 비키니로 뽐낸 '파격 몸매'..과감한 뒤태 자신감",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20260925175616853",
+          "publishedAt": "2026-09-27T01:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“비키니 몸매 비결?”…노윤서가 꾸준히 한다는 필라테스, 다이어트 효과는",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Entertainment/article/all/20260927/134735383/1",
+        "publishedAt": "2026-09-27T01:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-27T01:50:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "노윤서",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Entertainment/article/all/20260927/134735383/1",
+      "rank": 1
+    },
+    {
+      "id": "881a8172c7dcec2e",
+      "issueKey": "부모",
+      "issueTitle": "부모",
+      "trendTitle": "부모",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"받을 재산 없잖아\" 부모와 연 끊는다…무연고 사망 급증 이유",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/27/2026092121093058503",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "권칠승 \"단절 아닌 연결...돌봄 민주주의의 출발점\"",
+          "source": "https://spt.co.kr/",
+          "url": "https://supple.kr/news/cmuizkmwn00edk0l7csuopgv7",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한가위 대보름달의 뒷면…무연고 사망자의 마지막 길 [르포]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202609221538564178",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"받을 재산 없잖아\" 부모와 연 끊는다…무연고 사망 급증 이유",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/politics/2026/09/27/2026092121093058503",
+        "publishedAt": "2026-09-27T01:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-27T01:40:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "부모",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/politics/2026/09/27/2026092121093058503",
+      "rank": 2
+    },
+    {
+      "id": "031db6de4f16f672",
+      "issueKey": "조혜련",
+      "issueTitle": "조혜련",
+      "trendTitle": "조혜련",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독]\"옛날엔 술·담배로 풀었죠\"..조혜련, 45년 방황 끝 만난 '인생 매니저' [인터뷰①]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927063252776",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "조혜련 때린 KBS 개그맨 누구?..\"방송국 옮기려다 맞아\" 개그계 똥군기 폭로",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-27/202609270100176020011626",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“나도 맞았다” 조혜련…SBS 가려다 잡혀들어와 “배신자 취급”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1637668",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독]\"옛날엔 술·담배로 풀었죠\"..조혜련, 45년 방황 끝 만난 '인생 매니저' [인터뷰①]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260927063252776",
+        "publishedAt": "2026-09-27T01:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-27T01:40:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "조혜련",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260927063252776",
+      "rank": 3
+    },
+    {
+      "id": "79113d976a287709",
+      "issueKey": "시리즈",
+      "issueTitle": "시리즈",
+      "trendTitle": "시리즈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "갤럭시 폴드8, 유럽 5개국 소비자 평가서 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927093900061",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "갤럭시 Z8 시리즈, 유럽 5개국 소비자 평가 1위",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/27/2026092710284299008",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "애플도 결국 참전…뜨거워지는 '폴더블폰' 경쟁",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260926002500038",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "갤럭시 Z8 시리즈, 유럽 5개국 소비자 평가 1위",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/tech/2026/09/27/2026092710284299008",
+        "publishedAt": "2026-09-27T01:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-27T01:10:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "시리즈",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/tech/2026/09/27/2026092710284299008",
+      "rank": 4
+    },
+    {
+      "id": "3efd67e13daee4b6",
+      "issueKey": "mexico vs colombia",
+      "issueTitle": "mexico vs colombia",
+      "trendTitle": "mexico vs colombia",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "9월 4주차 두산에너빌리티 주가 변동성 확대",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16215520",
-          "publishedAt": "2026-09-26T22:10:00.000Z",
+          "title": "$√#+[Transimisión Gratuita]**Ver Mexico vs. Colombia En Vivo Y directo Gratis",
+          "source": "CzechInvest",
+          "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3VybW5reTEyNC5naXRodWIuaW8vbmV3cy9uaS54bWwiLz48L2tycGFubz4=&amp;id=mex-col-uefa-nations-league-en-vivo02",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "두산에너빌리티 6% 급락…8만1300원까지 밀려",
-          "source": "잡포스트",
-          "url": "https://www.job-post.co.kr/news/articleView.html?idxno=229042",
-          "publishedAt": "2026-09-26T22:10:00.000Z",
+          "title": "Gilberto Mora ilumina el debut de Rafael Márquez con México",
+          "source": "ESPN México",
+          "url": "https://www.espn.com.mx/futbol/selecciones/nota/_/id/17308294/mexico-vs-colombia-gilberto-mora-debut-rafael-marquez-tecnico",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "두산에너빌리티 투자분석 2026. 09. 24",
-          "source": "주달",
-          "url": "https://www.judal.co.kr/?view=stockAI&amp;shareToken=xrM0KINcja5Zszl1",
-          "publishedAt": "2026-09-26T22:10:00.000Z",
+          "title": "¡Los 11 de la tribu! Rafael Márquez presenta a su primera alineación con el Tri",
+          "source": "Récord",
+          "url": "https://www.record.com.mx/historia/los-11-de-la-tribu-rafael-marquez-presenta-a-su-primera-alineacion-con-el-tri-2026092700445265230",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "9월 4주차 두산에너빌리티 주가 변동성 확대",
-        "source": "톱스타뉴스",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16215520",
-        "publishedAt": "2026-09-26T22:10:00.000Z",
+        "title": "mexico vs colombia",
+        "source": "CzechInvest",
+        "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3VybW5reTEyNC5naXRodWIuaW8vbmV3cy9uaS54bWwiLz48L2tycGFubz4=&amp;id=mex-col-uefa-nations-league-en-vivo02",
+        "publishedAt": "2026-09-27T01:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-26T22:10:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "9월 4주차 두산에너빌리티 주가 변동성 확대",
-      "source": "톱스타뉴스",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16215520",
-      "rank": 1
-    },
-    {
-      "id": "47ee9daaaf7be27a",
-      "issueKey": "남자부",
-      "issueTitle": "남자부",
-      "trendTitle": "남자부",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'세계랭킹 1위' 안세영까지 작심 비판 \"당황스러워\" 7시간 사이에 2경기 소화...남자부는 자정쯤 경기 마무리 사태",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/fgNfmS6blj",
-          "publishedAt": "2026-09-26T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[아시안게임] 황당한 '1일 2경기' 일정에 안세영도 갸웃…\"이런 경우 처음\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260926031000007",
-          "publishedAt": "2026-09-26T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "안세영, 하루 2경기에도 완승…여자 단식 8강 진출",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671906",
-          "publishedAt": "2026-09-26T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'세계랭킹 1위' 안세영까지 작심 비판 \"당황스러워\" 7시간 사이에 2경기 소화...남자부는 자정쯤 경기 마무리 사태",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/fgNfmS6blj",
-        "publishedAt": "2026-09-26T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T22:00:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "남자부",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/fgNfmS6blj",
-      "rank": 2
-    },
-    {
-      "id": "d69ab8f3f31aeaa5",
-      "issueKey": "오늘",
-      "issueTitle": "오늘",
-      "trendTitle": "운수",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[오늘의 운세] 2026년 9월 27일 (음 8월 17일)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&amp;key=20260927.99099008097",
-          "publishedAt": "2026-09-26T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[오늘의 운세] 2026년 09월 27일 별자리 운세",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0121_202609270000000002",
-          "publishedAt": "2026-09-26T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[오늘의 운세] 9월 27일 일요일 (음력 8월 17일) 띠별 운세",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20260921580389",
-          "publishedAt": "2026-09-26T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[오늘의 운세] 2026년 9월 27일 (음 8월 17일)",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&amp;key=20260927.99099008097",
-        "publishedAt": "2026-09-26T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T22:00:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "오늘",
-      "source": "국제신문",
-      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0700&amp;key=20260927.99099008097",
-      "rank": 3
-    },
-    {
-      "id": "79522fedfa95b2ed",
-      "issueKey": "시대 돌아왔다",
-      "issueTitle": "시대 돌아왔다",
-      "trendTitle": "예금",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/8GAZEiZvSE",
-          "publishedAt": "2026-09-26T21:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "금리인상 사이클 속 예대마진 제각각…복잡해지는 여수신 셈법",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/finance/2026/09/27/2026092115491053499",
-          "publishedAt": "2026-09-26T21:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "예금으로 몰리는 돈…5대 은행, 정기예금 1012조 돌파",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260926/134733663/1",
-          "publishedAt": "2026-09-26T21:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘예테크’ 시대 돌아왔다···연 8% 파킹통장까지 등장",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/8GAZEiZvSE",
-        "publishedAt": "2026-09-26T21:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T21:50:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "시대 돌아왔다",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/8GAZEiZvSE",
-      "rank": 4
-    },
-    {
-      "id": "1fac0650eb6a6c39",
-      "issueKey": "복권",
-      "issueTitle": "복권",
-      "trendTitle": "복권",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "1243회 로또 1등 ‘9, 18, 24, 38, 43, 44’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609262248001",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[속보]로또 1243회 당첨번호 '9·18·24·38·43·44'…보너스 '35'",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02312406645584056&amp;mediaCodeNo=257",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "밤 10시 넘었는데…로또 추첨, 아시안게임 야구 경기로 지연",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/26/2026092622255739524",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "복권",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609262248001",
-        "publishedAt": "2026-09-26T21:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T21:30:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "복권",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202609262248001",
+      "publishedAt": "2026-09-27T01:10:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "mexico vs colombia",
+      "source": "CzechInvest",
+      "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3VybW5reTEyNC5naXRodWIuaW8vbmV3cy9uaS54bWwiLz48L2tycGFubz4=&amp;id=mex-col-uefa-nations-league-en-vivo02",
       "rank": 5
     },
     {
-      "id": "131b9d46508e8d70",
-      "issueKey": "육상 경기",
-      "issueTitle": "육상 경기",
-      "trendTitle": "육상 경기",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "1d1d0a3fd2bb0674",
+      "issueKey": "태풍",
+      "issueTitle": "태풍",
+      "trendTitle": "태풍",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"한국 육상 여신, 말 안 나올 정도로 예쁘다\" 일본 팬들, 나고야 트랙에 등장한 김주하에 환호…외모→기록→소신 발언까지",
+          "title": "[속보] 태풍 ‘수리개’ 오키나와 향해 북상…28일 최대풍속 초속 39m까지 발달",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260927040639927",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
+          "url": "https://v.daum.net/v/20260927101208744",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"밥이 너무 부실해\" 불만 터뜨린 韓 미녀 스프린터, 준결승 탈락에도 日 사로잡았다 \"말을 잃을 정도 미모\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/26/GBSTONZSG5TDMZLCGY4DQMRYMY/",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
+          "title": "제26호 태풍 ‘수리개’ 북상…27~28일 강한 태풍 발달 전망",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20260926500012",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"식사가 너무 부실해\" 韓 미녀 스프린터 쓴소리, 日 매체도 한숨 쉰 AG 부실 운영",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/25/2026092508095223213",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
+          "title": "[토요와이드] 연휴 셋째 날 남부·제주 비…일본 향하는 태풍 ’수리개’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260926101808reR",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "육상 경기",
+        "title": "[속보] 태풍 ‘수리개’ 오키나와 향해 북상…28일 최대풍속 초속 39m까지 발달",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260927040639927",
-        "publishedAt": "2026-09-26T21:30:00.000Z",
+        "url": "https://v.daum.net/v/20260927101208744",
+        "publishedAt": "2026-09-27T00:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-26T21:30:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "육상 경기",
+      "publishedAt": "2026-09-27T00:40:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "태풍",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260927040639927",
+      "url": "https://v.daum.net/v/20260927101208744",
       "rank": 6
     },
     {
-      "id": "be6c2ca2849f72ce",
-      "issueKey": "암흑의 시기",
-      "issueTitle": "암흑의 시기",
-      "trendTitle": "암흑의 시기",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "19af8ab5771c143a",
+      "issueKey": "이의리",
+      "issueTitle": "이의리",
+      "trendTitle": "이의리",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "20주년 tvN, 상반기는 아쉬움…김유정에 쏠린 기대 [엑's 초점]",
+          "title": "이의리 진짜 널 어쩌면 좋니…안타→볼넷→볼넷→밀어내기 볼넷→강판, 이대론 안 된다",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260926121110776",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
+          "url": "https://v.daum.net/v/20260927082549954",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'100일의 거짓말' 작가의 참말 “암흑의 시기, 밝은 횃불의 사랑\"",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=410560",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
+          "title": "'3연속 볼넷으로 밀어내기라니' 끝내 투수 바꿨다, KIA 딜레마 어떡하나",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/baseball/2026/09/27/MFTDOYJQMIYTEYRQGM2DKZLGHE/",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12159072",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
+          "title": "이의리가 혹시 볼볼볼볼해도 KIA는 쉽게 안 무너진다…22세 왼손 싸움닭 있잖아, 대역전 3위 꿈꾼다",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026092620212399819",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'100일의 거짓말' 작가의 참말 “암흑의 시기, 밝은 횃불의 사랑\"",
-        "source": "KBS연예",
-        "url": "https://kstar.kbs.co.kr/list_view.html?idx=410560",
-        "publishedAt": "2026-09-26T21:30:00.000Z",
-        "relevanceScore": 2
+        "title": "이의리 진짜 널 어쩌면 좋니…안타→볼넷→볼넷→밀어내기 볼넷→강판, 이대론 안 된다",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260927082549954",
+        "publishedAt": "2026-09-27T00:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-09-26T21:30:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "암흑의 시기",
-      "source": "KBS연예",
-      "url": "https://kstar.kbs.co.kr/list_view.html?idx=410560",
+      "publishedAt": "2026-09-27T00:40:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "이의리",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260927082549954",
       "rank": 7
     },
     {
-      "id": "0349802933dce341",
-      "issueKey": "심수봉",
-      "issueTitle": "심수봉",
-      "trendTitle": "심수봉",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "a4e8e584126026d6",
+      "issueKey": "남편",
+      "issueTitle": "남편",
+      "trendTitle": "남편",
+      "approxTraffic": "10000+",
+      "trafficScore": 10000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583300",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
+          "title": "\"시모 칠순에 수백만원 쓴 남편…친정 병원비 보태주자 화내며 냉전\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6301692",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "유퉁 \"심수봉 정신 왔다 갔다, 스스로 연예계 사망 선고\"…'김다현 직격'에 쓴소리",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/people/6301585",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
+          "title": "사위 앞 쩔쩔매는 친정엄마…\"왜 남편 눈치 보나, 속상\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/26/2026092608585383121",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"심수봉, 일반인도 비꼬고 훈계\" 녹화장 폭로글 등장",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/09/24/2026092411514728169",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
+          "title": "\"시댁엔 몇백씩 쓰면서\"…친정 병원비 보탠 아내에 화낸 남편",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260927_0003803990",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6583300",
-        "publishedAt": "2026-09-26T21:20:00.000Z",
+        "title": "\"시모 칠순에 수백만원 쓴 남편…친정 병원비 보태주자 화내며 냉전\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6301692",
+        "publishedAt": "2026-09-27T00:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-26T21:20:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "심수봉",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6583300",
+      "publishedAt": "2026-09-27T00:30:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "남편",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/society/general-society/6301692",
       "rank": 8
     },
     {
-      "id": "327ba04756fd92ca",
-      "issueKey": "england national football team vs spain national football team standings",
-      "issueTitle": "england national football team vs spain national football team standings",
-      "trendTitle": "england national football team vs spain national football team standings",
+      "id": "e8dcc554bd022d54",
+      "issueKey": "왕숙",
+      "issueTitle": "왕숙",
+      "trendTitle": "왕숙",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "England 2-3 Spain: World champions come from behind to win at Wembley after Kane penalty miss",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
+          "title": "“4년 기다렸는데 또...” 3기 신도시 사전청약단지 60%가 본청약 지연 [부동산360]",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10884740",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Yamal on his goal in England: sometimes I steal the ball",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en/news/yamal-on-his-goal-in-england-sometimes-i-steal-the-ball/blte035935daa02f1c3",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
+          "title": "9월 들어 벌써 2천800호… 왕숙·왕숙2 공공주택 쏟아진다",
+          "source": "남양주뉴스",
+          "url": "http://nyjnews.net/49368",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[[[CBS Sports]]England vs Spain FrEe StReAm Broadcast ON Tv Channel 16 September ２０２6",
-          "source": "CzechInvest",
-          "url": "https://czechinvest.gov.cz/panorama/CZI-Holesov/index.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL3NoYWJhZ2ltZ2ktaGFzaC5naXRodWIuaW8vcHVraS8iLz48L2tycGFubz4&amp;id=video-cbs-sports-england-vs-spain-free-stream-esp",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
+          "title": "[개최예고] 남양주왕숙·왕숙2 분양가 분석결과 발표 기자회견",
+          "source": "경제정의실천시민연합",
+          "url": "https://ccej.or.kr/posts/a0tj9jX",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "england national football team vs spain national football team standings",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
-        "publishedAt": "2026-09-26T21:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T21:20:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "england national football team vs spain national football team standings",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/c9j3dpkxe5vdt",
-      "rank": 9
-    },
-    {
-      "id": "d24e93bf93af1f39",
-      "issueKey": "대통령",
-      "issueTitle": "대통령",
-      "trendTitle": "대통령",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "대미투자 매듭·중남미 교두보 확보‥산적한 국내 현안 돌파구 될까",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6854267_37004.html",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이 대통령, 미국·멕시코 순방 마치고 귀국길…국내 현안 집중",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927071503267",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "순방 외교 마무리...대북 정책 '험로' 예고",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202609270312115551",
-          "publishedAt": "2026-09-26T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이 대통령, 미국·멕시코 순방 마치고 귀국길…국내 현안 집중",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260927071503267",
-        "publishedAt": "2026-09-26T21:20:00.000Z",
+        "title": "9월 들어 벌써 2천800호… 왕숙·왕숙2 공공주택 쏟아진다",
+        "source": "남양주뉴스",
+        "url": "http://nyjnews.net/49368",
+        "publishedAt": "2026-09-27T00:30:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-09-26T21:20:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "대통령",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260927071503267",
-      "rank": 10
+      "publishedAt": "2026-09-27T00:30:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "왕숙",
+      "source": "남양주뉴스",
+      "url": "http://nyjnews.net/49368",
+      "rank": 9
     }
   ],
   "history": [
@@ -529,6 +482,52 @@
       "title": "남부",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260925214622502"
+    },
+    {
+      "id": "1d1d0a3fd2bb0674",
+      "issueKey": "태풍",
+      "issueTitle": "태풍",
+      "trendTitle": "태풍",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보] 태풍 ‘수리개’ 오키나와 향해 북상…28일 최대풍속 초속 39m까지 발달",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927101208744",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "제26호 태풍 ‘수리개’ 북상…27~28일 강한 태풍 발달 전망",
+          "source": "강원일보",
+          "url": "https://www.kwnews.co.kr/article/20260926500012",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[토요와이드] 연휴 셋째 날 남부·제주 비…일본 향하는 태풍 ’수리개’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20260926101808reR",
+          "publishedAt": "2026-09-27T00:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[속보] 태풍 ‘수리개’ 오키나와 향해 북상…28일 최대풍속 초속 39m까지 발달",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260927101208744",
+        "publishedAt": "2026-09-27T00:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-27T00:40:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "태풍",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260927101208744"
     },
     {
       "id": "47ee9daaaf7be27a",
@@ -669,71 +668,50 @@
       "url": "https://www.khan.co.kr/article/202609262248001"
     },
     {
-      "id": "4062ec403262d9da",
-      "issueKey": "장윤정",
-      "issueTitle": "장윤정",
-      "trendTitle": "장윤정",
+      "id": "a4e8e584126026d6",
+      "issueKey": "남편",
+      "issueTitle": "남편",
+      "trendTitle": "남편",
       "approxTraffic": "10000+",
       "trafficScore": 10000,
       "relevanceScore": 3,
-      "articleCount": 6,
+      "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "트로트계 저격 난리 속…장윤정, 대체 후배들에 얼마나 잘한 거야 \"추석이라고 바리바리\" [엑's 이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/xxcHr5Tstd",
-          "publishedAt": "2026-09-22T21:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "장윤정 父 \"가세 기울고 서해대교 2번 가…딸 쌍욕에 끌어안고 펑펑 울어\"",
+          "title": "\"시모 칠순에 수백만원 쓴 남편…친정 병원비 보태주자 화내며 냉전\"",
           "source": "뉴스1",
-          "url": "https://www.news1.kr/life-culture/general-cultural/6301497",
-          "publishedAt": "2026-09-25T02:20:00.000Z",
+          "url": "https://www.news1.kr/society/general-society/6301692",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "장윤정, 후배들 추석 선물에 환한 미소…사무실서 따뜻한 인증샷",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16207371",
-          "publishedAt": "2026-09-22T21:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“죽으려고 서해대교에”…장윤정 아버지, 생활고에 극단적 시도 고백",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260925111500166",
-          "publishedAt": "2026-09-25T02:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'절연' 모친은 사기 실형...장윤정, 부친 첫 공개 \"제일 친해\"",
+          "title": "사위 앞 쩔쩔매는 친정엄마…\"왜 남편 눈치 보나, 속상\"",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/25/2026092507545178258",
-          "publishedAt": "2026-09-25T02:20:00.000Z",
-          "relevanceScore": 1
+          "url": "https://www.mt.co.kr/society/2026/09/26/2026092608585383121",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
+          "relevanceScore": 2
         },
         {
-          "title": "장윤정, 인생 잘 살았네…추석에 후배들 줄 섰다 \"바리바리 고마워요\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026092220205371429",
-          "publishedAt": "2026-09-22T21:40:00.000Z",
+          "title": "\"시댁엔 몇백씩 쓰면서\"…친정 병원비 보탠 아내에 화낸 남편",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260927_0003803990",
+          "publishedAt": "2026-09-27T00:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "트로트계 저격 난리 속…장윤정, 대체 후배들에 얼마나 잘한 거야 \"추석이라고 바리바리\" [엑's 이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/xxcHr5Tstd",
-        "publishedAt": "2026-09-22T21:40:00.000Z",
+        "title": "\"시모 칠순에 수백만원 쓴 남편…친정 병원비 보태주자 화내며 냉전\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6301692",
+        "publishedAt": "2026-09-27T00:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-22T21:40:00.000Z",
-      "firstSeenAt": "2026-09-22T23:32:11.118Z",
-      "lastSeenAt": "2026-09-25T03:45:25.549Z",
-      "title": "장윤정",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/xxcHr5Tstd"
+      "publishedAt": "2026-09-27T00:30:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "남편",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/society/general-society/6301692"
     },
     {
       "id": "ed0e90733d1a21cf",
@@ -1263,50 +1241,50 @@
       "url": "https://www.mk.co.kr/news/stock/12160305"
     },
     {
-      "id": "c83945f695b2c566",
-      "issueKey": "신유빈",
-      "issueTitle": "신유빈",
-      "trendTitle": "신유빈",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "881a8172c7dcec2e",
+      "issueKey": "부모",
+      "issueTitle": "부모",
+      "trendTitle": "부모",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘최강 콤비’ 임종훈-신유빈, 동메달 확보…대만 넘고 준결승 진출",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20260925/134732845/1",
-          "publishedAt": "2026-09-25T00:50:00.000Z",
+          "title": "\"받을 재산 없잖아\" 부모와 연 끊는다…무연고 사망 급증 이유",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/politics/2026/09/27/2026092121093058503",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "세계 1위 임종훈-신유빈, 탁구 혼합복식 4강행…동메달 확보[나고야AG]",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260925_0003803334",
-          "publishedAt": "2026-09-25T00:50:00.000Z",
+          "title": "권칠승 \"단절 아닌 연결...돌봄 민주주의의 출발점\"",
+          "source": "https://spt.co.kr/",
+          "url": "https://supple.kr/news/cmuizkmwn00edk0l7csuopgv7",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[아시안게임] 남자탁구, 단체전 준결승서 일본에 패하고 동메달",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6853825_36946.html",
-          "publishedAt": "2026-09-25T00:50:00.000Z",
+          "title": "한가위 대보름달의 뒷면…무연고 사망자의 마지막 길 [르포]",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202609221538564178",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘최강 콤비’ 임종훈-신유빈, 동메달 확보…대만 넘고 준결승 진출",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Sports/article/all/20260925/134732845/1",
-        "publishedAt": "2026-09-25T00:50:00.000Z",
+        "title": "\"받을 재산 없잖아\" 부모와 연 끊는다…무연고 사망 급증 이유",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/politics/2026/09/27/2026092121093058503",
+        "publishedAt": "2026-09-27T01:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-25T00:50:00.000Z",
-      "firstSeenAt": "2026-09-25T03:45:25.549Z",
-      "lastSeenAt": "2026-09-25T03:45:25.549Z",
-      "title": "신유빈",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Sports/article/all/20260925/134732845/1"
+      "publishedAt": "2026-09-27T01:40:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "부모",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/politics/2026/09/27/2026092121093058503"
     },
     {
       "id": "79522fedfa95b2ed",
@@ -1861,144 +1839,6 @@
       "url": "https://v.daum.net/v/7UkjMBwall"
     },
     {
-      "id": "37ab53b271e9d6d6",
-      "issueKey": "조희대",
-      "issueTitle": "조희대",
-      "trendTitle": "조희대",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "민주당 “조희대 출근기록 없다? 윤석열 ‘가짜 출근’ 떠올라”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202609241520001",
-          "publishedAt": "2026-09-25T01:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "황운하 \"조희대, 그런다고 국힘 대선후보 못 돼…탄핵해 직무 정지시켜야\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260925102328292",
-          "publishedAt": "2026-09-25T01:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "민주 \"정치적 배후 답해야\"...국힘 \"내란 협박 중단해야\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0101_202609242237068826",
-          "publishedAt": "2026-09-25T01:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "민주당 “조희대 출근기록 없다? 윤석열 ‘가짜 출근’ 떠올라”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202609241520001",
-        "publishedAt": "2026-09-25T01:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-25T01:50:00.000Z",
-      "firstSeenAt": "2026-09-25T03:45:25.549Z",
-      "lastSeenAt": "2026-09-25T03:45:25.549Z",
-      "title": "조희대",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202609241520001"
-    },
-    {
-      "id": "f26778d628fd0266",
-      "issueKey": "소재원 작가",
-      "issueTitle": "소재원 작가",
-      "trendTitle": "소재원 작가",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'고지용 저격' 소재원, '이혼 이유' 밝혔다 \"내 펜=칼날..전처 상처\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260923153536836?f=m",
-          "publishedAt": "2026-09-25T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"내 펜이 전처에게 칼날\"…소재원 작가가 밝힌 '이혼 사유'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/23/2026092315592378583",
-          "publishedAt": "2026-09-25T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘고지용 저격’ 소재원 작가, 전 장인어른과 통화 공개…“내 펜이 아내에겐 칼날 같았다”",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1637376",
-          "publishedAt": "2026-09-25T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"내 펜이 전처에게 칼날\"…소재원 작가가 밝힌 '이혼 사유'",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/23/2026092315592378583",
-        "publishedAt": "2026-09-25T01:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-25T01:20:00.000Z",
-      "firstSeenAt": "2026-09-25T03:45:25.549Z",
-      "lastSeenAt": "2026-09-25T03:45:25.549Z",
-      "title": "소재원 작가",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/09/23/2026092315592378583"
-    },
-    {
-      "id": "06d60e4f27393730",
-      "issueKey": "신지은",
-      "issueTitle": "신지은",
-      "trendTitle": "신지은",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"노출병 걸렸냐\" 한국서 욕 먹었는데...신지은, 대만선 '비치발리볼 여신' 조명 \"8년 버텨 AG 첫 승 거뒀다\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/Vxy56gFYW6",
-          "publishedAt": "2026-09-25T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"술집 여자 같다\" 비키니 입었다고 악플→돌아온 韓 국대 미녀, 감격의 AG 첫 승...日서도 스타 됐다 \"비방에도 힘차게 전진\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_general/2026/09/24/GZRDGOBUGVTDSMJYGYZWCOJXGU/",
-          "publishedAt": "2026-09-25T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'배구→비치발리볼' 도전했는데, “술집 여자 같다. 노출병이냐” 악플 테러…신지은, 7년 버텨 마침내 AG 빛나다",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/09/25/202609241725777882O",
-          "publishedAt": "2026-09-25T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"노출병 걸렸냐\" 한국서 욕 먹었는데...신지은, 대만선 '비치발리볼 여신' 조명 \"8년 버텨 AG 첫 승 거뒀다\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/Vxy56gFYW6",
-        "publishedAt": "2026-09-25T01:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-25T01:20:00.000Z",
-      "firstSeenAt": "2026-09-25T03:45:25.549Z",
-      "lastSeenAt": "2026-09-25T03:45:25.549Z",
-      "title": "신지은",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/Vxy56gFYW6"
-    },
-    {
       "id": "3ab5080c2dcdb98f",
       "issueKey": "왕사남",
       "issueTitle": "왕사남",
@@ -2050,6 +1890,98 @@
       "title": "왕사남",
       "source": "한겨레",
       "url": "https://www.hani.co.kr/arti/culture/culture_general/1279386.html"
+    },
+    {
+      "id": "031db6de4f16f672",
+      "issueKey": "조혜련",
+      "issueTitle": "조혜련",
+      "trendTitle": "조혜련",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[단독]\"옛날엔 술·담배로 풀었죠\"..조혜련, 45년 방황 끝 만난 '인생 매니저' [인터뷰①]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927063252776",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "조혜련 때린 KBS 개그맨 누구?..\"방송국 옮기려다 맞아\" 개그계 똥군기 폭로",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/entertainment/2026-09-27/202609270100176020011626",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“나도 맞았다” 조혜련…SBS 가려다 잡혀들어와 “배신자 취급”",
+          "source": "스포츠서울",
+          "url": "https://www.sportsseoul.com/news/read/1637668",
+          "publishedAt": "2026-09-27T01:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[단독]\"옛날엔 술·담배로 풀었죠\"..조혜련, 45년 방황 끝 만난 '인생 매니저' [인터뷰①]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260927063252776",
+        "publishedAt": "2026-09-27T01:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-27T01:40:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "조혜련",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260927063252776"
+    },
+    {
+      "id": "79113d976a287709",
+      "issueKey": "시리즈",
+      "issueTitle": "시리즈",
+      "trendTitle": "시리즈",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "갤럭시 폴드8, 유럽 5개국 소비자 평가서 1위",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260927093900061",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "갤럭시 Z8 시리즈, 유럽 5개국 소비자 평가 1위",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/tech/2026/09/27/2026092710284299008",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "애플도 결국 참전…뜨거워지는 '폴더블폰' 경쟁",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/MYH20260926002500038",
+          "publishedAt": "2026-09-27T01:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "갤럭시 Z8 시리즈, 유럽 5개국 소비자 평가 1위",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/tech/2026/09/27/2026092710284299008",
+        "publishedAt": "2026-09-27T01:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-09-27T01:10:00.000Z",
+      "firstSeenAt": "2026-09-27T04:00:40.497Z",
+      "lastSeenAt": "2026-09-27T04:00:40.497Z",
+      "title": "시리즈",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/tech/2026/09/27/2026092710284299008"
     },
     {
       "id": "131b9d46508e8d70",
