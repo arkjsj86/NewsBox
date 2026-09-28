@@ -7,480 +7,386 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-28T04:01:44.011Z",
+  "lastUpdatedAt": "2026-09-28T13:04:41.541Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 8,
   "items": [
     {
-      "id": "a8f7e3b1e379f488",
-      "issueKey": "어머니",
-      "issueTitle": "어머니",
-      "trendTitle": "어머니",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김기태 \"어머니 사망, 서류 떼다 뒤늦게 알았다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583470",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김기태, 17세에 이혼한 母 연락없더니…\"이미 사망, 너무 후회돼\"('데이앤나잇')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927114240627",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"유명해지면 엄마가 날 찾을 줄\"…김기태, 뒤늦게 알게 된 모친상",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092711120612011",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김기태 \"어머니 사망, 서류 떼다 뒤늦게 알았다\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6583470",
-        "publishedAt": "2026-09-28T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T02:50:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "어머니",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6583470",
-      "rank": 1
-    },
-    {
-      "id": "70ca28a13098d3c5",
-      "issueKey": "훈련하는 오현규",
-      "issueTitle": "훈련하는 오현규",
-      "trendTitle": "훈련하는 오현규",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'이강인·황인범 합류' 모레노호, 우루과이전서 두 번째 시험대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928061654780",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "훈련하는 오현규",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260927_0021460705",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "조규성, 모레노호 낙마…“회복 필요하다는 판단, 선수 보호 차원 소집 해제”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8672054",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "훈련하는 오현규",
-        "source": "뉴시스",
-        "url": "https://mobile.newsis.com/photo/NISI20260927_0021460705",
-        "publishedAt": "2026-09-28T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T02:50:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "훈련하는 오현규",
-      "source": "뉴시스",
-      "url": "https://mobile.newsis.com/photo/NISI20260927_0021460705",
-      "rank": 2
-    },
-    {
-      "id": "6cf61ace8f334402",
-      "issueKey": "대기업 협력",
-      "issueTitle": "대기업 협력",
-      "trendTitle": "대기업",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한경협 ‘더하기창업’ 100팀 선발…대기업 협력·투자 연계 지원",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02571526645584712",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "한국경제인협회, 스타트업에 '대기업 성장사다리'…100개팀 육성",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1165677",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"스타트업에 대기업 성장 사다리 지원\"…민간 중심 창업 생태계 구축",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/general-industry/6302839",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한경협 ‘더하기창업’ 100팀 선발…대기업 협력·투자 연계 지원",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02571526645584712",
-        "publishedAt": "2026-09-28T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T02:50:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "대기업 협력",
-      "source": "마켓인",
-      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02571526645584712",
-      "rank": 3
-    },
-    {
-      "id": "ed7985d7a3e901bc",
-      "issueKey": "삼전",
-      "issueTitle": "삼전",
-      "trendTitle": "삼전 닉스",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "코스피, 7000선서 약세…외인·기관 ‘팔자’에 삼전·하닉 동반 하락",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928091641047",
-          "publishedAt": "2026-09-28T02:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "추석 연휴 끝나자 삼전닉스, 3%대 동반 하락…증권가는 “기대해도 좋아”",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1165664",
-          "publishedAt": "2026-09-28T02:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "美국채금리 급등에 칠천피 붕괴…삼전닉스 4%대 낙폭",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260928/134742130/1",
-          "publishedAt": "2026-09-28T02:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "코스피, 7000선서 약세…외인·기관 ‘팔자’에 삼전·하닉 동반 하락",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260928091641047",
-        "publishedAt": "2026-09-28T02:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T02:30:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "삼전",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260928091641047",
-      "rank": 4
-    },
-    {
-      "id": "87c1d863a9795f88",
-      "issueKey": "예방 콘텐츠",
-      "issueTitle": "예방 콘텐츠",
-      "trendTitle": "치매",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"치매 예방 콘텐츠·자문 결실\"…박경영 중원대 교수, 세종시장상 수상",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/09/28/2026092811204544461",
-          "publishedAt": "2026-09-28T01:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "중원대 박경영 교수 치매관리사업 기여로 세종시장상 수상",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=629593",
-          "publishedAt": "2026-09-28T01:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "동국대일산병원 서지원 교수, 치매극복 유공 국무총리 표창",
-          "source": "의학신문",
-          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012845",
-          "publishedAt": "2026-09-28T01:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"치매 예방 콘텐츠·자문 결실\"…박경영 중원대 교수, 세종시장상 수상",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/policy/2026/09/28/2026092811204544461",
-        "publishedAt": "2026-09-28T01:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T01:50:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "예방 콘텐츠",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/policy/2026/09/28/2026092811204544461",
-      "rank": 5
-    },
-    {
-      "id": "ecc3ab9e632a8430",
-      "issueKey": "계주",
-      "issueTitle": "계주",
-      "trendTitle": "계주",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[아시안게임] 육상 남자 400ｍ 계주, 극적으로 결선행…\"항소 인용\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260927056851007",
-          "publishedAt": "2026-09-28T01:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'실격 처리' 뒤집힌 판정…\"결선 진출\" 메달 노린다",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928052700008",
-          "publishedAt": "2026-09-28T01:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘배턴 미스’ 항소로 뒤집었다… 육상 남자 계주 결선 도전",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_special/2026/09/28/RNCINRPUUNCQJODKJUS5XWULQE/",
-          "publishedAt": "2026-09-28T01:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[아시안게임] 육상 남자 400ｍ 계주, 극적으로 결선행…\"항소 인용\"(종합)",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20260927056851007",
-        "publishedAt": "2026-09-28T01:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T01:40:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "계주",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20260927056851007",
-      "rank": 6
-    },
-    {
-      "id": "f9ae3441c0bb6a5e",
-      "issueKey": "pakistan vs hong kong",
-      "issueTitle": "pakistan vs hong kong",
-      "trendTitle": "pakistan vs hong kong",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Asian Games 2026, Men’s Cricket: Pakistan through to semifinals after washout against Hong Kong",
-          "source": "Sportstar",
-          "url": "https://sportstar.thehindu.com/asian-games/pakistan-reaches-semifinals-asian-games-2026-men-cricket-quarterfinal-abandoned-rain-hong-kong/article71518200.ece",
-          "publishedAt": "2026-09-28T00:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Asian Games: Pakistan advance to semis after persistent rain washes out QF against Hong Kong",
-          "source": "FM Bharat",
-          "url": "https://www.fmbharat.com/en/sports/asian-games-pakistan-advance-to-semis-after-persistent-rain-washes-out-qf-against-hong-kong",
-          "publishedAt": "2026-09-28T00:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Asian Games 2026 Live: Pakistan vs Hong Kong & India vs Afghanistan",
-          "source": "Cricket World",
-          "url": "https://www.cricketworld.com/cricket-world-live-asian-games-2026-live-pakistan-vs-hong-kong-india-vs-afghanistan/113529.htm",
-          "publishedAt": "2026-09-28T00:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Asian Games 2026 Live: Pakistan vs Hong Kong & India vs Afghanistan",
-        "source": "Cricket World",
-        "url": "https://www.cricketworld.com/cricket-world-live-asian-games-2026-live-pakistan-vs-hong-kong-india-vs-afghanistan/113529.htm",
-        "publishedAt": "2026-09-28T00:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-09-28T00:10:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "pakistan vs hong kong",
-      "source": "Cricket World",
-      "url": "https://www.cricketworld.com/cricket-world-live-asian-games-2026-live-pakistan-vs-hong-kong-india-vs-afghanistan/113529.htm",
-      "rank": 7
-    },
-    {
-      "id": "83613288193ee4eb",
-      "issueKey": "오유경 아나운서",
-      "issueTitle": "오유경 아나운서",
-      "trendTitle": "오유경 아나운서",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "오유경 아나운서 \"3살 연상 남편 얼굴 보며 매일 행복\"",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3706708",
-          "publishedAt": "2026-09-27T23:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "오유경 남편 “양가 부모님과 美 여행 위해 2천만원 빌려”(아침마당)",
-          "source": "뉴스엔",
-          "url": "https://www.newsen.com/news_view.php?uid=202609280919476310&amp;code=100100",
-          "publishedAt": "2026-09-27T23:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "오유경 \"과학자 남편 얼굴 보며 매일 행복\" 애정 고백",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16222010",
-          "publishedAt": "2026-09-27T23:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "오유경 아나운서 \"3살 연상 남편 얼굴 보며 매일 행복\"",
-        "source": "국제뉴스",
-        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3706708",
-        "publishedAt": "2026-09-27T23:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-27T23:50:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "오유경 아나운서",
-      "source": "국제뉴스",
-      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3706708",
-      "rank": 8
-    },
-    {
-      "id": "484470b412d7be80",
-      "issueKey": "columbus vs inter miami",
-      "issueTitle": "columbus vs inter miami",
-      "trendTitle": "columbus vs inter miami",
+      "id": "9b63ad6b656caa33",
+      "issueKey": "채무",
+      "issueTitle": "채무",
+      "trendTitle": "채무",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Columbus Crew vs Inter Miami: Lineups, Prediction, Odds & Bet Builder Tip",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/articles/UltAMb81HUCEiIcTn2m4uA/show/20260927-columbus-crew-vs-inter-miami-prediction-1790521775",
-          "publishedAt": "2026-09-27T23:20:00.000Z",
+          "title": "\"또 빚탕감\"…이미 56조 갚은 22만명 역차별",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12162886",
+          "publishedAt": "2026-09-28T12:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Messi erzielt einen Traum-Freistoß aus einem unmöglichen Winkel in der MLS",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/en/video/messi-erzielt-einen-traum-freistoss-aus-einem-unmoeglichen-winkel-in-der-mls-3Jw4tHQDq2CUz1xQTkZD1oS3ZAz",
-          "publishedAt": "2026-09-27T23:20:00.000Z",
+          "title": "[단독] 소상공인 빚 4조 또 탕감하겠단 정부…다 갚은 22만명 “후회막심”",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928173610376",
+          "publishedAt": "2026-09-28T12:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Jamal Thiaré scores in 9th minute of stoppage time, Crew beats Inter Miami and Leo Messi 2-1",
-          "source": "iNFOnews.ca",
-          "url": "https://infonews.ca/news/7885697/jamal-thiar-scores-in-9th-minute-of-stoppage-time-crew-beats-inter-miami-and-leo-messi-2-1/",
-          "publishedAt": "2026-09-27T23:20:00.000Z",
+          "title": "‘이재명표 배드뱅크’ 새도약기금 도입 1년…11조원 매입, 빚 탕감은 과제",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000017365",
+          "publishedAt": "2026-09-28T12:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "columbus vs inter miami",
-        "source": "WhoScored.com",
-        "url": "https://www.whoscored.com/articles/UltAMb81HUCEiIcTn2m4uA/show/20260927-columbus-crew-vs-inter-miami-prediction-1790521775",
-        "publishedAt": "2026-09-27T23:20:00.000Z",
+        "title": "채무",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/economy/12162886",
+        "publishedAt": "2026-09-28T12:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-27T23:20:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "columbus vs inter miami",
-      "source": "WhoScored.com",
-      "url": "https://www.whoscored.com/articles/UltAMb81HUCEiIcTn2m4uA/show/20260927-columbus-crew-vs-inter-miami-prediction-1790521775",
-      "rank": 9
+      "publishedAt": "2026-09-28T12:00:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "채무",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/economy/12162886",
+      "rank": 1
     },
     {
-      "id": "a81b40783692730f",
-      "issueKey": "오늘날씨",
-      "issueTitle": "오늘날씨",
-      "trendTitle": "오늘날씨",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "c0b199a535ecc7ab",
+      "issueKey": "김연자",
+      "issueTitle": "김연자",
+      "trendTitle": "김연자",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[날씨] 연휴 끝 일상 복귀…출근길 짙은 안개 조심!",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928054655224",
-          "publishedAt": "2026-09-27T23:00:00.000Z",
+          "title": "\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793",
+          "publishedAt": "2026-09-28T11:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "짙은 안개 속 일교차 큰 하루…내일 동해안 중심 비 조금",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8672258",
-          "publishedAt": "2026-09-27T23:00:00.000Z",
+          "title": "김연자, '급성 파킨슨병' 母에 오열 \"2년만에 일어서지도 못해\"('유퀴즈')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qvfRiPvmCX",
+          "publishedAt": "2026-09-28T11:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[날씨] 연휴 마지막 날, 날씨 상황",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202609271726057853",
-          "publishedAt": "2026-09-27T23:00:00.000Z",
+          "title": "김연자, 화려함 뒤 아픈 가정사..“母 급성 파킨슨병..일어서지도 못해” (‘유퀴즈’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/28/GYYDINBWHBSDIMJYGA4GKNDBGQ/",
+          "publishedAt": "2026-09-28T11:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "오늘날씨",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260928054655224",
-        "publishedAt": "2026-09-27T23:00:00.000Z",
+        "title": "\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793",
+        "publishedAt": "2026-09-28T11:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-27T23:00:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "오늘날씨",
+      "publishedAt": "2026-09-28T11:50:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "김연자",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793",
+      "rank": 2
+    },
+    {
+      "id": "8bf1f80cd6e5d658",
+      "issueKey": "일본 우루과이",
+      "issueTitle": "일본 우루과이",
+      "trendTitle": "일본 우루과이",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"일본 사랑\" 韓과 맞붙을 베네수엘라 감독의 깜짝 고백!...\"일본에서 뛰는 게 꿈, 감독으로라도 가고 싶어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qzzmAFgRJg",
+          "publishedAt": "2026-09-28T11:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[A매치 리뷰]'韓 격돌' 우루과이 제압한 亞 최강 일본, 10명 뛰고도 베네수엘라 2-1 '짜릿한 역전승'",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-09-28/202609280100190790012592",
+          "publishedAt": "2026-09-28T11:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "일본 vs 베네수엘라 예측: 홈 이점",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-nhat-ban-vs-venezuela-diem-tua-san-nha",
+          "publishedAt": "2026-09-28T11:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "일본 우루과이",
+        "source": "스포츠조선",
+        "url": "https://www.sportschosun.com/football/2026-09-28/202609280100190790012592",
+        "publishedAt": "2026-09-28T11:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T11:40:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "일본 우루과이",
+      "source": "스포츠조선",
+      "url": "https://www.sportschosun.com/football/2026-09-28/202609280100190790012592",
+      "rank": 3
+    },
+    {
+      "id": "99e972783e8a8007",
+      "issueKey": "포를란",
+      "issueTitle": "포를란",
+      "trendTitle": "포를란",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'쏘니 옛 동료' 벤탕쿠르 \"손흥민에게 실점하지 않도록 준비\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/P0lHdMWI5i?f=p",
+          "publishedAt": "2026-09-28T11:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "인사 나누는 손흥민 벤탄쿠르",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260928_0021463402",
+          "publishedAt": "2026-09-28T11:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[SD 상암 라이브] ‘이거 친선전 맞아?’ 그라운드에 대형 라인까지 그어놓고 몸풀기도 생략…일본전 패배로 몰린 ‘포를란호’ 우루과이, 한국전 총력전 준비",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260927/134739204/1",
+          "publishedAt": "2026-09-28T11:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[SD 상암 라이브] ‘이거 친선전 맞아?’ 그라운드에 대형 라인까지 그어놓고 몸풀기도 생략…일본전 패배로 몰린 ‘포를란호’ 우루과이, 한국전 총력전 준비",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/sports/article/all/20260927/134739204/1",
+        "publishedAt": "2026-09-28T11:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-09-28T11:20:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "포를란",
+      "source": "스포츠동아",
+      "url": "https://sports.donga.com/sports/article/all/20260927/134739204/1",
+      "rank": 4
+    },
+    {
+      "id": "642315305ad78197",
+      "issueKey": "경찰",
+      "issueTitle": "경찰",
+      "trendTitle": "경찰",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘공룡 경찰이라고?’ 국수본부장의 작심발언 “경찰, 5년 간 단독 수사 경험” [세상&]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928194644361",
+          "publishedAt": "2026-09-28T11:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "경찰, 개정 형소법 시행 맞춰 ‘현장상담 TF’ 가동",
+          "source": "천지일보",
+          "url": "https://www.newscj.com/news/articleView.html?idxno=3436159",
+          "publishedAt": "2026-09-28T11:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "국수본, 형사사법체계 개편 앞두고 \"국가 수사 역량 공백 없도록 할 것\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854499_36918.html",
+          "publishedAt": "2026-09-28T11:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘공룡 경찰이라고?’ 국수본부장의 작심발언 “경찰, 5년 간 단독 수사 경험” [세상&]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260928194644361",
+        "publishedAt": "2026-09-28T11:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T11:10:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "경찰",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260928054655224",
-      "rank": 10
+      "url": "https://v.daum.net/v/20260928194644361",
+      "rank": 5
+    },
+    {
+      "id": "20765104b7429ad2",
+      "issueKey": "milionerzy w polsacie mają więcej widzów niż the floor w tvn",
+      "issueTitle": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+      "trendTitle": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+          "source": "Press.pl",
+          "url": "https://www.press.pl/tresc/95248,_milionerzy_-w-polsacie-maja-wiecej-widzow-niz-_the-floor_-w-tvn",
+          "publishedAt": "2026-09-28T11:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "„Milionerzy” kontra „The Floor”? Widzowie wybrali ulubiony teleturniej",
+          "source": "przeAmbitni.pl",
+          "url": "https://przeambitni.pl/milionerzy-kontra-the-floor-widzowie-wybrali-ulubiony-teleturniej/",
+          "publishedAt": "2026-09-28T11:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Lawina w Nepalu: co najmniej dwie osoby zginęły, 14 zaginęło.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/pl/lo-tuyet-o-nepal-it-nhat-hai-nguoi-thiet-mang-14-nguoi-mat-tich",
+          "publishedAt": "2026-09-28T11:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+        "source": "Press.pl",
+        "url": "https://www.press.pl/tresc/95248,_milionerzy_-w-polsacie-maja-wiecej-widzow-niz-_the-floor_-w-tvn",
+        "publishedAt": "2026-09-28T11:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T11:00:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+      "source": "Press.pl",
+      "url": "https://www.press.pl/tresc/95248,_milionerzy_-w-polsacie-maja-wiecej-widzow-niz-_the-floor_-w-tvn",
+      "rank": 6
+    },
+    {
+      "id": "f6c86ac307762c16",
+      "issueKey": "해외여행",
+      "issueTitle": "해외여행",
+      "trendTitle": "해외여행",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"다들 일본 가는 줄 알았는데\"…추석 해외여행 1위는 뜻밖의 '이 나라'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928062728899",
+          "publishedAt": "2026-09-28T10:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“너도 이번에 중국 갔어? 나돈데” 이런 사람들 참 많더니…추석 연휴에 생긴 일",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20095518",
+          "publishedAt": "2026-09-28T10:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "추석 연휴 어디로 몰렸을까…작년 검색 1위는 ‘에버랜드’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260927/134736433/1",
+          "publishedAt": "2026-09-28T10:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"다들 일본 가는 줄 알았는데\"…추석 해외여행 1위는 뜻밖의 '이 나라'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260928062728899",
+        "publishedAt": "2026-09-28T10:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T10:50:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "해외여행",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260928062728899",
+      "rank": 7
+    },
+    {
+      "id": "b45a44b61673fabc",
+      "issueKey": "노현정",
+      "issueTitle": "노현정",
+      "trendTitle": "노현정",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘현대家 4세’ 노현정 19살 아들, HNIX 최대주주 됐다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12162767",
+          "publishedAt": "2026-09-28T10:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'현대家 4세' 노현정 19살 아들, 연매출 766억 기업 최대주주 됐다[이슈S]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928151557488",
+          "publishedAt": "2026-09-28T10:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘현대家’ 정대선·노현정 19살 아들 정창건, HNIX 최대주주 됐다",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10886570",
+          "publishedAt": "2026-09-28T10:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘현대家 4세’ 노현정 19살 아들, HNIX 최대주주 됐다",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12162767",
+        "publishedAt": "2026-09-28T10:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T10:20:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "노현정",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/hot-issues/12162767",
+      "rank": 8
     }
   ],
   "history": [
@@ -913,6 +819,52 @@
       "url": "https://v.daum.net/v/20260926173606543"
     },
     {
+      "id": "b45a44b61673fabc",
+      "issueKey": "노현정",
+      "issueTitle": "노현정",
+      "trendTitle": "노현정",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘현대家 4세’ 노현정 19살 아들, HNIX 최대주주 됐다",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/hot-issues/12162767",
+          "publishedAt": "2026-09-28T10:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'현대家 4세' 노현정 19살 아들, 연매출 766억 기업 최대주주 됐다[이슈S]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928151557488",
+          "publishedAt": "2026-09-28T10:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘현대家’ 정대선·노현정 19살 아들 정창건, HNIX 최대주주 됐다",
+          "source": "헤럴드경제",
+          "url": "https://mbiz.heraldcorp.com/article/10886570",
+          "publishedAt": "2026-09-28T10:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘현대家 4세’ 노현정 19살 아들, HNIX 최대주주 됐다",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/news/hot-issues/12162767",
+        "publishedAt": "2026-09-28T10:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T10:20:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "노현정",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/news/hot-issues/12162767"
+    },
+    {
       "id": "a8f7e3b1e379f488",
       "issueKey": "어머니",
       "issueTitle": "어머니",
@@ -1051,52 +1003,6 @@
       "url": "https://sports.khan.co.kr/article/202609250853003"
     },
     {
-      "id": "19296bb5c95e527e",
-      "issueKey": "오상욱",
-      "issueTitle": "오상욱",
-      "trendTitle": "오상욱",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "오상욱이 뒤집었다… ‘어펜저스’ 4연속 金",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_special/2026/09/26/3WPHRFBCH5HM3J3GP4SGE44KXQ/",
-          "publishedAt": "2026-09-26T09:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "한국 펜싱 남자 사브르, 아시안게임 단체전 4연패…오상욱 2관왕",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8671896",
-          "publishedAt": "2026-09-26T09:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "공격하는 도경동",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260926_0021458921",
-          "publishedAt": "2026-09-26T09:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "오상욱이 뒤집었다… ‘어펜저스’ 4연속 金",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_special/2026/09/26/3WPHRFBCH5HM3J3GP4SGE44KXQ/",
-        "publishedAt": "2026-09-26T09:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T09:50:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "오상욱",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_special/2026/09/26/3WPHRFBCH5HM3J3GP4SGE44KXQ/"
-    },
-    {
       "id": "37000bc74ac63b0b",
       "issueKey": "레버리지",
       "issueTitle": "레버리지",
@@ -1148,6 +1054,144 @@
       "title": "레버리지",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260926235245993"
+    },
+    {
+      "id": "c0b199a535ecc7ab",
+      "issueKey": "김연자",
+      "issueTitle": "김연자",
+      "trendTitle": "김연자",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793",
+          "publishedAt": "2026-09-28T11:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김연자, '급성 파킨슨병' 母에 오열 \"2년만에 일어서지도 못해\"('유퀴즈')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qvfRiPvmCX",
+          "publishedAt": "2026-09-28T11:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김연자, 화려함 뒤 아픈 가정사..“母 급성 파킨슨병..일어서지도 못해” (‘유퀴즈’) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/09/28/GYYDINBWHBSDIMJYGA4GKNDBGQ/",
+          "publishedAt": "2026-09-28T11:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"침대서 일어서지도 못해\"…김연자, 급성 파킨슨병 母 생각에 오열",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793",
+        "publishedAt": "2026-09-28T11:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T11:50:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "김연자",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092817270868793"
+    },
+    {
+      "id": "99e972783e8a8007",
+      "issueKey": "포를란",
+      "issueTitle": "포를란",
+      "trendTitle": "포를란",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'쏘니 옛 동료' 벤탕쿠르 \"손흥민에게 실점하지 않도록 준비\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/P0lHdMWI5i?f=p",
+          "publishedAt": "2026-09-28T11:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "인사 나누는 손흥민 벤탄쿠르",
+          "source": "뉴시스",
+          "url": "https://mobile.newsis.com/photo/NISI20260928_0021463402",
+          "publishedAt": "2026-09-28T11:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[SD 상암 라이브] ‘이거 친선전 맞아?’ 그라운드에 대형 라인까지 그어놓고 몸풀기도 생략…일본전 패배로 몰린 ‘포를란호’ 우루과이, 한국전 총력전 준비",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/sports/article/all/20260927/134739204/1",
+          "publishedAt": "2026-09-28T11:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[SD 상암 라이브] ‘이거 친선전 맞아?’ 그라운드에 대형 라인까지 그어놓고 몸풀기도 생략…일본전 패배로 몰린 ‘포를란호’ 우루과이, 한국전 총력전 준비",
+        "source": "스포츠동아",
+        "url": "https://sports.donga.com/sports/article/all/20260927/134739204/1",
+        "publishedAt": "2026-09-28T11:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-09-28T11:20:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "포를란",
+      "source": "스포츠동아",
+      "url": "https://sports.donga.com/sports/article/all/20260927/134739204/1"
+    },
+    {
+      "id": "f6c86ac307762c16",
+      "issueKey": "해외여행",
+      "issueTitle": "해외여행",
+      "trendTitle": "해외여행",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"다들 일본 가는 줄 알았는데\"…추석 해외여행 1위는 뜻밖의 '이 나라'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260928062728899",
+          "publishedAt": "2026-09-28T10:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“너도 이번에 중국 갔어? 나돈데” 이런 사람들 참 많더니…추석 연휴에 생긴 일",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20095518",
+          "publishedAt": "2026-09-28T10:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "추석 연휴 어디로 몰렸을까…작년 검색 1위는 ‘에버랜드’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20260927/134736433/1",
+          "publishedAt": "2026-09-28T10:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"다들 일본 가는 줄 알았는데\"…추석 해외여행 1위는 뜻밖의 '이 나라'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260928062728899",
+        "publishedAt": "2026-09-28T10:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T10:50:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "해외여행",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260928062728899"
     },
     {
       "id": "70ca28a13098d3c5",
@@ -1656,52 +1700,6 @@
       "url": "https://www.edaily.co.kr/News/Read?newsId=01994246645584056&amp;mediaCodeNo=257"
     },
     {
-      "id": "07b05efaeed85ad2",
-      "issueKey": "정미애",
-      "issueTitle": "정미애",
-      "trendTitle": "정미애",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583300",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"심수봉, 스스로 사망 선고한 것\"…'김다현 저격'에 유퉁 쓴소리",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/25/2026092520181620227",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"심수봉, 일반인에 훈계\" 녹화장 폭로…김다현 사과에도 과거 파묘",
-          "source": "TV조선뉴스",
-          "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/25/2026092590085.html",
-          "publishedAt": "2026-09-26T09:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "심수봉 '김다현 비난' 사태 정미애에 불똥…\"발언 못 들었다\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6583300",
-        "publishedAt": "2026-09-26T09:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T09:30:00.000Z",
-      "firstSeenAt": "2026-09-26T10:54:51.607Z",
-      "lastSeenAt": "2026-09-26T10:54:51.607Z",
-      "title": "정미애",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6583300"
-    },
-    {
       "id": "3ab5080c2dcdb98f",
       "issueKey": "왕사남",
       "issueTitle": "왕사남",
@@ -1753,6 +1751,98 @@
       "title": "왕사남",
       "source": "한겨레",
       "url": "https://www.hani.co.kr/arti/culture/culture_general/1279386.html"
+    },
+    {
+      "id": "8bf1f80cd6e5d658",
+      "issueKey": "일본 우루과이",
+      "issueTitle": "일본 우루과이",
+      "trendTitle": "일본 우루과이",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"일본 사랑\" 韓과 맞붙을 베네수엘라 감독의 깜짝 고백!...\"일본에서 뛰는 게 꿈, 감독으로라도 가고 싶어\"",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/qzzmAFgRJg",
+          "publishedAt": "2026-09-28T11:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[A매치 리뷰]'韓 격돌' 우루과이 제압한 亞 최강 일본, 10명 뛰고도 베네수엘라 2-1 '짜릿한 역전승'",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-09-28/202609280100190790012592",
+          "publishedAt": "2026-09-28T11:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "일본 vs 베네수엘라 예측: 홈 이점",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/nhan-dinh-nhat-ban-vs-venezuela-diem-tua-san-nha",
+          "publishedAt": "2026-09-28T11:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "일본 우루과이",
+        "source": "스포츠조선",
+        "url": "https://www.sportschosun.com/football/2026-09-28/202609280100190790012592",
+        "publishedAt": "2026-09-28T11:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T11:40:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "일본 우루과이",
+      "source": "스포츠조선",
+      "url": "https://www.sportschosun.com/football/2026-09-28/202609280100190790012592"
+    },
+    {
+      "id": "20765104b7429ad2",
+      "issueKey": "milionerzy w polsacie mają więcej widzów niż the floor w tvn",
+      "issueTitle": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+      "trendTitle": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+          "source": "Press.pl",
+          "url": "https://www.press.pl/tresc/95248,_milionerzy_-w-polsacie-maja-wiecej-widzow-niz-_the-floor_-w-tvn",
+          "publishedAt": "2026-09-28T11:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "„Milionerzy” kontra „The Floor”? Widzowie wybrali ulubiony teleturniej",
+          "source": "przeAmbitni.pl",
+          "url": "https://przeambitni.pl/milionerzy-kontra-the-floor-widzowie-wybrali-ulubiony-teleturniej/",
+          "publishedAt": "2026-09-28T11:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Lawina w Nepalu: co najmniej dwie osoby zginęły, 14 zaginęło.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/pl/lo-tuyet-o-nepal-it-nhat-hai-nguoi-thiet-mang-14-nguoi-mat-tich",
+          "publishedAt": "2026-09-28T11:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+        "source": "Press.pl",
+        "url": "https://www.press.pl/tresc/95248,_milionerzy_-w-polsacie-maja-wiecej-widzow-niz-_the-floor_-w-tvn",
+        "publishedAt": "2026-09-28T11:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-28T11:00:00.000Z",
+      "firstSeenAt": "2026-09-28T13:04:41.541Z",
+      "lastSeenAt": "2026-09-28T13:04:41.541Z",
+      "title": "\"Milionerzy\" w Polsacie mają więcej widzów niż \"The Floor\" w TVN",
+      "source": "Press.pl",
+      "url": "https://www.press.pl/tresc/95248,_milionerzy_-w-polsacie-maja-wiecej-widzow-niz-_the-floor_-w-tvn"
     },
     {
       "id": "ecc3ab9e632a8430",
@@ -2167,183 +2257,6 @@
       "title": "육상 경기",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260927040639927"
-    },
-    {
-      "id": "be6c2ca2849f72ce",
-      "issueKey": "암흑의 시기",
-      "issueTitle": "암흑의 시기",
-      "trendTitle": "암흑의 시기",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "20주년 tvN, 상반기는 아쉬움…김유정에 쏠린 기대 [엑's 초점]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926121110776",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'100일의 거짓말' 작가의 참말 “암흑의 시기, 밝은 횃불의 사랑\"",
-          "source": "KBS연예",
-          "url": "https://kstar.kbs.co.kr/list_view.html?idx=410560",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12159072",
-          "publishedAt": "2026-09-26T21:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'100일의 거짓말' 작가의 참말 “암흑의 시기, 밝은 횃불의 사랑\"",
-        "source": "KBS연예",
-        "url": "https://kstar.kbs.co.kr/list_view.html?idx=410560",
-        "publishedAt": "2026-09-26T21:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-26T21:30:00.000Z",
-      "firstSeenAt": "2026-09-26T23:23:23.634Z",
-      "lastSeenAt": "2026-09-26T23:23:23.634Z",
-      "title": "암흑의 시기",
-      "source": "KBS연예",
-      "url": "https://kstar.kbs.co.kr/list_view.html?idx=410560"
-    },
-    {
-      "id": "b894225120f2a328",
-      "issueKey": "이창섭",
-      "issueTitle": "이창섭",
-      "trendTitle": "이창섭",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"적정선 넘었다\" 이창섭 사과에도 '쓰레기 논쟁' 일파만파 [MD이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260926030128524",
-          "publishedAt": "2026-09-26T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이창섭, '소유 부친상 위로' 이미지 좋았는데..'쓰레기 논쟁'으로 치명타[Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/09/26/GZRGKYLDHBTDEYZSMM3TSZJXGY/",
-          "publishedAt": "2026-09-26T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여친에 '차 쓰레기 투척' 남친 두둔한 아이돌 최후…이창섭 결국 \"스케줄 탓, 선 넘어\" 반성 [스타이슈]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260924n09283?issue_sq=10098&amp;mid=e0608",
-          "publishedAt": "2026-09-26T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"적정선 넘었다\" 이창섭 사과에도 '쓰레기 논쟁' 일파만파 [MD이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260926030128524",
-        "publishedAt": "2026-09-26T15:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T15:10:00.000Z",
-      "firstSeenAt": "2026-09-26T20:42:39.571Z",
-      "lastSeenAt": "2026-09-26T20:42:39.571Z",
-      "title": "이창섭",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260926030128524"
-    },
-    {
-      "id": "810c6e137081c1fd",
-      "issueKey": "정시아",
-      "issueTitle": "정시아",
-      "trendTitle": "정시아",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "정시아 \"VIP 조리원, 아이 딱 4명...양현석 아들도 있었다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317",
-          "publishedAt": "2026-09-26T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"신생아실에 오직 아기 4명‥양현석 子도 있었다\" 정시아, 산후조리원 VIP였네",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/tJ5gO1LxyR",
-          "publishedAt": "2026-09-26T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"♥백도빈이 직접 꾸며\" 정시아, 입주민 전용 헬스장 공개 ('아시정')",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112881665",
-          "publishedAt": "2026-09-26T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "정시아 \"VIP 조리원, 아이 딱 4명...양현석 아들도 있었다\"",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317",
-        "publishedAt": "2026-09-26T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-26T12:30:00.000Z",
-      "firstSeenAt": "2026-09-26T15:54:53.928Z",
-      "lastSeenAt": "2026-09-26T15:54:53.928Z",
-      "title": "정시아",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/09/26/2026092607011088317"
-    },
-    {
-      "id": "c1d8da88be004cdf",
-      "issueKey": "경기 예측",
-      "issueTitle": "경기 예측",
-      "trendTitle": "경기 예측",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "콜럼버스 크루 vs 인터 마이애미 경기 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-columbus-crew-vs-inter-miami-ban-linh-san-khach-duoc-thu-lua",
-          "publishedAt": "2026-09-27T22:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "MLS 콜럼버스 크루 대 인터 마이애미 축구 예측",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/the-thao/nhan-dinh-bong-da-columbus-crew-vs-inter-miami-tai-mls-1773657.ldo",
-          "publishedAt": "2026-09-27T22:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "콜럼버스 크루 vs 인터 마이애미 경기 예측: 원정 경기에서의 경기력이 시험대에 오를 것이다",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-columbus-crew-vs-inter-miami-ban-linh-san-khach-duoc-thu-lua",
-        "publishedAt": "2026-09-27T22:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-27T22:20:00.000Z",
-      "firstSeenAt": "2026-09-27T23:44:57.764Z",
-      "lastSeenAt": "2026-09-27T23:44:57.764Z",
-      "title": "경기 예측",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-columbus-crew-vs-inter-miami-ban-linh-san-khach-duoc-thu-lua"
     }
   ]
 }
