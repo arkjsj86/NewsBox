@@ -7,18 +7,441 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-09-30T00:04:56.493Z",
+  "lastUpdatedAt": "2026-09-30T09:22:20.604Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "f8d6d99284c0c268",
-      "issueKey": "국민",
-      "issueTitle": "국민",
-      "trendTitle": "국민",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "252ac990d27ebe08",
+      "issueKey": "게임",
+      "issueTitle": "게임",
+      "trendTitle": "게임",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "글로벌‧온라인으로…'게임 대축제'의 외연 확장[지스타 얼리액세스]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930173706419",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "글로벌 게임사 참가 증가한 올해의 지스타…어떤 게임 공개하나",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=351142",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘지스타 2026’, 벡스코 전시장 도면·글로벌 출품 라인업 공개",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112884608",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "글로벌‧온라인으로…'게임 대축제'의 외연 확장[지스타 얼리액세스]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930173706419",
+        "publishedAt": "2026-09-30T08:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:10:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "게임",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260930173706419",
+      "rank": 1
+    },
+    {
+      "id": "609b5bb397300744",
+      "issueKey": "탐정들",
+      "issueTitle": "탐정들",
+      "trendTitle": "탐정들",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "한 아파트서 유부녀 10명 집단 불륜…'외도 품앗이' 탐정이 밝힌 전말",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/society/2026/09/30/2026093006393599429",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "친구들과 '불륜 품앗이'한 아내에 충격…\"심지어 외도 상대 교환하기도\" (탐비) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/tv/2026/09/29/GBSWMY3FHE3DAZLDMVRGKZJWGQ/",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "남편 피하려 '외도 품앗이'…결국 친구들도 줄줄이 이혼 파국",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260930_0003808284",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "탐정들",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/society/2026/09/30/2026093006393599429",
+        "publishedAt": "2026-09-30T08:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:10:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "탐정들",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/society/2026/09/30/2026093006393599429",
+      "rank": 2
+    },
+    {
+      "id": "0f88834dd80fd636",
+      "issueKey": "코스피",
+      "issueTitle": "코스피",
+      "trendTitle": "코스피",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'전강후약' 코스피, 美금리 부담속 0.4%↓…사흘연속 하락(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930161802135",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "美국채금리 한파에 외인·기관 3조 이탈…\"반도체 주목\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/30/2026093017331564801",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "상승 출발했던 코스피, 하락 마감...코스닥 상승",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609301649256871_005.html",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'전강후약' 코스피, 美금리 부담속 0.4%↓…사흘연속 하락(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930161802135",
+        "publishedAt": "2026-09-30T08:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:10:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "코스피",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260930161802135",
+      "rank": 3
+    },
+    {
+      "id": "7828e86d4b195798",
+      "issueKey": "베트남",
+      "issueTitle": "베트남",
+      "trendTitle": "베트남",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "HS효성첨단소재, 베트남에 1천300억원 규모 카펫공장 건설",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260930059400003",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "HS효성첨단소재, 베트남에 1억달러 투자…카페트 신공장 건설",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20260930026390584",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "HS효성첨단소재, 베트남 다낭에 1억 달러 규모 카페트 신공장 건설",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/30/2026093012440531849",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "HS효성첨단소재, 베트남에 1천300억원 규모 카펫공장 건설",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260930059400003",
+        "publishedAt": "2026-09-30T08:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:00:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "베트남",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260930059400003",
+      "rank": 4
+    },
+    {
+      "id": "0bda61a54af46aab",
+      "issueKey": "mlb",
+      "issueTitle": "mlb",
+      "trendTitle": "mlb",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Yankees rout Red Sox 9-0 as Rice homers four hits, Schritller fans 10 - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/30/TAS6LEE6GVFGHF77DXVJEL5JQY/",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "The New York Yankees defeated the rival Boston Red Sox.The Yankees beat the Boston Red Sox 9-0 in Ga..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12164737",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Yanks ride Massachusetts natives Schlittler, Rice to Game 1 win over Sox",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/yankees-win-al-wild-card-game-1-2026",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "mlb",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/09/30/TAS6LEE6GVFGHF77DXVJEL5JQY/",
+        "publishedAt": "2026-09-30T08:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:00:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "mlb",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-sports/2026/09/30/TAS6LEE6GVFGHF77DXVJEL5JQY/",
+      "rank": 5
+    },
+    {
+      "id": "813f79d14da803f1",
+      "issueKey": "추경호",
+      "issueTitle": "추경호",
+      "trendTitle": "추경호",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "여야, 추경호 징역 20년 구형에…與 \"당연\" 野 \"무죄 믿어\"(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930165801288",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[속보] 내란특검, '계엄해제 표결 방해 의혹' 추경호에 징역 20년 구형",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854976_36918.html",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "장동혁, 특검 추경호 20년 구형에 \"법원서 무죄 선고해줄 것 믿어\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6306357",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "여야, 추경호 징역 20년 구형에…與 \"당연\" 野 \"무죄 믿어\"(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930165801288",
+        "publishedAt": "2026-09-30T07:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T07:20:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "추경호",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260930165801288",
+      "rank": 6
+    },
+    {
+      "id": "79e8856468966f56",
+      "issueKey": "과태료",
+      "issueTitle": "과태료",
+      "trendTitle": "과태료",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "어린이대공원 '도토리 줍기'에 골머리…\"선 좀 지켜주세요\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260929_0003806934",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "송이·밤 등 임산물 '불법 채취'...광양시 집중단속",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2630123",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“도토리와 밤, 다람쥐에 양보하세요“…주워 가면 ’과태료’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260929112713JXG",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“도토리와 밤, 다람쥐에 양보하세요“…주워 가면 ’과태료’",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260929112713JXG",
+        "publishedAt": "2026-09-30T07:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-09-30T07:20:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "과태료",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260929112713JXG",
+      "rank": 7
+    },
+    {
+      "id": "8baf1838b7b24434",
+      "issueKey": "catl",
+      "issueTitle": "catl",
+      "trendTitle": "catl",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "CATL Debrecen Kicks Off Trial Operations in its New Cell Building",
+          "source": "CATL",
+          "url": "https://www.catl.com/en/news/7000.html",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "CATL Starts Battery Production at Hungary Plant",
+          "source": "Caixin Global",
+          "url": "https://www.caixinglobal.com/2026-09-30/catl-starts-battery-production-at-hungary-plant-102489959.html",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "CATL starts preproduction tests at Hungary plant",
+          "source": "Power Progress",
+          "url": "https://www.powerprogress.com/news/catl-starts-preproduction-tests-at-hungary-plant/8132173.article",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "CATL Debrecen Kicks Off Trial Operations in its New Cell Building",
+        "source": "CATL",
+        "url": "https://www.catl.com/en/news/7000.html",
+        "publishedAt": "2026-09-30T07:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T07:20:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "catl",
+      "source": "CATL",
+      "url": "https://www.catl.com/en/news/7000.html",
+      "rank": 8
+    },
+    {
+      "id": "5e21e3b315f26dc1",
+      "issueKey": "내란 가담",
+      "issueTitle": "내란 가담",
+      "trendTitle": "심우정",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "심우정 前검찰총장, '내란 가담·尹 즉시항고 포기' 전면 부인",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930104959020",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "심우정 전 검찰총장, '내란 가담·윤석열 즉시항고 포기' 전면 부인",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008776711",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'내란 가담' 심우정·전무곤, 첫 재판서 \"공소사실 전부 부인\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6305724",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "심우정 前검찰총장, '내란 가담·尹 즉시항고 포기' 전면 부인",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930104959020",
+        "publishedAt": "2026-09-30T07:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T07:10:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "내란 가담",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260930104959020",
+      "rank": 9
+    },
+    {
+      "id": "9ac1c57f371d1f65",
+      "issueKey": "리더는 부하",
+      "issueTitle": "리더는 부하",
+      "trendTitle": "리더는 부하",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
@@ -26,460 +449,37 @@
           "title": "2026년 국군의날 공휴일 지정 되나",
           "source": "Daum",
           "url": "https://v.daum.net/v/20260930035747419",
-          "publishedAt": "2026-09-29T23:00:00.000Z",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
           "relevanceScore": 3
+        },
+        {
+          "title": "[시론] 리더는 부하의 다음 임무도 고민해야",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026093056051",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
+          "relevanceScore": 2
         },
         {
           "title": "국군의날 기념행사를 '국민과 함께' 원년되나",
           "source": "중도일보",
           "url": "https://m.joongdo.co.kr/view.php?key=20260929010008865",
-          "publishedAt": "2026-09-29T23:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[열린마당] 굳건한 안보 위 평화의 섬, 영웅들을 응원합니다",
-          "source": "한라일보",
-          "url": "https://app.ihalla.com/article.php?aid=1790521200790931099",
-          "publishedAt": "2026-09-29T23:00:00.000Z",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "국군의날 기념행사를 '국민과 함께' 원년되나",
-        "source": "중도일보",
-        "url": "https://m.joongdo.co.kr/view.php?key=20260929010008865",
-        "publishedAt": "2026-09-29T23:00:00.000Z",
+        "title": "[시론] 리더는 부하의 다음 임무도 고민해야",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/2026093056051",
+        "publishedAt": "2026-09-30T07:10:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-09-29T23:00:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "국민",
-      "source": "중도일보",
-      "url": "https://m.joongdo.co.kr/view.php?key=20260929010008865",
-      "rank": 1
-    },
-    {
-      "id": "01ff5ec64a848e8f",
-      "issueKey": "연애전쟁",
-      "issueTitle": "연애전쟁",
-      "trendTitle": "연애전쟁",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "삐에로 남친 “2억은커녕 2000만원도 없어”…서장훈 분노 (연애전쟁)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20260929/134749048/1",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'연애전쟁' 이효리, 피에로男 귀여운 척에 '솔직 반응' [RE:TV]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929053214462?f=m",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이경규, 피에로 사위 반대 이유…\"자기 가정 못 다스려\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260928_0003806100",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삐에로 남친 “2억은커녕 2000만원도 없어”…서장훈 분노 (연애전쟁)",
-        "source": "스포츠동아",
-        "url": "https://sports.donga.com/ent/article/all/20260929/134749048/1",
-        "publishedAt": "2026-09-29T22:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-29T22:30:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "연애전쟁",
-      "source": "스포츠동아",
-      "url": "https://sports.donga.com/ent/article/all/20260929/134749048/1",
-      "rank": 2
-    },
-    {
-      "id": "19c6530197f4305b",
-      "issueKey": "송은이",
-      "issueTitle": "송은이",
-      "trendTitle": "송은이",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "월급 20만원이던 무명 송은이 33년 뒤…은행 경고 무시하고 버틴 결과",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930045149839",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "최강희, 5년 만에 연기 복귀…송은이 울컥",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927112209192?f=p",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "최강희, 떨리는 손 숨기고 연기하다 은퇴 결심 \"알바하던 '전참시'가 다시 기회로\"",
-          "source": "네이트",
-          "url": "https://news.nate.com/view/20260922n33306",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "월급 20만원이던 무명 송은이 33년 뒤…은행 경고 무시하고 버틴 결과",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260930045149839",
-        "publishedAt": "2026-09-29T22:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-29T22:30:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "송은이",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260930045149839",
-      "rank": 3
-    },
-    {
-      "id": "a189dc56250a65f2",
-      "issueKey": "광통신",
-      "issueTitle": "광통신",
-      "trendTitle": "광통신",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "오픈AI '학습 중단' 파장…광통신·반도체 등 AI 인프라주 급락",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436789",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"오픈AI, 직원들 '보안 강화' 경고 있었지만 무시\"",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02371446645585368",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "사용 중단하려는 임원에게 \"그러면 당신 비밀 폭로하겠다\" 협박한 AI",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/09/30/BEPKJOE3QBGOLHIAPZC7FU4GM4/",
-          "publishedAt": "2026-09-29T22:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "오픈AI '학습 중단' 파장…광통신·반도체 등 AI 인프라주 급락",
-        "source": "연합인포맥스",
-        "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436789",
-        "publishedAt": "2026-09-29T22:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-29T22:30:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "광통신",
-      "source": "연합인포맥스",
-      "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4436789",
-      "rank": 4
-    },
-    {
-      "id": "95db13419dfa3c4f",
-      "issueKey": "한화 이글스",
-      "issueTitle": "한화 이글스",
-      "trendTitle": "한화 이글스",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'153km 흙속의 진주' 한화 유니폼 입는다…육성선수 입단 합의, 드래프트 미지명→프로행 기적 또 탄생",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930002600493",
-          "publishedAt": "2026-09-29T22:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "KS서 9위 추락 한화 참사, ‘몰랐던 실패’ 아닌 ‘알고도 방치한 실패’...\"도대체 누가 책임질건가\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/KUMLa7kLLF",
-          "publishedAt": "2026-09-29T22:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "가을야구 멀어진 한화… 남은 시즌은 ‘내년 찾기’",
-          "source": "중도일보",
-          "url": "https://m.joongdo.co.kr/view.php?key=20260928010008375",
-          "publishedAt": "2026-09-29T22:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한화 이글스",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260930002600493",
-        "publishedAt": "2026-09-29T22:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-29T22:10:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "한화 이글스",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260930002600493",
-      "rank": 5
-    },
-    {
-      "id": "628becb817ce61d3",
-      "issueKey": "우서윤",
-      "issueTitle": "우서윤",
-      "trendTitle": "우서윤",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "우지원 딸 맞아? '미코眞' 우지원, '아웃송' 댄스까지 화제만발[이슈S]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/W5AixBwayw",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'미코 진' 우서윤, 야구장서 춤 실력 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260928_0003805031",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘성형 논란’ 우서윤, ‘미코 진’ 미모는 감탄인데…“춤엔 소질 없네”",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202609271005003",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'미코 진' 우서윤, 야구장서 춤 실력 공개",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20260928_0003805031",
-        "publishedAt": "2026-09-29T22:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-29T22:00:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "우서윤",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20260928_0003805031",
-      "rank": 6
-    },
-    {
-      "id": "a7b8a55ee3c36bd0",
-      "issueKey": "สภาพอากาศ",
-      "issueTitle": "สภาพอากาศ",
-      "trendTitle": "สภาพอากาศ",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "น้ำท่วมในประเทศไทย: เสียชีวิต 23 ราย สนามบินกรุงเทพฯ เกิดความวุ่นวาย",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/ngap-lut-thai-lan-23-nguoi-chet-san-bay-bangkok-hon-loan",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "โล่งอก! วันนี้ฝนเทแค่ 30% ส่วนภาคใต้หนัก 60%",
-          "source": "Thaipost.net",
-          "url": "https://www.thaipost.net/general-news/1079163/",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "ที’ ลมฟ้าอากาศ เผยละเอียดยิบ!! โพสต์เตือนช่วงระยะเวลาที่เหลือ ภายใน 120 ชั่วโมง หรือ 5 วัน | TOJO NEWS",
-          "source": "LINE TODAY",
-          "url": "https://today.line.me/th/v3/article/2D9yzBX",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "สภาพอากาศ",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/th/ngap-lut-thai-lan-23-nguoi-chet-san-bay-bangkok-hon-loan",
-        "publishedAt": "2026-09-29T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-29T22:00:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "สภาพอากาศ",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/th/ngap-lut-thai-lan-23-nguoi-chet-san-bay-bangkok-hon-loan",
-      "rank": 7
-    },
-    {
-      "id": "ac29ec0f2c312661",
-      "issueKey": "은마",
-      "issueTitle": "은마",
-      "trendTitle": "은마",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "같은 84㎡ 받는데 4억3000만원 더 낸다… 은마 재건축 분담금 또 뛰어 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/29/YF3J73P4FBCQJGURI5NOUFE6UE/",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"34평은 재초환, 66평은 23억 분담금\"…잠실5단지 덮친 딜레마",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260929000899",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'은마·잠실5·한남5' 조합원 분양 신청 돌입…전용 84㎡ 25억~32억원",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/estate/2026/09/29/2026092914481837987",
-          "publishedAt": "2026-09-29T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "같은 84㎡ 받는데 4억3000만원 더 낸다… 은마 재건축 분담금 또 뛰어 - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/29/YF3J73P4FBCQJGURI5NOUFE6UE/",
-        "publishedAt": "2026-09-29T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-29T22:00:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "은마",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/29/YF3J73P4FBCQJGURI5NOUFE6UE/",
-      "rank": 8
-    },
-    {
-      "id": "ec9c734900b0a822",
-      "issueKey": "복지부",
-      "issueTitle": "복지부",
-      "trendTitle": "기자",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[게시판] 복지부, '2026 정신건강 미디어 심포지엄' 개최",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/amp/view/AKR20260929043500530",
-          "publishedAt": "2026-09-29T21:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "기자도 트라우마 겪는다…정신건강 보도, 편견 대신 공감으로",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/bio/welfare-medical/6304539",
-          "publishedAt": "2026-09-29T21:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "기협·복지부·중앙지원단 '2026 정신건강 심포지엄'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260929191831770",
-          "publishedAt": "2026-09-29T21:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[게시판] 복지부, '2026 정신건강 미디어 심포지엄' 개최",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/amp/view/AKR20260929043500530",
-        "publishedAt": "2026-09-29T21:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-29T21:50:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "복지부",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/amp/view/AKR20260929043500530",
-      "rank": 9
-    },
-    {
-      "id": "fe655cf1d979cf3d",
-      "issueKey": "바람불며 중부",
-      "issueTitle": "바람불며 중부",
-      "trendTitle": "날씨",
-      "approxTraffic": "200000+",
-      "trafficScore": 200000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[출근길 날씨] 출근길 짙은 안개…바람불며 중부·전북 비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260930075344930",
-          "publishedAt": "2026-09-29T21:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "대체로 맑다 오후부터 흐려져 중부 비…일교차 최대 15도",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20260930/134757328/1",
-          "publishedAt": "2026-09-29T21:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "강원 내륙·산지 오후 들어 비…동해안 너울 주의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20260930007700062",
-          "publishedAt": "2026-09-29T21:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[출근길 날씨] 출근길 짙은 안개…바람불며 중부·전북 비",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260930075344930",
-        "publishedAt": "2026-09-29T21:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-29T21:40:00.000Z",
-      "firstSeenAt": "2026-09-30T00:04:56.493Z",
-      "lastSeenAt": "2026-09-30T00:04:56.493Z",
-      "title": "바람불며 중부",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260930075344930",
+      "publishedAt": "2026-09-30T07:10:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "리더는 부하",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/2026093056051",
       "rank": 10
     }
   ],
@@ -623,50 +623,50 @@
       "url": "https://v.daum.net/v/20260929041043250"
     },
     {
-      "id": "ed7985d7a3e901bc",
-      "issueKey": "삼전",
-      "issueTitle": "삼전",
-      "trendTitle": "삼전 닉스",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "813f79d14da803f1",
+      "issueKey": "추경호",
+      "issueTitle": "추경호",
+      "trendTitle": "추경호",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "코스피, 7000선서 약세…외인·기관 ‘팔자’에 삼전·하닉 동반 하락",
+          "title": "여야, 추경호 징역 20년 구형에…與 \"당연\" 野 \"무죄 믿어\"(종합)",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20260928091641047",
-          "publishedAt": "2026-09-28T02:30:00.000Z",
+          "url": "https://v.daum.net/v/20260930165801288",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "추석 연휴 끝나자 삼전닉스, 3%대 동반 하락…증권가는 “기대해도 좋아”",
-          "source": "매일경제 마켓",
-          "url": "https://stock.mk.co.kr/news/view/1165664",
-          "publishedAt": "2026-09-28T02:30:00.000Z",
+          "title": "[속보] 내란특검, '계엄해제 표결 방해 의혹' 추경호에 징역 20년 구형",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6854976_36918.html",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "美국채금리 급등에 칠천피 붕괴…삼전닉스 4%대 낙폭",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20260928/134742130/1",
-          "publishedAt": "2026-09-28T02:30:00.000Z",
+          "title": "장동혁, 특검 추경호 20년 구형에 \"법원서 무죄 선고해줄 것 믿어\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/politics/assembly/6306357",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "코스피, 7000선서 약세…외인·기관 ‘팔자’에 삼전·하닉 동반 하락",
+        "title": "여야, 추경호 징역 20년 구형에…與 \"당연\" 野 \"무죄 믿어\"(종합)",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20260928091641047",
-        "publishedAt": "2026-09-28T02:30:00.000Z",
+        "url": "https://v.daum.net/v/20260930165801288",
+        "publishedAt": "2026-09-30T07:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-09-28T02:30:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "삼전",
+      "publishedAt": "2026-09-30T07:20:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "추경호",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20260928091641047"
+      "url": "https://v.daum.net/v/20260930165801288"
     },
     {
       "id": "5b6b5a16786532a0",
@@ -899,52 +899,6 @@
       "url": "https://www.mk.co.kr/news/hot-issues/12162767"
     },
     {
-      "id": "a8f7e3b1e379f488",
-      "issueKey": "어머니",
-      "issueTitle": "어머니",
-      "trendTitle": "어머니",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김기태 \"어머니 사망, 서류 떼다 뒤늦게 알았다\"",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6583470",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김기태, 17세에 이혼한 母 연락없더니…\"이미 사망, 너무 후회돼\"('데이앤나잇')",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260927114240627",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"유명해지면 엄마가 날 찾을 줄\"…김기태, 뒤늦게 알게 된 모친상",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/27/2026092711120612011",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김기태 \"어머니 사망, 서류 떼다 뒤늦게 알았다\"",
-        "source": "노컷뉴스",
-        "url": "https://www.nocutnews.co.kr/news/6583470",
-        "publishedAt": "2026-09-28T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T02:50:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "어머니",
-      "source": "노컷뉴스",
-      "url": "https://www.nocutnews.co.kr/news/6583470"
-    },
-    {
       "id": "628becb817ce61d3",
       "issueKey": "우서윤",
       "issueTitle": "우서윤",
@@ -996,6 +950,236 @@
       "title": "우서윤",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISX20260928_0003805031"
+    },
+    {
+      "id": "252ac990d27ebe08",
+      "issueKey": "게임",
+      "issueTitle": "게임",
+      "trendTitle": "게임",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "글로벌‧온라인으로…'게임 대축제'의 외연 확장[지스타 얼리액세스]",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930173706419",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "글로벌 게임사 참가 증가한 올해의 지스타…어떤 게임 공개하나",
+          "source": "녹색경제신문",
+          "url": "https://www.greened.kr/news/articleView.html?idxno=351142",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘지스타 2026’, 벡스코 전시장 도면·글로벌 출품 라인업 공개",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112884608",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "글로벌‧온라인으로…'게임 대축제'의 외연 확장[지스타 얼리액세스]",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930173706419",
+        "publishedAt": "2026-09-30T08:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:10:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "게임",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260930173706419"
+    },
+    {
+      "id": "0f88834dd80fd636",
+      "issueKey": "코스피",
+      "issueTitle": "코스피",
+      "trendTitle": "코스피",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'전강후약' 코스피, 美금리 부담속 0.4%↓…사흘연속 하락(종합)",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930161802135",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "美국채금리 한파에 외인·기관 3조 이탈…\"반도체 주목\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/stock/2026/09/30/2026093017331564801",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "상승 출발했던 코스피, 하락 마감...코스닥 상승",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0102_202609301649256871_005.html",
+          "publishedAt": "2026-09-30T08:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'전강후약' 코스피, 美금리 부담속 0.4%↓…사흘연속 하락(종합)",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930161802135",
+        "publishedAt": "2026-09-30T08:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:10:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "코스피",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260930161802135"
+    },
+    {
+      "id": "7828e86d4b195798",
+      "issueKey": "베트남",
+      "issueTitle": "베트남",
+      "trendTitle": "베트남",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "HS효성첨단소재, 베트남에 1천300억원 규모 카펫공장 건설",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20260930059400003",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "HS효성첨단소재, 베트남에 1억달러 투자…카페트 신공장 건설",
+          "source": "에너지경제신문",
+          "url": "https://www.ekn.kr/web/view.php?key=20260930026390584",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "HS효성첨단소재, 베트남 다낭에 1억 달러 규모 카페트 신공장 건설",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/09/30/2026093012440531849",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "HS효성첨단소재, 베트남에 1천300억원 규모 카펫공장 건설",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20260930059400003",
+        "publishedAt": "2026-09-30T08:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:00:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "베트남",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20260930059400003"
+    },
+    {
+      "id": "79e8856468966f56",
+      "issueKey": "과태료",
+      "issueTitle": "과태료",
+      "trendTitle": "과태료",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "어린이대공원 '도토리 줍기'에 골머리…\"선 좀 지켜주세요\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20260929_0003806934",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "송이·밤 등 임산물 '불법 채취'...광양시 집중단속",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2630123",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“도토리와 밤, 다람쥐에 양보하세요“…주워 가면 ’과태료’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20260929112713JXG",
+          "publishedAt": "2026-09-30T07:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“도토리와 밤, 다람쥐에 양보하세요“…주워 가면 ’과태료’",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/AKR20260929112713JXG",
+        "publishedAt": "2026-09-30T07:20:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-09-30T07:20:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "과태료",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/AKR20260929112713JXG"
+    },
+    {
+      "id": "5e21e3b315f26dc1",
+      "issueKey": "내란 가담",
+      "issueTitle": "내란 가담",
+      "trendTitle": "심우정",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "심우정 前검찰총장, '내란 가담·尹 즉시항고 포기' 전면 부인",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20260930104959020",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "심우정 전 검찰총장, '내란 가담·윤석열 즉시항고 포기' 전면 부인",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008776711",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'내란 가담' 심우정·전무곤, 첫 재판서 \"공소사실 전부 부인\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6305724",
+          "publishedAt": "2026-09-30T07:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "심우정 前검찰총장, '내란 가담·尹 즉시항고 포기' 전면 부인",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20260930104959020",
+        "publishedAt": "2026-09-30T07:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T07:10:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "내란 가담",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20260930104959020"
     },
     {
       "id": "01ff5ec64a848e8f",
@@ -1366,98 +1550,6 @@
       "url": "https://v.daum.net/v/20260928062728899"
     },
     {
-      "id": "70ca28a13098d3c5",
-      "issueKey": "훈련하는 오현규",
-      "issueTitle": "훈련하는 오현규",
-      "trendTitle": "훈련하는 오현규",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'이강인·황인범 합류' 모레노호, 우루과이전서 두 번째 시험대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928061654780",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "훈련하는 오현규",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20260927_0021460705",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "조규성, 모레노호 낙마…“회복 필요하다는 판단, 선수 보호 차원 소집 해제”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8672054",
-          "publishedAt": "2026-09-28T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "훈련하는 오현규",
-        "source": "뉴시스",
-        "url": "https://mobile.newsis.com/photo/NISI20260927_0021460705",
-        "publishedAt": "2026-09-28T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T02:50:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "훈련하는 오현규",
-      "source": "뉴시스",
-      "url": "https://mobile.newsis.com/photo/NISI20260927_0021460705"
-    },
-    {
-      "id": "87c1d863a9795f88",
-      "issueKey": "예방 콘텐츠",
-      "issueTitle": "예방 콘텐츠",
-      "trendTitle": "치매",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"치매 예방 콘텐츠·자문 결실\"…박경영 중원대 교수, 세종시장상 수상",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/09/28/2026092811204544461",
-          "publishedAt": "2026-09-28T01:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "중원대 박경영 교수 치매관리사업 기여로 세종시장상 수상",
-          "source": "베리타스알파",
-          "url": "https://www.veritas-a.com/news/articleView.html?idxno=629593",
-          "publishedAt": "2026-09-28T01:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "동국대일산병원 서지원 교수, 치매극복 유공 국무총리 표창",
-          "source": "의학신문",
-          "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3012845",
-          "publishedAt": "2026-09-28T01:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"치매 예방 콘텐츠·자문 결실\"…박경영 중원대 교수, 세종시장상 수상",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/policy/2026/09/28/2026092811204544461",
-        "publishedAt": "2026-09-28T01:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T01:50:00.000Z",
-      "firstSeenAt": "2026-09-28T04:01:44.011Z",
-      "lastSeenAt": "2026-09-28T04:01:44.011Z",
-      "title": "예방 콘텐츠",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/policy/2026/09/28/2026092811204544461"
-    },
-    {
       "id": "f2bd2906617322b6",
       "issueKey": "벨기에 대 프랑스",
       "issueTitle": "벨기에 대 프랑스",
@@ -1488,6 +1580,52 @@
       "title": "벨기에 대 프랑스",
       "source": "Laodong.vn",
       "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bi-vs-phap-tai-nations-league-1774176.ldo"
+    },
+    {
+      "id": "0bda61a54af46aab",
+      "issueKey": "mlb",
+      "issueTitle": "mlb",
+      "trendTitle": "mlb",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Yankees rout Red Sox 9-0 as Rice homers four hits, Schritller fans 10 - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/09/30/TAS6LEE6GVFGHF77DXVJEL5JQY/",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "The New York Yankees defeated the rival Boston Red Sox.The Yankees beat the Boston Red Sox 9-0 in Ga..",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/en/sports/12164737",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Yanks ride Massachusetts natives Schlittler, Rice to Game 1 win over Sox",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/yankees-win-al-wild-card-game-1-2026",
+          "publishedAt": "2026-09-30T08:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "mlb",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/09/30/TAS6LEE6GVFGHF77DXVJEL5JQY/",
+        "publishedAt": "2026-09-30T08:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-09-30T08:00:00.000Z",
+      "firstSeenAt": "2026-09-30T09:22:20.604Z",
+      "lastSeenAt": "2026-09-30T09:22:20.604Z",
+      "title": "mlb",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-sports/2026/09/30/TAS6LEE6GVFGHF77DXVJEL5JQY/"
     },
     {
       "id": "19c6530197f4305b",
@@ -2178,144 +2316,6 @@
       "title": "이준수",
       "source": "Daum",
       "url": "https://v.daum.net/v/20260928161155619"
-    },
-    {
-      "id": "aa8720e9f1563cba",
-      "issueKey": "간장게장",
-      "issueTitle": "간장게장",
-      "trendTitle": "간장게장",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "박세리 \"결혼할 것\" 깜짝 선언…새 타운하우스도 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20260927_0003803999",
-          "publishedAt": "2026-09-29T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "박세리, 전현무도 놀란 초대형 타운하우스 공개..이사 선물도 큰 손 “간장게장, 갈치김치”",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112882601",
-          "publishedAt": "2026-09-29T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘전참시’ 박세리 타운하우스 공개...“축의금 먼저 받을까”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/broadcasting-service/12161800",
-          "publishedAt": "2026-09-29T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "박세리, 전현무도 놀란 초대형 타운하우스 공개..이사 선물도 큰 손 “간장게장, 갈치김치”",
-        "source": "OSEN",
-        "url": "https://www.osen.co.kr/article/G1112882601",
-        "publishedAt": "2026-09-29T01:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-09-29T01:20:00.000Z",
-      "firstSeenAt": "2026-09-29T04:35:06.725Z",
-      "lastSeenAt": "2026-09-29T04:35:06.725Z",
-      "title": "간장게장",
-      "source": "OSEN",
-      "url": "https://www.osen.co.kr/article/G1112882601"
-    },
-    {
-      "id": "606f3fcbc644b552",
-      "issueKey": "박지선",
-      "issueTitle": "박지선",
-      "trendTitle": "박지선",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "故박지선 떠난 뒤 발 끊겨.. 22기 동기들에 박성광 “이름조차 못 꺼내” 뭉클 (‘짠한형’)",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20260928230814752",
-          "publishedAt": "2026-09-28T17:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'짠한형' 신동엽, 故 박지선 언급…동기 장효인 '울컥'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/broadcast-tv/6303696",
-          "publishedAt": "2026-09-28T17:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "장효인, 짝사랑 고백에…박성광 \"다른 한 명\" 故 박지선 언급",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/09/28/2026092821383146053",
-          "publishedAt": "2026-09-28T17:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "故박지선 떠난 뒤 발 끊겨.. 22기 동기들에 박성광 “이름조차 못 꺼내” 뭉클 (‘짠한형’)",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20260928230814752",
-        "publishedAt": "2026-09-28T17:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T17:00:00.000Z",
-      "firstSeenAt": "2026-09-28T21:05:14.059Z",
-      "lastSeenAt": "2026-09-28T21:05:14.059Z",
-      "title": "박지선",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20260928230814752"
-    },
-    {
-      "id": "fd8132c77250bb9a",
-      "issueKey": "전지현",
-      "issueTitle": "전지현",
-      "trendTitle": "전지현",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "전지현, 생얼에 가죽재킷..올블랙 여신, 파리行 [스타이슈]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/1PHR4IV7vz",
-          "publishedAt": "2026-09-28T15:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "전지현, 가죽재킷으로 멋낸 공항 패션",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8129404",
-          "publishedAt": "2026-09-28T15:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "전지현, 가방을 고쳐 메고~",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20260928000277",
-          "publishedAt": "2026-09-28T15:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "전지현, 생얼에 가죽재킷..올블랙 여신, 파리行 [스타이슈]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/1PHR4IV7vz",
-        "publishedAt": "2026-09-28T15:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-09-28T15:00:00.000Z",
-      "firstSeenAt": "2026-09-28T21:05:14.059Z",
-      "lastSeenAt": "2026-09-28T21:05:14.059Z",
-      "title": "전지현",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/1PHR4IV7vz"
     }
   ]
 }
