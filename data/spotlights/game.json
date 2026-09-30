@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-09-29T19:48:06.404Z",
+  "lastUpdatedAt": "2026-09-30T00:04:56.493Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -41,14 +41,14 @@
           "meta": "댓글 2"
         },
         {
-          "title": "㈜카카오게임즈, IT 하드웨어 미디어 커뮤니티 퀘이사존과 ‘크로노 오디세이’ 최적화 구현을 위한 MOU 체결",
-          "url": "https://bbs.ruliweb.com/news/read/229792",
-          "meta": "댓글 3"
+          "title": "블리자드 엔터테인먼트 ‘히어로즈 오브 더 스톰’, 신규 영웅 ‘잘아타스’ 시공의 폭풍에 추가",
+          "url": "https://bbs.ruliweb.com/news/read/229973",
+          "meta": "댓글 7"
         },
         {
-          "title": "그라비티, 정통 판타지 시뮬레이션 게임 ‘갈바테인 : 모험가 길드 사무소’ 스팀 얼리 액세스 오늘(22일) 시작",
-          "url": "https://bbs.ruliweb.com/news/read/229819",
-          "meta": "댓글 3"
+          "title": "액토즈소프트, ‘50억 원 규모 현금배당’ 사전 예고",
+          "url": "https://bbs.ruliweb.com/news/read/229947",
+          "meta": "댓글 1"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "'페이커' 우표, 10월 23일 발행 예정",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321557",
+          "meta": "리그 오브 레전드 · 2시간 전"
+        },
+        {
           "title": "'철벽' 김민철의 귀환, 신상문 3:0으로 잡고 4강행",
           "url": "https://www.inven.co.kr/webzine/news/?news=321558",
-          "meta": "스타크래프트 · 31분 전"
+          "meta": "스타크래프트 · 12시간 전"
         },
         {
           "title": "크라운급 지휘관도 이해할 수 있는 신: 스위프트 바니 사용법",
           "url": "https://www.inven.co.kr/webzine/news/?news=321553",
-          "meta": "승리의 여신: 니케 · 3시간 전"
+          "meta": "승리의 여신: 니케 · 15시간 전"
         },
         {
           "title": "탄지로와 젠이츠 온다! 세나리 x 귀멸의 칼날 미리보기",
           "url": "https://www.inven.co.kr/webzine/news/?news=321548",
-          "meta": "세븐나이츠 리버스 · 3시간 전"
+          "meta": "세븐나이츠 리버스 · 15시간 전"
         },
         {
           "title": "공식 떨거지들이 모인 클랜, '유류코 트리오'",
           "url": "https://www.inven.co.kr/webzine/news/?news=321349",
-          "meta": "아스트라에 오라티오 · 4시간 전"
-        },
-        {
-          "title": "EA, EA SPORTS FC 27 글로벌 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321545",
-          "meta": "EA 스포츠 FC 27 · 5시간 전"
+          "meta": "아스트라에 오라티오 · 16시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "Could not find section start token: 주요뉴스 더보기"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
