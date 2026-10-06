@@ -7,479 +7,479 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-10-05T21:50:23.742Z",
+  "lastUpdatedAt": "2026-10-06T05:12:00.328Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "73b47d6729b4db77",
-      "issueKey": "삼성전자",
-      "issueTitle": "삼성전자",
-      "trendTitle": "삼성전자",
+      "id": "4a3ff62241cf4fc9",
+      "issueKey": "퇴직금",
+      "issueTitle": "퇴직금",
+      "trendTitle": "퇴직금",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "불장에 퇴직연금 DB→DC 전환했는데… 증시 조정에 수익률 ‘뚝’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/10/05/G4NLF2LP7RBMFHLBKVYAADWDD4/",
+          "publishedAt": "2026-10-06T03:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“상승장 놓칠라” 퇴직연금 DC 갈아탔는데…하락장에 ‘10%대 손실’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261005580013",
+          "publishedAt": "2026-10-06T03:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "증시 고점서 DB→DC 전환 15만명…투자 나선 일부는 두 달 만에 -10%",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261005500215",
+          "publishedAt": "2026-10-06T03:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "퇴직금",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/stock/stock_general/2026/10/05/G4NLF2LP7RBMFHLBKVYAADWDD4/",
+        "publishedAt": "2026-10-06T03:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T03:50:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "퇴직금",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/10/05/G4NLF2LP7RBMFHLBKVYAADWDD4/",
+      "rank": 1
+    },
+    {
+      "id": "1f1a4d92af8fbe2e",
+      "issueKey": "nba",
+      "issueTitle": "nba",
+      "trendTitle": "nba",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "NBA experiments with new technologies in preseason",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/nba-experiments-with-smart-basketballs-wrist-wearables",
+          "publishedAt": "2026-10-06T03:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games",
+          "source": "WBAL News Radio",
+          "url": "https://www.wbal.com/nba-is-experimenting-with-smart-basketballs-and-official-wrist-wearables-in-select-preseason-games",
+          "publishedAt": "2026-10-06T03:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games",
+          "source": "Enidnews.com",
+          "url": "https://www.enidnews.com/region/nba-is-experimenting-with-smart-basketballs-and-official-wrist-wearables-in-select-preseason-games/article_4dc2b7c5-1acb-540a-94b5-34f885d396c3.html",
+          "publishedAt": "2026-10-06T03:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "NBA experiments with new technologies in preseason",
+        "source": "NBA.com",
+        "url": "https://www.nba.com/news/nba-experiments-with-smart-basketballs-wrist-wearables",
+        "publishedAt": "2026-10-06T03:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T03:10:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "nba",
+      "source": "NBA.com",
+      "url": "https://www.nba.com/news/nba-experiments-with-smart-basketballs-wrist-wearables",
+      "rank": 2
+    },
+    {
+      "id": "fbafccc5945bd9fd",
+      "issueKey": "홍역",
+      "issueTitle": "홍역",
+      "trendTitle": "홍역",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "삼성전자, 배당 못 받으면 어때…'100조' 찍으면 매수세 돌아올까 [증시는 왜]",
+          "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
           "source": "Daum",
-          "url": "https://v.daum.net/v/0SgEmJtWcs",
-          "publishedAt": "2026-10-05T20:40:00.000Z",
+          "url": "https://v.daum.net/v/20261006093605841",
+          "publishedAt": "2026-10-06T03:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "자사주 '버팀목' 빠지는 삼성전자… 100조원대 영업익으로 극복할까?",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/05/2026100510313464479",
-          "publishedAt": "2026-10-05T20:40:00.000Z",
+          "title": "30년 만에 최악의 유행…美 3900명 확진에 비상사태 선포",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100641597",
+          "publishedAt": "2026-10-06T03:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "삼전 또 최대 실적 예고…'100조 이후' HBM4에 쏠린 눈",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=02640406645609968",
-          "publishedAt": "2026-10-05T20:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성전자, 배당 못 받으면 어때…'100조' 찍으면 매수세 돌아올까 [증시는 왜]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/0SgEmJtWcs",
-        "publishedAt": "2026-10-05T20:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-05T20:40:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "삼성전자",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/0SgEmJtWcs",
-      "rank": 1
-    },
-    {
-      "id": "06502c21b760ca0d",
-      "issueKey": "박유천",
-      "issueTitle": "박유천",
-      "trendTitle": "박유천",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "박유천, 일본과 잘 맞나봐..급속노화 딛고 '회춘' 미모 화제 [핫피플]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005180457254",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "박유천, 일본서 기관사로 포착?..열차 유니폼 입고 ‘깜짝 근황’ - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/05/GQZDMYLGMY3WGN3BGFSDAMBTGM/",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'마약·세금체납 파문' 박유천, 日서 전성기 미모 되찾았다…\"우리가 알던 모습\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011436",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "박유천, 일본과 잘 맞나봐..급속노화 딛고 '회춘' 미모 화제 [핫피플]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261005180457254",
-        "publishedAt": "2026-10-05T20:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-05T20:30:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "박유천",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20261005180457254",
-      "rank": 2
-    },
-    {
-      "id": "23b1e5e326df4928",
-      "issueKey": "조선 호황",
-      "issueTitle": "조선 호황",
-      "trendTitle": "조선 호황",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "4000만원도 퇴짜...조선 호황이 키운 '성과배분 딜레마'",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005180048109",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "HD현대중공업 임단협 잠정합의안 부결",
+          "title": "미국 홍역 확산 지속…뉴욕주, 지난해 유행 후 첫 비상사태",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677475",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "환율에 노사 리스크까지…HD현대重·한화오션 3분기 실적 '이중고'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/general-industry/6310545",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678206",
+          "publishedAt": "2026-10-06T03:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "4000만원도 퇴짜...조선 호황이 키운 '성과배분 딜레마'",
+        "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
         "source": "Daum",
-        "url": "https://v.daum.net/v/20261005180048109",
-        "publishedAt": "2026-10-05T20:30:00.000Z",
+        "url": "https://v.daum.net/v/20261006093605841",
+        "publishedAt": "2026-10-06T03:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-05T20:30:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "조선 호황",
+      "publishedAt": "2026-10-06T03:00:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "홍역",
       "source": "Daum",
-      "url": "https://v.daum.net/v/20261005180048109",
+      "url": "https://v.daum.net/v/20261006093605841",
       "rank": 3
     },
     {
-      "id": "66f7d0e348b679c1",
-      "issueKey": "이화영",
-      "issueTitle": "이화영",
-      "trendTitle": "이화영",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "52e1d7525c272319",
+      "issueKey": "강신철",
+      "issueTitle": "강신철",
+      "trendTitle": "강신철",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "대북송금 징역 확정 이화영, 재심 청구 검토…변호인 “국정원 문건 나와”",
+          "title": "\"최소 4발 이상 의도적 매설\"…일대 폭파해 '북 지뢰' 제거",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261005195158850",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "url": "https://v.daum.net/v/20261006074656045",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'쌍방울 대북송금' 실형 확정 이화영 측 \"재심청구 계획\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261005043800004",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "title": "“北지뢰 제거, DMZ 역사상 처음”…강신철, “모든 책임은 북한에”",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55904",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘대북 송금’ 유죄 확정 이화영, 결국 재심 카드 꺼내나",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11621442",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "title": "통일부 “선대선 소통 통한 평화 해법 마련에 노력”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678450",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "대북송금 징역 확정 이화영, 재심 청구 검토…변호인 “국정원 문건 나와”",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261005195158850",
-        "publishedAt": "2026-10-05T20:30:00.000Z",
-        "relevanceScore": 3
+        "title": "“北지뢰 제거, DMZ 역사상 처음”…강신철, “모든 책임은 북한에”",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=55904",
+        "publishedAt": "2026-10-06T02:30:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-10-05T20:30:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "이화영",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20261005195158850",
+      "publishedAt": "2026-10-06T02:30:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "강신철",
+      "source": "주간조선",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=55904",
       "rank": 4
     },
     {
-      "id": "40f36e828c237070",
-      "issueKey": "용암",
-      "issueTitle": "용암",
-      "trendTitle": "용암",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "be228e24f79a5c42",
+      "issueKey": "한다",
+      "issueTitle": "한다",
+      "trendTitle": "한다",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "500년 넘게 버텼는데…하와이 명물 27m 용암 아치 붕괴 [잇슈 SNS]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677581",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "title": "‘미생’ 장그래는 버텼는데 ‘로또 1등’ 공은태는 할 말 다 한다···12년 새 달라진 직장 드라마",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610060600111",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“편히 잠드소서”…550년 버틴 하와이 명물 아치, 태평양으로 ‘와르르’",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/VYvaSl8BWf",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "title": "출근과 퇴사 사이, K-직장인 콘텐츠 열풍[김희경의 컬처 인사이트]",
+          "source": "한경매거진&북",
+          "url": "https://magazine.hankyung.com/business/article/202610016645b",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "하와이 대표 명소 ‘코끼리 코’ 모양 아치 붕괴…허리케인 지나간 뒤 사라져 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/international/international_general/2026/10/03/3UPVE2HGRBGDRGDS5M3CJSVWXI/",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "title": "이준혁 '로또 1등도 출근합니다', '연애박사'와 큰 격차로 월화극 1위",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100608547270887",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "500년 넘게 버텼는데…하와이 명물 27m 용암 아치 붕괴 [잇슈 SNS]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8677581",
-        "publishedAt": "2026-10-05T20:30:00.000Z",
+        "title": "‘미생’ 장그래는 버텼는데 ‘로또 1등’ 공은태는 할 말 다 한다···12년 새 달라진 직장 드라마",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610060600111",
+        "publishedAt": "2026-10-06T02:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-05T20:30:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "용암",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8677581",
+      "publishedAt": "2026-10-06T02:30:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "한다",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202610060600111",
       "rank": 5
     },
     {
-      "id": "38c1b40757a204e5",
-      "issueKey": "가격",
-      "issueTitle": "가격",
-      "trendTitle": "가격",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "99bcc6f2983f2e3f",
+      "issueKey": "김종민",
+      "issueTitle": "김종민",
+      "trendTitle": "김종민",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"집 사기는 싫었는데\"…서울서 아파트 산 사람들, 세제개편안에 중저가 몰렸다[부동산AtoZ]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005162031813",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
+          "title": "코요태 김종민, 아빠 된다…\"아내 임신 17주차\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261006033500005",
+          "publishedAt": "2026-10-06T02:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "팔라는 비싼 집은 안 팔리고 싼 집만 사람 몰려 가격 오르네 [지금뉴스]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677969",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
+          "title": "“평생소원이 애 아빠” 47살 김종민, 결혼 1년 만에 2세 소식",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/music/1281043.html",
+          "publishedAt": "2026-10-06T02:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'정책대출 마지노선'…서울 6억 이하 아파트 거래 15% 늘었다",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/realestate/general/6310518",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
+          "title": "김종민, 아빠 소식 신지·빽가에게 제일 먼저…'임신' 김종민 아내에게 기립박수 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/06/MFRDEZTEHEYDSYLEHBRDQYTCG4/",
+          "publishedAt": "2026-10-06T02:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "팔라는 비싼 집은 안 팔리고 싼 집만 사람 몰려 가격 오르네 [지금뉴스]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8677969",
-        "publishedAt": "2026-10-05T20:20:00.000Z",
-        "relevanceScore": 2
+        "title": "코요태 김종민, 아빠 된다…\"아내 임신 17주차\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261006033500005",
+        "publishedAt": "2026-10-06T02:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-10-05T20:20:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "가격",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8677969",
+      "publishedAt": "2026-10-06T02:20:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "김종민",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261006033500005",
       "rank": 6
     },
     {
-      "id": "3d9ddaac6945bee6",
-      "issueKey": "삼전닉스",
-      "issueTitle": "삼전닉스",
-      "trendTitle": "삼전닉스",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "40dcecc1144cd79d",
+      "issueKey": "성현주",
+      "issueTitle": "성현주",
+      "trendTitle": "성현주",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"삼전닉스만 믿고 있었는데\"…실적 전망에 개미들 '술렁'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026100537801",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
+          "title": "성현주, 먼저 떠난 8살 아들…\"1000일 동안 의식 없었다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261005_0003814645",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"주가 4개월새 반토막 났다\"…개미 울상인데 '뜻밖의 전망' [종목+]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260930n20880?issue_sq=11391",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
+          "title": "故박지선 떠난 후 또..\"KBS 22기. 코로나때 장례식, 발인 곁 지켰다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/06/MZRTCNDBMRSWEMJZGFQWEYLFG4/",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "조선 3사, 3분기 누적 수주 400억달러 눈앞…장기 호황에 마스가 호재까지 ‘장밋빛’",
-          "source": "대한경제",
-          "url": "https://m.dnews.co.kr/m_home/view.jsp?idxno=202610011423071160178",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
+          "title": "성현주, 먼저 떠나보낸 8살 아들에 눈물…\"동기들 덕분에 버텼다\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/05/2026100520480092991",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"삼전닉스만 믿고 있었는데\"…실적 전망에 개미들 '술렁'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026100537801",
-        "publishedAt": "2026-10-05T20:20:00.000Z",
+        "title": "성현주, 먼저 떠난 8살 아들…\"1000일 동안 의식 없었다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261005_0003814645",
+        "publishedAt": "2026-10-06T00:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-05T20:20:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "삼전닉스",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026100537801",
+      "publishedAt": "2026-10-06T00:20:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "성현주",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261005_0003814645",
       "rank": 7
     },
     {
-      "id": "9bd8ba34a46ebae9",
-      "issueKey": "주병진",
-      "issueTitle": "주병진",
-      "trendTitle": "주병진",
+      "id": "c4cf0207887d21da",
+      "issueKey": "우리은행",
+      "issueTitle": "우리은행",
+      "trendTitle": "우리은행",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "LG유플러스, 우리은행과 손잡고 통화 기반 금융사기 막는다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261006000900353",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "우리은행, LG유플러스와 보이스피싱 탐지 체계 고도화",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261006000147",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[기고] 보이스피싱 피해 반토막, 민관협력 빛난다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005182630627",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "LG유플러스, 우리은행과 손잡고 통화 기반 금융사기 막는다",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/RPR20261006000900353",
+        "publishedAt": "2026-10-06T00:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T00:20:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "우리은행",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/RPR20261006000900353",
+      "rank": 8
+    },
+    {
+      "id": "e6667ca01e931156",
+      "issueKey": "하나은행",
+      "issueTitle": "하나은행",
+      "trendTitle": "하나은행",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "흩어진 거래 정보 한 곳에 모았다…데이타솔루션, 하나은행 IB시스템 고도화 완료",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026100611155617387",
+          "publishedAt": "2026-10-06T00:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "데이타솔루션, 하나은행 IB시스템 고도화 완료",
+          "source": "데이터넷",
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=214899",
+          "publishedAt": "2026-10-06T00:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "서울 달빛야장 소상공인에 687억 특별보증",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261005/134789320/2",
+          "publishedAt": "2026-10-06T00:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "흩어진 거래 정보 한 곳에 모았다…데이타솔루션, 하나은행 IB시스템 고도화 완료",
+        "source": "디지털데일리",
+        "url": "https://www.ddaily.co.kr/page/view/2026100611155617387",
+        "publishedAt": "2026-10-06T00:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T00:10:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "하나은행",
+      "source": "디지털데일리",
+      "url": "https://www.ddaily.co.kr/page/view/2026100611155617387",
+      "rank": 9
+    },
+    {
+      "id": "63049ae2757a9fe3",
+      "issueKey": "김희정",
+      "issueTitle": "김희정",
+      "trendTitle": "김희정",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "주병진, 200평 대저택 떠났다 \"밥 먹을 때 외로워\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261005_0003814641",
-          "publishedAt": "2026-10-05T20:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "주병진 \"이경규, 내가 힘들 때 36년간 문자 한 통 안해…섭섭했다\" 폭로 (남겨서 뭐하게)[종합]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/GTdRwiFY1R",
-          "publishedAt": "2026-10-05T20:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘68세’ 주병진 “연애는 하고 싶지만 결혼은 두려워”",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11621211",
-          "publishedAt": "2026-10-05T20:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "주병진, 200평 대저택 떠났다 \"밥 먹을 때 외로워\"",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261005_0003814641",
-        "publishedAt": "2026-10-05T20:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-05T20:00:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "주병진",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20261005_0003814641",
-      "rank": 8
-    },
-    {
-      "id": "af80200f614038ce",
-      "issueKey": "세월호",
-      "issueTitle": "세월호",
-      "trendTitle": "세월호",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[단독] 법무부, ‘세월호·MB 뇌물’ 등 디지털증거 폐기 논의…내란 사건도 대상",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/society/society_general/1281018.html",
-          "publishedAt": "2026-10-05T19:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "법무부, '세월호·MB 뇌물' 장기보관 디지털증거도 폐기 심의",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/court-prosecution/6310703",
-          "publishedAt": "2026-10-05T19:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"증거수집 절차에 문제\" 이의신청 급증",
+          "title": "'엄마가 미쳤어요' 김희정·강경헌, 아들 문제로 속앓이..극과 극 모자 이야기",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/10/05/K7YNK54WDBGGDM4HSUB4DNVWNM/",
-          "publishedAt": "2026-10-05T19:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독] 법무부, ‘세월호·MB 뇌물’ 등 디지털증거 폐기 논의…내란 사건도 대상",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/society/society_general/1281018.html",
-        "publishedAt": "2026-10-05T19:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-05T19:50:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "세월호",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/society/society_general/1281018.html",
-      "rank": 9
-    },
-    {
-      "id": "c638ef0ff4a2003f",
-      "issueKey": "원전",
-      "issueTitle": "원전",
-      "trendTitle": "원전",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "달에 원전건설 경쟁…미·중·러, 앞다퉈 뛰어든 이유는",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/2FyxWs4qOJ",
-          "publishedAt": "2026-10-05T19:50:00.000Z",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/05/GJRWCNBTMNSDEMTGHE4DENJZG4/",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "美NASA, 중러 추격에 '달표면 원자로' 개발 2030년까지 마치기로",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261005_0003814310",
-          "publishedAt": "2026-10-05T19:50:00.000Z",
+          "title": "‘엄마가 미쳤어요’, 또 자체최고시청률 경신…시청률 두 자릿수 돌파 10.7%",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112888128",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[씨줄날줄] 달 원전, 우주 데이터센터",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/editOpinion/weft-column/2026/10/06/20261006027005",
-          "publishedAt": "2026-10-05T19:50:00.000Z",
+          "title": "김희정, 믿었던 둘째 아들 투자 실패…압류 딱지 발견에 충격 ('엄마가 미쳤어요')",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005083214713",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "달에 원전건설 경쟁…미·중·러, 앞다퉈 뛰어든 이유는",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/2FyxWs4qOJ",
-        "publishedAt": "2026-10-05T19:50:00.000Z",
+        "title": "'엄마가 미쳤어요' 김희정·강경헌, 아들 문제로 속앓이..극과 극 모자 이야기",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/10/05/GJRWCNBTMNSDEMTGHE4DENJZG4/",
+        "publishedAt": "2026-10-06T00:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-05T19:50:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "원전",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/2FyxWs4qOJ",
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "김희정",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/10/05/GJRWCNBTMNSDEMTGHE4DENJZG4/",
       "rank": 10
     }
   ],
@@ -529,52 +529,6 @@
       "title": "돌풍",
       "source": "연합뉴스TV",
       "url": "https://www.yonhapnewstv.co.kr/news/MYH20261004194704Sna"
-    },
-    {
-      "id": "fe655cf1d979cf3d",
-      "issueKey": "날씨",
-      "issueTitle": "날씨",
-      "trendTitle": "날씨",
-      "approxTraffic": "50000+",
-      "trafficScore": 50000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003214013432",
-          "publishedAt": "2026-10-03T22:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서울 아침 기온 올가을 최저...연휴 내내 '쌀쌀'",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202610031825009128",
-          "publishedAt": "2026-10-03T22:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[날씨] 일요일 전국 구름 많고 밤부터 흐려져…큰 일교차 유의",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261003041900004",
-          "publishedAt": "2026-10-03T22:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[뉴스9 날씨] 선선한 가을 날씨…곳곳 가을비",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261003214013432",
-        "publishedAt": "2026-10-03T22:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-03T22:10:00.000Z",
-      "firstSeenAt": "2026-10-03T23:32:28.088Z",
-      "lastSeenAt": "2026-10-03T23:32:28.088Z",
-      "title": "날씨",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20261003214013432"
     },
     {
       "id": "aa22477aad1e5741",
@@ -715,45 +669,6 @@
       "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713024"
     },
     {
-      "id": "e79501cb03d4d200",
-      "issueKey": "예측",
-      "issueTitle": "예측",
-      "trendTitle": "예측",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "아르헨티나 대 부르키나파소 축구 생중계 링크",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/bong-da-quoc-te/link-xem-truc-tiep-bong-da-argentina-vs-burkina-faso-1777025.ldo",
-          "publishedAt": "2026-10-03T23:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "아르헨티나 vs 부르키나파소 예측: 홈 이점",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-argentina-vs-burkina-faso-diem-tua-san-nha",
-          "publishedAt": "2026-10-03T23:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "아르헨티나 vs 부르키나파소 예측: 홈 이점",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-argentina-vs-burkina-faso-diem-tua-san-nha",
-        "publishedAt": "2026-10-03T23:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-10-03T23:20:00.000Z",
-      "firstSeenAt": "2026-10-04T04:39:17.170Z",
-      "lastSeenAt": "2026-10-04T04:39:17.170Z",
-      "title": "예측",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-argentina-vs-burkina-faso-diem-tua-san-nha"
-    },
-    {
       "id": "4a0be53a7ae02b10",
       "issueKey": "정년",
       "issueTitle": "정년",
@@ -805,6 +720,98 @@
       "title": "정년",
       "source": "세계일보",
       "url": "https://www.segye.com/newsView/20261004506958"
+    },
+    {
+      "id": "52e1d7525c272319",
+      "issueKey": "강신철",
+      "issueTitle": "강신철",
+      "trendTitle": "강신철",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"최소 4발 이상 의도적 매설\"…일대 폭파해 '북 지뢰' 제거",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006074656045",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“北지뢰 제거, DMZ 역사상 처음”…강신철, “모든 책임은 북한에”",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=55904",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "통일부 “선대선 소통 통한 평화 해법 마련에 노력”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678450",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“北지뢰 제거, DMZ 역사상 처음”…강신철, “모든 책임은 북한에”",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=55904",
+        "publishedAt": "2026-10-06T02:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-06T02:30:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "강신철",
+      "source": "주간조선",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=55904"
+    },
+    {
+      "id": "40dcecc1144cd79d",
+      "issueKey": "성현주",
+      "issueTitle": "성현주",
+      "trendTitle": "성현주",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "성현주, 먼저 떠난 8살 아들…\"1000일 동안 의식 없었다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261005_0003814645",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "故박지선 떠난 후 또..\"KBS 22기. 코로나때 장례식, 발인 곁 지켰다\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/06/MZRTCNDBMRSWEMJZGFQWEYLFG4/",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "성현주, 먼저 떠나보낸 8살 아들에 눈물…\"동기들 덕분에 버텼다\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/05/2026100520480092991",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "성현주, 먼저 떠난 8살 아들…\"1000일 동안 의식 없었다\"",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261005_0003814645",
+        "publishedAt": "2026-10-06T00:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T00:20:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "성현주",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261005_0003814645"
     },
     {
       "id": "14e4d66614b4a8cd",
@@ -991,52 +998,6 @@
       "url": "https://www.hankyung.com/article/2026100426991"
     },
     {
-      "id": "91e88e6f412fe193",
-      "issueKey": "자전거",
-      "issueTitle": "자전거",
-      "trendTitle": "자전거",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "자전거 동호회 라이딩 도중 버스 충돌‥자전거 운전자 숨져",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6855596_36918.html",
-          "publishedAt": "2026-10-03T23:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "제주 1100도로서 자전거 타던 50대, 버스와 부딪쳐 심정지",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261003039900056",
-          "publishedAt": "2026-10-03T23:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "제주 1100도로에서 관광버스-자전거 사고…50대 심정지",
-          "source": "제주의소리",
-          "url": "https://www.jejusori.net/news/articleView.html?idxno=507087",
-          "publishedAt": "2026-10-03T23:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "자전거 동호회 라이딩 도중 버스 충돌‥자전거 운전자 숨져",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6855596_36918.html",
-        "publishedAt": "2026-10-03T23:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-03T23:10:00.000Z",
-      "firstSeenAt": "2026-10-04T04:39:17.170Z",
-      "lastSeenAt": "2026-10-04T04:39:17.170Z",
-      "title": "자전거",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6855596_36918.html"
-    },
-    {
       "id": "974af00fa3f9a938",
       "issueKey": "과즙세연",
       "issueTitle": "과즙세연",
@@ -1155,6 +1116,144 @@
       "title": "김희애",
       "source": "스포츠경향",
       "url": "https://sports.khan.co.kr/article/202610041224003"
+    },
+    {
+      "id": "fbafccc5945bd9fd",
+      "issueKey": "홍역",
+      "issueTitle": "홍역",
+      "trendTitle": "홍역",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261006093605841",
+          "publishedAt": "2026-10-06T03:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "30년 만에 최악의 유행…美 3900명 확진에 비상사태 선포",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026100641597",
+          "publishedAt": "2026-10-06T03:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "미국 홍역 확산 지속…뉴욕주, 지난해 유행 후 첫 비상사태",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8678206",
+          "publishedAt": "2026-10-06T03:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'백신 거부'가 불러온 보건 재앙…美 뉴욕주, 홍역 비상사태",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/20261006093605841",
+        "publishedAt": "2026-10-06T03:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T03:00:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "홍역",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/20261006093605841"
+    },
+    {
+      "id": "be228e24f79a5c42",
+      "issueKey": "한다",
+      "issueTitle": "한다",
+      "trendTitle": "한다",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘미생’ 장그래는 버텼는데 ‘로또 1등’ 공은태는 할 말 다 한다···12년 새 달라진 직장 드라마",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610060600111",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "출근과 퇴사 사이, K-직장인 콘텐츠 열풍[김희경의 컬처 인사이트]",
+          "source": "한경매거진&북",
+          "url": "https://magazine.hankyung.com/business/article/202610016645b",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이준혁 '로또 1등도 출근합니다', '연애박사'와 큰 격차로 월화극 1위",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/10/06/2026100608547270887",
+          "publishedAt": "2026-10-06T02:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘미생’ 장그래는 버텼는데 ‘로또 1등’ 공은태는 할 말 다 한다···12년 새 달라진 직장 드라마",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610060600111",
+        "publishedAt": "2026-10-06T02:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T02:30:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "한다",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202610060600111"
+    },
+    {
+      "id": "99bcc6f2983f2e3f",
+      "issueKey": "김종민",
+      "issueTitle": "김종민",
+      "trendTitle": "김종민",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "코요태 김종민, 아빠 된다…\"아내 임신 17주차\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261006033500005",
+          "publishedAt": "2026-10-06T02:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“평생소원이 애 아빠” 47살 김종민, 결혼 1년 만에 2세 소식",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/culture/music/1281043.html",
+          "publishedAt": "2026-10-06T02:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김종민, 아빠 소식 신지·빽가에게 제일 먼저…'임신' 김종민 아내에게 기립박수 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/06/MFRDEZTEHEYDSYLEHBRDQYTCG4/",
+          "publishedAt": "2026-10-06T02:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "코요태 김종민, 아빠 된다…\"아내 임신 17주차\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261006033500005",
+        "publishedAt": "2026-10-06T02:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T02:20:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "김종민",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261006033500005"
     },
     {
       "id": "73b47d6729b4db77",
@@ -1709,190 +1808,6 @@
       "url": "https://v.daum.net/v/qB34NBOcX4"
     },
     {
-      "id": "5db00a17d9adf9ef",
-      "issueKey": "argentina vs burkina faso",
-      "issueTitle": "argentina vs burkina faso",
-      "trendTitle": "argentina vs burkina faso",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Argentina vs Burkina Faso: Friendlies stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cxnvl4g8jnq0t",
-          "publishedAt": "2026-10-03T23:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Why isn't Lionel Messi playing for Argentina against Burkina Faso?",
-          "source": "USA Today",
-          "url": "https://www.usatoday.com/story/sports/soccer/2026/10/03/lionel-messi-argentina-burkina-faso-farewell-match-international-retirement/92055665007/",
-          "publishedAt": "2026-10-03T23:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Argentina vs. Burkina Faso Lineups & Confirmed Team News- Is Lionel Messi Playing Tonight?",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/argentina-vs-burkina-faso-lineups-200000999.html",
-          "publishedAt": "2026-10-03T23:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Argentina vs Burkina Faso: Friendlies stats & head-to-head",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cxnvl4g8jnq0t",
-        "publishedAt": "2026-10-03T23:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-03T23:50:00.000Z",
-      "firstSeenAt": "2026-10-04T04:39:17.170Z",
-      "lastSeenAt": "2026-10-04T04:39:17.170Z",
-      "title": "argentina vs burkina faso",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cxnvl4g8jnq0t"
-    },
-    {
-      "id": "de9bb00b52a11872",
-      "issueKey": "퇴직",
-      "issueTitle": "퇴직",
-      "trendTitle": "퇴직",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "퇴직연금도 ‘투자’ 시대…20대부터 50대까지 한투증권 찾은 까닭 [헤럴드머니페스타2026]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003194316978",
-          "publishedAt": "2026-10-03T23:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[A 현장] 한국투자증권 연금 팝업 방문객들 \"연금은 한투\" 한목소리",
-          "source": "아시아에이",
-          "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=264511",
-          "publishedAt": "2026-10-03T23:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "오비맥주, 5년차 이상 희망퇴직…최대 30개월치 위로금",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=05408726645608984&amp;mediaCodeNo=257",
-          "publishedAt": "2026-10-03T23:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "퇴직연금도 ‘투자’ 시대…20대부터 50대까지 한투증권 찾은 까닭 [헤럴드머니페스타2026]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261003194316978",
-        "publishedAt": "2026-10-03T23:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-03T23:00:00.000Z",
-      "firstSeenAt": "2026-10-04T04:39:17.170Z",
-      "lastSeenAt": "2026-10-04T04:39:17.170Z",
-      "title": "퇴직",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20261003194316978"
-    },
-    {
-      "id": "603c8c0ecac91ce5",
-      "issueKey": "테슬라",
-      "issueTitle": "테슬라",
-      "trendTitle": "테슬라",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "테슬라 3분기 판매 깜짝 성적표에 주가 급등…AI 사업 기대까지 겹쳤다.",
-          "source": "제민일보",
-          "url": "https://www.jemin.com/news/articleView.html?idxno=843784",
-          "publishedAt": "2026-10-03T22:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "테슬라 3분기 차량 판매 2% 감소…'FSD 승인' 유럽에 기대",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261003094201862",
-          "publishedAt": "2026-10-03T22:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "테슬라, 3분기 판매량 '선방'…5%대 상승",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01190646645609312",
-          "publishedAt": "2026-10-03T22:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "테슬라 3분기 판매 깜짝 성적표에 주가 급등…AI 사업 기대까지 겹쳤다.",
-        "source": "제민일보",
-        "url": "https://www.jemin.com/news/articleView.html?idxno=843784",
-        "publishedAt": "2026-10-03T22:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-03T22:50:00.000Z",
-      "firstSeenAt": "2026-10-04T04:39:17.170Z",
-      "lastSeenAt": "2026-10-04T04:39:17.170Z",
-      "title": "테슬라",
-      "source": "제민일보",
-      "url": "https://www.jemin.com/news/articleView.html?idxno=843784"
-    },
-    {
-      "id": "e1eb40b67294536d",
-      "issueKey": "이동국",
-      "issueTitle": "이동국",
-      "trendTitle": "이동국",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이동국 셋째 설아, 美 중학교 입학..언니 재시 이어 유학길 \"가족 다 흩어져\"",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/V3DxRWMVhA",
-          "publishedAt": "2026-10-03T21:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이동국 셋째딸 설아, 장녀 뉴욕행 포기하자 美 유학 결정..\"덜컥 입학\"[핫피플]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/03/GRRWGNJWHEYGIZJWMRRGMOJWMU/",
-          "publishedAt": "2026-10-03T21:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "스타 가족 슬라이드",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/photoSlide/view?section=ent&amp;clstId=1193922",
-          "publishedAt": "2026-10-03T21:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이동국 셋째 설아, 美 중학교 입학..언니 재시 이어 유학길 \"가족 다 흩어져\"",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/V3DxRWMVhA",
-        "publishedAt": "2026-10-03T21:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-03T21:10:00.000Z",
-      "firstSeenAt": "2026-10-03T23:32:28.088Z",
-      "lastSeenAt": "2026-10-03T23:32:28.088Z",
-      "title": "이동국",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/V3DxRWMVhA"
-    },
-    {
       "id": "22ff512ee1f03b84",
       "issueKey": "허미미",
       "issueTitle": "허미미",
@@ -1944,6 +1859,52 @@
       "title": "허미미",
       "source": "KBS 뉴스",
       "url": "https://news.kbs.co.kr/news/view.do?ncd=8677430"
+    },
+    {
+      "id": "c4cf0207887d21da",
+      "issueKey": "우리은행",
+      "issueTitle": "우리은행",
+      "trendTitle": "우리은행",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "LG유플러스, 우리은행과 손잡고 통화 기반 금융사기 막는다",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/RPR20261006000900353",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "우리은행, LG유플러스와 보이스피싱 탐지 체계 고도화",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261006000147",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[기고] 보이스피싱 피해 반토막, 민관협력 빛난다",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/20261005182630627",
+          "publishedAt": "2026-10-06T00:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "LG유플러스, 우리은행과 손잡고 통화 기반 금융사기 막는다",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/RPR20261006000900353",
+        "publishedAt": "2026-10-06T00:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T00:20:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "우리은행",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/RPR20261006000900353"
     },
     {
       "id": "1582cdc13bad8669",
@@ -2130,6 +2091,98 @@
       "url": "https://www.yonhapnewstv.co.kr/news/AKR20261005170009oMQ"
     },
     {
+      "id": "4a3ff62241cf4fc9",
+      "issueKey": "퇴직금",
+      "issueTitle": "퇴직금",
+      "trendTitle": "퇴직금",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "불장에 퇴직연금 DB→DC 전환했는데… 증시 조정에 수익률 ‘뚝’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/stock/stock_general/2026/10/05/G4NLF2LP7RBMFHLBKVYAADWDD4/",
+          "publishedAt": "2026-10-06T03:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“상승장 놓칠라” 퇴직연금 DC 갈아탔는데…하락장에 ‘10%대 손실’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261005580013",
+          "publishedAt": "2026-10-06T03:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "증시 고점서 DB→DC 전환 15만명…투자 나선 일부는 두 달 만에 -10%",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261005500215",
+          "publishedAt": "2026-10-06T03:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "퇴직금",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/stock/stock_general/2026/10/05/G4NLF2LP7RBMFHLBKVYAADWDD4/",
+        "publishedAt": "2026-10-06T03:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T03:50:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "퇴직금",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/stock/stock_general/2026/10/05/G4NLF2LP7RBMFHLBKVYAADWDD4/"
+    },
+    {
+      "id": "e6667ca01e931156",
+      "issueKey": "하나은행",
+      "issueTitle": "하나은행",
+      "trendTitle": "하나은행",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "흩어진 거래 정보 한 곳에 모았다…데이타솔루션, 하나은행 IB시스템 고도화 완료",
+          "source": "디지털데일리",
+          "url": "https://www.ddaily.co.kr/page/view/2026100611155617387",
+          "publishedAt": "2026-10-06T00:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "데이타솔루션, 하나은행 IB시스템 고도화 완료",
+          "source": "데이터넷",
+          "url": "https://www.datanet.co.kr/news/articleView.html?idxno=214899",
+          "publishedAt": "2026-10-06T00:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "서울 달빛야장 소상공인에 687억 특별보증",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261005/134789320/2",
+          "publishedAt": "2026-10-06T00:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "흩어진 거래 정보 한 곳에 모았다…데이타솔루션, 하나은행 IB시스템 고도화 완료",
+        "source": "디지털데일리",
+        "url": "https://www.ddaily.co.kr/page/view/2026100611155617387",
+        "publishedAt": "2026-10-06T00:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-06T00:10:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "하나은행",
+      "source": "디지털데일리",
+      "url": "https://www.ddaily.co.kr/page/view/2026100611155617387"
+    },
+    {
       "id": "af80200f614038ce",
       "issueKey": "세월호",
       "issueTitle": "세월호",
@@ -2222,142 +2275,96 @@
       "url": "https://v.daum.net/v/2FyxWs4qOJ"
     },
     {
-      "id": "06502c21b760ca0d",
-      "issueKey": "박유천",
-      "issueTitle": "박유천",
-      "trendTitle": "박유천",
+      "id": "1f1a4d92af8fbe2e",
+      "issueKey": "nba",
+      "issueTitle": "nba",
+      "trendTitle": "nba",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "박유천, 일본과 잘 맞나봐..급속노화 딛고 '회춘' 미모 화제 [핫피플]",
-          "source": "Daum",
-          "url": "https://v.daum.net/v/20261005180457254",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "title": "NBA experiments with new technologies in preseason",
+          "source": "NBA.com",
+          "url": "https://www.nba.com/news/nba-experiments-with-smart-basketballs-wrist-wearables",
+          "publishedAt": "2026-10-06T03:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "박유천, 일본서 기관사로 포착?..열차 유니폼 입고 ‘깜짝 근황’ - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/05/GQZDMYLGMY3WGN3BGFSDAMBTGM/",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "title": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games",
+          "source": "WBAL News Radio",
+          "url": "https://www.wbal.com/nba-is-experimenting-with-smart-basketballs-and-official-wrist-wearables-in-select-preseason-games",
+          "publishedAt": "2026-10-06T03:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'마약·세금체납 파문' 박유천, 日서 전성기 미모 되찾았다…\"우리가 알던 모습\"",
-          "source": "SPOTV NEWS",
-          "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1011436",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "title": "NBA is experimenting with smart basketballs and official wrist wearables in select preseason games",
+          "source": "Enidnews.com",
+          "url": "https://www.enidnews.com/region/nba-is-experimenting-with-smart-basketballs-and-official-wrist-wearables-in-select-preseason-games/article_4dc2b7c5-1acb-540a-94b5-34f885d396c3.html",
+          "publishedAt": "2026-10-06T03:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "박유천, 일본과 잘 맞나봐..급속노화 딛고 '회춘' 미모 화제 [핫피플]",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261005180457254",
-        "publishedAt": "2026-10-05T20:30:00.000Z",
+        "title": "NBA experiments with new technologies in preseason",
+        "source": "NBA.com",
+        "url": "https://www.nba.com/news/nba-experiments-with-smart-basketballs-wrist-wearables",
+        "publishedAt": "2026-10-06T03:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-05T20:30:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "박유천",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20261005180457254"
+      "publishedAt": "2026-10-06T03:10:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "nba",
+      "source": "NBA.com",
+      "url": "https://www.nba.com/news/nba-experiments-with-smart-basketballs-wrist-wearables"
     },
     {
-      "id": "23b1e5e326df4928",
-      "issueKey": "조선 호황",
-      "issueTitle": "조선 호황",
-      "trendTitle": "조선 호황",
+      "id": "63049ae2757a9fe3",
+      "issueKey": "김희정",
+      "issueTitle": "김희정",
+      "trendTitle": "김희정",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "4000만원도 퇴짜...조선 호황이 키운 '성과배분 딜레마'",
+          "title": "'엄마가 미쳤어요' 김희정·강경헌, 아들 문제로 속앓이..극과 극 모자 이야기",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/05/GJRWCNBTMNSDEMTGHE4DENJZG4/",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘엄마가 미쳤어요’, 또 자체최고시청률 경신…시청률 두 자릿수 돌파 10.7%",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112888128",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "김희정, 믿었던 둘째 아들 투자 실패…압류 딱지 발견에 충격 ('엄마가 미쳤어요')",
           "source": "Daum",
-          "url": "https://v.daum.net/v/20261005180048109",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "HD현대중공업 임단협 잠정합의안 부결",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8677475",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "환율에 노사 리스크까지…HD현대重·한화오션 3분기 실적 '이중고'",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/industry/general-industry/6310545",
-          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "url": "https://v.daum.net/v/20261005083214713",
+          "publishedAt": "2026-10-06T00:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "4000만원도 퇴짜...조선 호황이 키운 '성과배분 딜레마'",
-        "source": "Daum",
-        "url": "https://v.daum.net/v/20261005180048109",
-        "publishedAt": "2026-10-05T20:30:00.000Z",
+        "title": "'엄마가 미쳤어요' 김희정·강경헌, 아들 문제로 속앓이..극과 극 모자 이야기",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/10/05/GJRWCNBTMNSDEMTGHE4DENJZG4/",
+        "publishedAt": "2026-10-06T00:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-05T20:30:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "조선 호황",
-      "source": "Daum",
-      "url": "https://v.daum.net/v/20261005180048109"
-    },
-    {
-      "id": "3d9ddaac6945bee6",
-      "issueKey": "삼전닉스",
-      "issueTitle": "삼전닉스",
-      "trendTitle": "삼전닉스",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"삼전닉스만 믿고 있었는데\"…실적 전망에 개미들 '술렁'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026100537801",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"주가 4개월새 반토막 났다\"…개미 울상인데 '뜻밖의 전망' [종목+]",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20260930n20880?issue_sq=11391",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "조선 3사, 3분기 누적 수주 400억달러 눈앞…장기 호황에 마스가 호재까지 ‘장밋빛’",
-          "source": "대한경제",
-          "url": "https://m.dnews.co.kr/m_home/view.jsp?idxno=202610011423071160178",
-          "publishedAt": "2026-10-05T20:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"삼전닉스만 믿고 있었는데\"…실적 전망에 개미들 '술렁'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026100537801",
-        "publishedAt": "2026-10-05T20:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-05T20:20:00.000Z",
-      "firstSeenAt": "2026-10-05T21:50:23.742Z",
-      "lastSeenAt": "2026-10-05T21:50:23.742Z",
-      "title": "삼전닉스",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026100537801"
+      "publishedAt": "2026-10-06T00:00:00.000Z",
+      "firstSeenAt": "2026-10-06T05:12:00.328Z",
+      "lastSeenAt": "2026-10-06T05:12:00.328Z",
+      "title": "김희정",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/10/05/GJRWCNBTMNSDEMTGHE4DENJZG4/"
     }
   ]
 }

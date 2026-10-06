@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-10-05T21:50:23.742Z",
+  "lastUpdatedAt": "2026-10-06T05:12:00.328Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,7 +28,7 @@
         {
           "title": "10월에 출시되는 PC·모바일 게임 목록",
           "url": "https://bbs.ruliweb.com/news/read/230061",
-          "meta": "댓글 11"
+          "meta": "댓글 12"
         },
         {
           "title": "크래프톤, ‘PUBG: 블랙 버짓’ 개발 종료 결정",
@@ -41,14 +41,14 @@
           "meta": "댓글 34"
         },
         {
-          "title": "자신의 시체를 이용한 3D 퍼즐 액션, 리:리:리:리스폰",
-          "url": "https://bbs.ruliweb.com/news/read/229955",
-          "meta": "댓글 23"
-        },
-        {
           "title": "스마일게이트 ‘카오스 제로 나이트메어’, 정식 론칭 1주년 기념 ‘악몽제’ 티징 영상 오늘(2일) 공개",
           "url": "https://bbs.ruliweb.com/news/read/230175",
           "meta": "댓글 7"
+        },
+        {
+          "title": "아이온2, 스팀 론칭 첫날 최고 동시 접속자 수 39만 돌파",
+          "url": "https://bbs.ruliweb.com/news/read/230195",
+          "meta": "댓글 14"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "결승 오른 유영진 \"아이스링크장, 너무 기대된다\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321780",
-          "meta": "스타크래프트 · 1시간 전"
+          "title": "검은사막 모바일, 신규 이벤트·보상 확대",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321811",
+          "meta": "검은사막 모바일 · 4분 전"
         },
         {
-          "title": "집념의 유영진, 8시즌 만에 결승 진출",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321779",
-          "meta": "스타크래프트 · 1시간 전"
+          "title": "창세기전 모바일, 신규 캐릭터 카이 추가",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321810",
+          "meta": "창세기전 모바일: 아수라 프로젝트 · 4분 전"
         },
         {
-          "title": "TP-Link, IFA 2026서 차세대 무선 규격 Wi-Fi 8 지원 공유기 발표",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321775",
-          "meta": "8시간 전"
+          "title": "더로그, 10월 1주 PC방 사용시간 18.8% 감소",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321808",
+          "meta": "4분 전"
         },
         {
-          "title": "냥코대전쟁, 1억 2000만 다운로드 기념 이벤트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321773",
-          "meta": "냥코 대전쟁 · 10시간 전"
+          "title": "발로란트 챔피언스 상하이 7일 플레이오프 돌입",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321807",
+          "meta": "44분 전"
         },
         {
-          "title": "세계 곳곳을 누비는 귀염둥이, 파미족",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321551",
-          "meta": "아주르 프로밀리아 · 11시간 전"
+          "title": "65레벨 다수 진입! 내부 구도 격화되는 칼테온 서버",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321806",
+          "meta": "솔: 인챈트 · 1시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
