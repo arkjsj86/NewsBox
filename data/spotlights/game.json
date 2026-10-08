@@ -3,20 +3,29 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-10-08T10:06:26.422Z",
+  "lastUpdatedAt": "2026-10-08T18:30:18.490Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
-  "itemCount": 1,
+  "itemCount": 2,
   "offers": [
     {
-      "id": "af4c34934afe4db0870b8a1d82dceb94",
-      "title": "베리드 스타즈 (BURIED STARS)",
-      "seller": "LINE Games Corporation",
-      "url": "https://store.epicgames.com/ko/p/buried-stars-d7c88c",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-yijfe.png",
-      "originalPriceLabel": "₩41,000",
-      "freeUntil": "2026-10-08T15:00:00.000Z"
+      "id": "cb733f3432db46bca94965b422c33ede",
+      "title": "Out of Sight",
+      "seller": "The Gang Studio AB",
+      "url": "https://store.epicgames.com/ko/p/out-of-sight-b96ca8",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-tfgmv.jpg",
+      "originalPriceLabel": "₩16,100",
+      "freeUntil": "2026-10-15T15:00:00.000Z"
+    },
+    {
+      "id": "af6b823b8698465f9aedc3bddf2e8686",
+      "title": "TerraScape",
+      "seller": "Bitfall Studios GmbH",
+      "url": "https://store.epicgames.com/ko/p/terrascape-2b12b1",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-x908b.png",
+      "originalPriceLabel": "₩17,400",
+      "freeUntil": "2026-10-15T15:00:00.000Z"
     }
   ],
   "issues": {
@@ -26,11 +35,6 @@
       "sourceUrl": "https://bbs.ruliweb.com/best",
       "items": [
         {
-          "title": "크래프톤, ‘PUBG: 블랙 버짓’ 개발 종료 결정",
-          "url": "https://bbs.ruliweb.com/news/read/230119",
-          "meta": "댓글 63"
-        },
-        {
           "title": "대한민국 2연속 금메달, '리그 오브 레전드' 아시안게임 결승",
           "url": "https://bbs.ruliweb.com/news/read/230178",
           "meta": "댓글 35"
@@ -38,7 +42,7 @@
         {
           "title": "아이온2, 스팀 론칭 첫날 최고 동시 접속자 수 39만 돌파",
           "url": "https://bbs.ruliweb.com/news/read/230195",
-          "meta": "댓글 27"
+          "meta": "댓글 30"
         },
         {
           "title": "스마일게이트 ‘카오스 제로 나이트메어’, 정식 론칭 1주년 기념 ‘악몽제’ 티징 영상 오늘(2일) 공개",
@@ -49,6 +53,11 @@
           "title": "메이드 카페 시뮬레이터, 10월 8일(목) 스팀 론칭",
           "url": "https://bbs.ruliweb.com/news/read/230183",
           "meta": "댓글 6"
+        },
+        {
+          "title": "AMD 리사 수 대표, ‘게임’은 한계를 뛰어넘는 원동력",
+          "url": "https://bbs.ruliweb.com/news/read/230297",
+          "meta": "댓글 7"
         }
       ]
     },
@@ -58,29 +67,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "웹젠 R2, 메모리아 캐릭터명 선점 이벤트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321873",
-          "meta": "R2 · 7분 전"
+          "title": "KT, '비디디-퍼펙트'와 2028년까지 동행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321919",
+          "meta": "리그 오브 레전드 · 5시간 전"
         },
         {
-          "title": "씰M2, 10월 22일 출시 앞두고 프리뷰 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321872",
-          "meta": "씰M2 · 7분 전"
+          "title": "펄어비스, '붉은사막' 첫 DLC 쇼츠 공개…개복치 타고 잠수한다",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321915",
+          "meta": "붉은사막 인핸스드: 미지의 여정 · 9시간 전"
         },
         {
-          "title": "대항해의길, 9주년 업데이트 사전예약 시작",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321871",
-          "meta": "대항해의길 · 7분 전"
+          "title": "포켓몬 30주년 기념 오케스트라, 세부 일정과 예매 정보 공개",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321913",
+          "meta": "10시간 전"
         },
         {
-          "title": "브롤스타즈, 3주간 주간 브롤돌 프로젝트 시작",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321870",
-          "meta": "브롤 스타즈 · 8분 전"
+          "title": "승리의 여신: 니케, 메이드 신데렐라 스킨 배포와 할로윈 이벤트!",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321911",
+          "meta": "승리의 여신: 니케 · 10시간 전"
         },
         {
-          "title": "마루는 강쥐 카페 게임, 오~ 허니 마루 업데이트",
-          "url": "https://www.inven.co.kr/webzine/news/?news=321869",
-          "meta": "마루는 강쥐: 나 카페 사장됐다? 짱이지! · 46분 전"
+          "title": "퍼즐 어드벤처로 그려낸 육아, '베이비 모니터 대탈출' 11월 24일 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=321907",
+          "meta": "베이비 모니터 대탈출 · 10시간 전"
         }
       ]
     }
@@ -90,13 +99,19 @@
       "key": "epic-free-games",
       "source": "Epic Games Store",
       "ok": true,
-      "itemCount": 1
+      "itemCount": 2
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
