@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-09T01:00:11.818Z",
+  "lastUpdatedAt": "2026-10-09T10:08:33.867Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -39,8 +39,8 @@
     {
       "key": "release",
       "source": "Unity Releases",
-      "ok": true,
-      "version": "6000.3.25f1"
+      "ok": false,
+      "error": "HTTP 404"
     },
     {
       "key": "youtube",
