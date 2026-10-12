@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-10-12T00:14:44.452Z",
+  "lastUpdatedAt": "2026-10-12T10:19:34.964Z",
   "articleCount": 14,
   "articles": [
+    {
+      "id": "8e0a792f5a9372ac",
+      "title": "모델 선택권 앞세운 승부수…구글, 기업용 AI 에이전트 생태계 ‘관문’ 선점 시동",
+      "url": "https://www.itworld.co.kr/article/4233525/%eb%aa%a8%eb%8d%b8-%ec%84%a0%ed%83%9d%ea%b6%8c-%ec%95%9e%ec%84%b8%ec%9a%b4-%ec%8a%b9%eb%b6%80%ec%88%98-%ea%b5%ac%ea%b8%80-%ea%b8%b0%ec%97%85%ec%9a%a9-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-10-12T00:19:46.000Z",
+      "summary": "구글이 또 하나의 화려한 신규 에이전트 출시에 그치지 않고, AI 인프라 계층 전체를 장악하려는 전략적 행보를 보이고 있다. 구글은 지난주 열린 제미나이 앳 워크 2026 행사에서 간단한 프롬프트 입력만으로 실행할 수 있는 ‘단일 범용 에이전트’와 제미나이 API를 공개했다. 다른 에이전트와 마찬가지로 역량, 도구, 기업 시스템과 연동되며, 질문에 답하고 미디어를 생성하며 코드를 작성·...",
+      "tab": "ai"
+    },
     {
       "id": "c4ec0274600db3f7",
       "title": "마이크로소프트, 코파일럿에 윈도우 PC 로컬 파일 조작 권한 부여…하이브리드 AI 전략 본격화",
@@ -122,15 +131,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-09-30T01:17:47.000Z",
       "summary": "AI가 개발자의 생산성을 높일 수 있는지를 계속 묻고 있지만, 그 질문 자체가 잘못됐다. 정작 물어야 할 것은 생산성이 실제로 높아졌을 때 어떤 일이 벌어지는가다. 생산성 향상은 물론 긍정적인 결과를 낳을 수 있지만, 부정적인 결과로 이어질 수도 있다. 사이먼 윌리슨은 최근 소셜 네트워크의 한 게시글 에서 이 점을 명확히 짚었다. 윌리슨은 “코딩 에이전트와 함께 작업하는 시간이 늘수록,...",
-      "tab": "ai"
-    },
-    {
-      "id": "8d2c6cb0e40d5f57",
-      "title": "AI 에이전트가 네트워크를 스스로 우회한다면, 기업 보안은 안전한가",
-      "url": "https://www.itworld.co.kr/article/4227887/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ea%b0%80-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac%eb%a5%bc-%ec%8a%a4%ec%8a%a4%eb%a1%9c-%ec%9a%b0%ed%9a%8c%ed%95%9c%eb%8b%a4%eb%a9%b4-%ea%b8%b0%ec%97%85-%eb%b3%b4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-09-29T00:55:15.000Z",
-      "summary": "오픈AI가 내부 연구 모델의 강화학습 훈련 중 AI 에이전트가 네트워크 제한을 우회해 외부 챗봇과 통신한 사실을 확인하고, 최고 성능 AI 모델의 도구 사용 관련 훈련·평가·추론 작업을 전면 중단했다. 오픈AI는 사건을 다룬 새 오정렬 보고서(Misalignment Report)에서 “모델이 실제 인터넷에 접근할 수 없다고 가정했으며, 모니터링 시스템이 성공한 시도를 탐지할 것으로 판단...",
       "tab": "ai"
     }
   ]
