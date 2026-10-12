@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-10-12T10:19:34.964Z",
+  "lastUpdatedAt": "2026-10-12T20:58:30.620Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "3d6e4adece09120f",
-      "issueKey": "캠시스",
-      "issueTitle": "캠시스",
-      "trendTitle": "자기주식",
+      "id": "bbc8a07cd00e28f4",
+      "issueKey": "배민",
+      "issueTitle": "배민",
+      "trendTitle": "배달",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'한집배달' 논란부터 해외 배당 의혹까지…배민·쿠팡이츠 국감 도마(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261012_0003822860",
+          "publishedAt": "2026-10-12T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "정무위 국감, 배달앱 수수료부터 행사·배차 문제까지 집중 질의",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261012142316",
+          "publishedAt": "2026-10-12T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "주병기 공정위원장 \"배달앱 풍선효과 차단, 하위법령 엄정히 마련\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438678",
+          "publishedAt": "2026-10-12T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'한집배달' 논란부터 해외 배당 의혹까지…배민·쿠팡이츠 국감 도마(종합)",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261012_0003822860",
+        "publishedAt": "2026-10-12T19:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-12T19:50:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "배민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261012_0003822860",
+      "rank": 1
+    },
+    {
+      "id": "88841a41297d4ac8",
+      "issueKey": "트럼프",
+      "issueTitle": "트럼프",
+      "trendTitle": "트럼프",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "트럼프, '러 경유딜' 비판에 \"EU는 러에 에너지값 334조원 지불\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6857415_36925.html",
+          "publishedAt": "2026-10-12T19:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "불붙은 세계 ‘경유 전쟁’… 美 제재 풀고 中은 통제",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261013/134829588/2",
+          "publishedAt": "2026-10-12T19:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "머스크도 \"우크라 새 지도자 필요\"…러 특사 \"의견 일치\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261011039900108",
+          "publishedAt": "2026-10-12T19:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "트럼프, '러 경유딜' 비판에 \"EU는 러에 에너지값 334조원 지불\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/world/article/6857415_36925.html",
+        "publishedAt": "2026-10-12T19:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-12T19:40:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "트럼프",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/world/article/6857415_36925.html",
+      "rank": 2
+    },
+    {
+      "id": "dd873bf94d1936ee",
+      "issueKey": "뉴캐슬",
+      "issueTitle": "뉴캐슬",
+      "trendTitle": "뉴캐슬",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "캠시스, 자사주 전량 소각 결정…수익성 개선 성과 주주가치로 환원",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/12/2026101217280757033",
-          "publishedAt": "2026-10-12T09:00:00.000Z",
+          "title": "이거 많이 본 패턴인데? 고심 끝에 선임→부진→신뢰→??...맨유 수뇌부, 토트넘전 졸전에도 캐릭 감독 유임한다",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/10/12/HAYTSMLEHA3GKYRZGU4DGNJSG4/",
+          "publishedAt": "2026-10-12T19:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[더벨]캠시스, 자사주 3만606주전량 소각 결정",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/10/12/2026101214359668165",
-          "publishedAt": "2026-10-12T09:00:00.000Z",
+          "title": "伊 주장대로면 사실상 오피셜! \"콘테 감독 맨유 부임 진지하게 고민\"…\"역사 있는 클럽에서 일하고 싶다\"",
+          "source": "스포츠조선",
+          "url": "https://www.sportschosun.com/football/2026-10-12/202610130100079660005208",
+          "publishedAt": "2026-10-12T19:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "캠시스, 15억 규모 자사주 소각 결정",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261012_0003822010",
-          "publishedAt": "2026-10-12T09:00:00.000Z",
+          "title": "'충격 그 자체'...맨체스터 유나이티드 EPL '18위' 대위기 가능했다, \"데 제르비 선임 추진했다\" 깜짝 소식→심지어 본인도 원했다",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026101215583123488",
+          "publishedAt": "2026-10-12T19:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "캠시스, 자사주 전량 소각 결정…수익성 개선 성과 주주가치로 환원",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/stock/2026/10/12/2026101217280757033",
-        "publishedAt": "2026-10-12T09:00:00.000Z",
+        "title": "뉴캐슬",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/sports/world-football/2026/10/12/HAYTSMLEHA3GKYRZGU4DGNJSG4/",
+        "publishedAt": "2026-10-12T19:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-12T09:00:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "캠시스",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/stock/2026/10/12/2026101217280757033",
-      "rank": 1
+      "publishedAt": "2026-10-12T19:10:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "뉴캐슬",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/sports/world-football/2026/10/12/HAYTSMLEHA3GKYRZGU4DGNJSG4/",
+      "rank": 3
     },
     {
-      "id": "4bd5552431cb0ab7",
-      "issueKey": "상어",
-      "issueTitle": "상어",
-      "trendTitle": "상어",
+      "id": "f71005eb71d6aed0",
+      "issueKey": "국산차",
+      "issueTitle": "국산차",
+      "trendTitle": "국산차",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"여유 있다면 카니발 대신 최고\"... 평점 9.63, 프리미엄 패밀리카의 정체",
+          "source": "오토트리뷴",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=46353",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“팰리세이드 계약 취소합니다”… 아빠들 돌아서게 한 국산차, 연비 20km/L 찍혔다",
+          "source": "뉴스와",
+          "url": "https://www.news-wa.com/article/automobiles/2026/10/12/20261012500069",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[시승기] 탑승 순간부터 챙긴다…日 의전차 대표, 도요타 ‘알파드’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/car/2026/10/03/URZTLCL56JBI7GBNHQG5XJO3KU/",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“팰리세이드 계약 취소합니다”… 아빠들 돌아서게 한 국산차, 연비 20km/L 찍혔다",
+        "source": "뉴스와",
+        "url": "https://www.news-wa.com/article/automobiles/2026/10/12/20261012500069",
+        "publishedAt": "2026-10-12T15:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-12T15:40:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "국산차",
+      "source": "뉴스와",
+      "url": "https://www.news-wa.com/article/automobiles/2026/10/12/20261012500069",
+      "rank": 4
+    },
+    {
+      "id": "045b8dcb88ae129c",
+      "issueKey": "티비",
+      "issueTitle": "티비",
+      "trendTitle": "티비",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Trump blew past deadline to halt running taxpayer-funded campaign-style ads",
+          "source": "The Washington Post",
+          "url": "https://www.washingtonpost.com/politics/2026/10/12/judge-blocks-trump-administration-airing-taxpayer-funded-campaign-style-ads/",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Judge orders the Trump administration to cancel taxpayer-funded TV ads",
+          "source": "PBS",
+          "url": "https://www.pbs.org/newshour/politics/judge-orders-the-trump-administration-to-cancel-taxpayer-funded-tv-ads",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Fmr. WH ethics lawyer: \"We've never seen something like this\"",
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/10/12/politics/video/fmr-wh-ethics-lawyer-weve-never-seen-something-like-this-cnc",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "티비",
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/10/12/judge-blocks-trump-administration-airing-taxpayer-funded-campaign-style-ads/",
+        "publishedAt": "2026-10-12T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-12T15:40:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "티비",
+      "source": "The Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/10/12/judge-blocks-trump-administration-airing-taxpayer-funded-campaign-style-ads/",
+      "rank": 5
+    },
+    {
+      "id": "389ea8c37dc8b7bb",
+      "issueKey": "박항서 감독",
+      "issueTitle": "박항서 감독",
+      "trendTitle": "박항서",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박항서 감독의 역량에 대한 의문이 제기되고 있으며, 태국 언론들이 이에 대한 해명을 내놓았다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-park-hang-seo-bi-nghi-ngo-nang-luc-bao-thai-lan-len-tieng-giai-thich",
+          "publishedAt": "2026-10-12T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "박항서 감독이 이끄는 호주 대표팀은 태국에서 우려스러운 경기력 저하를 보였다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/doi-bong-cua-hlv-park-hang-seo-tut-doc-dang-lo-ngai-o-thai-lan",
+          "publishedAt": "2026-10-12T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "박항서 감독이 이끄는 팀은 태국 리그에서 4경기 연속 무승을 기록하고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/doi-bong-cua-hlv-park-hang-seo-4-tran-khong-thang-o-giai-thai-lan",
+          "publishedAt": "2026-10-12T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박항서 감독의 역량에 대한 의문이 제기되고 있으며, 태국 언론들이 이에 대한 해명을 내놓았다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/hlv-park-hang-seo-bi-nghi-ngo-nang-luc-bao-thai-lan-len-tieng-giai-thich",
+        "publishedAt": "2026-10-12T15:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-12T15:10:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "박항서 감독",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/hlv-park-hang-seo-bi-nghi-ngo-nang-luc-bao-thai-lan-len-tieng-giai-thich",
+      "rank": 6
+    },
+    {
+      "id": "0662138a394cc31b",
+      "issueKey": "자체 생산",
+      "issueTitle": "자체 생산",
+      "trendTitle": "자체 생산",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "알테오젠 \"실탄 6300억, 새 기술 도입에 투자\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/2026101268781",
+          "publishedAt": "2026-10-12T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "플랫폼 매출 83% 알테오젠…자체 생산·판매로 성장축 넓힌다",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261012000716",
+          "publishedAt": "2026-10-12T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "K-바이오, 생산시설 경쟁적 확충…글로벌 시장 겨냥 전략 자리매김",
+          "source": "아이뉴스24",
+          "url": "http://www.inews24.com/view/2013957",
+          "publishedAt": "2026-10-12T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "플랫폼 매출 83% 알테오젠…자체 생산·판매로 성장축 넓힌다",
+        "source": "뉴스핌",
+        "url": "https://www.newspim.com/news/view/20261012000716",
+        "publishedAt": "2026-10-12T14:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-12T14:50:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "자체 생산",
+      "source": "뉴스핌",
+      "url": "https://www.newspim.com/news/view/20261012000716",
+      "rank": 7
+    },
+    {
+      "id": "921414e9f68be2e7",
+      "issueKey": "비타민",
+      "issueTitle": "비타민",
+      "trendTitle": "비타민",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"배에 뭐가 있어요\" 출산설 돈 부캉이...\"장을 꺼내 세척한 것\"",
+          "title": "비타민이라더니 위험한 중금속 배출 주사‥이재명 대통령 \"중대 인권침해, 엄중 대처\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857355_37004.html",
+          "publishedAt": "2026-10-12T14:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘비타민 주사’라며 ‘납 배출 주사’ 투약…이 대통령 \"용납 못 해\" 엄중 조치 지시",
           "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12322481",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "국감장에 오른 '부캉이'... 여야 \"구조 매뉴얼 필요\"",
-          "source": "OhmyNews",
-          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274654&amp;PAGE_CD=R0101",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
+          "url": "https://news.jtbc.co.kr/article/NB12322525",
+          "publishedAt": "2026-10-12T14:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[단독] 출몰하는 상어…연구는 없고 통계는 ’제각각’",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012151819usQ",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독] 출몰하는 상어…연구는 없고 통계는 ’제각각’",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012151819usQ",
-        "publishedAt": "2026-10-12T08:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-10-12T08:50:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "상어",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012151819usQ",
-      "rank": 2
-    },
-    {
-      "id": "d29e15eec3d9ecdc",
-      "issueKey": "니콜 키드먼",
-      "issueTitle": "니콜 키드먼",
-      "trendTitle": "니콜 키드먼",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“엄마 빼닮았네”…59세 니콜 키드먼, 15세 딸 공개",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Culture/article/all/20261012/134825882/2",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'이혼' 니콜 키드먼, 15세 붕어빵 딸 공개 '유전자 몰빵' [Oh!llywood]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/12/GZQTSNBRG5TGIOJXMY3GKNDFMQ/",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"누가 엄마고 누가 딸이야?\"…우아함 끝판왕 니콜 키드먼, `인형 비주얼` 딸과 로맨틱 모녀 샷",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026101211471595925",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "“엄마 빼닮았네”…59세 니콜 키드먼, 15세 딸 공개",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Culture/article/all/20261012/134825882/2",
-        "publishedAt": "2026-10-12T08:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-12T08:50:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "니콜 키드먼",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Culture/article/all/20261012/134825882/2",
-      "rank": 3
-    },
-    {
-      "id": "0bf538f6ba0e7895",
-      "issueKey": "축제",
-      "issueTitle": "축제",
-      "trendTitle": "축제",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'꽃멍하러 구리로 On！'…2026 구리 코스모스 축제, 42만 명 방문 속 성료",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261012005000353",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "꽃멍 하러 구리시 찾은 방문객, 42만명 넘었다",
-          "source": "아시아투데이",
-          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261012010003191",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[뉴스광장 영상] 코스모스의 계절",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8682833",
-          "publishedAt": "2026-10-12T08:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'꽃멍하러 구리로 On！'…2026 구리 코스모스 축제, 42만 명 방문 속 성료",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/RPR20261012005000353",
-        "publishedAt": "2026-10-12T08:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-12T08:50:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "축제",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/RPR20261012005000353",
-      "rank": 4
-    },
-    {
-      "id": "d37bb0e2f08ff02c",
-      "issueKey": "도대체 누구냐",
-      "issueTitle": "도대체 누구냐",
-      "trendTitle": "도대체 누구냐",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "KIA·LG 결국 '끝장 승부' 본다...프로야구 마지막 날까지 예측불허 [자막뉴스]",
+          "title": "靑 \"이 대통령 '주사 지시 사건' 엄중 대처 지시\" [현장영상+]",
           "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0134_202610121451195165",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "1차전 선발은 궁금하지도 않다...2차전 도대체 누구냐, 행복한 고민일텐데",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/10/12/GY4TGN3FMRTDMZRZGE4WCZJQGU/",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "결국 끝까지 간 3위 싸움에…‘5위 조기 확정’ 두산, 체력적 우위는 확보",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610121636003",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202610121339061612_005.html",
+          "publishedAt": "2026-10-12T14:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "1차전 선발은 궁금하지도 않다...2차전 도대체 누구냐, 행복한 고민일텐데",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/baseball/2026/10/12/GY4TGN3FMRTDMZRZGE4WCZJQGU/",
-        "publishedAt": "2026-10-12T08:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-10-12T08:30:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "도대체 누구냐",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/baseball/2026/10/12/GY4TGN3FMRTDMZRZGE4WCZJQGU/",
-      "rank": 5
-    },
-    {
-      "id": "0a06a1ba1c53a4b4",
-      "issueKey": "두산",
-      "issueTitle": "두산",
-      "trendTitle": "두산",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "역투하는 두산 선발 이용찬",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261012_0021485880",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "두산, 정규시즌 마지막 홈경기 매진…창단 첫 150만 관중 돌파",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6317444",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“WC서 이길 수 있는 방법 고민했다” 변수 대비하는 김원형 두산 감독, 잭로그 불펜 대기시킨다",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261012/134827205/1",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "역투하는 두산 선발 이용찬",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISI20261012_0021485880",
-        "publishedAt": "2026-10-12T08:30:00.000Z",
+        "title": "비타민이라더니 위험한 중금속 배출 주사‥이재명 대통령 \"중대 인권침해, 엄중 대처\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857355_37004.html",
+        "publishedAt": "2026-10-12T14:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-12T08:30:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "두산",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISI20261012_0021485880",
-      "rank": 6
-    },
-    {
-      "id": "4692cef5ac69eb37",
-      "issueKey": "시간",
-      "issueTitle": "시간",
-      "trendTitle": "시간",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "인터넷 막히니 로컬망까지 썼다···업무 중 ‘스타크래프트’ 접속 90시간, 국보연 직원 5명 적발",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610120810001",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[DM왔어요] 사이버 안보 지키랬더니...게임 접속 시간만 90시간? 外",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012185030imN",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "관리자 없으면 PC방?...‘스타크래프트’ 걸린 국보연 직원들",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12322458",
-          "publishedAt": "2026-10-12T08:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "인터넷 막히니 로컬망까지 썼다···업무 중 ‘스타크래프트’ 접속 90시간, 국보연 직원 5명 적발",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610120810001",
-        "publishedAt": "2026-10-12T08:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-12T08:30:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "시간",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202610120810001",
-      "rank": 7
-    },
-    {
-      "id": "c2ab446005a8395b",
-      "issueKey": "심의한 영등위",
-      "issueTitle": "심의한 영등위",
-      "trendTitle": "심의한 영등위",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[단독] ‘암살자(들)’ 심의한 영등위, 역사 왜곡을 “숨겨진 진실”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/10/12/UIODY7LBYVF5VK64D4TWBL2H5E/",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "부엉이바위 언급까지…문체위 국감 또 ’암살자(들)’ 공방",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012183627Scl",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[시론] 권력자의 발언은 표현의 자유가 아니다",
-          "source": "인천일보",
-          "url": "http://www.incheonilbo.com/news/articleView.html?idxno=1333907",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[단독] ‘암살자(들)’ 심의한 영등위, 역사 왜곡을 “숨겨진 진실”",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/culture-life/culture_general/2026/10/12/UIODY7LBYVF5VK64D4TWBL2H5E/",
-        "publishedAt": "2026-10-12T08:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-12T08:20:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "심의한 영등위",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/culture-life/culture_general/2026/10/12/UIODY7LBYVF5VK64D4TWBL2H5E/",
+      "publishedAt": "2026-10-12T14:30:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "비타민",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857355_37004.html",
       "rank": 8
     },
     {
-      "id": "31e083f5950b1b25",
-      "issueKey": "김포시",
-      "issueTitle": "김포시",
-      "trendTitle": "김포시",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김포시, 서울 2호선 신정지선 연장 추진…양천구와 공동대응",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261012123900065",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서울 양천구-경기 김포시, ‘2호선 신정지선 김포 연장’ 공동건의",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261012/134826508/1",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김포 철도망 확충 속도…서울2호선 신정지선 연장 양천구와 공동 대응",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/10/12/2026101214031824815",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김포시, 서울 2호선 신정지선 연장 추진…양천구와 공동대응",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261012123900065",
-        "publishedAt": "2026-10-12T08:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-12T08:20:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "김포시",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261012123900065",
-      "rank": 9
-    },
-    {
-      "id": "892660f7526ed702",
-      "issueKey": "제척",
-      "issueTitle": "제척",
-      "trendTitle": "제척",
+      "id": "f4028909379cd80d",
+      "issueKey": "챔스",
+      "issueTitle": "챔스",
+      "trendTitle": "챔스",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "민주, 이진숙 '대통령 부모 묘소' 방문에 \"막장 정치\" 맹공",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6857282_36911.html",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
+          "title": "“대표팀 안 왔으면”…뮌헨 SNS 김민재 사진에 달린 댓글이 [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8683188",
+          "publishedAt": "2026-10-12T14:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[포토] 과방위 국감서 배제된 이진숙",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000021892&amp;code=11123000&amp;sid1=kmi",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
+          "title": "\"흥민이 형 몰아내자\" 증거 없는데 가짜뉴스 '득실'...\"손흥민 왕따시켰다며?\" 선수들 '국민 욕받이' 전락",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/13/202610121626773357O",
+          "publishedAt": "2026-10-12T14:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "항의하는 최형두 국민의힘 간사",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261012_0021485569",
-          "publishedAt": "2026-10-12T08:20:00.000Z",
+          "title": "은퇴 소동에 쏟아지는 악플…태극전사 소속팀 SNS도 전쟁터",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012211809uoI",
+          "publishedAt": "2026-10-12T14:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "제척",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6857282_36911.html",
-        "publishedAt": "2026-10-12T08:20:00.000Z",
+        "title": "챔스",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8683188",
+        "publishedAt": "2026-10-12T14:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-12T08:20:00.000Z",
-      "firstSeenAt": "2026-10-12T10:19:34.964Z",
-      "lastSeenAt": "2026-10-12T10:19:34.964Z",
-      "title": "제척",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6857282_36911.html",
-      "rank": 10
+      "publishedAt": "2026-10-12T14:20:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "챔스",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8683188",
+      "rank": 9
     }
   ],
   "history": [
@@ -575,52 +528,6 @@
       "title": "하리수",
       "source": "뉴스1",
       "url": "https://www.news1.kr/entertain/celebrity-topic/6315732"
-    },
-    {
-      "id": "0db031313327a867",
-      "issueKey": "경기시간",
-      "issueTitle": "경기시간",
-      "trendTitle": "경기시간",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "A매치 끝나고 꼭 봐야할 유럽 축구 경기 3선",
-          "source": "금강일보",
-          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1185401",
-          "publishedAt": "2026-10-10T15:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "페르난드스 맨유, 토트넘전 부상 비상…경기시간·중계는?",
-          "source": "TopStarNews",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16243029",
-          "publishedAt": "2026-10-10T15:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'맨유 만세!' 0경기 출전 '1400억의 사나이' 손흥민 친정 토트넘전 데뷔전 유력 \"지난주 비공식전 출전 완료\"",
-          "source": "네이트",
-          "url": "https://m.news.nate.com/view/20261008n03394?issue_sq=8655",
-          "publishedAt": "2026-10-10T15:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "페르난드스 맨유, 토트넘전 부상 비상…경기시간·중계는?",
-        "source": "TopStarNews",
-        "url": "https://www.topstarnews.net/news/articleView.html?idxno=16243029",
-        "publishedAt": "2026-10-10T15:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-10-10T15:30:00.000Z",
-      "firstSeenAt": "2026-10-10T17:01:55.744Z",
-      "lastSeenAt": "2026-10-10T17:01:55.744Z",
-      "title": "경기시간",
-      "source": "TopStarNews",
-      "url": "https://www.topstarnews.net/news/articleView.html?idxno=16243029"
     },
     {
       "id": "0a06a1ba1c53a4b4",
@@ -867,6 +774,52 @@
       "url": "https://www.skysports.com/football/news/13591795/premier-league-predictions-and-jones-knows-best-bets-liverpool-vs-manchester-city-manchester-united-vs-tottenham-and-more"
     },
     {
+      "id": "921414e9f68be2e7",
+      "issueKey": "비타민",
+      "issueTitle": "비타민",
+      "trendTitle": "비타민",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "비타민이라더니 위험한 중금속 배출 주사‥이재명 대통령 \"중대 인권침해, 엄중 대처\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857355_37004.html",
+          "publishedAt": "2026-10-12T14:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘비타민 주사’라며 ‘납 배출 주사’ 투약…이 대통령 \"용납 못 해\" 엄중 조치 지시",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12322525",
+          "publishedAt": "2026-10-12T14:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "靑 \"이 대통령 '주사 지시 사건' 엄중 대처 지시\" [현장영상+]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202610121339061612_005.html",
+          "publishedAt": "2026-10-12T14:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "비타민이라더니 위험한 중금속 배출 주사‥이재명 대통령 \"중대 인권침해, 엄중 대처\"",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857355_37004.html",
+        "publishedAt": "2026-10-12T14:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-12T14:30:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "비타민",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6857355_37004.html"
+    },
+    {
       "id": "4bd5552431cb0ab7",
       "issueKey": "상어",
       "issueTitle": "상어",
@@ -1095,52 +1048,6 @@
       "title": "유현조",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261011035200007"
-    },
-    {
-      "id": "822617fb418a9401",
-      "issueKey": "연승 이끌까",
-      "issueTitle": "연승 이끌까",
-      "trendTitle": "연승 이끌까",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[if.preview] ‘에이스’ 야말, 헤타페의 ‘밀집 수비’ 뚫고 개막 8연승 이끌까?",
-          "source": "www.fourfourtwo.co.kr",
-          "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99091",
-          "publishedAt": "2026-10-10T15:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“호주까지 수천 킬로미터 날아가서 꼭 뛰어야 했나?”…'8경기 14골' 바르셀로나 에이스 부상에 플릭 감독 분노 “믿기 어려운 일”",
-          "source": "인터풋볼",
-          "url": "https://www.interfootball.co.kr/news/articleView.html?idxno=696131",
-          "publishedAt": "2026-10-10T15:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "한시 플릭 감독은 라피냐가 브라질 국가대표팀에서 과도한 훈련을 받고 있는 것에 대해 격분했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/hansi-flick-noi-gian-khi-raphinha-bi-vat-kiet-suc-o-tuyen-brazil",
-          "publishedAt": "2026-10-10T15:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[if.preview] ‘에이스’ 야말, 헤타페의 ‘밀집 수비’ 뚫고 개막 8연승 이끌까?",
-        "source": "www.fourfourtwo.co.kr",
-        "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99091",
-        "publishedAt": "2026-10-10T15:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-10T15:40:00.000Z",
-      "firstSeenAt": "2026-10-10T17:01:55.744Z",
-      "lastSeenAt": "2026-10-10T17:01:55.744Z",
-      "title": "연승 이끌까",
-      "source": "www.fourfourtwo.co.kr",
-      "url": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=99091"
     },
     {
       "id": "ff2763f11c21f167",
@@ -1486,52 +1393,6 @@
       "url": "https://www.hankyung.com/article/202610042851i"
     },
     {
-      "id": "8ca51cb6b7bfc889",
-      "issueKey": "조던 헨더슨",
-      "issueTitle": "조던 헨더슨",
-      "trendTitle": "조던 헨더슨",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Chelsea vs Bournemouth: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cmdx3yyeggw0t",
-          "publishedAt": "2026-10-10T14:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Xabi Alonso confirms Chelsea team news for Bournemouth | News | Official Site",
-          "source": "Chelsea Football Club",
-          "url": "https://www.chelseafc.com/en/news/article/xabi-alonso-confirms-chelsea-team-news-for-bournemouth",
-          "publishedAt": "2026-10-10T14:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Premier League: Chelsea’s scathing wake-up call",
-          "source": "French Football Weekly",
-          "url": "https://frenchfootballweekly.com/2026/10/10/premier-league-chelseas-scathing-wake-up-call/",
-          "publishedAt": "2026-10-10T14:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "조던 헨더슨",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cmdx3yyeggw0t",
-        "publishedAt": "2026-10-10T14:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-10T14:20:00.000Z",
-      "firstSeenAt": "2026-10-10T17:01:55.744Z",
-      "lastSeenAt": "2026-10-10T17:01:55.744Z",
-      "title": "조던 헨더슨",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cmdx3yyeggw0t"
-    },
-    {
       "id": "3379957539c0b368",
       "issueKey": "닌쿠",
       "issueTitle": "닌쿠",
@@ -1601,6 +1462,144 @@
       "title": "갤럭시 예측",
       "source": "Vietnam.vn",
       "url": "https://www.vietnam.vn/ko/nhan-dinh-st-louis-city-vs-los-angeles-galaxy-co-hoi-bam-duoi-ngoi-dau"
+    },
+    {
+      "id": "f71005eb71d6aed0",
+      "issueKey": "국산차",
+      "issueTitle": "국산차",
+      "trendTitle": "국산차",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"여유 있다면 카니발 대신 최고\"... 평점 9.63, 프리미엄 패밀리카의 정체",
+          "source": "오토트리뷴",
+          "url": "https://www.autotribune.co.kr/news/articleView.html?idxno=46353",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“팰리세이드 계약 취소합니다”… 아빠들 돌아서게 한 국산차, 연비 20km/L 찍혔다",
+          "source": "뉴스와",
+          "url": "https://www.news-wa.com/article/automobiles/2026/10/12/20261012500069",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[시승기] 탑승 순간부터 챙긴다…日 의전차 대표, 도요타 ‘알파드’ - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/industry/car/2026/10/03/URZTLCL56JBI7GBNHQG5XJO3KU/",
+          "publishedAt": "2026-10-12T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“팰리세이드 계약 취소합니다”… 아빠들 돌아서게 한 국산차, 연비 20km/L 찍혔다",
+        "source": "뉴스와",
+        "url": "https://www.news-wa.com/article/automobiles/2026/10/12/20261012500069",
+        "publishedAt": "2026-10-12T15:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-12T15:40:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "국산차",
+      "source": "뉴스와",
+      "url": "https://www.news-wa.com/article/automobiles/2026/10/12/20261012500069"
+    },
+    {
+      "id": "389ea8c37dc8b7bb",
+      "issueKey": "박항서 감독",
+      "issueTitle": "박항서 감독",
+      "trendTitle": "박항서",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박항서 감독의 역량에 대한 의문이 제기되고 있으며, 태국 언론들이 이에 대한 해명을 내놓았다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/hlv-park-hang-seo-bi-nghi-ngo-nang-luc-bao-thai-lan-len-tieng-giai-thich",
+          "publishedAt": "2026-10-12T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "박항서 감독이 이끄는 호주 대표팀은 태국에서 우려스러운 경기력 저하를 보였다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/doi-bong-cua-hlv-park-hang-seo-tut-doc-dang-lo-ngai-o-thai-lan",
+          "publishedAt": "2026-10-12T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "박항서 감독이 이끄는 팀은 태국 리그에서 4경기 연속 무승을 기록하고 있다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/doi-bong-cua-hlv-park-hang-seo-4-tran-khong-thang-o-giai-thai-lan",
+          "publishedAt": "2026-10-12T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박항서 감독의 역량에 대한 의문이 제기되고 있으며, 태국 언론들이 이에 대한 해명을 내놓았다.",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/hlv-park-hang-seo-bi-nghi-ngo-nang-luc-bao-thai-lan-len-tieng-giai-thich",
+        "publishedAt": "2026-10-12T15:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-12T15:10:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "박항서 감독",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/hlv-park-hang-seo-bi-nghi-ngo-nang-luc-bao-thai-lan-len-tieng-giai-thich"
+    },
+    {
+      "id": "f4028909379cd80d",
+      "issueKey": "챔스",
+      "issueTitle": "챔스",
+      "trendTitle": "챔스",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“대표팀 안 왔으면”…뮌헨 SNS 김민재 사진에 달린 댓글이 [이런뉴스]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8683188",
+          "publishedAt": "2026-10-12T14:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"흥민이 형 몰아내자\" 증거 없는데 가짜뉴스 '득실'...\"손흥민 왕따시켰다며?\" 선수들 '국민 욕받이' 전락",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/10/13/202610121626773357O",
+          "publishedAt": "2026-10-12T14:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "은퇴 소동에 쏟아지는 악플…태극전사 소속팀 SNS도 전쟁터",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261012211809uoI",
+          "publishedAt": "2026-10-12T14:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "챔스",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8683188",
+        "publishedAt": "2026-10-12T14:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-12T14:20:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "챔스",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8683188"
     },
     {
       "id": "0bf538f6ba0e7895",
@@ -2247,96 +2246,50 @@
       "url": "https://www.24h.com.vn/bong-da/video-bong-da-mu-tottenham-so-tai-khong-khoan-nhuong-ngoai-hang-anh-c48a1801713.html"
     },
     {
-      "id": "84d8bfd0358b9e92",
-      "issueKey": "barcelona vs getafe",
-      "issueTitle": "barcelona vs getafe",
-      "trendTitle": "barcelona vs getafe",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "bbc8a07cd00e28f4",
+      "issueKey": "배민",
+      "issueTitle": "배민",
+      "trendTitle": "배달",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Alineación confirmada del Barcelona vs Getafe: Gabriel Jesús debuta como titular",
-          "source": "365Scores",
-          "url": "https://www.365scores.com/es/news/alineacion-confirmada-barcelona-getafe/",
-          "publishedAt": "2026-10-10T15:40:00.000Z",
+          "title": "'한집배달' 논란부터 해외 배당 의혹까지…배민·쿠팡이츠 국감 도마(종합)",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261012_0003822860",
+          "publishedAt": "2026-10-12T19:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "⚽ DAZN EN DIRECTO — dónde ver partido FC Barcelona — Getafe CF por Fútbol TV y Online",
-          "source": "Gestión",
-          "url": "https://gestion.pe/mix/sports/dazn-en-directo-donde-ver-partido-fc-barcelona-getafe-cf-por-futbol-tv-y-online-nnda-nnrt-noticia/",
-          "publishedAt": "2026-10-10T15:40:00.000Z",
+          "title": "정무위 국감, 배달앱 수수료부터 행사·배차 문제까지 집중 질의",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261012142316",
+          "publishedAt": "2026-10-12T19:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Posible once del Getafe en la jornada 8 de LaLiga EA Sports",
-          "source": "Diario AS",
-          "url": "https://as.com/futbol/primera/posible-once-del-getafe-en-la-jornada-8-de-laliga-ea-sports-f202610-n/",
-          "publishedAt": "2026-10-10T15:40:00.000Z",
+          "title": "주병기 공정위원장 \"배달앱 풍선효과 차단, 하위법령 엄정히 마련\"",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438678",
+          "publishedAt": "2026-10-12T19:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Alineación confirmada del Barcelona vs Getafe: Gabriel Jesús debuta como titular",
-        "source": "365Scores",
-        "url": "https://www.365scores.com/es/news/alineacion-confirmada-barcelona-getafe/",
-        "publishedAt": "2026-10-10T15:40:00.000Z",
+        "title": "'한집배달' 논란부터 해외 배당 의혹까지…배민·쿠팡이츠 국감 도마(종합)",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261012_0003822860",
+        "publishedAt": "2026-10-12T19:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-10T15:40:00.000Z",
-      "firstSeenAt": "2026-10-10T17:01:55.744Z",
-      "lastSeenAt": "2026-10-10T17:01:55.744Z",
-      "title": "barcelona vs getafe",
-      "source": "365Scores",
-      "url": "https://www.365scores.com/es/news/alineacion-confirmada-barcelona-getafe/"
-    },
-    {
-      "id": "f73dc527a1fd4284",
-      "issueKey": "alavés vs atlético",
-      "issueTitle": "alavés vs atlético",
-      "trendTitle": "alavés vs atlético",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "¿Cómo ver el partido del Alavés vs Atlético de Madrid en TV y streaming?",
-          "source": "Sports Illustrated",
-          "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-alaves-vs-atletico-de-madrid-en-tv-y-streaming",
-          "publishedAt": "2026-10-10T13:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Julián Álvarez, suplente en el Atlético frente al Alavés: Cuti Romero y Giuliano, titulares",
-          "source": "Yahoo",
-          "url": "https://es-us.noticias.yahoo.com/deportes/juli%C3%A1n-%C3%A1lvarez-suplente-atl%C3%A9tico-frente-132600560.html",
-          "publishedAt": "2026-10-10T13:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "La prueba de fuego del Atlético para firmar un póker de victorias en Liga",
-          "source": "OneFootball",
-          "url": "https://onefootball.com/es/noticias/la-prueba-de-fuego-del-atletico-para-firmar-un-poker-de-victorias-en-liga-43588733",
-          "publishedAt": "2026-10-10T13:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "¿Cómo ver el partido del Alavés vs Atlético de Madrid en TV y streaming?",
-        "source": "Sports Illustrated",
-        "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-alaves-vs-atletico-de-madrid-en-tv-y-streaming",
-        "publishedAt": "2026-10-10T13:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-10T13:50:00.000Z",
-      "firstSeenAt": "2026-10-10T17:01:55.744Z",
-      "lastSeenAt": "2026-10-10T17:01:55.744Z",
-      "title": "alavés vs atlético",
-      "source": "Sports Illustrated",
-      "url": "https://www.si.com/es-us/futbol/como-ver-el-partido-del-alaves-vs-atletico-de-madrid-en-tv-y-streaming"
+      "publishedAt": "2026-10-12T19:50:00.000Z",
+      "firstSeenAt": "2026-10-12T20:58:30.620Z",
+      "lastSeenAt": "2026-10-12T20:58:30.620Z",
+      "title": "배민",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261012_0003822860"
     }
   ]
 }
