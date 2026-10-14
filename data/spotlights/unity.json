@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-14T00:09:55.123Z",
+  "lastUpdatedAt": "2026-10-14T08:25:57.646Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "1uQHhqvD038",
-      "title": "Unity IAP 새로운 기능",
-      "url": "https://www.youtube.com/watch?v=1uQHhqvD038",
-      "publishedAt": "2026-10-13T04:55:18.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/1uQHhqvD038/hqdefault.jpg"
+      "id": "Pe7ZZ92Vhxs",
+      "title": "AI와 함께하는 LevelPlay 붙이기",
+      "url": "https://www.youtube.com/watch?v=Pe7ZZ92Vhxs",
+      "publishedAt": "2026-10-14T07:27:09.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/Pe7ZZ92Vhxs/hqdefault.jpg"
     },
     {
-      "id": "8ytJW1I6Agg",
-      "title": "[2D 게임 개발 꿀팁 시리즈] 2D 게임에 3D 오브젝트 쉽게 사용하는 방법",
-      "url": "https://www.youtube.com/shorts/8ytJW1I6Agg",
-      "publishedAt": "2026-10-13T01:41:17.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/8ytJW1I6Agg/hqdefault.jpg"
+      "id": "MB1i5w0UaMA",
+      "title": "꼬리에 꼬리를 무는 유니티 이야기 시즌 2",
+      "url": "https://www.youtube.com/watch?v=MB1i5w0UaMA",
+      "publishedAt": "2026-10-14T00:50:29.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/MB1i5w0UaMA/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
