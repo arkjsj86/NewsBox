@@ -3,11 +3,11 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-10-15T20:59:28.604Z",
+  "lastUpdatedAt": "2026-10-15T23:38:15.219Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
-  "itemCount": 1,
+  "itemCount": 2,
   "offers": [
     {
       "id": "db1202a30c5541dd99cdf54c918a9348",
@@ -16,6 +16,15 @@
       "url": "https://store.epicgames.com/ko/p/agent-a-a-puzzle-in-disguise-42fe5f",
       "imageUrl": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-gqv76.png",
       "originalPriceLabel": "₩20,400",
+      "freeUntil": "2026-10-22T15:00:00.000Z"
+    },
+    {
+      "id": "6a846880836044a2adad614ac771f487",
+      "title": "Bad Cheese",
+      "seller": "FEARDEMIC sp. z o.o.",
+      "url": "https://store.epicgames.com/ko/p/bad-cheese-4256d9",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-kcgyv.png",
+      "originalPriceLabel": "₩13,300",
       "freeUntil": "2026-10-22T15:00:00.000Z"
     }
   ],
@@ -41,14 +50,14 @@
           "meta": "댓글 7"
         },
         {
+          "title": "신임 PD와 본격 출항하는 1주년 '카제나', 미디어 간담회",
+          "url": "https://bbs.ruliweb.com/news/read/230650",
+          "meta": "댓글 14"
+        },
+        {
           "title": "㈜플레이위드코리아, ‘씰M2’가 연 포문… 4분기 글로벌 ‘씰 유니버스’ 확장",
           "url": "https://bbs.ruliweb.com/news/read/230477",
           "meta": "댓글 7"
-        },
-        {
-          "title": "Lemist Game Studio, 대만 인디 게임 ‘Lami: A Cup of Code and Coffee’ 무료 체험판, Steam 넥스트 페스트 참가",
-          "url": "https://bbs.ruliweb.com/news/read/230406",
-          "meta": "댓글 1"
         }
       ]
     },
@@ -60,27 +69,27 @@
         {
           "title": "넷플릭스, 약 1,000명 감원...게임 자회사 직원도 영향",
           "url": "https://www.inven.co.kr/webzine/news/?news=322178",
-          "meta": "7시간 전"
+          "meta": "10시간 전"
         },
         {
           "title": "'FIFAe 파이널스 2026' 개막 하루 전 연기",
           "url": "https://www.inven.co.kr/webzine/news/?news=322177",
-          "meta": "e풋볼 · 7시간 전"
+          "meta": "e풋볼 · 10시간 전"
         },
         {
           "title": "유비소프트, 독일 스튜디오 3곳 인력 감축 협의",
           "url": "https://www.inven.co.kr/webzine/news/?news=322176",
-          "meta": "유비소프트 · 8시간 전"
+          "meta": "유비소프트 · 10시간 전"
         },
         {
           "title": "한진 브리온, 결국 4강서 탈락 고배...결승은 BFX vs WE",
           "url": "https://www.inven.co.kr/webzine/news/?news=322175",
-          "meta": "리그 오브 레전드 · 8시간 전"
+          "meta": "리그 오브 레전드 · 10시간 전"
         },
         {
           "title": "거짓말하면 얼굴에 다 드러난다? 4인 소셜 추리 게임 '위저즈 네버 라이' 공개",
           "url": "https://www.inven.co.kr/webzine/news/?news=322038",
-          "meta": "위저즈 네버 라이 · 9시간 전"
+          "meta": "위저즈 네버 라이 · 12시간 전"
         }
       ]
     }
@@ -90,7 +99,7 @@
       "key": "epic-free-games",
       "source": "Epic Games Store",
       "ok": true,
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "key": "ruliweb-issues",

@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-15T20:59:28.604Z",
+  "lastUpdatedAt": "2026-10-15T23:38:15.219Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -14,29 +14,6 @@
   "primaryBlockName": "Play-Ins",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115660588583040710",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Play-Ins",
-      "startTime": "2026-10-15T23:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "FURIA",
-          "code": "FUR",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
-        },
-        {
-          "name": "MVK Esports",
-          "code": "MVK",
-          "imageUrl": "http://static.lolesports.com/teams/1767089709161_White_Logo.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660588583171790",
       "leagueKey": "worlds",
@@ -53,9 +30,9 @@
           "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Karmine Corp",
+          "code": "KC",
+          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
@@ -76,9 +53,9 @@
           "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Cloud9 Kia",
+          "code": "C9",
+          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
@@ -274,6 +251,29 @@
       "tournamentName": "2026",
       "blockName": "Swiss",
       "startTime": "2026-10-23T23:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo1",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095019",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Swiss",
+      "startTime": "2026-10-24T00:00:00.000Z",
       "state": "unstarted",
       "matchType": "Bo1",
       "teams": [

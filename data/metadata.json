@@ -3,9 +3,9 @@
   "sourceMode": "korean-rss",
   "sourceProvider": "rss+lolesports+googletrends+epicgames+ruliweb+inven+unity+youtube",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-10-15T20:59:28.604Z",
+  "lastUpdatedAt": "2026-10-15T23:38:15.219Z",
   "tabCount": 5,
-  "totalArticleCount": 82,
+  "totalArticleCount": 78,
   "availableTabs": [
     "ai",
     "game",
@@ -25,18 +25,13 @@
     "unityVideoLimit": 2
   },
   "feedCount": 8,
-  "successfulFeedCount": 8,
-  "failedFeedCount": 0,
+  "successfulFeedCount": 7,
+  "failedFeedCount": 1,
   "successfulFeeds": [
     {
       "key": "itworld-kr",
       "source": "ITWorld Korea",
       "itemCount": 15
-    },
-    {
-      "key": "etnews-games",
-      "source": "전자신문 게임",
-      "itemCount": 30
     },
     {
       "key": "gameinsight-all",
@@ -69,7 +64,13 @@
       "itemCount": 30
     }
   ],
-  "failedFeeds": [],
+  "failedFeeds": [
+    {
+      "key": "etnews-games",
+      "source": "전자신문 게임",
+      "error": "fetch failed"
+    }
+  ],
   "spotlightCount": 4,
   "spotlights": [
     {
@@ -87,7 +88,7 @@
     {
       "key": "game",
       "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "itemCount": 1,
+      "itemCount": 2,
       "issueCount": 10
     },
     {
