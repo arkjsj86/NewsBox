@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-15T16:25:34.000Z",
+  "lastUpdatedAt": "2026-10-15T20:59:28.604Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -14,29 +14,6 @@
   "primaryBlockName": "Play-Ins",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115660588583171786",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Play-Ins",
-      "startTime": "2026-10-15T18:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-        },
-        {
-          "name": "Karmine Corp",
-          "code": "KC",
-          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660588583040710",
       "leagueKey": "worlds",
@@ -274,6 +251,29 @@
       "tournamentName": "2026",
       "blockName": "Swiss",
       "startTime": "2026-10-23T22:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo1",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095017",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Swiss",
+      "startTime": "2026-10-23T23:00:00.000Z",
       "state": "unstarted",
       "matchType": "Bo1",
       "teams": [
