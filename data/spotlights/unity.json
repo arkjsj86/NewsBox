@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-15T03:29:38.235Z",
+  "lastUpdatedAt": "2026-10-15T10:57:07.288Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -25,7 +25,7 @@
     },
     {
       "id": "MB1i5w0UaMA",
-      "title": "꼬리에 꼬리를 무는 유니티 이야기 시즌 2",
+      "title": "꼬리에 꼬리를 무는 유니티 이야기 Part 1",
       "url": "https://www.youtube.com/watch?v=MB1i5w0UaMA",
       "publishedAt": "2026-10-14T00:50:29.000Z",
       "thumbnailUrl": "https://i2.ytimg.com/vi/MB1i5w0UaMA/hqdefault.jpg"
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
