@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-15T23:38:15.219Z",
+  "lastUpdatedAt": "2026-10-16T03:25:24.244Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -25,14 +25,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
           "name": "Karmine Corp",
           "code": "KC",
           "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
+        },
+        {
+          "name": "MVK Esports",
+          "code": "MVK",
+          "imageUrl": "http://static.lolesports.com/teams/1767089709161_White_Logo.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
@@ -48,14 +48,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
           "name": "Cloud9 Kia",
           "code": "C9",
           "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+        },
+        {
+          "name": "FURIA",
+          "code": "FUR",
+          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
