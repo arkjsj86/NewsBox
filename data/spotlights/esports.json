@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-17T15:04:25.009Z",
+  "lastUpdatedAt": "2026-10-17T20:12:50.427Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -14,29 +14,6 @@
   "primaryBlockName": "Play-Ins",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115660588583171798",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Play-Ins",
-      "startTime": "2026-10-17T18:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "MVK Esports",
-          "code": "MVK",
-          "imageUrl": "http://static.lolesports.com/teams/1767089709161_White_Logo.png"
-        },
-        {
-          "name": "FURIA",
-          "code": "FUR",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "116299649498303884",
       "leagueKey": "worlds",
@@ -274,6 +251,29 @@
       "tournamentName": "2026",
       "blockName": "Swiss",
       "startTime": "2026-10-24T18:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo1",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095025",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Swiss",
+      "startTime": "2026-10-24T19:00:00.000Z",
       "state": "unstarted",
       "matchType": "Bo1",
       "teams": [
