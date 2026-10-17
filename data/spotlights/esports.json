@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-16T23:16:29.702Z",
+  "lastUpdatedAt": "2026-10-17T03:16:07.046Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -25,14 +25,14 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
-        },
-        {
           "name": "MVK Esports",
           "code": "MVK",
           "imageUrl": "http://static.lolesports.com/teams/1767089709161_White_Logo.png"
+        },
+        {
+          "name": "FURIA",
+          "code": "FUR",
+          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
