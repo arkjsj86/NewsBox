@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-18T15:27:57.096Z",
+  "lastUpdatedAt": "2026-10-18T20:10:56.761Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -11,32 +11,9 @@
   "sourceUrl": "https://lolesports.com/en-US/leagues/worlds",
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
-  "primaryBlockName": "Play-Ins",
+  "primaryBlockName": "Swiss",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "116299649498303884",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Play-Ins",
-      "startTime": "2026-10-18T18:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Karmine Corp",
-          "code": "KC",
-          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
-        },
-        {
-          "name": "MVK Esports",
-          "code": "MVK",
-          "imageUrl": "http://static.lolesports.com/teams/1767089709161_White_Logo.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095005",
       "leagueKey": "worlds",
@@ -274,6 +251,29 @@
       "tournamentName": "2026",
       "blockName": "Swiss",
       "startTime": "2026-10-24T19:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo1",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095027",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Swiss",
+      "startTime": "2026-10-24T20:00:00.000Z",
       "state": "unstarted",
       "matchType": "Bo1",
       "teams": [
