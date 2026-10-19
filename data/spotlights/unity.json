@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-19T03:32:37.269Z",
+  "lastUpdatedAt": "2026-10-19T12:19:28.217Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "Pe7ZZ92Vhxs",
-      "title": "AI와 함께하는 LevelPlay 붙이기",
-      "url": "https://www.youtube.com/watch?v=Pe7ZZ92Vhxs",
-      "publishedAt": "2026-10-14T07:27:09.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/Pe7ZZ92Vhxs/hqdefault.jpg"
+      "id": "RFK1MhK56S4",
+      "title": "Unity AI Game Jam 참가 지원 마감 임박🚨",
+      "url": "https://www.youtube.com/shorts/RFK1MhK56S4",
+      "publishedAt": "2026-10-19T01:47:41.000Z",
+      "thumbnailUrl": "https://i3.ytimg.com/vi/RFK1MhK56S4/hqdefault.jpg"
     },
     {
-      "id": "MB1i5w0UaMA",
-      "title": "꼬리에 꼬리를 무는 유니티 이야기 Part 1",
-      "url": "https://www.youtube.com/watch?v=MB1i5w0UaMA",
-      "publishedAt": "2026-10-14T00:50:29.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/MB1i5w0UaMA/hqdefault.jpg"
+      "id": "pptVJhpD4YY",
+      "title": "꼬리에 꼬리를 무는 유니티 이야기 Part 3",
+      "url": "https://www.youtube.com/watch?v=pptVJhpD4YY",
+      "publishedAt": "2026-10-15T06:32:44.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/pptVJhpD4YY/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
