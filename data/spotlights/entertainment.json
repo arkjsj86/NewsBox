@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-10-20T14:07:52.410Z",
+  "lastUpdatedAt": "2026-10-20T18:57:16.894Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "1c700a1d867e128d",
-      "issueKey": "погода завтра",
-      "issueTitle": "погода завтра",
-      "trendTitle": "погода завтра",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Приятная осень: какая погода ждет казанцев до конца октября",
-          "source": "Inkazan.ru",
-          "url": "https://inkazan.ru/news/2026-10-20/priyatnaya-osen-kakaya-pogoda-zhdet-kazantsev-do-kontsa-oktyabrya-5711823",
-          "publishedAt": "2026-10-20T12:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "В Татарстане во вторник похолодает до минус 6 градусов",
-          "source": "БИЗНЕС Online — Новости Казани",
-          "url": "https://www.business-gazeta.ru/news/713829",
-          "publishedAt": "2026-10-20T12:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Арктический антициклон в Татарстане: прогноз на неделю",
-          "source": "Телеканал ТНВ Татарстан",
-          "url": "https://tnv.ru/news/tatarstan/581760-arkticheskiy-anticiklon-v-tatarstane-prognoz-na-nedelyu/",
-          "publishedAt": "2026-10-20T12:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "погода завтра",
-        "source": "Inkazan.ru",
-        "url": "https://inkazan.ru/news/2026-10-20/priyatnaya-osen-kakaya-pogoda-zhdet-kazantsev-do-kontsa-oktyabrya-5711823",
-        "publishedAt": "2026-10-20T12:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-20T12:40:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "погода завтра",
-      "source": "Inkazan.ru",
-      "url": "https://inkazan.ru/news/2026-10-20/priyatnaya-osen-kakaya-pogoda-zhdet-kazantsev-do-kontsa-oktyabrya-5711823",
-      "rank": 1
-    },
-    {
-      "id": "8dfd7713d26c1f24",
-      "issueKey": "남현종",
-      "issueTitle": "남현종",
-      "trendTitle": "남현종",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "남현종 KBS 아나운서, 11월 결혼한다",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003833613",
-          "publishedAt": "2026-10-20T12:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'11월 결혼' 남현종 \"웃는 모습 예쁜 사람…이영표, 아내 마음 챙기라고 조언",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/entertain/celebrity-topic/6326244",
-          "publishedAt": "2026-10-20T12:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "남현종 KBS 아나운서, 11월 결혼…\"소개팅 후 직진\"",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261020001111",
-          "publishedAt": "2026-10-20T12:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "남현종 KBS 아나운서, 11월 결혼한다",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261020_0003833613",
-        "publishedAt": "2026-10-20T12:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-20T12:30:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "남현종",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20261020_0003833613",
-      "rank": 2
-    },
-    {
-      "id": "2f68e6ff70696d7e",
-      "issueKey": "임시완",
-      "issueTitle": "임시완",
-      "trendTitle": "임시완",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "임시완·설인아 주연 '나의 유죄인간' 5.6％ 출발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020035800005",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "카카오엔터 로맨스 IP ‘여자인 걸 왜 모르지?’ 드라마로 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/20/UZD2PR7PQJETZKQ3AK4SS7ZQFQ/",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘나의 유죄인간’ 김정현, 능청미 장착한 변호사 완벽 변신",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261020/134875398/1",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "임시완·설인아 주연 '나의 유죄인간' 5.6％ 출발",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020035800005",
-        "publishedAt": "2026-10-20T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-20T12:10:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "임시완",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261020035800005",
-      "rank": 3
-    },
-    {
-      "id": "08fd909c56b64536",
-      "issueKey": "류현진",
-      "issueTitle": "류현진",
-      "trendTitle": "류현진",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "류현진 최초! 아내 배지현과 대전서 나눔 플리마켓 연다, 수익금 전액 기부 결단 “많은 분들 방문해주시길”",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/20/202610201339775213O",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "류현진·배지현 부부, 25일 첫 나눔 플리마켓 개최…수익금 전액 기부",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/baseball/6325907",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "류현진·배지현 부부, 25일 대전서 첫 나눔 플리마켓",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=03755606645614888&amp;mediaCodeNo=257",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "류현진 최초! 아내 배지현과 대전서 나눔 플리마켓 연다, 수익금 전액 기부 결단 “많은 분들 방문해주시길”",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/10/20/202610201339775213O",
-        "publishedAt": "2026-10-20T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-20T12:10:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "류현진",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/sports/2026/10/20/202610201339775213O",
-      "rank": 4
-    },
-    {
-      "id": "ee6be510a288bb24",
-      "issueKey": "기획",
-      "issueTitle": "기획",
-      "trendTitle": "기획",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "제주도개발공사 기획총괄 상임이사 인선 착수",
-          "source": "제주의소리",
-          "url": "https://www.jejusori.net/news/articleView.html?idxno=507488",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "제주개발공사 ‘2인자’ 인선 착수 ... 기획총괄이사 공모",
-          "source": "제이누리",
-          "url": "https://www.jnuri.net/news/article.html?no=70515",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[기획] ‘공간정보와 AI’의 결합… 내달 4일 ‘K-GEO Festa’서 확인",
-          "source": "매일건설신문",
-          "url": "http://www.mcnews.co.kr/86810",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "제주도개발공사 기획총괄 상임이사 인선 착수",
-        "source": "제주의소리",
-        "url": "https://www.jejusori.net/news/articleView.html?idxno=507488",
-        "publishedAt": "2026-10-20T12:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "기획",
-      "source": "제주의소리",
-      "url": "https://www.jejusori.net/news/articleView.html?idxno=507488",
-      "rank": 5
-    },
-    {
-      "id": "d2a4e45a469d190f",
-      "issueKey": "엔비디아",
-      "issueTitle": "엔비디아",
-      "trendTitle": "엔비디아",
+      "id": "a5c02f904155dc13",
+      "issueKey": "민주",
+      "issueTitle": "민주",
+      "trendTitle": "민주",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "젠슨 황 \"AI 다음 물결은 피지컬 AI…다시는 이런 기회 없다\" [IT썰]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/tech/2026/10/20/2026102008021766513",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
+          "title": "대통령 지지율 46.4%…호남서만 긍정평가 더 높아-여론조사꽃",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624578",
+          "publishedAt": "2026-10-20T16:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "NVIDIA, GTC 베를린을 향해 유럽에 상륙하다",
-          "source": "NVIDIA",
-          "url": "https://blogs.nvidia.co.kr/blog/gtc-berlin-2026-news/",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
+          "title": "李 지지율 '3주 만에 반등' 37.3%‥민주·국힘 오차범위 내",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html",
+          "publishedAt": "2026-10-20T16:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "메르츠 총리와 건배하는 젠슨 황 CEO",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261020_0002268064",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
+          "title": "지지율 20% 목전, '데드캣 바운스' … '자기 최면' 빠진 李 대통령",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/20/2026102000326.html",
+          "publishedAt": "2026-10-20T16:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "엔비디아",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/tech/2026/10/20/2026102008021766513",
-        "publishedAt": "2026-10-20T12:00:00.000Z",
-        "relevanceScore": 3
+        "title": "李 지지율 '3주 만에 반등' 37.3%‥민주·국힘 오차범위 내",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html",
+        "publishedAt": "2026-10-20T16:40:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "엔비디아",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/tech/2026/10/20/2026102008021766513",
-      "rank": 6
+      "publishedAt": "2026-10-20T16:40:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "민주",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html",
+      "rank": 1
     },
     {
-      "id": "9ae51887bcaedbab",
-      "issueKey": "사망",
-      "issueTitle": "사망",
-      "trendTitle": "후티 예멘",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "후티, 예멘·사우디 잇따라 공격… 정부군 훈련소서 53명 사망, 리야드 공항 폐쇄",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "후티가 박살낸 ‘빈살만의 꿈’",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/10/21/20261021012010",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "후티 미사일에 예멘 58명 사망·200명 부상…사우디 투자회의 연기",
-          "source": "JTBC뉴스",
-          "url": "https://news.jtbc.co.kr/article/NB12323877",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "후티, 예멘·사우디 잇따라 공격… 정부군 훈련소서 53명 사망, 리야드 공항 폐쇄",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/",
-        "publishedAt": "2026-10-20T12:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "사망",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/international/international_general/2026/10/20/SHPUFFWYHNAVNIBNFMLDVGIBJI/",
-      "rank": 7
-    },
-    {
-      "id": "1399a04e0180a7f7",
-      "issueKey": "cuaca besok",
-      "issueTitle": "cuaca besok",
-      "trendTitle": "cuaca besok",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Cuaca Jakarta Hari Ini 20 Oktober: Jaksel Berpotensi Hujan Ringan",
-          "source": "BeritaSatu.com",
-          "url": "https://www.beritasatu.com/dki-jakarta/3035086/cuaca-jakarta-hari-ini-20-oktober-jaksel-berpotensi-hujan-ringan",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Awal Pekan Ini Langit Jakarta Didominasi Berawan, Kelembapan Udara 41 hingga 76 Persen",
-          "source": "indoposco.id",
-          "url": "https://indoposco.id/2026/10/19/awal-pekan-ini-langit-jakarta-didominasi-berawan-kelembapan-udara-41-hingga-76-persen/",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "BMKG Keluarkan Peringatan Hujan di Jabodetabek 19-21 Oktober, Cek Wilayahnya",
-          "source": "Kompas.com",
-          "url": "https://megapolitan.kompas.com/read/2026/10/19/21100551/bmkg-keluarkan-peringatan-hujan-di-jabodetabek-19-21-oktober-cek",
-          "publishedAt": "2026-10-20T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "cuaca besok",
-        "source": "BeritaSatu.com",
-        "url": "https://www.beritasatu.com/dki-jakarta/3035086/cuaca-jakarta-hari-ini-20-oktober-jaksel-berpotensi-hujan-ringan",
-        "publishedAt": "2026-10-20T12:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-20T12:00:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "cuaca besok",
-      "source": "BeritaSatu.com",
-      "url": "https://www.beritasatu.com/dki-jakarta/3035086/cuaca-jakarta-hari-ini-20-oktober-jaksel-berpotensi-hujan-ringan",
-      "rank": 8
-    },
-    {
-      "id": "aa134b17a3a29fb6",
-      "issueKey": "weather tomorrow",
-      "issueTitle": "weather tomorrow",
-      "trendTitle": "weather tomorrow",
+      "id": "a38f71e33856a181",
+      "issueKey": "pakistan national cricket team vs england cricket team standings",
+      "issueTitle": "pakistan national cricket team vs england cricket team standings",
+      "trendTitle": "pakistan national cricket team vs england cricket team standings",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Weather update: IMD warns of heavy rains, strong winds across India, yellow Alert for Delhi",
-          "source": "The Week",
-          "url": "https://www.theweek.in/news/india/2026/10/20/weather-update-imd-warns-of-heavy-rains-strong-winds-across-india-yellow-alert-for-delhi.html",
-          "publishedAt": "2026-10-20T11:50:00.000Z",
+          "title": "Pakistan's Arafat Minhas' dream outing crushes England",
+          "source": "Cricbuzz",
+          "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england",
+          "publishedAt": "2026-10-20T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Licensable picture: Rain Lashes Parts of the National Capital",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/rain-lashes-parts-of-the-national-capital/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMUFTTkVXUzIwMjYxMDE1MDUzTA",
-          "publishedAt": "2026-10-20T11:50:00.000Z",
+          "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad75b198f08ed94496495e5",
+          "publishedAt": "2026-10-20T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Mercury drops in Delhi after rainfall, AQI down to ‘satisfactory’ level | Latest News Delhi",
-          "source": "Hindustan Times",
-          "url": "https://www.hindustantimes.com/cities/delhi-news/mercury-drops-in-delhi-after-rainfall-aqi-down-to-satisfactory-level-delhi-weather-today-pollution-air-quality-101792126046113.html",
-          "publishedAt": "2026-10-20T11:50:00.000Z",
+          "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad771fa8f08e4aec9158a84",
+          "publishedAt": "2026-10-20T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "weather tomorrow",
-        "source": "The Week",
-        "url": "https://www.theweek.in/news/india/2026/10/20/weather-update-imd-warns-of-heavy-rains-strong-winds-across-india-yellow-alert-for-delhi.html",
-        "publishedAt": "2026-10-20T11:50:00.000Z",
+        "title": "pakistan national cricket team vs england cricket team standings",
+        "source": "Cricbuzz",
+        "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england",
+        "publishedAt": "2026-10-20T16:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-20T11:50:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "weather tomorrow",
-      "source": "The Week",
-      "url": "https://www.theweek.in/news/india/2026/10/20/weather-update-imd-warns-of-heavy-rains-strong-winds-across-india-yellow-alert-for-delhi.html",
-      "rank": 9
+      "publishedAt": "2026-10-20T16:30:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "pakistan national cricket team vs england cricket team standings",
+      "source": "Cricbuzz",
+      "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england",
+      "rank": 2
     },
     {
-      "id": "cd82bbc40330225a",
-      "issueKey": "박정우",
-      "issueTitle": "박정우",
-      "trendTitle": "박정우",
+      "id": "f02984996ecbf913",
+      "issueKey": "유관순 비하",
+      "issueTitle": "스디파",
+      "trendTitle": "스디파",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0117_202610131018120500",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "SM 이름 앞세운 캐스퍼, 유관순 비하·마약의혹 BJ와 '스디파' 홍보 \"공정성 논란\"[SC이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘스디파’, 오늘(20일) 파이널 생방송…마지막 디렉터 크레딧 주인공 탄생",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112895245",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "SM 이름 앞세운 캐스퍼, 유관순 비하·마약의혹 BJ와 '스디파' 홍보 \"공정성 논란\"[SC이슈]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/",
+        "publishedAt": "2026-10-20T15:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-20T15:10:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "스디파",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/",
+      "rank": 3
+    },
+    {
+      "id": "e7dfc2073891ae47",
+      "issueKey": "종전",
+      "issueTitle": "종전",
+      "trendTitle": "종전",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이란 혁명수비대 \"호르무즈서 유조선 2척 기뢰 충돌‥운항 중단\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6859415_36925.html",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"이란, 호르무즈서 선박 기관실 집중 공격…선박 부족 우려\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807066",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 지연\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020178400071",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 지연\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261020178400071",
+        "publishedAt": "2026-10-20T15:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-10-20T15:10:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "종전",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261020178400071",
+      "rank": 4
+    },
+    {
+      "id": "73c1aa3cfcbf1154",
+      "issueKey": "임라라",
+      "issueTitle": "임라라",
+      "trendTitle": "임라라",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "임라라♥손민수, 쌍둥이 남매 초호화 돌잔치 공개..28년차 인기가수 축하무대(슈돌) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/",
+          "publishedAt": "2026-10-20T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "임라라, 쌍둥이 첫돌에 결국 눈물…“밤새 직접 노래 가사 써” (슈돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261020/134871764/1",
+          "publishedAt": "2026-10-20T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "“그냥 돌잔치 아니다” 임라라♥손민수, ‘슈돌’서 초호화 돌잔치 현장 공개…촬영 인력만 45명 투입",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610200936003",
+          "publishedAt": "2026-10-20T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임라라♥손민수, 쌍둥이 남매 초호화 돌잔치 공개..28년차 인기가수 축하무대(슈돌) - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/",
+        "publishedAt": "2026-10-20T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T15:00:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "임라라",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/",
+      "rank": 5
+    },
+    {
+      "id": "3d63a9719ab067f9",
+      "issueKey": "허윤동",
+      "issueTitle": "허윤동",
+      "trendTitle": "허윤동",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'PO 코앞' 삼성, 10명 무더기 방출…1라운더도 짐 쌌다",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6593351",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "프로야구 삼성, '1라운드 왼팔' 허윤동 포함 10명 방출",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261019076600007",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'13연패 끊었던 영웅도, 이정후가 극찬한 유망주도…' 삼성, 양현·허윤동·홍현빈 등 10명과 결별",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112894978",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "프로야구 삼성, '1라운드 왼팔' 허윤동 포함 10명 방출",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261019076600007",
+        "publishedAt": "2026-10-20T14:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-20T14:50:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "허윤동",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261019076600007",
+      "rank": 6
+    },
+    {
+      "id": "88841a41297d4ac8",
+      "issueKey": "트럼프",
+      "issueTitle": "트럼프",
+      "trendTitle": "트럼프",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[포토] 박재현, 적시타 날리고 학다리 댄스",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102019434854773",
-          "publishedAt": "2026-10-20T11:50:00.000Z",
+          "title": "\"민주당 장악, 재앙 닥칠 것\" 경고…백악관 참모들 ‘나부터 살자’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323951",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[포토] 박정우 '컨디션 쌍따봉'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/20/2026102020404241172",
-          "publishedAt": "2026-10-20T11:50:00.000Z",
+          "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[사진]오지환, '삼진에 입술을 깨물며'",
-          "source": "OSEN",
-          "url": "http://www.osen.co.kr/article/G1112895751",
-          "publishedAt": "2026-10-20T11:50:00.000Z",
+          "title": "연방의회 권력 지형 ‘요동’…“민주 유리, 공화 암울”",
+          "source": "미주한국일보",
+          "url": "http://www.koreatimes.com/article/20261020/1634532",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[포토] 박정우 '컨디션 쌍따봉'",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/10/20/2026102020404241172",
-        "publishedAt": "2026-10-20T11:50:00.000Z",
+        "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
+        "publishedAt": "2026-10-20T14:50:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-10-20T11:50:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "박정우",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/sports/2026/10/20/2026102020404241172",
-      "rank": 10
+      "publishedAt": "2026-10-20T14:50:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "트럼프",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
+      "rank": 7
+    },
+    {
+      "id": "5b604817730cee26",
+      "issueKey": "까지 접근",
+      "issueTitle": "까지 접근",
+      "trendTitle": "레이더",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610201715001",
+          "publishedAt": "2026-10-20T14:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/20/673USABRFVHCLCLFRLAEOF7RZQ/",
+          "publishedAt": "2026-10-20T14:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "러, '킬러위성' 가동했나…美 레이더위성 수백미터 앞 접근",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020137600009",
+          "publishedAt": "2026-10-20T14:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610201715001",
+        "publishedAt": "2026-10-20T14:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T14:30:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "까지 접근",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202610201715001",
+      "rank": 8
+    },
+    {
+      "id": "2af60e64cf2e5e8a",
+      "issueKey": "south africa vs australia",
+      "issueTitle": "south africa vs australia",
+      "trendTitle": "south africa vs australia",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Australia limp to 3-1 after South Africa post 425-9 on day three of men’s second Test – as it happened",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
+          "publishedAt": "2026-10-20T14:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "South Africa vs Australia: Hosts' batting issues exposed again as Scott Boland takes four",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo",
+          "publishedAt": "2026-10-20T14:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'The new Little Master!' Dale Steyn crowns South African skipper Temba Bavuma with ultimate moniker after majestic 179 vs Australia in Gqeberha",
+          "source": "Yahoo Sports",
+          "url": "https://sports.yahoo.com/articles/little-master-dale-steyn-crowns-171142714.html",
+          "publishedAt": "2026-10-20T14:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "South Africa vs Australia: Hosts' batting issues exposed again as Scott Boland takes four",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo",
+        "publishedAt": "2026-10-20T14:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-20T14:20:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "south africa vs australia",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo",
+      "rank": 9
     }
   ],
   "history": [
@@ -575,6 +528,52 @@
       "title": "가짜 클로드",
       "source": "보안뉴스",
       "url": "https://www.boannews.com/news/articleView.html?idxno=146487"
+    },
+    {
+      "id": "a38f71e33856a181",
+      "issueKey": "pakistan national cricket team vs england cricket team standings",
+      "issueTitle": "pakistan national cricket team vs england cricket team standings",
+      "trendTitle": "pakistan national cricket team vs england cricket team standings",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Pakistan's Arafat Minhas' dream outing crushes England",
+          "source": "Cricbuzz",
+          "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england",
+          "publishedAt": "2026-10-20T16:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad75b198f08ed94496495e5",
+          "publishedAt": "2026-10-20T16:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad771fa8f08e4aec9158a84",
+          "publishedAt": "2026-10-20T16:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "pakistan national cricket team vs england cricket team standings",
+        "source": "Cricbuzz",
+        "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england",
+        "publishedAt": "2026-10-20T16:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T16:30:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "pakistan national cricket team vs england cricket team standings",
+      "source": "Cricbuzz",
+      "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england"
     },
     {
       "id": "aa134b17a3a29fb6",
@@ -851,98 +850,6 @@
       "title": "구성환",
       "source": "머니투데이",
       "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101822193675760"
-    },
-    {
-      "id": "437cb493c8aaf457",
-      "issueKey": "박위",
-      "issueTitle": "박위",
-      "trendTitle": "박위",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“내가 네 아빠다” 박위 父, 윤소희 이어 최강희까지… ‘수양딸’ 발언 재조명",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610180135003",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "여배우들은 무슨 죄? ‘잠적’ 박위가 쌓은 가족 서사 콘텐츠의 피해자 [Oh!쎈 이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/10/18/HY32KH4VKRGQ7DZXJSLAFTQEMA/",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "최강희까지...\"박위 부친, 여배우들과 부녀처럼\" 재조명",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441",
-        "publishedAt": "2026-10-18T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-18T14:00:00.000Z",
-      "firstSeenAt": "2026-10-18T15:27:57.096Z",
-      "lastSeenAt": "2026-10-18T15:27:57.096Z",
-      "title": "박위",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101807255558441"
-    },
-    {
-      "id": "b96acde2051507b5",
-      "issueKey": "최준용",
-      "issueTitle": "최준용",
-      "trendTitle": "최준용",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "문유현 '역전 3점포'‥'AG 금메달' 주역들 앞에서 '펄펄'",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858820_37004.html",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'KCC 3연패' 이상민 감독 한숨 \"59점서 오래 묶였다, 쫓기는 마음에 급해졌던 것 같아\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/18/2026101814592162383",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "문유현 '4쿼터 대활약'…정관장 4연승 질주",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803133&amp;plink=ORI&amp;cooper=RSS",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "최준용",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858820_37004.html",
-        "publishedAt": "2026-10-18T14:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-18T14:00:00.000Z",
-      "firstSeenAt": "2026-10-18T15:27:57.096Z",
-      "lastSeenAt": "2026-10-18T15:27:57.096Z",
-      "title": "최준용",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6858820_37004.html"
     },
     {
       "id": "1c700a1d867e128d",
@@ -1543,50 +1450,96 @@
       "url": "https://www.sisaweek.com/news/articleView.html?idxno=238428"
     },
     {
-      "id": "7a7911ce64c5c724",
-      "issueKey": "황연주",
-      "issueTitle": "황연주",
-      "trendTitle": "황연주",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "a5c02f904155dc13",
+      "issueKey": "민주",
+      "issueTitle": "민주",
+      "trendTitle": "민주",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'신인감독 김연경2', 지난해 패배 안긴 일 명문 여고팀 잡을 수 있을까?",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101816407276700",
-          "publishedAt": "2026-10-18T12:30:00.000Z",
+          "title": "대통령 지지율 46.4%…호남서만 긍정평가 더 높아-여론조사꽃",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624578",
+          "publishedAt": "2026-10-20T16:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"세계 1위 오오니시 유키지 활약\"… 원더독스, 홈그라운드서 맞이한 한일전 리벤지 매치",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724920",
-          "publishedAt": "2026-10-18T12:30:00.000Z",
+          "title": "李 지지율 '3주 만에 반등' 37.3%‥민주·국힘 오차범위 내",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html",
+          "publishedAt": "2026-10-20T16:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김연경, 한일전 앞두고 예민…양효진 해설위원 합류 (신인감독 김연경2)",
-          "source": "iMBC 연예",
-          "url": "https://enews.imbc.com/News/RetrieveNewsInfo/521574",
-          "publishedAt": "2026-10-18T12:30:00.000Z",
+          "title": "지지율 20% 목전, '데드캣 바운스' … '자기 최면' 빠진 李 대통령",
+          "source": "뉴데일리",
+          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/20/2026102000326.html",
+          "publishedAt": "2026-10-20T16:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "황연주",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101816407276700",
-        "publishedAt": "2026-10-18T12:30:00.000Z",
-        "relevanceScore": 3
+        "title": "李 지지율 '3주 만에 반등' 37.3%‥민주·국힘 오차범위 내",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html",
+        "publishedAt": "2026-10-20T16:40:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-10-18T12:30:00.000Z",
-      "firstSeenAt": "2026-10-18T15:27:57.096Z",
-      "lastSeenAt": "2026-10-18T15:27:57.096Z",
-      "title": "황연주",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101816407276700"
+      "publishedAt": "2026-10-20T16:40:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "민주",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html"
+    },
+    {
+      "id": "e7dfc2073891ae47",
+      "issueKey": "종전",
+      "issueTitle": "종전",
+      "trendTitle": "종전",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이란 혁명수비대 \"호르무즈서 유조선 2척 기뢰 충돌‥운항 중단\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/world/article/6859415_36925.html",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"이란, 호르무즈서 선박 기관실 집중 공격…선박 부족 우려\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807066",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 지연\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020178400071",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 지연\"",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261020178400071",
+        "publishedAt": "2026-10-20T15:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-10-20T15:10:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "종전",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261020178400071"
     },
     {
       "id": "d2a4e45a469d190f",
@@ -2049,234 +2002,188 @@
       "url": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt"
     },
     {
-      "id": "e9e6266b8035d7c4",
-      "issueKey": "누구",
-      "issueTitle": "누구",
-      "trendTitle": "누구",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "f02984996ecbf913",
+      "issueKey": "유관순 비하",
+      "issueTitle": "스디파",
+      "trendTitle": "스디파",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "‘붕어빵 파는 차은우’?…“광명 ‘붕은우’ 만나러 2시간 줄 서”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261018/134860504/1",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
+          "title": "",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_sn/0117_202610131018120500",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "'붕어빵 파는 차은우' 보려고 2시간 줄 섰다…광명 꽃미남 '붕은우' 누구?",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6322598",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
+          "title": "SM 이름 앞세운 캐스퍼, 유관순 비하·마약의혹 BJ와 '스디파' 홍보 \"공정성 논란\"[SC이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "붕어빵 사러 2시간 줄 ＂대체 왜＂...사장님 보고 바로 ＇납득＇",
-          "source": "한국경제TV",
-          "url": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610180063",
-          "publishedAt": "2026-10-18T14:00:00.000Z",
+          "title": "‘스디파’, 오늘(20일) 파이널 생방송…마지막 디렉터 크레딧 주인공 탄생",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112895245",
+          "publishedAt": "2026-10-20T15:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "'붕어빵 파는 차은우' 보려고 2시간 줄 섰다…광명 꽃미남 '붕은우' 누구?",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6322598",
-        "publishedAt": "2026-10-18T14:00:00.000Z",
+        "title": "SM 이름 앞세운 캐스퍼, 유관순 비하·마약의혹 BJ와 '스디파' 홍보 \"공정성 논란\"[SC이슈]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/",
+        "publishedAt": "2026-10-20T15:10:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-10-18T14:00:00.000Z",
-      "firstSeenAt": "2026-10-18T15:27:57.096Z",
-      "lastSeenAt": "2026-10-18T15:27:57.096Z",
-      "title": "누구",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/society/general-society/6322598"
+      "publishedAt": "2026-10-20T15:10:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "스디파",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/"
     },
     {
-      "id": "8baf1838b7b24434",
-      "issueKey": "catl",
-      "issueTitle": "catl",
-      "trendTitle": "catl",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "73c1aa3cfcbf1154",
+      "issueKey": "임라라",
+      "issueTitle": "임라라",
+      "trendTitle": "임라라",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "How China is building its global EV battery empire",
-          "source": "Finshots",
-          "url": "https://finshots.in/archive/how-china-is-building-its-global-ev-battery-empire/",
-          "publishedAt": "2026-10-18T12:30:00.000Z",
+          "title": "임라라♥손민수, 쌍둥이 남매 초호화 돌잔치 공개..28년차 인기가수 축하무대(슈돌) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/",
+          "publishedAt": "2026-10-20T15:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Bloomberg Primer on Bloomberg HD: full details and when it's on",
-          "source": "TVGuide.co.uk",
-          "url": "https://www.tvguide.co.uk/schedule/6346bbc6-8668-5212-a439-58fb1cad01e8/bloomberg-primer",
-          "publishedAt": "2026-10-18T12:30:00.000Z",
+          "title": "임라라, 쌍둥이 첫돌에 결국 눈물…“밤새 직접 노래 가사 써” (슈돌)",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261020/134871764/1",
+          "publishedAt": "2026-10-20T15:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-          "source": "CnEVPost",
-          "url": "https://cnevpost.com/2026/10/15/top-ev-battery-makers-share-china-sept-2026/",
-          "publishedAt": "2026-10-18T12:30:00.000Z",
+          "title": "“그냥 돌잔치 아니다” 임라라♥손민수, ‘슈돌’서 초호화 돌잔치 현장 공개…촬영 인력만 45명 투입",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202610200936003",
+          "publishedAt": "2026-10-20T15:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Top EV battery makers' market share in China in September 2026: CATL 40.92%, BYD 21.09%",
-        "source": "CnEVPost",
-        "url": "https://cnevpost.com/2026/10/15/top-ev-battery-makers-share-china-sept-2026/",
-        "publishedAt": "2026-10-18T12:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-10-18T12:30:00.000Z",
-      "firstSeenAt": "2026-10-18T15:27:57.096Z",
-      "lastSeenAt": "2026-10-18T15:27:57.096Z",
-      "title": "catl",
-      "source": "CnEVPost",
-      "url": "https://cnevpost.com/2026/10/15/top-ev-battery-makers-share-china-sept-2026/"
-    },
-    {
-      "id": "b11ec45770b9987b",
-      "issueKey": "ล ดส พบ แมนย",
-      "issueTitle": "ลีดส์ พบ แมนยู",
-      "trendTitle": "ลีดส์ พบ แมนยู",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "@*@((สตรีมมิ่ง))ลีดส์ vs แมนยู ถ่ายทอดสด ชมการถ่ายทอดสด 18 ตุลาคม 2569",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9tLnhtbCIvPjwva3JwYW5vPg==&amp;id=video-leeds-vs-man-u-th-22",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "อัตราต่อรองล่าสุดสำหรับแมตช์ระหว่างลีดส์กับแมนฯแมนเชสเตอร์ ตามการคาดการณ์ของซูเปอร์คอมพิวเตอร์ Opta",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/th/ty-le-thang-leeds-vs-mu-moi-nhat-theo-sieu-may-tinh-du-doan-opta",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"ผีแดง\" เจ๊า \"ยูงทอง\" สะกดคำว่าชนะไม่เป็น 5 เกมรวด",
-          "source": "เดลินิวส์",
-          "url": "https://www.dailynews.co.th/news/6284920/",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "ลีดส์ พบ แมนยู",
-        "source": "Universidad de Córdoba (UCO)",
-        "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9tLnhtbCIvPjwva3JwYW5vPg==&amp;id=video-leeds-vs-man-u-th-22",
-        "publishedAt": "2026-10-18T12:20:00.000Z",
+        "title": "임라라♥손민수, 쌍둥이 남매 초호화 돌잔치 공개..28년차 인기가수 축하무대(슈돌) - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/",
+        "publishedAt": "2026-10-20T15:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-18T12:20:00.000Z",
-      "firstSeenAt": "2026-10-18T15:27:57.096Z",
-      "lastSeenAt": "2026-10-18T15:27:57.096Z",
-      "title": "ลีดส์ พบ แมนยู",
-      "source": "Universidad de Córdoba (UCO)",
-      "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2h1bWF5cmFrdGVyLmdpdGh1Yi5pby92aWRlby9tLnhtbCIvPjwva3JwYW5vPg==&amp;id=video-leeds-vs-man-u-th-22"
+      "publishedAt": "2026-10-20T15:00:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "임라라",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/"
     },
     {
-      "id": "2003db33a96db8c1",
-      "issueKey": "김영범",
-      "issueTitle": "김영범",
-      "trendTitle": "김영범",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "3d63a9719ab067f9",
+      "issueKey": "허윤동",
+      "issueTitle": "허윤동",
+      "trendTitle": "허윤동",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[전국체전] 김영범, 수영 첫날 2관왕‥남자 50m·계영 800m 금메달",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6858824_36946.html",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
+          "title": "'PO 코앞' 삼성, 10명 무더기 방출…1라운더도 짐 쌌다",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6593351",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[전국체전] 육상 나마디 조엘진, 100m 우승…2년 연속 일반부 3관왕 정조준",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261018000165",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[전국체전] 금메달 2개도 아쉬운 김영범 \"자유형 50ｍ 아시아기록 노렸는데\"",
+          "title": "프로야구 삼성, '1라운드 왼팔' 허윤동 포함 10명 방출",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261018056300007",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
+          "url": "https://www.yna.co.kr/view/AKR20261019076600007",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'13연패 끊었던 영웅도, 이정후가 극찬한 유망주도…' 삼성, 양현·허윤동·홍현빈 등 10명과 결별",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112894978",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[전국체전] 김영범, 수영 첫날 2관왕‥남자 50m·계영 800m 금메달",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/sports/article/6858824_36946.html",
-        "publishedAt": "2026-10-18T12:20:00.000Z",
-        "relevanceScore": 3
+        "title": "프로야구 삼성, '1라운드 왼팔' 허윤동 포함 10명 방출",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261019076600007",
+        "publishedAt": "2026-10-20T14:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-10-18T12:20:00.000Z",
-      "firstSeenAt": "2026-10-18T15:27:57.096Z",
-      "lastSeenAt": "2026-10-18T15:27:57.096Z",
-      "title": "김영범",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/sports/article/6858824_36946.html"
+      "publishedAt": "2026-10-20T14:50:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "허윤동",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261019076600007"
     },
     {
-      "id": "544283b6ad886a8f",
-      "issueKey": "leeds đấu với man utd",
-      "issueTitle": "leeds đấu với man utd",
-      "trendTitle": "leeds đấu với man utd",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "5b604817730cee26",
+      "issueKey": "까지 접근",
+      "issueTitle": "까지 접근",
+      "trendTitle": "레이더",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Điểm sáng hiếm hoi của MU và lỗ hổng từ Lisandro Martinez",
-          "source": "bongda.com.vn",
-          "url": "https://bongda.com.vn/diem-sang-hiem-hoi-cua-mu-va-lo-hong-tu-lisandro-martinez-d851564.html",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
+          "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610201715001",
+          "publishedAt": "2026-10-20T14:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Leeds 1-1 Man Utd (hiệp 2): Calvert-Lewin gỡ hòa",
-          "source": "Báo Dân trí",
-          "url": "https://dantri.com.vn/the-thao/leeds-1-1-man-utd-hiep-2-calvert-lewin-go-hoa-20261018195448391.htm",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
+          "title": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/international_general/2026/10/20/673USABRFVHCLCLFRLAEOF7RZQ/",
+          "publishedAt": "2026-10-20T14:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Kết quả bóng đá Leeds - MU: Người hùng Mbeumo (Ngoại hạng Anh)",
-          "source": "Tin tức 24h",
-          "url": "https://www.24h.com.vn/bong-da/ket-qua-bong-da-leeds-mu-nguoi-hung-mbeumo-ngoai-hang-anh-c48a1803768.html",
-          "publishedAt": "2026-10-18T12:20:00.000Z",
+          "title": "러, '킬러위성' 가동했나…美 레이더위성 수백미터 앞 접근",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020137600009",
+          "publishedAt": "2026-10-20T14:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "leeds đấu với man utd",
-        "source": "bongda.com.vn",
-        "url": "https://bongda.com.vn/diem-sang-hiem-hoi-cua-mu-va-lo-hong-tu-lisandro-martinez-d851564.html",
-        "publishedAt": "2026-10-18T12:20:00.000Z",
+        "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202610201715001",
+        "publishedAt": "2026-10-20T14:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-18T12:20:00.000Z",
-      "firstSeenAt": "2026-10-18T15:27:57.096Z",
-      "lastSeenAt": "2026-10-18T15:27:57.096Z",
-      "title": "leeds đấu với man utd",
-      "source": "bongda.com.vn",
-      "url": "https://bongda.com.vn/diem-sang-hiem-hoi-cua-mu-va-lo-hong-tu-lisandro-martinez-d851564.html"
+      "publishedAt": "2026-10-20T14:30:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "까지 접근",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202610201715001"
     },
     {
       "id": "2f68e6ff70696d7e",
@@ -2323,6 +2230,52 @@
       "title": "임시완",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261020035800005"
+    },
+    {
+      "id": "88841a41297d4ac8",
+      "issueKey": "트럼프",
+      "issueTitle": "트럼프",
+      "trendTitle": "트럼프",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"민주당 장악, 재앙 닥칠 것\" 경고…백악관 참모들 ‘나부터 살자’",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323951",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "연방의회 권력 지형 ‘요동’…“민주 유리, 공화 암울”",
+          "source": "미주한국일보",
+          "url": "http://www.koreatimes.com/article/20261020/1634532",
+          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
+        "publishedAt": "2026-10-20T14:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-20T14:50:00.000Z",
+      "firstSeenAt": "2026-10-20T18:57:16.894Z",
+      "lastSeenAt": "2026-10-20T18:57:16.894Z",
+      "title": "트럼프",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/international/america/1283290.html"
     }
   ]
 }
