@@ -7,386 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-10-20T00:06:47.375Z",
+  "lastUpdatedAt": "2026-10-20T08:13:42.614Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 8,
+  "itemCount": 10,
   "items": [
     {
-      "id": "1fa01e74fc306ddf",
-      "issueKey": "루이바오",
-      "issueTitle": "루이바오",
-      "trendTitle": "루이바오",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘쌍둥이 판다’ 마지막 공개일 12월 11일…“중국 이송 준비”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689852",
-          "publishedAt": "2026-10-19T22:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "쌍둥이도 보내는 ‘판다 할아버지’… “이별은 학습되지 않네요”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/2026/10/20/AILMNXKUPBE7BI2TNUGP7X3SZY/",
-          "publishedAt": "2026-10-19T22:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"안녕, 쌍둥이 판다\" 中 이동 위해 내달 검역…12월11일 마지막 인사",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261019_0003832050",
-          "publishedAt": "2026-10-19T22:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "루이바오",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8689852",
-        "publishedAt": "2026-10-19T22:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-19T22:50:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "루이바오",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8689852",
-      "rank": 1
-    },
-    {
-      "id": "97f3daf2cd9126d8",
-      "issueKey": "에이스 날벼락",
-      "issueTitle": "에이스 날벼락",
-      "trendTitle": "에이스 날벼락",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "韓 축구 에이스 날벼락! 이강인 또 '독박축구' 위기…크리스티안 로메로 OUT→'검사 결과 근육 부상 확인'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/19/G4ZTGZRVG42WEM3BMY2WMYZUGQ/",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'이강인 62분' 아틀레티코, 에스파뇰에 1-0 승…바에나 결승골",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261017048700007",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'그리즈만 후계자' 정말 이강인 말고 따로 있었나? 시메오네도 극찬 폭발...\"환상적인 능력 갖춘 바에나, 다른 레벨로 올라섰다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/18/202610181326778208O",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "韓 축구 에이스 날벼락! 이강인 또 '독박축구' 위기…크리스티안 로메로 OUT→'검사 결과 근육 부상 확인'",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-football/2026/10/19/G4ZTGZRVG42WEM3BMY2WMYZUGQ/",
-        "publishedAt": "2026-10-19T22:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-19T22:30:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "에이스 날벼락",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-football/2026/10/19/G4ZTGZRVG42WEM3BMY2WMYZUGQ/",
-      "rank": 2
-    },
-    {
-      "id": "022a6bb64232cc14",
-      "issueKey": "증권",
-      "issueTitle": "증권",
-      "trendTitle": "증권",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "DS증권, 한화에어로 목표가↓…\"4분기엔 호실적 기대\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020026400008",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘3분기 어닝 쇼크’ 방산주에도 반등…\"연말 대형 수주이벤트 집중”",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610190754i",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'3분기 실적 우려'에…방산株 일제히 하락 [종목 NOW]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610190928246411",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "DS증권, 한화에어로 목표가↓…\"4분기엔 호실적 기대\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020026400008",
-        "publishedAt": "2026-10-19T22:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-19T22:30:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "증권",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261020026400008",
-      "rank": 3
-    },
-    {
-      "id": "54442de6e475df22",
-      "issueKey": "다우",
-      "issueTitle": "다우",
-      "trendTitle": "다우",
+      "id": "8305b0b15b05d737",
+      "issueKey": "중수청",
+      "issueTitle": "중수청",
+      "trendTitle": "중수청",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "중앙일보 M&A 우선협상대상자에 ‘다우·CJ 컨소시엄’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/stock-finance/2026/10/19/47JYD55ZGBEKTHUPLJ4FG4XGJA/",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "중앙일보 인수 우선협상대상자에 다우·CJ 컨소시엄",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003832541",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "중앙일보 매각 본입찰에 다우키움·오리온 등 6곳 참여",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261019144500008",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "중앙일보 M&A 우선협상대상자에 ‘다우·CJ 컨소시엄’",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/stock-finance/2026/10/19/47JYD55ZGBEKTHUPLJ4FG4XGJA/",
-        "publishedAt": "2026-10-19T22:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-19T22:30:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "다우",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/stock-finance/2026/10/19/47JYD55ZGBEKTHUPLJ4FG4XGJA/",
-      "rank": 4
-    },
-    {
-      "id": "2628f432316ca767",
-      "issueKey": "전지전능 안해",
-      "issueTitle": "송영길",
-      "trendTitle": "송영길",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“서울 인근 뚫렸나?”…“미, 바보 같은 실수도”",
+          "title": "[단독] 중수청, 명륜진사갈비 본사 사건 배당…“공정위 전속고발”",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689443",
-          "publishedAt": "2026-10-19T22:20:00.000Z",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690113",
+          "publishedAt": "2026-10-20T07:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "송영길 “미 정보 절대 전지전능 안해···바보같은 실수 많이 했다”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610191651001",
-          "publishedAt": "2026-10-19T22:20:00.000Z",
+          "title": "중수청, 명륜진사갈비 부당 내부거래 사건 반독점수사국 배당",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/court-prosecution/6325843",
+          "publishedAt": "2026-10-20T07:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“미 정보 잘못 많아”…육참총장은 다른 답변",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000555836.do",
-          "publishedAt": "2026-10-19T22:20:00.000Z",
+          "title": "명륜진사갈비 본사 '이자 장사 의혹', 서울중수청 반독점국 배당",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261020_0003833306",
+          "publishedAt": "2026-10-20T07:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "송영길 “미 정보 절대 전지전능 안해···바보같은 실수 많이 했다”",
-        "source": "주간경향",
-        "url": "https://weekly.khan.co.kr/article/202610191651001",
-        "publishedAt": "2026-10-19T22:20:00.000Z",
-        "relevanceScore": 2
+        "title": "[단독] 중수청, 명륜진사갈비 본사 사건 배당…“공정위 전속고발”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8690113",
+        "publishedAt": "2026-10-20T07:10:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-10-19T22:20:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "송영길",
-      "source": "주간경향",
-      "url": "https://weekly.khan.co.kr/article/202610191651001",
-      "rank": 5
+      "publishedAt": "2026-10-20T07:10:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "중수청",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8690113",
+      "rank": 1
     },
     {
-      "id": "104d92eae81e967e",
-      "issueKey": "폭락장에 물가",
-      "issueTitle": "폭락장에 물가",
-      "trendTitle": "폭락장에 물가",
+      "id": "c9b9dc31d9bd7e97",
+      "issueKey": "과징금",
+      "issueTitle": "과징금",
+      "trendTitle": "과징금",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "1년에 산재 3명 이상 숨지면 영업익 5% 과징금…국무회의 의결",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020049000001",
+          "publishedAt": "2026-10-20T07:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "연간 산재 사망자 3명 이상이면 영업이익 5% 과징금…국무회의 의결",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8690247",
+          "publishedAt": "2026-10-20T07:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "산재 사망에 기업 이익까지 제재…최대 영업익 5% 과징금",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440157",
+          "publishedAt": "2026-10-20T07:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "1년에 산재 3명 이상 숨지면 영업익 5% 과징금…국무회의 의결",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261020049000001",
+        "publishedAt": "2026-10-20T07:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T07:10:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "과징금",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261020049000001",
+      "rank": 2
+    },
+    {
+      "id": "b594057a0b9d32ca",
+      "issueKey": "눈사태",
+      "issueTitle": "눈사태",
+      "trendTitle": "눈사태",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"구조대 안 오나요\" 폭락장에 물가·집값 뛰는데...정쟁만 '활활'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/10/20/2026101917440182088",
-          "publishedAt": "2026-10-19T22:10:00.000Z",
+          "title": "알래스카 눈사태 속 행방불명 반려견…50시간 만에 극적 생환 [잇슈 SNS]",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689726",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"물타기할 돈도 없어\" 폭락장에 비명 터졌다...국정지지율도 '부담'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/politics/2026/10/20/2026101917465066616",
-          "publishedAt": "2026-10-19T22:10:00.000Z",
+          "title": "눈사태에 실종된 반려견…50시간 수색 끝에 ’기적의 생환’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020093619jJs",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"코스피 -40% 와르르\" 개미 피눈물 흘릴 때...정치권 딴 곳 봤다",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/10/19/2026101521570593206",
-          "publishedAt": "2026-10-19T22:10:00.000Z",
+          "title": "[영상] 눈사태로 실종된 반려견…'에어태그' 신호 따라가보니",
+          "source": "연합뉴스 한민족센터",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1427187",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"구조대 안 오나요\" 폭락장에 물가·집값 뛰는데...정쟁만 '활활'",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/politics/2026/10/20/2026101917440182088",
-        "publishedAt": "2026-10-19T22:10:00.000Z",
+        "title": "알래스카 눈사태 속 행방불명 반려견…50시간 만에 극적 생환 [잇슈 SNS]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8689726",
+        "publishedAt": "2026-10-20T07:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-19T22:10:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "폭락장에 물가",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/politics/2026/10/20/2026101917440182088",
-      "rank": 6
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "눈사태",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8689726",
+      "rank": 3
     },
     {
-      "id": "73b47d6729b4db77",
-      "issueKey": "삼성전자",
-      "issueTitle": "삼성전자",
-      "trendTitle": "삼성전자",
+      "id": "02d0944245c215d4",
+      "issueKey": "이게 가능해",
+      "issueTitle": "이게 가능해",
+      "trendTitle": "이게 가능해",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "삼성전자, '아트 바젤 파리 2026' 출품작 19점 아트 스토어에 공개",
-          "source": "아시아경제",
-          "url": "https://www.asiae.co.kr/article/2026102008255594467",
-          "publishedAt": "2026-10-19T22:00:00.000Z",
+          "title": "‘한국은 이게 가능해?’…CNN이 주목한 서울 지하철",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323868",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"집에서 명작 감상\"…삼성전자, 아트 스토어에 '아트 바젤 파리 2026' 컬렉션 공개",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261020_0003832668",
-          "publishedAt": "2026-10-19T22:00:00.000Z",
+          "title": "“이걸 매일 탄다니, 대박” 한국 부럽다는 외국인들…‘세계 최고 수준’ 난리난 이것 [월드픽]",
+          "source": "TWIG",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/10/20/20261020500008",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "삼성전자, '아트 바젤 파리' 미술 작품 19점 TV로 선보인다",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261020000103",
-          "publishedAt": "2026-10-19T22:00:00.000Z",
+          "title": "서울 지하철에 놀란 CNN “좌석에 이런 기능이…세계 최고 수준”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261019070313081",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "삼성전자, '아트 바젤 파리 2026' 출품작 19점 아트 스토어에 공개",
-        "source": "아시아경제",
-        "url": "https://www.asiae.co.kr/article/2026102008255594467",
-        "publishedAt": "2026-10-19T22:00:00.000Z",
+        "title": "‘한국은 이게 가능해?’…CNN이 주목한 서울 지하철",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12323868",
+        "publishedAt": "2026-10-20T06:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-19T22:00:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "삼성전자",
-      "source": "아시아경제",
-      "url": "https://www.asiae.co.kr/article/2026102008255594467",
-      "rank": 7
+      "publishedAt": "2026-10-20T06:50:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "이게 가능해",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12323868",
+      "rank": 4
     },
     {
-      "id": "5235936344b1c223",
-      "issueKey": "임영웅 팬들",
-      "issueTitle": "임영웅 팬들",
-      "trendTitle": "임영웅 팬들",
+      "id": "0bda61a54af46aab",
+      "issueKey": "mlb",
+      "issueTitle": "mlb",
+      "trendTitle": "mlb",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Tampa Bay ace battles through tight rest schedule, lifts team to World Series - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/20/QW6JS4PTI5DHFO436A2MYFJBRU/",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Tampa Bay Beats Cleveland for Second Straight Day to Take 3-2 Lead in ALCS",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008804012",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Rays finish off Guards to set up World Series clash vs. Crew",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/rays-win-alcs-2026",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "mlb",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/10/20/QW6JS4PTI5DHFO436A2MYFJBRU/",
+        "publishedAt": "2026-10-20T06:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T06:50:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "mlb",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-sports/2026/10/20/QW6JS4PTI5DHFO436A2MYFJBRU/",
+      "rank": 5
+    },
+    {
+      "id": "643c70cb0350f86a",
+      "issueKey": "시위",
+      "issueTitle": "시위",
+      "trendTitle": "시위",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "임영웅 팬클럽 ‘라온’, 64번째 사랑의 밥상…65개월 나눔으로 쌓아 올린 2억4,680만원의 따뜻한 동행",
-          "source": "톱스타뉴스",
-          "url": "https://www.topstarnews.net/news/articleView.html?idxno=16251974",
-          "publishedAt": "2026-10-19T22:00:00.000Z",
+          "title": "쑥대밭된 파리 '야간통행 금지령'...프랑스 현지 상황은?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610201407358877",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "임영웅 팬들, 5년 넘게 이어온 나눔…누적 후원금만 2억4680만원",
-          "source": "스포츠서울",
-          "url": "https://www.sportsseoul.com/news/read/1642548",
-          "publishedAt": "2026-10-19T22:00:00.000Z",
+          "title": "佛경찰 발로 찬 14세, 최루탄 맞고 폭행당해 턱뼈 부러져",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261020/134873417/1",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "임영웅 팬클럽 '영웅시대 라온', 중증장애아동 위해 64번째 급식봉사…누적 후원 2억 4천만원 돌파",
-          "source": "세계뉴스통신",
-          "url": "https://www.segyenewsagency.com/news/articleView.html?idxno=643116",
-          "publishedAt": "2026-10-19T22:00:00.000Z",
+          "title": "루이비통·디올 털어간 뒤 벌어진 일…프랑스 ‘수상한 명품’ 중고거래 앱에 속속 등장 [이윤정 기자의 소소월드]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610200951001",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "임영웅 팬들, 5년 넘게 이어온 나눔…누적 후원금만 2억4680만원",
-        "source": "스포츠서울",
-        "url": "https://www.sportsseoul.com/news/read/1642548",
-        "publishedAt": "2026-10-19T22:00:00.000Z",
-        "relevanceScore": 2
+        "title": "시위",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202610201407358877",
+        "publishedAt": "2026-10-20T06:50:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-10-19T22:00:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "임영웅 팬들",
-      "source": "스포츠서울",
-      "url": "https://www.sportsseoul.com/news/read/1642548",
+      "publishedAt": "2026-10-20T06:50:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "시위",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0104_202610201407358877",
+      "rank": 6
+    },
+    {
+      "id": "6a6f4c8e331e56b1",
+      "issueKey": "폐교",
+      "issueTitle": "폐교",
+      "trendTitle": "폐교",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "천호성 전북교육감 \"폐교 활용 계획, 주민 의견 적극 반영해야\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/local/jeonbuk/6324471",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "교육혁신 속도…천호성 교육감, 폐교 활용·교장공모제 확대",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2637379",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전북교육청, 폐교 활용 공모…지역과 상생하는 활용모델 발굴",
+          "source": "아주경제",
+          "url": "https://www.ajunews.com/view/20261018101500324",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "천호성 전북교육감 \"폐교 활용 계획, 주민 의견 적극 반영해야\"",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/local/jeonbuk/6324471",
+        "publishedAt": "2026-10-20T06:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T06:50:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "폐교",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/local/jeonbuk/6324471",
+      "rank": 7
+    },
+    {
+      "id": "86a2ff8d438c9c6b",
+      "issueKey": "미어캣",
+      "issueTitle": "미어캣",
+      "trendTitle": "미어캣",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“달아나는 미어캣 붙잡아 펜치로…” 실내 동물원 ‘충격 학대’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261020580140",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[단독] 꼬리 집어 들고 펜치로 '쿵'‥\"미어캣이 공격해 훈육했다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859118_37004.html",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "펜치로 미어캣 코·입 비틀어…37마리 학대·방치한 실내동물원",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1283204.html",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“달아나는 미어캣 붙잡아 펜치로…” 실내 동물원 ‘충격 학대’",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20261020580140",
+        "publishedAt": "2026-10-20T06:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T06:40:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "미어캣",
+      "source": "경기일보",
+      "url": "https://www.kyeonggi.com/article/20261020580140",
       "rank": 8
+    },
+    {
+      "id": "411d7b125ebe4e7c",
+      "issueKey": "추억은 그대로",
+      "issueTitle": "추억은 그대로",
+      "trendTitle": "추억은 그대로",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"이틀 뒤 깨어난다던 그 술\"…11년 만에 돌아오자 품절 대란 [권용훈의 트렌드워치]",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202610202046i",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "돌아온 ‘캪틴큐’, 한정판 위스키…편의점 취향저격 ‘酒목’",
+          "source": "국제신문",
+          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&amp;key=20261019.22015005018",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "추억은 그대로, 맛은 새롭게…식품업계에 부는 재출시 '바람'",
+          "source": "Daum",
+          "url": "https://v.daum.net/v/9aIfeAu50w",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "추억은 그대로, 맛은 새롭게…식품업계에 부는 재출시 '바람'",
+        "source": "Daum",
+        "url": "https://v.daum.net/v/9aIfeAu50w",
+        "publishedAt": "2026-10-20T06:40:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-10-20T06:40:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "추억은 그대로",
+      "source": "Daum",
+      "url": "https://v.daum.net/v/9aIfeAu50w",
+      "rank": 9
+    },
+    {
+      "id": "86cb2a1d82b7c25f",
+      "issueKey": "박해철",
+      "issueTitle": "박해철",
+      "trendTitle": "박해철",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[영상] 폭우 날 ‘배수구 낙엽’ 맨손으로 퍼낸 국회의원…“칭찬해” “쇼 같음”",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/politics/politics_general/1283190.html",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"의원 이름표 달고 배수로 청소?\"…알고 보니 직전 지역행사 명찰",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202610201406237875",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "폭우 속 양복 젖은 채 배수로 낙엽 치운 국회의원…반응 엇갈려",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261019_0003832388",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박해철",
+        "source": "한겨레",
+        "url": "https://www.hani.co.kr/arti/politics/politics_general/1283190.html",
+        "publishedAt": "2026-10-20T06:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T06:40:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "박해철",
+      "source": "한겨레",
+      "url": "https://www.hani.co.kr/arti/politics/politics_general/1283190.html",
+      "rank": 10
     }
   ],
   "history": [
@@ -851,50 +945,96 @@
       "url": "http://incheonilbo.com/news/articleView.html?idxno=1334367"
     },
     {
-      "id": "2a37c291aebc6a80",
-      "issueKey": "사위",
-      "issueTitle": "사위",
-      "trendTitle": "사위",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "02d0944245c215d4",
+      "issueKey": "이게 가능해",
+      "issueTitle": "이게 가능해",
+      "trendTitle": "이게 가능해",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "아기한테 ‘뽀로로’ 보여줬다고…장모에게 소리 지른 사위",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11624205",
-          "publishedAt": "2026-10-18T01:40:00.000Z",
+          "title": "‘한국은 이게 가능해?’…CNN이 주목한 서울 지하철",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323868",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“월 120씩 드리는데!” 손주 유튜브 보여준 장모에 ‘버럭’한 사위…보여주면 안 되나요?[불꽃육아]",
-          "source": "서울Pn",
-          "url": "https://m.go.seoul.co.kr/news/society/2026/10/17/20261017500055",
-          "publishedAt": "2026-10-18T01:40:00.000Z",
+          "title": "“이걸 매일 탄다니, 대박” 한국 부럽다는 외국인들…‘세계 최고 수준’ 난리난 이것 [월드픽]",
+          "source": "TWIG",
+          "url": "https://www.twig24.com/news/world/global-topic/2026/10/20/20261020500008",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"매달 120만원 주잖아요\"…손주에 유튜브 보여줬다고 장모에 소리친 사위",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026101807234204252",
-          "publishedAt": "2026-10-18T01:40:00.000Z",
+          "title": "서울 지하철에 놀란 CNN “좌석에 이런 기능이…세계 최고 수준”",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261019070313081",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "아기한테 ‘뽀로로’ 보여줬다고…장모에게 소리 지른 사위",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11624205",
-        "publishedAt": "2026-10-18T01:40:00.000Z",
+        "title": "‘한국은 이게 가능해?’…CNN이 주목한 서울 지하철",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12323868",
+        "publishedAt": "2026-10-20T06:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-18T01:40:00.000Z",
-      "firstSeenAt": "2026-10-18T03:20:28.775Z",
-      "lastSeenAt": "2026-10-18T03:20:28.775Z",
-      "title": "사위",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11624205"
+      "publishedAt": "2026-10-20T06:50:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "이게 가능해",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12323868"
+    },
+    {
+      "id": "0bda61a54af46aab",
+      "issueKey": "mlb",
+      "issueTitle": "mlb",
+      "trendTitle": "mlb",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Tampa Bay ace battles through tight rest schedule, lifts team to World Series - CHOSUNBIZ",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/en/en-sports/2026/10/20/QW6JS4PTI5DHFO436A2MYFJBRU/",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Tampa Bay Beats Cleveland for Second Straight Day to Take 3-2 Lead in ALCS",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008804012",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Rays finish off Guards to set up World Series clash vs. Crew",
+          "source": "MLB.com",
+          "url": "https://www.mlb.com/news/rays-win-alcs-2026",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "mlb",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/en/en-sports/2026/10/20/QW6JS4PTI5DHFO436A2MYFJBRU/",
+        "publishedAt": "2026-10-20T06:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T06:50:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "mlb",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/en/en-sports/2026/10/20/QW6JS4PTI5DHFO436A2MYFJBRU/"
     },
     {
       "id": "97f3daf2cd9126d8",
@@ -1403,52 +1543,6 @@
       "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101816407276700"
     },
     {
-      "id": "5e3c3066e9f3c429",
-      "issueKey": "la 갤럭시 대 샌디에이고 fc",
-      "issueTitle": "la 갤럭시 대 샌디에이고 fc",
-      "trendTitle": "la 갤럭시 대 샌디에이고 fc",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "LA Galaxy vs San Diego Prediction, Betting Tips, Lineups & Odds | 17 Oct 2026",
-          "source": "Sportsgambler",
-          "url": "https://www.sportsgambler.com/betting-tips/football/la-galaxy-vs-san-diego-prediction-lineups-odds-2026-10-17/",
-          "publishedAt": "2026-10-18T02:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "#BeatLA | Watch Party this Saturday, October 17!",
-          "source": "sandiegofc.com",
-          "url": "https://www.sandiegofc.com/news/beatla-watch-party-this-saturday-october-17",
-          "publishedAt": "2026-10-18T02:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Live Los Angeles Galaxy vs San Diego: Los Angeles Galaxy opens the scoring.",
-          "source": "Báo Nghệ An",
-          "url": "https://baonghean.vn/en/truc-tiep-los-angeles-galaxy-vs-san-diego-los-angeles-galaxy-mo-ty-so-10353767.html",
-          "publishedAt": "2026-10-18T02:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "la 갤럭시 대 샌디에이고 fc",
-        "source": "Sportsgambler",
-        "url": "https://www.sportsgambler.com/betting-tips/football/la-galaxy-vs-san-diego-prediction-lineups-odds-2026-10-17/",
-        "publishedAt": "2026-10-18T02:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-18T02:00:00.000Z",
-      "firstSeenAt": "2026-10-18T03:20:28.775Z",
-      "lastSeenAt": "2026-10-18T03:20:28.775Z",
-      "title": "la 갤럭시 대 샌디에이고 fc",
-      "source": "Sportsgambler",
-      "url": "https://www.sportsgambler.com/betting-tips/football/la-galaxy-vs-san-diego-prediction-lineups-odds-2026-10-17/"
-    },
-    {
       "id": "4fd55119ffaeb0cf",
       "issueKey": "맨시티",
       "issueTitle": "맨시티",
@@ -1507,6 +1601,52 @@
       "title": "맨시티",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261018009400007"
+    },
+    {
+      "id": "86a2ff8d438c9c6b",
+      "issueKey": "미어캣",
+      "issueTitle": "미어캣",
+      "trendTitle": "미어캣",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "“달아나는 미어캣 붙잡아 펜치로…” 실내 동물원 ‘충격 학대’",
+          "source": "경기일보",
+          "url": "https://www.kyeonggi.com/article/20261020580140",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[단독] 꼬리 집어 들고 펜치로 '쿵'‥\"미어캣이 공격해 훈육했다\"",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859118_37004.html",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "펜치로 미어캣 코·입 비틀어…37마리 학대·방치한 실내동물원",
+          "source": "한겨레",
+          "url": "https://www.hani.co.kr/arti/animalpeople/human_animal/1283204.html",
+          "publishedAt": "2026-10-20T06:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“달아나는 미어캣 붙잡아 펜치로…” 실내 동물원 ‘충격 학대’",
+        "source": "경기일보",
+        "url": "https://www.kyeonggi.com/article/20261020580140",
+        "publishedAt": "2026-10-20T06:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T06:40:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "미어캣",
+      "source": "경기일보",
+      "url": "https://www.kyeonggi.com/article/20261020580140"
     },
     {
       "id": "1fa01e74fc306ddf",
@@ -2107,142 +2247,96 @@
       "url": "https://bongda.com.vn/diem-sang-hiem-hoi-cua-mu-va-lo-hong-tu-lisandro-martinez-d851564.html"
     },
     {
-      "id": "022a6bb64232cc14",
-      "issueKey": "증권",
-      "issueTitle": "증권",
-      "trendTitle": "증권",
+      "id": "b594057a0b9d32ca",
+      "issueKey": "눈사태",
+      "issueTitle": "눈사태",
+      "trendTitle": "눈사태",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "DS증권, 한화에어로 목표가↓…\"4분기엔 호실적 기대\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020026400008",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘3분기 어닝 쇼크’ 방산주에도 반등…\"연말 대형 수주이벤트 집중”",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202610190754i",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'3분기 실적 우려'에…방산株 일제히 하락 [종목 NOW]",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202610190928246411",
-          "publishedAt": "2026-10-19T22:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "DS증권, 한화에어로 목표가↓…\"4분기엔 호실적 기대\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020026400008",
-        "publishedAt": "2026-10-19T22:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-19T22:30:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "증권",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261020026400008"
-    },
-    {
-      "id": "2628f432316ca767",
-      "issueKey": "전지전능 안해",
-      "issueTitle": "송영길",
-      "trendTitle": "송영길",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "“서울 인근 뚫렸나?”…“미, 바보 같은 실수도”",
+          "title": "알래스카 눈사태 속 행방불명 반려견…50시간 만에 극적 생환 [잇슈 SNS]",
           "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689443",
-          "publishedAt": "2026-10-19T22:20:00.000Z",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8689726",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "송영길 “미 정보 절대 전지전능 안해···바보같은 실수 많이 했다”",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202610191651001",
-          "publishedAt": "2026-10-19T22:20:00.000Z",
+          "title": "눈사태에 실종된 반려견…50시간 수색 끝에 ’기적의 생환’",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261020093619jJs",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“미 정보 잘못 많아”…육참총장은 다른 답변",
-          "source": "채널A",
-          "url": "https://ichannela.com/news/detail/000000555836.do",
-          "publishedAt": "2026-10-19T22:20:00.000Z",
+          "title": "[영상] 눈사태로 실종된 반려견…'에어태그' 신호 따라가보니",
+          "source": "연합뉴스 한민족센터",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1427187",
+          "publishedAt": "2026-10-20T07:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "송영길 “미 정보 절대 전지전능 안해···바보같은 실수 많이 했다”",
-        "source": "주간경향",
-        "url": "https://weekly.khan.co.kr/article/202610191651001",
-        "publishedAt": "2026-10-19T22:20:00.000Z",
-        "relevanceScore": 2
+        "title": "알래스카 눈사태 속 행방불명 반려견…50시간 만에 극적 생환 [잇슈 SNS]",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8689726",
+        "publishedAt": "2026-10-20T07:00:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-10-19T22:20:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "송영길",
-      "source": "주간경향",
-      "url": "https://weekly.khan.co.kr/article/202610191651001"
+      "publishedAt": "2026-10-20T07:00:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "눈사태",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8689726"
     },
     {
-      "id": "104d92eae81e967e",
-      "issueKey": "폭락장에 물가",
-      "issueTitle": "폭락장에 물가",
-      "trendTitle": "폭락장에 물가",
+      "id": "643c70cb0350f86a",
+      "issueKey": "시위",
+      "issueTitle": "시위",
+      "trendTitle": "시위",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"구조대 안 오나요\" 폭락장에 물가·집값 뛰는데...정쟁만 '활활'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/10/20/2026101917440182088",
-          "publishedAt": "2026-10-19T22:10:00.000Z",
+          "title": "쑥대밭된 파리 '야간통행 금지령'...프랑스 현지 상황은?",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0104_202610201407358877",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"물타기할 돈도 없어\" 폭락장에 비명 터졌다...국정지지율도 '부담'",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/index.php/politics/2026/10/20/2026101917465066616",
-          "publishedAt": "2026-10-19T22:10:00.000Z",
+          "title": "佛경찰 발로 찬 14세, 최루탄 맞고 폭행당해 턱뼈 부러져",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261020/134873417/1",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"코스피 -40% 와르르\" 개미 피눈물 흘릴 때...정치권 딴 곳 봤다",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/politics/2026/10/19/2026101521570593206",
-          "publishedAt": "2026-10-19T22:10:00.000Z",
+          "title": "루이비통·디올 털어간 뒤 벌어진 일…프랑스 ‘수상한 명품’ 중고거래 앱에 속속 등장 [이윤정 기자의 소소월드]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202610200951001",
+          "publishedAt": "2026-10-20T06:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"구조대 안 오나요\" 폭락장에 물가·집값 뛰는데...정쟁만 '활활'",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/politics/2026/10/20/2026101917440182088",
-        "publishedAt": "2026-10-19T22:10:00.000Z",
+        "title": "시위",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0104_202610201407358877",
+        "publishedAt": "2026-10-20T06:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-19T22:10:00.000Z",
-      "firstSeenAt": "2026-10-20T00:06:47.375Z",
-      "lastSeenAt": "2026-10-20T00:06:47.375Z",
-      "title": "폭락장에 물가",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/politics/2026/10/20/2026101917440182088"
+      "publishedAt": "2026-10-20T06:50:00.000Z",
+      "firstSeenAt": "2026-10-20T08:13:42.614Z",
+      "lastSeenAt": "2026-10-20T08:13:42.614Z",
+      "title": "시위",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0104_202610201407358877"
     }
   ]
 }
