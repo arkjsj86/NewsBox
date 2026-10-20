@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-10-20T18:57:16.894Z",
+  "lastUpdatedAt": "2026-10-20T23:38:39.802Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "a5c02f904155dc13",
-      "issueKey": "민주",
-      "issueTitle": "민주",
-      "trendTitle": "민주",
+      "id": "125f91d23d54ae34",
+      "issueKey": "외환시장",
+      "issueTitle": "외환시장",
+      "trendTitle": "외환시장",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "원/달러 환율 1,325원 연저점 또 경신…원/엔 환율도",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261020131100002",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "수출 호조에 원화값 1320원대…연말 1200원대 후반 전망도",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1177722",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[외환-마감] '네고·옵션 셀'에 3거래일 연속 연저점",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440216",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "외환시장",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261020131100002",
+        "publishedAt": "2026-10-20T22:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T22:30:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "외환시장",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261020131100002",
+      "rank": 1
+    },
+    {
+      "id": "828295d1324fdace",
+      "issueKey": "문재인",
+      "issueTitle": "문재인",
+      "trendTitle": "문재인",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "문재인 전 대통령 ‘뇌물 혐의’ 국민참여재판 내년 1월 진행...증인 18명 채택",
+          "source": "JTBC",
+          "url": "https://news.jtbc.co.kr/article/NB12323911",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "문재인 전 대통령, 내년 1월 국민참여재판…딸·전 사위 등 18명 증인 출석",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56373",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "文 '3자 뇌물' 국민참여재판 내년 1월 11일 시작‥증인 18명 소환",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6859388_36918.html",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "문재인 전 대통령 ‘뇌물 혐의’ 국민참여재판 내년 1월 진행...증인 18명 채택",
+        "source": "JTBC",
+        "url": "https://news.jtbc.co.kr/article/NB12323911",
+        "publishedAt": "2026-10-20T22:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T22:30:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "문재인",
+      "source": "JTBC",
+      "url": "https://news.jtbc.co.kr/article/NB12323911",
+      "rank": 2
+    },
+    {
+      "id": "9b8397fdab4c3044",
+      "issueKey": "일기예보",
+      "issueTitle": "일기예보",
+      "trendTitle": "일기예보",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "대통령 지지율 46.4%…호남서만 긍정평가 더 높아-여론조사꽃",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11624578",
-          "publishedAt": "2026-10-20T16:40:00.000Z",
+          "title": "2026년 10월 21일 날씨 예보: 베트남 북부 지역에 \"이례적인\" 한랭 전선이 영향을 미칠 것으로 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "李 지지율 '3주 만에 반등' 37.3%‥민주·국힘 오차범위 내",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html",
-          "publishedAt": "2026-10-20T16:40:00.000Z",
+          "title": "약한 찬 공기가 곧 유입될 예정이며, 내일 오후 지역에 뇌우가 예상됩니다",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/moi-truong/sap-don-khong-khi-lanh-yeu-du-bao-khu-vuc-kha-nang-mua-dong-chieu-mai-1786442.ldo",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "지지율 20% 목전, '데드캣 바운스' … '자기 최면' 빠진 李 대통령",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/10/20/2026102000326.html",
-          "publishedAt": "2026-10-20T16:40:00.000Z",
+          "title": "한랭 전선의 영향으로 탄화에서 후에에 이르는 동북부 지역에 천둥번개가 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/anh-huong-khong-khi-lanh-dong-bac-bo-tu-thanh-hoa-den-hue-mua-dong",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "李 지지율 '3주 만에 반등' 37.3%‥민주·국힘 오차범위 내",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html",
-        "publishedAt": "2026-10-20T16:40:00.000Z",
-        "relevanceScore": 2
+        "title": "일기예보",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong",
+        "publishedAt": "2026-10-20T22:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-10-20T16:40:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "민주",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/politics/article/6858913_36911.html",
-      "rank": 1
+      "publishedAt": "2026-10-20T22:20:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "일기예보",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong",
+      "rank": 3
     },
     {
-      "id": "a38f71e33856a181",
-      "issueKey": "pakistan national cricket team vs england cricket team standings",
-      "issueTitle": "pakistan national cricket team vs england cricket team standings",
-      "trendTitle": "pakistan national cricket team vs england cricket team standings",
+      "id": "e5e72beb4e3c6926",
+      "issueKey": "weather",
+      "issueTitle": "weather",
+      "trendTitle": "weather",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Pakistan's Arafat Minhas' dream outing crushes England",
-          "source": "Cricbuzz",
-          "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england",
-          "publishedAt": "2026-10-20T16:30:00.000Z",
+          "title": "Denver weather: More sunshine and mild temperatures Tuesday",
+          "source": "Denver Gazette",
+          "url": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad75b198f08ed94496495e5",
-          "publishedAt": "2026-10-20T16:30:00.000Z",
+          "title": "A warm week is on tap for southern Colorado with mountain shower chances",
+          "source": "KOAA News 5",
+          "url": "https://www.koaa.com/weather/a-warm-week-is-on-tap-for-southern-colorado-with-mountain-shower-chances",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "England chasing 303 to beat Pakistan in men’s tri-series cricket ODI – live",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/20/pakistan-v-england-mens-tri-series-cricket-odi-live?page=with:block-6ad771fa8f08e4aec9158a84",
-          "publishedAt": "2026-10-20T16:30:00.000Z",
+          "title": "Warmer rest of the week with mountain showers",
+          "source": "KKTV",
+          "url": "https://www.kktv.com/2026/10/19/warmer-rest-week-with-mountain-showers/",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "pakistan national cricket team vs england cricket team standings",
-        "source": "Cricbuzz",
-        "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england",
-        "publishedAt": "2026-10-20T16:30:00.000Z",
+        "title": "Denver weather: More sunshine and mild temperatures Tuesday",
+        "source": "Denver Gazette",
+        "url": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/",
+        "publishedAt": "2026-10-20T22:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-20T16:30:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "pakistan national cricket team vs england cricket team standings",
-      "source": "Cricbuzz",
-      "url": "https://m.cricbuzz.com/cricket-news/140591/arafat-minhas-dream-outing-crushes-england",
-      "rank": 2
-    },
-    {
-      "id": "f02984996ecbf913",
-      "issueKey": "유관순 비하",
-      "issueTitle": "스디파",
-      "trendTitle": "스디파",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_sn/0117_202610131018120500",
-          "publishedAt": "2026-10-20T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "SM 이름 앞세운 캐스퍼, 유관순 비하·마약의혹 BJ와 '스디파' 홍보 \"공정성 논란\"[SC이슈]",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/",
-          "publishedAt": "2026-10-20T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘스디파’, 오늘(20일) 파이널 생방송…마지막 디렉터 크레딧 주인공 탄생",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112895245",
-          "publishedAt": "2026-10-20T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "SM 이름 앞세운 캐스퍼, 유관순 비하·마약의혹 BJ와 '스디파' 홍보 \"공정성 논란\"[SC이슈]",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/",
-        "publishedAt": "2026-10-20T15:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-10-20T15:10:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "스디파",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/entertainments/enter_general/2026/10/20/HAZGCYJTMRSDMZRXMJSTQNJVMM/",
-      "rank": 3
-    },
-    {
-      "id": "e7dfc2073891ae47",
-      "issueKey": "종전",
-      "issueTitle": "종전",
-      "trendTitle": "종전",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이란 혁명수비대 \"호르무즈서 유조선 2척 기뢰 충돌‥운항 중단\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6859415_36925.html",
-          "publishedAt": "2026-10-20T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"이란, 호르무즈서 선박 기관실 집중 공격…선박 부족 우려\"",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008807066",
-          "publishedAt": "2026-10-20T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 지연\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020178400071",
-          "publishedAt": "2026-10-20T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"이란, 중간선거 앞둔 트럼프에 타격 주려 종전협상 지연\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020178400071",
-        "publishedAt": "2026-10-20T15:10:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-10-20T15:10:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "종전",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261020178400071",
+      "publishedAt": "2026-10-20T22:20:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "weather",
+      "source": "Denver Gazette",
+      "url": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/",
       "rank": 4
     },
     {
-      "id": "73c1aa3cfcbf1154",
-      "issueKey": "임라라",
-      "issueTitle": "임라라",
-      "trendTitle": "임라라",
+      "id": "27ea359ed53c7509",
+      "issueKey": "псж барселона турнирная таблица",
+      "issueTitle": "псж – барселона турнирная таблица",
+      "trendTitle": "псж – барселона турнирная таблица",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "임라라♥손민수, 쌍둥이 남매 초호화 돌잔치 공개..28년차 인기가수 축하무대(슈돌) - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/",
-          "publishedAt": "2026-10-20T15:00:00.000Z",
+          "title": "Сафонов сделал сейв при выходе один на один в конце первого тайма в матче с «Барселоной",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "임라라, 쌍둥이 첫돌에 결국 눈물…“밤새 직접 노래 가사 써” (슈돌)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261020/134871764/1",
-          "publishedAt": "2026-10-20T15:00:00.000Z",
+          "title": "\"Барселона\" поразила ворота Сафонова",
+          "source": "Sport.ru",
+          "url": "https://www.sport.ru/football/barselona-porazila-vorota-safonova/article661715/",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“그냥 돌잔치 아니다” 임라라♥손민수, ‘슈돌’서 초호화 돌잔치 현장 공개…촬영 인력만 45명 투입",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202610200936003",
-          "publishedAt": "2026-10-20T15:00:00.000Z",
+          "title": "Текстовая трансляция ПСЖ - Барселона:",
+          "source": "Sport24.ru",
+          "url": "https://sport24.ru/football/leagues/uefa-champions-league/match/pari-sen-zhermen-barselona-2026-10-20/text-online",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "임라라♥손민수, 쌍둥이 남매 초호화 돌잔치 공개..28년차 인기가수 축하무대(슈돌) - 조선비즈",
-        "source": "Chosunbiz",
-        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/",
-        "publishedAt": "2026-10-20T15:00:00.000Z",
+        "title": "псж – барселона турнирная таблица",
+        "source": "https://www.championat.ru/",
+        "url": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html",
+        "publishedAt": "2026-10-20T22:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-20T15:00:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "임라라",
-      "source": "Chosunbiz",
-      "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/20/GEZWMMRVGI4TIZJYGRRTGMZWGI/",
+      "publishedAt": "2026-10-20T22:20:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "псж – барселона турнирная таблица",
+      "source": "https://www.championat.ru/",
+      "url": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html",
       "rank": 5
     },
     {
-      "id": "3d63a9719ab067f9",
-      "issueKey": "허윤동",
-      "issueTitle": "허윤동",
-      "trendTitle": "허윤동",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "87480c5a4819536e",
+      "issueKey": "windy",
+      "issueTitle": "windy",
+      "trendTitle": "windy",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "'PO 코앞' 삼성, 10명 무더기 방출…1라운더도 짐 쌌다",
-          "source": "노컷뉴스",
-          "url": "https://www.nocutnews.co.kr/news/6593351",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "title": "Cooler, windy day ahead Wednesday",
+          "source": "WHDH",
+          "url": "https://whdh.com/news/cooler-windy-day-ahead-wednesday/",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "프로야구 삼성, '1라운드 왼팔' 허윤동 포함 10명 방출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261019076600007",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "title": "Video: Sunny, but breezy day ahead",
+          "source": "WCVB",
+          "url": "https://www.wcvb.com/article/video-sunny-but-breezy-day-ahead/74189928",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'13연패 끊었던 영웅도, 이정후가 극찬한 유망주도…' 삼성, 양현·허윤동·홍현빈 등 10명과 결별",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112894978",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "title": "Video: Gusty Tuesday, sunny weekend ahead",
+          "source": "Yahoo",
+          "url": "https://www.yahoo.com/news/videos/video-gusty-tuesday-sunny-weekend-202523744.html",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "프로야구 삼성, '1라운드 왼팔' 허윤동 포함 10명 방출",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261019076600007",
-        "publishedAt": "2026-10-20T14:50:00.000Z",
-        "relevanceScore": 2
+        "title": "Cooler, windy day ahead Wednesday",
+        "source": "WHDH",
+        "url": "https://whdh.com/news/cooler-windy-day-ahead-wednesday/",
+        "publishedAt": "2026-10-20T22:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-10-20T14:50:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "허윤동",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261019076600007",
+      "publishedAt": "2026-10-20T22:20:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "windy",
+      "source": "WHDH",
+      "url": "https://whdh.com/news/cooler-windy-day-ahead-wednesday/",
       "rank": 6
     },
     {
-      "id": "88841a41297d4ac8",
-      "issueKey": "트럼프",
-      "issueTitle": "트럼프",
-      "trendTitle": "트럼프",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "031db6de4f16f672",
+      "issueKey": "조혜련",
+      "issueTitle": "조혜련",
+      "trendTitle": "조혜련",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"민주당 장악, 재앙 닥칠 것\" 경고…백악관 참모들 ‘나부터 살자’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323951",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "title": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MIYTKOBRGRRWIYRSGIYTONTEGA/",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "title": "6년간 '339억' 거래..김수용, 주식 큰손이었다? \"단타로 1억 벌었다고\"('물린음악회')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896023",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "연방의회 권력 지형 ‘요동’…“민주 유리, 공화 암울”",
-          "source": "미주한국일보",
-          "url": "http://www.koreatimes.com/article/20261020/1634532",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
+          "title": "한 달 수입 16만원이었다..조혜련 \"공장에서 일하기도\" 회상 ('물린음악회')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261020091940116",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
-        "publishedAt": "2026-10-20T14:50:00.000Z",
-        "relevanceScore": 2
+        "title": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MIYTKOBRGRRWIYRSGIYTONTEGA/",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-10-20T14:50:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "트럼프",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "조혜련",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MIYTKOBRGRRWIYRSGIYTONTEGA/",
       "rank": 7
     },
     {
-      "id": "5b604817730cee26",
-      "issueKey": "까지 접근",
-      "issueTitle": "까지 접근",
-      "trendTitle": "레이더",
+      "id": "a81b40783692730f",
+      "issueKey": "오늘날씨",
+      "issueTitle": "오늘날씨",
+      "trendTitle": "오늘날씨",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[날씨] 오전까지 곳곳 비...비 그친 뒤 기온 '뚝'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전남광주, 찬공기에 한낮 18도…시속 55㎞ 강풍 '체감 뚝'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834210",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[날씨] 전국 곳곳 아침 약한 비‥오후부터 쌀쌀해져",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859515_37012.html",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "오늘날씨",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "오늘날씨",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856",
+      "rank": 8
+    },
+    {
+      "id": "fddfb1d4f74de621",
+      "issueKey": "미군",
+      "issueTitle": "미군",
+      "trendTitle": "미군",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610201715001",
-          "publishedAt": "2026-10-20T14:30:00.000Z",
+          "title": "美육군 \"중국과 분쟁 발발 첫날부터 총전력 투입\"… 새 지침 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/10/21/PIP3Y7C6NNHFPJV3WCPIEDL2XQ/",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "우크라 쓰는 위성에 슬금슬금… 러, 우주서 무언의 위협 압박?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/10/20/673USABRFVHCLCLFRLAEOF7RZQ/",
-          "publishedAt": "2026-10-20T14:30:00.000Z",
+          "title": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "러, '킬러위성' 가동했나…美 레이더위성 수백미터 앞 접근",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020137600009",
-          "publishedAt": "2026-10-20T14:30:00.000Z",
+          "title": "美 ‘中 최우선 위협’ 상정 새 전투지침… “대만방어 일관된 입장” 한미일 협력 강조",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624818",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "러 위성, ‘우크라군 정보 제공’ 미 위성에 500m까지 접근···“전례 없는 기동”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202610201715001",
-        "publishedAt": "2026-10-20T14:30:00.000Z",
-        "relevanceScore": 3
+        "title": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-10-20T14:30:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "까지 접근",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202610201715001",
-      "rank": 8
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "미군",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2",
+      "rank": 9
     },
     {
-      "id": "2af60e64cf2e5e8a",
-      "issueKey": "south africa vs australia",
-      "issueTitle": "south africa vs australia",
-      "trendTitle": "south africa vs australia",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "22aebd7a8bd20521",
+      "issueKey": "새만금",
+      "issueTitle": "새만금",
+      "trendTitle": "새만금",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Australia limp to 3-1 after South Africa post 425-9 on day three of men’s second Test – as it happened",
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/sport/live/2026/oct/20/south-africa-v-australia-second-test-day-three-cricket-st-georges-park-gqeberha-live-updates",
-          "publishedAt": "2026-10-20T14:20:00.000Z",
+          "title": "전북특별자치도 · 새만금개발청, '협업' 현대차 투자 지원 실무협의체 운영",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724642",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "South Africa vs Australia: Hosts' batting issues exposed again as Scott Boland takes four",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo",
-          "publishedAt": "2026-10-20T14:20:00.000Z",
+          "title": "전주시, 2026년 전주시 수소산업 심포지엄 개최",
+          "source": "전북엔비전",
+          "url": "https://www.jnv.co.kr/news/articleView.html?idxno=15601",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'The new Little Master!' Dale Steyn crowns South African skipper Temba Bavuma with ultimate moniker after majestic 179 vs Australia in Gqeberha",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/little-master-dale-steyn-crowns-171142714.html",
-          "publishedAt": "2026-10-20T14:20:00.000Z",
+          "title": "전북테크노파크 에너지산업육성단장 김영권 ‘R&D 혁신을 통한 전주시 수소모빌리티 생태계 구축 방안’",
+          "source": "전북도민일보",
+          "url": "https://www.domin.co.kr/news/articleView.html?idxno=1571571&amp;sc_section_code=S1N8",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "South Africa vs Australia: Hosts' batting issues exposed again as Scott Boland takes four",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo",
-        "publishedAt": "2026-10-20T14:20:00.000Z",
-        "relevanceScore": 2
+        "title": "전북특별자치도 · 새만금개발청, '협업' 현대차 투자 지원 실무협의체 운영",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724642",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-10-20T14:20:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "south africa vs australia",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/cricket/articles/c6rmy4mzl4wyo",
-      "rank": 9
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "새만금",
+      "source": "국제뉴스",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724642",
+      "rank": 10
     }
   ],
   "history": [
@@ -528,6 +575,98 @@
       "title": "가짜 클로드",
       "source": "보안뉴스",
       "url": "https://www.boannews.com/news/articleView.html?idxno=146487"
+    },
+    {
+      "id": "e5e72beb4e3c6926",
+      "issueKey": "weather",
+      "issueTitle": "weather",
+      "trendTitle": "weather",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Denver weather: More sunshine and mild temperatures Tuesday",
+          "source": "Denver Gazette",
+          "url": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "A warm week is on tap for southern Colorado with mountain shower chances",
+          "source": "KOAA News 5",
+          "url": "https://www.koaa.com/weather/a-warm-week-is-on-tap-for-southern-colorado-with-mountain-shower-chances",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Warmer rest of the week with mountain showers",
+          "source": "KKTV",
+          "url": "https://www.kktv.com/2026/10/19/warmer-rest-week-with-mountain-showers/",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Denver weather: More sunshine and mild temperatures Tuesday",
+        "source": "Denver Gazette",
+        "url": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/",
+        "publishedAt": "2026-10-20T22:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T22:20:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "weather",
+      "source": "Denver Gazette",
+      "url": "https://www.denvergazette.com/2026/10/20/denver-weather-more-sunshine-and-mild-temperatures-tuesday/"
+    },
+    {
+      "id": "031db6de4f16f672",
+      "issueKey": "조혜련",
+      "issueTitle": "조혜련",
+      "trendTitle": "조혜련",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MIYTKOBRGRRWIYRSGIYTONTEGA/",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "6년간 '339억' 거래..김수용, 주식 큰손이었다? \"단타로 1억 벌었다고\"('물린음악회')",
+          "source": "OSEN",
+          "url": "https://www.osen.co.kr/article/G1112896023",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한 달 수입 16만원이었다..조혜련 \"공장에서 일하기도\" 회상 ('물린음악회')",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261020091940116",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "엄마가 조혜련인데? \"아들 우주, 학자금 대출 받게 해..독립 위해\" 눈길 - 조선비즈",
+        "source": "Chosunbiz",
+        "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MIYTKOBRGRRWIYRSGIYTONTEGA/",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "조혜련",
+      "source": "Chosunbiz",
+      "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/21/MIYTKOBRGRRWIYRSGIYTONTEGA/"
     },
     {
       "id": "a38f71e33856a181",
@@ -668,188 +807,50 @@
       "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610190557195971fbbec65dfb_1"
     },
     {
-      "id": "e213c9d789feae18",
-      "issueKey": "탬파베이",
-      "issueTitle": "탬파베이",
-      "trendTitle": "탬파베이",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "a81b40783692730f",
+      "issueKey": "오늘날씨",
+      "issueTitle": "오늘날씨",
+      "trendTitle": "오늘날씨",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "탬파베이, 클리블랜드에 짜릿한 역전승…ALCS 2승 2패 승부 원점",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261018025500007",
-          "publishedAt": "2026-10-18T21:30:00.000Z",
+          "title": "[날씨] 오전까지 곳곳 비...비 그친 뒤 기온 '뚝'",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "“늦게 핀 꽃이 더 아름답다” 35살에 첫 올스타 선정된 탬파베이 닉 마르티네스, 위기에 빠진 팀을 구해내다 [ALCS 4차전]",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261018509579",
-          "publishedAt": "2026-10-18T21:30:00.000Z",
+          "title": "전남광주, 찬공기에 한낮 18도…시속 55㎞ 강풍 '체감 뚝'",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261021_0003834210",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "'추강대엽이 맞았다' CLE가 인정한 전설, 추신수 19일 ALCS 시구자 등판 \"PS서 날 떠올려줘 큰 영광\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/10/18/2026101718395454812",
-          "publishedAt": "2026-10-18T21:30:00.000Z",
+          "title": "[날씨] 전국 곳곳 아침 약한 비‥오후부터 쌀쌀해져",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859515_37012.html",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "탬파베이, 클리블랜드에 짜릿한 역전승…ALCS 2승 2패 승부 원점",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261018025500007",
-        "publishedAt": "2026-10-18T21:30:00.000Z",
+        "title": "오늘날씨",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-18T21:30:00.000Z",
-      "firstSeenAt": "2026-10-18T22:48:24.846Z",
-      "lastSeenAt": "2026-10-18T22:48:24.846Z",
-      "title": "탬파베이",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261018025500007"
-    },
-    {
-      "id": "590f2a3e6ebd6540",
-      "issueKey": "편의점",
-      "issueTitle": "편의점",
-      "trendTitle": "편의점",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"현금도 카드도 아닙니다\"…편의점까지 파고든 '결제 실험'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026101889081",
-          "publishedAt": "2026-10-18T18:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "KB국민카드, 日 SBI홀딩스와 맞손⋯AI 에이전트·스테이블코인 결제 실증",
-          "source": "이투데이",
-          "url": "https://www.etoday.co.kr/news/view/2635193",
-          "publishedAt": "2026-10-18T18:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“스테이블코인법 막바지 협의”…카드·페이사 준비 어디까지",
-          "source": "쿠키뉴스",
-          "url": "https://www.kukinews.com/article/view/kuk202610160098",
-          "publishedAt": "2026-10-18T18:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"현금도 카드도 아닙니다\"…편의점까지 파고든 '결제 실험'",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026101889081",
-        "publishedAt": "2026-10-18T18:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-18T18:50:00.000Z",
-      "firstSeenAt": "2026-10-18T20:10:56.761Z",
-      "lastSeenAt": "2026-10-18T20:10:56.761Z",
-      "title": "편의점",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026101889081"
-    },
-    {
-      "id": "c1d8da88be004cdf",
-      "issueKey": "경기 예측",
-      "issueTitle": "경기 예측",
-      "trendTitle": "경기 예측",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "! [FOX TV] 2026년 레알 마드리드 CF vs 세비야 FC - 무료 TV 중계",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2Vtb25mZmhzaHMtdGVjaC5naXRodWIuaW8vY29wYWsvaW5kZXgueG1sIi8+PC9rcnBhbm8+&amp;id=video-fox-tv-2026-cf-vs-fc-tv-kor",
-          "publishedAt": "2026-10-18T18:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "레알 마드리드 vs 세비야 축구 경기 예측: 엘 클라시코를 앞둔 도전 과제",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-real-madrid-vs-sevilla-bai-toan-truoc-sieu-kinh-dien",
-          "publishedAt": "2026-10-18T18:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "라리가: 레알에게 있어 홈 세비야 전은 반드시 이겨야 하는 경기다",
-          "source": "티스토리",
-          "url": "https://sbotopkr.tistory.com/2625",
-          "publishedAt": "2026-10-18T18:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "레알 마드리드 vs 세비야 축구 경기 예측: 엘 클라시코를 앞둔 도전 과제",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-real-madrid-vs-sevilla-bai-toan-truoc-sieu-kinh-dien",
-        "publishedAt": "2026-10-18T18:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-10-18T18:20:00.000Z",
-      "firstSeenAt": "2026-10-18T20:10:56.761Z",
-      "lastSeenAt": "2026-10-18T20:10:56.761Z",
-      "title": "경기 예측",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/nhan-dinh-bong-da-real-madrid-vs-sevilla-bai-toan-truoc-sieu-kinh-dien"
-    },
-    {
-      "id": "0856861b0a0d01f5",
-      "issueKey": "구성환",
-      "issueTitle": "구성환",
-      "trendTitle": "구성환",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'나혼산' 또 시끌...구성환 번지점프, 뭐가 문제였나",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101822193675760",
-          "publishedAt": "2026-10-18T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "감 잃은 ‘나혼산’ 조작 논란도 모자라 안전불감증까지? 아찔한 잡음 [MK★이슈]",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/entertain/12178669",
-          "publishedAt": "2026-10-18T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "구성환, 26살 연하 친구 공개..\"꽃분이 덕에 가까워져\" ('나혼산') - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/entertainment/enter_general/2026/10/17/GYZGIZBRGAYTCNRWGUZTEOBQGA/",
-          "publishedAt": "2026-10-18T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'나혼산' 또 시끌...구성환 번지점프, 뭐가 문제였나",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101822193675760",
-        "publishedAt": "2026-10-18T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-18T15:20:00.000Z",
-      "firstSeenAt": "2026-10-18T20:10:56.761Z",
-      "lastSeenAt": "2026-10-18T20:10:56.761Z",
-      "title": "구성환",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/10/18/2026101822193675760"
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "오늘날씨",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0108_202610210726264856"
     },
     {
       "id": "1c700a1d867e128d",
@@ -1450,6 +1451,52 @@
       "url": "https://www.sisaweek.com/news/articleView.html?idxno=238428"
     },
     {
+      "id": "9b8397fdab4c3044",
+      "issueKey": "일기예보",
+      "issueTitle": "일기예보",
+      "trendTitle": "일기예보",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "2026년 10월 21일 날씨 예보: 베트남 북부 지역에 \"이례적인\" 한랭 전선이 영향을 미칠 것으로 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "약한 찬 공기가 곧 유입될 예정이며, 내일 오후 지역에 뇌우가 예상됩니다",
+          "source": "Laodong.vn",
+          "url": "https://ko.laodong.vn/moi-truong/sap-don-khong-khi-lanh-yeu-du-bao-khu-vuc-kha-nang-mua-dong-chieu-mai-1786442.ldo",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "한랭 전선의 영향으로 탄화에서 후에에 이르는 동북부 지역에 천둥번개가 예상됩니다.",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/ko/anh-huong-khong-khi-lanh-dong-bac-bo-tu-thanh-hoa-den-hue-mua-dong",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "일기예보",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong",
+        "publishedAt": "2026-10-20T22:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T22:20:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "일기예보",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/ko/du-bao-thoi-tiet-21-10-2026-mien-bac-don-khong-khi-lanh-la-thuong"
+    },
+    {
       "id": "a5c02f904155dc13",
       "issueKey": "민주",
       "issueTitle": "민주",
@@ -1910,96 +1957,188 @@
       "url": "https://imnews.imbc.com/news/2026/politics/article/6859078_36911.html"
     },
     {
-      "id": "a2c563e421cf51b8",
-      "issueKey": "라리가",
-      "issueTitle": "라리가",
-      "trendTitle": "라리가",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "125f91d23d54ae34",
+      "issueKey": "외환시장",
+      "issueTitle": "외환시장",
+      "trendTitle": "외환시장",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "바르셀로나, 개막 9연승…새 역사까지 단 ‘1승’",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202610182033005",
-          "publishedAt": "2026-10-18T21:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'야말 1골 1도움' 바르사, 라리가 개막 최다 연승 타이 '9연승'",
+          "title": "원/달러 환율 1,325원 연저점 또 경신…원/엔 환율도",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261018012900007",
-          "publishedAt": "2026-10-18T21:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'충격, 이건 축구가 아니고 오락 게임이다' 9연승 39골 몰아쳤다, 바르셀로나 또 베티스 5-2 대파..'경기당 평균 4골 이상 폭발, 시즌 11연승→모든 대회 우승한다'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-football/2026/10/18/MQ3TGMDDMY3GMYRVMM3TKN3BMY/",
-          "publishedAt": "2026-10-18T21:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'야말 1골 1도움' 바르사, 라리가 개막 최다 연승 타이 '9연승'",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261018012900007",
-        "publishedAt": "2026-10-18T21:10:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-10-18T21:10:00.000Z",
-      "firstSeenAt": "2026-10-18T22:48:24.846Z",
-      "lastSeenAt": "2026-10-18T22:48:24.846Z",
-      "title": "라리가",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261018012900007"
-    },
-    {
-      "id": "ed1c0ce7ab01974e",
-      "issueKey": "nottm forest vs arsenal",
-      "issueTitle": "nottm forest vs arsenal",
-      "trendTitle": "nottm forest vs arsenal",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Nottingham Forest vs Arsenal: Premier League preview, team news, stats & head-to-head",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt",
-          "publishedAt": "2026-10-18T14:50:00.000Z",
+          "url": "https://www.yna.co.kr/view/AKR20261020131100002",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Nottingham Forest vs Arsenal Confirmed Lineups",
-          "source": "WhoScored.com",
-          "url": "https://www.whoscored.com/news/QqovyMqouE-oxDpgDl9qLQ/show/cng112-20261018-nottingham-forest-vs-arsenal-confirmed-lineup-1792333621",
-          "publishedAt": "2026-10-18T14:50:00.000Z",
+          "title": "수출 호조에 원화값 1320원대…연말 1200원대 후반 전망도",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1177722",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[LIVE FOOTBALL REPORT] Nottingham Forest vs Arsenal — Team Updates and Matchday Coverage",
-          "source": "Universidad de Córdoba (UCO)",
-          "url": "https://www.uco.es/scai/visita_virtual/SCAI%20UCO.html?&amp;xml=data:video/mp4;base64,PGtycGFubz48aW5jbHVkZSB1cmw9Ii9cL2dvcmVsYXgyNDcuY29tL3B4LyIvPjwva3JwYW5vPg==&amp;id=live_football_report_nottingham_forest_vs_arsenal_team_updates_and_matchday_coverage",
-          "publishedAt": "2026-10-18T14:50:00.000Z",
+          "title": "[외환-마감] '네고·옵션 셀'에 3거래일 연속 연저점",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4440216",
+          "publishedAt": "2026-10-20T22:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "nottm forest vs arsenal",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt",
-        "publishedAt": "2026-10-18T14:50:00.000Z",
+        "title": "외환시장",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261020131100002",
+        "publishedAt": "2026-10-20T22:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-10-18T14:50:00.000Z",
-      "firstSeenAt": "2026-10-18T20:10:56.761Z",
-      "lastSeenAt": "2026-10-18T20:10:56.761Z",
-      "title": "nottm forest vs arsenal",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cq62yg1vvl1lt"
+      "publishedAt": "2026-10-20T22:30:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "외환시장",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261020131100002"
+    },
+    {
+      "id": "27ea359ed53c7509",
+      "issueKey": "псж барселона турнирная таблица",
+      "issueTitle": "псж – барселона турнирная таблица",
+      "trendTitle": "псж – барселона турнирная таблица",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Сафонов сделал сейв при выходе один на один в конце первого тайма в матче с «Барселоной",
+          "source": "https://www.championat.ru/",
+          "url": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"Барселона\" поразила ворота Сафонова",
+          "source": "Sport.ru",
+          "url": "https://www.sport.ru/football/barselona-porazila-vorota-safonova/article661715/",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Текстовая трансляция ПСЖ - Барселона:",
+          "source": "Sport24.ru",
+          "url": "https://sport24.ru/football/leagues/uefa-champions-league/match/pari-sen-zhermen-barselona-2026-10-20/text-online",
+          "publishedAt": "2026-10-20T22:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "псж – барселона турнирная таблица",
+        "source": "https://www.championat.ru/",
+        "url": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html",
+        "publishedAt": "2026-10-20T22:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T22:20:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "псж – барселона турнирная таблица",
+      "source": "https://www.championat.ru/",
+      "url": "https://www.championat.ru/football/news-6665716-safonov-sdelal-sejv-pri-vyhode-1-na-1-v-konce-pervogo-tajma-v-matche-s-barselonoj.html"
+    },
+    {
+      "id": "fddfb1d4f74de621",
+      "issueKey": "미군",
+      "issueTitle": "미군",
+      "trendTitle": "미군",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "美육군 \"중국과 분쟁 발발 첫날부터 총전력 투입\"… 새 지침 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/international/us/2026/10/21/PIP3Y7C6NNHFPJV3WCPIEDL2XQ/",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "美 ‘中 최우선 위협’ 상정 새 전투지침… “대만방어 일관된 입장” 한미일 협력 강조",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11624818",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "미군, 中겨냥 제1도련선에 전력 집중 “전쟁 첫날 즉각 대응”",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "미군",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Inter/article/all/20261020/134878625/2"
+    },
+    {
+      "id": "22aebd7a8bd20521",
+      "issueKey": "새만금",
+      "issueTitle": "새만금",
+      "trendTitle": "새만금",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "전북특별자치도 · 새만금개발청, '협업' 현대차 투자 지원 실무협의체 운영",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724642",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "전주시, 2026년 전주시 수소산업 심포지엄 개최",
+          "source": "전북엔비전",
+          "url": "https://www.jnv.co.kr/news/articleView.html?idxno=15601",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "전북테크노파크 에너지산업육성단장 김영권 ‘R&D 혁신을 통한 전주시 수소모빌리티 생태계 구축 방안’",
+          "source": "전북도민일보",
+          "url": "https://www.domin.co.kr/news/articleView.html?idxno=1571571&amp;sc_section_code=S1N8",
+          "publishedAt": "2026-10-20T22:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "전북특별자치도 · 새만금개발청, '협업' 현대차 투자 지원 실무협의체 운영",
+        "source": "국제뉴스",
+        "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724642",
+        "publishedAt": "2026-10-20T22:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-10-20T22:10:00.000Z",
+      "firstSeenAt": "2026-10-20T23:38:39.802Z",
+      "lastSeenAt": "2026-10-20T23:38:39.802Z",
+      "title": "새만금",
+      "source": "국제뉴스",
+      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3724642"
     },
     {
       "id": "f02984996ecbf913",
@@ -2184,98 +2323,6 @@
       "title": "까지 접근",
       "source": "경향신문",
       "url": "https://www.khan.co.kr/article/202610201715001"
-    },
-    {
-      "id": "2f68e6ff70696d7e",
-      "issueKey": "임시완",
-      "issueTitle": "임시완",
-      "trendTitle": "임시완",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "임시완·설인아 주연 '나의 유죄인간' 5.6％ 출발",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261020035800005",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "카카오엔터 로맨스 IP ‘여자인 걸 왜 모르지?’ 드라마로 - 조선비즈",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/10/20/UZD2PR7PQJETZKQ3AK4SS7ZQFQ/",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘나의 유죄인간’ 김정현, 능청미 장착한 변호사 완벽 변신",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261020/134875398/1",
-          "publishedAt": "2026-10-20T12:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "임시완·설인아 주연 '나의 유죄인간' 5.6％ 출발",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261020035800005",
-        "publishedAt": "2026-10-20T12:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-10-20T12:10:00.000Z",
-      "firstSeenAt": "2026-10-20T14:07:52.410Z",
-      "lastSeenAt": "2026-10-20T14:07:52.410Z",
-      "title": "임시완",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261020035800005"
-    },
-    {
-      "id": "88841a41297d4ac8",
-      "issueKey": "트럼프",
-      "issueTitle": "트럼프",
-      "trendTitle": "트럼프",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"민주당 장악, 재앙 닥칠 것\" 경고…백악관 참모들 ‘나부터 살자’",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12323951",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "연방의회 권력 지형 ‘요동’…“민주 유리, 공화 암울”",
-          "source": "미주한국일보",
-          "url": "http://www.koreatimes.com/article/20261020/1634532",
-          "publishedAt": "2026-10-20T14:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "트럼프 지지율 31%로 더 추락…거센 심판론에 상·하원 판세 요동",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/international/america/1283290.html",
-        "publishedAt": "2026-10-20T14:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-10-20T14:50:00.000Z",
-      "firstSeenAt": "2026-10-20T18:57:16.894Z",
-      "lastSeenAt": "2026-10-20T18:57:16.894Z",
-      "title": "트럼프",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/international/america/1283290.html"
     }
   ]
 }
