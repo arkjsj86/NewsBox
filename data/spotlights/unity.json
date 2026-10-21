@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-21T03:34:31.802Z",
+  "lastUpdatedAt": "2026-10-21T11:16:43.943Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "MB1i5w0UaMA",
-      "title": "꼬리에 꼬리를 무는 유니티 이야기 Part 1",
-      "url": "https://www.youtube.com/watch?v=MB1i5w0UaMA",
-      "publishedAt": "2026-10-20T21:10:22.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/MB1i5w0UaMA/hqdefault.jpg"
+      "id": "sVruIcBQ8wY",
+      "title": "꼬리에 꼬리를 무는 유니티 이야기 Part 2",
+      "url": "https://www.youtube.com/watch?v=sVruIcBQ8wY",
+      "publishedAt": "2026-10-15T06:29:09.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/sVruIcBQ8wY/hqdefault.jpg"
     },
     {
-      "id": "RFK1MhK56S4",
-      "title": "Unity AI Game Jam 참가 지원 마감 임박🚨",
-      "url": "https://www.youtube.com/shorts/RFK1MhK56S4",
-      "publishedAt": "2026-10-19T01:47:41.000Z",
-      "thumbnailUrl": "https://i3.ytimg.com/vi/RFK1MhK56S4/hqdefault.jpg"
+      "id": "yAhyoZlHal4",
+      "title": "Made With Unity: Unity와 함께 개인화된 경험을 만들어 낸 Make It Yours",
+      "url": "https://www.youtube.com/watch?v=yAhyoZlHal4",
+      "publishedAt": "2026-10-21T05:37:20.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/yAhyoZlHal4/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }

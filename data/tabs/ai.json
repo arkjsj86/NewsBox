@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-10-21T03:34:31.802Z",
-  "articleCount": 16,
+  "lastUpdatedAt": "2026-10-21T11:16:43.943Z",
+  "articleCount": 17,
   "articles": [
+    {
+      "id": "5913ead27e42e588",
+      "title": "크래프톤, 자체 개발 AI 모델 ‘라온-1 미니’ 오픈소스 공개",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309525",
+      "source": "경향게임스",
+      "publishedAt": "2026-10-21T05:02:06.000Z",
+      "summary": "크래프톤이 약 300억 개의 파라미터를 갖춘 거대언어모델(LLM)을 자체 개발했다. 실제 연산에는 전체 파라미터의 일부만 사용하는 구조를 적용해 AI 서비스 운영에 필요한 비용을 줄이는 데 초점을 맞췄다.크래프톤은 21일 독자 개발한 LLM ‘라온-1 미니(Raon-1 mini)’의 프리뷰 버전을 오픈소스 플랫폼 허깅페이스에 공개했다. 아파치 2.0 라이선스가 적용돼 개인과 기업 모두...",
+      "tab": "ai"
+    },
     {
       "id": "69c85da8e272963e",
       "title": "AI가 틀려도 책임은 사용자가…메타의 새 약관, AI 오류 책임은 기업 고객 몫",
