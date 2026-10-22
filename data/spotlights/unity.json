@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-22T16:43:41.090Z",
+  "lastUpdatedAt": "2026-10-22T21:14:41.747Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -20,7 +20,7 @@
       "id": "pptVJhpD4YY",
       "title": "꼬리에 꼬리를 무는 유니티 이야기 Part 3",
       "url": "https://www.youtube.com/watch?v=pptVJhpD4YY",
-      "publishedAt": "2026-10-15T06:32:44.000Z",
+      "publishedAt": "2026-10-22T20:28:53.000Z",
       "thumbnailUrl": "https://i1.ytimg.com/vi/pptVJhpD4YY/hqdefault.jpg"
     },
     {
@@ -39,8 +39,8 @@
     {
       "key": "release",
       "source": "Unity Releases",
-      "ok": true,
-      "version": "6000.3.27f1"
+      "ok": false,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "key": "youtube",
