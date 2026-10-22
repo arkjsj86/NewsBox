@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-10-22T03:34:10.205Z",
+  "lastUpdatedAt": "2026-10-22T11:15:51.813Z",
   "articleCount": 14,
   "articles": [
+    {
+      "id": "935176e9dae21aea",
+      "title": "몸값 높이려면 AI부터…2026년 IT 채용의 새로운 기준",
+      "url": "https://www.itworld.co.kr/article/4238852/%eb%aa%b8%ea%b0%92-%eb%86%92%ec%9d%b4%eb%a0%a4%eb%a9%b4-ai%eb%b6%80%ed%84%b0-2026%eb%85%84-it-%ec%b1%84%ec%9a%a9%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b0%ec%a4%80.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-10-22T05:17:34.000Z",
+      "summary": "기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다. 글로벌 인력 서비스 기업 맨파워그룹(ManpowerGroup)의 북미 지역 총괄 사장 게르 도일은 “시장은 더 이상 기업이 몇 명을 채용하느냐가 아니라 얼마나 정밀하게 채용하느냐로 정의된다”라고 말했다. 또한 도일은 많은 경우...",
+      "tab": "ai"
+    },
     {
       "id": "69c85da8e272963e",
       "title": "AI가 틀려도 책임은 사용자가…메타의 새 약관, AI 오류 책임은 기업 고객 몫",
@@ -122,15 +131,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-10-14T05:23:48.000Z",
       "summary": "AI의 속도로 나아가려는 기업이 마주한 현실은 역설적이다. GPU는 충분하지만 데이터를 제때 공급하지 못하면 GPU 활용률이 30% 미만까지 떨어진다는 사실이다. 에이전틱 AI 도입 확산 속에서 대규모 AI 인프라를 효율적으로 운영할 수 있는 데이터 스토리지 아키텍처의 혁신이 필수 과제로 대두되고 있다. 넷앱은 14일 서울에서 기자간담회를 개최했다. 미국 라스베이거스에서 열린 글로벌 연...",
-      "tab": "ai"
-    },
-    {
-      "id": "ab0ea896e34443c4",
-      "title": "“선택의 자유가 경쟁력” 뉴타닉스, 통합 플랫폼으로 AI 시대 기업의 운영 부담을 덜다",
-      "url": "https://www.itworld.co.kr/article/4234087/%ec%84%a0%ed%83%9d%ec%9d%98-%ec%9e%90%ec%9c%a0%ea%b0%80-%ea%b2%bd%ec%9f%81%eb%a0%a5-%eb%89%b4%ed%83%80%eb%8b%89%ec%8a%a4-%ed%86%b5%ed%95%a9-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9c%bc%eb%a1%9c-ai.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-10-13T06:06:04.000Z",
-      "summary": "기업 환경의 복잡성이 갈수록 심화되고 있다. 온프레미스와 퍼블릭 클라우드, 쿠버네티스, 에이전틱 AI 등 다양한 기술이 혼재되면서 기업들은 통합 운영의 어려움을 겪고 있다. 뉴타닉스는 ‘.NEXT On Tour Seoul 2026’을 10월 13일 그랜드 인터컨티넨탈 서울 파르나스에서 개최했다. 이번 행사에서는 하이브리드 멀티클라우드와 엔터프라이즈 AI, 에이전틱 AI 시대의 인프라 전...",
       "tab": "ai"
     }
   ]
