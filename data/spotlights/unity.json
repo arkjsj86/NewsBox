@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-23T03:39:02.869Z",
+  "lastUpdatedAt": "2026-10-23T11:07:04.105Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "pptVJhpD4YY",
-      "title": "꼬리에 꼬리를 무는 유니티 이야기 Part 3",
-      "url": "https://www.youtube.com/watch?v=pptVJhpD4YY",
-      "publishedAt": "2026-10-22T20:28:53.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/pptVJhpD4YY/hqdefault.jpg"
+      "id": "or6SqeuDSPM",
+      "title": "[꼬꼬유 시즌2] 지금, Diagnostics(DDF)를 켜야 하는 이유",
+      "url": "https://www.youtube.com/watch?v=or6SqeuDSPM",
+      "publishedAt": "2026-10-23T01:57:33.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/or6SqeuDSPM/hqdefault.jpg"
     },
     {
-      "id": "sVruIcBQ8wY",
-      "title": "꼬리에 꼬리를 무는 유니티 이야기 Part 2",
-      "url": "https://www.youtube.com/watch?v=sVruIcBQ8wY",
-      "publishedAt": "2026-10-21T19:20:12.000Z",
-      "thumbnailUrl": "https://i4.ytimg.com/vi/sVruIcBQ8wY/hqdefault.jpg"
+      "id": "x1qXwqaUDPo",
+      "title": "[꼬꼬유 시즌2] 앱스토어 밖에서 수익 창출하는 법: Unity IAP 웹샵 소개 및 구현",
+      "url": "https://www.youtube.com/watch?v=x1qXwqaUDPo",
+      "publishedAt": "2026-10-23T01:57:17.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/x1qXwqaUDPo/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 500"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
