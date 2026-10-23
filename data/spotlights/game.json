@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-10-23T11:07:04.105Z",
+  "lastUpdatedAt": "2026-10-23T16:34:35.518Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -28,27 +28,27 @@
         {
           "title": "세기말적인 분위기와 레트로의 결합, 레인98(Rain98)",
           "url": "https://bbs.ruliweb.com/news/read/230723",
-          "meta": "댓글 18"
+          "meta": "댓글 19"
         },
         {
           "title": "우마무스메 프리티 더비 7th 이벤트 \"더 스테이지\" in 로스엔젤레스, 공연 중지…이유는",
           "url": "https://bbs.ruliweb.com/news/read/230826",
-          "meta": "댓글 52"
+          "meta": "댓글 56"
         },
         {
           "title": "수인들의 헤어스타일을 책임진다, 수인족 이발소",
           "url": "https://bbs.ruliweb.com/news/read/230848",
-          "meta": "댓글 14"
-        },
-        {
-          "title": "㈜넥슨 ‘마비노기’, 지난 15일(목) 넷플릭스 인기작 TV 애니메이션 ‘고깔모자의 아틀리에’와 컬래버 실시",
-          "url": "https://bbs.ruliweb.com/news/read/230695",
-          "meta": "댓글 4"
+          "meta": "댓글 15"
         },
         {
           "title": "505게임즈 ‘아세토 코르사 에보’, ‘자유 주행 모드’ 12월 9일 출시",
           "url": "https://bbs.ruliweb.com/news/read/230725",
           "meta": "댓글 2"
+        },
+        {
+          "title": "넷마블 ‘나 혼자만 레벨업:어라이즈’, 글로벌 누적 7,000만 다운로드 돌파",
+          "url": "https://bbs.ruliweb.com/news/read/230803",
+          "meta": "댓글 5"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "던전 인, 약 2년 앞서 해보기 마치고 정식 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322494",
-          "meta": "던전 인 · 20분 전"
+          "title": "익스트림 림보·발드릭스, 강은호·팡이요 파티가 각각 최초 격파 달성",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322511",
+          "meta": "메이플스토리 · 5시간 전"
         },
         {
-          "title": "고릴라스튜디오, 비행 슈팅 탕탕에이스 정식 출시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322497",
-          "meta": "탕탕에이스 · 21분 전"
+          "title": "MSI, 화이트 게이밍 데스크탑 코덱스 R2 출시",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322505",
+          "meta": "9시간 전"
         },
         {
-          "title": "무대는 클라이맥스로! 전원 집결 일러스트로 살펴본 인류의 전력",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322491",
-          "meta": "승리의 여신: 니케 · 33분 전"
+          "title": "라스트 에포크 던전 3종 기능 가이드",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322502",
+          "meta": "라스트 에포크 · 10시간 전"
         },
         {
-          "title": "월드 대항전 개막! 11월 에피소드 2 예고",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322440",
-          "meta": "솔: 인챈트 · 41분 전"
+          "title": "웹젠, 뮤 모나크 3주년 맞아 감사제 이벤트 진행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322501",
+          "meta": "뮤 모나크 · 10시간 전"
         },
         {
-          "title": "2026년 일본 모바일 게임 수익 100억 달러 돌파, 한국의 2배 이상 기록",
-          "url": "https://www.inven.co.kr/webzine/news/?news=322492",
-          "meta": "56분 전"
+          "title": "나이트 크로우, 12월 첫 이용자 초청 행사 개최",
+          "url": "https://www.inven.co.kr/webzine/news/?news=322500",
+          "meta": "나이트 크로우 · 10시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
