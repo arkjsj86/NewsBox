@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-24T15:28:52.577Z",
+  "lastUpdatedAt": "2026-10-24T20:20:13.181Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -14,98 +14,6 @@
   "primaryBlockName": "Swiss",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115660540726095029",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-24T17:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo1",
-      "teams": [
-        {
-          "name": "Anyone's Legend",
-          "code": "AL",
-          "imageUrl": "http://static.lolesports.com/teams/1641199582689_.png"
-        },
-        {
-          "name": "TOP ESPORTS",
-          "code": "TES",
-          "imageUrl": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
-    {
-      "id": "115660540726095021",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-24T18:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo1",
-      "teams": [
-        {
-          "name": "CTBC Flying Oyster",
-          "code": "CFO",
-          "imageUrl": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-        },
-        {
-          "name": "Movistar KOI",
-          "code": "MKOI",
-          "imageUrl": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
-    {
-      "id": "115660540726095031",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-24T19:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo1",
-      "teams": [
-        {
-          "name": "G2 Esports",
-          "code": "G2",
-          "imageUrl": "http://static.lolesports.com/teams/G2-FullonDark.png"
-        },
-        {
-          "name": "LOS",
-          "code": "LOS",
-          "imageUrl": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
-    {
-      "id": "115660540726095023",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-24T20:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo1",
-      "teams": [
-        {
-          "name": "LYON",
-          "code": "LYON",
-          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-        },
-        {
-          "name": "Karmine Corp",
-          "code": "KC",
-          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095033",
       "leagueKey": "worlds",
@@ -289,6 +197,98 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095049",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Swiss",
+      "startTime": "2026-10-26T17:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo1",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095051",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Swiss",
+      "startTime": "2026-10-26T18:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo1",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095053",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Swiss",
+      "startTime": "2026-10-26T19:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095057",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Swiss",
+      "startTime": "2026-10-26T22:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo3",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
     }
   ],
   "fetchedLeagues": [
@@ -314,7 +314,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 32
+      "matchCount": 28
     }
   ]
 }
