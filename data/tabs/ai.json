@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-10-27T00:14:35.205Z",
-  "articleCount": 11,
+  "lastUpdatedAt": "2026-10-27T08:41:20.411Z",
+  "articleCount": 12,
   "articles": [
+    {
+      "id": "cb5acf5aeef81434",
+      "title": "AI 모델 리버스 엔지니어링 필터링 강화 … 게임 업계 '한 숨', 모딩 생태계 '탄식'",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309703",
+      "source": "경향게임스",
+      "publishedAt": "2026-10-27T01:48:01.000Z",
+      "summary": "생성형 AI 빅테크 기업들이 보안 위협 차단과 저작권 보호를 위해 실시간 안전 필터의 민감도를 대폭 끌어올린 것으로 알려 졌다. 지난달 AI 리버스 엔지니어링(역공학) 툴이 공급되면서 시작된 보안 위협과 저작권 보호로 빨간불이 켜진 업계가 한 숨을 돌리게 됐다. 최근 앤스로픽의 ‘Claude’와 오픈AI의 ‘ChatGPT’ 등 주요 AI 서비스에서 리버스 엔지니어링(역공학) 관련 프롬프...",
+      "tab": "ai"
+    },
+    {
+      "id": "bedcd8cf93af9b73",
+      "title": "플레이디, 구글 AI 마케팅 대회 수상",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=309697",
+      "source": "경향게임스",
+      "publishedAt": "2026-10-27T00:30:02.000Z",
+      "summary": "SOOP 계열사 플레이디가 구글이 주최한 ‘Accelerate with Google Expert 2026’에서 수상자를 배출했다. 실제 광고주 캠페인에 인공지능(AI) 기술을 적용해 예약건수와 매출을 크게 늘린 성과를 인정받았다.이번 대회는 아시아 태평양 지역 디지털 마케터를 대상으로 구글의 AI 광고 솔루션 활용 능력을 평가하는 프로그램이다. 참가자들은 관련 교육을 이수한 뒤 실제 광...",
+      "tab": "ai"
+    },
     {
       "id": "fe3e70bba76e705b",
       "title": "[이진호의 퓨처로그] 상상의 무한가치, 이야기의 주인이 되자",
@@ -95,15 +113,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-10-19T00:27:50.000Z",
       "summary": "가트너가 투자와 수익 간 불일치를 전망하며 베인의 최근 보고서와 같은 결론을 내렸다. 가트너에 따르면, 투자자들은 2030년까지 회수하기 어려운 규모로 AI 데이터센터 인프라에 자금을 쏟아붓고 있다. 가트너 수석 디렉터 애널리스트 윌 서머는 “같은 기간 동안 기업 및 사용자 대상 AI 수익은 계획된 모든 AI 자본 지출에 대한 수익성 있는 투자 회수를 뒷받침하기에 역부족일 것”이라고 밝...",
-      "tab": "ai"
-    },
-    {
-      "id": "1a31a7ac0bae9386",
-      "title": "“AI 프레임워크부터 시작하면 실수”…AI 아키텍처 설계, 요구사항이 출발점",
-      "url": "https://www.itworld.co.kr/article/4235707/ai-%ed%94%84%eb%a0%88%ec%9e%84%ec%9b%8c%ed%81%ac%eb%b6%80%ed%84%b0-%ec%8b%9c%ec%9e%91%ed%95%98%eb%a9%b4-%ec%8b%a4%ec%88%98ai-%ec%95%84%ed%82%a4%ed%85%8d%ec%b2%98-%ec%84%a4%ea%b3%84-%ec%9a%94%ea%b5%ac.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-10-16T01:11:00.000Z",
-      "summary": "많은 전문 서비스 기업이 그럴듯한 마케팅 스토리를 앞세워 사전 구축된 생성형 AI와 에이전틱 AI의 청사진을 제공한다. 그러나 이를 선택하는 것은 가장 값비싼 실수다. 모든 주요 컨설팅 기업은 저마다 생성형 AI와 에이전틱 AI를 위한 사전 구축된 아키텍처 프레임워크, 모델 또는 참조 아키텍처를 제공한다. 이가 하는 이야기는 거의 동일하다. “우리는 이전에 이 일을 해봤고, 그 패턴을...",
       "tab": "ai"
     }
   ]
