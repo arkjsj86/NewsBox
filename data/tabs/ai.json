@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-10-29T09:27:29.380Z",
+  "lastUpdatedAt": "2026-10-29T18:06:16.260Z",
   "articleCount": 9,
   "articles": [
+    {
+      "id": "c35e0751247a1dbd",
+      "title": "안티그래비티 2 사용기 : IDE 없는 간편한 에이전트 채팅",
+      "url": "https://www.itworld.co.kr/article/4242257/%ec%95%88%ed%8b%b0%ea%b7%b8%eb%9e%98%eb%b9%84%ed%8b%b0-2-%ec%82%ac%ec%9a%a9%ea%b8%b0-ide-%ec%97%86%eb%8a%94-%ea%b0%84%ed%8e%b8%ed%95%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%b1%84%ed%8c%85.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-10-29T15:27:10.000Z",
+      "summary": "안티그래비티 첫 버전은 기본적으로 구글의 생성형 AI 모델과 통합된 IDE였다. 안티그래비티 2에서 구글은 에이전트를 위한 “ 독립형 데스크톱 명령 센터 “라는 개념으로 제품을 새롭게 개편했다. 안티그래비티 2는 종합적인 IDE보다는 LM 스튜디오(LM Studio)와 같은 프로젝트에 더 가깝다. 코드 편집기, 디버깅 툴을 비롯해 통합 개발 환경의 여러 과시적 요소를 배제하고 모델 및...",
+      "tab": "ai"
+    },
     {
       "id": "fe3dd8037f38f2a1",
       "title": "‘케이팝 DNA 탐내는 인공지능’…BTS와 강남스타일 학습했다",
@@ -77,15 +86,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-10-19T23:54:22.000Z",
       "summary": "엔터프라이즈 소프트웨어의 역사 대부분에서 책임 소재는 비교적 이해하기 쉬웠다. 사람이 로그인하고, 사람에게 일련의 권한이 있으며, 사람이 행동을 실행하는 구조였다. 문제가 생기면 대개 그 지점부터 거꾸로 추적하면 됐다. 에이전틱 AI가 상황을 바꾸고 있다. 사람에게 무엇을 해야 할지 제안하는 시스템에서, 그 일을 직접 수행하는 시스템으로 넘어가고 있기 때문이다. 에이전트는 도구에 접근하...",
-      "tab": "ai"
-    },
-    {
-      "id": "e7a20fe4889dabad",
-      "title": "AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
-      "url": "https://www.itworld.co.kr/article/4237349/ai-%ec%9b%9c%ec%9d%b4-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ec%98%a4%eb%b8%90%ea%b9%8c%ec%a7%80-%ec%9e%a5%ec%95%85%ed%95%a0%ea%b9%8c-iot-%eb%b4%87%eb%84%b7-%ec%9c%84%ed%98%91-%ec%88%98%ec%a4%80-%ec%a7%84.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-10-19T23:47:46.000Z",
-      "summary": "스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다. 그 방법은 스스로 복제하는 ‘AI 웜’이다. 앤트로픽은 지난주 AI가 저사양 스마트 기기로 스스로 퍼져 나가도록 하는 일련의 실험을 정리한 보고서를 공개했다 . 연구팀은 소규모 모델이 취약한 기기를 찾아내 설정하고 모...",
       "tab": "ai"
     }
   ]
