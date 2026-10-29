@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-28T20:05:11.781Z",
+  "lastUpdatedAt": "2026-10-29T00:37:13.942Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -14,52 +14,6 @@
   "primaryBlockName": "Swiss",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115660540726095061",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-28T20:00:00.000Z",
-      "state": "inprogress",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "Movistar KOI",
-          "code": "MKOI",
-          "imageUrl": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-        },
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
-    {
-      "id": "115660540726095065",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-28T23:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "LYON",
-          "code": "LYON",
-          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-        },
-        {
-          "name": "Invictus Gaming",
-          "code": "IG",
-          "imageUrl": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095073",
       "leagueKey": "worlds",
@@ -289,6 +243,52 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095115",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Quarterfinals",
+      "startTime": "2026-11-06T22:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095121",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Semifinals",
+      "startTime": "2026-11-07T22:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
     }
   ],
   "fetchedLeagues": [
@@ -314,7 +314,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 16
+      "matchCount": 14
     }
   ]
 }
