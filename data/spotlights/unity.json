@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-29T00:37:13.942Z",
+  "lastUpdatedAt": "2026-10-29T09:27:29.380Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "dBg-ywinSKE",
-      "title": "NVIDIA 협력으로 만들어진 OpenUSD 툴킷 소개 - 유니티 라이브 2026.10",
-      "url": "https://www.youtube.com/watch?v=dBg-ywinSKE",
-      "publishedAt": "2026-10-23T08:00:46.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/dBg-ywinSKE/hqdefault.jpg"
+      "id": "ocFwQ4sogDo",
+      "title": "[2D 게임 개발 꿀팁 시리즈] Runtime Sprite Atlas",
+      "url": "https://www.youtube.com/shorts/ocFwQ4sogDo",
+      "publishedAt": "2026-10-29T07:49:31.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/ocFwQ4sogDo/hqdefault.jpg"
     },
     {
-      "id": "1qa4dbjQj7s",
-      "title": "유니티 공식 AI 플러그인 3종 출시! 지금 바로 설치해보세요 🔥",
-      "url": "https://www.youtube.com/shorts/1qa4dbjQj7s",
-      "publishedAt": "2026-10-28T01:57:20.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/1qa4dbjQj7s/hqdefault.jpg"
+      "id": "HOr5YQisZ8s",
+      "title": "[Unity AI Game Jam] AI로 만들지만 AI처럼 보이지 않기: 게임 개발을 위한 실전 생성형 AI 활용법",
+      "url": "https://www.youtube.com/watch?v=HOr5YQisZ8s",
+      "publishedAt": "2026-10-29T02:11:17.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/HOr5YQisZ8s/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
