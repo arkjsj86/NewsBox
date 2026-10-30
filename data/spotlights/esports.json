@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-29T18:06:16.260Z",
+  "lastUpdatedAt": "2026-10-30T00:37:50.437Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -14,52 +14,6 @@
   "primaryBlockName": "Swiss",
   "matchCount": 12,
   "matches": [
-    {
-      "id": "115660540726095073",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-29T20:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "CTBC Flying Oyster",
-          "code": "CFO",
-          "imageUrl": "http://static.lolesports.com/teams/1656307849320_CFO_Logo.png"
-        },
-        {
-          "name": "Karmine Corp",
-          "code": "KC",
-          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
-    {
-      "id": "115660540726095069",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-29T23:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "BILIBILI GAMING",
-          "code": "BLG",
-          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-        },
-        {
-          "name": "TOP ESPORTS",
-          "code": "TES",
-          "imageUrl": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095077",
       "leagueKey": "worlds",
@@ -289,6 +243,52 @@
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095127",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Semifinals",
+      "startTime": "2026-11-08T22:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
+    },
+    {
+      "id": "115660540726095133",
+      "leagueKey": "worlds",
+      "leagueLabel": "Worlds",
+      "tournamentName": "2026",
+      "blockName": "Finals",
+      "startTime": "2026-11-14T19:00:00.000Z",
+      "state": "unstarted",
+      "matchType": "Bo5",
+      "teams": [
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        },
+        {
+          "name": "TBD",
+          "code": "TBD",
+          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+        }
+      ],
+      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
     }
   ],
   "fetchedLeagues": [
@@ -314,7 +314,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 14
+      "matchCount": 12
     }
   ]
 }
