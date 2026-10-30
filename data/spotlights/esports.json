@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-30T17:45:54.785Z",
+  "lastUpdatedAt": "2026-10-30T21:58:25.727Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Swiss",
-  "matchCount": 12,
+  "matchCount": 11,
   "matches": [
-    {
-      "id": "115660540726095077",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-30T20:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "Team Liquid Alienware",
-          "code": "TLAW",
-          "imageUrl": "http://static.lolesports.com/teams/1769357207762_TLAlienware_Minimal_Bug-White.png"
-        },
-        {
-          "name": "LOS",
-          "code": "LOS",
-          "imageUrl": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095081",
       "leagueKey": "worlds",
@@ -314,7 +291,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 12
+      "matchCount": 11
     }
   ]
 }
