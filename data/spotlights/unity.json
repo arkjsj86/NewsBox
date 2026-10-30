@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-10-30T00:37:50.437Z",
+  "lastUpdatedAt": "2026-10-30T09:40:07.935Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "ocFwQ4sogDo",
-      "title": "[2D 게임 개발 꿀팁 시리즈] Runtime Sprite Atlas",
-      "url": "https://www.youtube.com/shorts/ocFwQ4sogDo",
-      "publishedAt": "2026-10-29T07:49:31.000Z",
-      "thumbnailUrl": "https://i4.ytimg.com/vi/ocFwQ4sogDo/hqdefault.jpg"
+      "id": "-cxbULpRSXE",
+      "title": "[2D 게임 개발 꿀팁 시리즈] 메모리 절약 스프라이트 5가지",
+      "url": "https://www.youtube.com/shorts/-cxbULpRSXE",
+      "publishedAt": "2026-10-30T06:44:56.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/-cxbULpRSXE/hqdefault.jpg"
     },
     {
-      "id": "HOr5YQisZ8s",
-      "title": "[Unity AI Game Jam] AI로 만들지만 AI처럼 보이지 않기: 게임 개발을 위한 실전 생성형 AI 활용법",
-      "url": "https://www.youtube.com/watch?v=HOr5YQisZ8s",
-      "publishedAt": "2026-10-29T02:11:17.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/HOr5YQisZ8s/hqdefault.jpg"
+      "id": "7oSj7BVwahc",
+      "title": "[Unity AI Game Jam] 게임잼 에셋 제작, 빠르게 한 번에: Meshy AI에서 Unity까지",
+      "url": "https://www.youtube.com/watch?v=7oSj7BVwahc",
+      "publishedAt": "2026-10-30T00:49:33.000Z",
+      "thumbnailUrl": "https://i4.ytimg.com/vi/7oSj7BVwahc/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
