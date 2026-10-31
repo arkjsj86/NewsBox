@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-30T21:58:25.727Z",
+  "lastUpdatedAt": "2026-10-31T04:24:27.387Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Swiss",
-  "matchCount": 11,
+  "matchCount": 10,
   "matches": [
-    {
-      "id": "115660540726095081",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-30T23:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "G2 Esports",
-          "code": "G2",
-          "imageUrl": "http://static.lolesports.com/teams/G2-FullonDark.png"
-        },
-        {
-          "name": "Hanwha Life Esports",
-          "code": "HLE",
-          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095085",
       "leagueKey": "worlds",
@@ -48,14 +25,14 @@
       "matchType": "Bo3",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Movistar KOI",
+          "code": "MKOI",
+          "imageUrl": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Karmine Corp",
+          "code": "KC",
+          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
@@ -71,14 +48,14 @@
       "matchType": "Bo3",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "LOS",
+          "code": "LOS",
+          "imageUrl": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "LYON",
+          "code": "LYON",
+          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
@@ -94,14 +71,14 @@
       "matchType": "Bo3",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Hanwha Life Esports",
+          "code": "HLE",
+          "imageUrl": "http://static.lolesports.com/teams/1631819564399_hle-2021-worlds.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
@@ -291,7 +268,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 11
+      "matchCount": 10
     }
   ]
 }
