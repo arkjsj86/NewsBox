@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-10-31T16:54:08.168Z",
+  "lastUpdatedAt": "2026-10-31T21:04:18.384Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -12,54 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Swiss",
-  "matchCount": 10,
+  "matchCount": 8,
   "matches": [
-    {
-      "id": "115660540726095085",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-31T17:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "Movistar KOI",
-          "code": "MKOI",
-          "imageUrl": "http://static.lolesports.com/teams/1734012609283_MKOI_FullColor_Blue.png"
-        },
-        {
-          "name": "Karmine Corp",
-          "code": "KC",
-          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
-    {
-      "id": "115660540726095089",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Swiss",
-      "startTime": "2026-10-31T20:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo3",
-      "teams": [
-        {
-          "name": "LOS",
-          "code": "LOS",
-          "imageUrl": "http://static.lolesports.com/teams/1784013312149_LOS-OLaranja.png"
-        },
-        {
-          "name": "LYON",
-          "code": "LYON",
-          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095093",
       "leagueKey": "worlds",
@@ -268,7 +222,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 10
+      "matchCount": 8
     }
   ]
 }
