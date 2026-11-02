@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-11-01T19:22:44.594Z",
+  "lastUpdatedAt": "2026-11-02T00:18:50.316Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -39,14 +39,14 @@
     {
       "key": "release",
       "source": "Unity Releases",
-      "ok": false,
-      "error": "The operation was aborted due to timeout"
+      "ok": true,
+      "version": "6000.3.27f2"
     },
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": true,
-      "itemCount": 2
+      "ok": false,
+      "error": "HTTP 500"
     }
   ]
 }
