@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-11-03T20:46:47.167Z",
+  "lastUpdatedAt": "2026-11-04T01:03:16.736Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Quarterfinals",
-  "matchCount": 7,
+  "matchCount": 6,
   "matches": [
-    {
-      "id": "115660540726095109",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Quarterfinals",
-      "startTime": "2026-11-03T22:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "TOP ESPORTS",
-          "code": "TES",
-          "imageUrl": "http://static.lolesports.com/teams/1592592064571_TopEsportsTES-01-FullonDark.png"
-        },
-        {
-          "name": "Invictus Gaming",
-          "code": "IG",
-          "imageUrl": "http://static.lolesports.com/teams/1634762917340_300px-Invictus_Gaming_logo.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095115",
       "leagueKey": "worlds",
@@ -199,7 +176,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 7
+      "matchCount": 6
     }
   ]
 }
