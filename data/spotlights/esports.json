@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-11-04T19:26:14.463Z",
+  "lastUpdatedAt": "2026-11-05T01:18:22.466Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Quarterfinals",
-  "matchCount": 6,
+  "matchCount": 5,
   "matches": [
-    {
-      "id": "115660540726095115",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Quarterfinals",
-      "startTime": "2026-11-04T22:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Gen.G Esports",
-          "code": "GEN",
-          "imageUrl": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
-        },
-        {
-          "name": "LYON",
-          "code": "LYON",
-          "imageUrl": "http://static.lolesports.com/teams/1743717443673_isotypelyon-03.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095097",
       "leagueKey": "worlds",
@@ -94,9 +71,9 @@
       "matchType": "Bo5",
       "teams": [
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "Gen.G Esports",
+          "code": "GEN",
+          "imageUrl": "http://static.lolesports.com/teams/1773829250929_GENGLOGO_GOLD.png"
         },
         {
           "name": "Invictus Gaming",
@@ -176,7 +153,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 6
+      "matchCount": 5
     }
   ]
 }
