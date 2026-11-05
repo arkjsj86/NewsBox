@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-11-05T01:18:22.466Z",
+  "lastUpdatedAt": "2026-11-05T10:25:06.259Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "TpDuKFR5Bko",
-      "title": "USD Toolkit 소개",
-      "url": "https://www.youtube.com/watch?v=TpDuKFR5Bko",
-      "publishedAt": "2026-11-04T04:49:53.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/TpDuKFR5Bko/hqdefault.jpg"
+      "id": "z0bkXem0g7o",
+      "title": "[2D 게임 개발 꿀팁 시리즈] 모바일 성능과 쓰로틀링",
+      "url": "https://www.youtube.com/shorts/z0bkXem0g7o",
+      "publishedAt": "2026-11-05T04:39:11.000Z",
+      "thumbnailUrl": "https://i3.ytimg.com/vi/z0bkXem0g7o/hqdefault.jpg"
     },
     {
-      "id": "0HO_7fwC_6A",
-      "title": "[2D 게임 개발 꿀팁 시리즈] 2D 배칭",
-      "url": "https://www.youtube.com/shorts/0HO_7fwC_6A",
-      "publishedAt": "2026-11-02T07:35:29.000Z",
-      "thumbnailUrl": "https://i1.ytimg.com/vi/0HO_7fwC_6A/hqdefault.jpg"
+      "id": "FvcjaJKtiMs",
+      "title": "Unity 6.6에서 무엇이 바뀌었을까요?",
+      "url": "https://www.youtube.com/watch?v=FvcjaJKtiMs",
+      "publishedAt": "2026-11-05T00:40:25.000Z",
+      "thumbnailUrl": "https://i3.ytimg.com/vi/FvcjaJKtiMs/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -39,14 +39,14 @@
     {
       "key": "release",
       "source": "Unity Releases",
-      "ok": true,
-      "version": "6000.3.28f1"
+      "ok": false,
+      "error": "The operation was aborted due to timeout"
     },
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }

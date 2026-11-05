@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-11-05T01:18:22.466Z",
-  "articleCount": 9,
+  "lastUpdatedAt": "2026-11-05T10:25:06.259Z",
+  "articleCount": 11,
   "articles": [
+    {
+      "id": "b9687bcc22a39753",
+      "title": "AI 도입과 직원 근무 시간, 엇갈리는 두 데이터",
+      "url": "https://www.itworld.co.kr/article/4244936/ai-%eb%8f%84%ec%9e%85%ea%b3%bc-%ec%a7%81%ec%9b%90-%ea%b7%bc%eb%ac%b4-%ec%8b%9c%ea%b0%84-%ec%97%87%ea%b0%88%eb%a6%ac%eb%8a%94-%eb%91%90-%eb%8d%b0%ec%9d%b4%ed%84%b0.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-11-05T02:21:44.000Z",
+      "summary": "직원 생산성 추적 소프트웨어 업체 액티브트랙(ActivTrak)의 최신 연구 에서 AI를 가장 많이 쓰는 직원이 더 오래 일하고 앱도 더 자주 전환하는 것으로 나타나, 생산성 향상을 확인한 앞선 결과와 엇갈리면서 AI가 업무에 미치는 실제 영향을 측정하기 어렵다는 점이 드러났다. AI 기반 업무는 이제 막 시작 단계이며, 이점을 둘러싼 평가도 엇갈린다. AI가 실제로 가치를 더하고 직원...",
+      "tab": "ai"
+    },
+    {
+      "id": "93cc458822351f27",
+      "title": "요금 폭탄 뒤에 숨은 LLM 접근 권한 탈취 공격",
+      "url": "https://www.itworld.co.kr/article/4244927/%ea%b8%b0%ec%97%85%eb%93%a4%ec%9d%80-%ec%a3%bc%eb%ac%b8%ed%95%9c-%ec%a0%81%eb%8f%84-%ec%97%86%eb%8a%94-ai%ec%97%90-%ed%95%98%eb%a3%a8-10%eb%a7%8c-%eb%8b%ac%eb%9f%ac%eb%a5%bc-%ec%a7%80%eb%b6%88.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-11-05T02:12:40.000Z",
+      "summary": "운영 환경에 대규모 언어 모델(LLM)을 배치한 기업이 알지 못하는 사이 타인의 AI 사업 비용을 대신 내고 있을 수 있다. 구글 위협 인텔리전스 그룹(Google Threat Intelligence Group, GTIG)은 사이버 범죄 기업이 기업의 클라우드와 모델 접근 권한을 가로챈 뒤 지하 구독 서비스로 되파는, 금전적 동기의 LLM재킹 캠페인을 경고했다. GTIG는 블로그 게시글...",
+      "tab": "ai"
+    },
     {
       "id": "9a68eb5433a611e8",
       "title": "애플 4분기 실적…기업, 클라우드 대신 맥으로 로컬 AI 돌린다",
