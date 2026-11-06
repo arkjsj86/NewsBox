@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-11-05T19:35:25.366Z",
+  "lastUpdatedAt": "2026-11-06T01:23:12.485Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -12,31 +12,8 @@
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
   "primaryBlockName": "Quarterfinals",
-  "matchCount": 5,
+  "matchCount": 4,
   "matches": [
-    {
-      "id": "115660540726095097",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Quarterfinals",
-      "startTime": "2026-11-05T22:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "Dplus KIA",
-          "code": "DK",
-          "imageUrl": "http://static.lolesports.com/teams/1673260049703_DPlusKIALOGO11.png"
-        },
-        {
-          "name": "BILIBILI GAMING",
-          "code": "BLG",
-          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095103",
       "leagueKey": "worlds",
@@ -99,9 +76,9 @@
           "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
         },
         {
-          "name": "TBD",
-          "code": "TBD",
-          "imageUrl": "https://static.lolesports.com/teams/team-tbd.png"
+          "name": "BILIBILI GAMING",
+          "code": "BLG",
+          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
         }
       ],
       "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
@@ -153,7 +130,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 5
+      "matchCount": 4
     }
   ]
 }
