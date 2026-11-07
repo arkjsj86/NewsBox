@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-11-06T18:57:12.437Z",
+  "lastUpdatedAt": "2026-11-07T00:38:16.895Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -11,32 +11,9 @@
   "sourceUrl": "https://lolesports.com/en-US/leagues/worlds",
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
-  "primaryBlockName": "Quarterfinals",
-  "matchCount": 4,
+  "primaryBlockName": "Semifinals",
+  "matchCount": 3,
   "matches": [
-    {
-      "id": "115660540726095103",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Quarterfinals",
-      "startTime": "2026-11-06T22:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        },
-        {
-          "name": "Karmine Corp",
-          "code": "KC",
-          "imageUrl": "http://static.lolesports.com/teams/1704714951336_KC.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095127",
       "leagueKey": "worlds",
@@ -130,7 +107,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 4
+      "matchCount": 3
     }
   ]
 }
