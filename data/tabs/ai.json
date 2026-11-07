@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-11-07T00:38:16.895Z",
-  "articleCount": 10,
+  "lastUpdatedAt": "2026-11-07T09:39:40.703Z",
+  "articleCount": 11,
   "articles": [
+    {
+      "id": "8a4493de984dd152",
+      "title": "중국, 상하이 등 주요 도시에 대규모 GPU 클러스터 구축 … AI 전력난 해소",
+      "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310102",
+      "source": "경향게임스",
+      "publishedAt": "2026-11-07T00:00:00.000Z",
+      "summary": "중국이 상하이 및 항저우 등 자국 핵심 IT 거점지에 초대형 GPU 클러스터를 잇달아 구축해 눈길을 끌고 있다. 이와 관련해 중국 엔비전 그룹은 이달초 자사 AI 데이터센터에 800V DC(고전압 직류)통합 전력 시스템을 세계 최초로 상용화해 이목을 집중시켰다. 기존 데이터센터의 경우 발전소의 교류(AC) 전력을 직류(DC)로 바꾼 뒤 다시 교류, 직류로 재변환하는 복잡한 단계를 거치며...",
+      "tab": "ai"
+    },
     {
       "id": "8e9827fe238a3b55",
       "title": "“랙당 600kW 시대, 전력이 AI 인프라의 관건” 인피니언, 그리드에서 코어까지 반도체로 푼다",
