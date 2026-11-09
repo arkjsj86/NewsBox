@@ -4,9 +4,18 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-11-08T19:20:51.310Z",
+  "lastUpdatedAt": "2026-11-09T00:34:15.808Z",
   "articleCount": 11,
   "articles": [
+    {
+      "id": "76715be06890318d",
+      "title": "메타, 기업용 AI 약관 ‘유턴’… 고객 반발에 시행 무기한 보류",
+      "url": "https://www.computerworld.com/article/4245784/meta-does-a-u-turn-on-controversial-new-ai-terms-for-businesses-2.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-11-09T00:12:29.000Z",
+      "summary": "메타가 기업 고객을 대상으로 한 새 서비스 약관의 시행을 보류했다. 약관은 고객 웹사이트의 모든 콘텐츠를 메타가 가져갈 수 있는 권리를 부여하는 내용이었다. 여기에 더해, 결함 있는 AI가 만들어내는 모든 오류의 책임을 고객에게 넘기는 조항도 담겨 있었다. 새 서비스 약관은 10월 19일 공개됐으며 당초 10월 30일 시행될 예정이었다. 메타는 이후 시행일을 11월 20일로 늦췄다. 그...",
+      "tab": "ai"
+    },
     {
       "id": "8a4493de984dd152",
       "title": "중국, 상하이 등 주요 도시에 대규모 GPU 클러스터 구축 … AI 전력난 해소",
@@ -95,15 +104,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-10-30T01:02:00.000Z",
       "summary": "대부분의 경우 AI 에이전트를 구축하는 팀이 주력하는 요소는 더 우수한 메모리(기억력), 더 긴 컨텍스트 윈도우, 대화 요약, 그리고 에이전트가 과거에 본 모든 정보를 불러오는 검색 시스템 구축이다. 이러한 요소는 물론 유용하다. 그러나 어떤 작업이 실제로 완료됐는지 여부를 확인하는 문제는 해결하지 못한다. 메모리는 에이전트에게 무슨 일이 있었는지 알려주지만 지금 시점에서 무엇이 사실인...",
-      "tab": "ai"
-    },
-    {
-      "id": "c35e0751247a1dbd",
-      "title": "안티그래비티 2 사용기 : IDE 없는 간편한 에이전트 채팅",
-      "url": "https://www.itworld.co.kr/article/4242257/%ec%95%88%ed%8b%b0%ea%b7%b8%eb%9e%98%eb%b9%84%ed%8b%b0-2-%ec%82%ac%ec%9a%a9%ea%b8%b0-ide-%ec%97%86%eb%8a%94-%ea%b0%84%ed%8e%b8%ed%95%9c-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%b1%84%ed%8c%85.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-10-29T15:27:10.000Z",
-      "summary": "안티그래비티 첫 버전은 기본적으로 구글의 생성형 AI 모델과 통합된 IDE였다. 안티그래비티 2에서 구글은 에이전트를 위한 “ 독립형 데스크톱 명령 센터 “라는 개념으로 제품을 새롭게 개편했다. 안티그래비티 2는 종합적인 IDE보다는 LM 스튜디오(LM Studio)와 같은 프로젝트에 더 가깝다. 코드 편집기, 디버깅 툴을 비롯해 통합 개발 환경의 여러 과시적 요소를 배제하고 모델 및...",
       "tab": "ai"
     }
   ]

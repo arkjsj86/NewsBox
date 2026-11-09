@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-11-08T19:20:51.310Z",
+  "lastUpdatedAt": "2026-11-09T00:34:15.808Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -11,32 +11,9 @@
   "sourceUrl": "https://lolesports.com/en-US/leagues/worlds",
   "selectionRule": "LCK 우선 · 일정이 비는 기간에는 MSI와 Worlds 자동 전환",
   "primaryTournamentName": "2026",
-  "primaryBlockName": "Semifinals",
-  "matchCount": 2,
+  "primaryBlockName": "Finals",
+  "matchCount": 1,
   "matches": [
-    {
-      "id": "115660540726095121",
-      "leagueKey": "worlds",
-      "leagueLabel": "Worlds",
-      "tournamentName": "2026",
-      "blockName": "Semifinals",
-      "startTime": "2026-11-08T22:00:00.000Z",
-      "state": "unstarted",
-      "matchType": "Bo5",
-      "teams": [
-        {
-          "name": "T1",
-          "code": "T1",
-          "imageUrl": "http://static.lolesports.com/teams/1726801573959_539px-T1_2019_full_allmode.png"
-        },
-        {
-          "name": "BILIBILI GAMING",
-          "code": "BLG",
-          "imageUrl": "http://static.lolesports.com/teams/1682322954525_Bilibili_Gaming_logo_20211.png"
-        }
-      ],
-      "sourceUrl": "https://lolesports.com/en-US/leagues/worlds"
-    },
     {
       "id": "115660540726095133",
       "leagueKey": "worlds",
@@ -84,7 +61,7 @@
       "key": "worlds",
       "label": "Worlds",
       "ok": true,
-      "matchCount": 2
+      "matchCount": 1
     }
   ]
 }
