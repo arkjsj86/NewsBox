@@ -7,433 +7,480 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-11-11T04:57:37.022Z",
+  "lastUpdatedAt": "2026-11-11T13:40:00.868Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 9,
+  "itemCount": 10,
   "items": [
     {
-      "id": "55f20299ccf632c9",
-      "issueKey": "강진군",
-      "issueTitle": "강진군",
-      "trendTitle": "공무원",
+      "id": "83de7e722854dfe2",
+      "issueKey": "겨울맞이 공연",
+      "issueTitle": "겨울맞이 공연",
+      "trendTitle": "겨울맞이 공연",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "볼거리 더한 청라하늘대교, 이용료 부담 덜고 손님맞이",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336467",
+          "publishedAt": "2026-11-11T11:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "인천관광공사, THE SKY184 겨울맞이 공연·체험 프로그램 강화",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367",
+          "publishedAt": "2026-11-11T11:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "청라하늘대교 ‘더 스카이184’, 연말 가족 명소로 단장",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20112472",
+          "publishedAt": "2026-11-11T11:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "인천관광공사, THE SKY184 겨울맞이 공연·체험 프로그램 강화",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367",
+        "publishedAt": "2026-11-11T11:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-11T11:50:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "겨울맞이 공연",
+      "source": "뉴스타운",
+      "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367",
+      "rank": 1
+    },
+    {
+      "id": "48b333620cdcc889",
+      "issueKey": "고잔동",
+      "issueTitle": "고잔동",
+      "trendTitle": "고잔동",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
+          "publishedAt": "2026-11-11T11:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[종합]인천 남동공단 도금공장서 염소가스 누출…5명 호흡곤란",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774610",
+          "publishedAt": "2026-11-11T11:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
+          "publishedAt": "2026-11-11T11:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
+        "publishedAt": "2026-11-11T11:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T11:40:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "고잔동",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
+      "rank": 2
+    },
+    {
+      "id": "5795f8b7d495d13b",
+      "issueKey": "이종석",
+      "issueTitle": "이종석",
+      "trendTitle": "이종석",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "강진군, 공무원 AI활용 능력 근무성적평가 반영",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111044000054",
-          "publishedAt": "2026-11-11T03:50:00.000Z",
+          "title": "‘황후’ 신민아·새로 변신하는 이종석이 낯설다고요? 세계 여성들은 왜 이 장르에 푹 빠졌을까 [이윤정 기자의 소소월드]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611111049001",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"AI 역량을 근무평정에 반영\"… 강진군, 디지털 행정 혁신 속도",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354349",
-          "publishedAt": "2026-11-11T03:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정선군, 인공지능 기반 민원 안내 시스템 자체 개발 추진",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=802609",
-          "publishedAt": "2026-11-11T03:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "강진군, 공무원 AI활용 능력 근무성적평가 반영",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261111044000054",
-        "publishedAt": "2026-11-11T03:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-11T03:50:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "강진군",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261111044000054",
-      "rank": 1
-    },
-    {
-      "id": "84d7bd7185857502",
-      "issueKey": "이세돌",
-      "issueTitle": "이세돌",
-      "trendTitle": "이세돌",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/11/UUGAXIKN65ANNLON5NA7PT2NCE/",
-          "publishedAt": "2026-11-11T03:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261110000265",
-          "publishedAt": "2026-11-11T03:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "`이세계아이돌` 6인 전원, AGF 2026 뜬다…SOOP, 버추얼 28명 집결",
-          "source": "디지털데일리",
-          "url": "https://m.ddaily.co.kr/page/view/2026111010452385680",
-          "publishedAt": "2026-11-11T03:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261110000265",
-        "publishedAt": "2026-11-11T03:40:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-11T03:40:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "이세돌",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261110000265",
-      "rank": 2
-    },
-    {
-      "id": "10480eeb094e1d4b",
-      "issueKey": "이선빈",
-      "issueTitle": "이선빈",
-      "trendTitle": "이선빈",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"27㎝ 키 차이 설렌다\"…이광수♥이선빈, 9년 차 커플 데이트 포착",
+          "title": "이세영 목걸이, 2000원짜리 테무템?…'재혼 황후' 의상 논란 해명",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105361098673",
-          "publishedAt": "2026-11-11T03:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "9년 만난 이광수♥이선빈, 손 꼭 잡고 쇼핑 데이트",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261111_0003863078",
-          "publishedAt": "2026-11-11T03:20:00.000Z",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111015592940705",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "데이트 또 포착..이광수♥이선빈, 9년 차 커플의 '부부 바이브' [핫피플]",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261110082002723",
-          "publishedAt": "2026-11-11T03:20:00.000Z",
+          "title": "황제의 배신에 재혼으로 맞불…‘재혼 황후’의 인기 비결",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261110010003713",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"27㎝ 키 차이 설렌다\"…이광수♥이선빈, 9년 차 커플 데이트 포착",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105361098673",
-        "publishedAt": "2026-11-11T03:20:00.000Z",
+        "title": "‘황후’ 신민아·새로 변신하는 이종석이 낯설다고요? 세계 여성들은 왜 이 장르에 푹 빠졌을까 [이윤정 기자의 소소월드]",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202611111049001",
+        "publishedAt": "2026-11-11T11:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-11T03:20:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "이선빈",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/11/11/2026111105361098673",
+      "publishedAt": "2026-11-11T11:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "이종석",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202611111049001",
       "rank": 3
     },
     {
-      "id": "6e89adf712dc8f28",
-      "issueKey": "삼성",
-      "issueTitle": "삼성",
-      "trendTitle": "삼성",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261110163700003",
-          "publishedAt": "2026-11-11T03:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘삼성·현대차그룹 동맹’ 배터리 공급 넘어 설계까지 확장",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630522",
-          "publishedAt": "2026-11-11T03:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "현대차그룹-삼성, ‘원팀’으로 미래 첨단 산업 선점 | 뉴스 | 현대자동차그룹",
-          "source": "Hyundai Motor Group",
-          "url": "https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-samsung-one-team-future-advanced-industry",
-          "publishedAt": "2026-11-11T03:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성·현대차, 배터리 공급 넘어 설계까지 맞손…전고체 개발도",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261110163700003",
-        "publishedAt": "2026-11-11T03:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-11T03:10:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "삼성",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261110163700003",
-      "rank": 4
-    },
-    {
-      "id": "f68ed8a8a31602ce",
-      "issueKey": "국회의원",
-      "issueTitle": "국회의원",
-      "trendTitle": "국회의원",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "추미애, 국회의원·도당과 예산협력…“경기도 재정난 함께 풀기로”",
-          "source": "인천일보",
-          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336499",
-          "publishedAt": "2026-11-11T03:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "(경기도 대변인 서면 브리핑)민주당 경기도당과 함께 경기도민의 삶을 지키겠습니다",
-          "source": "경기도뉴스포털",
-          "url": "https://gnews.gg.go.kr/briefing/brief_gongbo_view.do?BS_CODE=s017&amp;number=71960",
-          "publishedAt": "2026-11-11T03:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "재정난 경기도, 내년 예산안 법정 제출기한 넘겨 13일께 제출",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111056200061",
-          "publishedAt": "2026-11-11T03:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "추미애, 국회의원·도당과 예산협력…“경기도 재정난 함께 풀기로”",
-        "source": "인천일보",
-        "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336499",
-        "publishedAt": "2026-11-11T03:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-11T03:00:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "국회의원",
-      "source": "인천일보",
-      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336499",
-      "rank": 5
-    },
-    {
-      "id": "06d8bb1c8831eef2",
-      "issueKey": "김범",
-      "issueTitle": "김범",
-      "trendTitle": "김범",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김범, 해외서 의문의 여성과 포착…턱에 손대자 '깜짝'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261110_0003862006",
-          "publishedAt": "2026-11-11T03:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“여자 손이 쓱” 김범, 日여행 갔다가 깜짝 열애설..알고보니 지인 ‘해프닝’ [Oh!쎈 이슈]",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112908082",
-          "publishedAt": "2026-11-11T03:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "김범, 초밥 먹다가 볼 만지는 '의문의 여성' 손 포착...日데이트? 술렁",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/enter_general/2026/11/10/GI2GKNRZG4ZDSNRRMJSWKNJTME/",
-          "publishedAt": "2026-11-11T03:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김범, 해외서 의문의 여성과 포착…턱에 손대자 '깜짝'",
-        "source": "뉴시스",
-        "url": "https://www.newsis.com/view/NISX20261110_0003862006",
-        "publishedAt": "2026-11-11T03:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-11T03:00:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "김범",
-      "source": "뉴시스",
-      "url": "https://www.newsis.com/view/NISX20261110_0003862006",
-      "rank": 6
-    },
-    {
-      "id": "0b2dda9977d89175",
-      "issueKey": "이현중",
-      "issueTitle": "이현중",
-      "trendTitle": "이현중",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이현중, G리그 개막전 선발로 코트 밟았다…립시티 첫 경기 승리 견인",
-          "source": "제민일보",
-          "url": "http://www.jemin.com/news/articleView.html?idxno=846882",
-          "publishedAt": "2026-11-11T02:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘NBA 도전’ 이현중, G리그 개막전 출격…3득점 6리바운드",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8709638",
-          "publishedAt": "2026-11-11T02:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘NBA 재도전 시작’ 이현중, G리그 복귀전 선발 출격…24분 뛰고 3점 6리바운드",
-          "source": "점프볼",
-          "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065556563342870",
-          "publishedAt": "2026-11-11T02:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "이현중, G리그 개막전 선발로 코트 밟았다…립시티 첫 경기 승리 견인",
-        "source": "제민일보",
-        "url": "http://www.jemin.com/news/articleView.html?idxno=846882",
-        "publishedAt": "2026-11-11T02:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-11T02:50:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "이현중",
-      "source": "제민일보",
-      "url": "http://www.jemin.com/news/articleView.html?idxno=846882",
-      "rank": 7
-    },
-    {
-      "id": "dd5af3f35757e2a2",
-      "issueKey": "신동빈",
-      "issueTitle": "신동빈",
-      "trendTitle": "신동빈",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "롯데 유통 수장 3인방, 첫 성적표 '합격점'…신동빈 재신임 받을까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261109000602",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘쇄신 인사 1년’ 정현석·차우철·추대식, 롯데쇼핑 재건 특명…누가 제 몫 했나",
-          "source": "금융신문",
-          "url": "https://www.fntimes.com/html/view.php?ud=202611101406302092b5b890e35c_18",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
-        "publishedAt": "2026-11-11T02:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-11T02:30:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "신동빈",
-      "source": "인베스트조선",
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
-      "rank": 8
-    },
-    {
-      "id": "a183a8032f000aa7",
-      "issueKey": "포수",
-      "issueTitle": "포수",
-      "trendTitle": "포수",
+      "id": "4b3e3cafd2d4eeb9",
+      "issueKey": "외교관",
+      "issueTitle": "외교관",
+      "trendTitle": "외교관",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "메이저리그 3대 올스타 배출한 '명문 가문' 아버지 밥 분 별세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111061600007",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[공식발표] '아들이 9년째 양키스 감독' ML 최초 3대 메이저리거 가문 일군 GG 7회 레전드 밥 분 별세, 향년 78세",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111100450829501",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "“김여정, 자신이 공주라 생각…외교관과 말도 안 섞어” 탈북 외교관의 증언",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630069",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘3代 4명 올스타’ 야구 명문가의 전설…MLB 명포수 밥 분, 79세로 별세",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630409",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "탈북 외교관 \"김여정은 스스로 공주라 생각, 나와 말 안 섞어…나도 땡큐\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6348613",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘3代 4명 올스타’ 야구 명문가의 전설…MLB 명포수 밥 분, 79세로 별세",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11630409",
-        "publishedAt": "2026-11-11T02:30:00.000Z",
+        "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
+        "publishedAt": "2026-11-11T11:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T11:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "외교관",
+      "source": "주간조선",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
+      "rank": 4
+    },
+    {
+      "id": "a8c5d92bb744ac4c",
+      "issueKey": "xsmb",
+      "issueTitle": "xsmb",
+      "trendTitle": "xsmb",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
+          "source": "homeup.vn",
+          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+          "publishedAt": "2026-11-11T11:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
+          "publishedAt": "2026-11-11T11:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
+          "source": "CafeF",
+          "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn",
+          "publishedAt": "2026-11-11T11:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
+        "source": "homeup.vn",
+        "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+        "publishedAt": "2026-11-11T11:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T11:20:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "xsmb",
+      "source": "homeup.vn",
+      "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+      "rank": 5
+    },
+    {
+      "id": "03caf26350fcbaf2",
+      "issueKey": "일진전기",
+      "issueTitle": "일진전기",
+      "trendTitle": "일진전기",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "어제는 9% 오늘은 14% 급등…그래도 \"가장 저평가\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611110559i",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "일진전기, 3분기 영업익 전년비 98% 증가…수주잔고 3조원",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/industry/2026/11/11/2026111115334857081",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
+        "publishedAt": "2026-11-11T10:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-11T10:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "일진전기",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
+      "rank": 6
+    },
+    {
+      "id": "ae63f424005e52be",
+      "issueKey": "파주시",
+      "issueTitle": "파주시",
+      "trendTitle": "주차장",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863717",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261111001289",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "파주시, ‘공영주차장 24시간 콜센터’ 본격 운영",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261111010003663",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261111_0003863717",
+        "publishedAt": "2026-11-11T10:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T10:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "파주시",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261111_0003863717",
+      "rank": 7
+    },
+    {
+      "id": "65cc3bf6beecf7d2",
+      "issueKey": "태아는 괜찮을까",
+      "issueTitle": "태아는 괜찮을까",
+      "trendTitle": "태아는 괜찮을까",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6347861",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "병원 35곳서 ‘수용 불가’…청주서 서울로 120km 이송된 임신부",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710316",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
+        "publishedAt": "2026-11-11T10:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T10:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "태아는 괜찮을까",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
+      "rank": 8
+    },
+    {
+      "id": "fc7ecad333a37c37",
+      "issueKey": "인터뷰",
+      "issueTitle": "인터뷰",
+      "trendTitle": "인터뷰",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
+          "publishedAt": "2026-11-11T10:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[비평] 그래서 사랑이 가능합니까, 오진우 평론가의",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=111205",
+          "publishedAt": "2026-11-11T10:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'가능한 사랑' 조여정 \"美 아카데미 회원이지만 회비 미납해 투표권 없을 수도\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840384",
+          "publishedAt": "2026-11-11T10:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
+        "publishedAt": "2026-11-11T10:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T10:20:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "인터뷰",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
+      "rank": 9
+    },
+    {
+      "id": "2dd3800b535c6855",
+      "issueKey": "우원식",
+      "issueTitle": "우원식",
+      "trendTitle": "우원식",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
+          "source": "한국NGO신문",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922",
+          "publishedAt": "2026-11-11T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
+          "source": "프리진뉴스",
+          "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415",
+          "publishedAt": "2026-11-11T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘與 봉합 시도’ 우원식·박지원에… 정청래 “빠져라, 가던 길 가시라”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/",
+          "publishedAt": "2026-11-11T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘與 봉합 시도’ 우원식·박지원에… 정청래 “빠져라, 가던 길 가시라”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/",
+        "publishedAt": "2026-11-11T10:00:00.000Z",
         "relevanceScore": 1
       },
-      "publishedAt": "2026-11-11T02:30:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "포수",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11630409",
-      "rank": 9
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "우원식",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/",
+      "rank": 10
     }
   ],
   "history": [
@@ -484,142 +531,50 @@
       "url": "https://www.yonhapnewstv.co.kr/news/MYH202611102036062iy"
     },
     {
-      "id": "7d113b0be92f0a31",
-      "issueKey": "김부선",
-      "issueTitle": "김부선",
-      "trendTitle": "김부선",
+      "id": "03caf26350fcbaf2",
+      "issueKey": "일진전기",
+      "issueTitle": "일진전기",
+      "trendTitle": "일진전기",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "김부선 \"월 300만원 '무상 지원' 소송서 승리…2억 다 안 갚아도 된다\"",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6347578",
-          "publishedAt": "2026-11-09T09:10:00.000Z",
+          "title": "어제는 9% 오늘은 14% 급등…그래도 \"가장 저평가\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611110559i",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "’2억 변제 소송’ 김부선, 일부 승소…“완승과도 같은 결과“",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261109155246gBN",
-          "publishedAt": "2026-11-09T09:10:00.000Z",
+          "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
+          "source": "전기신문",
+          "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김부선 \"2억 변제 소송, 사실상 완승…원고 추가 청구 전부 기각\"",
+          "title": "일진전기, 3분기 영업익 전년비 98% 증가…수주잔고 3조원",
           "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/09/2026110915460134238",
-          "publishedAt": "2026-11-09T09:10:00.000Z",
+          "url": "https://www.mt.co.kr/industry/2026/11/11/2026111115334857081",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "김부선 \"월 300만원 '무상 지원' 소송서 승리…2억 다 안 갚아도 된다\"",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6347578",
-        "publishedAt": "2026-11-09T09:10:00.000Z",
-        "relevanceScore": 3
+        "title": "일진전기, 올 3Q 서프라이즈급 실적 달성...글로벌 호황에 수주고도 ‘탄탄’",
+        "source": "전기신문",
+        "url": "https://www.electimes.com/news/articleView.html?idxno=374644",
+        "publishedAt": "2026-11-11T10:30:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-11-09T09:10:00.000Z",
-      "firstSeenAt": "2026-11-09T10:57:32.952Z",
-      "lastSeenAt": "2026-11-09T10:57:32.952Z",
-      "title": "김부선",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/society/general-society/6347578"
-    },
-    {
-      "id": "dbc4dc4532104641",
-      "issueKey": "김장훈",
-      "issueTitle": "김장훈",
-      "trendTitle": "김장훈",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김장훈, 국민연금 예상액 듣고 깜짝…“그렇게 많이 주냐”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261109502306",
-          "publishedAt": "2026-11-09T08:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"이렇게 많이 줘?\" 63세 김장훈, 국민연금 수령액 깜짝...또 기부?",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/09/2026110917220064923",
-          "publishedAt": "2026-11-09T08:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "미운 우리 새끼 : 이소라, ‘스타일리스트’ 없는 김장훈 위해 직접 공연 의상 맞춤 코디 시작",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/enter/woori/clip/52019/OC483065713",
-          "publishedAt": "2026-11-09T08:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김장훈, 국민연금 예상액 듣고 깜짝…“그렇게 많이 주냐”",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261109502306",
-        "publishedAt": "2026-11-09T08:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-09T08:00:00.000Z",
-      "firstSeenAt": "2026-11-09T10:57:32.952Z",
-      "lastSeenAt": "2026-11-09T10:57:32.952Z",
-      "title": "김장훈",
-      "source": "세계일보",
-      "url": "https://www.segye.com/newsView/20261109502306"
-    },
-    {
-      "id": "ead4f51bf6fba539",
-      "issueKey": "구속",
-      "issueTitle": "구속",
-      "trendTitle": "구속",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "지하철에서 잠든 여성에 성폭력‥60대 남성 구속 송치",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "지하철서 잠든 20대 여성에 입 맞추고 신체 접촉…60대 구속 송치",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261109580406",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "심야 지하철서 잠든 여성에 성폭력…60대 구속 송치",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8707577",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "지하철에서 잠든 여성에 성폭력‥60대 남성 구속 송치",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html",
-        "publishedAt": "2026-11-09T07:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-09T07:50:00.000Z",
-      "firstSeenAt": "2026-11-09T10:57:32.952Z",
-      "lastSeenAt": "2026-11-09T10:57:32.952Z",
-      "title": "구속",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/news/2026/society/article/6864258_36918.html"
+      "publishedAt": "2026-11-11T10:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "일진전기",
+      "source": "전기신문",
+      "url": "https://www.electimes.com/news/articleView.html?idxno=374644"
     },
     {
       "id": "a527fe5846819fee",
@@ -680,6 +635,52 @@
       "title": "분당",
       "source": "세계일보",
       "url": "https://www.segye.com/newsView/20261109513181"
+    },
+    {
+      "id": "5795f8b7d495d13b",
+      "issueKey": "이종석",
+      "issueTitle": "이종석",
+      "trendTitle": "이종석",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘황후’ 신민아·새로 변신하는 이종석이 낯설다고요? 세계 여성들은 왜 이 장르에 푹 빠졌을까 [이윤정 기자의 소소월드]",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611111049001",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이세영 목걸이, 2000원짜리 테무템?…'재혼 황후' 의상 논란 해명",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/10/2026111015592940705",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "황제의 배신에 재혼으로 맞불…‘재혼 황후’의 인기 비결",
+          "source": "아시아투데이",
+          "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261110010003713",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘황후’ 신민아·새로 변신하는 이종석이 낯설다고요? 세계 여성들은 왜 이 장르에 푹 빠졌을까 [이윤정 기자의 소소월드]",
+        "source": "경향신문",
+        "url": "https://www.khan.co.kr/article/202611111049001",
+        "publishedAt": "2026-11-11T11:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T11:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "이종석",
+      "source": "경향신문",
+      "url": "https://www.khan.co.kr/article/202611111049001"
     },
     {
       "id": "55f20299ccf632c9",
@@ -864,52 +865,6 @@
       "title": "김승수",
       "source": "데일리안",
       "url": "https://www.dailian.co.kr/news/view/1712669/%EC%95%94%EC%82%B4%EC%9E%90%EB%93%A4%EB%8B%A5%ED%84%B0X-%EC%97%AD%EC%82%AC%EC%99%9C%EA%B3%A1-%EB%85%BC%EB%9E%80-%EA%B3%84%EA%B8%B0%E9%87%8E%EA%B9%80-2026"
-    },
-    {
-      "id": "6182b734e09509cb",
-      "issueKey": "한국 민속촌",
-      "issueTitle": "한국 민속촌",
-      "trendTitle": "한국 민속촌",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"말 잘 들을거야?\" 귀신 훈육 놀이에…터져버린 '아동학대' 논란",
-          "source": "SBS 뉴스",
-          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
-          "publishedAt": "2026-11-09T07:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"민속촌 참교육 중단해야\" '귀신 훈육' 아동학대 논란 [앵커리포트]",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0103_202611091416020041",
-          "publishedAt": "2026-11-09T07:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "“아이 훈육을 귀신에게?”…한국민속촌 ‘귀신 훈육’ 아동학대 논란",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261109580335",
-          "publishedAt": "2026-11-09T07:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한국 민속촌",
-        "source": "SBS 뉴스",
-        "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764",
-        "publishedAt": "2026-11-09T07:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-09T07:30:00.000Z",
-      "firstSeenAt": "2026-11-09T10:57:32.952Z",
-      "lastSeenAt": "2026-11-09T10:57:32.952Z",
-      "title": "한국 민속촌",
-      "source": "SBS 뉴스",
-      "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008836764"
     },
     {
       "id": "35a1c24b4d94a8f8",
@@ -1209,50 +1164,234 @@
       "url": "https://www.donga.com/news/Culture/article/all/20261110/134997213/2"
     },
     {
-      "id": "bd78aca5e947de1a",
-      "issueKey": "스타틴",
-      "issueTitle": "스타틴",
-      "trendTitle": "스타틴",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "48b333620cdcc889",
+      "issueKey": "고잔동",
+      "issueTitle": "고잔동",
+      "trendTitle": "고잔동",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "동맥경화성 심혈관질환 환자에 ‘이 약’ 추가했더니···‘나쁜 콜레스테롤’ 더 빨리 줄이는 데 효과",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611091453001",
-          "publishedAt": "2026-11-09T08:50:00.000Z",
+          "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
+          "publishedAt": "2026-11-11T11:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "심혈관질환, LDL 콜레스테롤 확 낮추는 '이 방법'",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860308",
-          "publishedAt": "2026-11-09T08:50:00.000Z",
+          "title": "[종합]인천 남동공단 도금공장서 염소가스 누출…5명 호흡곤란",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774610",
+          "publishedAt": "2026-11-11T11:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "스타틴·에제티미브 처음부터 함께 쓰면 LDL 목표 달성 2배 이상",
-          "source": "e-의료정보",
-          "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98754",
-          "publishedAt": "2026-11-09T08:50:00.000Z",
+          "title": "인천 남동국가산단 도금공장 유독가스 신고…남동구 “유독가스 아닌 것으로 판별”",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336620",
+          "publishedAt": "2026-11-11T11:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "스타틴·에제티미브 처음부터 함께 쓰면 LDL 목표 달성 2배 이상",
-        "source": "e-의료정보",
-        "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98754",
-        "publishedAt": "2026-11-09T08:50:00.000Z",
+        "title": "인천 고잔동 공장서 가스 누출 신고…5명 연기 흡입",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329",
+        "publishedAt": "2026-11-11T11:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T11:40:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "고잔동",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8710329"
+    },
+    {
+      "id": "4b3e3cafd2d4eeb9",
+      "issueKey": "외교관",
+      "issueTitle": "외교관",
+      "trendTitle": "외교관",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
+          "source": "주간조선",
+          "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“김여정, 자신이 공주라 생각…외교관과 말도 안 섞어” 탈북 외교관의 증언",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11630069",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "탈북 외교관 \"김여정은 스스로 공주라 생각, 나와 말 안 섞어…나도 땡큐\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6348613",
+          "publishedAt": "2026-11-11T11:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "탈북 외교관 \"김여정 스스로 공주라 생각…말도 안 섞어\"",
+        "source": "주간조선",
+        "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986",
+        "publishedAt": "2026-11-11T11:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T11:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "외교관",
+      "source": "주간조선",
+      "url": "http://weekly.chosun.com/news/articleView.html?idxno=56986"
+    },
+    {
+      "id": "a8c5d92bb744ac4c",
+      "issueKey": "xsmb",
+      "issueTitle": "xsmb",
+      "trendTitle": "xsmb",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
+          "source": "homeup.vn",
+          "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+          "publishedAt": "2026-11-11T11:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Kết quả xổ số miền Trung hôm nay 11.11: Khánh Hòa, Đà Nẵng",
+          "source": "Laodong.vn",
+          "url": "https://laodong.vn/ldt/tin-tuc/ket-qua-xo-so-mien-trung-hom-nay-1111-khanh-hoa-da-nang-1798739.ldo",
+          "publishedAt": "2026-11-11T11:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "XSCT 11/11 - Kết quả xổ số Cần Thơ hôm nay ngày 11 tháng 11",
+          "source": "CafeF",
+          "url": "https://cafef.vn/xsct-11-11-ket-qua-xo-so-can-tho-hom-nay-ngay-11-thang-11-188261111163739876.chn",
+          "publishedAt": "2026-11-11T11:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Phân tích thống kê XSMB Thứ 5 Ngày 12/11/2026 - Chốt Số Vàng May Mắn",
+        "source": "homeup.vn",
+        "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394",
+        "publishedAt": "2026-11-11T11:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T11:20:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "xsmb",
+      "source": "homeup.vn",
+      "url": "https://homeup.vn/tin-tuc/phan-tich-thong-ke-xsmb-thu-5-ngay-12112026-chot-so-vang-may-man-p7394"
+    },
+    {
+      "id": "65cc3bf6beecf7d2",
+      "issueKey": "태아는 괜찮을까",
+      "issueTitle": "태아는 괜찮을까",
+      "trendTitle": "태아는 괜찮을까",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "8개월 만삭에 뉴욕 마라톤 완주한 30대…\"임신하고 7번째예요\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/world/usa-canada/6347861",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "병원 35곳서 ‘수용 불가’…청주서 서울로 120km 이송된 임신부",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710316",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임신 34주에 마라톤 완주 ‘찬사’와 ‘우려’…태아는 괜찮을까? [건강팩트체크]",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2",
+        "publishedAt": "2026-11-11T10:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-11T10:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "태아는 괜찮을까",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/It/article/all/20261111/135004750/2"
+    },
+    {
+      "id": "2dd3800b535c6855",
+      "issueKey": "우원식",
+      "issueTitle": "우원식",
+      "trendTitle": "우원식",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "너무 속 보이는 민주당의 연합뉴스 지배구조 개편...연합뉴스에 특별한 문제가 돌출한 것도 아닌데 왜 법 개정 서두르나?",
+          "source": "한국NGO신문",
+          "url": "https://www.ngonews.kr/news/articleView.html?idxno=242922",
+          "publishedAt": "2026-11-11T10:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "공언련 \"민주당, 연합뉴스 지배구조 개편 추진…'언론노조에 경영권 넘기려는 눈속임'\"",
+          "source": "프리진뉴스",
+          "url": "https://www.freezinenews.com/news/articleView.html?idxno=31415",
+          "publishedAt": "2026-11-11T10:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "‘與 봉합 시도’ 우원식·박지원에… 정청래 “빠져라, 가던 길 가시라”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/",
+          "publishedAt": "2026-11-11T10:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘與 봉합 시도’ 우원식·박지원에… 정청래 “빠져라, 가던 길 가시라”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/",
+        "publishedAt": "2026-11-11T10:00:00.000Z",
         "relevanceScore": 1
       },
-      "publishedAt": "2026-11-09T08:50:00.000Z",
-      "firstSeenAt": "2026-11-09T10:57:32.952Z",
-      "lastSeenAt": "2026-11-09T10:57:32.952Z",
-      "title": "스타틴",
-      "source": "e-의료정보",
-      "url": "http://www.kmedinfo.co.kr/news/articleView.html?idxno=98754"
+      "publishedAt": "2026-11-11T10:00:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "우원식",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/"
     },
     {
       "id": "84d7bd7185857502",
@@ -1715,142 +1854,142 @@
       "url": "https://www.khan.co.kr/article/202611081518001"
     },
     {
-      "id": "e5d27ef5bd18caf4",
-      "issueKey": "가상자산 압류",
-      "issueTitle": "가상자산 압류",
-      "trendTitle": "가상자산",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "83de7e722854dfe2",
+      "issueKey": "겨울맞이 공연",
+      "issueTitle": "겨울맞이 공연",
+      "trendTitle": "겨울맞이 공연",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "대법, 가상자산 압류·현금화 절차 마련",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/society/12202498",
-          "publishedAt": "2026-11-09T09:20:00.000Z",
+          "title": "볼거리 더한 청라하늘대교, 이용료 부담 덜고 손님맞이",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336467",
+          "publishedAt": "2026-11-11T11:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "못 받은 돈, 채무자 코인 팔아 회수…대법원, 집행 절차 정비",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/09/2026110915384474564",
-          "publishedAt": "2026-11-09T09:20:00.000Z",
+          "title": "인천관광공사, THE SKY184 겨울맞이 공연·체험 프로그램 강화",
+          "source": "뉴스타운",
+          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367",
+          "publishedAt": "2026-11-11T11:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"코인 압류해달라\" 올해만 약 3200건…법원, 집행절차 마련",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860779",
-          "publishedAt": "2026-11-09T09:20:00.000Z",
+          "title": "청라하늘대교 ‘더 스카이184’, 연말 가족 명소로 단장",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20112472",
+          "publishedAt": "2026-11-11T11:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "대법, 가상자산 압류·현금화 절차 마련",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/society/12202498",
-        "publishedAt": "2026-11-09T09:20:00.000Z",
-        "relevanceScore": 3
+        "title": "인천관광공사, THE SKY184 겨울맞이 공연·체험 프로그램 강화",
+        "source": "뉴스타운",
+        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367",
+        "publishedAt": "2026-11-11T11:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-11-09T09:20:00.000Z",
-      "firstSeenAt": "2026-11-09T10:57:32.952Z",
-      "lastSeenAt": "2026-11-09T10:57:32.952Z",
-      "title": "가상자산 압류",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/society/12202498"
+      "publishedAt": "2026-11-11T11:50:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "겨울맞이 공연",
+      "source": "뉴스타운",
+      "url": "https://www.newstown.co.kr/news/articleView.html?idxno=721367"
     },
     {
-      "id": "f9510d718022a566",
-      "issueKey": "볼더링",
-      "issueTitle": "볼더링",
-      "trendTitle": "볼더링",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "ae63f424005e52be",
+      "issueKey": "파주시",
+      "issueTitle": "파주시",
+      "trendTitle": "주차장",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“어딘지 어색하더라니…” 고난도 볼더링 짜깁기 논란",
-          "source": "월간산",
-          "url": "http://san.chosun.com/news/articleView.html?idxno=26234",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
+          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261111_0003863717",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "고난도 볼더링 영상 짜깁기 논란…증거 요구 확산 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1080793",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
+          "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+          "source": "뉴스핌",
+          "url": "https://www.newspim.com/news/view/20261111001289",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "스포츠클라이밍 대표팀, 국가대항전서 볼더링·리드 은메달",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109124800007",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
+          "title": "파주시, ‘공영주차장 24시간 콜센터’ 본격 운영",
+          "source": "중도일보",
+          "url": "https://m.joongdo.co.kr/view.php?key=20261111010003663",
+          "publishedAt": "2026-11-11T10:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“어딘지 어색하더라니…” 고난도 볼더링 짜깁기 논란",
-        "source": "월간산",
-        "url": "http://san.chosun.com/news/articleView.html?idxno=26234",
-        "publishedAt": "2026-11-09T07:50:00.000Z",
+        "title": "파주시, 내년부터 '공영주차장 24시간 콜센터' 운영",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261111_0003863717",
+        "publishedAt": "2026-11-11T10:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-09T07:50:00.000Z",
-      "firstSeenAt": "2026-11-09T10:57:32.952Z",
-      "lastSeenAt": "2026-11-09T10:57:32.952Z",
-      "title": "볼더링",
-      "source": "월간산",
-      "url": "http://san.chosun.com/news/articleView.html?idxno=26234"
+      "publishedAt": "2026-11-11T10:30:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "파주시",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261111_0003863717"
     },
     {
-      "id": "f3a496101d171e81",
-      "issueKey": "에너지",
-      "issueTitle": "에너지",
-      "trendTitle": "에너지",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "fc7ecad333a37c37",
+      "issueKey": "인터뷰",
+      "issueTitle": "인터뷰",
+      "trendTitle": "인터뷰",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261109094200003",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
+          "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
+          "publishedAt": "2026-11-11T10:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "한전, 주택용 에너지캐시백 200만호 돌파…1025GWh 절감",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261109_0003860845",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
+          "title": "[비평] 그래서 사랑이 가능합니까, 오진우 평론가의",
+          "source": "씨네21",
+          "url": "https://cine21.com/news/view/?mag_id=111205",
+          "publishedAt": "2026-11-11T10:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "한전 \"주택용 에너지캐시백 200만호 돌파…도입 6년 만\"",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&amp;key=20261109.99099002562",
-          "publishedAt": "2026-11-09T07:50:00.000Z",
+          "title": "'가능한 사랑' 조여정 \"美 아카데미 회원이지만 회비 미납해 투표권 없을 수도\"",
+          "source": "SBS 뉴스",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008840384",
+          "publishedAt": "2026-11-11T10:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "한전 에너지캐시백 가입자 200만호…제주 가정 1년 전력량 절약",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261109094200003",
-        "publishedAt": "2026-11-09T07:50:00.000Z",
+        "title": "[인터뷰] 조인성 \"이창동 감독님은 영화의 신, 초심으로 돌아간 기분\"",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979",
+        "publishedAt": "2026-11-11T10:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-09T07:50:00.000Z",
-      "firstSeenAt": "2026-11-09T10:57:32.952Z",
-      "lastSeenAt": "2026-11-09T10:57:32.952Z",
-      "title": "에너지",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261109094200003"
+      "publishedAt": "2026-11-11T10:20:00.000Z",
+      "firstSeenAt": "2026-11-11T13:40:00.868Z",
+      "lastSeenAt": "2026-11-11T13:40:00.868Z",
+      "title": "인터뷰",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0117_202611101604268979"
     },
     {
       "id": "6e89adf712dc8f28",
@@ -2219,98 +2358,6 @@
       "title": "장동윤",
       "source": "programs.sbs.co.kr",
       "url": "https://programs.sbs.co.kr/enter/dongsang2/clip/52007/OC483091950"
-    },
-    {
-      "id": "09beca38a07d1ddc",
-      "issueKey": "코어위브",
-      "issueTitle": "코어위브",
-      "trendTitle": "코어위브",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결",
-          "source": "Investing.com 한국어",
-          "url": "https://kr.investing.com/news/company-news/article-93CH-2166112",
-          "publishedAt": "2026-11-10T14:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "코어위브, 개장 전 1% 하락: 3분기 실적 발표 앞두고 영국 자율주행 기업 웨이브와 다년간의 AI 클라우드 파트너십 체결",
-          "source": "TradingKey",
-          "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262298789-coreweave-premarket-down-wayve-ai-cloud-partnership-q3-earnings-tradingkey",
-          "publishedAt": "2026-11-10T14:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "웨이브, 코어위브 클라우드로 자율주행 AI 학습",
-          "source": "비건뉴스",
-          "url": "https://www.vegannews.co.kr/news/article.html?no=402815",
-          "publishedAt": "2026-11-10T14:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "코어위브, 개장 전 1% 하락: 3분기 실적 발표 앞두고 영국 자율주행 기업 웨이브와 다년간의 AI 클라우드 파트너십 체결",
-        "source": "TradingKey",
-        "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262298789-coreweave-premarket-down-wayve-ai-cloud-partnership-q3-earnings-tradingkey",
-        "publishedAt": "2026-11-10T14:00:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "firstSeenAt": "2026-11-10T16:48:34.574Z",
-      "lastSeenAt": "2026-11-10T16:48:34.574Z",
-      "title": "코어위브",
-      "source": "TradingKey",
-      "url": "https://www.tradingkey.com/kr/analysis/stocks/us-stocks/262298789-coreweave-premarket-down-wayve-ai-cloud-partnership-q3-earnings-tradingkey"
-    },
-    {
-      "id": "0bb7bd17813de805",
-      "issueKey": "고발",
-      "issueTitle": "고발",
-      "trendTitle": "고발",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"낑낑\" 묶인 채 봉투 속에‥'이거 심상치 않다' 주변 뒤졌더니‥",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6864656_37004.html",
-          "publishedAt": "2026-11-10T13:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "입 묶여 비닐봉지에 버려진 강아지…경찰 고발장 접수",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110150918ckC",
-          "publishedAt": "2026-11-10T13:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "테이프로 입 묶여 끙끙...검은 봉지 속 버려진 강아지들",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/10/2026111022042477465",
-          "publishedAt": "2026-11-10T13:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "입 묶여 비닐봉지에 버려진 강아지…경찰 고발장 접수",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110150918ckC",
-        "publishedAt": "2026-11-10T13:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-10T13:20:00.000Z",
-      "firstSeenAt": "2026-11-10T16:48:34.574Z",
-      "lastSeenAt": "2026-11-10T16:48:34.574Z",
-      "title": "고발",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261110150918ckC"
     }
   ]
 }
