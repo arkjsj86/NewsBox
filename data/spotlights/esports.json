@@ -3,7 +3,7 @@
   "type": "league-schedule",
   "source": "LoL Esports",
   "sourceMode": "official-schedule",
-  "lastUpdatedAt": "2026-11-11T21:45:02.029Z",
+  "lastUpdatedAt": "2026-11-12T05:59:39.688Z",
   "activeLeagueKey": "worlds",
   "activeLeagueLabel": "Worlds",
   "title": "경기 일정",
@@ -48,8 +48,9 @@
     {
       "key": "ewc",
       "label": "EWC",
-      "ok": true,
-      "matchCount": 0
+      "ok": false,
+      "matchCount": 0,
+      "error": "HTTP 502"
     },
     {
       "key": "msi",
