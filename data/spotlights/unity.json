@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-11-12T05:59:39.688Z",
+  "lastUpdatedAt": "2026-11-12T15:01:10.745Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
+      "id": "yMrlutMnhpc",
+      "title": "[2D 게임 개발 꿀팁 시리즈] 2D 게임 그림자 성능",
+      "url": "https://www.youtube.com/shorts/yMrlutMnhpc",
+      "publishedAt": "2026-11-12T04:43:04.000Z",
+      "thumbnailUrl": "https://i2.ytimg.com/vi/yMrlutMnhpc/hqdefault.jpg"
+    },
+    {
       "id": "b_54QgNYiWM",
       "title": "Unity의 CoreCLR 대응에 대해 쉽게 알려드립니다!",
       "url": "https://www.youtube.com/shorts/b_54QgNYiWM",
       "publishedAt": "2026-11-10T02:27:53.000Z",
       "thumbnailUrl": "https://i3.ytimg.com/vi/b_54QgNYiWM/hqdefault.jpg"
-    },
-    {
-      "id": "zMMACezlItM",
-      "title": "[2D 게임 개발 꿀팁 시리즈] 2D 배칭 최적화",
-      "url": "https://www.youtube.com/shorts/zMMACezlItM",
-      "publishedAt": "2026-11-09T05:02:34.000Z",
-      "thumbnailUrl": "https://i3.ytimg.com/vi/zMMACezlItM/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
