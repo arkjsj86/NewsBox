@@ -3,29 +3,20 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-11-12T15:01:10.745Z",
+  "lastUpdatedAt": "2026-11-12T23:15:40.867Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
-  "itemCount": 2,
+  "itemCount": 1,
   "offers": [
     {
-      "id": "3be0a0d8479946d78f60d90c9442a0b4",
-      "title": "표류도시",
-      "seller": "Pajama Llama Games",
-      "url": "https://store.epicgames.com/ko/p/flotsam-266287",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-12rh8.jpg",
-      "originalPriceLabel": "₩26,000",
-      "freeUntil": "2026-11-12T16:00:00.000Z"
-    },
-    {
-      "id": "a9748abde1c94b66aae5250bb9fc5503",
-      "title": "Idle Champions of the Forgotten Realms",
-      "seller": "Codename Entertainment",
-      "url": "https://store.epicgames.com/ko/p/idle-champions-of-the-forgotten-realms",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-sykbg.jpg",
-      "originalPriceLabel": "0",
-      "freeUntil": "2026-11-12T16:00:00.000Z"
+      "id": "9975548b6d404a94b8a9bdb34cad49e9",
+      "title": "Knightica",
+      "seller": "Goblinz Studio SAS",
+      "url": "https://store.epicgames.com/ko/p/knightica-3be45c",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1xc3d.png",
+      "originalPriceLabel": "₩15,300",
+      "freeUntil": "2026-11-19T16:00:00.000Z"
     }
   ],
   "issues": {
@@ -99,19 +90,13 @@
       "key": "epic-free-games",
       "source": "Epic Games Store",
       "ok": true,
-      "itemCount": 2
+      "itemCount": 1
     },
     {
-      "key": "ruliweb-issues",
-      "source": "Ruliweb BEST 뉴스",
-      "ok": true,
-      "itemCount": 5
-    },
-    {
-      "key": "inven-issues",
-      "source": "Inven 주요뉴스",
-      "ok": true,
-      "itemCount": 5
+      "key": "game-issues",
+      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
+      "ok": false,
+      "error": "fetch failed"
     }
   ]
 }
