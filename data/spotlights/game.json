@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-11-12T23:15:40.867Z",
+  "lastUpdatedAt": "2026-11-13T05:24:29.901Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -36,19 +36,19 @@
           "meta": "댓글 7"
         },
         {
-          "title": "포에버 아제로스, '월드 오브 워크래프트 포에버' 소장판 언박싱",
-          "url": "https://bbs.ruliweb.com/news/read/231550",
-          "meta": "댓글 14"
+          "title": "목표치 초과 달성, 내년에는 신작 10종 대기 중 - 엔씨 2026 3분기 실적발표",
+          "url": "https://bbs.ruliweb.com/news/read/231796",
+          "meta": "댓글 26"
+        },
+        {
+          "title": "엔비디아 이사회, ‘젠슨 황’ CEO 즉시 사임 발표",
+          "url": "https://bbs.ruliweb.com/news/read/231872",
+          "meta": "댓글 71"
         },
         {
           "title": "엔드림, 지난 3일(화)부터 RTS '프로젝트: 진달래 (AZALEA)' 2차 CBT 참가자 모집 중",
           "url": "https://bbs.ruliweb.com/news/read/231590",
           "meta": "댓글 9"
-        },
-        {
-          "title": "목표치 초과 달성, 내년에는 신작 10종 대기 중 - 엔씨 2026 3분기 실적발표",
-          "url": "https://bbs.ruliweb.com/news/read/231796",
-          "meta": "댓글 19"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
-          "title": "5주년 앞둔 '헤븐 번즈 레드', 1월 31일 특별 라이브 예고",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323326",
-          "meta": "헤븐 번즈 레드 · 32분 전"
+          "title": "SOOP, 스타크래프트 대회 '케빈 스크림' 16일 개막",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323341",
+          "meta": "스타크래프트2 · 2시간 전"
         },
         {
-          "title": "이젠 에디터 밖으로 나아간다, 유니티의 AI 생태계 접근법 세 가지",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323319",
+          "title": "펄어비스, 2027년 채용 연계 겨울 인턴 모집",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323343",
+          "meta": "2시간 전"
+        },
+        {
+          "title": "라인게임즈, 중국 '위플레이 엑스포' 참여한다",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323340",
+          "meta": "엠버 앤 블레이드 · 2시간 전"
+        },
+        {
+          "title": "컬러스위퍼, '나의 비밀친구 해치'와 콜라보 진행",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323337",
+          "meta": "컬러스위퍼 · 2시간 전"
+        },
+        {
+          "title": "'크런치롤' AGF 2026 첫 참가, 포토존과 체험존 마련",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323336",
           "meta": "3시간 전"
-        },
-        {
-          "title": "전 GTA5 수석 디자이너 노자명 대표, \"시스템과 디테일, 경험이 관건\"",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323313",
-          "meta": "4시간 전"
-        },
-        {
-          "title": "메이플 겨울 쇼케이스는 12/12(토)! 블루 아카이브와의 콜라보도 진행",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323317",
-          "meta": "메이플스토리 · 5시간 전"
-        },
-        {
-          "title": "프리스톤테일, 24주년 기념 이벤트와 신규 필드 공개",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323321",
-          "meta": "프리스톤테일 · 7시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }

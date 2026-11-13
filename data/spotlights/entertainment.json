@@ -7,483 +7,529 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-11-12T23:15:40.867Z",
+  "lastUpdatedAt": "2026-11-13T05:24:29.901Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "0764aac9101bd93c",
-      "issueKey": "italy national football team vs france national football team standings",
-      "issueTitle": "italy national football team vs france national football team standings",
-      "trendTitle": "italy national football team vs france national football team standings",
+      "id": "abb80876db4a8f51",
+      "issueKey": "광교신도시",
+      "issueTitle": "광교신도시",
+      "trendTitle": "광교신도시",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611123258i",
+          "publishedAt": "2026-11-13T04:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726",
+          "publishedAt": "2026-11-13T04:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "GH 추진 전국 첫 지분적립형 분양주택 1순위 경쟁률 '100:1'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111175000061",
+          "publishedAt": "2026-11-13T04:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "광교신도시",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611123258i",
+        "publishedAt": "2026-11-13T04:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T04:20:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "광교신도시",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611123258i",
+      "rank": 1
+    },
+    {
+      "id": "5dd0949d5c32bef6",
+      "issueKey": "힌지 결함",
+      "issueTitle": "힌지 결함",
+      "trendTitle": "힌지 결함",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'화면 여백' 지적받은 아이폰 듀오…최적화 앱 10만개 넘었다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1198195",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "애플 “아이폰 듀오 최적화 앱 10만 개 돌파…매일 수 천개 추가”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261113/135020284/1",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불량 부품 때문\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261110131755",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불량 부품 때문\"",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20261110131755",
+        "publishedAt": "2026-11-13T04:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-11-13T04:10:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "힌지 결함",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20261110131755",
+      "rank": 2
+    },
+    {
+      "id": "203f98a8f51a9af8",
+      "issueKey": "오산시",
+      "issueTitle": "오산시",
+      "trendTitle": "오산시",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "행복기숙사, 인재장학금, 문화패스 등 오산시 청년 지원책 확대 노력",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774656",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "조용호 오산시장, 청년 학업·성장 기회 확대에 온힘…“경제적 걸림돌 학업 방해되지 않도록 노력”",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336651",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"배움에 걸림돌 없도록\"…오산시, 청년 주거·장학금",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/12/2026111216413780198",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "행복기숙사, 인재장학금, 문화패스 등 오산시 청년 지원책 확대 노력",
+        "source": "경인일보",
+        "url": "https://www.kyeongin.com/article/1774656",
+        "publishedAt": "2026-11-13T04:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T04:10:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "오산시",
+      "source": "경인일보",
+      "url": "https://www.kyeongin.com/article/1774656",
+      "rank": 3
+    },
+    {
+      "id": "b2552e115d8df9d4",
+      "issueKey": "한국가스",
+      "issueTitle": "한국가스",
+      "trendTitle": "한국가스",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611134120i",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "가스공사, 3분기 영업익 5878억원…해외사업 개선에 전년比 51%↑",
+          "source": "기후에너지데이터뱅크",
+          "url": "https://edata.ekn.kr/article/view/ekn202611120008",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "비싸게 사서 싸게 파는데…한전은 울고 가스公은 웃었다",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444611",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611134120i",
+        "publishedAt": "2026-11-13T04:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T04:10:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "한국가스",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611134120i",
+      "rank": 4
+    },
+    {
+      "id": "b3cfcb93c9fa3c59",
+      "issueKey": "박신영",
+      "issueTitle": "박신영",
+      "trendTitle": "박신영",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "How Italy players responded when fans booed France’s anthem",
-          "source": "Football Italia",
-          "url": "https://football-italia.net/italy-players-respond-fans-booed-france-anthem/",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
+          "title": "‘사망 사고’ 낸 박신영 “구조 않고 차에 숨었다? 사실 아냐”…틱톡커로 등장한 이유 있었다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10933678",
+          "publishedAt": "2026-11-13T04:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Licensable picture: Soccer 2026: Nations League: Italy 3:1 France",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/soccer-2026-nations-league-italy-31-france/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMVpVTUEwMDBYOFRYVlI",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
+          "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611110001377383",
+          "publishedAt": "2026-11-13T04:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Zizou suffers first France loss as Italy celebrate 64-years first as they stun Les Bleus in comeback win",
-          "source": "football360.com.au",
-          "url": "https://football360.com.au/france-italy-highlights-uefa-nations-league/",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
+          "title": "“쉽게 무너지지 않을 것”…‘배달원 사망사고’ 박신영 전 아나, 8만 틱톡커 변신",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20112221",
+          "publishedAt": "2026-11-13T04:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "italy national football team vs france national football team standings",
-        "source": "Football Italia",
-        "url": "https://football-italia.net/italy-players-respond-fans-booed-france-anthem/",
-        "publishedAt": "2026-11-12T22:10:00.000Z",
+        "title": "‘사망 사고’ 낸 박신영 “구조 않고 차에 숨었다? 사실 아냐”…틱톡커로 등장한 이유 있었다",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10933678",
+        "publishedAt": "2026-11-13T04:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-12T22:10:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "italy national football team vs france national football team standings",
-      "source": "Football Italia",
-      "url": "https://football-italia.net/italy-players-respond-fans-booed-france-anthem/",
-      "rank": 1
-    },
-    {
-      "id": "d4fb162ca97d0d62",
-      "issueKey": "라이언 와이스",
-      "issueTitle": "라이언 와이스",
-      "trendTitle": "라이언 와이스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한화 복귀 왜 거부했나, 페디보다 좋은 대우라니…2년 최대 550만 달러, 선발 7명 빠져나간 SD '1호 영입'",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/12/MQ4WIODBMUYGEMJWMUYTMNZSHA/",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"ML 보장 때문에 계약\"...'73억 SD행' 와이스, 한화 제안 왜 뿌리칠 수밖에 없었나",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/12/202611120856771390O",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'대전 예수' 와이스, MLB 샌디에이고행…송성문과 한솥밥",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111103000007",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "라이언 와이스",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-baseball/2026/11/12/MQ4WIODBMUYGEMJWMUYTMNZSHA/",
-        "publishedAt": "2026-11-12T22:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-12T22:10:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "라이언 와이스",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-baseball/2026/11/12/MQ4WIODBMUYGEMJWMUYTMNZSHA/",
-      "rank": 2
-    },
-    {
-      "id": "84bea831bbc15949",
-      "issueKey": "한전",
-      "issueTitle": "한전",
-      "trendTitle": "한전",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한전, 3분기 누계 영업익 43% 급감…4분기 적자 우려↑",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374700",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "한전, 3분기 영업익 1조6441억원…연료·전력구입비 늘어 전년比 71%↓",
-          "source": "기후에너지데이터뱅크",
-          "url": "https://edata.ekn.kr/article/view/ekn202611120009",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "한전 13분기 연속 흑자에도…중동발 연료비 폭탄에 영업익 43% 급감",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04529686645645064",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한전, 3분기 누계 영업익 43% 급감…4분기 적자 우려↑",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=374700",
-        "publishedAt": "2026-11-12T22:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-12T22:10:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "한전",
-      "source": "전기신문",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=374700",
-      "rank": 3
-    },
-    {
-      "id": "cb25bf739544bdd8",
-      "issueKey": "나스닥 지수",
-      "issueTitle": "나스닥 지수",
-      "trendTitle": "나스닥 지수",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "코어위브가 불 지폈다, 뉴욕증시 일제히 상승",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3937_2_C1",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "코어위브가 되살린 AI 랠리…마이크론 12% 폭등, 코스피 반등 이어질까 [오늘 아침 당신이 알아야 할 7가지]",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611121547i",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[뉴스프레소] 뉴욕증시, 코어위브발 일제히 상승… 엔비디아 시간외 폭락, 후임은?",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/12/2026111212337067771",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "나스닥 지수",
-        "source": "네이버페이 머니스토리",
-        "url": "https://story.pay.naver.com/content/3937_2_C1",
-        "publishedAt": "2026-11-12T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-12T22:00:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "나스닥 지수",
-      "source": "네이버페이 머니스토리",
-      "url": "https://story.pay.naver.com/content/3937_2_C1",
-      "rank": 4
-    },
-    {
-      "id": "d14f5bfb79197b6f",
-      "issueKey": "위조품",
-      "issueTitle": "위조품",
-      "trendTitle": "위조품",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "부총리는 밀수, 위조품 제조 및 거래, 그리고 금지 물품 거래와 관련된 사건들을 엄격히 처벌하도록 지시했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/pho-thu-tuong-thuong-truc-chi-dao-xet-xu-nghiem-cac-vu-an-ve-buon-lau-san-xuat-buon-ban-hang-gia-hang-cam",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "호치민시, 10개월 동안 6,000건 이상의 상품 위반 사례 처리",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/kinh-doanh/tphcm-xu-ly-hon-6000-vu-vi-pham-ve-hang-hoa-trong-10-thang-1799330.ldo",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "2026년 11월 12일자 정부 및 총리의 지침 및 명령.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-12-11-2026",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "부총리는 밀수, 위조품 제조 및 거래, 그리고 금지 물품 거래와 관련된 사건들을 엄격히 처벌하도록 지시했다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/pho-thu-tuong-thuong-truc-chi-dao-xet-xu-nghiem-cac-vu-an-ve-buon-lau-san-xuat-buon-ban-hang-gia-hang-cam",
-        "publishedAt": "2026-11-12T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-12T22:00:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "위조품",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/pho-thu-tuong-thuong-truc-chi-dao-xet-xu-nghiem-cac-vu-an-ve-buon-lau-san-xuat-buon-ban-hang-gia-hang-cam",
+      "publishedAt": "2026-11-13T04:00:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "박신영",
+      "source": "헤럴드경제",
+      "url": "https://biz.heraldcorp.com/article/10933678",
       "rank": 5
     },
     {
-      "id": "281776e40f977936",
-      "issueKey": "비핵화",
-      "issueTitle": "비핵화",
-      "trendTitle": "비핵화",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "北 “핵보유국 지위, 서방 논의 대상 될수없어”",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261113/135017602/2",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "G7, 北 러시아 군사지원 규탄‥\"파병 병력 철수하라\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865077_36925.html",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "북한 최선희, G7 비핵화 촉구에 반발…“핵보유, 정당 주권행사”",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611121946001",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "북한 최선희, G7 비핵화 촉구에 반발…“핵보유, 정당 주권행사”",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611121946001",
-        "publishedAt": "2026-11-12T21:50:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-11-12T21:50:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "비핵화",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202611121946001",
-      "rank": 6
-    },
-    {
-      "id": "59f0a7f3b2b04abc",
-      "issueKey": "우리나라 트램",
-      "issueTitle": "우리나라 트램",
-      "trendTitle": "우리나라 트램",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "우리나라 트램, 고종 황제가 명성황후 묘 방문하려 설치했어요",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/kid/kid_national/2026/11/12/3EKBCSKKGVGC3DCKS6GZG32YFU/",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "다 지어놓고도 못 달린다… 위례트램, 개통은 대체 언제?",
-          "source": "네이버페이 머니스토리",
-          "url": "https://story.pay.naver.com/content/3879_28_C10",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "위례 주민, 권익위에 집단 민원…\"철도 부담재원 4300억 조사해달라\" [PICK]",
-          "source": "철도경제신문",
-          "url": "https://www.redaily.co.kr/news/articleView.html?idxno=18167",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "우리나라 트램, 고종 황제가 명성황후 묘 방문하려 설치했어요",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/kid/kid_national/2026/11/12/3EKBCSKKGVGC3DCKS6GZG32YFU/",
-        "publishedAt": "2026-11-12T21:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-12T21:50:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "우리나라 트램",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/kid/kid_national/2026/11/12/3EKBCSKKGVGC3DCKS6GZG32YFU/",
-      "rank": 7
-    },
-    {
-      "id": "12a6379ddd1ee8e4",
-      "issueKey": "박성현",
-      "issueTitle": "박성현",
-      "trendTitle": "박성현",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "침묵 깬 박성현, 3R 2언더파 반등…KLPGA 복귀 ‘운명의 최종전’ 남았다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20113607",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "KLPGA의 ‘소탐대실 헛스윙’",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261111070201795",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘전 세계 1위’ 박성현, 시드순위전 3R 현재 53위…최종일에 KLPGA 정규투어 뛸 순위 오를 가능성은 충분",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611121616013",
-          "publishedAt": "2026-11-12T21:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "침묵 깬 박성현, 3R 2언더파 반등…KLPGA 복귀 ‘운명의 최종전’ 남았다",
-        "source": "서울경제",
-        "url": "https://www.sedaily.com/article/20113607",
-        "publishedAt": "2026-11-12T21:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-12T21:50:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "박성현",
-      "source": "서울경제",
-      "url": "https://www.sedaily.com/article/20113607",
-      "rank": 8
-    },
-    {
-      "id": "d7afc29514584887",
-      "issueKey": "정성호",
-      "issueTitle": "정성호",
-      "trendTitle": "정성호",
+      "id": "253d1510caf53620",
+      "issueKey": "이름",
+      "issueTitle": "이름",
+      "trendTitle": "이름",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "정성호 \"보완수사권 폐지, 급했다…피해자 보호장치 더 넣어야\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261112146700001",
-          "publishedAt": "2026-11-12T21:40:00.000Z",
+          "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147242",
+          "publishedAt": "2026-11-13T03:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "정성호, 법무장관 공백에 \"대통령께 죄송…이용철 청렴하고 강직\"",
+          "title": "카카오 업무용 메신저 해킹…이름·연락처 유출",
           "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261112143555LFG",
-          "publishedAt": "2026-11-12T21:40:00.000Z",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611131353425BK",
+          "publishedAt": "2026-11-13T03:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"보완수사 요구권만으로는 안되는 것\" 정성호의 작심발언 배경은? (261112 목요일 클립) 김민하 신인규 이유진",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/video/article/202611122100001",
-          "publishedAt": "2026-11-12T21:40:00.000Z",
+          "title": "카카오워크 뚫렸다…카카오엔터프라이즈 전·현직 임직원 정보 유출",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261113000152",
+          "publishedAt": "2026-11-13T03:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "정성호 \"보완수사권 폐지, 급했다…피해자 보호장치 더 넣어야\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261112146700001",
-        "publishedAt": "2026-11-12T21:40:00.000Z",
-        "relevanceScore": 3
+        "title": "카카오 업무용 메신저 해킹…이름·연락처 유출",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH202611131353425BK",
+        "publishedAt": "2026-11-13T03:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-11-12T21:40:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "정성호",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261112146700001",
-      "rank": 9
+      "publishedAt": "2026-11-13T03:50:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "이름",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202611131353425BK",
+      "rank": 6
     },
     {
-      "id": "8815c74ad2d3dcaf",
-      "issueKey": "thời tiết",
-      "issueTitle": "thời tiết",
-      "trendTitle": "thời tiết",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "85835297bf18c886",
+      "issueKey": "비서",
+      "issueTitle": "비서",
+      "trendTitle": "비서",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Bắc Bộ mưa dông diện rộng, Nam Bộ có mưa rải rác",
-          "source": "Báo Nhân Dân điện tử",
-          "url": "https://nhandan.vn/bac-bo-mua-dong-dien-rong-nam-bo-co-mua-rai-rac-post1002265.html",
-          "publishedAt": "2026-11-12T21:40:00.000Z",
+          "title": "고1때 회계 빠져 열공, 로펌 비서하다 오기… ‘士’자 꿈 이뤘다[‘17세의 기술’ 대한민국을 만든다]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11631046",
+          "publishedAt": "2026-11-13T03:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Dự báo thời tiết đêm 12 và ngày 13/11",
-          "source": "Báo Lào Cai điện tử",
-          "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-12-va-ngay-1311-post914336.html",
-          "publishedAt": "2026-11-12T21:40:00.000Z",
+          "title": "‘AI 비서’가 민원 전화까지?⋯공무원들 “답해야 하나”",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261112502069",
+          "publishedAt": "2026-11-13T03:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Bản tin dự báo thời tiết đêm nay và ngày mai 13.11",
-          "source": "Laodong.vn",
-          "url": "https://laodong.vn/video-xa-hoi/ban-tin-du-bao-thoi-tiet-dem-nay-va-ngay-mai-1311-1799299.ldo",
-          "publishedAt": "2026-11-12T21:40:00.000Z",
+          "title": "환불 요청 전화도 건다, 제미나이 앞지른 ‘피클’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25477485",
+          "publishedAt": "2026-11-13T03:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Dự báo thời tiết đêm 12 và ngày 13/11",
-        "source": "Báo Lào Cai điện tử",
-        "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-12-va-ngay-1311-post914336.html",
-        "publishedAt": "2026-11-12T21:40:00.000Z",
-        "relevanceScore": 2
+        "title": "고1때 회계 빠져 열공, 로펌 비서하다 오기… ‘士’자 꿈 이뤘다[‘17세의 기술’ 대한민국을 만든다]",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11631046",
+        "publishedAt": "2026-11-13T03:40:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-11-12T21:40:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "thời tiết",
-      "source": "Báo Lào Cai điện tử",
-      "url": "https://baolaocai.vn/du-bao-thoi-tiet-dem-12-va-ngay-1311-post914336.html",
+      "publishedAt": "2026-11-13T03:40:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "비서",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11631046",
+      "rank": 7
+    },
+    {
+      "id": "68eb822ac1bc01dd",
+      "issueKey": "이탈",
+      "issueTitle": "이탈",
+      "trendTitle": "이더 리움",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이더리움(ETH), 2,000달러 하회 후 2,024달러 회복…ETF 이탈·비트마인 매집 맞부딪혀",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/269786",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이더리움 2000달러선 위태…ETF도 5거래일 연속 순유출",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715246",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이더리움 5% 하락…美 중간선거 여파에 290만원대로 '뚝'[특징코인]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6347790",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이더리움(ETH), 2,000달러 하회 후 2,024달러 회복…ETF 이탈·비트마인 매집 맞부딪혀",
+        "source": "코인리더스",
+        "url": "https://www.coinreaders.com/269786",
+        "publishedAt": "2026-11-13T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T03:30:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "이탈",
+      "source": "코인리더스",
+      "url": "https://www.coinreaders.com/269786",
+      "rank": 8
+    },
+    {
+      "id": "657dc6cdddc82964",
+      "issueKey": "평화통일",
+      "issueTitle": "평화통일",
+      "trendTitle": "평화통일",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "대형 행사 잇따라 앞둔 시진핑, 대만 문제 유화 발언…“평화통일·대화 원해”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "中 출신 아이들 우기, '하나의 중국' 공개 지지",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867109",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "시진핑, APEC·대만지방선거 앞두고 '평화통일·대화' 유화 발언",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261112116900083",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "대형 행사 잇따라 앞둔 시진핑, 대만 문제 유화 발언…“평화통일·대화 원해”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074",
+        "publishedAt": "2026-11-13T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T03:30:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "평화통일",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074",
+      "rank": 9
+    },
+    {
+      "id": "e7dac8a325d65f04",
+      "issueKey": "lpga",
+      "issueTitle": "lpga",
+      "trendTitle": "lpga",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Choi Hye-jin Grabs First-Round Lead with 9-Under at LPGA The Annika, Renewing Quest for Maiden Title",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Korda Trails Katsu and Choi by Two on Day One at The ANNIKA",
+          "source": "LPGA",
+          "url": "https://www.lpga.com/news/2026/korda-trails-katsu-and-choi-by-two-on-day-one-at-the-annika",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Choi Hyejin's Flawless Play... 'Nine Birdies, No Bogeys'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/world-general/2026111307501346440",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Choi Hye-jin Grabs First-Round Lead with 9-Under at LPGA The Annika, Renewing Quest for Maiden Title",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282",
+        "publishedAt": "2026-11-13T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T03:30:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "lpga",
+      "source": "news.sbs.co.kr",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282",
       "rank": 10
     }
   ],
   "history": [
+    {
+      "id": "5dd0949d5c32bef6",
+      "issueKey": "힌지 결함",
+      "issueTitle": "힌지 결함",
+      "trendTitle": "힌지 결함",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'화면 여백' 지적받은 아이폰 듀오…최적화 앱 10만개 넘었다",
+          "source": "매일경제 마켓",
+          "url": "https://stock.mk.co.kr/news/view/1198195",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "애플 “아이폰 듀오 최적화 앱 10만 개 돌파…매일 수 천개 추가”",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/It/article/all/20261113/135020284/1",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불량 부품 때문\"",
+          "source": "지디넷코리아",
+          "url": "https://zdnet.co.kr/view/?no=20261110131755",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"아이폰 듀오 힌지 결함, 설계 문제 아닌 불량 부품 때문\"",
+        "source": "지디넷코리아",
+        "url": "https://zdnet.co.kr/view/?no=20261110131755",
+        "publishedAt": "2026-11-13T04:10:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-11-13T04:10:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "힌지 결함",
+      "source": "지디넷코리아",
+      "url": "https://zdnet.co.kr/view/?no=20261110131755"
+    },
     {
       "id": "11696ed3320a69c7",
       "issueKey": "원태인",
@@ -899,50 +945,96 @@
       "url": "https://www.khan.co.kr/article/202611111049001"
     },
     {
-      "id": "55f20299ccf632c9",
-      "issueKey": "강진군",
-      "issueTitle": "강진군",
-      "trendTitle": "공무원",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "b3cfcb93c9fa3c59",
+      "issueKey": "박신영",
+      "issueTitle": "박신영",
+      "trendTitle": "박신영",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "강진군, 공무원 AI활용 능력 근무성적평가 반영",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111044000054",
-          "publishedAt": "2026-11-11T03:50:00.000Z",
+          "title": "‘사망 사고’ 낸 박신영 “구조 않고 차에 숨었다? 사실 아냐”…틱톡커로 등장한 이유 있었다",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10933678",
+          "publishedAt": "2026-11-13T04:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"AI 역량을 근무평정에 반영\"… 강진군, 디지털 행정 혁신 속도",
-          "source": "녹색경제신문",
-          "url": "https://www.greened.kr/news/articleView.html?idxno=354349",
-          "publishedAt": "2026-11-11T03:50:00.000Z",
+          "title": "'과속 사망사고' 前 아나운서, 복귀 시동…\"평생 반성한다더니\" 온라인 시끌",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611110001377383",
+          "publishedAt": "2026-11-13T04:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "정선군, 인공지능 기반 민원 안내 시스템 자체 개발 추진",
-          "source": "일간투데이",
-          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=802609",
-          "publishedAt": "2026-11-11T03:50:00.000Z",
+          "title": "“쉽게 무너지지 않을 것”…‘배달원 사망사고’ 박신영 전 아나, 8만 틱톡커 변신",
+          "source": "서울경제",
+          "url": "https://www.sedaily.com/article/20112221",
+          "publishedAt": "2026-11-13T04:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "강진군, 공무원 AI활용 능력 근무성적평가 반영",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261111044000054",
-        "publishedAt": "2026-11-11T03:50:00.000Z",
+        "title": "‘사망 사고’ 낸 박신영 “구조 않고 차에 숨었다? 사실 아냐”…틱톡커로 등장한 이유 있었다",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10933678",
+        "publishedAt": "2026-11-13T04:00:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-11T03:50:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "강진군",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261111044000054"
+      "publishedAt": "2026-11-13T04:00:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "박신영",
+      "source": "헤럴드경제",
+      "url": "https://biz.heraldcorp.com/article/10933678"
+    },
+    {
+      "id": "85835297bf18c886",
+      "issueKey": "비서",
+      "issueTitle": "비서",
+      "trendTitle": "비서",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "고1때 회계 빠져 열공, 로펌 비서하다 오기… ‘士’자 꿈 이뤘다[‘17세의 기술’ 대한민국을 만든다]",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11631046",
+          "publishedAt": "2026-11-13T03:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘AI 비서’가 민원 전화까지?⋯공무원들 “답해야 하나”",
+          "source": "국민일보",
+          "url": "https://www.kmib.co.kr/article/20261112502069",
+          "publishedAt": "2026-11-13T03:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "환불 요청 전화도 건다, 제미나이 앞지른 ‘피클’",
+          "source": "중앙일보",
+          "url": "https://www.joongang.co.kr/article/25477485",
+          "publishedAt": "2026-11-13T03:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "고1때 회계 빠져 열공, 로펌 비서하다 오기… ‘士’자 꿈 이뤘다[‘17세의 기술’ 대한민국을 만든다]",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11631046",
+        "publishedAt": "2026-11-13T03:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T03:40:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "비서",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11631046"
     },
     {
       "id": "0764aac9101bd93c",
@@ -991,50 +1083,50 @@
       "url": "https://football-italia.net/italy-players-respond-fans-booed-france-anthem/"
     },
     {
-      "id": "dd5af3f35757e2a2",
-      "issueKey": "신동빈",
-      "issueTitle": "신동빈",
-      "trendTitle": "신동빈",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "203f98a8f51a9af8",
+      "issueKey": "오산시",
+      "issueTitle": "오산시",
+      "trendTitle": "오산시",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
-          "source": "인베스트조선",
-          "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "행복기숙사, 인재장학금, 문화패스 등 오산시 청년 지원책 확대 노력",
+          "source": "경인일보",
+          "url": "https://www.kyeongin.com/article/1774656",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "롯데 유통 수장 3인방, 첫 성적표 '합격점'…신동빈 재신임 받을까",
-          "source": "뉴스핌",
-          "url": "https://www.newspim.com/news/view/20261109000602",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "조용호 오산시장, 청년 학업·성장 기회 확대에 온힘…“경제적 걸림돌 학업 방해되지 않도록 노력”",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336651",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘쇄신 인사 1년’ 정현석·차우철·추대식, 롯데쇼핑 재건 특명…누가 제 몫 했나",
-          "source": "금융신문",
-          "url": "https://www.fntimes.com/html/view.php?ud=202611101406302092b5b890e35c_18",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "\"배움에 걸림돌 없도록\"…오산시, 청년 주거·장학금",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/policy/2026/11/12/2026111216413780198",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "부회장 4명 내보낸 신동빈 롯데 회장의 1년…실적반등에도 인사는 '난맥상'",
-        "source": "인베스트조선",
-        "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html",
-        "publishedAt": "2026-11-11T02:30:00.000Z",
+        "title": "행복기숙사, 인재장학금, 문화패스 등 오산시 청년 지원책 확대 노력",
+        "source": "경인일보",
+        "url": "https://www.kyeongin.com/article/1774656",
+        "publishedAt": "2026-11-13T04:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-11T02:30:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "신동빈",
-      "source": "인베스트조선",
-      "url": "https://www.investchosun.com/site/data/html_dir/2026/11/10/2026111080159.html"
+      "publishedAt": "2026-11-13T04:10:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "오산시",
+      "source": "경인일보",
+      "url": "https://www.kyeongin.com/article/1774656"
     },
     {
       "id": "d4fb162ca97d0d62",
@@ -1589,96 +1681,280 @@
       "url": "https://www.chosun.com/politics/assembly/2026/11/11/T4T6S5KKEVHB3KR7FVOWOJ2FKU/"
     },
     {
-      "id": "84d7bd7185857502",
-      "issueKey": "이세돌",
-      "issueTitle": "이세돌",
-      "trendTitle": "이세돌",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "abb80876db4a8f51",
+      "issueKey": "광교신도시",
+      "issueTitle": "광교신도시",
+      "trendTitle": "광교신도시",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "AGF 2026, 12일부터 일반 티켓 판매…역대 최대 106개사 참가",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/it-science/ict/2026/11/11/UUGAXIKN65ANNLON5NA7PT2NCE/",
-          "publishedAt": "2026-11-11T03:40:00.000Z",
+          "title": "\"집값 25%만 내고 입주\"…광교 지분적립형에 2만 명 몰려",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611123258i",
+          "publishedAt": "2026-11-13T04:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261110000265",
-          "publishedAt": "2026-11-11T03:40:00.000Z",
+          "title": "광교 웃고 평택 울고…경기도 청약시장 양극화",
+          "source": "인천일보",
+          "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1336726",
+          "publishedAt": "2026-11-13T04:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "`이세계아이돌` 6인 전원, AGF 2026 뜬다…SOOP, 버추얼 28명 집결",
-          "source": "디지털데일리",
-          "url": "https://m.ddaily.co.kr/page/view/2026111010452385680",
-          "publishedAt": "2026-11-11T03:40:00.000Z",
+          "title": "GH 추진 전국 첫 지분적립형 분양주택 1순위 경쟁률 '100:1'",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261111175000061",
+          "publishedAt": "2026-11-13T04:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "이세돌·이브닛 총출동…SOOP, AGF에 버추얼 28명 띄운다",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261110000265",
-        "publishedAt": "2026-11-11T03:40:00.000Z",
-        "relevanceScore": 2
+        "title": "광교신도시",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611123258i",
+        "publishedAt": "2026-11-13T04:20:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-11-11T03:40:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "이세돌",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261110000265"
+      "publishedAt": "2026-11-13T04:20:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "광교신도시",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611123258i"
     },
     {
-      "id": "a183a8032f000aa7",
-      "issueKey": "포수",
-      "issueTitle": "포수",
-      "trendTitle": "포수",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "b2552e115d8df9d4",
+      "issueKey": "한국가스",
+      "issueTitle": "한국가스",
+      "trendTitle": "한국가스",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "메이저리그 3대 올스타 배출한 '명문 가문' 아버지 밥 분 별세",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111061600007",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611134120i",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[공식발표] '아들이 9년째 양키스 감독' ML 최초 3대 메이저리거 가문 일군 GG 7회 레전드 밥 분 별세, 향년 78세",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/11/2026111100450829501",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "가스공사, 3분기 영업익 5878억원…해외사업 개선에 전년比 51%↑",
+          "source": "기후에너지데이터뱅크",
+          "url": "https://edata.ekn.kr/article/view/ekn202611120008",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘3代 4명 올스타’ 야구 명문가의 전설…MLB 명포수 밥 분, 79세로 별세",
-          "source": "문화일보",
-          "url": "https://www.munhwa.com/article/11630409",
-          "publishedAt": "2026-11-11T02:30:00.000Z",
+          "title": "비싸게 사서 싸게 파는데…한전은 울고 가스公은 웃었다",
+          "source": "연합인포맥스",
+          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4444611",
+          "publishedAt": "2026-11-13T04:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "‘3代 4명 올스타’ 야구 명문가의 전설…MLB 명포수 밥 분, 79세로 별세",
-        "source": "문화일보",
-        "url": "https://www.munhwa.com/article/11630409",
-        "publishedAt": "2026-11-11T02:30:00.000Z",
-        "relevanceScore": 1
+        "title": "[오늘의 증권가 콜] 한국가스공사, 제주항공, 삼성화재, HMM, 클래시스, 한국전력, 달바글로벌 등",
+        "source": "한국경제",
+        "url": "https://www.hankyung.com/article/202611134120i",
+        "publishedAt": "2026-11-13T04:10:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-11-11T02:30:00.000Z",
-      "firstSeenAt": "2026-11-11T04:57:37.022Z",
-      "lastSeenAt": "2026-11-11T04:57:37.022Z",
-      "title": "포수",
-      "source": "문화일보",
-      "url": "https://www.munhwa.com/article/11630409"
+      "publishedAt": "2026-11-13T04:10:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "한국가스",
+      "source": "한국경제",
+      "url": "https://www.hankyung.com/article/202611134120i"
+    },
+    {
+      "id": "253d1510caf53620",
+      "issueKey": "이름",
+      "issueTitle": "이름",
+      "trendTitle": "이름",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "카카오워크 해킹, 업무 정보 줄줄... ‘종단간 암호화’ 무색",
+          "source": "보안뉴스",
+          "url": "https://www.boannews.com/news/articleView.html?idxno=147242",
+          "publishedAt": "2026-11-13T03:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "카카오 업무용 메신저 해킹…이름·연락처 유출",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611131353425BK",
+          "publishedAt": "2026-11-13T03:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "카카오워크 뚫렸다…카카오엔터프라이즈 전·현직 임직원 정보 유출",
+          "source": "전자신문",
+          "url": "https://www.etnews.com/20261113000152",
+          "publishedAt": "2026-11-13T03:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "카카오 업무용 메신저 해킹…이름·연락처 유출",
+        "source": "연합뉴스TV",
+        "url": "https://www.yonhapnewstv.co.kr/news/MYH202611131353425BK",
+        "publishedAt": "2026-11-13T03:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-13T03:50:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "이름",
+      "source": "연합뉴스TV",
+      "url": "https://www.yonhapnewstv.co.kr/news/MYH202611131353425BK"
+    },
+    {
+      "id": "68eb822ac1bc01dd",
+      "issueKey": "이탈",
+      "issueTitle": "이탈",
+      "trendTitle": "이더 리움",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이더리움(ETH), 2,000달러 하회 후 2,024달러 회복…ETF 이탈·비트마인 매집 맞부딪혀",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/269786",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "이더리움 2000달러선 위태…ETF도 5거래일 연속 순유출",
+          "source": "디지털투데이",
+          "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715246",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이더리움 5% 하락…美 중간선거 여파에 290만원대로 '뚝'[특징코인]",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/finance/blockchain-fintech/6347790",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "이더리움(ETH), 2,000달러 하회 후 2,024달러 회복…ETF 이탈·비트마인 매집 맞부딪혀",
+        "source": "코인리더스",
+        "url": "https://www.coinreaders.com/269786",
+        "publishedAt": "2026-11-13T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T03:30:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "이탈",
+      "source": "코인리더스",
+      "url": "https://www.coinreaders.com/269786"
+    },
+    {
+      "id": "657dc6cdddc82964",
+      "issueKey": "평화통일",
+      "issueTitle": "평화통일",
+      "trendTitle": "평화통일",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "대형 행사 잇따라 앞둔 시진핑, 대만 문제 유화 발언…“평화통일·대화 원해”",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "中 출신 아이들 우기, '하나의 중국' 공개 지지",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261113_0003867109",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "시진핑, APEC·대만지방선거 앞두고 '평화통일·대화' 유화 발언",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261112116900083",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "대형 행사 잇따라 앞둔 시진핑, 대만 문제 유화 발언…“평화통일·대화 원해”",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074",
+        "publishedAt": "2026-11-13T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T03:30:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "평화통일",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/view.do?ncd=8711074"
+    },
+    {
+      "id": "e7dac8a325d65f04",
+      "issueKey": "lpga",
+      "issueTitle": "lpga",
+      "trendTitle": "lpga",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Choi Hye-jin Grabs First-Round Lead with 9-Under at LPGA The Annika, Renewing Quest for Maiden Title",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Korda Trails Katsu and Choi by Two on Day One at The ANNIKA",
+          "source": "LPGA",
+          "url": "https://www.lpga.com/news/2026/korda-trails-katsu-and-choi-by-two-on-day-one-at-the-annika",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Choi Hyejin's Flawless Play... 'Nine Birdies, No Bogeys'",
+          "source": "아시아경제",
+          "url": "https://www.asiae.co.kr/en/article/world-general/2026111307501346440",
+          "publishedAt": "2026-11-13T03:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "Choi Hye-jin Grabs First-Round Lead with 9-Under at LPGA The Annika, Renewing Quest for Maiden Title",
+        "source": "news.sbs.co.kr",
+        "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282",
+        "publishedAt": "2026-11-13T03:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-13T03:30:00.000Z",
+      "firstSeenAt": "2026-11-13T05:24:29.901Z",
+      "lastSeenAt": "2026-11-13T05:24:29.901Z",
+      "title": "lpga",
+      "source": "news.sbs.co.kr",
+      "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008844282"
     },
     {
       "id": "cb25bf739544bdd8",
@@ -2047,282 +2323,6 @@
       "title": "빙하",
       "source": "한겨레",
       "url": "https://www.hani.co.kr/arti/society/environment/1286917.html"
-    },
-    {
-      "id": "e0dabbab412a287a",
-      "issueKey": "이건희",
-      "issueTitle": "이건희",
-      "trendTitle": "이건희",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[fn광장] 생각 좀 하며 세상을 보자",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611111824059783",
-          "publishedAt": "2026-11-12T03:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
-          "source": "신동아",
-          "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1",
-          "publishedAt": "2026-11-12T03:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[매일 탑 리더스 아카데미] 허문명 동아일보 논설위원 '고 이건희 삼성 회장, 반도체 위해 경제 사상을 정립했다'",
-          "source": "매일신문",
-          "url": "https://www.imaeil.com/page/view/2026111010501989311",
-          "publishedAt": "2026-11-12T03:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "반도체 호황에 들뜬 삼성에 내린 이건희의 죽비",
-        "source": "신동아",
-        "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1",
-        "publishedAt": "2026-11-12T03:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-12T03:30:00.000Z",
-      "firstSeenAt": "2026-11-12T05:59:39.688Z",
-      "lastSeenAt": "2026-11-12T05:59:39.688Z",
-      "title": "이건희",
-      "source": "신동아",
-      "url": "https://shindonga.donga.com/economy/article/all/13/6452368/1"
-    },
-    {
-      "id": "51e02a14a6f81d0c",
-      "issueKey": "거포 오스틴",
-      "issueTitle": "거포 오스틴",
-      "trendTitle": "거포 오스틴",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "LG 오스틴 딘, 200만 달러에 2027시즌 재계약...외국인 타자 역대 최고액",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/baseball/2026/11/12/3CYCKO276ZDUBPAVZ2BOPYM2VU/",
-          "publishedAt": "2026-11-12T03:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "프로야구 LG, 오스틴 딘과 재계약‥역대 외국인 타자 최고 연봉",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6865096_36946.html",
-          "publishedAt": "2026-11-12T03:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "41홈런 거포 오스틴, LG와 200만 달러에 재계약…외인 타자 최고 대우",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8710827",
-          "publishedAt": "2026-11-12T03:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "41홈런 거포 오스틴, LG와 200만 달러에 재계약…외인 타자 최고 대우",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8710827",
-        "publishedAt": "2026-11-12T03:30:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-11-12T03:30:00.000Z",
-      "firstSeenAt": "2026-11-12T05:59:39.688Z",
-      "lastSeenAt": "2026-11-12T05:59:39.688Z",
-      "title": "거포 오스틴",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8710827"
-    },
-    {
-      "id": "2452193782b7840c",
-      "issueKey": "메시",
-      "issueTitle": "메시",
-      "trendTitle": "메시",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘축구의 신’ 메시, MLS 최초 2년 연속 득점왕 등극",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/08/57D7FQO3I5ALZJMQEZDACEIYJE/",
-          "publishedAt": "2026-11-11T20:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "`메시, MLS에서 역사 썼다`…리그 최초 2시즌 연속 득점왕, 31경기 26골 17AS 폭발",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026110918472925665",
-          "publishedAt": "2026-11-11T20:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "메시 결승골…인터 마이애미, 뉴잉글랜드에 2-1 역전승 : 스포츠",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1065087",
-          "publishedAt": "2026-11-11T20:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘축구의 신’ 메시, MLS 최초 2년 연속 득점왕 등극",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/11/08/57D7FQO3I5ALZJMQEZDACEIYJE/",
-        "publishedAt": "2026-11-11T20:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-11T20:10:00.000Z",
-      "firstSeenAt": "2026-11-11T21:45:02.029Z",
-      "lastSeenAt": "2026-11-11T21:45:02.029Z",
-      "title": "메시",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/international/international_general/2026/11/08/57D7FQO3I5ALZJMQEZDACEIYJE/"
-    },
-    {
-      "id": "3cb1aa52b040b112",
-      "issueKey": "무인 항공기",
-      "issueTitle": "무인 항공기",
-      "trendTitle": "무인 항공기",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "트럼프 \"사실상 끝\" 다음 날... 이란, 미사일 지하기지 공개",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/international_general/2026/11/11/MYSRL7IBURAKHJRAER7NK4SNGQ/",
-          "publishedAt": "2026-11-11T19:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이란 안보수장 \"미국이 공격하면 유럽 내 미군 기지까지 타격\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611120539305Ni",
-          "publishedAt": "2026-11-11T19:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "이란 혁명수비대, 첨단 무기 가득 '지하 미사일 도시' 공개",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261111182400079",
-          "publishedAt": "2026-11-11T19:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "무인 항공기",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/international_general/2026/11/11/MYSRL7IBURAKHJRAER7NK4SNGQ/",
-        "publishedAt": "2026-11-11T19:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-11T19:20:00.000Z",
-      "firstSeenAt": "2026-11-11T21:45:02.029Z",
-      "lastSeenAt": "2026-11-11T21:45:02.029Z",
-      "title": "무인 항공기",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/international/international_general/2026/11/11/MYSRL7IBURAKHJRAER7NK4SNGQ/"
-    },
-    {
-      "id": "84bea831bbc15949",
-      "issueKey": "한전",
-      "issueTitle": "한전",
-      "trendTitle": "한전",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "한전, 3분기 누계 영업익 43% 급감…4분기 적자 우려↑",
-          "source": "전기신문",
-          "url": "https://www.electimes.com/news/articleView.html?idxno=374700",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "한전, 3분기 영업익 1조6441억원…연료·전력구입비 늘어 전년比 71%↓",
-          "source": "기후에너지데이터뱅크",
-          "url": "https://edata.ekn.kr/article/view/ekn202611120009",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "한전 13분기 연속 흑자에도…중동발 연료비 폭탄에 영업익 43% 급감",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=04529686645645064",
-          "publishedAt": "2026-11-12T22:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "한전, 3분기 누계 영업익 43% 급감…4분기 적자 우려↑",
-        "source": "전기신문",
-        "url": "https://www.electimes.com/news/articleView.html?idxno=374700",
-        "publishedAt": "2026-11-12T22:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-12T22:10:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "한전",
-      "source": "전기신문",
-      "url": "https://www.electimes.com/news/articleView.html?idxno=374700"
-    },
-    {
-      "id": "d14f5bfb79197b6f",
-      "issueKey": "위조품",
-      "issueTitle": "위조품",
-      "trendTitle": "위조품",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "부총리는 밀수, 위조품 제조 및 거래, 그리고 금지 물품 거래와 관련된 사건들을 엄격히 처벌하도록 지시했다.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/pho-thu-tuong-thuong-truc-chi-dao-xet-xu-nghiem-cac-vu-an-ve-buon-lau-san-xuat-buon-ban-hang-gia-hang-cam",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "호치민시, 10개월 동안 6,000건 이상의 상품 위반 사례 처리",
-          "source": "Laodong.vn",
-          "url": "https://ko.laodong.vn/kinh-doanh/tphcm-xu-ly-hon-6000-vu-vi-pham-ve-hang-hoa-trong-10-thang-1799330.ldo",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "2026년 11월 12일자 정부 및 총리의 지침 및 명령.",
-          "source": "Vietnam.vn",
-          "url": "https://www.vietnam.vn/ko/chi-dao-dieu-hanh-cua-chinh-phu-thu-tuong-chinh-phu-ngay-12-11-2026",
-          "publishedAt": "2026-11-12T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "부총리는 밀수, 위조품 제조 및 거래, 그리고 금지 물품 거래와 관련된 사건들을 엄격히 처벌하도록 지시했다.",
-        "source": "Vietnam.vn",
-        "url": "https://www.vietnam.vn/ko/pho-thu-tuong-thuong-truc-chi-dao-xet-xu-nghiem-cac-vu-an-ve-buon-lau-san-xuat-buon-ban-hang-gia-hang-cam",
-        "publishedAt": "2026-11-12T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-12T22:00:00.000Z",
-      "firstSeenAt": "2026-11-12T23:15:40.867Z",
-      "lastSeenAt": "2026-11-12T23:15:40.867Z",
-      "title": "위조품",
-      "source": "Vietnam.vn",
-      "url": "https://www.vietnam.vn/ko/pho-thu-tuong-thuong-truc-chi-dao-xet-xu-nghiem-cac-vu-an-ve-buon-lau-san-xuat-buon-ban-hang-gia-hang-cam"
     }
   ]
 }
