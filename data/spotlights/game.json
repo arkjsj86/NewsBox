@@ -3,7 +3,7 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-11-13T21:12:58.963Z",
+  "lastUpdatedAt": "2026-11-14T05:14:27.260Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
@@ -26,29 +26,29 @@
       "sourceUrl": "https://bbs.ruliweb.com/best",
       "items": [
         {
-          "title": "캐릭터 의류로 가득, '승리의 여신: 니케' 4주년 기념 무신사 팝업스토어 현장",
-          "url": "https://bbs.ruliweb.com/news/read/231609",
-          "meta": "댓글 18"
-        },
-        {
           "title": "엔비디아 이사회, ‘젠슨 황’ CEO 즉시 사임 발표",
           "url": "https://bbs.ruliweb.com/news/read/231872",
-          "meta": "댓글 78"
-        },
-        {
-          "title": "게임하는 크리에이터와 에이전트가 필요한 사람을 위해, RTX 스파크",
-          "url": "https://bbs.ruliweb.com/news/read/231591",
-          "meta": "댓글 7"
+          "meta": "댓글 88"
         },
         {
           "title": "목표치 초과 달성, 내년에는 신작 10종 대기 중 - 엔씨 2026 3분기 실적발표",
           "url": "https://bbs.ruliweb.com/news/read/231796",
-          "meta": "댓글 29"
+          "meta": "댓글 30"
         },
         {
-          "title": "엔드림, 지난 3일(화)부터 RTS '프로젝트: 진달래 (AZALEA)' 2차 CBT 참가자 모집 중",
-          "url": "https://bbs.ruliweb.com/news/read/231590",
+          "title": "\"앞으로 10년, 20년도 함께\"… '블루 아카이브' 5주년 키보토스 라이브",
+          "url": "https://bbs.ruliweb.com/news/read/231617",
           "meta": "댓글 9"
+        },
+        {
+          "title": "디지털 익스트림즈 ‘소울프레임’ 지난 7일(토) 전 세계 플레이어에 무료 개방",
+          "url": "https://bbs.ruliweb.com/news/read/231630",
+          "meta": "댓글 5"
+        },
+        {
+          "title": "여름 아르바이트로 돈 벌어 신사를 재건한다, 타누키: 폰즈 서머(타누키: 폰의 여름)",
+          "url": "https://bbs.ruliweb.com/news/read/231680",
+          "meta": "댓글 4"
         }
       ]
     },
@@ -58,29 +58,29 @@
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?hotnews=1",
       "items": [
         {
+          "title": "10년 함께한 허준·심양홍 \"누구나 함께할 수 있다는 게 힘\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323368",
+          "meta": "서머너즈 워: 천공의 아레나 · 59분 전"
+        },
+        {
+          "title": "\"부담보단 설렘\" 첫 결승 앞둔 '쵸비', \"'젠지의 해' 만들겠다\"",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323367",
+          "meta": "리그 오브 레전드 · 5시간 전"
+        },
+        {
+          "title": "\"LPL이 다시 정상으로\" BLG, LCK 도장깨기 정조준",
+          "url": "https://www.inven.co.kr/webzine/news/?news=323366",
+          "meta": "리그 오브 레전드 · 6시간 전"
+        },
+        {
           "title": "'길드 사가', 약 200개 스킬로 날씨까지 조합",
           "url": "https://www.inven.co.kr/webzine/news/?news=323361",
-          "meta": "길드 사가: 사라진 세계 · 44분 전"
+          "meta": "길드 사가: 사라진 세계 · 16시간 전"
         },
         {
           "title": "'아키에이지 크로니클', 제작 재료 부담 줄인다",
           "url": "https://www.inven.co.kr/webzine/news/?news=323360",
-          "meta": "아키에이지 크로니클 · 1시간 전"
-        },
-        {
-          "title": "블루 아카이브, 5주년 맞이 LP 플레이어 패키지 예약 판매 개시",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323357",
-          "meta": "블루 아카이브 · 5시간 전"
-        },
-        {
-          "title": "4차산업혁명융합법학회, 지스타 기간 '게임 기술과 법' 학술세미나 연다",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323359",
-          "meta": "5시간 전"
-        },
-        {
-          "title": "'쵸비' vs '나이트', '완벽'을 완성할 최후의 결전",
-          "url": "https://www.inven.co.kr/webzine/news/?news=323355",
-          "meta": "리그 오브 레전드 · 6시간 전"
+          "meta": "아키에이지 크로니클 · 17시간 전"
         }
       ]
     }
@@ -93,10 +93,16 @@
       "itemCount": 1
     },
     {
-      "key": "game-issues",
-      "source": "Ruliweb BEST 뉴스 + Inven 주요뉴스",
-      "ok": false,
-      "error": "fetch failed"
+      "key": "ruliweb-issues",
+      "source": "Ruliweb BEST 뉴스",
+      "ok": true,
+      "itemCount": 5
+    },
+    {
+      "key": "inven-issues",
+      "source": "Inven 주요뉴스",
+      "ok": true,
+      "itemCount": 5
     }
   ]
 }
