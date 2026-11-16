@@ -7,480 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-11-16T10:42:14.428Z",
+  "lastUpdatedAt": "2026-11-16T21:41:21.717Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "55f20299ccf632c9",
-      "issueKey": "깊어지는 평택",
-      "issueTitle": "깊어지는 평택",
-      "trendTitle": "공무원",
+      "id": "6bc64c325dba5cc4",
+      "issueKey": "박세리",
+      "issueTitle": "박세리",
+      "trendTitle": "박세리",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박세리, 운동하느라 사춘기 ‘스킵’ 고백... “50대인 지금 누구보다 예민해”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/",
+          "publishedAt": "2026-11-16T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "박세리, \"운동하느라 사춘기 건너뛰었다...50대인 지금 가장 예민\"",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/582300",
+          "publishedAt": "2026-11-16T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "박세리, 운동하느라 사춘기 스킵..\"50대인 지금 누구보다 예민\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/GEYWENDDMJSDIY3FHA2WGYLCMU/",
+          "publishedAt": "2026-11-16T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박세리, 운동하느라 사춘기 ‘스킵’ 고백... “50대인 지금 누구보다 예민해”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/",
+        "publishedAt": "2026-11-16T20:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T20:30:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "박세리",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/",
+      "rank": 1
+    },
+    {
+      "id": "1d0404fbd2a1aa61",
+      "issueKey": "리친청",
+      "issueTitle": "리친청",
+      "trendTitle": "리친청",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "'속기파' 리친청, 구쯔하오 꺾고 삼성화재배 결승 선착",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116158800007",
+          "publishedAt": "2026-11-16T20:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
+          "source": "사이버오로",
+          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
+          "publishedAt": "2026-11-16T20:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
+          "publishedAt": "2026-11-16T20:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'속기파' 리친청, 구쯔하오 꺾고 삼성화재배 결승 선착",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261116158800007",
+        "publishedAt": "2026-11-16T20:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T20:20:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "리친청",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116158800007",
+      "rank": 2
+    },
+    {
+      "id": "e350d304a5d4457a",
+      "issueKey": "연금",
+      "issueTitle": "연금",
+      "trendTitle": "연금",
       "approxTraffic": "5000+",
       "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“축구공 하나로 가까워진 두 도시”… 우정 깊어지는 평택·마쓰야마",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261116580361",
-          "publishedAt": "2026-11-16T09:30:00.000Z",
+          "title": "연금공단, ICT센터에 화재징후 실시간 감지 AI 솔루션 도입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116054700530",
+          "publishedAt": "2026-11-16T20:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "평택시와 마쓰야마시 공무원 교류, 스포츠로 잇고 행정으로 넓힌다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/RPR20261116003800353",
-          "publishedAt": "2026-11-16T09:30:00.000Z",
+          "title": "국민연금, AI로 화재감시 솔루션 도입… 3중 감시체계 구축",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261116500626",
+          "publishedAt": "2026-11-16T20:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김해시, 日 마쓰바라시와 우호도시 교류 확대 논의",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261116500797",
-          "publishedAt": "2026-11-16T09:30:00.000Z",
+          "title": "국민연금, 한전과 손잡고 ICT센터 'AI 화재감시' 강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869449",
+          "publishedAt": "2026-11-16T20:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“축구공 하나로 가까워진 두 도시”… 우정 깊어지는 평택·마쓰야마",
-        "source": "경기일보",
-        "url": "https://www.kyeonggi.com/article/20261116580361",
-        "publishedAt": "2026-11-16T09:30:00.000Z",
+        "title": "연금공단, ICT센터에 화재징후 실시간 감지 AI 솔루션 도입",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261116054700530",
+        "publishedAt": "2026-11-16T20:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-16T09:30:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "깊어지는 평택",
-      "source": "경기일보",
-      "url": "https://www.kyeonggi.com/article/20261116580361",
-      "rank": 1
+      "publishedAt": "2026-11-16T20:10:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "연금",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116054700530",
+      "rank": 3
     },
     {
-      "id": "575e2604353bf70b",
-      "issueKey": "성과급",
-      "issueTitle": "성과급",
-      "trendTitle": "성과급",
+      "id": "8c0800915e182387",
+      "issueKey": "윤이나",
+      "issueTitle": "윤이나",
+      "trendTitle": "윤이나",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "최혜진, 통한의 보기 2개…10번째 준우승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "최혜진, 준우승만 10번째 또 ‘뒷심 부족’… 땅을 쳤다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261117/135035563/2",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "소렌스탐과 우승 기념 촬영하는 린디 던컨",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261116_0002292952",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "윤이나",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312",
+        "publishedAt": "2026-11-16T20:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T20:00:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "윤이나",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312",
+      "rank": 4
+    },
+    {
+      "id": "c4cf0207887d21da",
+      "issueKey": "우리은행",
+      "issueTitle": "우리은행",
+      "trendTitle": "우리은행",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "우리은행, ‘우리 아트콘’ 미술대회…어린이·청소년과 ‘내일을 그리다’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "우리은행, 제29회 '우리 아트콘' 본선 개최…어린이·청소년 250명 참가",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753853",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[포토] 우리은행 어린이 미술대회",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12210126",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "우리은행, ‘우리 아트콘’ 미술대회…어린이·청소년과 ‘내일을 그리다’",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1",
+        "publishedAt": "2026-11-16T20:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T20:00:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "우리은행",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1",
+      "rank": 5
+    },
+    {
+      "id": "85019a790344b358",
+      "issueKey": "민희진",
+      "issueTitle": "민희진",
+      "trendTitle": "민희진",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116147651004",
+          "publishedAt": "2026-11-16T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "경찰, '뉴진스 계약 해지' 민희진 업무상 배임 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866041_36918.html",
+          "publishedAt": "2026-11-16T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "민희진, 배임 혐의 공소청 송치…하이브 레이블 소송은 모두 기각",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/business/article/202611160233b",
+          "publishedAt": "2026-11-16T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261116147651004",
+        "publishedAt": "2026-11-16T19:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T19:50:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "민희진",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116147651004",
+      "rank": 6
+    },
+    {
+      "id": "7d955879da26482a",
+      "issueKey": "음주 운전",
+      "issueTitle": "음주 운전",
+      "trendTitle": "음주 운전",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "경찰, 음주운전으로 청소차 들이받은 고경표 소환조사 방침",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754",
+          "publishedAt": "2026-11-16T19:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고경표, 음주운전 여파에 팬미팅 취소…“실망 안겨 드리게 돼 사과”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/ZBEXEGN2QJCZDF7VUTX5J44KRU/",
+          "publishedAt": "2026-11-16T19:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"李대통령도 음주운전, 왜 고경표만\"…팬클럽 형평성 문제제기 '시끌'",
+          "source": "TV조선뉴스",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/15/2026111590076.html",
+          "publishedAt": "2026-11-16T19:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "음주 운전",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754",
+        "publishedAt": "2026-11-16T19:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T19:40:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "음주 운전",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754",
+      "rank": 7
+    },
+    {
+      "id": "a9482efe959b0f23",
+      "issueKey": "북한",
+      "issueTitle": "북한",
+      "trendTitle": "북한",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117005800109",
+          "publishedAt": "2026-11-16T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848824&amp;plink=RSSLINK&amp;cooper=GSTAND",
+          "publishedAt": "2026-11-16T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
+          "publishedAt": "2026-11-16T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
+        "publishedAt": "2026-11-16T19:30:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-11-16T19:30:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "북한",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
+      "rank": 8
+    },
+    {
+      "id": "4e9db36796ba8a50",
+      "issueKey": "클롭의 독일",
+      "issueTitle": "클롭의 독일",
+      "trendTitle": "클롭의 독일",
       "approxTraffic": "1000+",
       "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "월급은 3.3% 오르는데 근로소득세 40% 더 내라… 정부, 삼전닉스 성과급 가정에 기댔다 [2027 나라살림 대해부]",
-          "source": "한국일보",
-          "url": "https://www.hankookilbo.com/news/article/A2026111420400003767",
-          "publishedAt": "2026-11-16T09:30:00.000Z",
+          "title": "오렌지군단 7골 폭발…전차군단도 화력쇼",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115105804QnZ",
+          "publishedAt": "2026-11-16T19:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[단상지대] 이익은 누구의 것인가",
-          "source": "영남일보",
-          "url": "https://www.yeongnam.com/web/view.php?key=20261115021402310",
-          "publishedAt": "2026-11-16T09:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[탁류세평] 모르는 게 약일까?",
-          "source": "고대신문",
-          "url": "https://www.kunews.ac.kr/news/articleView.html?idxno=51800",
-          "publishedAt": "2026-11-16T09:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "월급은 3.3% 오르는데 근로소득세 40% 더 내라… 정부, 삼전닉스 성과급 가정에 기댔다 [2027 나라살림 대해부]",
-        "source": "한국일보",
-        "url": "https://www.hankookilbo.com/news/article/A2026111420400003767",
-        "publishedAt": "2026-11-16T09:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-16T09:30:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "성과급",
-      "source": "한국일보",
-      "url": "https://www.hankookilbo.com/news/article/A2026111420400003767",
-      "rank": 2
-    },
-    {
-      "id": "71dea7fe6c257ad6",
-      "issueKey": "ตรวจหวย",
-      "issueTitle": "ตรวจหวย",
-      "trendTitle": "ตรวจหวย",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "โค้งสุดท้ายหวย \"เลขเด็ดงวดนี้\" 16/11/69 ลุ้นโชคได้ที่ไทยรัฐทีวี-ไทยรัฐออนไลน์",
-          "source": "thairath.co.th",
-          "url": "https://www.thairath.co.th/lottery/news/2972681",
-          "publishedAt": "2026-11-16T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "วาสนาเศรษฐี ถูกรางวัลที่ 1 สลากดิจิทัล งวด 16 พ.ย. 69 รวม 186 ล้านบาท",
-          "source": "Sanook",
-          "url": "https://www.sanook.com/news/9912130/",
-          "publishedAt": "2026-11-16T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "ชมสด! การออกผลสลากกินแบ่งรัฐบาล ประจำวันที่ 16 พฤศจิกายน 2569",
-          "source": "แนวหน้า",
-          "url": "https://www.naewna.com/n/slide-top-home/167369/",
-          "publishedAt": "2026-11-16T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "ตรวจหวย",
-        "source": "thairath.co.th",
-        "url": "https://www.thairath.co.th/lottery/news/2972681",
-        "publishedAt": "2026-11-16T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-16T08:40:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "ตรวจหวย",
-      "source": "thairath.co.th",
-      "url": "https://www.thairath.co.th/lottery/news/2972681",
-      "rank": 3
-    },
-    {
-      "id": "3adaeafe52856282",
-      "issueKey": "bangladesh vs south africa",
-      "issueTitle": "bangladesh vs south africa",
-      "trendTitle": "bangladesh vs south africa",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Hridoy ton as Bangladesh reaches 327-6 on 1st day of 1st cricket test vs South Africa, Rabada 5-51",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/bangladesh-wins-toss-opts-bat-082837655.html",
-          "publishedAt": "2026-11-16T08:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Rabada: 'We need to be more ruthless'",
-          "source": "Cricinfo",
-          "url": "https://www.cricinfo.com/story/sa-vs-ban-1st-test-kagiso-rabada-we-need-to-be-more-ruthless-1562805",
-          "publishedAt": "2026-11-16T08:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Alarms ring for Bangladesh, then South Africa on noisy first day at Wanderers",
-          "source": "Cricbuzz",
-          "url": "https://www.cricbuzz.com/cricket-news/140922/alarms-ring-for-bangladesh-then-south-africa-on-noisy-first-day-at-wanderers-cricbuzzcom",
-          "publishedAt": "2026-11-16T08:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "bangladesh vs south africa",
-        "source": "Yahoo Sports",
-        "url": "https://sports.yahoo.com/articles/bangladesh-wins-toss-opts-bat-082837655.html",
-        "publishedAt": "2026-11-16T08:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-16T08:10:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "bangladesh vs south africa",
-      "source": "Yahoo Sports",
-      "url": "https://sports.yahoo.com/articles/bangladesh-wins-toss-opts-bat-082837655.html",
-      "rank": 4
-    },
-    {
-      "id": "eda7779dc5535c0e",
-      "issueKey": "южная корея",
-      "issueTitle": "южная корея",
-      "trendTitle": "южная корея",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Ирина Крайнева, «ВОЯЖТУР»: «Если Япония — светский прием, то Южная Корея — вечеринка старых друзей»",
-          "source": "Республиканский союз туристических организаций",
-          "url": "https://www.toursoyuz.by/2026/11/16/irina-krajneva-voyazhtur-yaponiya-svetskij-priem-to-koreya-vecherinka-staryh-druzej/",
-          "publishedAt": "2026-11-16T07:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Южная Корея в октябре 2026 г. закупила у России максимальный объем СПГ почти за 5 лет",
-          "source": "Neftegaz.RU",
-          "url": "https://neftegaz.ru/news/spg-szhizhennyy-prirodnyy-gaz/942152-yuzhnaya-koreya-v-oktyabre-2026-g-zakupila-u-rossii-maksimalnyy-obem-spg-pochti-za-5-let/",
-          "publishedAt": "2026-11-16T07:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Южная Корея нарастила закупки СПГ и взяла у России максимум с 2021 года",
-          "source": "oilcapital.ru",
-          "url": "https://oilcapital.ru/news/2026-11-16/yuzhnaya-koreya-narastila-zakupki-spg-i-vzyala-u-rossii-maksimum-s-2021-goda-5733200",
-          "publishedAt": "2026-11-16T07:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "Ирина Крайнева, «ВОЯЖТУР»: «Если Япония — светский прием, то Южная Корея — вечеринка старых друзей»",
-        "source": "Республиканский союз туристических организаций",
-        "url": "https://www.toursoyuz.by/2026/11/16/irina-krajneva-voyazhtur-yaponiya-svetskij-priem-to-koreya-vecherinka-staryh-druzej/",
-        "publishedAt": "2026-11-16T07:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-16T07:50:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "южная корея",
-      "source": "Республиканский союз туристических организаций",
-      "url": "https://www.toursoyuz.by/2026/11/16/irina-krajneva-voyazhtur-yaponiya-svetskij-priem-to-koreya-vecherinka-staryh-druzej/",
-      "rank": 5
-    },
-    {
-      "id": "237fc6cab1cc8064",
-      "issueKey": "김지수",
-      "issueTitle": "김지수",
-      "trendTitle": "김지수",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"음주운전 두 번·만취 인터뷰까지\"…김지수, 2년 만에 예능 복귀",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111612520380605",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[공식] 김지수, 체코 프라하서 여행사 차렸다…유이와 ‘솔로라서2’ 합류",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261116/135033317/1",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "고경표 음주운전 파문 속…‘음주운전 2회’ 김지수 예능 복귀에 여론 냉담",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/hot-issues/12210071",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"음주운전 두 번·만취 인터뷰까지\"…김지수, 2년 만에 예능 복귀",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111612520380605",
-        "publishedAt": "2026-11-16T07:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-16T07:40:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "김지수",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/11/16/2026111612520380605",
-      "rank": 6
-    },
-    {
-      "id": "3f32bdb17f0b871c",
-      "issueKey": "신랑",
-      "issueTitle": "신랑",
-      "trendTitle": "신랑",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"야 너 이리 와\"…결혼식 날 신랑에게 엎드려뻗쳐 시킨 신부 이모부",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/society/general-society/6355215",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“살면서 듣도 보도 못했다, 내 가족이 봤다면...” 신랑이 결혼식서 신부 이모부에게 당한 일",
-          "source": "위키트리",
-          "url": "https://www.wikitree.co.kr/articles/1175001",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "걸그룹·야구선수 부부 탄생…배드키즈 연지, 강동연과 12월 결혼",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/culture/12209857",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"야 너 이리 와\"…결혼식 날 신랑에게 엎드려뻗쳐 시킨 신부 이모부",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/society/general-society/6355215",
-        "publishedAt": "2026-11-16T07:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-16T07:40:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "신랑",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/society/general-society/6355215",
-      "rank": 7
-    },
-    {
-      "id": "d8c681c34fb06f13",
-      "issueKey": "캄보디아",
-      "issueTitle": "캄보디아",
-      "trendTitle": "캄보디아",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "수원시 의료봉사단, 캄보디아 수원마을서 민관 의료 봉사 활동 전개",
-          "source": "기호일보",
-          "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041013",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "수원 의료진 32명, 캄보디아 자매도시서 주민 진료",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261116_0003869726",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "수원시, 캄보디아 시엠립 수원마을서 민관 의료봉사…800명 진료",
+          "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
           "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116106300061",
-          "publishedAt": "2026-11-16T07:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "수원시 의료봉사단, 캄보디아 수원마을서 민관 의료 봉사 활동 전개",
-        "source": "기호일보",
-        "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041013",
-        "publishedAt": "2026-11-16T07:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-16T07:40:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "캄보디아",
-      "source": "기호일보",
-      "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041013",
-      "rank": 8
-    },
-    {
-      "id": "ad435572125be5cd",
-      "issueKey": "005930",
-      "issueTitle": "005930",
-      "trendTitle": "005930",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Samsung Stocks Rise as Foreign Buyers Step In Despite NVIDIA Turmoil",
-          "source": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/samsung-stocks-rise-foreign-buyers-194545026.html",
-          "publishedAt": "2026-11-16T07:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "Samsung Electronics (KOSE:A005930) Stock Dropped, So What Is Driving Attention Today?",
-          "source": "Simply Wall St",
-          "url": "https://simplywall.st/stocks/kr/tech/kose-a005930/samsung-electronics-shares/news/samsung-electronics-kosea005930-stock-dropped-so-what-is-dri",
-          "publishedAt": "2026-11-16T07:30:00.000Z",
+          "url": "https://www.yna.co.kr/view/AKR20261114016200007",
+          "publishedAt": "2026-11-16T19:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Samsung Tokenized Stock Holds $139.71 Support As Binance Open Interest Climbs 10.50%",
-          "source": "OneBullEx",
-          "url": "https://www.onebullex.com/news/articles/samsung-tokenized-stock-holds-139-71-support-as-binance-open-interest-climbs-10-50",
-          "publishedAt": "2026-11-16T07:30:00.000Z",
+          "title": "네덜란드, 그리스 7대0 대파… 네이션스리그 8강 진출 청신호",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/14/3J7CZZTQLJDITCXIZ6SKUIBKAU/",
+          "publishedAt": "2026-11-16T19:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Samsung Electronics (KOSE:A005930) Stock Dropped, So What Is Driving Attention Today?",
-        "source": "Simply Wall St",
-        "url": "https://simplywall.st/stocks/kr/tech/kose-a005930/samsung-electronics-shares/news/samsung-electronics-kosea005930-stock-dropped-so-what-is-dri",
-        "publishedAt": "2026-11-16T07:30:00.000Z",
+        "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261114016200007",
+        "publishedAt": "2026-11-16T19:10:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-11-16T07:30:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "005930",
-      "source": "Simply Wall St",
-      "url": "https://simplywall.st/stocks/kr/tech/kose-a005930/samsung-electronics-shares/news/samsung-electronics-kosea005930-stock-dropped-so-what-is-dri",
+      "publishedAt": "2026-11-16T19:10:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "클롭의 독일",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261114016200007",
       "rank": 9
-    },
-    {
-      "id": "731edfabaf531fe8",
-      "issueKey": "홈플러스 사태",
-      "issueTitle": "홈플러스 사태",
-      "trendTitle": "검찰",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "홈플러스 사태·盧 비자금 은닉 의혹… 45일 남기고 ‘수사 액셀’ 밟는 공소청",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/national/court_law/2026/11/16/LFGRSWBDXRFZPAG5OCO42UBOCQ/",
-          "publishedAt": "2026-11-16T07:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "‘대형 기업수사’ 연내 처분…중수청에 안넘긴다",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20114551",
-          "publishedAt": "2026-11-16T07:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "검찰 직접수사 유예기간 45일…공소청, 미이관 주요 사건 처리 속도전",
-          "source": "더퍼블릭",
-          "url": "https://www.thepublic.kr/news/articleView.html?idxno=326907",
-          "publishedAt": "2026-11-16T07:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "홈플러스 사태·盧 비자금 은닉 의혹… 45일 남기고 ‘수사 액셀’ 밟는 공소청",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/national/court_law/2026/11/16/LFGRSWBDXRFZPAG5OCO42UBOCQ/",
-        "publishedAt": "2026-11-16T07:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-16T07:30:00.000Z",
-      "firstSeenAt": "2026-11-16T10:42:14.428Z",
-      "lastSeenAt": "2026-11-16T10:42:14.428Z",
-      "title": "홈플러스 사태",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/national/court_law/2026/11/16/LFGRSWBDXRFZPAG5OCO42UBOCQ/",
-      "rank": 10
     }
   ],
   "history": [
@@ -531,50 +484,50 @@
       "url": "https://www.news1.kr/society/general-society/6355215"
     },
     {
-      "id": "52e1d7525c272319",
-      "issueKey": "강신철",
-      "issueTitle": "강신철",
-      "trendTitle": "강신철",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
+      "id": "e350d304a5d4457a",
+      "issueKey": "연금",
+      "issueTitle": "연금",
+      "trendTitle": "연금",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "미 전문가들 \"트럼프, 전작권 전환을 주한미군 철수 수단으로 봐\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/world/article/6865577_36925.html",
-          "publishedAt": "2026-11-14T16:20:00.000Z",
+          "title": "연금공단, ICT센터에 화재징후 실시간 감지 AI 솔루션 도입",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116054700530",
+          "publishedAt": "2026-11-16T20:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "브룩스 前사령관, ‘전작권 당장 전환 가능’ 강신철에 “매우 실망”",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/",
-          "publishedAt": "2026-11-14T16:20:00.000Z",
+          "title": "국민연금, AI로 화재감시 솔루션 도입… 3중 감시체계 구축",
+          "source": "브릿지경제",
+          "url": "https://www.viva100.com/article/20261116500626",
+          "publishedAt": "2026-11-16T20:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "前 주한미군 사령관, '전작권 전환 당장 가능' 韓 국방 발언 겨냥 \"실망\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/world/2026/11/14/2026111409494799617",
-          "publishedAt": "2026-11-14T16:20:00.000Z",
+          "title": "국민연금, 한전과 손잡고 ICT센터 'AI 화재감시' 강화",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261116_0003869449",
+          "publishedAt": "2026-11-16T20:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "브룩스 前사령관, ‘전작권 당장 전환 가능’ 강신철에 “매우 실망”",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/",
-        "publishedAt": "2026-11-14T16:20:00.000Z",
-        "relevanceScore": 2
+        "title": "연금공단, ICT센터에 화재징후 실시간 감지 AI 솔루션 도입",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261116054700530",
+        "publishedAt": "2026-11-16T20:10:00.000Z",
+        "relevanceScore": 3
       },
-      "publishedAt": "2026-11-14T16:20:00.000Z",
-      "firstSeenAt": "2026-11-14T19:44:48.963Z",
-      "lastSeenAt": "2026-11-14T19:44:48.963Z",
-      "title": "강신철",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/international/us/2026/11/14/UNVTC33XERFVLDHL3IAUAS74YQ/"
+      "publishedAt": "2026-11-16T20:10:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "연금",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116054700530"
     },
     {
       "id": "55f20299ccf632c9",
@@ -761,52 +714,6 @@
       "url": "https://www.chosun.com/sports/baseball/2026/11/15/236G5T6ILFDGNOMZQAC3BJM7M4/"
     },
     {
-      "id": "7e9c7da595ec9335",
-      "issueKey": "치지직",
-      "issueTitle": "치지직",
-      "trendTitle": "치지직",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "네이버, 스트리머·팬 소통 특화 '크리에이터 카페' 내달 출시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261113000071",
-          "publishedAt": "2026-11-14T18:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "팬덤 결합한 크리에이터 카페 출시",
-          "source": "아이보스",
-          "url": "https://www.i-boss.co.kr/ab-2877-18474",
-          "publishedAt": "2026-11-14T18:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "네이버, 크리에이터·팬 잇는 ‘크리에이터 카페’ 선봬…치지직·팬카페 연동",
-          "source": "서울경제TV",
-          "url": "https://www.sentv.co.kr/article/view/sentv202611130084",
-          "publishedAt": "2026-11-14T18:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "네이버, 크리에이터·팬 잇는 ‘크리에이터 카페’ 선봬…치지직·팬카페 연동",
-        "source": "서울경제TV",
-        "url": "https://www.sentv.co.kr/article/view/sentv202611130084",
-        "publishedAt": "2026-11-14T18:20:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-11-14T18:20:00.000Z",
-      "firstSeenAt": "2026-11-14T19:44:48.963Z",
-      "lastSeenAt": "2026-11-14T19:44:48.963Z",
-      "title": "치지직",
-      "source": "서울경제TV",
-      "url": "https://www.sentv.co.kr/article/view/sentv202611130084"
-    },
-    {
       "id": "71dea7fe6c257ad6",
       "issueKey": "ตรวจหวย",
       "issueTitle": "ตรวจหวย",
@@ -899,98 +806,6 @@
       "url": "https://simplywall.st/stocks/kr/tech/kose-a005930/samsung-electronics-shares/news/samsung-electronics-kosea005930-stock-dropped-so-what-is-dri"
     },
     {
-      "id": "c75b23acae076887",
-      "issueKey": "받는 늦가",
-      "issueTitle": "받는 늦가",
-      "trendTitle": "받는 늦가",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"10만 평 숲이 통째로 붉은빛으로 물들었다니\"… 입장료 한 푼 안 받는 늦가을 단풍 정원",
-          "source": "아던트뉴스",
-          "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21579",
-          "publishedAt": "2026-11-14T18:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "붉게 물든 서남산 주변",
-          "source": "서라벌신문",
-          "url": "http://m.srbsm.co.kr/view.php?idx=57072",
-          "publishedAt": "2026-11-14T18:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "반세기 동안 보전한 숲이 이렇게 아름다울 줄이야... 2023년 개방한 생태정원 무료 여행지",
-          "source": "발품뉴스",
-          "url": "https://www.balpumnews.com/travel/gyeongju-millennium-forest",
-          "publishedAt": "2026-11-14T18:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"10만 평 숲이 통째로 붉은빛으로 물들었다니\"… 입장료 한 푼 안 받는 늦가을 단풍 정원",
-        "source": "아던트뉴스",
-        "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21579",
-        "publishedAt": "2026-11-14T18:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-14T18:30:00.000Z",
-      "firstSeenAt": "2026-11-14T19:44:48.963Z",
-      "lastSeenAt": "2026-11-14T19:44:48.963Z",
-      "title": "받는 늦가",
-      "source": "아던트뉴스",
-      "url": "https://www.ardentnews.co.kr/news/articleView.html?idxno=21579"
-    },
-    {
-      "id": "b419a6dcb588441e",
-      "issueKey": "젠지",
-      "issueTitle": "젠지",
-      "trendTitle": "젠지",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261114020600017",
-          "publishedAt": "2026-11-14T17:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[롤드컵]쵸비 \"젠지의 해로\"…기인·캐니언 \"3대1로 우승 예상\"",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261114_0003867963",
-          "publishedAt": "2026-11-14T17:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘캐니언’ 김건부 “월즈 결승은 흔치 않은 기회⋯팀원들 모두 자기 기량 뽐내길”",
-          "source": "국민일보",
-          "url": "https://www.kmib.co.kr/article/20261114500020",
-          "publishedAt": "2026-11-14T17:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'월즈 우승 도전' 젠지 \"상대 탑·정글 경계…밴픽 자신있다\"",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261114020600017",
-        "publishedAt": "2026-11-14T17:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-14T17:30:00.000Z",
-      "firstSeenAt": "2026-11-14T19:44:48.963Z",
-      "lastSeenAt": "2026-11-14T19:44:48.963Z",
-      "title": "젠지",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261114020600017"
-    },
-    {
       "id": "5d03e8aedaa0af93",
       "issueKey": "매력적인 아일릿",
       "issueTitle": "매력적인 아일릿",
@@ -1042,6 +857,52 @@
       "title": "매력적인 아일릿",
       "source": "뉴시스",
       "url": "https://www.newsis.com/view/NISI20261115_0021533395"
+    },
+    {
+      "id": "4e9db36796ba8a50",
+      "issueKey": "클롭의 독일",
+      "issueTitle": "클롭의 독일",
+      "trendTitle": "클롭의 독일",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "오렌지군단 7골 폭발…전차군단도 화력쇼",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261115105804QnZ",
+          "publishedAt": "2026-11-16T19:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261114016200007",
+          "publishedAt": "2026-11-16T19:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "네덜란드, 그리스 7대0 대파… 네이션스리그 8강 진출 청신호",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/sports/world-football/2026/11/14/3J7CZZTQLJDITCXIZ6SKUIBKAU/",
+          "publishedAt": "2026-11-16T19:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "클롭의 독일, 세르비아 3-1 제압…사비의 네덜란드는 7-0 대승",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261114016200007",
+        "publishedAt": "2026-11-16T19:10:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-16T19:10:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "클롭의 독일",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261114016200007"
     },
     {
       "id": "575e2604353bf70b",
@@ -1274,50 +1135,50 @@
       "url": "https://www.chosun.com/politics/2026/11/15/H4UB4LI7IFHKPGIUQILRP3QA5A/"
     },
     {
-      "id": "8184223c47e32afc",
-      "issueKey": "문무",
-      "issueTitle": "문무",
-      "trendTitle": "문무",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "1d0404fbd2a1aa61",
+      "issueKey": "리친청",
+      "issueTitle": "리친청",
+      "trendTitle": "리친청",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[#문무] KBS 2TV 대하드라마 문무 제작발표회",
-          "source": "대한민국 대표 공영미디어 KBS",
-          "url": "https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_LS-20260831112938-01-000_20261113_PLAT001&amp;program_code=T2025-0499&amp;program_id=LS-20260831112938-01-000&amp;section_code=03&amp;broadcast_complete_yn=N&amp;section_id=28257",
-          "publishedAt": "2026-11-14T11:20:00.000Z",
+          "title": "'속기파' 리친청, 구쯔하오 꺾고 삼성화재배 결승 선착",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116158800007",
+          "publishedAt": "2026-11-16T20:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "인사말하는 최예빈",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/PYH20261112155500013",
-          "publishedAt": "2026-11-14T11:20:00.000Z",
+          "title": "한국은 변상일-신진서, 중국은 리친청-구쯔하오…결승 한·중전 확정",
+          "source": "사이버오로",
+          "url": "https://www.cyberoro.com/news/N_news_view.oro?num=532950",
+          "publishedAt": "2026-11-16T20:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "김동희, ‘문무’ 합류 긴장감 견인…이현욱·장혁·김강우와 호흡",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/13/GQ4DEMLGMEYWGNDDGQ2WIOLBGI/",
-          "publishedAt": "2026-11-14T11:20:00.000Z",
+          "title": "신진서, 난적 당이페이에 불계승…삼성화재배 4강 진출",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8712926",
+          "publishedAt": "2026-11-16T20:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[#문무] KBS 2TV 대하드라마 문무 제작발표회",
-        "source": "대한민국 대표 공영미디어 KBS",
-        "url": "https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_LS-20260831112938-01-000_20261113_PLAT001&amp;program_code=T2025-0499&amp;program_id=LS-20260831112938-01-000&amp;section_code=03&amp;broadcast_complete_yn=N&amp;section_id=28257",
-        "publishedAt": "2026-11-14T11:20:00.000Z",
+        "title": "'속기파' 리친청, 구쯔하오 꺾고 삼성화재배 결승 선착",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261116158800007",
+        "publishedAt": "2026-11-16T20:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-14T11:20:00.000Z",
-      "firstSeenAt": "2026-11-14T13:02:48.708Z",
-      "lastSeenAt": "2026-11-14T13:02:48.708Z",
-      "title": "문무",
-      "source": "대한민국 대표 공영미디어 KBS",
-      "url": "https://www.kbs.co.kr/index.html?source=smr&amp;sname=vod&amp;stype=vod&amp;contents_id=K02_LS-20260831112938-01-000_20261113_PLAT001&amp;program_code=T2025-0499&amp;program_id=LS-20260831112938-01-000&amp;section_code=03&amp;broadcast_complete_yn=N&amp;section_id=28257"
+      "publishedAt": "2026-11-16T20:20:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "리친청",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116158800007"
     },
     {
       "id": "d8c681c34fb06f13",
@@ -1872,98 +1733,6 @@
       "url": "https://www.newsis.com/view/NISX20261114_0003868178"
     },
     {
-      "id": "766faf55c843dbc1",
-      "issueKey": "blg",
-      "issueTitle": "blg",
-      "trendTitle": "blg",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Worlds Final Is First Without T1 Since 2021 After 3.6M Semi Peak",
-          "source": "RG.org",
-          "url": "https://rg.org/news/esports/worlds-2026-final-first-without-t1-since-2021-viewership",
-          "publishedAt": "2026-11-14T18:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"LPL Back to the Top\" — BLG Sets Sights on LCK Gauntlet",
-          "source": "Inven Global",
-          "url": "https://www.invenglobal.com/articles/28579/lpl-back-to-the-top-blg-sets-sights-on-lck-gauntlet",
-          "publishedAt": "2026-11-14T18:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Inside Barclays Center's Two-Year Pursuit of the League of Legends World Championship Final",
-          "source": "CelebrityAccess",
-          "url": "https://celebrityaccess.com/2026/11/12/inside-barclays-centers-two-year-pursuit-of-the-league-of-legends-world-championship-final/",
-          "publishedAt": "2026-11-14T18:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"LPL Back to the Top\" — BLG Sets Sights on LCK Gauntlet",
-        "source": "Inven Global",
-        "url": "https://www.invenglobal.com/articles/28579/lpl-back-to-the-top-blg-sets-sights-on-lck-gauntlet",
-        "publishedAt": "2026-11-14T18:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-14T18:30:00.000Z",
-      "firstSeenAt": "2026-11-14T19:44:48.963Z",
-      "lastSeenAt": "2026-11-14T19:44:48.963Z",
-      "title": "blg",
-      "source": "Inven Global",
-      "url": "https://www.invenglobal.com/articles/28579/lpl-back-to-the-top-blg-sets-sights-on-lck-gauntlet"
-    },
-    {
-      "id": "dfe78ce9de4ed584",
-      "issueKey": "조동욱",
-      "issueTitle": "조동욱",
-      "trendTitle": "조동욱",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[사진]투구하는 조동욱",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GI3DQM3GGVSTAMDGGVRTKMRUMQ/",
-          "publishedAt": "2026-11-14T12:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[사진]주먹 불끈 문정빈",
-          "source": "OSEN",
-          "url": "https://www.osen.co.kr/article/G1112910329",
-          "publishedAt": "2026-11-14T12:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[사진]추격의 솔로홈런 쩡성안",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GA2TSMJQGI4DSMJWGVSTIODCHA/",
-          "publishedAt": "2026-11-14T12:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[사진]투구하는 조동욱",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GI3DQM3GGVSTAMDGGVRTKMRUMQ/",
-        "publishedAt": "2026-11-14T12:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-14T12:00:00.000Z",
-      "firstSeenAt": "2026-11-14T13:02:48.708Z",
-      "lastSeenAt": "2026-11-14T13:02:48.708Z",
-      "title": "조동욱",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/sports_photo/2026/11/14/GI3DQM3GGVSTAMDGGVRTKMRUMQ/"
-    },
-    {
       "id": "e14aac07c28f204f",
       "issueKey": "소노",
       "issueTitle": "소노",
@@ -1994,6 +1763,282 @@
       "title": "소노",
       "source": "점프볼",
       "url": "https://jumpball.co.kr/news/newsview.php?ncode=1065619927051376"
+    },
+    {
+      "id": "6bc64c325dba5cc4",
+      "issueKey": "박세리",
+      "issueTitle": "박세리",
+      "trendTitle": "박세리",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "박세리, 운동하느라 사춘기 ‘스킵’ 고백... “50대인 지금 누구보다 예민해”",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/",
+          "publishedAt": "2026-11-16T20:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "박세리, \"운동하느라 사춘기 건너뛰었다...50대인 지금 가장 예민\"",
+          "source": "인사이트",
+          "url": "https://www.insight.co.kr/news/582300",
+          "publishedAt": "2026-11-16T20:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "박세리, 운동하느라 사춘기 스킵..\"50대인 지금 누구보다 예민\"",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/GEYWENDDMJSDIY3FHA2WGYLCMU/",
+          "publishedAt": "2026-11-16T20:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "박세리, 운동하느라 사춘기 ‘스킵’ 고백... “50대인 지금 누구보다 예민해”",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/",
+        "publishedAt": "2026-11-16T20:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T20:30:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "박세리",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/16/HA3WKY3DME3WKMZTMMYTQMBTHA/"
+    },
+    {
+      "id": "8c0800915e182387",
+      "issueKey": "윤이나",
+      "issueTitle": "윤이나",
+      "trendTitle": "윤이나",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "최혜진, 통한의 보기 2개…10번째 준우승",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "최혜진, 준우승만 10번째 또 ‘뒷심 부족’… 땅을 쳤다",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Sports/article/all/20261117/135035563/2",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "소렌스탐과 우승 기념 촬영하는 린디 던컨",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISI20261116_0002292952",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "윤이나",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312",
+        "publishedAt": "2026-11-16T20:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T20:00:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "윤이나",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8714312"
+    },
+    {
+      "id": "c4cf0207887d21da",
+      "issueKey": "우리은행",
+      "issueTitle": "우리은행",
+      "trendTitle": "우리은행",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "우리은행, ‘우리 아트콘’ 미술대회…어린이·청소년과 ‘내일을 그리다’",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "우리은행, 제29회 '우리 아트콘' 본선 개최…어린이·청소년 250명 참가",
+          "source": "국제뉴스",
+          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3753853",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[포토] 우리은행 어린이 미술대회",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/news/economy/12210126",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "우리은행, ‘우리 아트콘’ 미술대회…어린이·청소년과 ‘내일을 그리다’",
+        "source": "동아일보",
+        "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1",
+        "publishedAt": "2026-11-16T20:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T20:00:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "우리은행",
+      "source": "동아일보",
+      "url": "https://www.donga.com/news/Economy/article/all/20261116/135031113/1"
+    },
+    {
+      "id": "85019a790344b358",
+      "issueKey": "민희진",
+      "issueTitle": "민희진",
+      "trendTitle": "민희진",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261116147651004",
+          "publishedAt": "2026-11-16T19:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "경찰, '뉴진스 계약 해지' 민희진 업무상 배임 송치",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6866041_36918.html",
+          "publishedAt": "2026-11-16T19:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "민희진, 배임 혐의 공소청 송치…하이브 레이블 소송은 모두 기각",
+          "source": "한경매거진",
+          "url": "https://magazine.hankyung.com/business/article/202611160233b",
+          "publishedAt": "2026-11-16T19:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "민희진, 뉴진스 계약해지 관여 '업무상배임' 혐의로 송치(종합)",
+        "source": "연합뉴스",
+        "url": "https://www.yna.co.kr/view/AKR20261116147651004",
+        "publishedAt": "2026-11-16T19:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T19:50:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "민희진",
+      "source": "연합뉴스",
+      "url": "https://www.yna.co.kr/view/AKR20261116147651004"
+    },
+    {
+      "id": "7d955879da26482a",
+      "issueKey": "음주 운전",
+      "issueTitle": "음주 운전",
+      "trendTitle": "음주 운전",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "경찰, 음주운전으로 청소차 들이받은 고경표 소환조사 방침",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754",
+          "publishedAt": "2026-11-16T19:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "고경표, 음주운전 여파에 팬미팅 취소…“실망 안겨 드리게 돼 사과”",
+          "source": "Chosunbiz",
+          "url": "https://biz.chosun.com/entertainment/enter_general/2026/11/16/ZBEXEGN2QJCZDF7VUTX5J44KRU/",
+          "publishedAt": "2026-11-16T19:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"李대통령도 음주운전, 왜 고경표만\"…팬클럽 형평성 문제제기 '시끌'",
+          "source": "TV조선뉴스",
+          "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/15/2026111590076.html",
+          "publishedAt": "2026-11-16T19:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "음주 운전",
+        "source": "KBS 뉴스",
+        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754",
+        "publishedAt": "2026-11-16T19:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-16T19:40:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "음주 운전",
+      "source": "KBS 뉴스",
+      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713754"
+    },
+    {
+      "id": "a9482efe959b0f23",
+      "issueKey": "북한",
+      "issueTitle": "북한",
+      "trendTitle": "북한",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261117005800109",
+          "publishedAt": "2026-11-16T19:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "푸틴, '김정은 최측근' 조용원 만나…\"양국 군사적 형제애로 연결\"",
+          "source": "news.sbs.co.kr",
+          "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848824&amp;plink=RSSLINK&amp;cooper=GSTAND",
+          "publishedAt": "2026-11-16T19:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
+          "publishedAt": "2026-11-16T19:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "APEC 직전 복심 급파...북한의 노림수는 [자막뉴스]",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294",
+        "publishedAt": "2026-11-16T19:30:00.000Z",
+        "relevanceScore": 1
+      },
+      "publishedAt": "2026-11-16T19:30:00.000Z",
+      "firstSeenAt": "2026-11-16T21:41:21.717Z",
+      "lastSeenAt": "2026-11-16T21:41:21.717Z",
+      "title": "북한",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0134_202611161028547294"
     },
     {
       "id": "3adaeafe52856282",
@@ -2224,98 +2269,6 @@
       "title": "고속도로 건설",
       "source": "경기일보",
       "url": "https://www.kyeonggi.com/article/20261115580186"
-    },
-    {
-      "id": "57dbff2898415dad",
-      "issueKey": "미사일",
-      "issueTitle": "미사일",
-      "trendTitle": "미사일",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "북한, 해킹 코인으로 ‘미사일 부품’ 사들이나",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/weeklybiz/2026/11/16/R5RD3V5JPBA6XD6H6TMXCRMXCE/",
-          "publishedAt": "2026-11-15T23:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "北 해커, 얼굴 도용해 가상자산 5천억원 탈취…피해 영상만 900개",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261115580035",
-          "publishedAt": "2026-11-15T23:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "FBI “북한, 소프트웨어 관리자 속여 대규모 악성코드 유포 시도”",
-          "source": "VOA 한국어 홈페이지",
-          "url": "https://www.voakorea.com/a/8223336.html",
-          "publishedAt": "2026-11-15T23:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "북한, 해킹 코인으로 ‘미사일 부품’ 사들이나",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/weeklybiz/2026/11/16/R5RD3V5JPBA6XD6H6TMXCRMXCE/",
-        "publishedAt": "2026-11-15T23:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-15T23:00:00.000Z",
-      "firstSeenAt": "2026-11-16T00:46:50.799Z",
-      "lastSeenAt": "2026-11-16T00:46:50.799Z",
-      "title": "미사일",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/weeklybiz/2026/11/16/R5RD3V5JPBA6XD6H6TMXCRMXCE/"
-    },
-    {
-      "id": "19c0c17f4163e6e2",
-      "issueKey": "수능일",
-      "issueTitle": "수능일",
-      "trendTitle": "수능일",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "울산시, 수능일 시험장 교통관리 강화…수험생 긴급 수송도",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261116015200057",
-          "publishedAt": "2026-11-15T23:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "수능 문제지 배부",
-          "source": "뉴시스",
-          "url": "https://mobile.newsis.com/photo/NISI20261116_0021533585",
-          "publishedAt": "2026-11-15T23:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "버스 집중 배차·장애인콜택시 무료···인천시, 19일 수능 특별수송 대책 시행",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611151118001",
-          "publishedAt": "2026-11-15T23:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "울산시, 수능일 시험장 교통관리 강화…수험생 긴급 수송도",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261116015200057",
-        "publishedAt": "2026-11-15T23:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-15T23:00:00.000Z",
-      "firstSeenAt": "2026-11-16T00:46:50.799Z",
-      "lastSeenAt": "2026-11-16T00:46:50.799Z",
-      "title": "수능일",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261116015200057"
     }
   ]
 }
