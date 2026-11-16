@@ -3,7 +3,7 @@
   "type": "release-and-videos",
   "source": "Unity Releases + Unity Korea YouTube",
   "sourceMode": "official-release+youtube-rss",
-  "lastUpdatedAt": "2026-11-16T00:46:50.799Z",
+  "lastUpdatedAt": "2026-11-16T10:42:14.428Z",
   "title": "Unity Latest Release",
   "description": "최신 Unity 릴리스와 Unity Korea 공식 채널 영상을 함께 보여줍니다.",
   "release": {
@@ -17,18 +17,18 @@
   "videoCount": 2,
   "videos": [
     {
-      "id": "q5Yeif-jJ2I",
-      "title": "[2D 게임 개발 꿀팁 시리즈] Sprite Shape vs. Tilemap",
-      "url": "https://www.youtube.com/shorts/q5Yeif-jJ2I",
-      "publishedAt": "2026-11-13T00:41:57.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/q5Yeif-jJ2I/hqdefault.jpg"
+      "id": "2TCjq4s-_eg",
+      "title": "[Unity AI Game Jam] Unity CLI, 어디까지 사용해보셨나요?",
+      "url": "https://www.youtube.com/watch?v=2TCjq4s-_eg",
+      "publishedAt": "2026-11-16T06:33:14.000Z",
+      "thumbnailUrl": "https://i3.ytimg.com/vi/2TCjq4s-_eg/hqdefault.jpg"
     },
     {
-      "id": "yMrlutMnhpc",
-      "title": "[2D 게임 개발 꿀팁 시리즈] 2D 게임 그림자 성능",
-      "url": "https://www.youtube.com/shorts/yMrlutMnhpc",
-      "publishedAt": "2026-11-12T04:43:04.000Z",
-      "thumbnailUrl": "https://i2.ytimg.com/vi/yMrlutMnhpc/hqdefault.jpg"
+      "id": "L494gnEHr5A",
+      "title": "[2D 게임 개발 꿀팁 시리즈] 그림자 최적화로 60FPS",
+      "url": "https://www.youtube.com/shorts/L494gnEHr5A",
+      "publishedAt": "2026-11-16T02:26:07.000Z",
+      "thumbnailUrl": "https://i1.ytimg.com/vi/L494gnEHr5A/hqdefault.jpg"
     }
   ],
   "releaseSourceUrl": "https://unity.com/releases/editor/latest",
@@ -45,8 +45,8 @@
     {
       "key": "youtube",
       "source": "Unity Korea YouTube",
-      "ok": false,
-      "error": "HTTP 404"
+      "ok": true,
+      "itemCount": 2
     }
   ]
 }
