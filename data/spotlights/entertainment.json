@@ -7,473 +7,433 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-11-22T10:46:38.063Z",
+  "lastUpdatedAt": "2026-11-22T19:06:59.628Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 9,
   "items": [
     {
-      "id": "ea150b0a003c9a38",
-      "issueKey": "원자력 잠수함",
-      "issueTitle": "원자력 잠수함",
-      "trendTitle": "원자력 잠수함",
+      "id": "aef05adf3d515470",
+      "issueKey": "밀란 대 프로시노네",
+      "issueTitle": "밀란 대 프로시노네",
+      "trendTitle": "밀란 대 프로시노네",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
+          "publishedAt": "2026-11-22T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Klopp's Germany Routs Xavi's Netherlands To Book Nations League Quarterfinals",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/stories/soccer/germany-routs-the-netherlands-50-in-nations-league-to-confirm-renaissance-under-klopp",
+          "publishedAt": "2026-11-22T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
+          "publishedAt": "2026-11-22T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "밀란 대 프로시노네",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
+        "publishedAt": "2026-11-22T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-22T17:00:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "밀란 대 프로시노네",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
+      "rank": 1
+    },
+    {
+      "id": "6705a593f372a3e8",
+      "issueKey": "liverpool đấu với man utd",
+      "issueTitle": "liverpool đấu với man utd",
+      "trendTitle": "liverpool đấu với man utd",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[단독] 中, 韓 핵추진잠수함 IAEA 검증에 문제 제기…“국제 안보에 중대 도전”",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/news/politics/12215581",
-          "publishedAt": "2026-11-22T09:40:00.000Z",
+          "title": "CANLI Liverpool - Manchester United: Maç devam ediyor",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-tran-dau-dang-dien-ra",
+          "publishedAt": "2026-11-22T16:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "민주당 “핵잠 도입, 국제사회 신뢰 확인…핵비확산 원칙 담아 특별법 뒷받침”",
-          "source": "www.dt.co.kr",
-          "url": "https://www.dt.co.kr/article/12096468",
-          "publishedAt": "2026-11-22T09:40:00.000Z",
+          "title": "Leny Yoro nhận thẻ đỏ, ngày ra mắt của Pochettino thành ác mộng",
+          "source": "Tạp chí Saostar",
+          "url": "https://www.saostar.vn/sao-sport/leny-yoro-nhan-the-do-ngay-ra-mat-cua-pochettino-thanh-ac-mong-202611230059072796.html",
+          "publishedAt": "2026-11-22T16:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "IAEA, 한국 핵잠 첫 보고서 공개…“협력에 만족” 국제 검증 첫 관문 넘었다",
-          "source": "데일리스포츠한국",
-          "url": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=435780",
-          "publishedAt": "2026-11-22T09:40:00.000Z",
+          "title": "Thống kê trận đấu Liverpool 4-0 Manchester United: Liverpool thắng đậm thuyết phục",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/thong-ke-tran-dau-liverpool-4-0-manchester-united-liverpool-thang-dam-thuyet-phuc-475361.html",
+          "publishedAt": "2026-11-22T16:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "원자력 잠수함",
-        "source": "매일경제",
-        "url": "https://www.mk.co.kr/news/politics/12215581",
-        "publishedAt": "2026-11-22T09:40:00.000Z",
+        "title": "liverpool đấu với man utd",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-tran-dau-dang-dien-ra",
+        "publishedAt": "2026-11-22T16:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-22T09:40:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "원자력 잠수함",
-      "source": "매일경제",
-      "url": "https://www.mk.co.kr/news/politics/12215581",
-      "rank": 1
-    },
-    {
-      "id": "3a11654e2f556bdb",
-      "issueKey": "사업비 급증",
-      "issueTitle": "사업비 급증",
-      "trendTitle": "사업비 급증",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 2,
-      "articleCount": 2,
-      "relatedArticles": [
-        {
-          "title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611222102i",
-          "publishedAt": "2026-11-22T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "[단독] 서부선 민자 재시동…재정 ‘투트랙’ 속도낸다",
-          "source": "대한경제",
-          "url": "https://www.dnews.co.kr/m_home/view.jsp?idxno=202611191120305010769",
-          "publishedAt": "2026-11-22T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "20년 넘게 끌어온 서부선…사업비 급증의 암초를 넘을 수 있을까",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/202611222102i",
-        "publishedAt": "2026-11-22T09:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-22T09:20:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "사업비 급증",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/202611222102i",
+      "publishedAt": "2026-11-22T16:40:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "liverpool đấu với man utd",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-tran-dau-dang-dien-ra",
       "rank": 2
     },
     {
-      "id": "f750636ca108c9cd",
-      "issueKey": "무신사",
-      "issueTitle": "무신사",
-      "trendTitle": "무신사",
+      "id": "94b794ec199f56b6",
+      "issueKey": "맨유",
+      "issueTitle": "맨유",
+      "trendTitle": "맨유",
       "approxTraffic": "2000+",
       "trafficScore": 2000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "SKT, 무신사 블랙프라이데이서 '에어' 요금제 할인",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261122012200017",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "축구의 묘미는 역시 ‘바이시클킥’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "무신사, 롯데리아와 수험생 응원 '버거트럭' 이벤트 실시",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261122000047",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
+          "source": "주간동아",
+          "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "무신사, ‘무진장’ 개막 앞두고 성수서 수험생 대상 ‘버거 트럭’ 운영",
-          "source": "브릿지경제",
-          "url": "https://www.viva100.com/article/20261122500190",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "'얼마나 진심인지 감도 안 옴' \"죄송합니다, 방금까지 훈련했습니다\" 포체티노의 황당한 첫 기자회견...샤워도 못 하고 등장",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211136770084O",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "SKT, 무신사 블랙프라이데이서 '에어' 요금제 할인",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261122012200017",
-        "publishedAt": "2026-11-22T09:10:00.000Z",
-        "relevanceScore": 3
+        "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
+        "source": "주간동아",
+        "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
+        "publishedAt": "2026-11-22T16:30:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-11-22T09:10:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "무신사",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261122012200017",
+      "publishedAt": "2026-11-22T16:30:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "맨유",
+      "source": "주간동아",
+      "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
       "rank": 3
     },
     {
-      "id": "c664a23b5edb0674",
-      "issueKey": "회계사",
-      "issueTitle": "회계사",
-      "trendTitle": "회계사",
+      "id": "d781d8576b52e28e",
+      "issueKey": "업비트",
+      "issueTitle": "업비트",
+      "trendTitle": "빗썸",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/newsletter/page/3575",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "내년 회계사시험 'AI 부정' 대책 골몰…인원축소 전망",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261121044700002",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "업비트·빗썸, 사이버 CYBER 입출금 동시 중단…거래는 열고 송금은 막았다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1176751",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "회계사 시험 전자기기 부정행위 5년간 적발 ‘0건’…AI 탐지 장비 예산도 없어",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/economy_general/2026/11/22/SDD6JM7JY5AC3NOXCXKVS3OF2M/",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "빗썸, 사이버(CYBER) 입출금 일시 중지 안내",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/272321",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "회계사 시험 합격이 끝 아니다…업무수행 역량 확인 강화",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
-        "publishedAt": "2026-11-22T09:10:00.000Z",
+        "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/newsletter/page/3575",
+        "publishedAt": "2026-11-22T16:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-22T09:10:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "회계사",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Economy/article/all/20261122/135066588/1",
+      "publishedAt": "2026-11-22T16:30:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "업비트",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/newsletter/page/3575",
       "rank": 4
     },
     {
-      "id": "5030b77dd6887a8f",
-      "issueKey": "김혜윤",
-      "issueTitle": "김혜윤",
-      "trendTitle": "김혜윤",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
+      "id": "325b0b3fb759e3f7",
+      "issueKey": "포체티노",
+      "issueTitle": "포체티노",
+      "trendTitle": "포체티노",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
-          "source": "programs.sbs.co.kr",
-          "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698?div=live_end",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "‘1000억+연봉 228억 원’ 맨유 또 천문학적 거금 투자해 FW 영입할까 “나이지리아 대표 공격수에 다시 관...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611220909003",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "베테랑 사무장 떴다! 차유진, '굿파트너2' 첫 등장",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261122000028",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "'미쳤다' 맨체스터 유나이티드 '포체티노 1호 영입' 낙점! 美 대표팀 '주전 레프트백' 러브콜, '최우선 순위' 급부상...\"재회 간절히 원해\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026112214352236820",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“나 고용주해도 될까요?” 장나라X김혜윤, ‘리봄’으로 뭉쳤다 (굿파트너2)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261122/135066121/1",
-          "publishedAt": "2026-11-22T09:10:00.000Z",
+          "title": "'맨유 상대로 2골 1도움 폭격하더니 아르헨티나에서도 멀티골' 메시 후계자 니코 파스, 포체티노의 새로운 영입 목표로 급부상",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261118230151420",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“진심과 태도 때문에 만나자고 했어요” 장나라, 김혜윤 영입 위해 보는 면접!",
-        "source": "programs.sbs.co.kr",
-        "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698?div=live_end",
-        "publishedAt": "2026-11-22T09:10:00.000Z",
-        "relevanceScore": 3
+        "title": "'미쳤다' 맨체스터 유나이티드 '포체티노 1호 영입' 낙점! 美 대표팀 '주전 레프트백' 러브콜, '최우선 순위' 급부상...\"재회 간절히 원해\"",
+        "source": "마이데일리",
+        "url": "https://mydaily.co.kr/page/view/2026112214352236820",
+        "publishedAt": "2026-11-22T16:20:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-11-22T09:10:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "김혜윤",
-      "source": "programs.sbs.co.kr",
-      "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698?div=live_end",
+      "publishedAt": "2026-11-22T16:20:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "포체티노",
+      "source": "마이데일리",
+      "url": "https://mydaily.co.kr/page/view/2026112214352236820",
       "rank": 5
     },
     {
-      "id": "a61a85f61df9f9eb",
-      "issueKey": "금융위기",
-      "issueTitle": "금융위기",
-      "trendTitle": "금융위기",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "반도체 전망 좋은데, 삼전닉스는 급락…'45조 증발' 한국 주식 버리는 외국인, 왜?",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261122000065",
-          "publishedAt": "2026-11-22T09:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“미국인들, 삼전닉스 왜 팔죠?”…외국인 두 달 간 국내 주식 45조 순매도",
-          "source": "매일경제TV",
-          "url": "https://mbnmoney.mbn.co.kr/news/view?news_no=MM1005966163",
-          "publishedAt": "2026-11-22T09:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "외국인, 올해 10월까지 주식 240조 원 순매도…지난해의 20배",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8717970",
-          "publishedAt": "2026-11-22T09:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "금융위기",
-        "source": "전자신문",
-        "url": "https://www.etnews.com/20261122000065",
-        "publishedAt": "2026-11-22T09:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-22T09:00:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "금융위기",
-      "source": "전자신문",
-      "url": "https://www.etnews.com/20261122000065",
-      "rank": 6
-    },
-    {
-      "id": "626e64bf720cef86",
-      "issueKey": "acc emerging teams asia cup",
-      "issueTitle": "acc emerging teams asia cup",
-      "trendTitle": "acc emerging teams asia cup",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "IND A vs PAK A: Drama at toss! Pakistan captain Abdul Samad intervenes after match referee's call - Watch",
-          "source": "The Times of India",
-          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-a-vs-pak-a-drama-at-toss-pakistan-captain-abdul-samad-intervenes-after-match-referees-call-watch/articleshow/136071103.cms",
-          "publishedAt": "2026-11-22T09:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "India A vs Pakistan Shaheens ACC Men's Asia Cup Rising Stars score, toss winner, winning probability, result and highlights from Doha",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/india-vs-pakistan-shaheens-acc-065651378.html",
-          "publishedAt": "2026-11-22T09:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "India A vs Pakistan Shaheens at Doha, DP World Men's Asia Cup Rising Stars, 22 Nov 2026",
-          "source": "BCCI",
-          "url": "https://www.bcci.tv/matches/df694319-6cfe-4fbe-9528-730ae1b3fec4/india-a-vs-pakistan-a/commentary",
-          "publishedAt": "2026-11-22T09:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "acc emerging teams asia cup",
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-a-vs-pak-a-drama-at-toss-pakistan-captain-abdul-samad-intervenes-after-match-referees-call-watch/articleshow/136071103.cms",
-        "publishedAt": "2026-11-22T09:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-22T09:00:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "acc emerging teams asia cup",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/ind-a-vs-pak-a-drama-at-toss-pakistan-captain-abdul-samad-intervenes-after-match-referees-call-watch/articleshow/136071103.cms",
-      "rank": 7
-    },
-    {
-      "id": "ada1b6d8777287d1",
-      "issueKey": "김영훈",
-      "issueTitle": "김영훈",
-      "trendTitle": "김영훈",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343",
-          "publishedAt": "2026-11-22T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“정년 연장, 與 결론 안내면 정부 입장 낼 것”(종합)",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=00&amp;key=20261123.22004006871",
-          "publishedAt": "2026-11-22T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "노동부 장관 “정년연장 27일 합의 불발 땐 정부안 먼저 내놓을 것”",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261122580051",
-          "publishedAt": "2026-11-22T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김영훈 노동장관 “정년연장, 27일 여당 특위서 결론 못 내면 정부안 발표”",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343",
-        "publishedAt": "2026-11-22T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-22T08:40:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "김영훈",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/view.do?ncd=8719343",
-      "rank": 8
-    },
-    {
-      "id": "48d003e07a2183c4",
-      "issueKey": "기온",
-      "issueTitle": "기온",
-      "trendTitle": "기온",
+      "id": "dc7e9749cb137943",
+      "issueKey": "라싱 산탄데르 대 레알 소시에다드",
+      "issueTitle": "라싱 산탄데르 대 레알 소시에다드",
+      "trendTitle": "라싱 산탄데르 대 레알 소시에다드",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[날씨] '소설' 추위 12월 하순 수준...내일 전국 또 눈비",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
-          "publishedAt": "2026-11-22T08:30:00.000Z",
+          "title": "Racing de Santander vs Real Sociedad: Spanish La Liga stats & head-to-head",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/c6kgr004pl7rt",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[날씨] 내일 전국 비…강원 최대 8㎝ 눈, 추위는 주춤",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH20261122190107Kdr",
-          "publishedAt": "2026-11-22T08:30:00.000Z",
+          "title": "Racing Santander vs. Real Sociedad - Game Highlights",
+          "source": "ESPN",
+          "url": "https://www.espn.com/video/clip/_/id/50563056/racing-santander-vs-real-sociedad-game-highlights",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "내일 전국 비·강원산지 최대 5㎝ 눈…영하 4도 추위 이어져",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Society/article/all/20261122/135066816/1",
-          "publishedAt": "2026-11-22T08:30:00.000Z",
+          "title": "Racing Santander 3-2 Real Sociedad: Zabiri scores twice",
+          "source": "Tu Futbolero",
+          "url": "https://www.tufutbolero.com/en/news/racing-santander-3-2-real-sociedad-zabiri-scores-twice-5d55f0",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "기온",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
-        "publishedAt": "2026-11-22T08:30:00.000Z",
+        "title": "라싱 산탄데르 대 레알 소시에다드",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/c6kgr004pl7rt",
+        "publishedAt": "2026-11-22T16:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-22T08:30:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "기온",
-      "source": "YTN",
-      "url": "https://www.ytn.co.kr/_ln/0108_202611221351271386",
-      "rank": 9
+      "publishedAt": "2026-11-22T16:20:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "라싱 산탄데르 대 레알 소시에다드",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/c6kgr004pl7rt",
+      "rank": 6
     },
     {
-      "id": "4cd24ad643909ce3",
-      "issueKey": "노동자",
-      "issueTitle": "노동자",
-      "trendTitle": "노동자",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "1ee0ff858257d168",
+      "issueKey": "ล เวอร พ ล พบ แมนย",
+      "issueTitle": "ลิเวอร์พูล พบ แมนยู",
+      "trendTitle": "ลิเวอร์พูล พบ แมนยู",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "고용허가제 22년…이주노동자는 왜 위험한 일터를 떠나지 못하나",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/area/capital/1288512.html",
-          "publishedAt": "2026-11-22T07:50:00.000Z",
+          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ แมนยู แดงเดือดวันนี้ (22 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
+          "source": "thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069",
+          "publishedAt": "2026-11-22T16:10:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[한국 입국과 그 이후 12] 외국인 노동자가 산재를 당하면 체류는?",
-          "source": "이로운넷",
-          "url": "https://www.eroun.net/news/articleView.html?idxno=90955",
-          "publishedAt": "2026-11-22T07:50:00.000Z",
+          "title": "โปเช็ตติโน่ได้รับข่าวร้ายก่อนเกมสำคัญระหว่างแมนเชสเตอร์ ยูไนเต็ดและลิเวอร์พูล",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/pochettino-don-tin-khong-vui-truoc-tran-quyet-dau-cua-man-utd-va-liverpool",
+          "publishedAt": "2026-11-22T16:10:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[삶] \"어린동생 3명과 병든부모 있는데…산재신청 했다고 해고하네요\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261115052100546",
-          "publishedAt": "2026-11-22T07:50:00.000Z",
+          "title": "ทุกสิ่งที่ควรรู้ : ก่อนแดงจะเดือดครั้งที่219",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/n/sports/186865/",
+          "publishedAt": "2026-11-22T16:10:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "고용허가제 22년…이주노동자는 왜 위험한 일터를 떠나지 못하나",
-        "source": "한겨레",
-        "url": "https://www.hani.co.kr/arti/area/capital/1288512.html",
-        "publishedAt": "2026-11-22T07:50:00.000Z",
+        "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ แมนยู แดงเดือดวันนี้ (22 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
+        "source": "thairath.co.th",
+        "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069",
+        "publishedAt": "2026-11-22T16:10:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-22T07:50:00.000Z",
-      "firstSeenAt": "2026-11-22T10:46:38.063Z",
-      "lastSeenAt": "2026-11-22T10:46:38.063Z",
-      "title": "노동자",
-      "source": "한겨레",
-      "url": "https://www.hani.co.kr/arti/area/capital/1288512.html",
-      "rank": 10
+      "publishedAt": "2026-11-22T16:10:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "ลิเวอร์พูล พบ แมนยู",
+      "source": "thairath.co.th",
+      "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069",
+      "rank": 7
+    },
+    {
+      "id": "a5c72ae922bfa1de",
+      "issueKey": "라민 야말",
+      "issueTitle": "라민 야말",
+      "trendTitle": "라민 야말",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "페이호 \"라민 야말의 활약은 특별하다\", 스페인이 2030 월드컵 결승전 개최해야",
+          "source": "AllFootball",
+          "url": "https://www.allfootballapp.com/ko/articles/6037663-2030",
+          "publishedAt": "2026-11-22T15:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘스페인 월드컵 개최 포기?’ 불타는 의지, 바르셀로나-레알 마드리드 안방에서? “챔피언이잖아...그렇게 될 것”",
+          "source": "Goal.com",
+          "url": "https://www.goal.com/kr/%EB%89%B4%EC%8A%A4/%E1%84%89%E1%85%B3%E1%84%91%E1%85%A6%E1%84%8B%E1%85%B5%E1%86%AB-%E1%84%8B%E1%85%AF%E1%86%AF%E1%84%83%E1%85%B3%E1%84%8F%E1%85%A5%E1%86%B8-%E1%84%80%E1%85%A2%E1%84%8E%E1%85%AC-%E1%84%91%E1%85%A9%E1%84%80%E1%85%B5-%E1%84%8B%E1%85%B5%E1%86%B8%E1%84%8C%E1%85%A1%E1%86%BC-%E1%84%91%E1%85%B5%E1%84%85%E1%85%A7%E1%86%A8-%E1%84%87%E1%85%AE%E1%86%AF%E1%84%90%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%8B%E1%85%B4%E1%84%8C%E1%85%B5-%E1%84%87%E1%85%A1%E1%84%85%E1%85%B3%E1%84%89%E1%85%A6%E1%86%AF%E1%84%85%E1%85%A9%E1%84%82%E1%85%A1-%E1%84%85%E1%85%A6%E1%84%8B%E1%85%A1%E1%86%AF-%E1%84%86%E1%85%A1%E1%84%83%E1%85%B3%E1%84%85%E1%85%B5%E1%84%83%E1%85%B3-%E1%84%8B%E1%85%A1%E1%86%AB%E1%84%87%E1%85%A1%E1%86%BC%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5--%E1%84%8E%E1%85%A2%E1%86%B7%E1%84%91%E1%85%B5%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%84%8C%E1%85%A1%E1%86%AD%E1%84%8B%E1%85%A1--%E1%84%80%E1%85%B3%E1%84%85%E1%85%A5%E1%87%82%E1%84%80%E1%85%A6-%E1%84%83%E1%85%AC%E1%86%AF-%E1%84%80%E1%85%A5%E1%86%BA/bltd770ea97e8d68e28",
+          "publishedAt": "2026-11-22T15:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "7분 만에 2실점→야말 PK 실축→3-2 역전승! 바르셀로나, 홈에서 비야레알에 진땀승…라리가 선두 수성",
+          "source": "마이데일리",
+          "url": "https://www.mydaily.co.kr/page/view/2026112300222443099",
+          "publishedAt": "2026-11-22T15:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "페이호 \"라민 야말의 활약은 특별하다\", 스페인이 2030 월드컵 결승전 개최해야",
+        "source": "AllFootball",
+        "url": "https://www.allfootballapp.com/ko/articles/6037663-2030",
+        "publishedAt": "2026-11-22T15:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-22T15:50:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "라민 야말",
+      "source": "AllFootball",
+      "url": "https://www.allfootballapp.com/ko/articles/6037663-2030",
+      "rank": 8
+    },
+    {
+      "id": "86a46127715d6e03",
+      "issueKey": "liverpool vs man utd",
+      "issueTitle": "liverpool vs man utd",
+      "trendTitle": "liverpool vs man utd",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Liverpool 4-0 Manchester United: Nightmare start to Mauricio Pochettino's reign after Anfield hammering",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+          "publishedAt": "2026-11-22T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Liverpool v Manchester United: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+          "publishedAt": "2026-11-22T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino",
+          "publishedAt": "2026-11-22T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "liverpool vs man utd",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+        "publishedAt": "2026-11-22T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-22T15:40:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "liverpool vs man utd",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+      "rank": 9
     }
   ],
   "history": [
@@ -681,6 +641,98 @@
       "title": "india a cricket team vs nepal national cricket team standings",
       "source": "Cricinfo",
       "url": "https://www.cricinfo.com/series/asia-cup-rising-stars-50-overs-2026-27-1562333/india-a-vs-nepal-4th-match-group-b-1562345/match-report"
+    },
+    {
+      "id": "94b794ec199f56b6",
+      "issueKey": "맨유",
+      "issueTitle": "맨유",
+      "trendTitle": "맨유",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "축구의 묘미는 역시 ‘바이시클킥’",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8716627",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
+          "source": "주간동아",
+          "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'얼마나 진심인지 감도 안 옴' \"죄송합니다, 방금까지 훈련했습니다\" 포체티노의 황당한 첫 기자회견...샤워도 못 하고 등장",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/sports/2026/11/21/202611211136770084O",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "“맨유 재건 맡은 포체티노 감독, 선수 육성 능력이 최대 강점”",
+        "source": "주간동아",
+        "url": "https://weekly.donga.com/home/article/all/11/6466651/1",
+        "publishedAt": "2026-11-22T16:30:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-22T16:30:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "맨유",
+      "source": "주간동아",
+      "url": "https://weekly.donga.com/home/article/all/11/6466651/1"
+    },
+    {
+      "id": "86a46127715d6e03",
+      "issueKey": "liverpool vs man utd",
+      "issueTitle": "liverpool vs man utd",
+      "trendTitle": "liverpool vs man utd",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Liverpool 4-0 Manchester United: Nightmare start to Mauricio Pochettino's reign after Anfield hammering",
+          "source": "BBC",
+          "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+          "publishedAt": "2026-11-22T15:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Liverpool v Manchester United: Premier League – live",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
+          "publishedAt": "2026-11-22T15:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino",
+          "publishedAt": "2026-11-22T15:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "liverpool vs man utd",
+        "source": "BBC",
+        "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t",
+        "publishedAt": "2026-11-22T15:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-22T15:40:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "liverpool vs man utd",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/cm62pqqw6d29t"
     },
     {
       "id": "f750636ca108c9cd",
@@ -911,52 +963,6 @@
       "title": "두산",
       "source": "스포츠경향",
       "url": "https://sports.khan.co.kr/article/202611200600016"
-    },
-    {
-      "id": "68de8ca9389d033c",
-      "issueKey": "김장",
-      "issueTitle": "김장",
-      "trendTitle": "김장",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
-          "source": "국제신문",
-          "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20261120.99099006422",
-          "publishedAt": "2026-11-20T09:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "한성대 ESG센터, 삼선동 저소득 180가구에 김장 김치 전달",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876956",
-          "publishedAt": "2026-11-20T09:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "포항시새마을회, 사랑의 김장 담그기&나눔 행사로 겨울나기 온정 전해",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722666",
-          "publishedAt": "2026-11-20T09:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "해운대구 좌2동 새마을부녀회, 따뜻한 겨울나기를 위한‘사랑의 김장나누기’ 행사 개최",
-        "source": "국제신문",
-        "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20261120.99099006422",
-        "publishedAt": "2026-11-20T09:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-20T09:30:00.000Z",
-      "firstSeenAt": "2026-11-20T10:57:52.973Z",
-      "lastSeenAt": "2026-11-20T10:57:52.973Z",
-      "title": "김장",
-      "source": "국제신문",
-      "url": "https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&amp;key=20261120.99099006422"
     },
     {
       "id": "5030b77dd6887a8f",
@@ -1316,6 +1322,98 @@
       "url": "https://bloomingbit.io/feed/news/124896"
     },
     {
+      "id": "aef05adf3d515470",
+      "issueKey": "밀란 대 프로시노네",
+      "issueTitle": "밀란 대 프로시노네",
+      "trendTitle": "밀란 대 프로시노네",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "Germany 5-0 Netherlands (Nov 16, 2026) Game Analysis",
+          "source": "ESPN",
+          "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
+          "publishedAt": "2026-11-22T17:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "Klopp's Germany Routs Xavi's Netherlands To Book Nations League Quarterfinals",
+          "source": "FOX Sports",
+          "url": "https://www.foxsports.com/stories/soccer/germany-routs-the-netherlands-50-in-nations-league-to-confirm-renaissance-under-klopp",
+          "publishedAt": "2026-11-22T17:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "Football Daily | Jürgen Klopp hard-launches his Germany rebuilding project in style",
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/nov/17/jurgen-klopp-germany-project-football-daily-newsletter",
+          "publishedAt": "2026-11-22T17:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "밀란 대 프로시노네",
+        "source": "ESPN",
+        "url": "https://www.espn.com/soccer/report/_/gameId/401861185",
+        "publishedAt": "2026-11-22T17:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-22T17:00:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "밀란 대 프로시노네",
+      "source": "ESPN",
+      "url": "https://www.espn.com/soccer/report/_/gameId/401861185"
+    },
+    {
+      "id": "1ee0ff858257d168",
+      "issueKey": "ล เวอร พ ล พบ แมนย",
+      "issueTitle": "ลิเวอร์พูล พบ แมนยู",
+      "trendTitle": "ลิเวอร์พูล พบ แมนยู",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ แมนยู แดงเดือดวันนี้ (22 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
+          "source": "thairath.co.th",
+          "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069",
+          "publishedAt": "2026-11-22T16:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "โปเช็ตติโน่ได้รับข่าวร้ายก่อนเกมสำคัญระหว่างแมนเชสเตอร์ ยูไนเต็ดและลิเวอร์พูล",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/th/pochettino-don-tin-khong-vui-truoc-tran-quyet-dau-cua-man-utd-va-liverpool",
+          "publishedAt": "2026-11-22T16:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "ทุกสิ่งที่ควรรู้ : ก่อนแดงจะเดือดครั้งที่219",
+          "source": "แนวหน้า",
+          "url": "https://www.naewna.com/n/sports/186865/",
+          "publishedAt": "2026-11-22T16:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "LIVE ดูบอลสด ลิเวอร์พูล พบ แมนยู แดงเดือดวันนี้ (22 พ.ย. 69) 23.30 น. พรีเมียร์ลีก 2026-27",
+        "source": "thairath.co.th",
+        "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069",
+        "publishedAt": "2026-11-22T16:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-22T16:10:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "ลิเวอร์พูล พบ แมนยู",
+      "source": "thairath.co.th",
+      "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069"
+    },
+    {
       "id": "c597b282778e3c88",
       "issueKey": "인공지능",
       "issueTitle": "인공지능",
@@ -1638,96 +1736,142 @@
       "url": "https://www.bbc.com/sport/football/live/c6j9k2l339lzt"
     },
     {
-      "id": "5c929280b6621b74",
-      "issueKey": "경주시",
-      "issueTitle": "경주시",
-      "trendTitle": "경주시",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "6705a593f372a3e8",
+      "issueKey": "liverpool đấu với man utd",
+      "issueTitle": "liverpool đấu với man utd",
+      "trendTitle": "liverpool đấu với man utd",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "경주시, 2026년산 공공비축미 6,006톤 매입…전년 대비 14% 이상 감소",
-          "source": "뉴스타운",
-          "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722655",
-          "publishedAt": "2026-11-20T09:50:00.000Z",
+          "title": "CANLI Liverpool - Manchester United: Maç devam ediyor",
+          "source": "Vietnam.vn",
+          "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-tran-dau-dang-dien-ra",
+          "publishedAt": "2026-11-22T16:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[경주소식]시, 내달까지 공공비축미 건조벼 2988t 매입 등",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261119_0003875334",
-          "publishedAt": "2026-11-20T09:50:00.000Z",
+          "title": "Leny Yoro nhận thẻ đỏ, ngày ra mắt của Pochettino thành ác mộng",
+          "source": "Tạp chí Saostar",
+          "url": "https://www.saostar.vn/sao-sport/leny-yoro-nhan-the-do-ngay-ra-mat-cua-pochettino-thanh-ac-mong-202611230059072796.html",
+          "publishedAt": "2026-11-22T16:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "영암군, 공공비축미 수매 서류 대신 온라인 플랫폼 활용",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/policy/2026/11/19/2026111909571992819",
-          "publishedAt": "2026-11-20T09:50:00.000Z",
+          "title": "Thống kê trận đấu Liverpool 4-0 Manchester United: Liverpool thắng đậm thuyết phục",
+          "source": "Báo Lâm Đồng",
+          "url": "https://baolamdong.vn/thong-ke-tran-dau-liverpool-4-0-manchester-united-liverpool-thang-dam-thuyet-phuc-475361.html",
+          "publishedAt": "2026-11-22T16:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "경주시, 2026년산 공공비축미 6,006톤 매입…전년 대비 14% 이상 감소",
-        "source": "뉴스타운",
-        "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722655",
-        "publishedAt": "2026-11-20T09:50:00.000Z",
+        "title": "liverpool đấu với man utd",
+        "source": "Vietnam.vn",
+        "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-tran-dau-dang-dien-ra",
+        "publishedAt": "2026-11-22T16:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-20T09:50:00.000Z",
-      "firstSeenAt": "2026-11-20T10:57:52.973Z",
-      "lastSeenAt": "2026-11-20T10:57:52.973Z",
-      "title": "경주시",
-      "source": "뉴스타운",
-      "url": "https://www.newstown.co.kr/news/articleView.html?idxno=722655"
+      "publishedAt": "2026-11-22T16:40:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "liverpool đấu với man utd",
+      "source": "Vietnam.vn",
+      "url": "https://www.vietnam.vn/tr/truc-tieptruc-tiep-liverpool-vs-manchester-united-tran-dau-dang-dien-ra"
     },
     {
-      "id": "6f80c60267f6bc73",
-      "issueKey": "스타벅스",
-      "issueTitle": "스타벅스",
-      "trendTitle": "스타벅스",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "d781d8576b52e28e",
+      "issueKey": "업비트",
+      "issueTitle": "업비트",
+      "trendTitle": "빗썸",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "스타벅스, ’부드러운 생크림 카스텔라’ 700원 인상…11년 만",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR202611201453244Qv",
-          "publishedAt": "2026-11-20T09:40:00.000Z",
+          "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
+          "source": "매일경제",
+          "url": "https://www.mk.co.kr/newsletter/page/3575",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "스타벅스 디저트 ‘부생카’ 11년 만에 첫 가격 인상… 700원 오른다",
-          "source": "천지일보",
-          "url": "https://www.newscj.com/news/articleView.html?idxno=3450737",
-          "publishedAt": "2026-11-20T09:40:00.000Z",
+          "title": "업비트·빗썸, 사이버 CYBER 입출금 동시 중단…거래는 열고 송금은 막았다",
+          "source": "위키트리",
+          "url": "https://www.wikitree.co.kr/articles/1176751",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "스타벅스, '부드러운 생크림 카스텔라' 11년 만에 700원 인상",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261120070800030",
-          "publishedAt": "2026-11-20T09:40:00.000Z",
+          "title": "빗썸, 사이버(CYBER) 입출금 일시 중지 안내",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/272321",
+          "publishedAt": "2026-11-22T16:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "스타벅스, ’부드러운 생크림 카스텔라’ 700원 인상…11년 만",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR202611201453244Qv",
-        "publishedAt": "2026-11-20T09:40:00.000Z",
+        "title": "업비트·빗썸 사상 처음 적자, 뒤따르는 시장 침체의 신호 | 엠블록",
+        "source": "매일경제",
+        "url": "https://www.mk.co.kr/newsletter/page/3575",
+        "publishedAt": "2026-11-22T16:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-20T09:40:00.000Z",
-      "firstSeenAt": "2026-11-20T10:57:52.973Z",
-      "lastSeenAt": "2026-11-20T10:57:52.973Z",
-      "title": "스타벅스",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR202611201453244Qv"
+      "publishedAt": "2026-11-22T16:30:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "업비트",
+      "source": "매일경제",
+      "url": "https://www.mk.co.kr/newsletter/page/3575"
+    },
+    {
+      "id": "325b0b3fb759e3f7",
+      "issueKey": "포체티노",
+      "issueTitle": "포체티노",
+      "trendTitle": "포체티노",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘1000억+연봉 228억 원’ 맨유 또 천문학적 거금 투자해 FW 영입할까 “나이지리아 대표 공격수에 다시 관...",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611220909003",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'미쳤다' 맨체스터 유나이티드 '포체티노 1호 영입' 낙점! 美 대표팀 '주전 레프트백' 러브콜, '최우선 순위' 급부상...\"재회 간절히 원해\"",
+          "source": "마이데일리",
+          "url": "https://mydaily.co.kr/page/view/2026112214352236820",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'맨유 상대로 2골 1도움 폭격하더니 아르헨티나에서도 멀티골' 메시 후계자 니코 파스, 포체티노의 새로운 영입 목표로 급부상",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261118230151420",
+          "publishedAt": "2026-11-22T16:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'미쳤다' 맨체스터 유나이티드 '포체티노 1호 영입' 낙점! 美 대표팀 '주전 레프트백' 러브콜, '최우선 순위' 급부상...\"재회 간절히 원해\"",
+        "source": "마이데일리",
+        "url": "https://mydaily.co.kr/page/view/2026112214352236820",
+        "publishedAt": "2026-11-22T16:20:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-22T16:20:00.000Z",
+      "firstSeenAt": "2026-11-22T19:06:59.628Z",
+      "lastSeenAt": "2026-11-22T19:06:59.628Z",
+      "title": "포체티노",
+      "source": "마이데일리",
+      "url": "https://mydaily.co.kr/page/view/2026112214352236820"
     },
     {
       "id": "ea150b0a003c9a38",
@@ -2188,190 +2332,6 @@
       "title": "nice vs psg",
       "source": "Foot Mercato",
       "url": "https://www.footmercato.net/a4542289172314082946-nice-psg-les-compositions-officielles"
-    },
-    {
-      "id": "85d5f2049ed1eff3",
-      "issueKey": "권순우",
-      "issueTitle": "권순우",
-      "trendTitle": "권순우",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'타이브레이크 역전쇼' 권순우, 시즌 4번째 4강 [ATP 메츠챌린저]",
-          "source": "테니스코리아",
-          "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54344",
-          "publishedAt": "2026-11-21T15:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "권순우, 프랑스 메츠 챌린저 결승 진출…2시간 7분 혈투 뒤 역전승",
-          "source": "테니스피플",
-          "url": "http://m.tennispeople.kr/news/articleView.html?idxno=19876",
-          "publishedAt": "2026-11-21T15:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "권순우, 프리즈미치 잡고 메츠 챌린저 4강 진출",
-          "source": "테니스피플",
-          "url": "http://m.tennispeople.kr/news/articleView.html?idxno=19875",
-          "publishedAt": "2026-11-21T15:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'타이브레이크 역전쇼' 권순우, 시즌 4번째 4강 [ATP 메츠챌린저]",
-        "source": "테니스코리아",
-        "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54344",
-        "publishedAt": "2026-11-21T15:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-21T15:20:00.000Z",
-      "firstSeenAt": "2026-11-21T18:45:20.099Z",
-      "lastSeenAt": "2026-11-21T18:45:20.099Z",
-      "title": "권순우",
-      "source": "테니스코리아",
-      "url": "https://www.tennis.co.kr/news/articleView.html?idxno=54344"
-    },
-    {
-      "id": "49ef044188dcd25e",
-      "issueKey": "그것",
-      "issueTitle": "그것",
-      "trendTitle": "그것",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'그것이 알고싶다', 女 줄세워 가학 벌칙…'사이버 룸살롱' 엑셀 방송의 충격 실태",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112120007264440",
-          "publishedAt": "2026-11-21T15:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'그것이 알고싶다'(그알) 딸의 방송 본 아버지 제보로 드러난 '엑셀 방송' 실태",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759174",
-          "publishedAt": "2026-11-21T15:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "성노예→학대 사이버 룸살롱 ‘엑셀’ 파헤친다 (그것이 알고싶다)",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/ent/article/all/20261120/135062142/1",
-          "publishedAt": "2026-11-21T15:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'그것이 알고싶다', 女 줄세워 가학 벌칙…'사이버 룸살롱' 엑셀 방송의 충격 실태",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112120007264440",
-        "publishedAt": "2026-11-21T15:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-21T15:10:00.000Z",
-      "firstSeenAt": "2026-11-21T18:45:20.099Z",
-      "lastSeenAt": "2026-11-21T18:45:20.099Z",
-      "title": "그것",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/entertainment/2026/11/21/2026112120007264440"
-    },
-    {
-      "id": "786654ea0521c8b5",
-      "issueKey": "장동혁",
-      "issueTitle": "장동혁",
-      "trendTitle": "장동혁",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "이 대통령 \"5500억 환수가 배임이면…\" 대장동 업자 인터뷰 SNS에 공유",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12329146",
-          "publishedAt": "2026-11-21T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
-          "publishedAt": "2026-11-21T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "李대통령 \"5천500억 공익환수가 배임이면 일반 개발허가는 뭔가\"",
-          "source": "연합인포맥스",
-          "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445863",
-          "publishedAt": "2026-11-21T14:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "장동혁 \"억울하면 재판 받아라\"…민주 \"크게 착각\"",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814",
-        "publishedAt": "2026-11-21T14:50:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-21T14:50:00.000Z",
-      "firstSeenAt": "2026-11-21T18:45:20.099Z",
-      "lastSeenAt": "2026-11-21T18:45:20.099Z",
-      "title": "장동혁",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/AKR20261121165813814"
-    },
-    {
-      "id": "b6749f97cc8e8f40",
-      "issueKey": "승리의 기쁨",
-      "issueTitle": "승리의 기쁨",
-      "trendTitle": "승리의 기쁨",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "수원 삼성, K리그2 우승‥이정효 감독 \"14위부터 다시 시작\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/sports/article/6867487_36946.html",
-          "publishedAt": "2026-11-21T09:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "승리의 기쁨",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/photos/8226316",
-          "publishedAt": "2026-11-21T09:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'1부 승격' 수원 삼성, 경남 꺾고 K리그2 우승까지 확정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261121039700007",
-          "publishedAt": "2026-11-21T09:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "승리의 기쁨",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/photos/8226316",
-        "publishedAt": "2026-11-21T09:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-21T09:20:00.000Z",
-      "firstSeenAt": "2026-11-21T10:41:19.845Z",
-      "lastSeenAt": "2026-11-21T10:41:19.845Z",
-      "title": "승리의 기쁨",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/photos/8226316"
     }
   ]
 }
