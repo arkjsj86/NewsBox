@@ -4,9 +4,27 @@
   "description": "한국어 AI 뉴스와 업계 흐름을 빠르게 확인하는 탭",
   "sourceMode": "korean-rss",
   "contentLocale": "ko-KR",
-  "lastUpdatedAt": "2026-11-23T01:24:55.908Z",
-  "articleCount": 13,
+  "lastUpdatedAt": "2026-11-23T11:53:08.667Z",
+  "articleCount": 12,
   "articles": [
+    {
+      "id": "ec52a696ef94d9ef",
+      "title": "예산 없는 90일, AI 코드 보안의 우선순위",
+      "url": "https://www.itworld.co.kr/article/4251851/%EC%A1%B0%EC%A7%81%EC%9D%B4-ai%EA%B0%80-%EC%83%9D%EC%84%B1%ED%95%9C-%EC%BD%94%EB%93%9C%EC%9D%98-%EB%B3%B4%EC%95%88%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%99%95%EB%B3%B4%ED%95%A0-%EC%88%98-%EC%9E%88.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-11-23T02:35:14.000Z",
+      "summary": "최근 기업에서 자주 벌어지는 상황을 가상의 시나리오 하나로 짚어보자. IT 관리자는 회사가 학교를 갓 졸업한 ‘바이브 코더’를 채용한 사실을 몰랐다. 몇 달 뒤 두 사람이 마주쳤을 때, 신입 직원은 이미 고객 데이터와 비공개 계약서를 다루는 웹 애플리케이션을 만들어 둔 상태였다. 앱은 신입 직원이 직접 관리하는 도메인에서 구동됐고, 데이터는 수파베이스(Supabase)의 무료 요금제에...",
+      "tab": "ai"
+    },
+    {
+      "id": "3926b1394e085d60",
+      "title": "AI 추론을 기업 데이터 곁에 두는 윈도우 서버 2028",
+      "url": "https://www.itworld.co.kr/article/4251847/ai-%EC%B6%94%EB%A1%A0%EC%9D%84-%EA%B8%B0%EC%97%85-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%81%EC%97%90-%EB%91%90%EB%8A%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%84%9C%EB%B2%84-2028.html",
+      "source": "ITWorld Korea",
+      "publishedAt": "2026-11-23T02:17:51.000Z",
+      "summary": "마이크로소프트가 AI 추론이 가장 합리적인 곳에서 이뤄지는 하이브리드 미래에 베팅하고 있다. 논리적으로 보면 데이터가 이미 있는 곳, 즉 기업이 직접 통제하는 인프라다. 이런 구상에 따라 마이크로소프트는 이번 주 열린 마이크로소프트 이그나이트에서 윈도우 서버 2025 이후 최대 규모의 플랫폼 업데이트인 윈도우 서버 2028을 발표했다. 현재 공개 프리뷰 단계인 차세대 서버는 ‘기업 하이...",
+      "tab": "ai"
+    },
     {
       "id": "b75f315fd4d6b2e3",
       "title": "'마크로스의 아버지' 카와모리 쇼지 만난 김용하 “성덕 됐다”... AI 시대 창작은 '체험과 질문'",
@@ -95,33 +113,6 @@
       "source": "ITWorld Korea",
       "publishedAt": "2026-11-12T06:55:53.000Z",
       "summary": "AI 활용이 모델 학습 중심에서 추론과 에이전트 실행 중심으로 옮겨가면서, 기업의 AI 인프라 고민도 단일 칩 성능 경쟁에서 시스템 전체의 설계와 운영 효율로 확장되고 있다. 데이터센터의 CPU·GPU·가속기는 물론 PC와 엣지, 로보틱스까지 AI 워크로드가 놓이는 자리가 다양해지면서, 목적에 맞는 컴퓨팅 구성과 그 구성을 뒷받침할 파트너 생태계가 AI 도입의 성패를 가르는 변수로 떠오...",
-      "tab": "ai"
-    },
-    {
-      "id": "9c9d49e247ea8d0c",
-      "title": "클로드 코드의 성공 공식, 지식 노동자 시장으로 옮기는 앤트로픽",
-      "url": "https://www.itworld.co.kr/article/4247615/anthropic-claude-meetings%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%97%85%EB%AC%B4-%ED%98%84%EC%9E%A5-%ED%98%91%EC%97%85-%EA%B0%95%ED%99%94%EC%97%90-%EC%A3%BC%EB%A0%A5.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-11-12T03:27:50.000Z",
-      "summary": "앤트로픽이 지식 노동자를 겨냥한 스프레드시트, 화이트보드, 회의 어시스턴트 도구를 출시하며 클로드의 생산성·협업 기능 범위를 넓혔다. 새 기능은 앤트로픽이 AI 어시스턴트를 더 폭넓은 생산성 업무에 활용할 수 있도록 9월에 발표한 클로드 독스와 슬라이드 기능에 더해진다. 콜랩 컬렉티브(The Collab Collective)의 수석 애널리스트 크레이그 더는 “앤트로픽은 클로드를 질문하러...",
-      "tab": "ai"
-    },
-    {
-      "id": "d30531be73c0c375",
-      "title": "미국 중간선거가 바꾼 AI 판도, IT 리더는 비용과 규제 준수 대비해야",
-      "url": "https://www.itworld.co.kr/article/4247108/%EC%A4%91%EA%B0%84-%EC%8B%A4%EC%A0%81-%EB%B0%9C%ED%91%9C%EB%A1%9C-%EC%9D%B8%ED%95%B4-it-%EB%A6%AC%EB%8D%94%EB%93%A4%EC%9D%80-ai-%EB%B9%84%EC%9A%A9-%EB%B0%8F-%EA%B7%9C%EC%A0%95-%EC%A4%80%EC%88%98.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-11-11T01:44:53.000Z",
-      "summary": "미국 민주당이 의회를 장악하면서 AI는 더 큰 저항과 감시를 받고, AI가 소비하는 자원을 정당화하라는 요구도 더 거세질 전망이다. 애널리스트는 미국 중간선거 이후 AI와 데이터센터가 더 많은 감시를 받게 되므로 IT 리더가 IT 전략을 신속히 조정해야 한다고 분석했다. AI와 데이터센터를 둘러싼 우려가 민주당의 상원·하원 석권에 힘을 보탰다. 규제 강화, 감독 확대, 승인 지연은 AI...",
-      "tab": "ai"
-    },
-    {
-      "id": "1e52600bc68f298b",
-      "title": "깃허브가 보여준 중립의 힘, AI 에이전트 시대에도 유효하다",
-      "url": "https://www.itworld.co.kr/article/4247111/anthropic%EA%B3%BC-openai%EA%B0%80-%EA%B0%9C%EB%B0%9C-%EC%9B%8C%ED%81%AC%ED%94%8C%EB%A1%9C%EC%9A%B0%EB%A5%BC-%EA%B2%A8%EB%83%A5%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8B%A4.html",
-      "source": "ITWorld Korea",
-      "publishedAt": "2026-11-11T01:34:59.000Z",
-      "summary": "금광을 운영하는 일은 수익성이 있지만, 다음 금광을 찾아 채굴하는 일은 비용이 많이 든다. 애널리스트 베네딕트 에번스는 앤트로픽의 사업도 같은 과제를 안고 있다고 분석했다. 3분기 매출의 80% 이상이 직전 6개월 이내에 출시된 모델에서 나왔기 때문이다. 기업은 최고 모델을 서비스하며 큰 수익을 낼 수 있지만 다음에 필요한 모델에 막대한 비용을 쏟아야 하는데, 주요 학습 주기 사이 간격...",
       "tab": "ai"
     }
   ]
