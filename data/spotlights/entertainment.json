@@ -7,549 +7,574 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-11-23T23:27:40.911Z",
+  "lastUpdatedAt": "2026-11-24T08:42:52.410Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
   "itemCount": 10,
   "items": [
     {
-      "id": "f10c38240cfaf449",
-      "issueKey": "뉴욕증시",
-      "issueTitle": "뉴욕증시",
-      "trendTitle": "뉴욕증시",
+      "id": "c1f3a0aac1f7869e",
+      "issueKey": "이관희",
+      "issueTitle": "이관희",
+      "trendTitle": "이관희",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"남의 결혼식장서 예행연습\"..이관희♥유시은, 윤하정 결혼식 '민폐커플' 논란[Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GFSDCOLGGZQWENJWGY2DCNTGHA/",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'솔지3' 윤하정, 커플 하객 폭로 \"내 결혼식서 예행연습\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261124_0003880634",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[스경X이슈] ‘솔로지옥3’ 윤하정, 이관희♥유시은 저격했나…“버진로드 걷고 상황극까지” 민폐 하객 폭로",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611240905003",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"남의 결혼식장서 예행연습\"..이관희♥유시은, 윤하정 결혼식 '민폐커플' 논란[Oh!쎈 이슈]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GFSDCOLGGZQWENJWGY2DCNTGHA/",
+        "publishedAt": "2026-11-24T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T07:40:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "이관희",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GFSDCOLGGZQWENJWGY2DCNTGHA/",
+      "rank": 1
+    },
+    {
+      "id": "477b8e1cccfde276",
+      "issueKey": "화장실",
+      "issueTitle": "화장실",
+      "trendTitle": "화장실",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "화장실 찾기 쉬워진다! QR 안내부터 개방화장실 확대까지",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2020151",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘화장실 찾기 쉽고 더 깨끗하게’…서울 주요 관광특구·전통시장 개선",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611241538001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "명동·홍대 등 관광특구 화장실 QR코드로 확인…개방화장실 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261124052500004",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "화장실 찾기 쉬워진다! QR 안내부터 개방화장실 확대까지",
+        "source": "서울특별시",
+        "url": "https://mediahub.seoul.go.kr/archives/2020151",
+        "publishedAt": "2026-11-24T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T07:40:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "화장실",
+      "source": "서울특별시",
+      "url": "https://mediahub.seoul.go.kr/archives/2020151",
+      "rank": 2
+    },
+    {
+      "id": "5fe1db765ee80a54",
+      "issueKey": "로치",
+      "issueTitle": "로치",
+      "trendTitle": "로치",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "T1 새 사령탑에 '로치' 김강희 선임… 코치진 인선 완료",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=20261124170001510874bcc1e038_27",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[단독] '엄티' 엄성현, 2027 시즌 T1 코치진 합류 유력",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2220350",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "T1, 2027시즌 LCK 코치진 완성 [공식]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2652441",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "T1 새 사령탑에 '로치' 김강희 선임… 코치진 인선 완료",
+        "source": "데일리e스포츠",
+        "url": "https://www.dailyesports.com/view.php?ud=20261124170001510874bcc1e038_27",
+        "publishedAt": "2026-11-24T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T07:40:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "로치",
+      "source": "데일리e스포츠",
+      "url": "https://www.dailyesports.com/view.php?ud=20261124170001510874bcc1e038_27",
+      "rank": 3
+    },
+    {
+      "id": "24e87f3638e9c783",
+      "issueKey": "김새롬",
+      "issueTitle": "김새롬",
+      "trendTitle": "김새롬",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"재혼 생각 늘 있다\"던 김새롬, 깜짝 결혼 발표 \"법적 짝꿍 생겨\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112414551661027",
+          "publishedAt": "2026-11-24T07:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "방송인 김새롬, 비연예인과 재혼…\"오래도록 사랑하겠다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261124150400005",
+          "publishedAt": "2026-11-24T07:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이혼 10년 만에…김새롬 재혼 \"법적 짝꿍 생겼다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261124_0003881024",
+          "publishedAt": "2026-11-24T07:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"재혼 생각 늘 있다\"던 김새롬, 깜짝 결혼 발표 \"법적 짝꿍 생겨\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112414551661027",
+        "publishedAt": "2026-11-24T07:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T07:10:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "김새롬",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112414551661027",
+      "rank": 4
+    },
+    {
+      "id": "3e9a2fcf7233797d",
+      "issueKey": "이도현",
+      "issueTitle": "이도현",
+      "trendTitle": "이도현",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "임지연·이도현, 군대도 기다렸는데..공개연애 3년만 \"결별\"[공식]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GZQTKMBWHBRWENDCMMYGCYZTME/",
+          "publishedAt": "2026-11-24T07:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘더 글로리 커플’ 이도현·임지연, 공개열애 3년여만에 결별",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261124/135082155/2",
+          "publishedAt": "2026-11-24T07:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'더 글로리' 임지연·이도현, 교제 4년 만에 결별…방송인 김새롬 재혼",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611241638597933",
+          "publishedAt": "2026-11-24T07:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임지연·이도현, 군대도 기다렸는데..공개연애 3년만 \"결별\"[공식]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GZQTKMBWHBRWENDCMMYGCYZTME/",
+        "publishedAt": "2026-11-24T07:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T07:00:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "이도현",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GZQTKMBWHBRWENDCMMYGCYZTME/",
+      "rank": 5
+    },
+    {
+      "id": "c54bf8ff151cca96",
+      "issueKey": "원현주",
+      "issueTitle": "원현주",
+      "trendTitle": "원현주",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "[속보] 원현주, '불륜 의혹' 양홍원과 결혼식 한 달여 만에 \"이혼 절차 거의 종료\"",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/G5QTCN3EHAZTOZTFMMZGIZRXGU/",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "양홍원·원현주 결국 파경…\"이혼 절차 거의 종료\"",
+          "source": "한국경제",
+          "url": "https://www.hankyung.com/article/202611247327H",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "래퍼 양홍원·원현주 결혼 한달만에 파경 \"원만하게 합의 이혼\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6364435",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "[속보] 원현주, '불륜 의혹' 양홍원과 결혼식 한 달여 만에 \"이혼 절차 거의 종료\"",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/G5QTCN3EHAZTOZTFMMZGIZRXGU/",
+        "publishedAt": "2026-11-24T06:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T06:20:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "원현주",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/G5QTCN3EHAZTOZTFMMZGIZRXGU/",
+      "rank": 6
+    },
+    {
+      "id": "a7444ee050c62abd",
+      "issueKey": "성심당",
+      "issueTitle": "성심당",
+      "trendTitle": "성심당",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "23만원어치 성심당 빵·선물 가져간 배송 기사…항의하자 \"나 아냐\" 발뺌",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6362509",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"빌라라 CCTV 없는 줄 알았나\"…퀵서비스 온 '성심당 가방' 슬쩍한 배송기사",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261123_0003879373",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "성심당, 크리스마스 한정 메뉴 3종 출시…가격·판매처는?",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195195",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "23만원어치 성심당 빵·선물 가져간 배송 기사…항의하자 \"나 아냐\" 발뺌",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6362509",
+        "publishedAt": "2026-11-24T06:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T06:20:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "성심당",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/society/general-society/6362509",
+      "rank": 7
+    },
+    {
+      "id": "32cec5d9a151edb7",
+      "issueKey": "uae vs india a",
+      "issueTitle": "uae vs india a",
+      "trendTitle": "uae vs india a",
       "approxTraffic": "500+",
       "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "美증시 선물 2∼3%대 반등…조정국면 부른 AI 매도 진정",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261123123500009",
-          "publishedAt": "2026-11-23T22:20:00.000Z",
+          "title": "Lost to Pakistan, now what? How Tilak Varma-led India A can reach Asia Cup Rising Stars semi-finals | Qua",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lost-to-pakistan-now-what-how-tilak-varma-led-india-a-can-reach-asia-cup-rising-stars-semi-finals-qualification-scenarios/articleshow/136088275.cms",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "[글로벌증시] 뉴욕증시, 나스닥 6%대 급등…엔비디아 31%↑",
-          "source": "연합뉴스TV",
-          "url": "https://www.yonhapnewstv.co.kr/news/MYH2026112406520005G",
-          "publishedAt": "2026-11-23T22:20:00.000Z",
+          "title": "INDA vs UAE, 11th Match, Group B, ACC Men's Asia Cup Rising Stars 2026 - Commentary",
+          "source": "Cricbuzz",
+          "url": "https://m.cricbuzz.com/live-cricket-scores/177203/uae-vs-inda-11th-match-group-b-acc-mens-asia-cup-rising-stars-2026",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "기술주 매도에 폭락했던 지수 반등 시도",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nw1700/article/6867892_36981.html",
-          "publishedAt": "2026-11-23T22:20:00.000Z",
+          "title": "India A Cricket Team Vs United Arab Emirates National Cricket Team Match Scorecard",
+          "source": "Newspatrolling.com",
+          "url": "https://newspatrolling.com/india-a-cricket-team-vs-united-arab-emirates-national-cricket-team-match-scorecard/",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "[글로벌증시] 뉴욕증시, 나스닥 6%대 급등…엔비디아 31%↑",
-        "source": "연합뉴스TV",
-        "url": "https://www.yonhapnewstv.co.kr/news/MYH2026112406520005G",
-        "publishedAt": "2026-11-23T22:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-23T22:20:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "뉴욕증시",
-      "source": "연합뉴스TV",
-      "url": "https://www.yonhapnewstv.co.kr/news/MYH2026112406520005G",
-      "rank": 1
-    },
-    {
-      "id": "450474634a4fa47c",
-      "issueKey": "skhy",
-      "issueTitle": "skhy",
-      "trendTitle": "skhy",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "(LEAD) SK hynix's U.S.-traded shares surge over 20 pct in Mon. morning trading after Nvidia CEO's reinstatement",
-          "source": "Yonhap News Agency",
-          "url": "https://en.yna.co.kr/view/AEN20261124000251315",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "SK Hynix shares are trading below the KRW 1.1 million mark in early trading on the 23rd. The stock p..",
-          "source": "매일경제",
-          "url": "https://www.mk.co.kr/en/stock/12215849",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "U.S. Semiconductor Stocks Surge on Jensen Huang's Return ... SKHY Up 20%",
-          "source": "파이낸셜뉴스",
-          "url": "https://en.fnnews.com/news/202611240713332201",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "U.S. Semiconductor Stocks Surge on Jensen Huang's Return ... SKHY Up 20%",
-        "source": "파이낸셜뉴스",
-        "url": "https://en.fnnews.com/news/202611240713332201",
-        "publishedAt": "2026-11-23T22:00:00.000Z",
-        "relevanceScore": 1
-      },
-      "publishedAt": "2026-11-23T22:00:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "skhy",
-      "source": "파이낸셜뉴스",
-      "url": "https://en.fnnews.com/news/202611240713332201",
-      "rank": 2
-    },
-    {
-      "id": "f163e90f3b91fe3e",
-      "issueKey": "박정환",
-      "issueTitle": "박정환",
-      "trendTitle": "박정환",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "박정환 9단, 승률 1%서 뒤집기…신진서 꺾고 명인전 기선제압",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/sports/general-sport/6363432",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "끝난 줄 알았던 이야기…박정환, 결승 첫판서 대역전승",
-          "source": "사이버오로",
-          "url": "https://www.cyberoro.com/news/news_view.oro?num=532968",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘승률 1%의 기적’ 박정환, 신진서에 대역전승…명인전 정상까지 1승 남았다",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611231921003",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "박정환 9단, 승률 1%서 뒤집기…신진서 꺾고 명인전 기선제압",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/sports/general-sport/6363432",
-        "publishedAt": "2026-11-23T22:00:00.000Z",
+        "title": "uae vs india a",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lost-to-pakistan-now-what-how-tilak-varma-led-india-a-can-reach-asia-cup-rising-stars-semi-finals-qualification-scenarios/articleshow/136088275.cms",
+        "publishedAt": "2026-11-24T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-23T22:00:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "박정환",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/sports/general-sport/6363432",
-      "rank": 3
-    },
-    {
-      "id": "2ad084d85f47c3d6",
-      "issueKey": "brentford vs everton",
-      "issueTitle": "brentford vs everton",
-      "trendTitle": "brentford vs everton",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "Brentford 4-0 Everton - James Tarkowski sees red as Toffees thrashed",
-          "source": "BBC",
-          "url": "https://www.bbc.com/sport/football/live/c64gnwyv7kvjt",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "David Moyes at a loss to explain Everton’s bad night at Brentford",
-          "source": "www.essexcountynews.co.uk",
-          "url": "https://www.essexcountynews.co.uk/sport/national/26755941.david-moyes-loss-explain-evertons-bad-night-brentford/",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "Brentford 4-0 Everton: Keane Lewis-Potter double and James Tarkowski red card wreck David Moyes' record night as Jack Grealish returns from disciplinary exile",
-          "source": "Goal.com",
-          "url": "https://www.goal.com/en-us/news/brentford-everton-keane-lewis-potter-double-james-tarkowski-red-card-wreck-david-moyes-record-night-jack-grealish-returns-disciplinary-exile/bltc4cd1bcb4d7f0661",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "brentford vs everton",
-        "source": "BBC",
-        "url": "https://www.bbc.com/sport/football/live/c64gnwyv7kvjt",
-        "publishedAt": "2026-11-23T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-23T22:00:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "brentford vs everton",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/c64gnwyv7kvjt",
-      "rank": 4
-    },
-    {
-      "id": "5e25367738e51899",
-      "issueKey": "해고",
-      "issueTitle": "해고",
-      "trendTitle": "해고",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "설립 3개월 해고된 노조간부, 법원 “지오메디칼, 부당해고”",
-          "source": "매일노동뉴스",
-          "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237871",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "데이비드 존스 직원 1,689명 정리해고 통보",
-          "source": "위클리코리아",
-          "url": "https://www.weeklykoreanz.com/post/%EB%8D%B0%EC%9D%B4%EB%B9%84%EB%93%9C-%EC%A1%B4%EC%8A%A4-%EC%A7%81%EC%9B%90-1-689%EB%AA%85-%EC%A0%95%EB%A6%AC%ED%95%B4%EA%B3%A0-%ED%86%B5%EB%B3%B4",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "단호하게 \"젠슨 황 복귀 없다\"더니, 이사회 판단 바꾼 결정적 이유는?",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/tech_it/2026/11/24/K22JIZ2SB5FKTBTOB7CHNKK2OE/",
-          "publishedAt": "2026-11-23T22:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "설립 3개월 해고된 노조간부, 법원 “지오메디칼, 부당해고”",
-        "source": "매일노동뉴스",
-        "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237871",
-        "publishedAt": "2026-11-23T22:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-23T22:00:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "해고",
-      "source": "매일노동뉴스",
-      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237871",
-      "rank": 5
-    },
-    {
-      "id": "5cdfba05d4bfe996",
-      "issueKey": "개인정보",
-      "issueTitle": "개인정보",
-      "trendTitle": "개인정보",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "삼성증권, 시스템 침입으로 8천여 명 개인정보 유출",
-          "source": "YTN 사이언스",
-          "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202611231100182230",
-          "publishedAt": "2026-11-23T21:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[속보]삼성증권 ‘고객의 소리’ 해킹…고객 8241명 계좌번호·운전면허번호 유출",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611231030001",
-          "publishedAt": "2026-11-23T21:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "경찰 \"금융기관 16곳 해킹 피해 조사 마쳐…국제공조 진행\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/society/2026/11/23/2026112314015443802",
-          "publishedAt": "2026-11-23T21:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼성증권, 시스템 침입으로 8천여 명 개인정보 유출",
-        "source": "YTN 사이언스",
-        "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202611231100182230",
-        "publishedAt": "2026-11-23T21:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-23T21:50:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "개인정보",
-      "source": "YTN 사이언스",
-      "url": "https://science.ytn.co.kr/program/view.php?mcd=0082&amp;key=202611231100182230",
-      "rank": 6
-    },
-    {
-      "id": "199520f1f56b8d3e",
-      "issueKey": "국방백서",
-      "issueTitle": "국방백서",
-      "trendTitle": "국방백서",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘북한군은 적’ 李정부 첫 국방백서에도 유지될 듯",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2",
-          "publishedAt": "2026-11-23T21:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[단독] 李 정부도 ‘북한은 적’… 北 적대적 두 국가론, DMZ 지뢰 폭발 영향",
-          "source": "서울신문",
-          "url": "https://www.seoul.co.kr/news/politics/diplomacy/2026/11/24/20261124003004",
-          "publishedAt": "2026-11-23T21:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "2026 국방백서 ‘북한군은 적’ 유지…다음 달 발간 : 정치",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/post/1117710",
-          "publishedAt": "2026-11-23T21:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "‘북한군은 적’ 李정부 첫 국방백서에도 유지될 듯",
-        "source": "동아일보",
-        "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2",
-        "publishedAt": "2026-11-23T21:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-23T21:40:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "국방백서",
-      "source": "동아일보",
-      "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2",
-      "rank": 7
-    },
-    {
-      "id": "d07e567cbc4ced9d",
-      "issueKey": "메츠",
-      "issueTitle": "메츠",
-      "trendTitle": "메츠",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "MLB 메츠, 1루수 골드슈미트 영입…사흘간 7천400억원 투자",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261124022200007",
-          "publishedAt": "2026-11-23T21:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "605억 '일시불' 지급 초파격! 다저스 제안조차 못하고 빼앗길 줄이야…실망한 LA 언론 \"오타니가 해줘야 한다\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/24/202611231016775710O",
-          "publishedAt": "2026-11-23T21:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘투타 에이스에 1조 6333억 원’ NYM 억 소리 나는 투자 ‘결실 맺을까’",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261123/135076586/1",
-          "publishedAt": "2026-11-23T21:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "MLB 메츠, 1루수 골드슈미트 영입…사흘간 7천400억원 투자",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261124022200007",
-        "publishedAt": "2026-11-23T21:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-23T21:30:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "메츠",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261124022200007",
+      "publishedAt": "2026-11-24T06:20:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "uae vs india a",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lost-to-pakistan-now-what-how-tilak-varma-led-india-a-can-reach-asia-cup-rising-stars-semi-finals-qualification-scenarios/articleshow/136088275.cms",
       "rank": 8
     },
     {
-      "id": "f550dd6664552b0d",
-      "issueKey": "언론 정면충돌",
-      "issueTitle": "언론 정면충돌",
-      "trendTitle": "언론 정면충돌",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "손흥민 \"우승이 목표‥미국 무대 압박감 덜해\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6867724_37012.html",
-          "publishedAt": "2026-11-23T21:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"손흥민 있어도 탈락\" vs \"결국 손흥민이 뒤집는다\"… 美 언론 정면충돌, 운명의 PO 개막",
-          "source": "파이낸셜뉴스",
-          "url": "https://www.fnnews.com/news/202611230238089643",
-          "publishedAt": "2026-11-23T21:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘코리안 더비’ 손흥민, 24일 세인트루이스와 MLS컵 16강 1차전 출격",
-          "source": "스포츠동아",
-          "url": "https://sports.donga.com/sports/article/all/20261123/135075871/1",
-          "publishedAt": "2026-11-23T21:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "\"손흥민 있어도 탈락\" vs \"결국 손흥민이 뒤집는다\"… 美 언론 정면충돌, 운명의 PO 개막",
-        "source": "파이낸셜뉴스",
-        "url": "https://www.fnnews.com/news/202611230238089643",
-        "publishedAt": "2026-11-23T21:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-23T21:20:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "언론 정면충돌",
-      "source": "파이낸셜뉴스",
-      "url": "https://www.fnnews.com/news/202611230238089643",
-      "rank": 9
-    },
-    {
-      "id": "7753b2418f4bf05e",
-      "issueKey": "코인",
-      "issueTitle": "코인",
-      "trendTitle": "비트코인 시세",
+      "id": "fe24117d4d132f04",
+      "issueKey": "보육",
+      "issueTitle": "보육",
+      "trendTitle": "보육",
       "approxTraffic": "100+",
       "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
-          "publishedAt": "2026-11-23T21:20:00.000Z",
+          "title": "대전과기대-대전어린이집연합회, 지역 맞춤형 보육 인재 육성 협력",
+          "source": "굿모닝충청",
+          "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456449",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘에브리씽 랠리’→‘에브리씽 크래시’, 주식·비트코인·금·구리도 떨어져",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611240600081",
-          "publishedAt": "2026-11-23T21:20:00.000Z",
+          "title": "대전과기대, 현장형 유아교사 키운다",
+          "source": "충청헤럴드",
+          "url": "http://www.ccherald.kr/news/articleView.html?idxno=54164",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "\"분산 투자할 곳이 없다\"…1년 만에 '에브리씽 랠리'에서 '에브리씽 크래시'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/202611233526i",
-          "publishedAt": "2026-11-23T21:20:00.000Z",
+          "title": "대전과기대, 대전어린이집연합회와 유아교육·보육 발전 업무협약",
+          "source": "투데이플러스",
+          "url": "https://www.newsfun.kr/news/articleView.html?idxno=224779",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“코인·금 동반 폭락”…수익률 꼴찌인데, 지금이 가장 싸다? [잇슈 머니]",
-        "source": "KBS 뉴스",
-        "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
-        "publishedAt": "2026-11-23T21:20:00.000Z",
+        "title": "대전과기대-대전어린이집연합회, 지역 맞춤형 보육 인재 육성 협력",
+        "source": "굿모닝충청",
+        "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456449",
+        "publishedAt": "2026-11-24T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-23T21:20:00.000Z",
-      "firstSeenAt": "2026-11-23T23:27:40.911Z",
-      "lastSeenAt": "2026-11-23T23:27:40.911Z",
-      "title": "코인",
-      "source": "KBS 뉴스",
-      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719555",
+      "publishedAt": "2026-11-24T06:20:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "보육",
+      "source": "굿모닝충청",
+      "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=456449",
+      "rank": 9
+    },
+    {
+      "id": "eb9a4ad314724562",
+      "issueKey": "특검",
+      "issueTitle": "특검",
+      "trendTitle": "특검",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "특검, '양평 고속도로 의혹' 국토부 서기관에 3년 6개월 구형",
+          "source": "MBC 뉴스",
+          "url": "https://imnews.imbc.com/news/2026/society/article/6867906_36918.html",
+          "publishedAt": "2026-11-24T06:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "특검, ‘양평고속도로 노선 변경 특혜’ 국토부 직원에 징역 3년 6개월 구형",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8720096",
+          "publishedAt": "2026-11-24T06:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "민주당 “양평고속도로 특혜 의혹, 지시한 윗선까지 밝혀야”",
+          "source": "일간투데이",
+          "url": "https://www.dtoday.co.kr/news/articleView.html?idxno=805849",
+          "publishedAt": "2026-11-24T06:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "특검, '양평 고속도로 의혹' 국토부 서기관에 3년 6개월 구형",
+        "source": "MBC 뉴스",
+        "url": "https://imnews.imbc.com/news/2026/society/article/6867906_36918.html",
+        "publishedAt": "2026-11-24T06:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T06:00:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "특검",
+      "source": "MBC 뉴스",
+      "url": "https://imnews.imbc.com/news/2026/society/article/6867906_36918.html",
       "rank": 10
     }
   ],
   "history": [
     {
-      "id": "94a50d40a977f241",
-      "issueKey": "부동산",
-      "issueTitle": "부동산",
-      "trendTitle": "부동산",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
+      "id": "c54bf8ff151cca96",
+      "issueKey": "원현주",
+      "issueTitle": "원현주",
+      "trendTitle": "원현주",
+      "approxTraffic": "20000+",
+      "trafficScore": 20000,
       "relevanceScore": 3,
-      "articleCount": 6,
+      "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "“대통령도 했잖아?” 부동산 규제 비웃는 ‘주인 대출’ 열풍",
+          "title": "[속보] 원현주, '불륜 의혹' 양홍원과 결혼식 한 달여 만에 \"이혼 절차 거의 종료\"",
           "source": "조선일보",
-          "url": "https://www.chosun.com/national/weekend/2026/11/21/NZXUV3EEJZDQJJSYWEYJPS63PU/",
-          "publishedAt": "2026-11-21T22:40:00.000Z",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/G5QTCN3EHAZTOZTFMMZGIZRXGU/",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "내년 아파트 공시가격 현실화율 69%로 5년째 동결…보유세 영향은?",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718593",
-          "publishedAt": "2026-11-20T14:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김동현 '압구정 100억 아파트', 집주인이 50억 빌려줬다는데… [시장톡]",
+          "title": "양홍원·원현주 결국 파경…\"이혼 절차 거의 종료\"",
           "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026111696876",
-          "publishedAt": "2026-11-21T22:40:00.000Z",
+          "url": "https://www.hankyung.com/article/202611247327H",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "내년 부동산 공시가 현실화율 69%로 동결",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Economy/article/all/20261120/135063731/2",
-          "publishedAt": "2026-11-20T14:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'대통령도 했는데' 부동산 새 바람 '이것' 50억대 아파트도 속속 동참",
-          "source": "이코노미스트",
-          "url": "https://economist.co.kr/article/view/ecn202611210008",
-          "publishedAt": "2026-11-21T22:40:00.000Z",
-          "relevanceScore": 1
-        },
-        {
-          "title": "국토부, 주택공시가 현실화율 ‘동결’…묶여도 집값 오른 곳 보유세는 오를 듯",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611202007001",
-          "publishedAt": "2026-11-20T14:50:00.000Z",
+          "title": "래퍼 양홍원·원현주 결혼 한달만에 파경 \"원만하게 합의 이혼\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6364435",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "“대통령도 했잖아?” 부동산 규제 비웃는 ‘주인 대출’ 열풍",
+        "title": "[속보] 원현주, '불륜 의혹' 양홍원과 결혼식 한 달여 만에 \"이혼 절차 거의 종료\"",
         "source": "조선일보",
-        "url": "https://www.chosun.com/national/weekend/2026/11/21/NZXUV3EEJZDQJJSYWEYJPS63PU/",
-        "publishedAt": "2026-11-21T22:40:00.000Z",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/G5QTCN3EHAZTOZTFMMZGIZRXGU/",
+        "publishedAt": "2026-11-24T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-21T22:40:00.000Z",
-      "firstSeenAt": "2026-11-20T19:39:41.062Z",
-      "lastSeenAt": "2026-11-22T00:58:28.835Z",
-      "title": "부동산",
+      "publishedAt": "2026-11-24T06:20:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "원현주",
       "source": "조선일보",
-      "url": "https://www.chosun.com/national/weekend/2026/11/21/NZXUV3EEJZDQJJSYWEYJPS63PU/"
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/G5QTCN3EHAZTOZTFMMZGIZRXGU/"
+    },
+    {
+      "id": "a7444ee050c62abd",
+      "issueKey": "성심당",
+      "issueTitle": "성심당",
+      "trendTitle": "성심당",
+      "approxTraffic": "5000+",
+      "trafficScore": 5000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "23만원어치 성심당 빵·선물 가져간 배송 기사…항의하자 \"나 아냐\" 발뺌",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/society/general-society/6362509",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"빌라라 CCTV 없는 줄 알았나\"…퀵서비스 온 '성심당 가방' 슬쩍한 배송기사",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261123_0003879373",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "성심당, 크리스마스 한정 메뉴 3종 출시…가격·판매처는?",
+          "source": "금강일보",
+          "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195195",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "23만원어치 성심당 빵·선물 가져간 배송 기사…항의하자 \"나 아냐\" 발뺌",
+        "source": "뉴스1",
+        "url": "https://www.news1.kr/society/general-society/6362509",
+        "publishedAt": "2026-11-24T06:20:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T06:20:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "성심당",
+      "source": "뉴스1",
+      "url": "https://www.news1.kr/society/general-society/6362509"
     },
     {
       "id": "e63a12657765c64b",
@@ -596,6 +621,52 @@
       "title": "설악산",
       "source": "연합뉴스",
       "url": "https://www.yna.co.kr/view/AKR20261122005700054"
+    },
+    {
+      "id": "3e9a2fcf7233797d",
+      "issueKey": "이도현",
+      "issueTitle": "이도현",
+      "trendTitle": "이도현",
+      "approxTraffic": "2000+",
+      "trafficScore": 2000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "임지연·이도현, 군대도 기다렸는데..공개연애 3년만 \"결별\"[공식]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GZQTKMBWHBRWENDCMMYGCYZTME/",
+          "publishedAt": "2026-11-24T07:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "‘더 글로리 커플’ 이도현·임지연, 공개열애 3년여만에 결별",
+          "source": "동아일보",
+          "url": "https://www.donga.com/news/Society/article/all/20261124/135082155/2",
+          "publishedAt": "2026-11-24T07:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "'더 글로리' 임지연·이도현, 교제 4년 만에 결별…방송인 김새롬 재혼",
+          "source": "파이낸셜뉴스",
+          "url": "https://www.fnnews.com/news/202611241638597933",
+          "publishedAt": "2026-11-24T07:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "임지연·이도현, 군대도 기다렸는데..공개연애 3년만 \"결별\"[공식]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GZQTKMBWHBRWENDCMMYGCYZTME/",
+        "publishedAt": "2026-11-24T07:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T07:00:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "이도현",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GZQTKMBWHBRWENDCMMYGCYZTME/"
     },
     {
       "id": "6a28b6281763e210",
@@ -920,98 +991,6 @@
       "url": "https://www.yna.co.kr/view/AKR20261122012200017"
     },
     {
-      "id": "32fdbd2dee822d81",
-      "issueKey": "수험",
-      "issueTitle": "수험",
-      "trendTitle": "수험",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[단독] '리트 만점자' 지난해 수능시험지에 비정상적 풀이 정황",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'피의자 사망' 살충제사건 풀었던 경찰 '리트만점 수사' 시험대",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261120178000004",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘LEET 만점자’ 故 이진우, 사망 당일 새벽 자취방서 짐 정리 후 외출",
-          "source": "경기일보",
-          "url": "https://www.kyeonggi.com/article/20261121580007",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "수험",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html",
-        "publishedAt": "2026-11-21T23:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-21T23:10:00.000Z",
-      "firstSeenAt": "2026-11-22T00:58:28.835Z",
-      "lastSeenAt": "2026-11-22T00:58:28.835Z",
-      "title": "수험",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867366_37004.html"
-    },
-    {
-      "id": "ed7985d7a3e901bc",
-      "issueKey": "삼전 닉스",
-      "issueTitle": "삼전 닉스",
-      "trendTitle": "삼전 닉스",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"삼성전자 SK하이닉스 내년에도 웃는다\"…무디스가 전망한 이유",
-          "source": "부산파이낸셜뉴스",
-          "url": "https://busan.fnnews.com/news/202611220802359845",
-          "publishedAt": "2026-11-21T23:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "무디스 \"내년 韓반도체 수출 호조 지속…건설업도 AI투자 수혜\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261120066600008",
-          "publishedAt": "2026-11-21T23:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "개미들 피눈물 쏟아지는데…무디스가 본 '삼전닉스의 미래'",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026112113727",
-          "publishedAt": "2026-11-21T23:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "삼전 닉스",
-        "source": "부산파이낸셜뉴스",
-        "url": "https://busan.fnnews.com/news/202611220802359845",
-        "publishedAt": "2026-11-21T23:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-21T23:00:00.000Z",
-      "firstSeenAt": "2026-11-22T00:58:28.835Z",
-      "lastSeenAt": "2026-11-22T00:58:28.835Z",
-      "title": "삼전 닉스",
-      "source": "부산파이낸셜뉴스",
-      "url": "https://busan.fnnews.com/news/202611220802359845"
-    },
-    {
       "id": "5030b77dd6887a8f",
       "issueKey": "김혜윤",
       "issueTitle": "김혜윤",
@@ -1077,6 +1056,52 @@
       "title": "김혜윤",
       "source": "programs.sbs.co.kr",
       "url": "https://programs.sbs.co.kr/drama/goodpartner2/clip/88592/OC483962698?div=live_end"
+    },
+    {
+      "id": "c1f3a0aac1f7869e",
+      "issueKey": "이관희",
+      "issueTitle": "이관희",
+      "trendTitle": "이관희",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"남의 결혼식장서 예행연습\"..이관희♥유시은, 윤하정 결혼식 '민폐커플' 논란[Oh!쎈 이슈]",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GFSDCOLGGZQWENJWGY2DCNTGHA/",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'솔지3' 윤하정, 커플 하객 폭로 \"내 결혼식서 예행연습\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261124_0003880634",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[스경X이슈] ‘솔로지옥3’ 윤하정, 이관희♥유시은 저격했나…“버진로드 걷고 상황극까지” 민폐 하객 폭로",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611240905003",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"남의 결혼식장서 예행연습\"..이관희♥유시은, 윤하정 결혼식 '민폐커플' 논란[Oh!쎈 이슈]",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GFSDCOLGGZQWENJWGY2DCNTGHA/",
+        "publishedAt": "2026-11-24T07:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T07:40:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "이관희",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GFSDCOLGGZQWENJWGY2DCNTGHA/"
     },
     {
       "id": "450474634a4fa47c",
@@ -1309,96 +1334,50 @@
       "url": "https://www.hani.co.kr/arti/area/capital/1288512.html"
     },
     {
-      "id": "dc6bf0ee8c8c3918",
-      "issueKey": "규제에 삼성",
-      "issueTitle": "규제에 삼성",
-      "trendTitle": "수출규제",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
+      "id": "32cec5d9a151edb7",
+      "issueKey": "uae vs india a",
+      "issueTitle": "uae vs india a",
+      "trendTitle": "uae vs india a",
+      "approxTraffic": "500+",
+      "trafficScore": 500,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261120506261",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
+          "title": "Lost to Pakistan, now what? How Tilak Varma-led India A can reach Asia Cup Rising Stars semi-finals | Qua",
+          "source": "The Times of India",
+          "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lost-to-pakistan-now-what-how-tilak-varma-led-india-a-can-reach-asia-cup-rising-stars-semi-finals-qualification-scenarios/articleshow/136088275.cms",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "트럼프 \"중국에 구형 칩만 판매…안팔면 中 스스로 만들것\"(종합)",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261121001651071",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
+          "title": "INDA vs UAE, 11th Match, Group B, ACC Men's Asia Cup Rising Stars 2026 - Commentary",
+          "source": "Cricbuzz",
+          "url": "https://m.cricbuzz.com/live-cricket-scores/177203/uae-vs-inda-11th-match-group-b-acc-mens-asia-cup-rising-stars-2026",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "엔비디아, 중국 간첩 연루 메가스피드 관련사에 칩 4만개 판매신청",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719010",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
+          "title": "India A Cricket Team Vs United Arab Emirates National Cricket Team Match Scorecard",
+          "source": "Newspatrolling.com",
+          "url": "https://newspatrolling.com/india-a-cricket-team-vs-united-arab-emirates-national-cricket-team-match-scorecard/",
+          "publishedAt": "2026-11-24T06:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "젠슨황發 美반도체 수출 규제에 삼성·TSCM도 부담",
-        "source": "세계일보",
-        "url": "https://www.segye.com/newsView/20261120506261",
-        "publishedAt": "2026-11-21T23:10:00.000Z",
+        "title": "uae vs india a",
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lost-to-pakistan-now-what-how-tilak-varma-led-india-a-can-reach-asia-cup-rising-stars-semi-finals-qualification-scenarios/articleshow/136088275.cms",
+        "publishedAt": "2026-11-24T06:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-21T23:10:00.000Z",
-      "firstSeenAt": "2026-11-22T00:58:28.835Z",
-      "lastSeenAt": "2026-11-22T00:58:28.835Z",
-      "title": "규제에 삼성",
-      "source": "세계일보",
-      "url": "https://www.segye.com/newsView/20261120506261"
-    },
-    {
-      "id": "da2483b400fe79eb",
-      "issueKey": "알테오젠",
-      "issueTitle": "알테오젠",
-      "trendTitle": "알테오젠",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "알테오젠 파트너 MSD, 할로자임 美 특허심판 14건 모두 승리",
-          "source": "팜이데일리",
-          "url": "https://pharm.edaily.co.kr/news/read?newsId=02371446645647360",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "알테오젠 기술 적용 항암제, 獨서 판매금지 가처분 풀려…할로자임 본안소송 예고",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/science-chosun/bio/2026/11/20/TP4CLPMHPZEPFJOH7G6LJ2KJWU/",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"소송 이기고 판금도 풀려\"…활짝 웃는 알테오젠",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261120_0003876311",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "알테오젠 파트너 MSD, 할로자임 美 특허심판 14건 모두 승리",
-        "source": "팜이데일리",
-        "url": "https://pharm.edaily.co.kr/news/read?newsId=02371446645647360",
-        "publishedAt": "2026-11-21T23:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-21T23:10:00.000Z",
-      "firstSeenAt": "2026-11-22T00:58:28.835Z",
-      "lastSeenAt": "2026-11-22T00:58:28.835Z",
-      "title": "알테오젠",
-      "source": "팜이데일리",
-      "url": "https://pharm.edaily.co.kr/news/read?newsId=02371446645647360"
+      "publishedAt": "2026-11-24T06:20:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "uae vs india a",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/news/lost-to-pakistan-now-what-how-tilak-varma-led-india-a-can-reach-asia-cup-rising-stars-semi-finals-qualification-scenarios/articleshow/136088275.cms"
     },
     {
       "id": "f10c38240cfaf449",
@@ -1723,96 +1702,142 @@
       "url": "https://www.thairath.co.th/sport/eurofootball/premierleague/2970069"
     },
     {
-      "id": "c597b282778e3c88",
-      "issueKey": "인공지능",
-      "issueTitle": "인공지능",
-      "trendTitle": "인공지능",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "477b8e1cccfde276",
+      "issueKey": "화장실",
+      "issueTitle": "화장실",
+      "trendTitle": "화장실",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "LG유플러스, 2027년 조직개편…AI 사업 중심으로 판 바꾼다",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261120160100017",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
+          "title": "화장실 찾기 쉬워진다! QR 안내부터 개방화장실 확대까지",
+          "source": "서울특별시",
+          "url": "https://mediahub.seoul.go.kr/archives/2020151",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "LGU+ 조직개편...AI 조직 재편으로 성과 속도전",
-          "source": "지디넷코리아",
-          "url": "https://zdnet.co.kr/view/?no=20261122085359",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
+          "title": "‘화장실 찾기 쉽고 더 깨끗하게’…서울 주요 관광특구·전통시장 개선",
+          "source": "경향신문",
+          "url": "https://www.khan.co.kr/article/202611241538001/?utm_source=khan_rss&amp;utm_medium=rss&amp;utm_campaign=total_news",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "LG유플러스, 부문장 전부 교체…AI 사업 실행력 높인다",
-          "source": "전자신문",
-          "url": "https://www.etnews.com/20261122000001",
-          "publishedAt": "2026-11-21T23:10:00.000Z",
+          "title": "명동·홍대 등 관광특구 화장실 QR코드로 확인…개방화장실 확대",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261124052500004",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "인공지능",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261120160100017",
-        "publishedAt": "2026-11-21T23:10:00.000Z",
+        "title": "화장실 찾기 쉬워진다! QR 안내부터 개방화장실 확대까지",
+        "source": "서울특별시",
+        "url": "https://mediahub.seoul.go.kr/archives/2020151",
+        "publishedAt": "2026-11-24T07:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-21T23:10:00.000Z",
-      "firstSeenAt": "2026-11-22T00:58:28.835Z",
-      "lastSeenAt": "2026-11-22T00:58:28.835Z",
-      "title": "인공지능",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261120160100017"
+      "publishedAt": "2026-11-24T07:40:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "화장실",
+      "source": "서울특별시",
+      "url": "https://mediahub.seoul.go.kr/archives/2020151"
     },
     {
-      "id": "a2c563e421cf51b8",
-      "issueKey": "라리가",
-      "issueTitle": "라리가",
-      "trendTitle": "라리가",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "5fe1db765ee80a54",
+      "issueKey": "로치",
+      "issueTitle": "로치",
+      "trendTitle": "로치",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Real Madrid defeats Celta Vigo 2-1 to secure 11th win of the season : 라리가 : JKN",
-          "source": "재경일보",
-          "url": "https://news.jkn.co.kr/editions/english/post/1113445",
-          "publishedAt": "2026-11-21T23:00:00.000Z",
+          "title": "T1 새 사령탑에 '로치' 김강희 선임… 코치진 인선 완료",
+          "source": "데일리e스포츠",
+          "url": "https://www.dailyesports.com/view.php?ud=20261124170001510874bcc1e038_27",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Licensable picture: Real Madrid v RC Celta de Vigo - LaLiga EA Sports 2026/27",
-          "source": "Reuters Connect",
-          "url": "https://www.reutersconnect.com/item/real-madrid-v-rc-celta-de-vigo-laliga-ea-sports-202627/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFBTVzBXOA",
-          "publishedAt": "2026-11-21T23:00:00.000Z",
+          "title": "[단독] '엄티' 엄성현, 2027 시즌 T1 코치진 합류 유력",
+          "source": "엑스포츠뉴스",
+          "url": "https://www.xportsnews.com/article/2220350",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Late Espi winner rescues Real Madrid against Celta Vigo",
-          "source": "Yahoo Sports",
-          "url": "https://sports.yahoo.com/articles/espi-winner-rescues-real-madrid-221307773.html",
-          "publishedAt": "2026-11-21T23:00:00.000Z",
+          "title": "T1, 2027시즌 LCK 코치진 완성 [공식]",
+          "source": "이투데이",
+          "url": "https://www.etoday.co.kr/news/view/2652441",
+          "publishedAt": "2026-11-24T07:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Real Madrid defeats Celta Vigo 2-1 to secure 11th win of the season : 라리가 : JKN",
-        "source": "재경일보",
-        "url": "https://news.jkn.co.kr/editions/english/post/1113445",
-        "publishedAt": "2026-11-21T23:00:00.000Z",
+        "title": "T1 새 사령탑에 '로치' 김강희 선임… 코치진 인선 완료",
+        "source": "데일리e스포츠",
+        "url": "https://www.dailyesports.com/view.php?ud=20261124170001510874bcc1e038_27",
+        "publishedAt": "2026-11-24T07:40:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-21T23:00:00.000Z",
-      "firstSeenAt": "2026-11-22T00:58:28.835Z",
-      "lastSeenAt": "2026-11-22T00:58:28.835Z",
-      "title": "라리가",
-      "source": "재경일보",
-      "url": "https://news.jkn.co.kr/editions/english/post/1113445"
+      "publishedAt": "2026-11-24T07:40:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "로치",
+      "source": "데일리e스포츠",
+      "url": "https://www.dailyesports.com/view.php?ud=20261124170001510874bcc1e038_27"
+    },
+    {
+      "id": "24e87f3638e9c783",
+      "issueKey": "김새롬",
+      "issueTitle": "김새롬",
+      "trendTitle": "김새롬",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "\"재혼 생각 늘 있다\"던 김새롬, 깜짝 결혼 발표 \"법적 짝꿍 생겨\"",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112414551661027",
+          "publishedAt": "2026-11-24T07:10:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "방송인 김새롬, 비연예인과 재혼…\"오래도록 사랑하겠다\"",
+          "source": "연합뉴스",
+          "url": "https://www.yna.co.kr/view/AKR20261124150400005",
+          "publishedAt": "2026-11-24T07:10:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "이혼 10년 만에…김새롬 재혼 \"법적 짝꿍 생겼다\"",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261124_0003881024",
+          "publishedAt": "2026-11-24T07:10:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "\"재혼 생각 늘 있다\"던 김새롬, 깜짝 결혼 발표 \"법적 짝꿍 생겨\"",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112414551661027",
+        "publishedAt": "2026-11-24T07:10:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-24T07:10:00.000Z",
+      "firstSeenAt": "2026-11-24T08:42:52.410Z",
+      "lastSeenAt": "2026-11-24T08:42:52.410Z",
+      "title": "김새롬",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/11/24/2026112414551661027"
     },
     {
       "id": "f163e90f3b91fe3e",
@@ -2319,52 +2344,6 @@
       "title": "업비트",
       "source": "매일경제",
       "url": "https://www.mk.co.kr/newsletter/page/3575"
-    },
-    {
-      "id": "325b0b3fb759e3f7",
-      "issueKey": "포체티노",
-      "issueTitle": "포체티노",
-      "trendTitle": "포체티노",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘1000억+연봉 228억 원’ 맨유 또 천문학적 거금 투자해 FW 영입할까 “나이지리아 대표 공격수에 다시 관...",
-          "source": "스포츠경향",
-          "url": "https://sports.khan.co.kr/article/202611220909003",
-          "publishedAt": "2026-11-22T16:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'미쳤다' 맨체스터 유나이티드 '포체티노 1호 영입' 낙점! 美 대표팀 '주전 레프트백' 러브콜, '최우선 순위' 급부상...\"재회 간절히 원해\"",
-          "source": "마이데일리",
-          "url": "https://mydaily.co.kr/page/view/2026112214352236820",
-          "publishedAt": "2026-11-22T16:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'맨유 상대로 2골 1도움 폭격하더니 아르헨티나에서도 멀티골' 메시 후계자 니코 파스, 포체티노의 새로운 영입 목표로 급부상",
-          "source": "미주중앙일보",
-          "url": "https://www.koreadaily.com/article/20261118230151420",
-          "publishedAt": "2026-11-22T16:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "'미쳤다' 맨체스터 유나이티드 '포체티노 1호 영입' 낙점! 美 대표팀 '주전 레프트백' 러브콜, '최우선 순위' 급부상...\"재회 간절히 원해\"",
-        "source": "마이데일리",
-        "url": "https://mydaily.co.kr/page/view/2026112214352236820",
-        "publishedAt": "2026-11-22T16:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-22T16:20:00.000Z",
-      "firstSeenAt": "2026-11-22T19:06:59.628Z",
-      "lastSeenAt": "2026-11-22T19:06:59.628Z",
-      "title": "포체티노",
-      "source": "마이데일리",
-      "url": "https://mydaily.co.kr/page/view/2026112214352236820"
     }
   ]
 }
