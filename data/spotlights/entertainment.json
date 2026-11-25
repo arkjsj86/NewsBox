@@ -7,480 +7,386 @@
   "title": "Hot Issue",
   "updatedLabel": "Google Trends KR",
   "description": "Google Trends KR 실시간 이슈를 3시간마다 정각에 다시 불러옵니다.",
-  "lastUpdatedAt": "2026-11-25T03:57:31.510Z",
+  "lastUpdatedAt": "2026-11-25T16:52:48.222Z",
   "rankingLimit": 10,
   "historyRetentionHours": 48,
-  "itemCount": 10,
+  "itemCount": 8,
   "items": [
     {
-      "id": "40f5c8093251f77d",
-      "issueKey": "반도체",
-      "issueTitle": "반도체",
-      "trendTitle": "반도체",
-      "approxTraffic": "20000+",
-      "trafficScore": 20000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "코스피 5% 급락에 ‘매도 사이드카’...하루만에 5000선 반납",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/economy/money/2026/11/25/QHFODM73WVFFXAHXLRNKGUIPFA/",
-          "publishedAt": "2026-11-25T02:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'젠슨황 랠리' 하루만에 끝?…메모리과잉·관세우려 투심 냉기",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261125066900008",
-          "publishedAt": "2026-11-25T02:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "\"5천피 순식간에 와르르\" 4.9% 급락 '패닉'...외인 다시 던진다",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/stock/2026/11/25/2026112509174624848",
-          "publishedAt": "2026-11-25T02:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "반도체",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/economy/money/2026/11/25/QHFODM73WVFFXAHXLRNKGUIPFA/",
-        "publishedAt": "2026-11-25T02:30:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-25T02:30:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "반도체",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/economy/money/2026/11/25/QHFODM73WVFFXAHXLRNKGUIPFA/",
-      "rank": 1
-    },
-    {
-      "id": "bf57657e3ae04772",
-      "issueKey": "위권은 서울대",
-      "issueTitle": "위권은 서울대",
-      "trendTitle": "위권은 서울대",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "전북대, QS 세계대학 평가 국내 12위 ‘쾌거’",
-          "source": "새전북신문",
-          "url": "https://sjbnews.com/news/news.php?number=893393&amp;year=2026",
-          "publishedAt": "2026-11-25T02:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
-          "source": "한국대학신문",
-          "url": "https://news.unn.net/news/articleView.html?idxno=600953",
-          "publishedAt": "2026-11-25T02:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "부산대, QS 지속가능성평가 국립대 4년 연속 1위",
-          "source": "중도일보",
-          "url": "https://m.joongdo.co.kr/view.php?key=20261120010007141",
-          "publishedAt": "2026-11-25T02:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서울대, 2년 연속 아시아 1위… 국내 100위권은 서울대·고려대뿐[2027 QS 세계대학 지속가능성 평가]",
-        "source": "한국대학신문",
-        "url": "https://news.unn.net/news/articleView.html?idxno=600953",
-        "publishedAt": "2026-11-25T02:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-25T02:20:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "위권은 서울대",
-      "source": "한국대학신문",
-      "url": "https://news.unn.net/news/articleView.html?idxno=600953",
-      "rank": 2
-    },
-    {
-      "id": "694219e4c52eda3f",
-      "issueKey": "서훈",
-      "issueTitle": "서훈",
-      "trendTitle": "서훈",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "5·18 진압 경찰 포상 취소…이 대통령 \"당연한 조치, 마지막 한 명까지 역사 교정\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12329695",
-          "publishedAt": "2026-11-25T02:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이 대통령, 5·18 진압경찰 포상 취소에 \"당연한 조치‥역사교정 계속\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/news/2026/politics/article/6868370_36911.html",
-          "publishedAt": "2026-11-25T02:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "경찰청, 5·18 진압·삼청교육 관련 정부포상 104점 취소",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976408&amp;pWise=sub&amp;pWiseSub=R4",
-          "publishedAt": "2026-11-25T02:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "서훈",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12329695",
-        "publishedAt": "2026-11-25T02:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-25T02:00:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "서훈",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12329695",
-      "rank": 3
-    },
-    {
-      "id": "2c1555dd8125e8a9",
-      "issueKey": "연금 개혁",
-      "issueTitle": "연금 개혁",
-      "trendTitle": "연금 개혁",
-      "approxTraffic": "10000+",
-      "trafficScore": 10000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "‘73년생 66세, 77년생 67세, 81년생 68세’…국민연금 68세 수급개시설 어디서 나왔나",
-          "source": "주간경향",
-          "url": "https://weekly.khan.co.kr/article/202611250802011",
-          "publishedAt": "2026-11-25T01:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "\"국민연금 3년 더 늦게 받는다?\"…정은경, 직접 반박",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=01958166645649328&amp;mediaCodeNo=257",
-          "publishedAt": "2026-11-25T01:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "정은경 복지장관 “국민연금 68세부터 수령 사실 아냐…정부 검토 안 해”",
-          "source": "세계일보",
-          "url": "https://www.segye.com/newsView/20261125504579",
-          "publishedAt": "2026-11-25T01:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "연금 개혁",
-        "source": "주간경향",
-        "url": "https://weekly.khan.co.kr/article/202611250802011",
-        "publishedAt": "2026-11-25T01:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-25T01:50:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "연금 개혁",
-      "source": "주간경향",
-      "url": "https://weekly.khan.co.kr/article/202611250802011",
-      "rank": 4
-    },
-    {
-      "id": "d697e1a44df5b675",
-      "issueKey": "운동",
-      "issueTitle": "운동",
-      "trendTitle": "운동",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "부천대장 A2 548세대 청약 청구서 — 59㎡ 6.13억, 계약부터 입주까지 내 돈과 「미정」인 중도금 집단대출",
-          "source": "네이버 프리미엄콘텐츠",
-          "url": "https://contents.premium.naver.com/plaform/bg/contents/261124235935226yz",
-          "publishedAt": "2026-11-25T01:30:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
-          "source": "마켓인",
-          "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
-          "publishedAt": "2026-11-25T01:30:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "철도가 가른 3기 신도시 청약… 부천대장 129대 1, 바로 옆 계양은 미달",
-          "source": "Chosunbiz",
-          "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/3EJJHLPSV5FADCQSQEZIPXKGXY/",
-          "publishedAt": "2026-11-25T01:30:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "공공분양도 '고급화'...운동·여가 넘어 돌봄시설까지",
-        "source": "마켓인",
-        "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
-        "publishedAt": "2026-11-25T01:30:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-25T01:30:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "운동",
-      "source": "마켓인",
-      "url": "https://marketin.edaily.co.kr/News/ReadE?newsId=01751526645648344",
-      "rank": 5
-    },
-    {
-      "id": "89b297beb0bdee5f",
-      "issueKey": "디에고 시메오네",
-      "issueTitle": "디에고 시메오네",
-      "trendTitle": "디에고 시메오네",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "\"이강인이 3번이나 떠먹여 줬는데!\" 스페인도 폭발했다...쇠를로트 '끔찍' 골 결정력에 분통→\"겨울에 어떻게든 매각해야\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
-          "publishedAt": "2026-11-25T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "이강인 후반 교체 출전…아틀레티코, 헤타페에 3대 0 완승",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719908",
-          "publishedAt": "2026-11-25T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "시메오네 ATM 감독, 라리가 역대 '최다승' 신기록 … '345승'",
-          "source": "뉴데일리",
-          "url": "https://www.newdaily.co.kr/site/data/html/2026/11/24/2026112450020.html",
-          "publishedAt": "2026-11-25T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "디에고 시메오네",
-        "source": "머니투데이",
-        "url": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
-        "publishedAt": "2026-11-25T01:20:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-25T01:20:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "디에고 시메오네",
-      "source": "머니투데이",
-      "url": "https://www.mt.co.kr/sports/2026/11/24/202611242141770861O",
-      "rank": 6
-    },
-    {
-      "id": "b343633bfca051d4",
-      "issueKey": "경남도",
-      "issueTitle": "경남도",
-      "trendTitle": "경남도",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "'한반도KTX' 대전 패싱 논란에 '세종역' 반발까지…대전·세종 철도 소외 우려",
-          "source": "대전일보",
-          "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2315819",
-          "publishedAt": "2026-11-25T01:20:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "경남도, 제5차 국가철도망 11개 신규 노선 반영 총력전",
-          "source": "뉴스1",
-          "url": "https://www.news1.kr/local/busan-gyeongnam/6364768",
-          "publishedAt": "2026-11-25T01:20:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "경남도, 도내 핵심 철도사업 제5차 국가철도망 반영 총력",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISX20261124_0003881691",
-          "publishedAt": "2026-11-25T01:20:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "경남도, 제5차 국가철도망 11개 신규 노선 반영 총력전",
-        "source": "뉴스1",
-        "url": "https://www.news1.kr/local/busan-gyeongnam/6364768",
-        "publishedAt": "2026-11-25T01:20:00.000Z",
-        "relevanceScore": 2
-      },
-      "publishedAt": "2026-11-25T01:20:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "경남도",
-      "source": "뉴스1",
-      "url": "https://www.news1.kr/local/busan-gyeongnam/6364768",
-      "rank": 7
-    },
-    {
-      "id": "cb6f556660d81479",
-      "issueKey": "폭설",
-      "issueTitle": "폭설",
-      "trendTitle": "폭설",
-      "approxTraffic": "1000+",
-      "trafficScore": 1000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
-          "publishedAt": "2026-11-25T01:10:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "김윤석·구교환 '폭설', 7일 연속 박스오피스 정상 차지",
-          "source": "더팩트",
-          "url": "https://news.tf.co.kr/read/entertain/2393030.htm",
-          "publishedAt": "2026-11-25T01:10:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "'폭설', 7일 연속 1위...임영웅 영화 5일 연속 TOP 5 [박스오피스]",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112510157272732",
-          "publishedAt": "2026-11-25T01:10:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "[그 영화 어때] 미스터리라더니 미스터리는 어디에, 영화 ‘폭설’",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
-        "publishedAt": "2026-11-25T01:10:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-25T01:10:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "폭설",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/culture-life/culture_general/2026/11/25/CFQWTKDOLFDTBC23ZRS3D5SMXE/",
-      "rank": 8
-    },
-    {
-      "id": "807d82f82fbcf722",
-      "issueKey": "김하성",
-      "issueTitle": "김하성",
-      "trendTitle": "김하성",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
-          "publishedAt": "2026-11-25T01:00:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "'268억→80억' 사라진 188억... DET행 김하성 향한 싸늘한 시선 \"공격력 메우기엔 역부족, 스스로 증명해야 해\"",
-          "source": "머니투데이",
-          "url": "https://www.mt.co.kr/sports/2026/11/25/2026112511084645242",
-          "publishedAt": "2026-11-25T01:00:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "‘MLB 생존’ 김하성, 디트로이트와 1년 최대 80억원 계약 합의",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Sports/article/all/20261125/135085978/1",
-          "publishedAt": "2026-11-25T01:00:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "김하성, 디트로이트서 재기 도전... 1년 500만달러",
-        "source": "조선일보",
-        "url": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
-        "publishedAt": "2026-11-25T01:00:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-25T01:00:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "김하성",
-      "source": "조선일보",
-      "url": "https://www.chosun.com/sports/world-baseball/2026/11/25/GYGJHEHQ35B4ROA3TGRE3XHHTU/",
-      "rank": 9
-    },
-    {
-      "id": "eda7779dc5535c0e",
-      "issueKey": "южная корея",
-      "issueTitle": "южная корея",
-      "trendTitle": "южная корея",
+      "id": "a95bc16631ae2b6f",
+      "issueKey": "qqq",
+      "issueTitle": "qqq",
+      "trendTitle": "qqq",
       "approxTraffic": "200+",
       "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "Южная Корея подняла истребители из-за российских военных самолетов. На одном из островов объявили эвакуацию",
-          "source": "Meduza",
-          "url": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
-          "publishedAt": "2026-11-25T01:00:00.000Z",
+          "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
+          "publishedAt": "2026-11-25T15:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "Южная Корея поднимает истребители и велит жителям острова укрыться из‑за российских самолётов",
-          "source": "Euronews.com",
-          "url": "https://ru.euronews.com/2026/11/24/ru-south-korea-tells-island-residents-to-take-shelter-as-ru-warplanes-near-its-airspace",
-          "publishedAt": "2026-11-25T01:00:00.000Z",
+          "title": "US Sector Performance: Technology Leads Broad-Based Momentum Rebound as Nine Sectors Advance",
+          "source": "kalkine.com",
+          "url": "https://kalkine.com/news/premium/us-sector-performance-technology-leads-broad-based-momentum-rebound-as-nine-sectors-advance",
+          "publishedAt": "2026-11-25T15:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "Южная Корея подняла истребители из-за пролета российских военных самолетов",
-          "source": "Интерфакс",
-          "url": "https://www.interfax.ru/world/1130910",
-          "publishedAt": "2026-11-25T01:00:00.000Z",
+          "title": "Defensives Lead Sectors In Wednesday Trading As Growth Trails",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63632400/defensives-lead-sectors-in-wednesday-trading-as-growth-trails",
+          "publishedAt": "2026-11-25T15:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "Южная Корея подняла истребители из-за российских военных самолетов. На одном из островов объявили эвакуацию",
-        "source": "Meduza",
-        "url": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
-        "publishedAt": "2026-11-25T01:00:00.000Z",
+        "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
+        "source": "TradingView",
+        "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
+        "publishedAt": "2026-11-25T15:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-25T01:00:00.000Z",
-      "firstSeenAt": "2026-11-25T03:57:31.510Z",
-      "lastSeenAt": "2026-11-25T03:57:31.510Z",
-      "title": "южная корея",
-      "source": "Meduza",
-      "url": "https://meduza.io/news/2026/11/24/yuzhnaya-koreya-podnyala-istrebiteli-iz-za-rossiyskih-voennyh-samoletov-na-odnom-iz-ostrovov-ob-yavili-evakuatsiyu",
-      "rank": 10
+      "publishedAt": "2026-11-25T15:20:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "qqq",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
+      "rank": 1
+    },
+    {
+      "id": "3655e28ba2c520d1",
+      "issueKey": "성시경",
+      "issueTitle": "성시경",
+      "trendTitle": "성시경",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11634103",
+          "publishedAt": "2026-11-25T15:00:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "[잇슈 컬처] 장성규·최수영·문상민, ‘2026 KBS 연기대상’ MC 호흡",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719552",
+          "publishedAt": "2026-11-25T15:00:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[공식] 신동엽·성시경·나연, ‘2026 KBS 연예대상’ MC 확정",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135087899/1",
+          "publishedAt": "2026-11-25T15:00:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11634103",
+        "publishedAt": "2026-11-25T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "성시경",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11634103",
+      "rank": 2
+    },
+    {
+      "id": "ad7694e248991c4f",
+      "issueKey": "시그널",
+      "issueTitle": "시그널",
+      "trendTitle": "시그널",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+          "publishedAt": "2026-11-25T14:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611240740003",
+          "publishedAt": "2026-11-25T14:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611250516386A8",
+          "publishedAt": "2026-11-25T14:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+        "publishedAt": "2026-11-25T14:50:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-25T14:50:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "시그널",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+      "rank": 3
+    },
+    {
+      "id": "68930b5bf54211de",
+      "issueKey": "성유리",
+      "issueTitle": "성유리",
+      "trendTitle": "성유리",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882889",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"오빠가 의사\"..성유리, 의대 대신 핑클 데뷔..전 과목 '올 수' 성적표 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G4YDQZTGMM3GIOBYGVSTSZRZMU/",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261125_0003882889",
+        "publishedAt": "2026-11-25T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-25T14:40:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "성유리",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261125_0003882889",
+      "rank": 4
+    },
+    {
+      "id": "6c82c24828d23371",
+      "issueKey": "공포",
+      "issueTitle": "공포",
+      "trendTitle": "공포",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
+          "source": "빅데이터뉴스",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/273266",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[주간 디지털 자산 시장 브리핑] 업비트 지수 10.59% 하락, 거래대금은 21.47% 상승",
+          "source": "경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310539",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
+        "source": "코인리더스",
+        "url": "https://www.coinreaders.com/273266",
+        "publishedAt": "2026-11-25T14:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-25T14:40:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "공포",
+      "source": "코인리더스",
+      "url": "https://www.coinreaders.com/273266",
+      "rank": 5
+    },
+    {
+      "id": "b81abb3ae1f8e650",
+      "issueKey": "양준혁",
+      "issueTitle": "양준혁",
+      "trendTitle": "양준혁",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261125070147086",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10948394",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "\"내 야구 인생의 자부심이었는데…\" 양준혁, 자선야구대회 취소에 삼킨 아쉬움",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6612161",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10948394",
+        "publishedAt": "2026-11-25T14:40:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-25T14:40:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "양준혁",
+      "source": "헤럴드경제",
+      "url": "https://biz.heraldcorp.com/article/10948394",
+      "rank": 6
+    },
+    {
+      "id": "4151b1a5f934de72",
+      "issueKey": "지수",
+      "issueTitle": "박보검",
+      "trendTitle": "박보검",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "사라진 고경표, 나타난 조진웅...연예인 직업의식은 어디에 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611251034284891",
+          "publishedAt": "2026-11-25T13:50:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/",
+          "publishedAt": "2026-11-25T13:50:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "박보검 이번엔 통영 바닷가로…‘보검 매직컬2’ 촬영지 관심",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135079946/1",
+          "publishedAt": "2026-11-25T13:50:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/",
+        "publishedAt": "2026-11-25T13:50:00.000Z",
+        "relevanceScore": 2
+      },
+      "publishedAt": "2026-11-25T13:50:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "박보검",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/",
+      "rank": 7
+    },
+    {
+      "id": "072aa4531bf9cd48",
+      "issueKey": "김정화",
+      "issueTitle": "김정화",
+      "trendTitle": "유은성",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727",
+          "publishedAt": "2026-11-25T13:30:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "김정화, 남편과 뉴욕서 첫 부부싸움…경찰까지 출동했다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882970",
+          "publishedAt": "2026-11-25T13:30:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "유은성 \"♥김정화와 뉴욕서 부부 싸움…한밤중 호텔 나가 경찰까지 와\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6366117",
+          "publishedAt": "2026-11-25T13:30:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727",
+        "publishedAt": "2026-11-25T13:30:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-25T13:30:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "김정화",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727",
+      "rank": 8
     }
   ],
   "history": [
@@ -715,52 +621,6 @@
       "url": "https://www.news1.kr/society/general-society/6362509"
     },
     {
-      "id": "e63a12657765c64b",
-      "issueKey": "설악산",
-      "issueTitle": "설악산",
-      "trendTitle": "설악산",
-      "approxTraffic": "5000+",
-      "trafficScore": 5000,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "전남광주 아침 영하권 추위…24일까지 비 예보",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261122005700054",
-          "publishedAt": "2026-11-23T08:40:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "[날씨] 호남권, 5~10mm비 /1~5cm 눈· · · 차량 안전거리 확보",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759687",
-          "publishedAt": "2026-11-23T08:40:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "전남광주 첫눈 관측…내일 최고 7cm 눈",
-          "source": "KBS 뉴스",
-          "url": "https://news.kbs.co.kr/news/view.do?ncd=8718655",
-          "publishedAt": "2026-11-23T08:40:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "설악산",
-        "source": "연합뉴스",
-        "url": "https://www.yna.co.kr/view/AKR20261122005700054",
-        "publishedAt": "2026-11-23T08:40:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-23T08:40:00.000Z",
-      "firstSeenAt": "2026-11-23T11:53:08.667Z",
-      "lastSeenAt": "2026-11-23T11:53:08.667Z",
-      "title": "설악산",
-      "source": "연합뉴스",
-      "url": "https://www.yna.co.kr/view/AKR20261122005700054"
-    },
-    {
       "id": "807d82f82fbcf722",
       "issueKey": "김하성",
       "issueTitle": "김하성",
@@ -920,50 +780,96 @@
       "url": "https://www.chosun.com/entertainments/broadcast/2026/11/24/GZQTKMBWHBRWENDCMMYGCYZTME/"
     },
     {
-      "id": "6a28b6281763e210",
-      "issueKey": "늘리는데",
-      "issueTitle": "늘리는데",
-      "trendTitle": "티켓링크",
-      "approxTraffic": "2000+",
-      "trafficScore": 2000,
+      "id": "ad7694e248991c4f",
+      "issueKey": "시그널",
+      "issueTitle": "시그널",
+      "trendTitle": "시그널",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "최대 15만원 주는 ‘청년문화예술패스’, 예산 22배 늘리는데···정작 쓸 시간도, 쓸 곳도 없다",
-          "source": "경향신문",
-          "url": "https://www.khan.co.kr/article/202611221536001",
-          "publishedAt": "2026-11-23T10:30:00.000Z",
+          "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+          "publishedAt": "2026-11-25T14:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "영화 세 번, 공연은 내년 2월까지…달라진 청년문화예술패스",
-          "source": "국제뉴스",
-          "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760729",
-          "publishedAt": "2026-11-23T10:30:00.000Z",
+          "title": "“소년범이 TV에 나와도 되나요?”…‘시그널2’ 첫 티저에 싸늘한 반응",
+          "source": "스포츠경향",
+          "url": "https://sports.khan.co.kr/article/202611240740003",
+          "publishedAt": "2026-11-25T14:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "청년문화예술패스 23일부터 추가 발급…최대 20만원 지원",
-          "source": "서울경제",
-          "url": "https://www.sedaily.com/article/20117593",
-          "publishedAt": "2026-11-23T10:30:00.000Z",
+          "title": "’시그널2’ 첫 티저 공개…이제훈·김혜수 목소리만",
+          "source": "연합뉴스TV",
+          "url": "https://www.yonhapnewstv.co.kr/news/MYH202611250516386A8",
+          "publishedAt": "2026-11-25T14:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "최대 15만원 주는 ‘청년문화예술패스’, 예산 22배 늘리는데···정작 쓸 시간도, 쓸 곳도 없다",
-        "source": "경향신문",
-        "url": "https://www.khan.co.kr/article/202611221536001",
-        "publishedAt": "2026-11-23T10:30:00.000Z",
+        "title": "김은희 작가의 '시그널2', 조진웅 복귀 무대 되나",
+        "source": "YTN",
+        "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214",
+        "publishedAt": "2026-11-25T14:50:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-23T10:30:00.000Z",
-      "firstSeenAt": "2026-11-23T11:53:08.667Z",
-      "lastSeenAt": "2026-11-23T11:53:08.667Z",
-      "title": "늘리는데",
-      "source": "경향신문",
-      "url": "https://www.khan.co.kr/article/202611221536001"
+      "publishedAt": "2026-11-25T14:50:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "시그널",
+      "source": "YTN",
+      "url": "https://www.ytn.co.kr/_ln/0117_202611240841278214"
+    },
+    {
+      "id": "68930b5bf54211de",
+      "issueKey": "성유리",
+      "issueTitle": "성유리",
+      "trendTitle": "성유리",
+      "approxTraffic": "1000+",
+      "trafficScore": 1000,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882889",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "\"오빠가 의사\"..성유리, 의대 대신 핑클 데뷔..전 과목 '올 수' 성적표 공개",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/G4YDQZTGMM3GIOBYGVSTSZRZMU/",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "성유리, 중학생 때 모든 과목 '수' 성적표 공개…교수父· 의사 오빠 잇던 수재",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6365969",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "성유리, 중학교 성적표 공개…전 과목 '수' 받은 모범생",
+        "source": "뉴시스",
+        "url": "https://www.newsis.com/view/NISX20261125_0003882889",
+        "publishedAt": "2026-11-25T14:40:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-25T14:40:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "성유리",
+      "source": "뉴시스",
+      "url": "https://www.newsis.com/view/NISX20261125_0003882889"
     },
     {
       "id": "694219e4c52eda3f",
@@ -1610,142 +1516,188 @@
       "url": "https://www.yonhapnewstv.co.kr/news/MYH2026112406520005G"
     },
     {
-      "id": "98a06ed4048984be",
-      "issueKey": "중위소득",
-      "issueTitle": "중위소득",
-      "trendTitle": "중위소득",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "a95bc16631ae2b6f",
+      "issueKey": "qqq",
+      "issueTitle": "qqq",
+      "trendTitle": "qqq",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
-          "source": "대한민국 정책브리핑",
-          "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&amp;pWise=sub&amp;pWiseSub=R1",
-          "publishedAt": "2026-11-23T10:10:00.000Z",
+          "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
+          "source": "TradingView",
+          "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
+          "publishedAt": "2026-11-25T15:20:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "정은경 보건복지부 장관, 제4차 기초생활 보장 종합계획 발표",
-          "source": "뉴시스",
-          "url": "https://www.newsis.com/view/NISI20261123_0021542967",
-          "publishedAt": "2026-11-23T10:10:00.000Z",
+          "title": "US Sector Performance: Technology Leads Broad-Based Momentum Rebound as Nine Sectors Advance",
+          "source": "kalkine.com",
+          "url": "https://kalkine.com/news/premium/us-sector-performance-technology-leads-broad-based-momentum-rebound-as-nine-sectors-advance",
+          "publishedAt": "2026-11-25T15:20:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "“당장 1만원도 없는데”…생계비 30만원 먼저 준다(종합)",
-          "source": "이데일리",
-          "url": "https://www.edaily.co.kr/News/Read?newsId=02535446645648672&amp;mediaCodeNo=257",
-          "publishedAt": "2026-11-23T10:10:00.000Z",
+          "title": "Defensives Lead Sectors In Wednesday Trading As Growth Trails",
+          "source": "Benzinga",
+          "url": "https://www.benzinga.com/etfs/sector-etfs/26/11/63632400/defensives-lead-sectors-in-wednesday-trading-as-growth-trails",
+          "publishedAt": "2026-11-25T15:20:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "생계급여 기준 2030년 중위소득 35%로…기초생활보장 확대",
-        "source": "대한민국 정책브리핑",
-        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&amp;pWise=sub&amp;pWiseSub=R1",
-        "publishedAt": "2026-11-23T10:10:00.000Z",
+        "title": "QQQ traded across nearly $5. Why was Balance of Power near zero? for NASDAQ:QQQ by Investrade",
+        "source": "TradingView",
+        "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/",
+        "publishedAt": "2026-11-25T15:20:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-23T10:10:00.000Z",
-      "firstSeenAt": "2026-11-23T11:53:08.667Z",
-      "lastSeenAt": "2026-11-23T11:53:08.667Z",
-      "title": "중위소득",
-      "source": "대한민국 정책브리핑",
-      "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148976314&amp;pWise=sub&amp;pWiseSub=R1"
+      "publishedAt": "2026-11-25T15:20:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "qqq",
+      "source": "TradingView",
+      "url": "https://www.tradingview.com/chart/QQQ/5vID1i4D-QQQ-traded-across-nearly-5-Why-was-Balance-of-Power-near-zero/"
     },
     {
-      "id": "15ada9d8fb03b00f",
-      "issueKey": "이진우 유족",
-      "issueTitle": "이진우 유족",
-      "trendTitle": "이진우 유족",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "3655e28ba2c520d1",
+      "issueKey": "성시경",
+      "issueTitle": "성시경",
+      "trendTitle": "성시경",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "리트 만점자 유족 경찰 출석...\"증거제출 의사 확인\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0103_202611231745093682_005.html",
-          "publishedAt": "2026-11-23T10:10:00.000Z",
+          "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+          "source": "문화일보",
+          "url": "https://www.munhwa.com/article/11634103",
+          "publishedAt": "2026-11-25T15:00:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
-          "publishedAt": "2026-11-23T10:10:00.000Z",
+          "title": "[잇슈 컬처] 장성규·최수영·문상민, ‘2026 KBS 연기대상’ MC 호흡",
+          "source": "KBS 뉴스",
+          "url": "https://news.kbs.co.kr/news/view.do?ncd=8719552",
+          "publishedAt": "2026-11-25T15:00:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "‘리트 만점자’ 유족 경찰 출석…노트북 등 전자기기 확보되나",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12329355",
-          "publishedAt": "2026-11-23T10:10:00.000Z",
+          "title": "[공식] 신동엽·성시경·나연, ‘2026 KBS 연예대상’ MC 확정",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135087899/1",
+          "publishedAt": "2026-11-25T15:00:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "\"필요시 수능도 수사\"‥이진우 유족·과외교사도 부른다",
-        "source": "MBC 뉴스",
-        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html",
-        "publishedAt": "2026-11-23T10:10:00.000Z",
+        "title": "‘40돌’ KBS 연예대상, 신동엽·성시경·나연 MC 발탁",
+        "source": "문화일보",
+        "url": "https://www.munhwa.com/article/11634103",
+        "publishedAt": "2026-11-25T15:00:00.000Z",
+        "relevanceScore": 3
+      },
+      "publishedAt": "2026-11-25T15:00:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "성시경",
+      "source": "문화일보",
+      "url": "https://www.munhwa.com/article/11634103"
+    },
+    {
+      "id": "6c82c24828d23371",
+      "issueKey": "공포",
+      "issueTitle": "공포",
+      "trendTitle": "공포",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
+      "relevanceScore": 3,
+      "articleCount": 3,
+      "relatedArticles": [
+        {
+          "title": "업비트 종합지수 전주 대비 6.04% 하락…\"새 상장종목 대응전략 공유 활발\"",
+          "source": "빅데이터뉴스",
+          "url": "https://www.thebigdata.co.kr/view.php?ud=202611231439246548d0a8833aad_23",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 3
+        },
+        {
+          "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
+          "source": "코인리더스",
+          "url": "https://www.coinreaders.com/273266",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 2
+        },
+        {
+          "title": "[주간 디지털 자산 시장 브리핑] 업비트 지수 10.59% 하락, 거래대금은 21.47% 상승",
+          "source": "경향게임스",
+          "url": "https://www.khgames.co.kr/news/articleView.html?idxno=310539",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
+          "relevanceScore": 1
+        }
+      ],
+      "representativeArticle": {
+        "title": "공포·탐욕 지수 '극단적 공포'...암호화폐 6종, 90일간 12% 이상 급등",
+        "source": "코인리더스",
+        "url": "https://www.coinreaders.com/273266",
+        "publishedAt": "2026-11-25T14:40:00.000Z",
         "relevanceScore": 2
       },
-      "publishedAt": "2026-11-23T10:10:00.000Z",
-      "firstSeenAt": "2026-11-23T11:53:08.667Z",
-      "lastSeenAt": "2026-11-23T11:53:08.667Z",
-      "title": "이진우 유족",
-      "source": "MBC 뉴스",
-      "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867927_37004.html"
+      "publishedAt": "2026-11-25T14:40:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "공포",
+      "source": "코인리더스",
+      "url": "https://www.coinreaders.com/273266"
     },
     {
-      "id": "417cb219635bf2e5",
-      "issueKey": "이진관 판사",
-      "issueTitle": "이진관 판사",
-      "trendTitle": "이진관 판사",
-      "approxTraffic": "500+",
-      "trafficScore": 500,
+      "id": "072aa4531bf9cd48",
+      "issueKey": "김정화",
+      "issueTitle": "김정화",
+      "trendTitle": "유은성",
+      "approxTraffic": "200+",
+      "trafficScore": 200,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
-          "source": "JTBC",
-          "url": "https://news.jtbc.co.kr/article/NB12329370",
-          "publishedAt": "2026-11-23T09:40:00.000Z",
+          "title": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일",
+          "source": "머니투데이",
+          "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727",
+          "publishedAt": "2026-11-25T13:30:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "국힘, 이진관 법왜곡죄 고발 추진‥\"정의의 사도처럼 행동\"",
-          "source": "MBC 뉴스",
-          "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6867919_37004.html",
-          "publishedAt": "2026-11-23T09:40:00.000Z",
+          "title": "김정화, 남편과 뉴욕서 첫 부부싸움…경찰까지 출동했다",
+          "source": "뉴시스",
+          "url": "https://www.newsis.com/view/NISX20261125_0003882970",
+          "publishedAt": "2026-11-25T13:30:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "국힘, 이진관 판사 ‘법왜곡죄’ 고발 추진…“뭐 정의의 사도처럼 행동”",
-          "source": "한겨레",
-          "url": "https://www.hani.co.kr/arti/politics/assembly/1288598.html",
-          "publishedAt": "2026-11-23T09:40:00.000Z",
+          "title": "유은성 \"♥김정화와 뉴욕서 부부 싸움…한밤중 호텔 나가 경찰까지 와\"",
+          "source": "뉴스1",
+          "url": "https://www.news1.kr/entertain/celebrity-topic/6366117",
+          "publishedAt": "2026-11-25T13:30:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "국힘 ‘한덕수 재판’ 이진관 판사 ‘법왜곡죄’ 고발 추진…\"상급심서 결정 대부분 파기\"",
-        "source": "JTBC",
-        "url": "https://news.jtbc.co.kr/article/NB12329370",
-        "publishedAt": "2026-11-23T09:40:00.000Z",
+        "title": "김정화·유은성, 부부싸움에 경찰까지 출동…뉴욕서 무슨 일",
+        "source": "머니투데이",
+        "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727",
+        "publishedAt": "2026-11-25T13:30:00.000Z",
         "relevanceScore": 3
       },
-      "publishedAt": "2026-11-23T09:40:00.000Z",
-      "firstSeenAt": "2026-11-23T11:53:08.667Z",
-      "lastSeenAt": "2026-11-23T11:53:08.667Z",
-      "title": "이진관 판사",
-      "source": "JTBC",
-      "url": "https://news.jtbc.co.kr/article/NB12329370"
+      "publishedAt": "2026-11-25T13:30:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "김정화",
+      "source": "머니투데이",
+      "url": "https://www.mt.co.kr/entertainment/2026/11/25/2026112516172443727"
     },
     {
       "id": "eda7779dc5535c0e",
@@ -2116,96 +2068,96 @@
       "url": "https://www.donga.com/news/Politics/article/all/20261124/135077518/2"
     },
     {
-      "id": "5e22328c04870bb2",
-      "issueKey": "반도체 메모리",
-      "issueTitle": "반도체 메모리",
-      "trendTitle": "반도체 메모리",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "b81abb3ae1f8e650",
+      "issueKey": "양준혁",
+      "issueTitle": "양준혁",
+      "trendTitle": "양준혁",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "\"칩 장기 계약 10년 넘어 20년까지\"…메모리 반도체 '슈퍼을' 된다",
-          "source": "한국경제",
-          "url": "https://www.hankyung.com/article/2026112330656",
-          "publishedAt": "2026-11-23T10:40:00.000Z",
+          "title": "이벤트 원조 ‘자선야구대회’ 왜 멈춰섰나",
+          "source": "미주중앙일보",
+          "url": "https://www.koreadaily.com/article/20261125070147086",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "메리츠證 \"다양한 수요자들, 메모리 업체 대상 투자 등 협력 구상\"",
-          "source": "연합뉴스",
-          "url": "https://www.yna.co.kr/view/AKR20261123024200008",
-          "publishedAt": "2026-11-23T10:40:00.000Z",
+          "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
+          "source": "헤럴드경제",
+          "url": "https://biz.heraldcorp.com/article/10948394",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "손정의도 탐낸 하이닉스 메모리…20년치 물량 확보 나선 빅테크[클릭 e산업]",
-          "source": "아시아경제",
-          "url": "https://core.asiae.co.kr/article/2026112317430850505",
-          "publishedAt": "2026-11-23T10:40:00.000Z",
+          "title": "\"내 야구 인생의 자부심이었는데…\" 양준혁, 자선야구대회 취소에 삼킨 아쉬움",
+          "source": "노컷뉴스",
+          "url": "https://www.nocutnews.co.kr/news/6612161",
+          "publishedAt": "2026-11-25T14:40:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "반도체 메모리",
-        "source": "한국경제",
-        "url": "https://www.hankyung.com/article/2026112330656",
-        "publishedAt": "2026-11-23T10:40:00.000Z",
-        "relevanceScore": 3
+        "title": "양준혁, 자선야구대회 취소 입장문…“준비 부족해”",
+        "source": "헤럴드경제",
+        "url": "https://biz.heraldcorp.com/article/10948394",
+        "publishedAt": "2026-11-25T14:40:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-11-23T10:40:00.000Z",
-      "firstSeenAt": "2026-11-23T11:53:08.667Z",
-      "lastSeenAt": "2026-11-23T11:53:08.667Z",
-      "title": "반도체 메모리",
-      "source": "한국경제",
-      "url": "https://www.hankyung.com/article/2026112330656"
+      "publishedAt": "2026-11-25T14:40:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "양준혁",
+      "source": "헤럴드경제",
+      "url": "https://biz.heraldcorp.com/article/10948394"
     },
     {
-      "id": "65156bc7e7135885",
-      "issueKey": "딜라이트",
-      "issueTitle": "딜라이트",
-      "trendTitle": "딜라이트",
-      "approxTraffic": "200+",
-      "trafficScore": 200,
+      "id": "4151b1a5f934de72",
+      "issueKey": "지수",
+      "issueTitle": "박보검",
+      "trendTitle": "박보검",
+      "approxTraffic": "100+",
+      "trafficScore": 100,
       "relevanceScore": 3,
       "articleCount": 3,
       "relatedArticles": [
         {
-          "title": "[단독] '제우스' 최우제, T1 리턴 유력",
-          "source": "엑스포츠뉴스",
-          "url": "https://www.xportsnews.com/article/2220591",
-          "publishedAt": "2026-11-23T09:10:00.000Z",
+          "title": "사라진 고경표, 나타난 조진웅...연예인 직업의식은 어디에 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://www.ytn.co.kr/_ln/0134_202611251034284891",
+          "publishedAt": "2026-11-25T13:50:00.000Z",
           "relevanceScore": 3
         },
         {
-          "title": "‘제우스’ T1 복귀 유력…로치 감독·엄티 코치까지 재편 본격화",
-          "source": "진일보 | 전남일보",
-          "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000083953",
-          "publishedAt": "2026-11-23T09:10:00.000Z",
+          "title": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
+          "source": "조선일보",
+          "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/",
+          "publishedAt": "2026-11-25T13:50:00.000Z",
           "relevanceScore": 2
         },
         {
-          "title": "[소식통] '제우스' 최우제, T1과 3년 계약 합의",
-          "source": "Sheep Esports",
-          "url": "https://www.sheepesports.com/kr/articles/sources-zeus-set-to-return-to-t1-ahead-of-lck-2027/kr",
-          "publishedAt": "2026-11-23T09:10:00.000Z",
+          "title": "박보검 이번엔 통영 바닷가로…‘보검 매직컬2’ 촬영지 관심",
+          "source": "스포츠동아",
+          "url": "https://sports.donga.com/ent/article/all/20261125/135079946/1",
+          "publishedAt": "2026-11-25T13:50:00.000Z",
           "relevanceScore": 1
         }
       ],
       "representativeArticle": {
-        "title": "딜라이트",
-        "source": "엑스포츠뉴스",
-        "url": "https://www.xportsnews.com/article/2220591",
-        "publishedAt": "2026-11-23T09:10:00.000Z",
-        "relevanceScore": 3
+        "title": "'만취 음주운전' 고경표 하차에 박보검도 대책 세웠다..지수·안은진 투입(보검매직컬2)",
+        "source": "조선일보",
+        "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/",
+        "publishedAt": "2026-11-25T13:50:00.000Z",
+        "relevanceScore": 2
       },
-      "publishedAt": "2026-11-23T09:10:00.000Z",
-      "firstSeenAt": "2026-11-23T11:53:08.667Z",
-      "lastSeenAt": "2026-11-23T11:53:08.667Z",
-      "title": "딜라이트",
-      "source": "엑스포츠뉴스",
-      "url": "https://www.xportsnews.com/article/2220591"
+      "publishedAt": "2026-11-25T13:50:00.000Z",
+      "firstSeenAt": "2026-11-25T16:52:48.222Z",
+      "lastSeenAt": "2026-11-25T16:52:48.222Z",
+      "title": "박보검",
+      "source": "조선일보",
+      "url": "https://www.chosun.com/entertainments/broadcast/2026/11/25/MNSDEYRZMQ2DKYRUHAYDANRWHA/"
     },
     {
       "id": "bf57657e3ae04772",
@@ -2298,52 +2250,6 @@
       "title": "경남도",
       "source": "뉴스1",
       "url": "https://www.news1.kr/local/busan-gyeongnam/6364768"
-    },
-    {
-      "id": "2c1c43c97aaddac3",
-      "issueKey": "정치",
-      "issueTitle": "정치",
-      "trendTitle": "정치",
-      "approxTraffic": "100+",
-      "trafficScore": 100,
-      "relevanceScore": 3,
-      "articleCount": 3,
-      "relatedArticles": [
-        {
-          "title": "직접 등판한 장동혁 \"돌아오면 또 제명\"...한동훈 \"조작 인정\"",
-          "source": "YTN",
-          "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html",
-          "publishedAt": "2026-11-24T18:50:00.000Z",
-          "relevanceScore": 3
-        },
-        {
-          "title": "“컨설팅비 10억 요구 거부에 허위 폭로” 장동혁 측 징계 논란 역공… 갈등 확산",
-          "source": "동아일보",
-          "url": "https://www.donga.com/news/Politics/article/all/20261125/135084474/2",
-          "publishedAt": "2026-11-24T18:50:00.000Z",
-          "relevanceScore": 2
-        },
-        {
-          "title": "국민의힘 당권파 \"윤리위원 측, 자문료 요구\" vs. 친한계 \"핵심은 불법 개입\"",
-          "source": "조선일보",
-          "url": "https://www.chosun.com/politics/assembly/2026/11/24/Y5YJ5X4GLBBYXIKZCMFQZR5BDI/",
-          "publishedAt": "2026-11-24T18:50:00.000Z",
-          "relevanceScore": 1
-        }
-      ],
-      "representativeArticle": {
-        "title": "정치",
-        "source": "YTN",
-        "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html",
-        "publishedAt": "2026-11-24T18:50:00.000Z",
-        "relevanceScore": 3
-      },
-      "publishedAt": "2026-11-24T18:50:00.000Z",
-      "firstSeenAt": "2026-11-24T19:58:18.998Z",
-      "lastSeenAt": "2026-11-24T19:58:18.998Z",
-      "title": "정치",
-      "source": "YTN",
-      "url": "https://www.ytn.co.kr/_cs/_ln_0101_202611242335111970_005.html"
     }
   ]
 }
