@@ -3,20 +3,29 @@
   "type": "free-games-and-issues",
   "source": "Epic Games Store + Ruliweb BEST 뉴스 + Inven 주요뉴스",
   "sourceMode": "official-store-api+html",
-  "lastUpdatedAt": "2026-11-26T11:56:42.005Z",
+  "lastUpdatedAt": "2026-11-26T21:11:25.579Z",
   "title": "에픽게임즈 이주의 무료게임",
   "description": "Epic Games Store KR 무료 배포와 루리웹·인벤 인기 게임 이슈를 함께 보여줍니다.",
   "sourceUrl": "https://store.epicgames.com/ko/free-games",
-  "itemCount": 1,
+  "itemCount": 2,
   "offers": [
     {
-      "id": "1f9a12b06b4f437790b6913ad136a08c",
-      "title": "Mark of the Deep",
-      "seller": "Light Up Games",
-      "url": "https://store.epicgames.com/ko/p/mark-of-the-deep-f7dc08",
-      "imageUrl": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-1lope.png",
-      "originalPriceLabel": "₩33,500",
-      "freeUntil": "2026-11-26T16:00:00.000Z"
+      "id": "0623017cf9f341efbe07557f46beb4e8",
+      "title": "파이어스톤  - 방치 클릭커 온라인 RPG",
+      "seller": "AM Holyday Studios Ltd",
+      "url": "https://store.epicgames.com/ko/p/firestone-online-idle-rpg-bfd04b",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-1mezm.jpg",
+      "originalPriceLabel": "0",
+      "freeUntil": "2026-12-03T16:00:00.000Z"
+    },
+    {
+      "id": "f0a333114190492c84a9decd2bb43875",
+      "title": "Bread and Fred",
+      "seller": "Atari",
+      "url": "https://store.epicgames.com/ko/p/bread-and-fred-1db362",
+      "imageUrl": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-pr4o2.jpg",
+      "originalPriceLabel": "₩15,300",
+      "freeUntil": "2026-12-03T16:00:00.000Z"
     }
   ],
   "issues": {
@@ -33,7 +42,7 @@
         {
           "title": "고전 명작의 감동을 다시금, ‘파랜드 사가’ 30주년 기념 프로젝트 예고",
           "url": "https://bbs.ruliweb.com/news/read/232240",
-          "meta": "댓글 86"
+          "meta": "댓글 91"
         },
         {
           "title": "정식 서비스 시점의 BM과 이벤트 그리고 변화점은? - 아주르 프로밀리아 프리뷰 방송",
@@ -43,7 +52,7 @@
         {
           "title": "젠슨 황, 엔비디아 대표 겸 CEO로 빠른 복귀",
           "url": "https://bbs.ruliweb.com/news/read/232285",
-          "meta": "댓글 62"
+          "meta": "댓글 64"
         },
         {
           "title": "신규 캐릭터와 콘텐츠 추가, '보이드 다이버' 내년 1월 20일 정식 출시 확정",
@@ -60,27 +69,27 @@
         {
           "title": "바엘과 각성 파이 합류! 회랑 추가와 1.5주년 대향연 이벤트도 진행",
           "url": "https://www.inven.co.kr/webzine/news/?news=323896",
-          "meta": "세븐나이츠 리버스 · 2시간 전"
+          "meta": "세븐나이츠 리버스 · 11시간 전"
         },
         {
           "title": "한화생명, '기인' 김기인 영입, '기-캐-제' 상체 완성",
           "url": "https://www.inven.co.kr/webzine/news/?news=323897",
-          "meta": "리그 오브 레전드 · 2시간 전"
+          "meta": "리그 오브 레전드 · 12시간 전"
         },
         {
           "title": "랜서 육성에는 호평! 전환은 조금 고민, 에피소드 2 이후 반응은",
           "url": "https://www.inven.co.kr/webzine/news/?news=323887",
-          "meta": "솔: 인챈트 · 3시간 전"
+          "meta": "솔: 인챈트 · 12시간 전"
         },
         {
           "title": "더비 경기 스페셜 리스트는? DR 클래스 추가, 26KB도 업데이트",
           "url": "https://www.inven.co.kr/webzine/news/?news=323894",
-          "meta": "FC 온라인 · 4시간 전"
+          "meta": "FC 온라인 · 13시간 전"
         },
         {
           "title": "오투잼, 신예 아티스트 신곡 5곡 업데이트",
           "url": "https://www.inven.co.kr/webzine/news/?news=323892",
-          "meta": "오투잼 : 더 비기닝 · 5시간 전"
+          "meta": "오투잼 : 더 비기닝 · 14시간 전"
         }
       ]
     }
@@ -90,7 +99,7 @@
       "key": "epic-free-games",
       "source": "Epic Games Store",
       "ok": true,
-      "itemCount": 1
+      "itemCount": 2
     },
     {
       "key": "ruliweb-issues",
